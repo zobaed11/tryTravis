@@ -1,0 +1,113 @@
+1
+japan|.|bbc_business_071.txt|.|2|.|bbc_business_335.txt|.|7|.|bbc_business_283.txt|.|3|.|bbc_business_156.txt|.|2|.|bbc_business_295.txt|.|2|.|bbc_business_037.txt|.|3|.|bbc_business_110.txt|.|1|.|bbc_business_234.txt|.|3|.|bbc_business_287.txt|.|11
+complaint filing|.|bbc_business_475.txt|.|1
+ntpc|.|bbc_business_276.txt|.|5
+retirement age|.|bbc_business_382.txt|.|4
+fuel tax|.|bbc_business_075.txt|.|2
+executives have pleaded|.|bbc_business_060.txt|.|1
+two companies|.|bbc_business_451.txt|.|2|.|bbc_business_113.txt|.|2
+pact|.|bbc_business_457.txt|.|6
+called a truce|.|bbc_business_413.txt|.|1
+customs|.|bbc_business_446.txt|.|5
+meeting|.|bbc_business_383.txt|.|3|.|bbc_business_496.txt|.|2|.|bbc_business_065.txt|.|3|.|bbc_business_486.txt|.|3|.|bbc_business_075.txt|.|2|.|bbc_business_008.txt|.|4
+marsh|.|bbc_business_333.txt|.|8|.|bbc_business_265.txt|.|8|.|bbc_business_401.txt|.|7
+falic|.|bbc_business_510.txt|.|3
+chaos|.|bbc_business_348.txt|.|4
+pace|.|bbc_business_052.txt|.|2
+italian carmaker|.|bbc_business_148.txt|.|2
+dortmund posted|.|bbc_business_193.txt|.|1
+absa said|.|bbc_business_218.txt|.|2
+rover|.|bbc_business_034.txt|.|8
+anil|.|bbc_business_379.txt|.|4
+us mortgage|.|bbc_business_298.txt|.|2|.|bbc_business_326.txt|.|2
+gun|.|bbc_business_390.txt|.|7
+circuit|.|bbc_business_070.txt|.|5
+cut|.|bbc_business_281.txt|.|4|.|bbc_business_027.txt|.|2|.|bbc_business_394.txt|.|1|.|bbc_business_278.txt|.|1|.|bbc_business_041.txt|.|3|.|bbc_business_099.txt|.|3|.|bbc_business_038.txt|.|1|.|bbc_business_443.txt|.|1|.|bbc_business_204.txt|.|2|.|bbc_business_098.txt|.|1|.|bbc_business_297.txt|.|1|.|bbc_business_180.txt|.|1|.|bbc_business_206.txt|.|3
+american express|.|bbc_business_280.txt|.|4
+alleged|.|bbc_business_113.txt|.|1
+crops|.|bbc_business_009.txt|.|2
+two|.|bbc_business_340.txt|.|3|.|bbc_business_478.txt|.|3|.|bbc_business_451.txt|.|3|.|bbc_business_379.txt|.|2|.|bbc_business_113.txt|.|2|.|bbc_business_207.txt|.|3
+schroeder|.|bbc_business_457.txt|.|6
+charged nine|.|bbc_business_448.txt|.|1
+deluxe|.|bbc_business_021.txt|.|3
+tsunami|.|bbc_business_398.txt|.|4|.|bbc_business_411.txt|.|4|.|bbc_business_228.txt|.|2|.|bbc_business_471.txt|.|3
+promote|.|bbc_business_357.txt|.|1|.|bbc_business_443.txt|.|2
+khatami|.|bbc_business_412.txt|.|4
+worries|.|bbc_business_383.txt|.|1
+saab factory|.|bbc_business_149.txt|.|2
+axa sun life|.|bbc_business_281.txt|.|2
+attack|.|bbc_business_191.txt|.|2
+reported|.|bbc_business_310.txt|.|3|.|bbc_business_079.txt|.|3|.|bbc_business_203.txt|.|2
+currency|.|bbc_business_496.txt|.|3|.|bbc_business_372.txt|.|4|.|bbc_business_018.txt|.|3
+times reported|.|bbc_business_203.txt|.|2
+bought|.|bbc_business_003.txt|.|2|.|bbc_business_435.txt|.|5|.|bbc_business_314.txt|.|3|.|bbc_business_230.txt|.|2|.|bbc_business_510.txt|.|2
+saud|.|bbc_business_043.txt|.|2
+accused|.|bbc_business_357.txt|.|2|.|bbc_business_133.txt|.|2|.|bbc_business_102.txt|.|2
+union|.|bbc_business_394.txt|.|2|.|bbc_business_441.txt|.|2|.|bbc_business_146.txt|.|2|.|bbc_business_172.txt|.|1|.|bbc_business_277.txt|.|2|.|bbc_business_446.txt|.|2
+intellectual|.|bbc_business_342.txt|.|2
+services|.|bbc_business_021.txt|.|2
+frankfurt|.|bbc_business_064.txt|.|1
+swiss re|.|bbc_business_346.txt|.|3|.|bbc_business_311.txt|.|3
+theft|.|bbc_business_185.txt|.|3|.|bbc_business_079.txt|.|4
+libya|.|bbc_business_301.txt|.|3
+annual sales|.|bbc_business_155.txt|.|2
+face charges|.|bbc_business_448.txt|.|1
+charm|.|bbc_business_277.txt|.|2
+eli lilly|.|bbc_business_449.txt|.|2
+speech|.|bbc_business_002.txt|.|2
+ask jeeves|.|bbc_business_011.txt|.|4
+detained|.|bbc_business_338.txt|.|2
+standard chartered|.|bbc_business_409.txt|.|13
+jeeves|.|bbc_business_011.txt|.|4
+insurance|.|bbc_business_333.txt|.|4|.|bbc_business_265.txt|.|4|.|bbc_business_060.txt|.|3|.|bbc_business_353.txt|.|1|.|bbc_business_232.txt|.|5|.|bbc_business_088.txt|.|4
+southwest|.|bbc_business_466.txt|.|5
+inhibitors|.|bbc_business_191.txt|.|4
+restate its earnings|.|bbc_business_326.txt|.|2
+wall street|.|bbc_business_134.txt|.|2|.|bbc_business_386.txt|.|2|.|bbc_business_464.txt|.|3
+blamed the us|.|bbc_business_089.txt|.|1
+fuel|.|bbc_business_466.txt|.|5|.|bbc_business_004.txt|.|8|.|bbc_business_065.txt|.|5|.|bbc_business_012.txt|.|7|.|bbc_business_075.txt|.|6|.|bbc_business_499.txt|.|2
+iressa|.|bbc_business_309.txt|.|3
+executive pleading guilty|.|bbc_business_060.txt|.|1
+fannie|.|bbc_business_298.txt|.|7|.|bbc_business_326.txt|.|11
+rupee|.|bbc_business_018.txt|.|4
+plead|.|bbc_business_060.txt|.|1
+members|.|bbc_business_237.txt|.|8|.|bbc_business_151.txt|.|2
+owns|.|bbc_business_293.txt|.|1
+traffic|.|bbc_business_461.txt|.|2
+suspend|.|bbc_business_432.txt|.|3
+total claims|.|bbc_business_346.txt|.|2
+making|.|bbc_business_111.txt|.|2|.|bbc_business_149.txt|.|1
+executives|.|bbc_business_122.txt|.|3|.|bbc_business_465.txt|.|2|.|bbc_business_037.txt|.|3|.|bbc_business_060.txt|.|2|.|bbc_business_326.txt|.|2|.|bbc_business_445.txt|.|2
+swap|.|bbc_business_093.txt|.|2
+surge|.|bbc_business_045.txt|.|2|.|bbc_business_450.txt|.|2|.|bbc_business_408.txt|.|1
+european|.|bbc_business_496.txt|.|2|.|bbc_business_135.txt|.|2|.|bbc_business_065.txt|.|3|.|bbc_business_436.txt|.|2|.|bbc_business_262.txt|.|2|.|bbc_business_146.txt|.|8|.|bbc_business_215.txt|.|3|.|bbc_business_183.txt|.|2|.|bbc_business_075.txt|.|2|.|bbc_business_382.txt|.|2|.|bbc_business_441.txt|.|2|.|bbc_business_149.txt|.|8|.|bbc_business_319.txt|.|1|.|bbc_business_413.txt|.|4|.|bbc_business_467.txt|.|3|.|bbc_business_172.txt|.|4|.|bbc_business_277.txt|.|5|.|bbc_business_494.txt|.|3|.|bbc_business_446.txt|.|2|.|bbc_business_113.txt|.|3|.|bbc_business_089.txt|.|6
+six zeros off lira|.|bbc_business_257.txt|.|1
+office said|.|bbc_business_446.txt|.|2
+largest power|.|bbc_business_276.txt|.|2
+quiksilver|.|bbc_business_373.txt|.|4
+munich|.|bbc_business_262.txt|.|2|.|bbc_business_346.txt|.|2
+customers in january|.|bbc_business_234.txt|.|2
+clinical|.|bbc_business_309.txt|.|2
+forthcoming|.|bbc_business_335.txt|.|2
+university|.|bbc_business_414.txt|.|2
+policies|.|bbc_business_281.txt|.|4|.|bbc_business_206.txt|.|4
+tonnes of lng|.|bbc_business_158.txt|.|2
+laura|.|bbc_business_393.txt|.|7
+times|.|bbc_business_051.txt|.|2|.|bbc_business_346.txt|.|2|.|bbc_business_203.txt|.|3
+federated|.|bbc_business_155.txt|.|5
+land|.|bbc_business_388.txt|.|10|.|bbc_business_029.txt|.|5|.|bbc_business_248.txt|.|2
+friday|.|bbc_business_202.txt|.|2|.|bbc_business_093.txt|.|2|.|bbc_business_374.txt|.|2
+federal budget|.|bbc_business_328.txt|.|2
+italian|.|bbc_business_052.txt|.|1|.|bbc_business_359.txt|.|2|.|bbc_business_148.txt|.|2|.|bbc_business_468.txt|.|3|.|bbc_business_312.txt|.|4|.|bbc_business_048.txt|.|5
+opening|.|bbc_business_377.txt|.|2
+sahara|.|bbc_business_380.txt|.|2
+leave aer lingus|.|bbc_business_445.txt|.|2
+investor|.|bbc_business_470.txt|.|2
+qatar|.|bbc_business_158.txt|.|3
+inflate|.|bbc_business_448.txt|.|2
+mr glazer|.|bbc_business_293.txt|.|3|.|bbc_business_224.txt|.|4|.|bbc_business_229.txt|.|6|.|bbc_business_242.txt|.|6|.|bbc_business_209.txt|.|6
+fraudsters|.|bbc_business_236.txt|.|4
+ten former|.|bbc_business_403.txt|.|2
+machines|.|bbc_business_123.txt|.|2
+parmalat|.|bbc_business_492.txt|.|3|.|bbc_business_017.txt|.|2|.|bbc_business_458.txt|.|7|.|bbc_business_312.txt|.|6|.|bbc_business_048.txt|.|7
+wall|.|bbc_business_134.txt|.|2|.|bbc_business_386.txt|.|2|.|bbc_business_464.txt|.|3

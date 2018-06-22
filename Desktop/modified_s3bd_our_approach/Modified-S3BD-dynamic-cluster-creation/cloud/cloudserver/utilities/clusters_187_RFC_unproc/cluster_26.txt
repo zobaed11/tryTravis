@@ -1,0 +1,120 @@
+listed directory|.|rfc3659.txt|.|6
+affecting mars cluster|.|rfc2121.txt|.|12
+geopriv location|.|rfc4119.txt|.|26|.|rfc4079.txt|.|6
+command at host|.|rfc452.txt|.|15
+moments in networking|.|rfc89.txt|.|8
+speech interface|.|rfc4267.txt|.|13
+reservation flow|.|rfc4495.txt|.|9|.|rfc3524.txt|.|13
+objective|.|rfc5541.txt|.|145|.|rfc4565.txt|.|43|.|rfc6006.txt|.|18
+sockets api|.|rfc2292.txt|.|76
+server identifier|.|rfc5107.txt|.|21
+data reconfiguration service rfc|.|rfc194.txt|.|17
+schnizlein|.|rfc4014.txt|.|10
+directory services|.|rfc3707.txt|.|13|.|rfc3944.txt|.|51|.|rfc2589.txt|.|19
+crozier|.|rfc4744.txt|.|12
+operational attributes|.|rfc3673.txt|.|19|.|rfc4512.txt|.|19
+data interchange|.|rfc5402.txt|.|5|.|rfc2849.txt|.|17|.|rfc6017.txt|.|6
+gateways|.|rfc5625.txt|.|13|.|rfc2480.txt|.|16|.|rfc4161.txt|.|15
+proxy authorization|.|rfc4370.txt|.|20
+dynamic extensions|.|rfc2589.txt|.|12
+technical publisher|.|rfc4714.txt|.|118
+instant message|.|rfc5438.txt|.|10|.|rfc2778.txt|.|41|.|rfc2779.txt|.|23
+access protocol|.|rfc3672.txt|.|8|.|rfc6171.txt|.|7|.|rfc4324.txt|.|134|.|rfc4510.txt|.|13|.|rfc3876.txt|.|7|.|rfc4515.txt|.|9|.|rfc2172.txt|.|3|.|rfc3494.txt|.|8|.|rfc4532.txt|.|9|.|rfc4469.txt|.|6|.|rfc4524.txt|.|12|.|rfc4370.txt|.|8|.|rfc3829.txt|.|7|.|rfc3673.txt|.|7|.|rfc4528.txt|.|7|.|rfc3671.txt|.|8|.|rfc4522.txt|.|11|.|rfc4531.txt|.|7|.|rfc1960.txt|.|2|.|rfc4514.txt|.|11|.|rfc3088.txt|.|6|.|rfc3698.txt|.|5|.|rfc4527.txt|.|12|.|rfc520.txt|.|14|.|rfc5020.txt|.|10|.|rfc4521.txt|.|14|.|rfc3691.txt|.|3|.|rfc3771.txt|.|7|.|rfc4526.txt|.|10|.|rfc5805.txt|.|11|.|rfc4516.txt|.|10|.|rfc3377.txt|.|13|.|rfc3909.txt|.|9|.|rfc4530.txt|.|7|.|rfc535.txt|.|5|.|rfc4520.txt|.|10|.|rfc2175.txt|.|6|.|rfc4525.txt|.|9|.|rfc552.txt|.|2|.|rfc4529.txt|.|11|.|rfc3674.txt|.|7|.|rfc3352.txt|.|10|.|rfc4512.txt|.|14
+backbone routing|.|rfc2772.txt|.|16
+master replication|.|rfc3384.txt|.|1
+diameter client|.|rfc4740.txt|.|150
+kdf|.|rfc5295.txt|.|30|.|rfc5869.txt|.|18
+address sharing|.|rfc6269.txt|.|89
+improved network|.|rfc381.txt|.|4
+moore|.|rfc2047.txt|.|18|.|rfc2456.txt|.|26|.|rfc4429.txt|.|19|.|rfc2584.txt|.|26|.|rfc2561.txt|.|59|.|rfc2457.txt|.|32|.|rfc2184.txt|.|13|.|rfc2455.txt|.|147|.|rfc2232.txt|.|25|.|rfc3834.txt|.|28|.|rfc4334.txt|.|13|.|rfc3056.txt|.|25|.|rfc2231.txt|.|14|.|rfc3670.txt|.|102|.|rfc3460.txt|.|97|.|rfc2964.txt|.|10
+lincoln labs|.|rfc198.txt|.|2
+network mailing lists|.|rfc303.txt|.|11|.|rfc155.txt|.|5|.|rfc300.txt|.|9|.|rfc168.txt|.|7|.|rfc211.txt|.|13
+isode|.|rfc2293.txt|.|2|.|rfc2164.txt|.|2|.|rfc5803.txt|.|2
+selection criteria|.|rfc3571.txt|.|32
+use of imp ddt|.|rfc521.txt|.|3
+schemas september|.|rfc2926.txt|.|26
+confidentiality|.|rfc3384.txt|.|16|.|rfc2228.txt|.|20|.|rfc5520.txt|.|31|.|rfc5275.txt|.|45|.|rfc3711.txt|.|19
+rijhsinghani standards|.|rfc4404.txt|.|33
+syslog|.|rfc5426.txt|.|66|.|rfc5674.txt|.|27|.|rfc5425.txt|.|67|.|rfc3164.txt|.|143|.|rfc5427.txt|.|32|.|rfc5424.txt|.|190|.|rfc5676.txt|.|99|.|rfc5675.txt|.|86|.|rfc5848.txt|.|151|.|rfc6012.txt|.|69|.|rfc3195.txt|.|102
+type parameter|.|rfc2426.txt|.|26
+switching protocol|.|rfc333.txt|.|31
+concatenated|.|rfc4454.txt|.|15
+lear|.|rfc4450.txt|.|13|.|rfc3617.txt|.|9|.|rfc4833.txt|.|12
+indicated to us|.|rfc334.txt|.|2
+multiple control|.|rfc21.txt|.|2
+information in the content|.|rfc2425.txt|.|2
+mime directory profile for ldap|.|rfc2927.txt|.|10
+intermediate response|.|rfc3771.txt|.|14
+outstanding|.|rfc3909.txt|.|9
+caller preferences|.|rfc4596.txt|.|84|.|rfc3841.txt|.|52
+launch|.|rfc3165.txt|.|49|.|rfc2592.txt|.|31
+incremental cgn|.|rfc6264.txt|.|32
+rtp topologies|.|rfc5117.txt|.|21
+leaf|.|rfc6110.txt|.|82|.|rfc6095.txt|.|242
+mapos address|.|rfc3422.txt|.|28
+protection link|.|rfc4426.txt|.|46
+data rates|.|rfc4963.txt|.|12
+area directory|.|rfc2969.txt|.|19
+aes key|.|rfc5649.txt|.|40|.|rfc3962.txt|.|15
+wdsps|.|rfc2969.txt|.|21
+preventing the million|.|rfc3218.txt|.|7
+applocalindex|.|rfc3729.txt|.|31
+controls|.|rfc4527.txt|.|34
+replica|.|rfc3384.txt|.|71
+assertion control|.|rfc4528.txt|.|16
+responders|.|rfc2165.txt|.|21
+ldap|.|rfc4876.txt|.|44|.|rfc2927.txt|.|19|.|rfc2820.txt|.|19|.|rfc4523.txt|.|51|.|rfc3384.txt|.|54|.|rfc3112.txt|.|17|.|rfc2307.txt|.|51|.|rfc4519.txt|.|64|.|rfc4524.txt|.|29|.|rfc3829.txt|.|10|.|rfc2829.txt|.|50|.|rfc3383.txt|.|64|.|rfc4511.txt|.|114|.|rfc2926.txt|.|122|.|rfc3727.txt|.|6|.|rfc4403.txt|.|61|.|rfc2654.txt|.|21|.|rfc3045.txt|.|20|.|rfc2596.txt|.|21|.|rfc1960.txt|.|9|.|rfc3062.txt|.|16|.|rfc4373.txt|.|71|.|rfc2696.txt|.|15|.|rfc2849.txt|.|25|.|rfc1959.txt|.|33|.|rfc4521.txt|.|84|.|rfc2798.txt|.|25|.|rfc2255.txt|.|78|.|rfc2649.txt|.|64|.|rfc3771.txt|.|48|.|rfc3712.txt|.|56|.|rfc4513.txt|.|141|.|rfc4516.txt|.|110|.|rfc3928.txt|.|90|.|rfc4533.txt|.|82|.|rfc2254.txt|.|22|.|rfc3687.txt|.|64|.|rfc2891.txt|.|12|.|rfc2830.txt|.|35
+describing|.|rfc2418.txt|.|2|.|rfc2411.txt|.|8|.|rfc2533.txt|.|45|.|rfc2913.txt|.|7|.|rfc2738.txt|.|6|.|rfc2912.txt|.|9
+default data|.|rfc6243.txt|.|48
+cnodder|.|rfc2963.txt|.|26|.|rfc4672.txt|.|27
+collective attributes|.|rfc3671.txt|.|37
+cluster problem|.|rfc6027.txt|.|12
+directories from dns|.|rfc2517.txt|.|7
+signed operation|.|rfc2649.txt|.|1
+ldap data|.|rfc2849.txt|.|17
+update message|.|rfc2909.txt|.|55|.|rfc4866.txt|.|145|.|rfc5555.txt|.|24
+ldif|.|rfc2849.txt|.|35
+ftp commands|.|rfc3659.txt|.|13|.|rfc532.txt|.|2
+mailbox database protocol|.|rfc3656.txt|.|19
+sync|.|rfc3928.txt|.|82|.|rfc6138.txt|.|13|.|rfc4533.txt|.|165
+search operation|.|rfc4529.txt|.|4
+server associates|.|rfc4532.txt|.|3
+idn next|.|rfc4690.txt|.|36
+schemas|.|rfc2926.txt|.|33
+configuration schema|.|rfc4876.txt|.|40
+week|.|rfc404.txt|.|2|.|rfc405.txt|.|2
+openldap foundation|.|rfc4532.txt|.|4|.|rfc4529.txt|.|4|.|rfc4514.txt|.|2|.|rfc4526.txt|.|4|.|rfc3674.txt|.|4|.|rfc3673.txt|.|4|.|rfc3352.txt|.|2
+timestamps|.|rfc6191.txt|.|52|.|rfc3763.txt|.|4
+profile for ldap schema|.|rfc2927.txt|.|10
+outbound route filtering|.|rfc5291.txt|.|17
+transparency february|.|rfc2775.txt|.|17
+communications corp|.|rfc2255.txt|.|3
+proferred|.|rfc143.txt|.|8
+peer server|.|rfc5353.txt|.|34
+root key|.|rfc5749.txt|.|25|.|rfc5295.txt|.|59
+services december|.|rfc3944.txt|.|29
+directories|.|rfc3296.txt|.|19|.|rfc3254.txt|.|13|.|rfc2517.txt|.|10
+result from tisdag|.|rfc2970.txt|.|18
+ftp comments and response|.|rfc463.txt|.|3
+bind operation|.|rfc3829.txt|.|7
+interchange format|.|rfc2849.txt|.|20
+nsis signaling|.|rfc5980.txt|.|54
+address map|.|rfc4008.txt|.|42
+macro|.|rfc2074.txt|.|36|.|rfc2579.txt|.|10
+snell|.|rfc4685.txt|.|14|.|rfc4946.txt|.|10
+referral object|.|rfc3296.txt|.|39
+previous|.|rfc6259.txt|.|2|.|rfc2165.txt|.|25|.|rfc4141.txt|.|4
+rtp connection|.|rfc2238.txt|.|52
+false|.|rfc4526.txt|.|15|.|rfc4367.txt|.|24
+saleem|.|rfc5707.txt|.|189
+adsp|.|rfc5617.txt|.|131
+template type|.|rfc2609.txt|.|1|.|rfc2656.txt|.|35
+adsl line mib|.|rfc2662.txt|.|119
+transition plan|.|rfc5211.txt|.|18
+conventional|.|rfc2377.txt|.|7
+aaa protocol|.|rfc2903.txt|.|26|.|rfc3127.txt|.|107|.|rfc3169.txt|.|88
+corresponding|.|rfc71.txt|.|2
+location protocol|.|rfc2610.txt|.|13|.|rfc3059.txt|.|7|.|rfc3224.txt|.|6|.|rfc3111.txt|.|20|.|rfc2165.txt|.|96|.|rfc3528.txt|.|21|.|rfc3421.txt|.|3
+profile for ldap|.|rfc2927.txt|.|10
+netscape communications corp|.|rfc2255.txt|.|3|.|rfc2254.txt|.|2
+multi master|.|rfc3384.txt|.|2

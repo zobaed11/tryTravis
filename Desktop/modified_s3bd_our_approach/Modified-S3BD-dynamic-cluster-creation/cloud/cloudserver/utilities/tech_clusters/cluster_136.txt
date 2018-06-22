@@ -1,0 +1,17 @@
+136
+online buying|.|235.txt|.|1
+online role playing|.|401.txt|.|4
+consumed|.|401.txt|.|1
+playing games|.|401.txt|.|4
+pictures online|.|278.txt|.|2
+commons|.|191.txt|.|6
+mmorpg|.|401.txt|.|5
+debate|.|191.txt|.|5
+public debate|.|191.txt|.|3
+online role|.|401.txt|.|4
+encourage|.|191.txt|.|2
+buying gifts|.|235.txt|.|1
+role playing games|.|401.txt|.|3
+ippr|.|191.txt|.|4
+online|.|221.txt|.|5|.|162.txt|.|2|.|046.txt|.|2|.|401.txt|.|22|.|369.txt|.|4|.|232.txt|.|1|.|035.txt|.|5|.|248.txt|.|2|.|278.txt|.|6|.|044.txt|.|2|.|157.txt|.|3|.|031.txt|.|8|.|265.txt|.|5|.|150.txt|.|5|.|324.txt|.|2|.|114.txt|.|3|.|191.txt|.|15|.|235.txt|.|15|.|392.txt|.|5|.|205.txt|.|4|.|348.txt|.|2|.|149.txt|.|2
+gifts|.|235.txt|.|1

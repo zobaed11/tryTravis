@@ -1,0 +1,17 @@
+65
+boxes|.|124.txt|.|8
+dvr|.|216.txt|.|4
+dry yeast|.|bread.txt|.|5
+metal slug|.|233.txt|.|4|.|169.txt|.|4
+said mr owen|.|071.txt|.|2
+home computers|.|128.txt|.|1|.|374.txt|.|1|.|177.txt|.|1|.|292.txt|.|1
+bank|.|033.txt|.|3|.|164.txt|.|8
+cellery worm|.|272.txt|.|2
+online journalists|.|324.txt|.|2|.|035.txt|.|2|.|044.txt|.|2
+brand name|.|209.txt|.|2
+google has shown|.|267.txt|.|2
+cholesterol|.|blood.txt|.|8
+threat|.|284.txt|.|2
+desktop pcs|.|108.txt|.|2
+darfur|.|223.txt|.|3
+coming|.|170.txt|.|2

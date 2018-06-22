@@ -1,0 +1,17 @@
+13
+images|.|103.txt|.|6|.|388.txt|.|6|.|240.txt|.|3
+apple over ipod|.|148.txt|.|1
+podcasting|.|110.txt|.|8
+mr irish|.|127.txt|.|6|.|172.txt|.|6
+double|.|181.txt|.|2|.|242.txt|.|2
+mr curry|.|110.txt|.|5
+digital music|.|128.txt|.|2|.|332.txt|.|6|.|374.txt|.|2|.|279.txt|.|2|.|302.txt|.|2|.|040.txt|.|6
+show|.|127.txt|.|3|.|172.txt|.|3|.|347.txt|.|12
+fbi|.|039.txt|.|5|.|334.txt|.|5
+minis|.|127.txt|.|2|.|172.txt|.|2
+music players|.|332.txt|.|4|.|040.txt|.|4|.|148.txt|.|3
+patent lawsuits|.|029.txt|.|2
+ipod minis|.|127.txt|.|2|.|172.txt|.|2
+officials|.|231.txt|.|2
+family|.|332.txt|.|3|.|040.txt|.|3
+gadget show|.|127.txt|.|2|.|172.txt|.|2

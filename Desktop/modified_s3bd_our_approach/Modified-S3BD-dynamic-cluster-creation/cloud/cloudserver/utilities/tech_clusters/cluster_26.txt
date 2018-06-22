@@ -1,0 +1,17 @@
+26
+voice|.|251.txt|.|3|.|310.txt|.|7|.|089.txt|.|7|.|279.txt|.|5|.|302.txt|.|5
+ipod family expands|.|332.txt|.|1|.|040.txt|.|1
+expands|.|332.txt|.|1|.|040.txt|.|1
+commodore computers|.|128.txt|.|1|.|374.txt|.|1
+cruises|.|131.txt|.|1|.|179.txt|.|1
+give people|.|279.txt|.|2|.|302.txt|.|2
+dutch|.|201.txt|.|4
+voice control|.|279.txt|.|3|.|302.txt|.|3
+apple ipods|.|332.txt|.|1|.|040.txt|.|1
+new machines|.|309.txt|.|7
+mr jobs|.|260.txt|.|4|.|297.txt|.|4
+music market|.|332.txt|.|2|.|040.txt|.|2
+warns|.|221.txt|.|1|.|082.txt|.|1
+ipod family|.|332.txt|.|2|.|040.txt|.|2
+growth|.|072.txt|.|2|.|384.txt|.|2|.|366.txt|.|5
+mix well|.|bread.txt|.|5

@@ -1,0 +1,17 @@
+32
+harmony|.|131.txt|.|2|.|179.txt|.|2
+address|.|239.txt|.|2|.|069.txt|.|4
+developed software|.|323.txt|.|1|.|051.txt|.|1
+panoramic|.|201.txt|.|2
+blood|.|blood.txt|.|5
+soviet|.|001.txt|.|2
+obese|.|220.txt|.|3
+ces|.|291.txt|.|3|.|163.txt|.|3|.|134.txt|.|3
+bugs|.|116.txt|.|2
+characters|.|125.txt|.|2
+pigs|.|202.txt|.|3
+readers|.|078.txt|.|1|.|001.txt|.|3
+commission|.|167.txt|.|4|.|342.txt|.|3|.|048.txt|.|3|.|215.txt|.|4
+presidential elections|.|001.txt|.|1
+plasma|.|acne.txt|.|2
+hand|.|353.txt|.|4

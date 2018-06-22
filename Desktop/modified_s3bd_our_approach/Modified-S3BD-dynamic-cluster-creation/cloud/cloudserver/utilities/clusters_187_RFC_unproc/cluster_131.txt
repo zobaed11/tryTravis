@@ -1,0 +1,120 @@
+different codecs|.|rfc3388.txt|.|8|.|rfc5888.txt|.|9
+development of html|.|rfc2854.txt|.|1
+atom publishing protocol|.|rfc5023.txt|.|71
+ebook publication|.|rfc4839.txt|.|4
+dtmf tones|.|rfc3388.txt|.|13
+media traffic|.|rfc5853.txt|.|17
+connectivity checks|.|rfc5245.txt|.|61
+features for display|.|rfc2534.txt|.|9
+session parameters|.|rfc4568.txt|.|35
+publishing|.|rfc5023.txt|.|83
+cellml umbrella|.|rfc4708.txt|.|27
+set predicate|.|rfc3840.txt|.|10
+topology hiding|.|rfc5853.txt|.|18
+multiple description coding|.|rfc5583.txt|.|6
+ringing tone|.|rfc3960.txt|.|29
+text telephone|.|rfc2805.txt|.|11
+wenger|.|rfc5583.txt|.|22|.|rfc2919.txt|.|11
+codecs|.|rfc4788.txt|.|13|.|rfc4281.txt|.|58|.|rfc3388.txt|.|15|.|rfc5888.txt|.|15
+gateway model|.|rfc3960.txt|.|20
+media sessions|.|rfc3959.txt|.|5
+conferencing scenarios|.|rfc4597.txt|.|12
+formatting directives|.|rfc4263.txt|.|9
+proposed media delivery index|.|rfc4445.txt|.|10
+synchronized multimedia|.|rfc4536.txt|.|8
+early session disposition type|.|rfc3959.txt|.|13
+text and formatting|.|rfc4263.txt|.|3
+sbc deployments|.|rfc5853.txt|.|27
+type reg|.|rfc4855.txt|.|10
+compressed audio|.|rfc3003.txt|.|2
+formatting|.|rfc4263.txt|.|23
+feature tag registration|.|rfc2506.txt|.|17
+attachments|.|rfc5616.txt|.|30
+indicated|.|rfc334.txt|.|2|.|rfc4281.txt|.|11
+xml media|.|rfc2376.txt|.|18|.|rfc4374.txt|.|1
+interacting with users|.|rfc5022.txt|.|1|.|rfc4722.txt|.|1
+conferencing system|.|rfc4597.txt|.|35|.|rfc5239.txt|.|141
+downloadable sounds|.|rfc4613.txt|.|14
+industry|.|rfc6208.txt|.|7
+subtype names|.|rfc4288.txt|.|12
+generation december|.|rfc3960.txt|.|12
+message feature|.|rfc4569.txt|.|3
+markup language february|.|rfc5707.txt|.|183
+capability|.|rfc6001.txt|.|44|.|rfc5085.txt|.|41|.|rfc4971.txt|.|37|.|rfc5561.txt|.|137|.|rfc6243.txt|.|25|.|rfc5492.txt|.|56|.|rfc2918.txt|.|16|.|rfc4206.txt|.|8|.|rfc3407.txt|.|109|.|rfc5435.txt|.|11|.|rfc5939.txt|.|405|.|rfc5228.txt|.|37|.|rfc5291.txt|.|37|.|rfc5073.txt|.|67|.|rfc5212.txt|.|21|.|rfc4202.txt|.|66|.|rfc4951.txt|.|22|.|rfc4724.txt|.|46|.|rfc5196.txt|.|35
+charset and languages|.|rfc2987.txt|.|6
+proposed media delivery|.|rfc4445.txt|.|10
+media and ringing|.|rfc3960.txt|.|13
+integration language|.|rfc4536.txt|.|6
+core package|.|rfc5707.txt|.|105
+information about the content|.|rfc2326.txt|.|1
+cook|.|rfc5616.txt|.|31
+international telecommunication|.|rfc4749.txt|.|2
+fits files|.|rfc4047.txt|.|40
+new media|.|rfc5955.txt|.|2|.|rfc4569.txt|.|3
+session disposition|.|rfc3959.txt|.|13
+precondition july|.|rfc5898.txt|.|16
+database files|.|rfc4155.txt|.|5
+storage networking industry association|.|rfc6208.txt|.|7
+early session|.|rfc3959.txt|.|16
+allocation of resource|.|rfc2705.txt|.|4
+pdf reference|.|rfc3778.txt|.|11
+server model|.|rfc3960.txt|.|13
+mime content type|.|rfc2913.txt|.|10
+conformance november|.|rfc2049.txt|.|23
+recognition|.|rfc4463.txt|.|64|.|rfc3557.txt|.|15|.|rfc5707.txt|.|23|.|rfc4267.txt|.|9|.|rfc4313.txt|.|20
+options response|.|rfc3840.txt|.|7
+parameter value|.|rfc2215.txt|.|9|.|rfc2231.txt|.|18|.|rfc2184.txt|.|26
+attachments august|.|rfc5616.txt|.|27
+indicating media features|.|rfc2912.txt|.|11
+end camera|.|rfc4573.txt|.|2
+soap version|.|rfc3902.txt|.|3
+media server control|.|rfc5167.txt|.|5|.|rfc5567.txt|.|13
+grouping framework|.|rfc4091.txt|.|5|.|rfc5888.txt|.|23
+scripting media|.|rfc4329.txt|.|17
+open ebook|.|rfc4839.txt|.|4
+ericsson mobile communications|.|rfc3236.txt|.|2
+feature sets|.|rfc2738.txt|.|4
+session descriptions|.|rfc3959.txt|.|5
+tag indicates|.|rfc4569.txt|.|2
+session disposition type|.|rfc3959.txt|.|13
+media lines|.|rfc3388.txt|.|26
+tree|.|rfc2167.txt|.|26|.|rfc3684.txt|.|32|.|rfc4318.txt|.|16|.|rfc2878.txt|.|47|.|rfc2294.txt|.|20|.|rfc2201.txt|.|56|.|rfc5556.txt|.|42|.|rfc3518.txt|.|47|.|rfc5384.txt|.|35|.|rfc5527.txt|.|10|.|rfc2048.txt|.|47|.|rfc4288.txt|.|60
+format description|.|rfc5583.txt|.|18
+media format|.|rfc3264.txt|.|17|.|rfc5583.txt|.|26
+types april|.|rfc4329.txt|.|14
+connectivity precondition|.|rfc5898.txt|.|48
+networking industry association|.|rfc6208.txt|.|7
+reflexive|.|rfc5245.txt|.|128
+media stream|.|rfc3264.txt|.|45|.|rfc3312.txt|.|24|.|rfc5576.txt|.|30|.|rfc4796.txt|.|30|.|rfc5027.txt|.|42|.|rfc5245.txt|.|209|.|rfc5888.txt|.|29|.|rfc5104.txt|.|50|.|rfc4568.txt|.|47|.|rfc5898.txt|.|34
+media descriptions|.|rfc5583.txt|.|18
+varying media|.|rfc3803.txt|.|4|.|rfc2424.txt|.|3
+internet fax color|.|rfc2879.txt|.|11
+package file|.|rfc4839.txt|.|3
+involving|.|rfc4735.txt|.|4
+qcp file|.|rfc3625.txt|.|27
+avpf|.|rfc4585.txt|.|32|.|rfc5124.txt|.|29|.|rfc5104.txt|.|102
+media server discovery|.|rfc5616.txt|.|8
+traffic management|.|rfc5853.txt|.|19
+monitoring a network|.|rfc4445.txt|.|2
+default value|.|rfc6243.txt|.|40|.|rfc5022.txt|.|112|.|rfc4722.txt|.|112
+media|.|rfc6230.txt|.|137|.|rfc5583.txt|.|201|.|rfc2719.txt|.|34|.|rfc4796.txt|.|54|.|rfc2913.txt|.|53|.|rfc3524.txt|.|26|.|rfc4184.txt|.|13|.|rfc2184.txt|.|6|.|rfc2885.txt|.|177|.|rfc4567.txt|.|50|.|rfc5567.txt|.|203|.|rfc5751.txt|.|38|.|rfc3054.txt|.|22|.|rfc3840.txt|.|153|.|rfc2506.txt|.|65|.|rfc3204.txt|.|20|.|rfc4240.txt|.|150|.|rfc5850.txt|.|83|.|rfc4735.txt|.|32|.|rfc4867.txt|.|61|.|rfc3778.txt|.|20|.|rfc2397.txt|.|8|.|rfc5168.txt|.|27|.|rfc2354.txt|.|45|.|rfc2938.txt|.|33|.|rfc2646.txt|.|12|.|rfc5679.txt|.|4|.|rfc2879.txt|.|72|.|rfc2534.txt|.|28|.|rfc4288.txt|.|204|.|rfc3420.txt|.|14|.|rfc5188.txt|.|66|.|rfc5109.txt|.|163|.|rfc3016.txt|.|17|.|rfc4281.txt|.|42|.|rfc4613.txt|.|18|.|rfc3003.txt|.|10|.|rfc4374.txt|.|18|.|rfc5334.txt|.|45|.|rfc2326.txt|.|199|.|rfc3382.txt|.|32|.|rfc4263.txt|.|60|.|rfc3064.txt|.|38|.|rfc3960.txt|.|160|.|rfc2376.txt|.|47|.|rfc3625.txt|.|31|.|rfc5022.txt|.|268|.|rfc5197.txt|.|41|.|rfc3236.txt|.|21|.|rfc4597.txt|.|38|.|rfc4855.txt|.|81|.|rfc3870.txt|.|12|.|rfc4024.txt|.|12|.|rfc5968.txt|.|26|.|rfc6015.txt|.|37|.|rfc2049.txt|.|21|.|rfc4722.txt|.|268|.|rfc2854.txt|.|17|.|rfc5404.txt|.|35|.|rfc4155.txt|.|22|.|rfc4473.txt|.|49|.|rfc3023.txt|.|149|.|rfc4445.txt|.|40|.|rfc4539.txt|.|18|.|rfc5009.txt|.|155|.|rfc5688.txt|.|37|.|rfc3902.txt|.|15|.|rfc2318.txt|.|13|.|rfc4569.txt|.|24|.|rfc3264.txt|.|193|.|rfc4317.txt|.|26|.|rfc5707.txt|.|663|.|rfc4573.txt|.|17|.|rfc5479.txt|.|223|.|rfc6207.txt|.|44|.|rfc5391.txt|.|27|.|rfc3992.txt|.|4|.|rfc3313.txt|.|68|.|rfc5337.txt|.|21|.|rfc3108.txt|.|183|.|rfc2045.txt|.|45|.|rfc5167.txt|.|52|.|rfc5760.txt|.|168|.|rfc3398.txt|.|80|.|rfc6193.txt|.|62|.|rfc4329.txt|.|46|.|rfc5939.txt|.|241|.|rfc5955.txt|.|6|.|rfc5408.txt|.|27|.|rfc5584.txt|.|59|.|rfc4629.txt|.|32|.|rfc2442.txt|.|12|.|rfc2892.txt|.|16|.|rfc3823.txt|.|8|.|rfc3388.txt|.|106|.|rfc2388.txt|.|7|.|rfc5027.txt|.|73|.|rfc4027.txt|.|20|.|rfc2231.txt|.|6|.|rfc2912.txt|.|49|.|rfc5967.txt|.|18|.|rfc2233.txt|.|14|.|rfc2424.txt|.|6|.|rfc4708.txt|.|18|.|rfc2738.txt|.|14|.|rfc2805.txt|.|75|.|rfc5347.txt|.|52|.|rfc5678.txt|.|4|.|rfc2533.txt|.|78|.|rfc3525.txt|.|186|.|rfc2863.txt|.|14|.|rfc3803.txt|.|5|.|rfc4749.txt|.|19|.|rfc5693.txt|.|13|.|rfc5456.txt|.|80|.|rfc5147.txt|.|16|.|rfc2987.txt|.|22|.|rfc5552.txt|.|209|.|rfc5104.txt|.|325|.|rfc5898.txt|.|54|.|rfc5853.txt|.|99|.|rfc3624.txt|.|5|.|rfc2705.txt|.|188|.|rfc4587.txt|.|19|.|rfc4040.txt|.|15|.|rfc5616.txt|.|206|.|rfc4536.txt|.|21|.|rfc5888.txt|.|90|.|rfc6129.txt|.|19|.|rfc4235.txt|.|34|.|rfc5023.txt|.|104|.|rfc3959.txt|.|53|.|rfc5631.txt|.|94|.|rfc3521.txt|.|82|.|rfc4047.txt|.|31|.|rfc3534.txt|.|10|.|rfc4585.txt|.|67|.|rfc5691.txt|.|16|.|rfc6208.txt|.|44|.|rfc2703.txt|.|21|.|rfc2530.txt|.|10|.|rfc5245.txt|.|427|.|rfc2048.txt|.|123|.|rfc5768.txt|.|22|.|rfc3805.txt|.|161|.|rfc5877.txt|.|12|.|rfc1945.txt|.|47|.|rfc2046.txt|.|123|.|rfc3312.txt|.|42|.|rfc4463.txt|.|95|.|rfc5576.txt|.|102|.|rfc5215.txt|.|18|.|rfc4788.txt|.|47|.|rfc4839.txt|.|13|.|rfc4267.txt|.|29|.|rfc4352.txt|.|25|.|rfc2733.txt|.|115|.|rfc4856.txt|.|126|.|rfc4568.txt|.|113|.|rfc6157.txt|.|28
+graphical display|.|rfc177.txt|.|10
+wenger standards|.|rfc5583.txt|.|18
+mediactrl|.|rfc5567.txt|.|24
+encapsulated|.|rfc3947.txt|.|3|.|rfc3372.txt|.|18|.|rfc2364.txt|.|14|.|rfc3507.txt|.|88|.|rfc3336.txt|.|9|.|rfc2746.txt|.|18|.|rfc5320.txt|.|11|.|rfc5334.txt|.|7|.|rfc2363.txt|.|12|.|rfc3398.txt|.|45
+tones|.|rfc3388.txt|.|14
+templin|.|rfc4214.txt|.|16|.|rfc5720.txt|.|32|.|rfc5320.txt|.|31|.|rfc5579.txt|.|14
+megaco|.|rfc4097.txt|.|105|.|rfc3054.txt|.|55|.|rfc3015.txt|.|212|.|rfc2886.txt|.|24|.|rfc2885.txt|.|204
+signaling transport|.|rfc2719.txt|.|70|.|rfc6261.txt|.|14
+authorization january|.|rfc3313.txt|.|15
+industry association|.|rfc6208.txt|.|7
+user may prefer|.|rfc5104.txt|.|2
+character position|.|rfc5147.txt|.|15
+example media types|.|rfc4735.txt|.|7
+content duration|.|rfc3803.txt|.|7|.|rfc2424.txt|.|2
+tmmbr|.|rfc5104.txt|.|129
+deployments|.|rfc5853.txt|.|28
+media services|.|rfc4240.txt|.|27|.|rfc5552.txt|.|41
+dtmf input|.|rfc5022.txt|.|19|.|rfc4722.txt|.|19
+describing media feature|.|rfc2533.txt|.|37|.|rfc2738.txt|.|6
+early session disposition|.|rfc3959.txt|.|13

@@ -1,0 +1,38 @@
+29
+marriott executive apartments|.|WET6056.txt|.|13|.|WET2312.txt|.|15
+arne|.|WET2313.txt|.|8
+inn club vacations|.|WET3643.txt|.|24
+inappropriate review|.|WET5440.txt|.|21
+high speed internet free breakfast|.|WET2312.txt|.|26
+fairfield|.|WET6056.txt|.|31|.|WET2314.txt|.|22
+sussex|.|WET3561.txt|.|24
+belk rewards|.|WET1278.txt|.|15
+marriott rewards|.|WET6056.txt|.|84|.|WET2314.txt|.|21|.|WET2312.txt|.|121
+kernelmedals|.|WET2129.txt|.|37
+earn points|.|WET2313.txt|.|8
+meilleur|.|WET2314.txt|.|12
+offers resorts|.|WET2313.txt|.|8
+carfax reports|.|WET3524.txt|.|160|.|WET3525.txt|.|64
+inn express|.|WET5810.txt|.|119
+boosted|.|WET156.txt|.|2|.|WET3874.txt|.|2|.|WET2535.txt|.|2|.|WET850.txt|.|2
+member rewards|.|WET1338.txt|.|6
+map contact|.|WET2313.txt|.|8
+vous|.|WET425.txt|.|16|.|WET6057.txt|.|31|.|WET4168.txt|.|19
+holiday inn club|.|WET3643.txt|.|24
+membre|.|WET6057.txt|.|16
+card marriott|.|WET2313.txt|.|8
+rates|.|WET6056.txt|.|106|.|WET148.txt|.|104|.|WET3892.txt|.|204|.|WET4591.txt|.|10|.|WET4235.txt|.|52|.|WET2312.txt|.|148
+resorts|.|WET233.txt|.|35|.|WET6056.txt|.|53|.|WET234.txt|.|64|.|WET2767.txt|.|18|.|WET2225.txt|.|36|.|WET2550.txt|.|78|.|WET2313.txt|.|42|.|WET2312.txt|.|64
+rewards overview|.|WET2313.txt|.|8
+arbitration|.|WET3210.txt|.|34|.|WET3467.txt|.|15
+kong|.|WET2198.txt|.|35|.|WET1628.txt|.|20|.|WET5936.txt|.|38
+openreservations|.|WET2313.txt|.|8
+entertainment drinkupwnc|.|WET1338.txt|.|6|.|WET5089.txt|.|7
+membre marriott rewards|.|WET6057.txt|.|8
+latest version|.|WET5936.txt|.|15
+orange county|.|WET2535.txt|.|46
+events overview|.|WET2313.txt|.|8
+rewards club|.|WET5810.txt|.|172|.|WET2069.txt|.|59|.|WET3643.txt|.|214
+breakfast|.|WET2312.txt|.|35
+coupons preps|.|WET1338.txt|.|6|.|WET5089.txt|.|7
+rewards|.|WET6056.txt|.|179|.|WET5441.txt|.|13|.|WET5810.txt|.|208|.|WET1693.txt|.|66|.|WET2535.txt|.|16|.|WET1338.txt|.|6|.|WET3643.txt|.|258|.|WET2314.txt|.|54|.|WET5249.txt|.|12|.|WET2312.txt|.|253|.|WET2180.txt|.|16|.|WET5440.txt|.|66|.|WET2198.txt|.|24|.|WET6057.txt|.|74|.|WET2069.txt|.|72|.|WET1278.txt|.|15|.|WET2313.txt|.|183|.|WET5936.txt|.|40

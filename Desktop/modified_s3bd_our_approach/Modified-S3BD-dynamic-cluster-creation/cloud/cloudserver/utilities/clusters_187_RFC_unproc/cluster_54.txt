@@ -1,0 +1,120 @@
+imap response|.|rfc5530.txt|.|10
+resync|.|rfc5162.txt|.|23
+external message|.|rfc5973.txt|.|68
+reliable provisional response|.|rfc3262.txt|.|29
+current behavior|.|rfc5780.txt|.|10
+certreq payload|.|rfc4806.txt|.|8
+response pdu|.|rfc2257.txt|.|22
+update response|.|rfc2091.txt|.|39
+eap packets|.|rfc3748.txt|.|29
+agentx response|.|rfc2257.txt|.|17
+signaling session|.|rfc5973.txt|.|166
+sip headers|.|rfc3050.txt|.|10
+forking proxy|.|rfc6228.txt|.|23
+mechanisms are designed|.|rfc3720.txt|.|1
+manipulation|.|rfc3229.txt|.|12|.|rfc519.txt|.|3
+control attribute|.|rfc5364.txt|.|22|.|rfc5275.txt|.|34
+anonymous request|.|rfc5079.txt|.|2
+expected|.|rfc3720.txt|.|65|.|rfc328.txt|.|1|.|rfc4689.txt|.|72|.|rfc3550.txt|.|37
+sherry standards|.|rfc2091.txt|.|22
+forward response|.|rfc3050.txt|.|2
+response time|.|rfc2562.txt|.|98
+callback request|.|rfc2125.txt|.|1
+otp extended responses|.|rfc2243.txt|.|13
+otp extended|.|rfc2243.txt|.|18|.|rfc2444.txt|.|6
+challenge response|.|rfc6287.txt|.|7
+automatically|.|rfc3834.txt|.|15|.|rfc4076.txt|.|6
+kek|.|rfc5275.txt|.|105
+disconnected use|.|rfc4315.txt|.|1
+secret request|.|rfc3489.txt|.|26
+noop|.|rfc5804.txt|.|13
+attribute group|.|rfc2910.txt|.|14
+script name|.|rfc5804.txt|.|22
+mail systems|.|rfc4959.txt|.|2
+entity tag|.|rfc3903.txt|.|4|.|rfc3229.txt|.|40|.|rfc5839.txt|.|5|.|rfc5874.txt|.|11
+initiator and target|.|rfc3720.txt|.|73
+response is sent|.|rfc6228.txt|.|5
+responses sent|.|rfc3834.txt|.|4
+response routing|.|rfc3581.txt|.|14
+deletescript|.|rfc5804.txt|.|10
+gss tsig|.|rfc3645.txt|.|1
+team|.|rfc3833.txt|.|4|.|rfc3823.txt|.|8|.|rfc3248.txt|.|5|.|rfc2350.txt|.|65|.|rfc5317.txt|.|10
+cache control extension|.|rfc5861.txt|.|1
+behavior discovery|.|rfc5780.txt|.|67
+codings|.|rfc3229.txt|.|6
+target transfer tag|.|rfc3720.txt|.|73
+sip header fields|.|rfc3050.txt|.|6
+oryx|.|rfc4959.txt|.|2
+pop response|.|rfc3206.txt|.|8
+signingtime|.|rfc5275.txt|.|172
+imap extension|.|rfc4551.txt|.|25
+instance manipulation|.|rfc3229.txt|.|12
+multilink bundle|.|rfc2125.txt|.|25
+symkeydist|.|rfc5275.txt|.|89
+login delay|.|rfc2449.txt|.|4
+returned|.|rfc5804.txt|.|53|.|rfc132.txt|.|1
+full pki|.|rfc5272.txt|.|68
+putscript|.|rfc5804.txt|.|14
+annotations|.|rfc5464.txt|.|54
+initial client|.|rfc4959.txt|.|22
+incident response|.|rfc2350.txt|.|69|.|rfc3013.txt|.|11
+nat behavior|.|rfc5780.txt|.|50
+cached response|.|rfc5861.txt|.|7|.|rfc3229.txt|.|17
+identity request|.|rfc3829.txt|.|13
+imap response codes|.|rfc5530.txt|.|10
+auth pop|.|rfc3206.txt|.|6
+metadata response|.|rfc5464.txt|.|14
+cache control|.|rfc5861.txt|.|2
+race condition|.|rfc161.txt|.|2|.|rfc2125.txt|.|2|.|rfc142.txt|.|2|.|rfc4321.txt|.|3|.|rfc143.txt|.|2|.|rfc6141.txt|.|5
+gulbrandsen standards track|.|rfc5530.txt|.|9
+checkscript|.|rfc5804.txt|.|9
+tkey query response|.|rfc3645.txt|.|4
+sent|.|rfc5560.txt|.|24|.|rfc3834.txt|.|34|.|rfc2097.txt|.|13|.|rfc6228.txt|.|21|.|rfc4758.txt|.|26|.|rfc127.txt|.|2|.|rfc151.txt|.|6|.|rfc68.txt|.|4|.|rfc145.txt|.|2|.|rfc2075.txt|.|11
+sherry|.|rfc2091.txt|.|24
+automatically respond|.|rfc3834.txt|.|4
+secret pass|.|rfc2243.txt|.|6
+salted|.|rfc5803.txt|.|3
+ms chap|.|rfc2759.txt|.|1
+final|.|rfc6228.txt|.|38|.|rfc4321.txt|.|14
+sip entities|.|rfc6228.txt|.|10
+stun server|.|rfc5780.txt|.|20
+changed|.|rfc4551.txt|.|15|.|rfc637.txt|.|2
+retry allowed|.|rfc2759.txt|.|2
+switch management protocol|.|rfc3295.txt|.|22|.|rfc3294.txt|.|13|.|rfc3292.txt|.|144
+response packet|.|rfc2759.txt|.|11
+expanded nak|.|rfc3748.txt|.|19
+transaction state|.|rfc6026.txt|.|25
+ocsp content|.|rfc4806.txt|.|14
+sys|.|rfc3206.txt|.|13
+shared secret|.|rfc5272.txt|.|5|.|rfc2930.txt|.|15|.|rfc3489.txt|.|94|.|rfc2845.txt|.|3
+symmetric response routing|.|rfc3581.txt|.|13
+systems gmbh|.|rfc4959.txt|.|2
+collects|.|rfc5530.txt|.|1
+retry|.|rfc2759.txt|.|10
+response control|.|rfc3829.txt|.|10
+trigger rip|.|rfc2091.txt|.|21
+pki response|.|rfc5272.txt|.|61
+stale response|.|rfc5861.txt|.|4
+rack|.|rfc3262.txt|.|17
+connecting their network|.|rfc3489.txt|.|1
+getbulk|.|rfc2257.txt|.|8
+initial client response|.|rfc4959.txt|.|22
+gulbrandsen oryx|.|rfc4959.txt|.|2
+setacl|.|rfc2244.txt|.|13
+secure communications|.|rfc2350.txt|.|5
+sip cgi|.|rfc3050.txt|.|57
+extension allows|.|rfc5861.txt|.|2
+document collects|.|rfc5530.txt|.|1
+request message|.|rfc2797.txt|.|33|.|rfc4426.txt|.|24|.|rfc5416.txt|.|34|.|rfc5415.txt|.|192|.|rfc5729.txt|.|8|.|rfc2463.txt|.|11
+additional command|.|rfc4315.txt|.|1
+binding request|.|rfc3489.txt|.|76|.|rfc5780.txt|.|32
+computer security incident|.|rfc2350.txt|.|55
+ocsp response|.|rfc5019.txt|.|21|.|rfc4806.txt|.|29
+reliable provisional|.|rfc3262.txt|.|48
+macdonald|.|rfc5780.txt|.|29
+expected data|.|rfc3720.txt|.|19
+callback|.|rfc2125.txt|.|5
+disconnected use clients|.|rfc4315.txt|.|1
+response message|.|rfc2797.txt|.|17|.|rfc5973.txt|.|55|.|rfc5415.txt|.|165|.|rfc2080.txt|.|4
+respond|.|rfc3834.txt|.|13
+gurtov|.|rfc4015.txt|.|18

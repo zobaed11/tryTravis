@@ -1,0 +1,38 @@
+48
+rug|.|WET3570.txt|.|67
+glove|.|WET3013.txt|.|33|.|WET1325.txt|.|7|.|WET3272.txt|.|25
+road to rio|.|WET3016.txt|.|8
+express|.|WET6184.txt|.|1|.|WET3013.txt|.|157|.|WET5810.txt|.|129|.|WET3014.txt|.|194|.|WET3643.txt|.|43|.|WET1723.txt|.|29
+training|.|WET3361.txt|.|10|.|WET1118.txt|.|159|.|WET2716.txt|.|16|.|WET2057.txt|.|120|.|WET2915.txt|.|52|.|WET3783.txt|.|17|.|WET217.txt|.|38|.|WET1476.txt|.|10|.|WET1647.txt|.|176|.|WET3457.txt|.|11|.|WET1473.txt|.|21|.|WET34.txt|.|30|.|WET3965.txt|.|189|.|WET1666.txt|.|40|.|WET3735.txt|.|90|.|WET218.txt|.|174
+experience|.|WET1967.txt|.|14|.|WET3735.txt|.|35|.|WET324.txt|.|11
+periodic table|.|WET5830.txt|.|33
+sales view|.|WET1917.txt|.|24
+fourfourtwo|.|WET1849.txt|.|22
+wie|.|WET848.txt|.|345
+laserjet|.|WET5516.txt|.|199
+prior|.|WET3014.txt|.|37
+order with purchase|.|WET3014.txt|.|26
+statsenhancedclassic defensive|.|WET1669.txt|.|12
+wii|.|WET5623.txt|.|37|.|WET5625.txt|.|66|.|WET5622.txt|.|26|.|WET1884.txt|.|24|.|WET3286.txt|.|286|.|WET3287.txt|.|65
+giant|.|WET3016.txt|.|10
+ranked|.|WET3029.txt|.|10|.|WET999.txt|.|4|.|WET5711.txt|.|10
+rio|.|WET3016.txt|.|15
+search player|.|WET3029.txt|.|10
+ten|.|WET5517.txt|.|78|.|WET895.txt|.|11
+win|.|WET4381.txt|.|295|.|WET4857.txt|.|19
+order must be shipped|.|WET3015.txt|.|23
+rug size|.|WET3570.txt|.|11
+bat or glove|.|WET3013.txt|.|10
+electric|.|WET5606.txt|.|24|.|WET390.txt|.|204|.|WET6138.txt|.|58|.|WET5208.txt|.|9
+experience classes|.|WET3735.txt|.|20
+team|.|WET3013.txt|.|130|.|WET3016.txt|.|41|.|WET952.txt|.|33|.|WET3029.txt|.|32|.|WET2266.txt|.|35|.|WET5572.txt|.|41|.|WET1669.txt|.|35|.|WET5517.txt|.|87|.|WET1064.txt|.|57|.|WET2636.txt|.|22|.|WET3570.txt|.|72|.|WET3015.txt|.|110|.|WET3014.txt|.|192|.|WET4982.txt|.|35|.|WET4123.txt|.|48|.|WET5538.txt|.|50|.|WET3735.txt|.|184|.|WET4631.txt|.|20
+searchciteseerxsemantic scholarshare|.|WET264.txt|.|166|.|WET4007.txt|.|176
+chf hkd|.|WET2250.txt|.|4
+see shipping information|.|WET3014.txt|.|26
+turkish writer|.|WET4082.txt|.|9
+turkish|.|WET3997.txt|.|5|.|WET4082.txt|.|26
+sports vols sports|.|WET2266.txt|.|16
+topic|.|WET406.txt|.|46|.|WET143.txt|.|7|.|WET2383.txt|.|6|.|WET3384.txt|.|16|.|WET6013.txt|.|5|.|WET2064.txt|.|13|.|WET2701.txt|.|21|.|WET5162.txt|.|16|.|WET4147.txt|.|42|.|WET1736.txt|.|49|.|WET5367.txt|.|2
+sugar|.|WET3443.txt|.|21|.|WET1831.txt|.|73|.|WET2067.txt|.|106|.|WET4659.txt|.|17
+slalom|.|WET3016.txt|.|30
+closings ask heather|.|WET2266.txt|.|24

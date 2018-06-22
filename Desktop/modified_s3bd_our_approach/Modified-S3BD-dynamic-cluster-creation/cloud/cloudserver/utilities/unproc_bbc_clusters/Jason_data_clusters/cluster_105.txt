@@ -1,0 +1,38 @@
+105
+financial|.|WET2706.txt|.|8|.|WET137.txt|.|75|.|WET4824.txt|.|15|.|WET3663.txt|.|26|.|WET5207.txt|.|23|.|WET4831.txt|.|84|.|WET6053.txt|.|30|.|WET3325.txt|.|38
+paz wrap|.|WET2768.txt|.|15
+financial services|.|WET137.txt|.|46|.|WET3663.txt|.|22
+wsj|.|WET137.txt|.|237|.|WET136.txt|.|231|.|WET3880.txt|.|232|.|WET3879.txt|.|218|.|WET3325.txt|.|119
+foreign|.|WET3881.txt|.|22
+choucroute de la mer|.|WET812.txt|.|54
+body glove|.|WET1325.txt|.|7
+cheese location|.|WET187.txt|.|42
+email alerts|.|WET1970.txt|.|45
+kde desktop|.|WET4295.txt|.|18|.|WET551.txt|.|20
+feature|.|WET4682.txt|.|54|.|WET1724.txt|.|10
+preferite|.|WET4268.txt|.|11
+moneybeat|.|WET137.txt|.|51
+composite|.|WET1281.txt|.|2|.|WET3132.txt|.|2|.|WET4726.txt|.|2|.|WET3197.txt|.|2|.|WET3773.txt|.|3|.|WET1375.txt|.|2|.|WET4582.txt|.|2|.|WET6107.txt|.|2|.|WET913.txt|.|2|.|WET5591.txt|.|2|.|WET5857.txt|.|2|.|WET1615.txt|.|2|.|WET5133.txt|.|3|.|WET5528.txt|.|3|.|WET969.txt|.|2|.|WET2612.txt|.|2|.|WET5080.txt|.|2|.|WET4302.txt|.|2|.|WET625.txt|.|8|.|WET575.txt|.|2|.|WET4210.txt|.|2|.|WET365.txt|.|2|.|WET19.txt|.|2|.|WET1292.txt|.|2|.|WET4109.txt|.|2|.|WET6109.txt|.|1|.|WET2788.txt|.|3|.|WET1067.txt|.|2|.|WET1931.txt|.|2|.|WET373.txt|.|2|.|WET416.txt|.|2|.|WET1937.txt|.|2|.|WET297.txt|.|2|.|WET1268.txt|.|4|.|WET2072.txt|.|2|.|WET4271.txt|.|35|.|WET2462.txt|.|2|.|WET2688.txt|.|1|.|WET1804.txt|.|60|.|WET1348.txt|.|2|.|WET66.txt|.|2|.|WET759.txt|.|2|.|WET1670.txt|.|2
+wayne|.|WET1791.txt|.|50|.|WET2736.txt|.|7
+hillary|.|WET4948.txt|.|8
+tech|.|WET2695.txt|.|34|.|WET136.txt|.|152|.|WET46.txt|.|49|.|WET5875.txt|.|47|.|WET4682.txt|.|77|.|WET3879.txt|.|140|.|WET1509.txt|.|22|.|WET3321.txt|.|55|.|WET3881.txt|.|157|.|WET3325.txt|.|63|.|WET1325.txt|.|15|.|WET1083.txt|.|82|.|WET5260.txt|.|28|.|WET137.txt|.|163|.|WET2136.txt|.|88|.|WET5876.txt|.|61|.|WET1227.txt|.|12|.|WET3880.txt|.|155|.|WET5326.txt|.|30|.|WET2324.txt|.|218|.|WET4367.txt|.|18
+aga khan|.|WET1140.txt|.|41
+silk|.|WET4660.txt|.|25
+tech report|.|WET4682.txt|.|40
+box score|.|WET4730.txt|.|32|.|WET991.txt|.|16
+max volume|.|WET2047.txt|.|8
+poweredge|.|WET924.txt|.|41
+cfo journal|.|WET137.txt|.|44|.|WET3881.txt|.|44
+condensate|.|WET6307.txt|.|435
+foreign edition podcast|.|WET3881.txt|.|22
+repair man|.|WET46.txt|.|66
+confirm|.|WET1502.txt|.|22|.|WET5253.txt|.|18
+hill|.|WET2448.txt|.|17|.|WET303.txt|.|16|.|WET1402.txt|.|22|.|WET1602.txt|.|15
+cyril|.|WET4682.txt|.|59
+cpus graphics|.|WET4682.txt|.|18
+gt catalog|.|WET4605.txt|.|12
+arts in review|.|WET3881.txt|.|44
+tech trader daily|.|WET137.txt|.|22|.|WET3879.txt|.|20|.|WET3881.txt|.|22
+appliance parts|.|WET46.txt|.|13
+real time economics|.|WET137.txt|.|54|.|WET136.txt|.|53|.|WET3879.txt|.|52|.|WET3881.txt|.|51
+jones|.|WET2090.txt|.|65|.|WET137.txt|.|86|.|WET136.txt|.|89|.|WET5834.txt|.|66|.|WET3838.txt|.|41

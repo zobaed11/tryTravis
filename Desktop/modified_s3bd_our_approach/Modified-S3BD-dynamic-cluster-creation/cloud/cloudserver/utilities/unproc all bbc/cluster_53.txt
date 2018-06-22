@@ -1,0 +1,64 @@
+widow|.|bbc_entertainment_228.txt|.|3
+north east|.|bbc_politics_061.txt|.|2|.|bbc_politics_200.txt|.|7
+campaign posters|.|bbc_politics_332.txt|.|1|.|bbc_politics_009.txt|.|1
+george w bush|.|bbc_tech_123.txt|.|2
+claimed|.|bbc_business_010.txt|.|1|.|bbc_entertainment_115.txt|.|2|.|bbc_sport_153.txt|.|1|.|bbc_politics_402.txt|.|1
+husband|.|bbc_politics_011.txt|.|3|.|bbc_entertainment_146.txt|.|3
+binge drinking|.|bbc_politics_202.txt|.|2|.|bbc_politics_094.txt|.|8
+mrs howard|.|bbc_politics_011.txt|.|4
+economy focus|.|bbc_politics_394.txt|.|1
+halloween|.|bbc_entertainment_378.txt|.|6
+security reasons|.|bbc_tech_123.txt|.|2
+buddy guy|.|bbc_entertainment_291.txt|.|2
+mr herron|.|bbc_politics_200.txt|.|2
+robots|.|bbc_entertainment_384.txt|.|3|.|bbc_entertainment_055.txt|.|2|.|bbc_tech_121.txt|.|6|.|bbc_tech_356.txt|.|10|.|bbc_tech_261.txt|.|1
+herron|.|bbc_politics_200.txt|.|3
+orient|.|bbc_sport_214.txt|.|2
+download sales|.|bbc_entertainment_266.txt|.|3
+announce|.|bbc_entertainment_287.txt|.|1|.|bbc_politics_395.txt|.|1|.|bbc_politics_017.txt|.|1
+wind farms|.|bbc_politics_090.txt|.|2
+labels|.|bbc_entertainment_266.txt|.|2
+keen|.|bbc_sport_250.txt|.|2|.|bbc_sport_266.txt|.|3|.|bbc_sport_244.txt|.|2
+effects|.|bbc_entertainment_077.txt|.|4
+election campaign|.|bbc_politics_007.txt|.|1|.|bbc_politics_306.txt|.|3|.|bbc_politics_272.txt|.|2|.|bbc_politics_351.txt|.|1|.|bbc_politics_264.txt|.|2|.|bbc_politics_011.txt|.|2|.|bbc_politics_346.txt|.|1|.|bbc_politics_375.txt|.|2
+wyatt and said|.|bbc_politics_415.txt|.|1
+returns|.|bbc_politics_306.txt|.|1|.|bbc_entertainment_165.txt|.|1
+support agency|.|bbc_politics_156.txt|.|2
+buhecha|.|bbc_entertainment_366.txt|.|8
+work as a team|.|bbc_politics_402.txt|.|2
+standard life|.|bbc_business_220.txt|.|4|.|bbc_business_206.txt|.|5
+chief executive|.|bbc_tech_378.txt|.|2|.|bbc_business_455.txt|.|2|.|bbc_business_189.txt|.|4|.|bbc_politics_315.txt|.|5|.|bbc_sport_118.txt|.|2|.|bbc_business_385.txt|.|2|.|bbc_business_216.txt|.|3|.|bbc_tech_206.txt|.|2|.|bbc_business_203.txt|.|2|.|bbc_business_475.txt|.|2|.|bbc_business_393.txt|.|2
+fake sites|.|bbc_tech_049.txt|.|2|.|bbc_tech_340.txt|.|2
+little words|.|bbc_politics_346.txt|.|2
+hosting|.|bbc_tech_159.txt|.|2|.|bbc_tech_147.txt|.|2
+north|.|bbc_politics_061.txt|.|2|.|bbc_sport_402.txt|.|1|.|bbc_politics_200.txt|.|7
+battle bus|.|bbc_politics_305.txt|.|3
+claimed mr|.|bbc_politics_402.txt|.|1
+pop idol|.|bbc_politics_259.txt|.|2|.|bbc_entertainment_319.txt|.|2|.|bbc_entertainment_027.txt|.|1
+overseas|.|bbc_politics_130.txt|.|2|.|bbc_tech_123.txt|.|5
+film adaptation|.|bbc_entertainment_094.txt|.|2
+east|.|bbc_politics_061.txt|.|1|.|bbc_politics_167.txt|.|1|.|bbc_politics_365.txt|.|2|.|bbc_politics_189.txt|.|2|.|bbc_politics_200.txt|.|7
+waverley line|.|bbc_politics_038.txt|.|3
+peugeot|.|bbc_business_013.txt|.|4|.|bbc_business_431.txt|.|2
+no campaign|.|bbc_politics_200.txt|.|4
+designed|.|bbc_tech_018.txt|.|3
+fuss|.|bbc_politics_009.txt|.|4
+bonus rates|.|bbc_business_281.txt|.|2|.|bbc_business_206.txt|.|4
+harley|.|bbc_sport_163.txt|.|4
+said reopening|.|bbc_politics_038.txt|.|2
+site hosting|.|bbc_tech_159.txt|.|2|.|bbc_tech_147.txt|.|2
+silly|.|bbc_politics_009.txt|.|4
+borders rail|.|bbc_politics_038.txt|.|4
+direct an episode|.|bbc_entertainment_365.txt|.|2
+words|.|bbc_politics_346.txt|.|2
+astrazeneca|.|bbc_business_309.txt|.|2
+waverley|.|bbc_politics_038.txt|.|3
+outspent both labour|.|bbc_politics_304.txt|.|1
+lycos|.|bbc_tech_214.txt|.|7|.|bbc_tech_189.txt|.|7|.|bbc_tech_159.txt|.|7|.|bbc_tech_147.txt|.|7
+site|.|bbc_politics_032.txt|.|2|.|bbc_tech_186.txt|.|5|.|bbc_tech_255.txt|.|8|.|bbc_tech_123.txt|.|18|.|bbc_tech_027.txt|.|14|.|bbc_tech_088.txt|.|3|.|bbc_tech_159.txt|.|4|.|bbc_tech_034.txt|.|3|.|bbc_tech_053.txt|.|4|.|bbc_tech_147.txt|.|4|.|bbc_tech_101.txt|.|9|.|bbc_tech_315.txt|.|14
+recordings|.|bbc_entertainment_163.txt|.|2|.|bbc_entertainment_152.txt|.|2
+mallon|.|bbc_politics_200.txt|.|6
+champions league football|.|bbc_sport_177.txt|.|2
+anniversary|.|bbc_sport_065.txt|.|2|.|bbc_politics_038.txt|.|2|.|bbc_entertainment_172.txt|.|2|.|bbc_tech_065.txt|.|2
+borders rail link|.|bbc_politics_038.txt|.|2
+liam neeson|.|bbc_entertainment_012.txt|.|2

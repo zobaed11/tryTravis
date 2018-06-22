@@ -1,0 +1,93 @@
+5
+small|.|bbc_entertainment_007.txt|.|2|.|bbc_entertainment_013.txt|.|2
+francisco|.|bbc_entertainment_293.txt|.|3
+uk film council|.|bbc_entertainment_371.txt|.|2
+devon|.|bbc_entertainment_251.txt|.|5
+fiction|.|bbc_entertainment_007.txt|.|2|.|bbc_entertainment_024.txt|.|3
+ring|.|bbc_entertainment_141.txt|.|1|.|bbc_entertainment_119.txt|.|4
+scissor|.|bbc_entertainment_253.txt|.|5|.|bbc_entertainment_128.txt|.|3
+youssou|.|bbc_entertainment_241.txt|.|2
+screen|.|bbc_entertainment_353.txt|.|8|.|bbc_entertainment_029.txt|.|2|.|bbc_entertainment_224.txt|.|2|.|bbc_entertainment_051.txt|.|2|.|bbc_entertainment_069.txt|.|2|.|bbc_entertainment_065.txt|.|2
+mary poppins|.|bbc_entertainment_295.txt|.|2|.|bbc_entertainment_005.txt|.|3|.|bbc_entertainment_275.txt|.|7
+scottish|.|bbc_entertainment_287.txt|.|3|.|bbc_entertainment_121.txt|.|9
+youth|.|bbc_entertainment_067.txt|.|2
+trial|.|bbc_entertainment_054.txt|.|2|.|bbc_entertainment_279.txt|.|3|.|bbc_entertainment_108.txt|.|5
+wasp|.|bbc_entertainment_369.txt|.|3
+alan bennett|.|bbc_entertainment_006.txt|.|1|.|bbc_entertainment_275.txt|.|2
+venice|.|bbc_entertainment_198.txt|.|1
+finest|.|bbc_entertainment_008.txt|.|2
+act|.|bbc_entertainment_251.txt|.|4|.|bbc_entertainment_132.txt|.|3|.|bbc_entertainment_284.txt|.|2|.|bbc_entertainment_255.txt|.|2|.|bbc_entertainment_229.txt|.|2|.|bbc_entertainment_153.txt|.|4|.|bbc_entertainment_142.txt|.|2
+copies|.|bbc_entertainment_376.txt|.|2|.|bbc_entertainment_143.txt|.|5
+starred|.|bbc_entertainment_217.txt|.|1|.|bbc_entertainment_092.txt|.|1|.|bbc_entertainment_343.txt|.|2
+small island|.|bbc_entertainment_007.txt|.|2|.|bbc_entertainment_013.txt|.|2
+urban act|.|bbc_entertainment_251.txt|.|2
+williams|.|bbc_entertainment_253.txt|.|13|.|bbc_entertainment_119.txt|.|2|.|bbc_entertainment_037.txt|.|3
+brit awards|.|bbc_entertainment_251.txt|.|2
+controversial|.|bbc_entertainment_192.txt|.|2|.|bbc_entertainment_099.txt|.|2
+female|.|bbc_entertainment_251.txt|.|2|.|bbc_entertainment_386.txt|.|3|.|bbc_entertainment_286.txt|.|3
+fahrenheit|.|bbc_entertainment_326.txt|.|5
+motley|.|bbc_entertainment_252.txt|.|2
+weitz|.|bbc_entertainment_094.txt|.|6
+aborted tour|.|bbc_entertainment_247.txt|.|1
+read|.|bbc_entertainment_027.txt|.|2
+conducted|.|bbc_entertainment_023.txt|.|3|.|bbc_entertainment_273.txt|.|3
+arnold|.|bbc_entertainment_371.txt|.|3|.|bbc_entertainment_369.txt|.|5
+paris suburb|.|bbc_entertainment_067.txt|.|1
+williams jr|.|bbc_entertainment_119.txt|.|2
+davey said|.|bbc_entertainment_041.txt|.|2
+mtv|.|bbc_entertainment_168.txt|.|11|.|bbc_entertainment_132.txt|.|2|.|bbc_entertainment_206.txt|.|2|.|bbc_entertainment_286.txt|.|2|.|bbc_entertainment_153.txt|.|5
+mckendry|.|bbc_entertainment_369.txt|.|1
+animation|.|bbc_entertainment_353.txt|.|4|.|bbc_entertainment_332.txt|.|2|.|bbc_entertainment_065.txt|.|2
+recording studio|.|bbc_entertainment_344.txt|.|2
+hey ya|.|bbc_entertainment_153.txt|.|2
+books|.|bbc_entertainment_024.txt|.|4
+alan|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_006.txt|.|2|.|bbc_entertainment_383.txt|.|2|.|bbc_entertainment_275.txt|.|3|.|bbc_entertainment_356.txt|.|2
+animated|.|bbc_entertainment_070.txt|.|1|.|bbc_entertainment_332.txt|.|4|.|bbc_entertainment_302.txt|.|1
+rapper had filmed|.|bbc_entertainment_279.txt|.|1
+second series|.|bbc_entertainment_174.txt|.|2
+light bulb|.|bbc_entertainment_001.txt|.|1
+british female|.|bbc_entertainment_251.txt|.|2
+singer|.|bbc_entertainment_162.txt|.|1|.|bbc_entertainment_232.txt|.|2|.|bbc_entertainment_334.txt|.|3|.|bbc_entertainment_258.txt|.|3|.|bbc_entertainment_153.txt|.|4|.|bbc_entertainment_250.txt|.|1|.|bbc_entertainment_276.txt|.|4|.|bbc_entertainment_150.txt|.|2|.|bbc_entertainment_096.txt|.|3|.|bbc_entertainment_246.txt|.|2|.|bbc_entertainment_114.txt|.|3|.|bbc_entertainment_161.txt|.|2|.|bbc_entertainment_293.txt|.|5|.|bbc_entertainment_177.txt|.|2|.|bbc_entertainment_138.txt|.|3|.|bbc_entertainment_158.txt|.|3|.|bbc_entertainment_141.txt|.|3|.|bbc_entertainment_260.txt|.|2|.|bbc_entertainment_223.txt|.|3
+alda|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+bush|.|bbc_entertainment_097.txt|.|2
+incredibles|.|bbc_entertainment_332.txt|.|5
+pixies|.|bbc_entertainment_322.txt|.|5
+curtis|.|bbc_entertainment_228.txt|.|2
+robbie|.|bbc_entertainment_253.txt|.|27
+parole|.|bbc_entertainment_110.txt|.|3
+levy|.|bbc_entertainment_007.txt|.|2
+new entry|.|bbc_entertainment_346.txt|.|3
+national book|.|bbc_entertainment_024.txt|.|2
+mel|.|bbc_entertainment_097.txt|.|2|.|bbc_entertainment_326.txt|.|2
+stone roses|.|bbc_entertainment_293.txt|.|2
+mcewan|.|bbc_entertainment_017.txt|.|3
+film awards|.|bbc_entertainment_357.txt|.|2
+share|.|bbc_entertainment_179.txt|.|4|.|bbc_entertainment_216.txt|.|4
+records as a producer|.|bbc_entertainment_124.txt|.|1
+row|.|bbc_entertainment_257.txt|.|2
+saying|.|bbc_entertainment_349.txt|.|1
+europe|.|bbc_entertainment_153.txt|.|3
+roy|.|bbc_entertainment_018.txt|.|3
+universal|.|bbc_entertainment_077.txt|.|2
+fiction prize|.|bbc_entertainment_024.txt|.|1
+cesar|.|bbc_entertainment_067.txt|.|3|.|bbc_entertainment_063.txt|.|5
+declared|.|bbc_entertainment_048.txt|.|2
+auctioned in new york|.|bbc_entertainment_018.txt|.|1
+congratulated|.|bbc_entertainment_371.txt|.|2
+viacom|.|bbc_entertainment_199.txt|.|9
+winning|.|bbc_entertainment_371.txt|.|1|.|bbc_entertainment_056.txt|.|1|.|bbc_entertainment_370.txt|.|1|.|bbc_entertainment_062.txt|.|1
+michael moore|.|bbc_entertainment_097.txt|.|1
+mary|.|bbc_entertainment_295.txt|.|2|.|bbc_entertainment_005.txt|.|3|.|bbc_entertainment_007.txt|.|2|.|bbc_entertainment_275.txt|.|7
+mtv europe awards|.|bbc_entertainment_153.txt|.|2
+pirated dvds|.|bbc_entertainment_366.txt|.|2
+sisters|.|bbc_entertainment_253.txt|.|5|.|bbc_entertainment_128.txt|.|3
+video in jail|.|bbc_entertainment_279.txt|.|2
+nominations|.|bbc_entertainment_150.txt|.|3|.|bbc_entertainment_040.txt|.|5|.|bbc_entertainment_259.txt|.|3|.|bbc_entertainment_337.txt|.|2|.|bbc_entertainment_146.txt|.|2|.|bbc_entertainment_254.txt|.|2|.|bbc_entertainment_326.txt|.|3|.|bbc_entertainment_092.txt|.|4|.|bbc_entertainment_249.txt|.|2|.|bbc_entertainment_156.txt|.|6|.|bbc_entertainment_063.txt|.|2
+mary queen|.|bbc_entertainment_007.txt|.|2
+alternative act|.|bbc_entertainment_153.txt|.|2
+lit idol|.|bbc_entertainment_027.txt|.|2
+film version|.|bbc_entertainment_385.txt|.|2
+fender|.|bbc_entertainment_270.txt|.|2
+tour was cancelled|.|bbc_entertainment_246.txt|.|3
+james brown|.|bbc_entertainment_263.txt|.|2
+suburb|.|bbc_entertainment_067.txt|.|1

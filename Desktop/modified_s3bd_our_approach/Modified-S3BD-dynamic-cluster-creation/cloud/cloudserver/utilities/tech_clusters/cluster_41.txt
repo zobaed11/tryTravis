@@ -1,0 +1,17 @@
+41
+love|.|214.txt|.|4
+site hosting|.|159.txt|.|2|.|147.txt|.|2
+hosting|.|159.txt|.|2|.|147.txt|.|2
+body|.|091.txt|.|3|.|161.txt|.|6
+stay|.|159.txt|.|2|.|147.txt|.|2
+data recovery|.|207.txt|.|2
+white|.|bread.txt|.|3
+ticketing|.|181.txt|.|1
+tuned|.|159.txt|.|2|.|147.txt|.|2
+spammers|.|273.txt|.|6|.|214.txt|.|3
+campaign|.|078.txt|.|2|.|091.txt|.|2|.|159.txt|.|5|.|255.txt|.|3|.|147.txt|.|5|.|123.txt|.|5|.|214.txt|.|8
+make love|.|214.txt|.|4
+saying|.|037.txt|.|1|.|123.txt|.|2|.|333.txt|.|1
+stay tuned|.|159.txt|.|2|.|147.txt|.|2
+results|.|173.txt|.|2
+slug|.|233.txt|.|4|.|169.txt|.|4

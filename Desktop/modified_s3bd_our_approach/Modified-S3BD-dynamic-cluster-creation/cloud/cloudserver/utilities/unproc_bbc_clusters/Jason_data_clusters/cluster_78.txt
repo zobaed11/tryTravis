@@ -1,0 +1,38 @@
+78
+camisoles|.|WET2145.txt|.|28
+road running shoes|.|WET1415.txt|.|20
+cepr discussion papers|.|WET3466.txt|.|190
+mts al basmalah|.|WET3749.txt|.|5
+footwear boots|.|WET1623.txt|.|32
+approach|.|WET1415.txt|.|50
+suits|.|WET1178.txt|.|54|.|WET4930.txt|.|52
+radiant|.|WET3249.txt|.|128
+conversations|.|WET5725.txt|.|29|.|WET5724.txt|.|28
+athletic mobility|.|WET2787.txt|.|28
+camisoles sweaters|.|WET2145.txt|.|28
+running|.|WET3965.txt|.|112|.|WET1118.txt|.|106|.|WET2797.txt|.|9|.|WET1415.txt|.|161|.|WET5576.txt|.|20|.|WET218.txt|.|107|.|WET5551.txt|.|53
+path|.|WET4482.txt|.|32
+east|.|WET4098.txt|.|24|.|WET1873.txt|.|23|.|WET5706.txt|.|34|.|WET5623.txt|.|45|.|WET5878.txt|.|8|.|WET4562.txt|.|25|.|WET1708.txt|.|77|.|WET4693.txt|.|40|.|WET5165.txt|.|67|.|WET2366.txt|.|5
+dresses skirts|.|WET1178.txt|.|50|.|WET4930.txt|.|52
+flip flops|.|WET1377.txt|.|16|.|WET1623.txt|.|24
+boycott|.|WET5373.txt|.|15
+approach shoes|.|WET1415.txt|.|50
+jewelry|.|WET1898.txt|.|209|.|WET5636.txt|.|180|.|WET2793.txt|.|294|.|WET2876.txt|.|86|.|WET3597.txt|.|32|.|WET2188.txt|.|189|.|WET5867.txt|.|17|.|WET1800.txt|.|63|.|WET1815.txt|.|73|.|WET3275.txt|.|36|.|WET4607.txt|.|68
+clips spring grip|.|WET2728.txt|.|16
+baby boy|.|WET5186.txt|.|23
+toulouse|.|WET5515.txt|.|78
+bikes|.|WET5051.txt|.|41|.|WET5054.txt|.|113|.|WET94.txt|.|15|.|WET5496.txt|.|16|.|WET5314.txt|.|10|.|WET1153.txt|.|172|.|WET5208.txt|.|193
+cpp files|.|WET174.txt|.|6
+mereka|.|WET2223.txt|.|15
+fleece|.|WET1623.txt|.|33
+chictopia|.|WET5220.txt|.|39
+wraps|.|WET2145.txt|.|36
+palo alto|.|WET2588.txt|.|62
+pistols|.|WET1139.txt|.|48|.|WET4885.txt|.|186|.|WET1138.txt|.|177
+cupsresultsworld|.|WET3315.txt|.|14
+capitol|.|WET5730.txt|.|23
+person tents|.|WET1153.txt|.|35
+person|.|WET3569.txt|.|14|.|WET994.txt|.|25|.|WET5909.txt|.|19|.|WET777.txt|.|17|.|WET4190.txt|.|11|.|WET5323.txt|.|3|.|WET1153.txt|.|44
+koi scrubs|.|WET2839.txt|.|48
+water shoes|.|WET1623.txt|.|24
+star rating|.|WET2269.txt|.|58

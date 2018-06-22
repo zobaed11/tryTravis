@@ -1,0 +1,91 @@
+13
+voice|.|bbc_tech_310.txt|.|7|.|bbc_tech_279.txt|.|5|.|bbc_tech_251.txt|.|3|.|bbc_tech_089.txt|.|7|.|bbc_tech_302.txt|.|5
+copyright|.|bbc_tech_303.txt|.|4|.|bbc_tech_075.txt|.|4
+handheld console|.|bbc_tech_084.txt|.|2
+games industry|.|bbc_tech_231.txt|.|2|.|bbc_tech_100.txt|.|3
+communicate|.|bbc_tech_251.txt|.|2
+movie|.|bbc_tech_091.txt|.|7|.|bbc_tech_241.txt|.|3|.|bbc_tech_038.txt|.|2
+called|.|bbc_tech_210.txt|.|2
+fiction|.|bbc_tech_139.txt|.|3
+republic|.|bbc_tech_001.txt|.|3
+relay services|.|bbc_tech_251.txt|.|2
+british|.|bbc_tech_204.txt|.|6|.|bbc_tech_231.txt|.|2
+turns|.|bbc_tech_210.txt|.|1
+firm|.|bbc_tech_024.txt|.|2|.|bbc_tech_269.txt|.|4|.|bbc_tech_280.txt|.|2|.|bbc_tech_043.txt|.|2|.|bbc_tech_268.txt|.|2|.|bbc_tech_314.txt|.|4|.|bbc_tech_221.txt|.|1|.|bbc_tech_373.txt|.|2|.|bbc_tech_079.txt|.|2|.|bbc_tech_055.txt|.|4|.|bbc_tech_246.txt|.|1|.|bbc_tech_271.txt|.|1|.|bbc_tech_290.txt|.|2|.|bbc_tech_362.txt|.|4|.|bbc_tech_122.txt|.|3|.|bbc_tech_250.txt|.|2|.|bbc_tech_148.txt|.|2|.|bbc_tech_116.txt|.|2|.|bbc_tech_276.txt|.|4|.|bbc_tech_010.txt|.|2|.|bbc_tech_261.txt|.|3
+act|.|bbc_tech_273.txt|.|5
+biggest|.|bbc_tech_276.txt|.|3
+agricultural|.|bbc_tech_006.txt|.|3
+deaf people|.|bbc_tech_251.txt|.|5
+casual|.|bbc_tech_170.txt|.|8
+challenge sky|.|bbc_tech_070.txt|.|2
+jerry|.|bbc_tech_065.txt|.|2
+star wars|.|bbc_tech_125.txt|.|5|.|bbc_tech_094.txt|.|4|.|bbc_tech_313.txt|.|4
+add|.|bbc_tech_119.txt|.|3
+similar|.|bbc_tech_280.txt|.|3
+mapping|.|bbc_tech_223.txt|.|3
+million copies|.|bbc_tech_203.txt|.|2|.|bbc_tech_160.txt|.|2
+classification|.|bbc_tech_231.txt|.|2
+video relay|.|bbc_tech_251.txt|.|3
+similar services|.|bbc_tech_280.txt|.|1
+cable firm|.|bbc_tech_280.txt|.|1
+atms|.|bbc_tech_122.txt|.|4
+ms simonetti|.|bbc_tech_102.txt|.|9|.|bbc_tech_133.txt|.|6|.|bbc_tech_180.txt|.|6
+film classification|.|bbc_tech_231.txt|.|2
+nachison|.|bbc_tech_099.txt|.|5
+institute|.|bbc_tech_282.txt|.|2
+wars|.|bbc_tech_125.txt|.|5|.|bbc_tech_094.txt|.|4|.|bbc_tech_313.txt|.|4
+aid|.|bbc_tech_199.txt|.|2|.|bbc_tech_097.txt|.|9|.|bbc_tech_027.txt|.|2|.|bbc_tech_106.txt|.|3|.|bbc_tech_142.txt|.|3|.|bbc_tech_315.txt|.|2
+gameplay|.|bbc_tech_125.txt|.|2|.|bbc_tech_135.txt|.|3
+rifle|.|bbc_tech_202.txt|.|6
+entertainment|.|bbc_tech_215.txt|.|2|.|bbc_tech_094.txt|.|3|.|bbc_tech_363.txt|.|3|.|bbc_tech_167.txt|.|2|.|bbc_tech_313.txt|.|3
+companion|.|bbc_tech_121.txt|.|3
+city|.|bbc_tech_201.txt|.|3
+political campaigns|.|bbc_tech_157.txt|.|4
+cebit|.|bbc_tech_347.txt|.|9|.|bbc_tech_395.txt|.|5
+google has launched|.|bbc_tech_076.txt|.|1
+video|.|bbc_tech_024.txt|.|2|.|bbc_tech_139.txt|.|6|.|bbc_tech_309.txt|.|5|.|bbc_tech_280.txt|.|3|.|bbc_tech_076.txt|.|6|.|bbc_tech_130.txt|.|2|.|bbc_tech_070.txt|.|3|.|bbc_tech_178.txt|.|2|.|bbc_tech_251.txt|.|5|.|bbc_tech_182.txt|.|4|.|bbc_tech_104.txt|.|2|.|bbc_tech_394.txt|.|4|.|bbc_tech_205.txt|.|1|.|bbc_tech_386.txt|.|12|.|bbc_tech_203.txt|.|2|.|bbc_tech_082.txt|.|2|.|bbc_tech_216.txt|.|2|.|bbc_tech_094.txt|.|3|.|bbc_tech_231.txt|.|4|.|bbc_tech_183.txt|.|5|.|bbc_tech_313.txt|.|3|.|bbc_tech_157.txt|.|5|.|bbc_tech_276.txt|.|9|.|bbc_tech_222.txt|.|9
+malicious program|.|bbc_tech_257.txt|.|3|.|bbc_tech_197.txt|.|2
+cell|.|bbc_tech_320.txt|.|8|.|bbc_tech_018.txt|.|5|.|bbc_tech_190.txt|.|4|.|bbc_tech_319.txt|.|14|.|bbc_tech_142.txt|.|2
+conversations|.|bbc_tech_251.txt|.|2
+local|.|bbc_tech_264.txt|.|5|.|bbc_tech_242.txt|.|3|.|bbc_tech_365.txt|.|5
+retail|.|bbc_tech_352.txt|.|2
+laser|.|bbc_tech_019.txt|.|8|.|bbc_tech_329.txt|.|9|.|bbc_tech_023.txt|.|6
+criminal use|.|bbc_tech_077.txt|.|1
+handset|.|bbc_tech_305.txt|.|4
+electronic|.|bbc_tech_252.txt|.|2|.|bbc_tech_008.txt|.|2
+wants|.|bbc_tech_276.txt|.|3
+company|.|bbc_tech_024.txt|.|3|.|bbc_tech_084.txt|.|2|.|bbc_tech_390.txt|.|4|.|bbc_tech_065.txt|.|2
+dating|.|bbc_tech_386.txt|.|12
+satellite|.|bbc_tech_066.txt|.|5|.|bbc_tech_381.txt|.|5|.|bbc_tech_223.txt|.|7
+surveillance|.|bbc_tech_143.txt|.|4
+next year|.|bbc_tech_163.txt|.|2|.|bbc_tech_291.txt|.|2
+analyst for forrester|.|bbc_tech_242.txt|.|1
+violence|.|bbc_tech_231.txt|.|3
+video phones|.|bbc_tech_386.txt|.|4|.|bbc_tech_182.txt|.|3
+hard drive|.|bbc_tech_336.txt|.|2|.|bbc_tech_070.txt|.|2|.|bbc_tech_301.txt|.|6
+portable music|.|bbc_tech_183.txt|.|3
+brands|.|bbc_tech_206.txt|.|8
+video game|.|bbc_tech_024.txt|.|2|.|bbc_tech_139.txt|.|2|.|bbc_tech_082.txt|.|2|.|bbc_tech_130.txt|.|1|.|bbc_tech_178.txt|.|1|.|bbc_tech_276.txt|.|5
+star|.|bbc_tech_125.txt|.|5|.|bbc_tech_094.txt|.|5|.|bbc_tech_313.txt|.|5
+michigan|.|bbc_tech_236.txt|.|3
+forward|.|bbc_tech_280.txt|.|2
+virgin says radio|.|bbc_tech_344.txt|.|1
+television|.|bbc_tech_199.txt|.|6|.|bbc_tech_240.txt|.|3
+relay|.|bbc_tech_251.txt|.|6
+player market|.|bbc_tech_183.txt|.|3
+company said|.|bbc_tech_390.txt|.|2
+called bofra|.|bbc_tech_210.txt|.|2
+fast lifts|.|bbc_tech_253.txt|.|1
+picture|.|bbc_tech_201.txt|.|2|.|bbc_tech_094.txt|.|2|.|bbc_tech_313.txt|.|2|.|bbc_tech_208.txt|.|8
+grand theft|.|bbc_tech_130.txt|.|2|.|bbc_tech_178.txt|.|2
+challenge sky plus|.|bbc_tech_070.txt|.|2
+early hours|.|bbc_tech_101.txt|.|2
+video mobile|.|bbc_tech_386.txt|.|1
+top box|.|bbc_tech_070.txt|.|1
+home video|.|bbc_tech_094.txt|.|2|.|bbc_tech_313.txt|.|2
+san andreas|.|bbc_tech_135.txt|.|6|.|bbc_tech_130.txt|.|5|.|bbc_tech_178.txt|.|5
+disasters emergency|.|bbc_tech_027.txt|.|1|.|bbc_tech_315.txt|.|1
+free mojtaba|.|bbc_tech_016.txt|.|3
+hitachi said|.|bbc_tech_356.txt|.|2
+dating services|.|bbc_tech_386.txt|.|3
+anniversary|.|bbc_tech_065.txt|.|2

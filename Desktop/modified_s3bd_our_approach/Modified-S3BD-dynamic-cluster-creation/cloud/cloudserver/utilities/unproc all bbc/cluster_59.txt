@@ -1,0 +1,64 @@
+economic reforms|.|bbc_business_285.txt|.|1
+margins|.|bbc_business_050.txt|.|2|.|bbc_business_247.txt|.|2
+handheld gaming|.|bbc_tech_363.txt|.|2|.|bbc_tech_351.txt|.|2
+western europe|.|bbc_business_173.txt|.|3|.|bbc_tech_064.txt|.|2|.|bbc_tech_338.txt|.|2|.|bbc_business_247.txt|.|4
+ya|.|bbc_entertainment_153.txt|.|2
+rebuilding|.|bbc_business_262.txt|.|2|.|bbc_business_411.txt|.|2
+soderling|.|bbc_sport_505.txt|.|4
+poll|.|bbc_tech_031.txt|.|2|.|bbc_entertainment_106.txt|.|3|.|bbc_entertainment_268.txt|.|3|.|bbc_sport_248.txt|.|4|.|bbc_politics_207.txt|.|3|.|bbc_business_495.txt|.|6|.|bbc_politics_387.txt|.|1
+texas|.|bbc_tech_202.txt|.|5|.|bbc_tech_273.txt|.|7
+labs europe|.|bbc_tech_282.txt|.|2
+forensic|.|bbc_entertainment_193.txt|.|12
+pole|.|bbc_sport_029.txt|.|2
+mr thoday|.|bbc_entertainment_003.txt|.|2|.|bbc_entertainment_272.txt|.|2
+bowden|.|bbc_tech_143.txt|.|4
+resolution|.|bbc_tech_201.txt|.|2
+viewing|.|bbc_tech_146.txt|.|3|.|bbc_tech_158.txt|.|3
+yard drive|.|bbc_sport_146.txt|.|2
+higher price|.|bbc_business_176.txt|.|2
+visiting the website|.|bbc_tech_385.txt|.|2
+wow|.|bbc_tech_240.txt|.|2
+viruses|.|bbc_tech_290.txt|.|3|.|bbc_tech_077.txt|.|6
+new models|.|bbc_business_410.txt|.|1|.|bbc_business_141.txt|.|1
+munich|.|bbc_business_262.txt|.|2|.|bbc_sport_237.txt|.|3|.|bbc_business_346.txt|.|2
+re|.|bbc_business_262.txt|.|4|.|bbc_business_346.txt|.|6|.|bbc_business_311.txt|.|3
+labs|.|bbc_tech_282.txt|.|11
+europeans|.|bbc_tech_146.txt|.|2|.|bbc_tech_158.txt|.|2
+speaker|.|bbc_politics_117.txt|.|7|.|bbc_politics_287.txt|.|7|.|bbc_politics_310.txt|.|3|.|bbc_politics_123.txt|.|3
+jupiter research|.|bbc_tech_146.txt|.|3|.|bbc_tech_158.txt|.|3
+analysts jupiter|.|bbc_tech_146.txt|.|2
+replacement|.|bbc_politics_319.txt|.|1|.|bbc_tech_064.txt|.|4|.|bbc_tech_015.txt|.|2|.|bbc_sport_344.txt|.|3|.|bbc_tech_338.txt|.|4|.|bbc_sport_332.txt|.|3|.|bbc_tech_194.txt|.|1|.|bbc_entertainment_197.txt|.|2
+imf|.|bbc_business_107.txt|.|8|.|bbc_business_098.txt|.|4|.|bbc_business_469.txt|.|5
+glaxosmithkline|.|bbc_business_176.txt|.|2
+death|.|bbc_politics_229.txt|.|4|.|bbc_politics_214.txt|.|4
+steal|.|bbc_tech_077.txt|.|2
+nintendo ds|.|bbc_tech_363.txt|.|1|.|bbc_tech_351.txt|.|1
+renault|.|bbc_business_247.txt|.|7
+hdtv|.|bbc_tech_240.txt|.|13
+christina|.|bbc_entertainment_260.txt|.|2
+operations|.|bbc_business_204.txt|.|2|.|bbc_business_488.txt|.|2|.|bbc_politics_150.txt|.|2
+replacement phones|.|bbc_tech_064.txt|.|2|.|bbc_tech_338.txt|.|2
+currency|.|bbc_business_496.txt|.|3|.|bbc_business_372.txt|.|4|.|bbc_business_018.txt|.|3
+endeavour|.|bbc_tech_277.txt|.|3
+europe|.|bbc_tech_317.txt|.|3|.|bbc_tech_059.txt|.|4|.|bbc_tech_240.txt|.|5|.|bbc_tech_338.txt|.|2|.|bbc_tech_351.txt|.|1|.|bbc_tech_147.txt|.|2|.|bbc_business_285.txt|.|3|.|bbc_tech_322.txt|.|4|.|bbc_tech_064.txt|.|2|.|bbc_business_176.txt|.|3|.|bbc_business_141.txt|.|2|.|bbc_tech_025.txt|.|3|.|bbc_business_247.txt|.|5|.|bbc_tech_361.txt|.|3|.|bbc_business_496.txt|.|2|.|bbc_business_262.txt|.|2|.|bbc_business_173.txt|.|4|.|bbc_entertainment_153.txt|.|3|.|bbc_tech_158.txt|.|2|.|bbc_business_058.txt|.|3|.|bbc_tech_282.txt|.|3|.|bbc_tech_214.txt|.|4|.|bbc_tech_159.txt|.|2|.|bbc_sport_160.txt|.|2|.|bbc_tech_146.txt|.|2|.|bbc_business_152.txt|.|2|.|bbc_business_089.txt|.|2
+mcgee|.|bbc_sport_324.txt|.|2
+agricultural information|.|bbc_tech_006.txt|.|2
+viewers could even be rewarded|.|bbc_tech_124.txt|.|1
+alternative|.|bbc_business_071.txt|.|1|.|bbc_entertainment_153.txt|.|2|.|bbc_business_363.txt|.|2
+adopted children|.|bbc_entertainment_166.txt|.|2
+exeter|.|bbc_sport_240.txt|.|5
+great|.|bbc_tech_336.txt|.|1|.|bbc_sport_397.txt|.|2|.|bbc_sport_500.txt|.|4|.|bbc_sport_078.txt|.|2|.|bbc_sport_143.txt|.|2|.|bbc_politics_166.txt|.|2|.|bbc_sport_370.txt|.|5|.|bbc_sport_074.txt|.|2|.|bbc_sport_218.txt|.|2|.|bbc_business_247.txt|.|2
+mr jacobsen|.|bbc_tech_271.txt|.|4
+march|.|bbc_tech_317.txt|.|3|.|bbc_politics_354.txt|.|2|.|bbc_tech_084.txt|.|2|.|bbc_entertainment_362.txt|.|2|.|bbc_business_412.txt|.|2|.|bbc_sport_087.txt|.|3|.|bbc_politics_077.txt|.|2|.|bbc_sport_403.txt|.|1|.|bbc_business_295.txt|.|4|.|bbc_tech_238.txt|.|1|.|bbc_tech_025.txt|.|3
+music downloads|.|bbc_tech_064.txt|.|2|.|bbc_tech_338.txt|.|2|.|bbc_tech_383.txt|.|2
+panke|.|bbc_business_141.txt|.|5
+fans|.|bbc_entertainment_137.txt|.|3|.|bbc_sport_066.txt|.|2|.|bbc_sport_265.txt|.|2|.|bbc_tech_245.txt|.|2|.|bbc_tech_266.txt|.|2|.|bbc_tech_139.txt|.|3|.|bbc_entertainment_183.txt|.|4|.|bbc_entertainment_233.txt|.|3|.|bbc_tech_144.txt|.|3|.|bbc_sport_234.txt|.|3|.|bbc_entertainment_287.txt|.|3|.|bbc_sport_148.txt|.|4|.|bbc_tech_093.txt|.|2
+appearance|.|bbc_entertainment_360.txt|.|1
+tv viewing|.|bbc_tech_146.txt|.|2|.|bbc_tech_158.txt|.|2
+stepanek|.|bbc_sport_505.txt|.|2
+demand for crossover|.|bbc_business_141.txt|.|1
+easton|.|bbc_sport_109.txt|.|4
+unwanted|.|bbc_politics_169.txt|.|2
+gamers|.|bbc_tech_317.txt|.|2|.|bbc_tech_306.txt|.|3|.|bbc_tech_249.txt|.|5|.|bbc_tech_274.txt|.|2|.|bbc_tech_185.txt|.|4|.|bbc_tech_153.txt|.|4|.|bbc_tech_238.txt|.|2|.|bbc_tech_140.txt|.|4|.|bbc_tech_025.txt|.|2
+tsunami benefit|.|bbc_entertainment_104.txt|.|2
+demand for such crossover vehicles|.|bbc_business_141.txt|.|1

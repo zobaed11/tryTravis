@@ -1,0 +1,38 @@
+10
+don|.|WET6231.txt|.|1
+new delhi|.|WET510.txt|.|104
+formats|.|WET3745.txt|.|36
+smith|.|WET4172.txt|.|263|.|WET5892.txt|.|27|.|WET4285.txt|.|75
+young|.|WET3252.txt|.|22|.|WET4125.txt|.|22|.|WET4346.txt|.|114|.|WET2859.txt|.|42|.|WET4.txt|.|4|.|WET61.txt|.|21
+guarantee|.|WET5891.txt|.|9|.|WET3357.txt|.|17
+focus|.|WET1842.txt|.|45
+cutter|.|WET1547.txt|.|45
+john lewis|.|WET5891.txt|.|74
+golden number|.|WET4370.txt|.|21
+correction control|.|WET4486.txt|.|103
+dagens|.|WET497.txt|.|19
+john baez|.|WET4370.txt|.|5
+john tarleton|.|WET948.txt|.|12
+preis|.|WET847.txt|.|28
+son|.|WET5638.txt|.|30|.|WET5345.txt|.|57|.|WET3200.txt|.|14|.|WET5899.txt|.|20|.|WET5892.txt|.|59
+tom|.|WET1281.txt|.|30|.|WET5891.txt|.|71|.|WET2250.txt|.|1|.|WET5988.txt|.|3|.|WET975.txt|.|27|.|WET3117.txt|.|30
+mai|.|WET857.txt|.|16|.|WET3388.txt|.|21|.|WET4172.txt|.|73
+john barrowman|.|WET5890.txt|.|26
+dora|.|WET2150.txt|.|22
+terms|.|WET9.txt|.|29|.|WET3923.txt|.|2|.|WET5890.txt|.|33|.|WET4649.txt|.|8|.|WET6204.txt|.|2|.|WET791.txt|.|9|.|WET4790.txt|.|11|.|WET6162.txt|.|13|.|WET1337.txt|.|16
+belle|.|WET4172.txt|.|41
+henson|.|WET498.txt|.|14
+john kerry|.|WET510.txt|.|107
+harris|.|WET847.txt|.|88
+price match|.|WET5891.txt|.|24|.|WET2872.txt|.|21
+john deere|.|WET1958.txt|.|122
+mma forum|.|WET6124.txt|.|62|.|WET2379.txt|.|48
+tarleton agricultural|.|WET948.txt|.|12
+keine angaben|.|WET1714.txt|.|131
+barrowman|.|WET5890.txt|.|26
+delhi july|.|WET510.txt|.|90
+forster|.|WET5392.txt|.|33
+year guarantee|.|WET5891.txt|.|9
+institute|.|WET777.txt|.|15|.|WET510.txt|.|14|.|WET1205.txt|.|12
+wade|.|WET4172.txt|.|38
+delhi|.|WET510.txt|.|106

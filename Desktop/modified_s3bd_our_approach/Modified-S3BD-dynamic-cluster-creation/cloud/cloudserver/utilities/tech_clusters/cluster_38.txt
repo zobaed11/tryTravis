@@ -1,0 +1,17 @@
+38
+euros|.|084.txt|.|2|.|351.txt|.|1
+sky|.|124.txt|.|7|.|070.txt|.|7
+handheld console|.|084.txt|.|2
+adapter|.|247.txt|.|5
+large|.|bread.txt|.|5
+lower|.|blood.txt|.|4
+book of records|.|253.txt|.|2
+metal|.|233.txt|.|4|.|169.txt|.|4
+guinness|.|253.txt|.|4
+bit|.|311.txt|.|4|.|095.txt|.|4
+national laboratory|.|141.txt|.|2|.|173.txt|.|2
+power consumption|.|367.txt|.|2
+ds|.|185.txt|.|6|.|084.txt|.|9|.|238.txt|.|3|.|153.txt|.|6|.|351.txt|.|11|.|247.txt|.|7|.|363.txt|.|2
+four|.|112.txt|.|2|.|166.txt|.|3|.|165.txt|.|3
+imagery|.|223.txt|.|2
+animals|.|202.txt|.|6

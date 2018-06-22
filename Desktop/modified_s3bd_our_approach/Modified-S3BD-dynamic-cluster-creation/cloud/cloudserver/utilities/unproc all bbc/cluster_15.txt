@@ -1,0 +1,64 @@
+forwards|.|bbc_sport_337.txt|.|3|.|bbc_sport_336.txt|.|1
+postcards on sale|.|bbc_entertainment_011.txt|.|1
+opera|.|bbc_entertainment_023.txt|.|5|.|bbc_entertainment_192.txt|.|2|.|bbc_entertainment_273.txt|.|5|.|bbc_tech_310.txt|.|8|.|bbc_tech_089.txt|.|8
+stade de france|.|bbc_sport_320.txt|.|2
+bonus|.|bbc_business_281.txt|.|4|.|bbc_business_206.txt|.|5
+john mccririck|.|bbc_entertainment_180.txt|.|2
+star on the rap|.|bbc_entertainment_282.txt|.|1
+digital terrestrial|.|bbc_tech_371.txt|.|6
+lacklustre|.|bbc_sport_412.txt|.|2
+circulating|.|bbc_tech_026.txt|.|2
+national statistics|.|bbc_business_057.txt|.|2|.|bbc_business_441.txt|.|2
+terrestrial|.|bbc_tech_371.txt|.|6
+suffered|.|bbc_sport_340.txt|.|1|.|bbc_entertainment_118.txt|.|1
+reeves|.|bbc_entertainment_364.txt|.|2|.|bbc_entertainment_339.txt|.|4
+supplies|.|bbc_business_378.txt|.|4
+major risks|.|bbc_business_289.txt|.|2
+bollywood|.|bbc_entertainment_366.txt|.|8|.|bbc_entertainment_349.txt|.|2|.|bbc_entertainment_300.txt|.|8
+fear|.|bbc_politics_114.txt|.|1|.|bbc_politics_036.txt|.|6|.|bbc_sport_296.txt|.|2
+arese plant|.|bbc_business_148.txt|.|1
+cedric|.|bbc_sport_344.txt|.|2|.|bbc_sport_332.txt|.|2
+printer|.|bbc_tech_333.txt|.|6|.|bbc_tech_037.txt|.|6
+half replacement|.|bbc_sport_344.txt|.|1|.|bbc_sport_332.txt|.|1
+stade|.|bbc_sport_320.txt|.|2
+safety risk|.|bbc_business_081.txt|.|2
+respect|.|bbc_sport_202.txt|.|2
+terrestrial tv|.|bbc_tech_371.txt|.|3
+julien|.|bbc_sport_287.txt|.|3
+france telecom|.|bbc_business_112.txt|.|6
+vinci code|.|bbc_entertainment_009.txt|.|3|.|bbc_entertainment_376.txt|.|5
+scrum|.|bbc_sport_414.txt|.|1
+sella believes|.|bbc_sport_327.txt|.|2
+harinordoquy|.|bbc_sport_287.txt|.|2
+drop goal|.|bbc_sport_284.txt|.|2
+heymans|.|bbc_sport_344.txt|.|2|.|bbc_sport_332.txt|.|2
+liberian|.|bbc_business_107.txt|.|5
+bannatyne|.|bbc_politics_276.txt|.|4
+sella|.|bbc_sport_327.txt|.|9
+targets|.|bbc_business_146.txt|.|11|.|bbc_politics_065.txt|.|2
+mac|.|bbc_tech_300.txt|.|19|.|bbc_tech_336.txt|.|20|.|bbc_tech_068.txt|.|3|.|bbc_tech_297.txt|.|8|.|bbc_tech_260.txt|.|8|.|bbc_tech_301.txt|.|11
+mae|.|bbc_business_298.txt|.|5|.|bbc_business_326.txt|.|9
+bowyer|.|bbc_sport_269.txt|.|6|.|bbc_sport_105.txt|.|4
+legally|.|bbc_business_359.txt|.|2
+telecom|.|bbc_business_112.txt|.|6|.|bbc_tech_378.txt|.|2
+sun life|.|bbc_business_281.txt|.|2
+telecoms|.|bbc_business_112.txt|.|6|.|bbc_tech_349.txt|.|2|.|bbc_business_019.txt|.|3|.|bbc_business_038.txt|.|2
+strong growth|.|bbc_business_112.txt|.|2|.|bbc_business_031.txt|.|3
+respect his decision|.|bbc_sport_202.txt|.|1
+valbon|.|bbc_sport_344.txt|.|3|.|bbc_sport_332.txt|.|3
+dominici says|.|bbc_sport_412.txt|.|2
+robinson|.|bbc_politics_013.txt|.|3|.|bbc_sport_360.txt|.|5|.|bbc_politics_368.txt|.|3|.|bbc_sport_330.txt|.|5|.|bbc_sport_346.txt|.|2|.|bbc_sport_343.txt|.|4|.|bbc_sport_289.txt|.|5|.|bbc_sport_405.txt|.|1|.|bbc_sport_373.txt|.|2|.|bbc_sport_336.txt|.|4|.|bbc_sport_347.txt|.|3|.|bbc_sport_323.txt|.|5|.|bbc_sport_299.txt|.|5|.|bbc_sport_406.txt|.|5|.|bbc_sport_383.txt|.|6|.|bbc_sport_394.txt|.|2|.|bbc_sport_370.txt|.|8|.|bbc_sport_326.txt|.|6
+future of gibraltar|.|bbc_politics_015.txt|.|1
+launch|.|bbc_tech_317.txt|.|2|.|bbc_tech_280.txt|.|2|.|bbc_business_169.txt|.|1|.|bbc_tech_371.txt|.|4|.|bbc_sport_266.txt|.|2|.|bbc_tech_025.txt|.|2
+santini resigns|.|bbc_sport_202.txt|.|1
+uk athletics|.|bbc_sport_015.txt|.|4|.|bbc_sport_043.txt|.|3
+attacking|.|bbc_sport_337.txt|.|3
+henry|.|bbc_sport_271.txt|.|4|.|bbc_sport_200.txt|.|4|.|bbc_sport_281.txt|.|2
+mbe|.|bbc_sport_090.txt|.|2
+walden|.|bbc_entertainment_276.txt|.|1
+cedric heymans|.|bbc_sport_344.txt|.|2|.|bbc_sport_332.txt|.|2
+louise|.|bbc_politics_151.txt|.|2
+front|.|bbc_sport_022.txt|.|3|.|bbc_sport_337.txt|.|3
+pradesh|.|bbc_business_377.txt|.|2
+backs|.|bbc_politics_086.txt|.|1|.|bbc_sport_359.txt|.|1|.|bbc_sport_412.txt|.|2|.|bbc_politics_021.txt|.|1|.|bbc_politics_356.txt|.|1|.|bbc_business_241.txt|.|1|.|bbc_tech_219.txt|.|1|.|bbc_tech_224.txt|.|1|.|bbc_sport_337.txt|.|4
+beat england|.|bbc_sport_286.txt|.|2

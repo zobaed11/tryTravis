@@ -1,0 +1,17 @@
+19
+trading|.|385.txt|.|1
+reports|.|400.txt|.|2
+reports suggest|.|400.txt|.|1
+worm|.|257.txt|.|5|.|272.txt|.|7
+santy|.|257.txt|.|4
+help virus|.|210.txt|.|1
+searching|.|257.txt|.|2
+beckham|.|385.txt|.|5
+homeland security|.|400.txt|.|3
+division|.|400.txt|.|7
+bofra|.|210.txt|.|8
+visiting the website|.|385.txt|.|2
+website mentioned|.|385.txt|.|1
+computer infection|.|385.txt|.|1
+department|.|400.txt|.|3
+department of homeland|.|400.txt|.|3

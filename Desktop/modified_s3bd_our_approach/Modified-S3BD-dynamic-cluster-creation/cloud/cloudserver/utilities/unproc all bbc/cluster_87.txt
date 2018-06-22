@@ -1,0 +1,64 @@
+mr chidambaram|.|bbc_business_159.txt|.|7
+shadow|.|bbc_politics_349.txt|.|3|.|bbc_politics_300.txt|.|4|.|bbc_politics_141.txt|.|4|.|bbc_politics_282.txt|.|2
+budget deficit|.|bbc_business_204.txt|.|2|.|bbc_business_488.txt|.|4
+congress|.|bbc_business_249.txt|.|4|.|bbc_business_041.txt|.|3|.|bbc_business_368.txt|.|3
+administration|.|bbc_business_245.txt|.|2
+lie|.|bbc_politics_387.txt|.|2
+iaaf|.|bbc_sport_050.txt|.|5|.|bbc_sport_051.txt|.|5|.|bbc_sport_081.txt|.|7|.|bbc_sport_033.txt|.|3|.|bbc_sport_004.txt|.|6|.|bbc_sport_082.txt|.|4
+smart acquisition|.|bbc_politics_076.txt|.|2
+kenteris|.|bbc_sport_023.txt|.|4|.|bbc_sport_047.txt|.|8|.|bbc_sport_017.txt|.|6|.|bbc_sport_016.txt|.|2|.|bbc_sport_048.txt|.|4|.|bbc_sport_054.txt|.|3|.|bbc_sport_079.txt|.|3|.|bbc_sport_050.txt|.|3|.|bbc_sport_051.txt|.|5|.|bbc_sport_081.txt|.|5|.|bbc_sport_080.txt|.|3|.|bbc_sport_082.txt|.|6
+chidambaram|.|bbc_business_159.txt|.|8
+put|.|bbc_politics_284.txt|.|2|.|bbc_sport_246.txt|.|3|.|bbc_politics_020.txt|.|3|.|bbc_business_137.txt|.|2|.|bbc_business_187.txt|.|3|.|bbc_sport_460.txt|.|2|.|bbc_business_210.txt|.|2|.|bbc_tech_399.txt|.|2
+bdo stoy hayward|.|bbc_business_240.txt|.|2|.|bbc_business_214.txt|.|2
+judy|.|bbc_entertainment_004.txt|.|5
+breaking|.|bbc_business_195.txt|.|2
+spending spree|.|bbc_politics_359.txt|.|2|.|bbc_politics_005.txt|.|2
+spending on primary|.|bbc_business_159.txt|.|2
+hashemian|.|bbc_sport_136.txt|.|2
+equipment|.|bbc_politics_076.txt|.|2
+freed|.|bbc_politics_151.txt|.|2
+theme tune|.|bbc_entertainment_177.txt|.|3
+basis|.|bbc_business_175.txt|.|3|.|bbc_politics_138.txt|.|2
+boeing|.|bbc_business_161.txt|.|12|.|bbc_business_335.txt|.|5|.|bbc_business_069.txt|.|11|.|bbc_business_047.txt|.|3
+secrets|.|bbc_entertainment_011.txt|.|1
+core|.|bbc_politics_155.txt|.|2|.|bbc_business_163.txt|.|4|.|bbc_politics_336.txt|.|2|.|bbc_tech_023.txt|.|2
+spending|.|bbc_business_159.txt|.|8|.|bbc_politics_344.txt|.|6|.|bbc_business_124.txt|.|1|.|bbc_business_438.txt|.|2|.|bbc_business_175.txt|.|5|.|bbc_politics_005.txt|.|3|.|bbc_tech_012.txt|.|2|.|bbc_business_204.txt|.|4|.|bbc_business_290.txt|.|2|.|bbc_business_362.txt|.|3|.|bbc_business_163.txt|.|4|.|bbc_business_044.txt|.|4|.|bbc_politics_387.txt|.|8|.|bbc_tech_331.txt|.|2|.|bbc_business_240.txt|.|2|.|bbc_business_356.txt|.|3|.|bbc_business_190.txt|.|4|.|bbc_politics_282.txt|.|7|.|bbc_business_249.txt|.|8|.|bbc_politics_271.txt|.|4|.|bbc_business_214.txt|.|2|.|bbc_politics_076.txt|.|2|.|bbc_sport_143.txt|.|1|.|bbc_business_055.txt|.|5|.|bbc_business_258.txt|.|3|.|bbc_politics_359.txt|.|3|.|bbc_business_182.txt|.|2|.|bbc_business_072.txt|.|3|.|bbc_business_245.txt|.|9|.|bbc_business_195.txt|.|5|.|bbc_business_165.txt|.|5|.|bbc_politics_138.txt|.|2|.|bbc_politics_389.txt|.|3
+guilty|.|bbc_politics_168.txt|.|8|.|bbc_entertainment_258.txt|.|2|.|bbc_sport_039.txt|.|3|.|bbc_sport_319.txt|.|2|.|bbc_tech_303.txt|.|3|.|bbc_business_401.txt|.|3|.|bbc_politics_231.txt|.|7|.|bbc_business_087.txt|.|2|.|bbc_business_060.txt|.|4|.|bbc_tech_075.txt|.|3
+stoy hayward|.|bbc_business_240.txt|.|2|.|bbc_business_214.txt|.|2
+public spending|.|bbc_business_240.txt|.|2|.|bbc_business_214.txt|.|2
+spending projects|.|bbc_business_195.txt|.|1
+employees|.|bbc_business_400.txt|.|2|.|bbc_tech_068.txt|.|1
+primary|.|bbc_business_159.txt|.|2
+clashed over tax and spending|.|bbc_politics_387.txt|.|1
+psp|.|bbc_tech_317.txt|.|2|.|bbc_tech_045.txt|.|2|.|bbc_tech_112.txt|.|3|.|bbc_tech_345.txt|.|5|.|bbc_tech_341.txt|.|2|.|bbc_tech_238.txt|.|3|.|bbc_tech_025.txt|.|2
+booming|.|bbc_business_261.txt|.|1
+surroundings|.|bbc_sport_143.txt|.|2
+peru|.|bbc_tech_006.txt|.|4
+newton|.|bbc_business_058.txt|.|2|.|bbc_entertainment_147.txt|.|3
+agriculture|.|bbc_politics_343.txt|.|2|.|bbc_politics_236.txt|.|2|.|bbc_business_009.txt|.|3
+budget include|.|bbc_business_249.txt|.|1
+scarman|.|bbc_politics_119.txt|.|6
+flexibility|.|bbc_business_362.txt|.|1
+conte|.|bbc_sport_091.txt|.|3|.|bbc_sport_036.txt|.|3|.|bbc_sport_049.txt|.|11|.|bbc_sport_088.txt|.|11|.|bbc_sport_044.txt|.|4
+juninho|.|bbc_sport_276.txt|.|10|.|bbc_sport_195.txt|.|6
+niesr|.|bbc_business_195.txt|.|7
+downright lie|.|bbc_politics_387.txt|.|2
+bloggers|.|bbc_tech_016.txt|.|11|.|bbc_tech_035.txt|.|5|.|bbc_tech_355.txt|.|6
+overcame|.|bbc_sport_424.txt|.|2
+debit|.|bbc_business_362.txt|.|3
+ptc|.|bbc_entertainment_168.txt|.|4
+include|.|bbc_business_249.txt|.|2|.|bbc_business_131.txt|.|1|.|bbc_politics_234.txt|.|2|.|bbc_entertainment_163.txt|.|1|.|bbc_entertainment_152.txt|.|1
+spending plans|.|bbc_politics_344.txt|.|2|.|bbc_politics_271.txt|.|1|.|bbc_politics_387.txt|.|3|.|bbc_politics_282.txt|.|2
+senior defence|.|bbc_politics_076.txt|.|2
+cost|.|bbc_business_455.txt|.|2|.|bbc_business_262.txt|.|3|.|bbc_politics_391.txt|.|6|.|bbc_entertainment_160.txt|.|2|.|bbc_tech_333.txt|.|2|.|bbc_tech_351.txt|.|2|.|bbc_business_354.txt|.|3|.|bbc_tech_022.txt|.|2|.|bbc_tech_037.txt|.|2|.|bbc_tech_301.txt|.|6|.|bbc_tech_300.txt|.|2|.|bbc_politics_076.txt|.|3|.|bbc_business_398.txt|.|2|.|bbc_business_411.txt|.|3|.|bbc_business_204.txt|.|4|.|bbc_politics_106.txt|.|3|.|bbc_tech_380.txt|.|2
+confidence|.|bbc_business_066.txt|.|4|.|bbc_business_295.txt|.|4|.|bbc_business_361.txt|.|3|.|bbc_business_182.txt|.|2
+ppi|.|bbc_business_163.txt|.|6
+premiere|.|bbc_entertainment_360.txt|.|2|.|bbc_entertainment_294.txt|.|4|.|bbc_entertainment_071.txt|.|4|.|bbc_entertainment_265.txt|.|3|.|bbc_entertainment_036.txt|.|2
+tax and spend|.|bbc_politics_387.txt|.|1
+defence spending|.|bbc_business_204.txt|.|1
+hans christian andersen|.|bbc_entertainment_002.txt|.|3
+clash on tax|.|bbc_politics_387.txt|.|1
+commerce department|.|bbc_business_429.txt|.|2|.|bbc_business_440.txt|.|2|.|bbc_business_165.txt|.|2
+social spending|.|bbc_business_055.txt|.|2
+ladbrokes|.|bbc_entertainment_223.txt|.|3
+president bush|.|bbc_politics_126.txt|.|4|.|bbc_business_204.txt|.|3

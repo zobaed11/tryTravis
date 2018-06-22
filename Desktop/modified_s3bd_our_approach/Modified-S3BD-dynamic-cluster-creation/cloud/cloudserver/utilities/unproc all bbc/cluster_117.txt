@@ -1,0 +1,64 @@
+newcomer|.|bbc_entertainment_253.txt|.|3|.|bbc_entertainment_156.txt|.|2
+animation awards|.|bbc_entertainment_332.txt|.|2
+academy awards|.|bbc_entertainment_059.txt|.|4|.|bbc_entertainment_082.txt|.|2|.|bbc_entertainment_314.txt|.|3|.|bbc_entertainment_039.txt|.|2
+blue beat|.|bbc_entertainment_243.txt|.|2
+teenage|.|bbc_entertainment_249.txt|.|1
+screenplay|.|bbc_entertainment_370.txt|.|3|.|bbc_entertainment_062.txt|.|3
+named best animated|.|bbc_entertainment_332.txt|.|2
+golden globe awards|.|bbc_entertainment_095.txt|.|1
+presentation|.|bbc_entertainment_139.txt|.|1
+usher|.|bbc_entertainment_150.txt|.|4|.|bbc_entertainment_153.txt|.|3|.|bbc_entertainment_156.txt|.|3
+annies|.|bbc_entertainment_332.txt|.|2
+band and album|.|bbc_entertainment_125.txt|.|2
+act|.|bbc_politics_393.txt|.|3|.|bbc_entertainment_251.txt|.|4|.|bbc_entertainment_132.txt|.|3|.|bbc_entertainment_153.txt|.|4|.|bbc_entertainment_142.txt|.|2|.|bbc_tech_273.txt|.|5|.|bbc_politics_066.txt|.|4|.|bbc_entertainment_284.txt|.|2|.|bbc_entertainment_255.txt|.|2|.|bbc_entertainment_229.txt|.|2|.|bbc_politics_179.txt|.|2|.|bbc_politics_233.txt|.|4|.|bbc_politics_242.txt|.|4
+starred|.|bbc_entertainment_217.txt|.|1|.|bbc_entertainment_092.txt|.|1|.|bbc_entertainment_343.txt|.|2
+europe awards|.|bbc_entertainment_153.txt|.|2
+globe awards|.|bbc_entertainment_095.txt|.|1
+exclusive|.|bbc_entertainment_059.txt|.|2
+train|.|bbc_business_123.txt|.|1|.|bbc_business_304.txt|.|2|.|bbc_entertainment_156.txt|.|5
+usher is leading|.|bbc_entertainment_150.txt|.|1|.|bbc_entertainment_156.txt|.|1
+france honour|.|bbc_entertainment_243.txt|.|1
+hayes|.|bbc_sport_041.txt|.|4
+ray|.|bbc_entertainment_372.txt|.|5|.|bbc_entertainment_073.txt|.|6|.|bbc_entertainment_051.txt|.|3|.|bbc_entertainment_344.txt|.|2|.|bbc_entertainment_069.txt|.|3|.|bbc_entertainment_350.txt|.|6|.|bbc_entertainment_357.txt|.|4|.|bbc_entertainment_263.txt|.|4
+dominated|.|bbc_entertainment_139.txt|.|2|.|bbc_sport_473.txt|.|1|.|bbc_entertainment_370.txt|.|1
+honouring its finest|.|bbc_entertainment_008.txt|.|1
+awards presentation|.|bbc_entertainment_139.txt|.|1
+sideways|.|bbc_entertainment_091.txt|.|2|.|bbc_entertainment_040.txt|.|3|.|bbc_entertainment_030.txt|.|4|.|bbc_entertainment_370.txt|.|3|.|bbc_entertainment_062.txt|.|3
+irish band and album|.|bbc_entertainment_125.txt|.|2
+weblog|.|bbc_tech_088.txt|.|2
+eastwood|.|bbc_entertainment_377.txt|.|3|.|bbc_entertainment_095.txt|.|2|.|bbc_entertainment_368.txt|.|9
+scrubs|.|bbc_entertainment_040.txt|.|1|.|bbc_entertainment_224.txt|.|3
+music awards|.|bbc_entertainment_243.txt|.|2
+british female|.|bbc_entertainment_251.txt|.|2
+broadcasting rights|.|bbc_entertainment_059.txt|.|2
+dominates|.|bbc_entertainment_370.txt|.|1
+artist|.|bbc_entertainment_243.txt|.|1
+soul|.|bbc_entertainment_264.txt|.|2|.|bbc_entertainment_259.txt|.|4|.|bbc_entertainment_249.txt|.|2|.|bbc_entertainment_156.txt|.|5
+happened one night|.|bbc_entertainment_314.txt|.|1
+train awards|.|bbc_entertainment_156.txt|.|2
+sideways dominates|.|bbc_entertainment_370.txt|.|1
+end to honour finest|.|bbc_entertainment_008.txt|.|1
+globes|.|bbc_entertainment_095.txt|.|5|.|bbc_entertainment_092.txt|.|2
+chris rock|.|bbc_entertainment_367.txt|.|2
+newcomer awards|.|bbc_entertainment_253.txt|.|2
+mantle|.|bbc_entertainment_059.txt|.|2
+end to honour|.|bbc_entertainment_008.txt|.|1
+west end|.|bbc_entertainment_294.txt|.|2|.|bbc_entertainment_295.txt|.|1|.|bbc_entertainment_008.txt|.|2
+sky said|.|bbc_entertainment_059.txt|.|1
+academy|.|bbc_entertainment_059.txt|.|4|.|bbc_entertainment_035.txt|.|2|.|bbc_entertainment_041.txt|.|4|.|bbc_entertainment_082.txt|.|3|.|bbc_entertainment_314.txt|.|12|.|bbc_entertainment_039.txt|.|3
+games awards|.|bbc_tech_126.txt|.|1|.|bbc_tech_171.txt|.|1
+statues|.|bbc_entertainment_314.txt|.|1
+michael moore|.|bbc_entertainment_097.txt|.|1
+grammy awards|.|bbc_entertainment_139.txt|.|2
+gibson|.|bbc_entertainment_041.txt|.|2|.|bbc_entertainment_097.txt|.|2
+annual bloggies|.|bbc_tech_088.txt|.|2
+sisters|.|bbc_entertainment_253.txt|.|5|.|bbc_entertainment_128.txt|.|3
+nominations|.|bbc_entertainment_150.txt|.|3|.|bbc_entertainment_040.txt|.|5|.|bbc_entertainment_259.txt|.|3|.|bbc_entertainment_337.txt|.|2|.|bbc_entertainment_146.txt|.|2|.|bbc_entertainment_254.txt|.|2|.|bbc_entertainment_326.txt|.|3|.|bbc_entertainment_092.txt|.|4|.|bbc_entertainment_249.txt|.|2|.|bbc_entertainment_156.txt|.|6|.|bbc_entertainment_063.txt|.|2
+happened|.|bbc_entertainment_314.txt|.|1
+oscars|.|bbc_entertainment_041.txt|.|2|.|bbc_entertainment_082.txt|.|2|.|bbc_entertainment_081.txt|.|4|.|bbc_entertainment_326.txt|.|3|.|bbc_entertainment_092.txt|.|2|.|bbc_entertainment_369.txt|.|1|.|bbc_entertainment_062.txt|.|3|.|bbc_entertainment_040.txt|.|2|.|bbc_entertainment_373.txt|.|3|.|bbc_entertainment_337.txt|.|1|.|bbc_entertainment_280.txt|.|5|.|bbc_entertainment_368.txt|.|3|.|bbc_entertainment_039.txt|.|2|.|bbc_entertainment_065.txt|.|1|.|bbc_entertainment_078.txt|.|4
+honouring|.|bbc_entertainment_008.txt|.|1
+alternative act|.|bbc_entertainment_153.txt|.|2
+lopez and anthony|.|bbc_entertainment_146.txt|.|1
+soul train|.|bbc_entertainment_156.txt|.|5
+spirit awards|.|bbc_entertainment_370.txt|.|2|.|bbc_entertainment_062.txt|.|2
+mr strauss|.|bbc_entertainment_367.txt|.|3

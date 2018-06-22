@@ -1,0 +1,104 @@
+17
+prime minister|.|bbc_politics_285.txt|.|2|.|bbc_politics_264.txt|.|4|.|bbc_politics_225.txt|.|7|.|bbc_politics_102.txt|.|2|.|bbc_politics_395.txt|.|3|.|bbc_politics_022.txt|.|1|.|bbc_politics_353.txt|.|4|.|bbc_politics_035.txt|.|2|.|bbc_politics_280.txt|.|4|.|bbc_politics_256.txt|.|4|.|bbc_politics_260.txt|.|6|.|bbc_politics_326.txt|.|7|.|bbc_politics_305.txt|.|2|.|bbc_politics_012.txt|.|1|.|bbc_politics_184.txt|.|2|.|bbc_politics_197.txt|.|2|.|bbc_politics_095.txt|.|5|.|bbc_politics_352.txt|.|2|.|bbc_politics_149.txt|.|2|.|bbc_politics_099.txt|.|4|.|bbc_politics_348.txt|.|3|.|bbc_politics_350.txt|.|3|.|bbc_politics_223.txt|.|2|.|bbc_politics_253.txt|.|6|.|bbc_politics_075.txt|.|3|.|bbc_politics_303.txt|.|4|.|bbc_politics_245.txt|.|3|.|bbc_politics_405.txt|.|1|.|bbc_politics_252.txt|.|3|.|bbc_politics_295.txt|.|4|.|bbc_politics_135.txt|.|2|.|bbc_politics_414.txt|.|4|.|bbc_politics_083.txt|.|2|.|bbc_politics_130.txt|.|2|.|bbc_politics_341.txt|.|2|.|bbc_politics_316.txt|.|2|.|bbc_politics_262.txt|.|4|.|bbc_politics_112.txt|.|2|.|bbc_politics_400.txt|.|4|.|bbc_politics_218.txt|.|6
+guns|.|bbc_politics_075.txt|.|2
+education|.|bbc_politics_055.txt|.|2|.|bbc_politics_246.txt|.|8|.|bbc_politics_352.txt|.|6
+mr bush|.|bbc_politics_280.txt|.|4
+gambling|.|bbc_politics_133.txt|.|3|.|bbc_politics_187.txt|.|6|.|bbc_politics_010.txt|.|2|.|bbc_politics_377.txt|.|5
+public sector|.|bbc_politics_312.txt|.|4|.|bbc_politics_311.txt|.|4|.|bbc_politics_069.txt|.|4|.|bbc_politics_294.txt|.|2
+danger|.|bbc_politics_414.txt|.|2
+johnson|.|bbc_politics_132.txt|.|3|.|bbc_politics_116.txt|.|2|.|bbc_politics_075.txt|.|6|.|bbc_politics_315.txt|.|5
+scottish|.|bbc_politics_164.txt|.|3|.|bbc_politics_010.txt|.|5|.|bbc_politics_090.txt|.|2|.|bbc_politics_173.txt|.|2|.|bbc_politics_238.txt|.|5|.|bbc_politics_047.txt|.|6|.|bbc_politics_174.txt|.|6
+battalion|.|bbc_politics_208.txt|.|2|.|bbc_politics_245.txt|.|1
+ambition to be prime minister|.|bbc_politics_285.txt|.|2|.|bbc_politics_083.txt|.|2
+group says|.|bbc_politics_319.txt|.|2
+chiefs|.|bbc_politics_245.txt|.|2|.|bbc_politics_165.txt|.|1
+reassure|.|bbc_politics_075.txt|.|2
+poor|.|bbc_politics_130.txt|.|3
+hunting ban|.|bbc_politics_152.txt|.|2|.|bbc_politics_032.txt|.|2|.|bbc_politics_381.txt|.|1
+liberal leader|.|bbc_politics_303.txt|.|2
+msps|.|bbc_politics_090.txt|.|3
+democracy and human|.|bbc_politics_280.txt|.|2
+cards bill|.|bbc_politics_227.txt|.|2
+resort|.|bbc_politics_051.txt|.|2
+public service workers|.|bbc_politics_042.txt|.|2
+nanny|.|bbc_politics_102.txt|.|5
+maternity pay|.|bbc_politics_001.txt|.|9
+released|.|bbc_politics_303.txt|.|2
+competing|.|bbc_politics_095.txt|.|2
+spread democracy|.|bbc_politics_280.txt|.|1
+using|.|bbc_politics_109.txt|.|3
+big speech|.|bbc_politics_264.txt|.|2
+agendas|.|bbc_politics_095.txt|.|3
+containing|.|bbc_politics_188.txt|.|1
+expected|.|bbc_politics_179.txt|.|4|.|bbc_politics_071.txt|.|2
+commission says|.|bbc_politics_079.txt|.|2|.|bbc_politics_298.txt|.|2|.|bbc_politics_059.txt|.|2
+countries|.|bbc_politics_127.txt|.|6|.|bbc_politics_093.txt|.|1|.|bbc_politics_130.txt|.|5|.|bbc_politics_078.txt|.|3|.|bbc_politics_135.txt|.|3|.|bbc_politics_097.txt|.|5
+discriminated|.|bbc_politics_370.txt|.|3
+turkey|.|bbc_politics_064.txt|.|10|.|bbc_politics_161.txt|.|7|.|bbc_politics_035.txt|.|5
+letter|.|bbc_politics_065.txt|.|3
+weeks|.|bbc_politics_395.txt|.|2|.|bbc_politics_192.txt|.|2
+hansard|.|bbc_politics_348.txt|.|3|.|bbc_politics_217.txt|.|3|.|bbc_politics_321.txt|.|3
+rights|.|bbc_politics_194.txt|.|3|.|bbc_politics_368.txt|.|4|.|bbc_politics_073.txt|.|1|.|bbc_politics_279.txt|.|19|.|bbc_politics_221.txt|.|4|.|bbc_politics_131.txt|.|3|.|bbc_politics_384.txt|.|6|.|bbc_politics_040.txt|.|3|.|bbc_politics_280.txt|.|2|.|bbc_politics_215.txt|.|4|.|bbc_politics_001.txt|.|2|.|bbc_politics_229.txt|.|4|.|bbc_politics_224.txt|.|5|.|bbc_politics_214.txt|.|2|.|bbc_politics_173.txt|.|4|.|bbc_politics_136.txt|.|5|.|bbc_politics_216.txt|.|3
+jewish voters|.|bbc_politics_075.txt|.|2
+national security|.|bbc_politics_326.txt|.|1
+mind|.|bbc_politics_252.txt|.|2
+compensation culture|.|bbc_politics_414.txt|.|2
+hansard society|.|bbc_politics_348.txt|.|3|.|bbc_politics_217.txt|.|3|.|bbc_politics_321.txt|.|3
+democracy|.|bbc_politics_280.txt|.|2
+meet|.|bbc_politics_035.txt|.|1
+speech|.|bbc_politics_350.txt|.|4|.|bbc_politics_264.txt|.|4
+damaged|.|bbc_politics_112.txt|.|2
+evening|.|bbc_politics_075.txt|.|2|.|bbc_politics_186.txt|.|2
+report says|.|bbc_politics_130.txt|.|1
+mr blunkett|.|bbc_politics_049.txt|.|2|.|bbc_politics_193.txt|.|2|.|bbc_politics_102.txt|.|4|.|bbc_politics_112.txt|.|7|.|bbc_politics_046.txt|.|5|.|bbc_politics_041.txt|.|9|.|bbc_politics_166.txt|.|6|.|bbc_politics_206.txt|.|4
+questions|.|bbc_politics_326.txt|.|1
+edward|.|bbc_politics_303.txt|.|9
+army board|.|bbc_politics_245.txt|.|3
+heath|.|bbc_politics_303.txt|.|3
+new|.|bbc_politics_107.txt|.|4|.|bbc_politics_225.txt|.|3|.|bbc_politics_022.txt|.|2|.|bbc_politics_293.txt|.|8|.|bbc_politics_241.txt|.|2|.|bbc_politics_256.txt|.|3|.|bbc_politics_260.txt|.|5|.|bbc_politics_187.txt|.|4|.|bbc_politics_268.txt|.|4|.|bbc_politics_383.txt|.|3|.|bbc_politics_082.txt|.|3|.|bbc_politics_099.txt|.|5|.|bbc_politics_156.txt|.|3|.|bbc_politics_342.txt|.|4|.|bbc_politics_288.txt|.|2|.|bbc_politics_185.txt|.|2|.|bbc_politics_033.txt|.|4|.|bbc_politics_267.txt|.|3|.|bbc_politics_165.txt|.|6|.|bbc_politics_215.txt|.|9|.|bbc_politics_049.txt|.|7|.|bbc_politics_001.txt|.|4|.|bbc_politics_278.txt|.|7|.|bbc_politics_036.txt|.|3|.|bbc_politics_302.txt|.|3|.|bbc_politics_063.txt|.|4|.|bbc_politics_324.txt|.|3|.|bbc_politics_257.txt|.|4
+minister said|.|bbc_politics_280.txt|.|2|.|bbc_politics_414.txt|.|2
+mr johnson|.|bbc_politics_075.txt|.|5
+doubt|.|bbc_politics_326.txt|.|2|.|bbc_politics_264.txt|.|2
+super regiment|.|bbc_politics_245.txt|.|5
+union leader|.|bbc_politics_095.txt|.|2
+tony|.|bbc_politics_223.txt|.|3|.|bbc_politics_253.txt|.|2|.|bbc_politics_319.txt|.|3|.|bbc_politics_252.txt|.|2|.|bbc_politics_295.txt|.|2|.|bbc_politics_336.txt|.|3|.|bbc_politics_401.txt|.|2|.|bbc_politics_254.txt|.|2|.|bbc_politics_307.txt|.|3|.|bbc_politics_305.txt|.|2|.|bbc_politics_012.txt|.|2|.|bbc_politics_184.txt|.|2|.|bbc_politics_409.txt|.|2|.|bbc_politics_341.txt|.|3|.|bbc_politics_106.txt|.|2|.|bbc_politics_095.txt|.|2|.|bbc_politics_034.txt|.|2|.|bbc_politics_378.txt|.|2|.|bbc_politics_218.txt|.|2
+reassure jewish|.|bbc_politics_075.txt|.|2
+sham weddings|.|bbc_politics_215.txt|.|2
+new mosque|.|bbc_politics_185.txt|.|2
+extending rights|.|bbc_politics_001.txt|.|1
+speaking fees|.|bbc_politics_320.txt|.|2
+elderly|.|bbc_politics_388.txt|.|3
+human rights|.|bbc_politics_368.txt|.|4|.|bbc_politics_279.txt|.|16|.|bbc_politics_221.txt|.|4|.|bbc_politics_131.txt|.|3|.|bbc_politics_384.txt|.|6|.|bbc_politics_040.txt|.|3|.|bbc_politics_280.txt|.|2|.|bbc_politics_215.txt|.|4|.|bbc_politics_229.txt|.|4|.|bbc_politics_224.txt|.|4|.|bbc_politics_214.txt|.|2|.|bbc_politics_173.txt|.|4|.|bbc_politics_136.txt|.|5|.|bbc_politics_216.txt|.|3
+polls|.|bbc_politics_398.txt|.|1|.|bbc_politics_270.txt|.|2|.|bbc_politics_414.txt|.|1
+contracts|.|bbc_politics_030.txt|.|2
+mr thomas|.|bbc_politics_002.txt|.|3
+mugging|.|bbc_politics_144.txt|.|3
+sorry|.|bbc_politics_075.txt|.|3
+talks|.|bbc_politics_312.txt|.|2|.|bbc_politics_015.txt|.|2|.|bbc_politics_311.txt|.|3|.|bbc_politics_035.txt|.|3|.|bbc_politics_069.txt|.|3
+define|.|bbc_politics_169.txt|.|4
+saying|.|bbc_politics_032.txt|.|1|.|bbc_politics_181.txt|.|1|.|bbc_politics_314.txt|.|1|.|bbc_politics_198.txt|.|2|.|bbc_politics_124.txt|.|2|.|bbc_politics_275.txt|.|2|.|bbc_politics_099.txt|.|2
+row|.|bbc_politics_009.txt|.|3
+scottish students|.|bbc_politics_047.txt|.|3
+kyoto|.|bbc_politics_197.txt|.|3
+ambition to be prime|.|bbc_politics_285.txt|.|2|.|bbc_politics_083.txt|.|2
+top industrialised|.|bbc_politics_130.txt|.|2
+undermine|.|bbc_politics_191.txt|.|2
+foreign nationals|.|bbc_politics_205.txt|.|2
+ken livingstone|.|bbc_politics_075.txt|.|2|.|bbc_politics_186.txt|.|2
+warnings|.|bbc_politics_199.txt|.|3
+blair faces|.|bbc_politics_225.txt|.|1
+rich|.|bbc_politics_130.txt|.|4
+lewis|.|bbc_politics_085.txt|.|4
+transport|.|bbc_politics_114.txt|.|6
+specific|.|bbc_politics_379.txt|.|3
+say sorry|.|bbc_politics_075.txt|.|3
+sheffield|.|bbc_politics_166.txt|.|2
+super|.|bbc_politics_108.txt|.|2|.|bbc_politics_291.txt|.|2|.|bbc_politics_245.txt|.|5
+rated|.|bbc_politics_199.txt|.|3
+application|.|bbc_politics_112.txt|.|2|.|bbc_politics_071.txt|.|3
+martin|.|bbc_politics_310.txt|.|2|.|bbc_politics_123.txt|.|2
+mayor said|.|bbc_politics_154.txt|.|3
+pledge|.|bbc_politics_270.txt|.|2|.|bbc_politics_352.txt|.|2|.|bbc_politics_147.txt|.|2
+prescott|.|bbc_politics_260.txt|.|4|.|bbc_politics_312.txt|.|4|.|bbc_politics_261.txt|.|4
+strategy|.|bbc_politics_093.txt|.|3
+forms|.|bbc_politics_079.txt|.|2

@@ -1,0 +1,38 @@
+194
+baltimore street|.|WET6058.txt|.|13
+hoosiers iowa|.|WET872.txt|.|8
+saturday|.|WET4835.txt|.|209
+illinois fighting|.|WET872.txt|.|8
+state john|.|WET510.txt|.|104
+state cross country championships|.|WET1213.txt|.|36
+fairbanks|.|WET4768.txt|.|28
+outdoors ski conditions|.|WET2484.txt|.|33
+indiana hoosiers|.|WET872.txt|.|8
+alaska fairbanks|.|WET4768.txt|.|25
+shortline|.|WET3455.txt|.|18
+justice|.|WET2618.txt|.|23
+state|.|WET3455.txt|.|296|.|WET227.txt|.|174|.|WET290.txt|.|46|.|WET4611.txt|.|46|.|WET1213.txt|.|52|.|WET1972.txt|.|23|.|WET4327.txt|.|261|.|WET3172.txt|.|44|.|WET872.txt|.|92|.|WET2625.txt|.|76|.|WET722.txt|.|11|.|WET439.txt|.|214|.|WET6058.txt|.|97|.|WET510.txt|.|108|.|WET51.txt|.|9|.|WET5766.txt|.|144|.|WET3970.txt|.|15|.|WET3169.txt|.|41|.|WET3924.txt|.|74|.|WET4091.txt|.|24|.|WET4098.txt|.|48|.|WET4768.txt|.|86|.|WET4835.txt|.|444|.|WET2891.txt|.|19|.|WET2484.txt|.|118|.|WET2618.txt|.|46|.|WET4272.txt|.|60
+park|.|WET5769.txt|.|65|.|WET3455.txt|.|288|.|WET5966.txt|.|17|.|WET6264.txt|.|25|.|WET4091.txt|.|36|.|WET213.txt|.|102|.|WET6017.txt|.|29|.|WET1252.txt|.|76|.|WET439.txt|.|214|.|WET6263.txt|.|51|.|WET4899.txt|.|78|.|WET6300.txt|.|12|.|WET4406.txt|.|49|.|WET4272.txt|.|90
+weber state university historical publications|.|WET4327.txt|.|18
+gophers|.|WET872.txt|.|8
+boilermakers rutgers|.|WET872.txt|.|8
+oral history project|.|WET4327.txt|.|147
+spartans|.|WET4611.txt|.|20|.|WET872.txt|.|8
+florida state|.|WET4835.txt|.|72
+edit page|.|WET3455.txt|.|12
+photographs world war|.|WET4327.txt|.|36
+michigan state|.|WET4611.txt|.|19
+document collection|.|WET4768.txt|.|12
+washington oregon|.|WET3169.txt|.|8
+position top|.|WET5766.txt|.|24
+rutgers|.|WET872.txt|.|8
+south carolina|.|WET4835.txt|.|81
+buckeyes|.|WET4611.txt|.|21
+east tennessee|.|WET4098.txt|.|24
+state spartans|.|WET4611.txt|.|19|.|WET872.txt|.|8
+hoosiers|.|WET872.txt|.|8
+missing information|.|WET874.txt|.|7|.|WET4611.txt|.|6|.|WET872.txt|.|9|.|WET5525.txt|.|2
+encoded archival|.|WET4327.txt|.|42
+conditions travel|.|WET2484.txt|.|14
+golden state|.|WET5766.txt|.|20
+encoded|.|WET4327.txt|.|42

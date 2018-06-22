@@ -1,0 +1,17 @@
+85
+financial institutions|.|164.txt|.|2
+trust|.|358.txt|.|1|.|187.txt|.|2
+atmosphere|.|307.txt|.|2
+assault|.|288.txt|.|5
+technology industry|.|307.txt|.|2
+heavy metals|.|307.txt|.|2
+financial|.|164.txt|.|4
+bill|.|330.txt|.|9|.|358.txt|.|2|.|198.txt|.|2|.|307.txt|.|2|.|014.txt|.|9|.|184.txt|.|2|.|164.txt|.|2|.|187.txt|.|2|.|399.txt|.|2
+metals|.|307.txt|.|2
+real|.|198.txt|.|1|.|073.txt|.|2|.|164.txt|.|2
+parliament|.|330.txt|.|3|.|014.txt|.|3
+danger|.|164.txt|.|3
+heavy|.|307.txt|.|2
+real danger|.|164.txt|.|2
+credit card|.|164.txt|.|2|.|120.txt|.|3
+card|.|008.txt|.|2|.|164.txt|.|5|.|252.txt|.|2|.|120.txt|.|3

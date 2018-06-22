@@ -1,0 +1,17 @@
+35
+protecting|.|316.txt|.|2
+prepare|.|360.txt|.|1|.|082.txt|.|1
+independent|.|114.txt|.|2|.|082.txt|.|4
+video game|.|276.txt|.|5|.|178.txt|.|1|.|130.txt|.|1|.|024.txt|.|2|.|139.txt|.|2|.|082.txt|.|2
+musical|.|323.txt|.|1|.|051.txt|.|1
+bafta|.|046.txt|.|3|.|057.txt|.|4
+loyalty|.|124.txt|.|5
+classroom|.|071.txt|.|6
+protection|.|390.txt|.|2|.|326.txt|.|3|.|043.txt|.|3
+macintosh|.|068.txt|.|7
+email systems|.|314.txt|.|4|.|055.txt|.|4
+prince of persia|.|218.txt|.|3
+flour|.|bread.txt|.|20
+innovation award|.|111.txt|.|2
+tremors|.|353.txt|.|6
+magazine|.|328.txt|.|2|.|379.txt|.|8|.|009.txt|.|7|.|021.txt|.|2|.|243.txt|.|3

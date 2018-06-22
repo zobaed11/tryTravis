@@ -1,0 +1,38 @@
+181
+soccer association|.|WET5004.txt|.|66
+mic|.|WET1772.txt|.|12
+payne|.|WET948.txt|.|33
+equal opportunity|.|WET4477.txt|.|1
+breast implants|.|WET2078.txt|.|15
+mec|.|WET3329.txt|.|12
+perpetual|.|WET5830.txt|.|33
+legislative|.|WET5370.txt|.|18|.|WET5975.txt|.|119
+network that would connect|.|WET3329.txt|.|1
+toddler|.|WET1238.txt|.|42
+disabled|.|WET3611.txt|.|5|.|WET3087.txt|.|11|.|WET5418.txt|.|5
+working papers|.|WET3466.txt|.|612
+infoplease atlas encyclopedia|.|WET5830.txt|.|11
+confidential|.|WET1380.txt|.|5
+calendar|.|WET2310.txt|.|35|.|WET3087.txt|.|11|.|WET6269.txt|.|29|.|WET1446.txt|.|77|.|WET1552.txt|.|33|.|WET3252.txt|.|38|.|WET3329.txt|.|35|.|WET2190.txt|.|11|.|WET4477.txt|.|20|.|WET5616.txt|.|17|.|WET2088.txt|.|36|.|WET709.txt|.|13|.|WET2724.txt|.|10|.|WET3732.txt|.|28|.|WET5291.txt|.|11|.|WET6308.txt|.|50|.|WET5928.txt|.|11|.|WET3695.txt|.|60|.|WET5504.txt|.|6|.|WET1238.txt|.|8|.|WET3106.txt|.|39|.|WET1772.txt|.|40|.|WET5370.txt|.|30|.|WET2941.txt|.|20|.|WET5196.txt|.|66|.|WET5830.txt|.|66
+bible|.|WET2563.txt|.|37|.|WET1146.txt|.|330|.|WET4320.txt|.|62|.|WET5520.txt|.|124|.|WET1482.txt|.|28|.|WET1786.txt|.|104|.|WET4894.txt|.|301|.|WET5233.txt|.|72
+spelling|.|WET5830.txt|.|33
+jimmy beans wool|.|WET3650.txt|.|36
+permission|.|WET3087.txt|.|11
+quick shop|.|WET2269.txt|.|77|.|WET1838.txt|.|56|.|WET5575.txt|.|71
+media visual|.|WET2941.txt|.|3
+burning|.|WET6147.txt|.|20
+stardock corporation|.|WET3294.txt|.|87|.|WET3293.txt|.|319
+community calendar|.|WET1772.txt|.|15|.|WET1552.txt|.|33
+fico scores|.|WET371.txt|.|6
+basmalah|.|WET3749.txt|.|5
+marina|.|WET1951.txt|.|9
+superbike|.|WET4965.txt|.|15
+columnists mec sports|.|WET3329.txt|.|12
+iconics save|.|WET5502.txt|.|30
+academic calendar|.|WET3732.txt|.|15|.|WET4477.txt|.|16|.|WET1446.txt|.|56|.|WET5196.txt|.|48
+arts lecture|.|WET6308.txt|.|7
+tunics|.|WET1546.txt|.|1|.|WET2145.txt|.|28
+machines|.|WET1520.txt|.|13|.|WET3705.txt|.|34|.|WET5271.txt|.|11
+clockextended world|.|WET3106.txt|.|10
+door knobs|.|WET5417.txt|.|11
+year by year|.|WET2088.txt|.|12

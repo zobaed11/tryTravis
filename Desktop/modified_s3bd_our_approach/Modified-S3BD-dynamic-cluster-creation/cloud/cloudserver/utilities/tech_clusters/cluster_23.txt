@@ -1,0 +1,17 @@
+23
+read|.|323.txt|.|3|.|051.txt|.|3
+european|.|167.txt|.|3|.|330.txt|.|6|.|030.txt|.|2|.|014.txt|.|6|.|361.txt|.|4|.|215.txt|.|3
+honor|.|288.txt|.|3
+digital tv|.|361.txt|.|3
+domains|.|118.txt|.|9|.|387.txt|.|9
+responds|.|054.txt|.|2
+lifestyles|.|167.txt|.|1|.|215.txt|.|1
+nice|.|167.txt|.|2|.|215.txt|.|2
+tetris|.|272.txt|.|4
+using satellite|.|223.txt|.|1
+disorders|.|acne.txt|.|7
+adoption|.|361.txt|.|2
+european commission|.|167.txt|.|2|.|215.txt|.|2
+nem|.|167.txt|.|3|.|215.txt|.|3
+shoppers|.|235.txt|.|8
+gear|.|277.txt|.|4

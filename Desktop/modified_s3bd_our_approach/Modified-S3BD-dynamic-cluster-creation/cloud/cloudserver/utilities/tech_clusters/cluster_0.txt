@@ -1,0 +1,17 @@
+0
+tens|.|395.txt|.|1
+ethernet port|.|301.txt|.|2
+created|.|201.txt|.|4
+motorsport endeavour|.|277.txt|.|3
+cause|.|275.txt|.|1|.|207.txt|.|2
+battlefront|.|125.txt|.|5
+cheap|.|301.txt|.|4
+court|.|035.txt|.|3|.|092.txt|.|5|.|370.txt|.|8
+tags|.|321.txt|.|11
+dvd burner|.|301.txt|.|4
+asimo|.|246.txt|.|7|.|356.txt|.|4
+smartcards|.|124.txt|.|2
+upcoming parliamentary|.|001.txt|.|2
+top box|.|070.txt|.|1
+hard|.|207.txt|.|2|.|278.txt|.|4|.|301.txt|.|6|.|070.txt|.|2|.|336.txt|.|4
+relief|.|223.txt|.|2

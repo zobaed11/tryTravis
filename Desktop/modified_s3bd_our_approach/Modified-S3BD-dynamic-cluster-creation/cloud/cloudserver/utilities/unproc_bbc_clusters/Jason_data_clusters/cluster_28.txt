@@ -1,0 +1,38 @@
+28
+bluffton|.|WET1340.txt|.|26
+shoppe|.|WET3234.txt|.|16
+slightly|.|WET1651.txt|.|18
+stemmed|.|WET4878.txt|.|1|.|WET5549.txt|.|1|.|WET4431.txt|.|1|.|WET4554.txt|.|1|.|WET1128.txt|.|4
+literary|.|WET72.txt|.|6|.|WET3068.txt|.|9
+quantities|.|WET1590.txt|.|43|.|WET5340.txt|.|24
+winter|.|WET3079.txt|.|44|.|WET2506.txt|.|14|.|WET5321.txt|.|32|.|WET3847.txt|.|16
+aug jul|.|WET1180.txt|.|58
+vacuum|.|WET3759.txt|.|125|.|WET6299.txt|.|54|.|WET6298.txt|.|154
+vom|.|WET3508.txt|.|50
+rights|.|WET714.txt|.|12|.|WET613.txt|.|5|.|WET3230.txt|.|32|.|WET3102.txt|.|21|.|WET3859.txt|.|10|.|WET219.txt|.|18|.|WET9.txt|.|55|.|WET5782.txt|.|50|.|WET1968.txt|.|9|.|WET3664.txt|.|5|.|WET1278.txt|.|10|.|WET3164.txt|.|12|.|WET1668.txt|.|16|.|WET2447.txt|.|13|.|WET4977.txt|.|8|.|WET1223.txt|.|38|.|WET1673.txt|.|10|.|WET26.txt|.|12|.|WET2630.txt|.|47|.|WET5922.txt|.|13|.|WET3305.txt|.|10|.|WET5890.txt|.|15|.|WET1238.txt|.|12|.|WET2039.txt|.|29|.|WET1715.txt|.|16|.|WET4918.txt|.|30|.|WET6207.txt|.|17
+rb anthony|.|WET98.txt|.|12
+var defaults|.|WET1009.txt|.|22
+laal rang|.|WET5661.txt|.|32
+lines|.|WET1578.txt|.|11
+ipsos global|.|WET5850.txt|.|151
+phosphoglyceromutase|.|WET5911.txt|.|696
+winter lace|.|WET5321.txt|.|10
+ut erlanger|.|WET1760.txt|.|6
+conducted|.|WET5850.txt|.|172
+clker|.|WET1502.txt|.|22|.|WET5252.txt|.|22|.|WET5253.txt|.|18
+engagement photos|.|WET4401.txt|.|11
+hudson|.|WET5782.txt|.|97|.|WET2046.txt|.|139|.|WET5788.txt|.|207|.|WET2039.txt|.|64|.|WET2045.txt|.|256|.|WET5789.txt|.|215
+applique|.|WET2722.txt|.|50
+linda|.|WET3593.txt|.|9|.|WET5354.txt|.|15
+special|.|WET1915.txt|.|12|.|WET6056.txt|.|28|.|WET1508.txt|.|25|.|WET1953.txt|.|20|.|WET1054.txt|.|12|.|WET1889.txt|.|70|.|WET2853.txt|.|13|.|WET4256.txt|.|46|.|WET5963.txt|.|56|.|WET2033.txt|.|17|.|WET734.txt|.|16|.|WET5089.txt|.|9|.|WET1976.txt|.|30|.|WET2316.txt|.|61|.|WET5260.txt|.|21|.|WET5494.txt|.|14|.|WET6195.txt|.|107|.|WET5693.txt|.|31|.|WET2726.txt|.|5|.|WET1921.txt|.|28
+core political|.|WET5850.txt|.|134
+shopko|.|WET2876.txt|.|52
+network monitoring|.|WET2107.txt|.|2
+pulse|.|WET5850.txt|.|129
+kirloskar|.|WET2399.txt|.|64
+sensor|.|WET4378.txt|.|2
+weapons|.|WET5675.txt|.|8
+coming|.|WET72.txt|.|6
+game of thrones|.|WET4106.txt|.|20
+version latest|.|WET3487.txt|.|22
+shaft|.|WET1712.txt|.|44

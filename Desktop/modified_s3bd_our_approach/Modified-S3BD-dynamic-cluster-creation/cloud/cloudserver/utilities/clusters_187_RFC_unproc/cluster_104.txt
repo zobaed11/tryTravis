@@ -1,0 +1,120 @@
+mptcp architecture|.|rfc6182.txt|.|27
+timeouts|.|rfc5682.txt|.|16
+syn segments|.|rfc4987.txt|.|11
+berkeley software design|.|rfc2147.txt|.|2
+partial acknowledgement|.|rfc2582.txt|.|8
+internet subnetwork designers|.|rfc3819.txt|.|60
+trace file|.|rfc2525.txt|.|46
+tcp august|.|rfc4653.txt|.|17
+icmp error messages|.|rfc5927.txt|.|41
+tcp connections|.|rfc3742.txt|.|9|.|rfc5383.txt|.|14
+bottleneck|.|rfc3449.txt|.|60
+considerations october|.|rfc5383.txt|.|11
+tcp urgent mechanism|.|rfc6093.txt|.|29
+cause failures|.|rfc2873.txt|.|2
+raghunarayan standards|.|rfc4022.txt|.|24
+tcp extensions|.|rfc6247.txt|.|11
+robustness of tcp|.|rfc4653.txt|.|18
+ao|.|rfc5925.txt|.|6
+extended limited|.|rfc4653.txt|.|28
+tools for tcp|.|rfc2398.txt|.|15
+urgent indications|.|rfc6093.txt|.|29
+extended statistics mib|.|rfc4898.txt|.|77
+tcp segment|.|rfc5044.txt|.|60
+iab wireless workshop|.|rfc3002.txt|.|42
+perform heuristics|.|rfc6191.txt|.|1
+file demonstrating correct|.|rfc2525.txt|.|18
+epp tcp|.|rfc5734.txt|.|13|.|rfc4934.txt|.|10
+tcp implementations|.|rfc6093.txt|.|9|.|rfc3148.txt|.|8|.|rfc2923.txt|.|5
+resets|.|rfc3360.txt|.|44
+urgent mechanism|.|rfc6093.txt|.|37
+field june|.|rfc2873.txt|.|7
+statistics mib|.|rfc4898.txt|.|77
+undeployed|.|rfc6247.txt|.|4
+ongoing tcp research|.|rfc2760.txt|.|46
+tos|.|rfc2873.txt|.|7
+epp session|.|rfc4934.txt|.|9
+ncr|.|rfc4653.txt|.|7
+tcp sender|.|rfc4138.txt|.|45|.|rfc3449.txt|.|48|.|rfc3522.txt|.|37|.|rfc5690.txt|.|39|.|rfc4015.txt|.|36|.|rfc2861.txt|.|11|.|rfc5682.txt|.|44|.|rfc3517.txt|.|11
+invisible worlds|.|rfc3081.txt|.|2
+syn packet|.|rfc3360.txt|.|28
+backoff|.|rfc6069.txt|.|19
+satellite link|.|rfc2488.txt|.|12
+undeployed tcp extensions|.|rfc6247.txt|.|4
+channels january|.|rfc2488.txt|.|18
+related to satellites|.|rfc2760.txt|.|46
+fpdu size|.|rfc5044.txt|.|6
+increasing|.|rfc3390.txt|.|20|.|rfc2414.txt|.|18
+syn segment|.|rfc6191.txt|.|14
+support tcp|.|rfc5966.txt|.|9
+nats that handle|.|rfc5382.txt|.|5
+duke|.|rfc4614.txt|.|35
+connectivity disruption|.|rfc6069.txt|.|22
+denote packet mood|.|rfc5841.txt|.|12
+required environment|.|rfc2398.txt|.|13
+retransmission timer backoff|.|rfc6069.txt|.|13
+tcp implementation|.|rfc2398.txt|.|6|.|rfc2525.txt|.|65
+tcp extended|.|rfc4898.txt|.|83
+dlsw multicast|.|rfc2166.txt|.|9
+berkeley software|.|rfc2147.txt|.|2
+tcp header|.|rfc3540.txt|.|12|.|rfc6013.txt|.|18|.|rfc4413.txt|.|27|.|rfc2507.txt|.|36|.|rfc4727.txt|.|2
+algorithm for tcp|.|rfc3522.txt|.|15|.|rfc5682.txt|.|7
+data pending|.|rfc2525.txt|.|3
+endpoint dependent mapping|.|rfc5128.txt|.|1
+multipath transport|.|rfc6182.txt|.|8
+inappropriate|.|rfc3360.txt|.|22
+tcp over satellite|.|rfc2488.txt|.|21
+mapping the beep core|.|rfc3081.txt|.|8
+name of problem|.|rfc2525.txt|.|19
+timeout based|.|rfc6069.txt|.|6
+satellites|.|rfc2760.txt|.|46
+tcp requirements|.|rfc5382.txt|.|20
+tcp requirements october|.|rfc5382.txt|.|20
+larger initial|.|rfc3390.txt|.|37
+transmission control protocol|.|rfc6135.txt|.|3|.|rfc4614.txt|.|16|.|rfc2012.txt|.|3|.|rfc4898.txt|.|24
+window is small|.|rfc5827.txt|.|4
+rohc tcp|.|rfc4996.txt|.|3
+control vector|.|rfc2166.txt|.|21
+tcp security|.|rfc5961.txt|.|18
+flag set|.|rfc3360.txt|.|3
+mkt is used|.|rfc5925.txt|.|3
+precedence field|.|rfc2873.txt|.|15
+tcp problems|.|rfc2923.txt|.|16
+cookie option|.|rfc6013.txt|.|23
+tcp transport|.|rfc3734.txt|.|10|.|rfc4934.txt|.|11|.|rfc3430.txt|.|18|.|rfc5021.txt|.|4
+alignment|.|rfc5044.txt|.|47
+mathis|.|rfc3148.txt|.|27|.|rfc4898.txt|.|82
+duplicate acks|.|rfc4138.txt|.|11|.|rfc4653.txt|.|14|.|rfc5827.txt|.|22
+tcp more robust|.|rfc6069.txt|.|25
+rst segment|.|rfc5961.txt|.|11
+compatibility goals|.|rfc6182.txt|.|8
+timer backoff|.|rfc6069.txt|.|13
+raghunarayan|.|rfc4022.txt|.|27
+behave|.|rfc5382.txt|.|2
+based loss|.|rfc6069.txt|.|5
+use of tcp|.|rfc5925.txt|.|5
+tcp and ip january|.|rfc4782.txt|.|81
+two segments|.|rfc2414.txt|.|6
+tcp march|.|rfc4022.txt|.|23
+retransmit for tcp|.|rfc5827.txt|.|15
+qs nonce|.|rfc4782.txt|.|73
+tcp|.|rfc4583.txt|.|18|.|rfc3540.txt|.|24|.|rfc5389.txt|.|39|.|rfc5044.txt|.|427|.|rfc1948.txt|.|10|.|rfc4727.txt|.|13|.|rfc4336.txt|.|32|.|rfc4654.txt|.|26|.|rfc3522.txt|.|110|.|rfc6247.txt|.|26|.|rfc2054.txt|.|22|.|rfc5690.txt|.|253|.|rfc2018.txt|.|48|.|rfc2001.txt|.|23|.|rfc6062.txt|.|61|.|rfc2581.txt|.|73|.|rfc2166.txt|.|128|.|rfc5984.txt|.|4|.|rfc5682.txt|.|95|.|rfc6182.txt|.|160|.|rfc5936.txt|.|34|.|rfc6013.txt|.|134|.|rfc6069.txt|.|159|.|rfc5021.txt|.|16|.|rfc5966.txt|.|38|.|rfc5382.txt|.|141|.|rfc4138.txt|.|97|.|rfc4782.txt|.|320|.|rfc2147.txt|.|23|.|rfc4413.txt|.|142|.|rfc5383.txt|.|37|.|rfc3465.txt|.|51|.|rfc4987.txt|.|71|.|rfc3511.txt|.|92|.|rfc4022.txt|.|106|.|rfc4898.txt|.|281|.|rfc3448.txt|.|36|.|rfc6269.txt|.|18|.|rfc5562.txt|.|136|.|rfc4934.txt|.|47|.|rfc3430.txt|.|71|.|rfc5925.txt|.|343|.|rfc3819.txt|.|143|.|rfc6297.txt|.|107|.|rfc3390.txt|.|65|.|rfc3742.txt|.|32|.|rfc2416.txt|.|23|.|rfc3042.txt|.|49|.|rfc3360.txt|.|179|.|rfc3288.txt|.|7|.|rfc3821.txt|.|286|.|rfc5961.txt|.|86|.|rfc5325.txt|.|15|.|rfc5626.txt|.|32|.|rfc4996.txt|.|173|.|rfc2414.txt|.|63|.|rfc5927.txt|.|188|.|rfc2873.txt|.|47|.|rfc4953.txt|.|137|.|rfc4808.txt|.|10|.|rfc2525.txt|.|198|.|rfc5841.txt|.|27|.|rfc2507.txt|.|119|.|rfc2452.txt|.|55|.|rfc3002.txt|.|46|.|rfc3134.txt|.|35|.|rfc2398.txt|.|52|.|rfc2126.txt|.|116|.|rfc2760.txt|.|276|.|rfc5681.txt|.|95|.|rfc1981.txt|.|19|.|rfc5734.txt|.|48|.|rfc5045.txt|.|29|.|rfc3124.txt|.|61|.|rfc5460.txt|.|34|.|rfc2884.txt|.|43|.|rfc6142.txt|.|74|.|rfc2106.txt|.|18|.|rfc5827.txt|.|51|.|rfc4614.txt|.|256|.|rfc3734.txt|.|43|.|rfc3649.txt|.|343|.|rfc5128.txt|.|49|.|rfc3347.txt|.|29|.|rfc2582.txt|.|43|.|rfc3081.txt|.|25|.|rfc2140.txt|.|43|.|rfc5622.txt|.|12|.|rfc4724.txt|.|23|.|rfc6146.txt|.|113|.|rfc3252.txt|.|17|.|rfc3481.txt|.|138|.|rfc4015.txt|.|70|.|rfc5926.txt|.|7|.|rfc2748.txt|.|24|.|rfc5482.txt|.|102|.|rfc4828.txt|.|220|.|rfc2385.txt|.|27|.|rfc3562.txt|.|10|.|rfc4341.txt|.|43|.|rfc4278.txt|.|9|.|rfc6093.txt|.|81|.|rfc4653.txt|.|94|.|rfc2861.txt|.|73|.|rfc3517.txt|.|51|.|rfc6191.txt|.|43|.|rfc3449.txt|.|233|.|rfc6298.txt|.|31|.|rfc3148.txt|.|43|.|rfc2488.txt|.|116|.|rfc2415.txt|.|24|.|rfc2114.txt|.|30|.|rfc2923.txt|.|41
+punching|.|rfc5128.txt|.|32
+packets into three buffers|.|rfc2416.txt|.|6
+tcp ncr|.|rfc4653.txt|.|1
+tcp and ip|.|rfc4782.txt|.|84
+implementation problems|.|rfc2525.txt|.|66
+eifel detection|.|rfc3522.txt|.|43
+loss event rate|.|rfc4654.txt|.|27|.|rfc4828.txt|.|25
+testing tcp|.|rfc2398.txt|.|2
+improving the robustness|.|rfc4653.txt|.|18
+roadmap september|.|rfc4614.txt|.|32
+tos octet|.|rfc2873.txt|.|5
+ssp messages|.|rfc2166.txt|.|15
+berkeley|.|rfc2147.txt|.|2
+flooding attack|.|rfc4987.txt|.|12
+fpdu alignment|.|rfc5044.txt|.|36
+high bit|.|rfc5021.txt|.|8
+tcp options|.|rfc4996.txt|.|39|.|rfc5925.txt|.|20
+process tcp urgent indications|.|rfc6093.txt|.|4
+acknowledgment|.|rfc3517.txt|.|9

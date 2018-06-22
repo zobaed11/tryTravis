@@ -1,0 +1,91 @@
+20
+music and films|.|bbc_tech_279.txt|.|1|.|bbc_tech_302.txt|.|1
+deal is the agreed|.|bbc_tech_383.txt|.|1
+mobile music|.|bbc_tech_383.txt|.|4
+gartner said|.|bbc_tech_064.txt|.|1|.|bbc_tech_338.txt|.|1
+grid computing|.|bbc_tech_022.txt|.|2|.|bbc_tech_380.txt|.|2
+backed|.|bbc_tech_219.txt|.|1|.|bbc_tech_224.txt|.|1
+allan|.|bbc_tech_092.txt|.|2
+advertisers|.|bbc_tech_206.txt|.|6
+mojtaba|.|bbc_tech_016.txt|.|5
+media players|.|bbc_tech_059.txt|.|2|.|bbc_tech_322.txt|.|2|.|bbc_tech_279.txt|.|2|.|bbc_tech_302.txt|.|2|.|bbc_tech_222.txt|.|2
+los caballeros|.|bbc_tech_312.txt|.|3|.|bbc_tech_090.txt|.|3
+displays|.|bbc_tech_367.txt|.|2
+tripled|.|bbc_tech_130.txt|.|1
+fake site|.|bbc_tech_027.txt|.|4|.|bbc_tech_315.txt|.|4
+voice control|.|bbc_tech_279.txt|.|3|.|bbc_tech_302.txt|.|3
+music|.|bbc_tech_312.txt|.|4|.|bbc_tech_092.txt|.|12|.|bbc_tech_059.txt|.|9|.|bbc_tech_338.txt|.|14|.|bbc_tech_279.txt|.|9|.|bbc_tech_206.txt|.|6|.|bbc_tech_182.txt|.|3|.|bbc_tech_284.txt|.|2|.|bbc_tech_091.txt|.|2|.|bbc_tech_305.txt|.|3|.|bbc_tech_297.txt|.|2|.|bbc_tech_322.txt|.|9|.|bbc_tech_064.txt|.|14|.|bbc_tech_298.txt|.|12|.|bbc_tech_148.txt|.|10|.|bbc_tech_285.txt|.|5|.|bbc_tech_183.txt|.|14|.|bbc_tech_304.txt|.|5|.|bbc_tech_051.txt|.|2|.|bbc_tech_090.txt|.|4|.|bbc_tech_263.txt|.|12|.|bbc_tech_220.txt|.|4|.|bbc_tech_145.txt|.|10|.|bbc_tech_323.txt|.|2|.|bbc_tech_110.txt|.|6|.|bbc_tech_374.txt|.|2|.|bbc_tech_383.txt|.|23|.|bbc_tech_128.txt|.|2|.|bbc_tech_260.txt|.|2|.|bbc_tech_332.txt|.|13|.|bbc_tech_040.txt|.|13|.|bbc_tech_198.txt|.|3|.|bbc_tech_302.txt|.|9
+speaking|.|bbc_tech_312.txt|.|1|.|bbc_tech_279.txt|.|1|.|bbc_tech_090.txt|.|1|.|bbc_tech_302.txt|.|1
+says radio|.|bbc_tech_344.txt|.|1
+massachusetts|.|bbc_tech_282.txt|.|2
+embracing|.|bbc_tech_145.txt|.|2
+weather|.|bbc_tech_323.txt|.|2|.|bbc_tech_051.txt|.|2
+music library|.|bbc_tech_279.txt|.|1|.|bbc_tech_302.txt|.|1
+photo collections|.|bbc_tech_278.txt|.|2
+napster offers|.|bbc_tech_298.txt|.|1|.|bbc_tech_263.txt|.|1
+nokia and microsoft|.|bbc_tech_383.txt|.|2
+microsoft deal is the agreed|.|bbc_tech_383.txt|.|1
+nokia|.|bbc_tech_305.txt|.|4|.|bbc_tech_383.txt|.|3
+give|.|bbc_tech_279.txt|.|2|.|bbc_tech_302.txt|.|2
+telecentres uses|.|bbc_tech_006.txt|.|1
+appeal cleared|.|bbc_tech_092.txt|.|1
+mr|.|bbc_tech_385.txt|.|2|.|bbc_tech_283.txt|.|7|.|bbc_tech_350.txt|.|2|.|bbc_tech_270.txt|.|6|.|bbc_tech_134.txt|.|5|.|bbc_tech_309.txt|.|6|.|bbc_tech_100.txt|.|4|.|bbc_tech_063.txt|.|4|.|bbc_tech_271.txt|.|6|.|bbc_tech_127.txt|.|6|.|bbc_tech_068.txt|.|8|.|bbc_tech_297.txt|.|4|.|bbc_tech_161.txt|.|3|.|bbc_tech_004.txt|.|4|.|bbc_tech_051.txt|.|6|.|bbc_tech_277.txt|.|5|.|bbc_tech_323.txt|.|6|.|bbc_tech_110.txt|.|7|.|bbc_tech_281.txt|.|6|.|bbc_tech_137.txt|.|9|.|bbc_tech_299.txt|.|6|.|bbc_tech_106.txt|.|6|.|bbc_tech_396.txt|.|9|.|bbc_tech_035.txt|.|7|.|bbc_tech_260.txt|.|4|.|bbc_tech_071.txt|.|4|.|bbc_tech_172.txt|.|6|.|bbc_tech_142.txt|.|7|.|bbc_tech_023.txt|.|2
+babinet|.|bbc_tech_383.txt|.|5
+daily life|.|bbc_tech_184.txt|.|2
+portable|.|bbc_tech_379.txt|.|5|.|bbc_tech_332.txt|.|3|.|bbc_tech_040.txt|.|3|.|bbc_tech_045.txt|.|2|.|bbc_tech_112.txt|.|2|.|bbc_tech_183.txt|.|8|.|bbc_tech_341.txt|.|2|.|bbc_tech_222.txt|.|11
+bloggies|.|bbc_tech_088.txt|.|5
+downloaded|.|bbc_tech_298.txt|.|1|.|bbc_tech_263.txt|.|1
+elections|.|bbc_tech_001.txt|.|12
+music players|.|bbc_tech_332.txt|.|4|.|bbc_tech_040.txt|.|4|.|bbc_tech_148.txt|.|3
+premium rate|.|bbc_tech_397.txt|.|5|.|bbc_tech_188.txt|.|6
+innovative|.|bbc_tech_258.txt|.|2|.|bbc_tech_229.txt|.|1|.|bbc_tech_399.txt|.|1
+ads|.|bbc_tech_206.txt|.|4
+junk mail|.|bbc_tech_026.txt|.|6|.|bbc_tech_390.txt|.|2
+revolutionary|.|bbc_tech_035.txt|.|2
+music market|.|bbc_tech_332.txt|.|2|.|bbc_tech_040.txt|.|2
+ipod family|.|bbc_tech_332.txt|.|2|.|bbc_tech_040.txt|.|2
+times faster|.|bbc_tech_205.txt|.|2
+force|.|bbc_tech_125.txt|.|1
+pervasive|.|bbc_tech_137.txt|.|4
+goldeneye|.|bbc_tech_245.txt|.|3
+itunes music|.|bbc_tech_148.txt|.|2
+cleared|.|bbc_tech_092.txt|.|2
+frank|.|bbc_tech_092.txt|.|2
+initiating legal|.|bbc_tech_133.txt|.|1|.|bbc_tech_180.txt|.|1
+deal|.|bbc_tech_383.txt|.|2
+hotspot|.|bbc_tech_073.txt|.|2|.|bbc_tech_042.txt|.|1|.|bbc_tech_339.txt|.|1
+portable player|.|bbc_tech_183.txt|.|2
+james|.|bbc_tech_245.txt|.|3
+range|.|bbc_tech_290.txt|.|4|.|bbc_tech_116.txt|.|4
+mini heralds|.|bbc_tech_336.txt|.|1
+ipods|.|bbc_tech_332.txt|.|2|.|bbc_tech_040.txt|.|2
+mr beckham|.|bbc_tech_385.txt|.|2
+portable video|.|bbc_tech_183.txt|.|2
+tools|.|bbc_tech_177.txt|.|3|.|bbc_tech_292.txt|.|3
+overseas|.|bbc_tech_123.txt|.|5
+allan bruvik|.|bbc_tech_092.txt|.|2
+give people|.|bbc_tech_279.txt|.|2|.|bbc_tech_302.txt|.|2
+rock|.|bbc_tech_182.txt|.|2
+consuming|.|bbc_tech_094.txt|.|1|.|bbc_tech_313.txt|.|1
+apple ipods|.|bbc_tech_332.txt|.|1|.|bbc_tech_040.txt|.|1
+blocked|.|bbc_tech_101.txt|.|1
+screens|.|bbc_tech_185.txt|.|4|.|bbc_tech_153.txt|.|4
+counterfeit|.|bbc_tech_194.txt|.|5
+agreed|.|bbc_tech_383.txt|.|2
+successful|.|bbc_tech_145.txt|.|5
+frank allan|.|bbc_tech_092.txt|.|2
+apple over ipod|.|bbc_tech_148.txt|.|1
+spanish speaking|.|bbc_tech_312.txt|.|1|.|bbc_tech_090.txt|.|1
+media player|.|bbc_tech_183.txt|.|1
+control|.|bbc_tech_266.txt|.|4|.|bbc_tech_202.txt|.|4|.|bbc_tech_009.txt|.|3|.|bbc_tech_165.txt|.|5|.|bbc_tech_279.txt|.|5|.|bbc_tech_166.txt|.|5|.|bbc_tech_285.txt|.|6|.|bbc_tech_304.txt|.|6|.|bbc_tech_302.txt|.|5
+expands|.|bbc_tech_332.txt|.|1|.|bbc_tech_040.txt|.|1
+bruvik|.|bbc_tech_092.txt|.|4
+appeal|.|bbc_tech_092.txt|.|2
+tulip|.|bbc_tech_374.txt|.|2|.|bbc_tech_128.txt|.|2
+music downloads|.|bbc_tech_064.txt|.|2|.|bbc_tech_338.txt|.|2|.|bbc_tech_383.txt|.|2
+apple ipod|.|bbc_tech_110.txt|.|2
+songs|.|bbc_tech_298.txt|.|2|.|bbc_tech_148.txt|.|3|.|bbc_tech_263.txt|.|2
+speaking world|.|bbc_tech_312.txt|.|1|.|bbc_tech_090.txt|.|1
+norway|.|bbc_tech_092.txt|.|3
+family|.|bbc_tech_332.txt|.|3|.|bbc_tech_040.txt|.|3
+age|.|bbc_tech_383.txt|.|2

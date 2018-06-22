@@ -1,0 +1,38 @@
+143
+manchester united|.|WET1929.txt|.|17
+ekf senior|.|WET3306.txt|.|27
+scores|.|WET371.txt|.|10|.|WET5500.txt|.|14|.|WET2499.txt|.|14
+prospects|.|WET4693.txt|.|20
+league baseball|.|WET1257.txt|.|38|.|WET4394.txt|.|32
+club friendlies|.|WET2918.txt|.|16
+liverpool manchester|.|WET1929.txt|.|8
+rugby league|.|WET3124.txt|.|26
+liverpool|.|WET1929.txt|.|32
+national hockey league|.|WET2499.txt|.|44
+senior junior|.|WET3306.txt|.|54
+world championships|.|WET3306.txt|.|18
+er bb|.|WET1256.txt|.|22
+inclusion|.|WET4693.txt|.|20
+bb so hr|.|WET1256.txt|.|22
+tor|.|WET4693.txt|.|20
+tex nl east|.|WET4693.txt|.|20
+fantasy hockey|.|WET2499.txt|.|13
+friendlies|.|WET2918.txt|.|49
+player|.|WET2023.txt|.|32|.|WET5205.txt|.|20|.|WET4985.txt|.|14|.|WET2796.txt|.|1|.|WET5477.txt|.|39|.|WET2624.txt|.|10|.|WET3029.txt|.|33|.|WET4729.txt|.|7|.|WET4693.txt|.|87|.|WET5961.txt|.|11|.|WET4936.txt|.|18|.|WET5936.txt|.|34
+ballparks|.|WET4693.txt|.|50
+rulebook|.|WET2499.txt|.|13
+champions|.|WET2918.txt|.|178|.|WET1572.txt|.|20|.|WET2919.txt|.|84
+champions league uefa|.|WET2918.txt|.|24
+homologated|.|WET3306.txt|.|27
+equipment soccer|.|WET2917.txt|.|6
+senior championships|.|WET3306.txt|.|18
+scores news|.|WET2499.txt|.|12
+video rulebook|.|WET2499.txt|.|13
+fine cable|.|WET2125.txt|.|8
+qualification|.|WET2918.txt|.|154
+infected macaques|.|WET4286.txt|.|2
+homologated items|.|WET3306.txt|.|27
+industries|.|WET6075.txt|.|86
+min al west|.|WET4693.txt|.|20
+uefa|.|WET2918.txt|.|82
+defender|.|WET5670.txt|.|10

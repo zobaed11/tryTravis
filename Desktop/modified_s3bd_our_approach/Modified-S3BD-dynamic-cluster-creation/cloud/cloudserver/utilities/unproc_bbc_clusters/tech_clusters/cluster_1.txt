@@ -1,0 +1,91 @@
+1
+pocket office|.|bbc_tech_041.txt|.|2|.|bbc_tech_376.txt|.|2
+iaea|.|bbc_tech_105.txt|.|5
+interactive|.|bbc_tech_144.txt|.|2|.|bbc_tech_230.txt|.|1|.|bbc_tech_046.txt|.|9
+supercomputing|.|bbc_tech_173.txt|.|3|.|bbc_tech_141.txt|.|2
+remote|.|bbc_tech_202.txt|.|4|.|bbc_tech_009.txt|.|3
+listen|.|bbc_tech_163.txt|.|2|.|bbc_tech_291.txt|.|2
+dominate|.|bbc_tech_242.txt|.|2|.|bbc_tech_337.txt|.|1|.|bbc_tech_045.txt|.|2|.|bbc_tech_341.txt|.|2
+entropia|.|bbc_tech_249.txt|.|4
+handheld computer|.|bbc_tech_066.txt|.|1|.|bbc_tech_381.txt|.|1
+telephone calls|.|bbc_tech_136.txt|.|2
+peer to peer|.|bbc_tech_206.txt|.|3
+scanned|.|bbc_tech_236.txt|.|3
+record|.|bbc_tech_253.txt|.|4|.|bbc_tech_152.txt|.|1|.|bbc_tech_372.txt|.|2|.|bbc_tech_070.txt|.|3|.|bbc_tech_287.txt|.|2
+day|.|bbc_tech_066.txt|.|2|.|bbc_tech_188.txt|.|3|.|bbc_tech_016.txt|.|5|.|bbc_tech_189.txt|.|3|.|bbc_tech_381.txt|.|2|.|bbc_tech_035.txt|.|6
+hardware|.|bbc_tech_105.txt|.|2|.|bbc_tech_358.txt|.|6
+caballeros|.|bbc_tech_312.txt|.|3|.|bbc_tech_090.txt|.|3
+phishing|.|bbc_tech_217.txt|.|12|.|bbc_tech_281.txt|.|4
+solid|.|bbc_tech_244.txt|.|2
+laws|.|bbc_tech_390.txt|.|3|.|bbc_tech_273.txt|.|3
+pass|.|bbc_tech_230.txt|.|3
+players|.|bbc_tech_170.txt|.|3|.|bbc_tech_059.txt|.|3|.|bbc_tech_249.txt|.|2|.|bbc_tech_327.txt|.|12|.|bbc_tech_383.txt|.|3|.|bbc_tech_279.txt|.|4|.|bbc_tech_047.txt|.|12|.|bbc_tech_332.txt|.|6|.|bbc_tech_203.txt|.|2|.|bbc_tech_322.txt|.|3|.|bbc_tech_040.txt|.|6|.|bbc_tech_298.txt|.|3|.|bbc_tech_148.txt|.|3|.|bbc_tech_183.txt|.|8|.|bbc_tech_140.txt|.|8|.|bbc_tech_263.txt|.|3|.|bbc_tech_302.txt|.|4|.|bbc_tech_222.txt|.|3
+ethernet port|.|bbc_tech_301.txt|.|2
+island|.|bbc_tech_249.txt|.|3
+rugby|.|bbc_tech_028.txt|.|2
+created|.|bbc_tech_201.txt|.|4
+format|.|bbc_tech_294.txt|.|6|.|bbc_tech_219.txt|.|6|.|bbc_tech_345.txt|.|2|.|bbc_tech_155.txt|.|6|.|bbc_tech_224.txt|.|6
+pleaded|.|bbc_tech_303.txt|.|3|.|bbc_tech_075.txt|.|3
+honeynet project|.|bbc_tech_357.txt|.|2
+supreme|.|bbc_tech_092.txt|.|2|.|bbc_tech_370.txt|.|5
+pro|.|bbc_tech_111.txt|.|3|.|bbc_tech_243.txt|.|3|.|bbc_tech_021.txt|.|3|.|bbc_tech_328.txt|.|3
+creative|.|bbc_tech_005.txt|.|12
+forrester|.|bbc_tech_242.txt|.|3
+army|.|bbc_tech_379.txt|.|5
+apple laptop|.|bbc_tech_379.txt|.|2|.|bbc_tech_009.txt|.|2
+million|.|bbc_tech_211.txt|.|2|.|bbc_tech_217.txt|.|3|.|bbc_tech_242.txt|.|5|.|bbc_tech_254.txt|.|5|.|bbc_tech_099.txt|.|2|.|bbc_tech_203.txt|.|2|.|bbc_tech_262.txt|.|5|.|bbc_tech_160.txt|.|4|.|bbc_tech_226.txt|.|2
+light|.|bbc_tech_019.txt|.|13|.|bbc_tech_329.txt|.|12
+passenger|.|bbc_tech_229.txt|.|4
+innovation award|.|bbc_tech_111.txt|.|2
+home printed|.|bbc_tech_243.txt|.|1
+smartcards|.|bbc_tech_124.txt|.|2
+soar|.|bbc_tech_264.txt|.|1
+farmers in peru|.|bbc_tech_006.txt|.|2
+child|.|bbc_tech_004.txt|.|4|.|bbc_tech_063.txt|.|4
+tens|.|bbc_tech_395.txt|.|1
+pro magazine|.|bbc_tech_021.txt|.|2|.|bbc_tech_328.txt|.|2
+battlefront|.|bbc_tech_125.txt|.|5
+sony walkman|.|bbc_tech_379.txt|.|3
+networks|.|bbc_tech_391.txt|.|10|.|bbc_tech_272.txt|.|4|.|bbc_tech_032.txt|.|10|.|bbc_tech_286.txt|.|10|.|bbc_tech_303.txt|.|2|.|bbc_tech_357.txt|.|5|.|bbc_tech_346.txt|.|6|.|bbc_tech_206.txt|.|7|.|bbc_tech_275.txt|.|3|.|bbc_tech_122.txt|.|5|.|bbc_tech_400.txt|.|5|.|bbc_tech_335.txt|.|10|.|bbc_tech_075.txt|.|2|.|bbc_tech_038.txt|.|3
+peru|.|bbc_tech_006.txt|.|4
+confirmed|.|bbc_tech_133.txt|.|2|.|bbc_tech_180.txt|.|2
+textbooks|.|bbc_tech_066.txt|.|3|.|bbc_tech_381.txt|.|3
+marine|.|bbc_tech_379.txt|.|4|.|bbc_tech_009.txt|.|4
+lot|.|bbc_tech_093.txt|.|3|.|bbc_tech_110.txt|.|2
+los|.|bbc_tech_312.txt|.|3|.|bbc_tech_090.txt|.|3
+single passenger|.|bbc_tech_229.txt|.|2
+general|.|bbc_tech_273.txt|.|3
+dvd burner|.|bbc_tech_301.txt|.|4
+premium|.|bbc_tech_397.txt|.|5|.|bbc_tech_188.txt|.|11
+ways|.|bbc_tech_367.txt|.|3
+low|.|bbc_tech_300.txt|.|1|.|bbc_tech_343.txt|.|2|.|bbc_tech_297.txt|.|1|.|bbc_tech_260.txt|.|1
+asimo|.|bbc_tech_246.txt|.|7|.|bbc_tech_356.txt|.|4
+gizmondo|.|bbc_tech_359.txt|.|5
+upcoming parliamentary|.|bbc_tech_001.txt|.|2
+york public|.|bbc_tech_236.txt|.|2
+bloggers|.|bbc_tech_016.txt|.|11|.|bbc_tech_035.txt|.|5|.|bbc_tech_355.txt|.|6
+working|.|bbc_tech_244.txt|.|2
+hard|.|bbc_tech_336.txt|.|4|.|bbc_tech_070.txt|.|2|.|bbc_tech_207.txt|.|2|.|bbc_tech_278.txt|.|4|.|bbc_tech_301.txt|.|6
+relief|.|bbc_tech_223.txt|.|2
+walkman|.|bbc_tech_379.txt|.|3
+latest|.|bbc_tech_091.txt|.|2|.|bbc_tech_007.txt|.|2|.|bbc_tech_041.txt|.|2|.|bbc_tech_376.txt|.|2|.|bbc_tech_310.txt|.|2|.|bbc_tech_089.txt|.|2|.|bbc_tech_060.txt|.|2|.|bbc_tech_182.txt|.|3
+gaming|.|bbc_tech_317.txt|.|3|.|bbc_tech_054.txt|.|1|.|bbc_tech_134.txt|.|3|.|bbc_tech_309.txt|.|4|.|bbc_tech_351.txt|.|2|.|bbc_tech_221.txt|.|5|.|bbc_tech_359.txt|.|5|.|bbc_tech_274.txt|.|3|.|bbc_tech_185.txt|.|5|.|bbc_tech_153.txt|.|5|.|bbc_tech_244.txt|.|5|.|bbc_tech_363.txt|.|6|.|bbc_tech_192.txt|.|6|.|bbc_tech_025.txt|.|3
+printers|.|bbc_tech_243.txt|.|7
+marine chronometer|.|bbc_tech_379.txt|.|4|.|bbc_tech_009.txt|.|4
+hours|.|bbc_tech_101.txt|.|2
+high street|.|bbc_tech_243.txt|.|8
+celebrates|.|bbc_tech_065.txt|.|1
+world community|.|bbc_tech_200.txt|.|2
+start|.|bbc_tech_122.txt|.|2
+libraries|.|bbc_tech_236.txt|.|6
+titles|.|bbc_tech_170.txt|.|6|.|bbc_tech_056.txt|.|3|.|bbc_tech_203.txt|.|5
+cheap|.|bbc_tech_301.txt|.|4
+prof|.|bbc_tech_199.txt|.|9
+seeking|.|bbc_tech_390.txt|.|3
+silicon|.|bbc_tech_019.txt|.|10|.|bbc_tech_329.txt|.|10
+us state|.|bbc_tech_273.txt|.|2
+interaction|.|bbc_tech_143.txt|.|2
+wireless|.|bbc_tech_073.txt|.|9|.|bbc_tech_204.txt|.|5|.|bbc_tech_343.txt|.|4|.|bbc_tech_066.txt|.|1|.|bbc_tech_107.txt|.|4|.|bbc_tech_381.txt|.|1|.|bbc_tech_275.txt|.|2
+magazine|.|bbc_tech_379.txt|.|8|.|bbc_tech_243.txt|.|3|.|bbc_tech_021.txt|.|2|.|bbc_tech_009.txt|.|7|.|bbc_tech_328.txt|.|2
+time|.|bbc_tech_218.txt|.|4
+privacy advocates|.|bbc_tech_373.txt|.|2|.|bbc_tech_079.txt|.|2

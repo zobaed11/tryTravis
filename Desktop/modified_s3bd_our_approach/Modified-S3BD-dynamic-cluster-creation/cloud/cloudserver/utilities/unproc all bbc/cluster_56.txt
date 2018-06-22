@@ -1,0 +1,64 @@
+people coming|.|bbc_politics_382.txt|.|2|.|bbc_politics_122.txt|.|3
+asylum system|.|bbc_politics_087.txt|.|2|.|bbc_politics_106.txt|.|4
+santa barbara|.|bbc_entertainment_108.txt|.|2
+attacks cost|.|bbc_politics_106.txt|.|1
+panoramic|.|bbc_tech_201.txt|.|2
+rennard said|.|bbc_politics_416.txt|.|2
+retirement|.|bbc_entertainment_269.txt|.|2|.|bbc_business_255.txt|.|4|.|bbc_business_382.txt|.|6|.|bbc_politics_132.txt|.|5|.|bbc_sport_460.txt|.|2
+jurors|.|bbc_entertainment_108.txt|.|5
+features|.|bbc_entertainment_096.txt|.|3|.|bbc_entertainment_155.txt|.|1|.|bbc_entertainment_334.txt|.|3
+alan greenspan|.|bbc_business_273.txt|.|2
+dicaprio|.|bbc_entertainment_084.txt|.|2|.|bbc_entertainment_337.txt|.|5|.|bbc_entertainment_354.txt|.|3
+attacks|.|bbc_tech_217.txt|.|6|.|bbc_tech_270.txt|.|15|.|bbc_politics_209.txt|.|3|.|bbc_politics_276.txt|.|1|.|bbc_tech_293.txt|.|2|.|bbc_politics_106.txt|.|1|.|bbc_entertainment_345.txt|.|1|.|bbc_tech_299.txt|.|15|.|bbc_tech_368.txt|.|12|.|bbc_tech_156.txt|.|2
+gta|.|bbc_tech_135.txt|.|4
+allegedly found|.|bbc_entertainment_110.txt|.|2
+tremors|.|bbc_tech_353.txt|.|6
+aurelien|.|bbc_sport_287.txt|.|2
+backing for id cards|.|bbc_politics_081.txt|.|1|.|bbc_politics_299.txt|.|1
+british library|.|bbc_tech_204.txt|.|6
+mull|.|bbc_entertainment_104.txt|.|2
+maternity leave|.|bbc_politics_128.txt|.|3|.|bbc_politics_003.txt|.|2
+write|.|bbc_entertainment_386.txt|.|2
+wage|.|bbc_politics_380.txt|.|50|.|bbc_business_404.txt|.|3
+passengers|.|bbc_business_015.txt|.|13|.|bbc_business_432.txt|.|1
+health check|.|bbc_politics_122.txt|.|1
+musical|.|bbc_entertainment_294.txt|.|5|.|bbc_entertainment_232.txt|.|3|.|bbc_entertainment_192.txt|.|4|.|bbc_entertainment_003.txt|.|6|.|bbc_tech_323.txt|.|1|.|bbc_entertainment_280.txt|.|4|.|bbc_entertainment_005.txt|.|2|.|bbc_entertainment_272.txt|.|6|.|bbc_entertainment_277.txt|.|3|.|bbc_entertainment_265.txt|.|5|.|bbc_tech_051.txt|.|1|.|bbc_entertainment_275.txt|.|10
+loyalty|.|bbc_tech_124.txt|.|5
+bulb|.|bbc_entertainment_001.txt|.|1
+masks|.|bbc_sport_148.txt|.|5
+classroom|.|bbc_tech_071.txt|.|6
+country compete|.|bbc_politics_374.txt|.|1
+suspended|.|bbc_tech_102.txt|.|4|.|bbc_politics_170.txt|.|1|.|bbc_sport_089.txt|.|2|.|bbc_tech_133.txt|.|3|.|bbc_sport_033.txt|.|3|.|bbc_politics_286.txt|.|6|.|bbc_tech_180.txt|.|3|.|bbc_politics_125.txt|.|6
+arrogance|.|bbc_sport_308.txt|.|2
+david miliband|.|bbc_politics_037.txt|.|3
+no|.|bbc_politics_013.txt|.|3|.|bbc_politics_169.txt|.|2|.|bbc_entertainment_310.txt|.|2|.|bbc_sport_169.txt|.|2|.|bbc_politics_353.txt|.|5|.|bbc_politics_072.txt|.|4|.|bbc_politics_405.txt|.|2|.|bbc_politics_200.txt|.|8
+gun|.|bbc_entertainment_169.txt|.|5|.|bbc_business_390.txt|.|7|.|bbc_entertainment_237.txt|.|3
+circuit|.|bbc_business_070.txt|.|5|.|bbc_sport_086.txt|.|2
+singer|.|bbc_entertainment_162.txt|.|1|.|bbc_entertainment_232.txt|.|2|.|bbc_entertainment_334.txt|.|3|.|bbc_entertainment_258.txt|.|3|.|bbc_entertainment_153.txt|.|4|.|bbc_entertainment_250.txt|.|1|.|bbc_entertainment_276.txt|.|4|.|bbc_entertainment_150.txt|.|2|.|bbc_entertainment_096.txt|.|3|.|bbc_entertainment_246.txt|.|2|.|bbc_entertainment_114.txt|.|3|.|bbc_entertainment_161.txt|.|2|.|bbc_entertainment_293.txt|.|5|.|bbc_entertainment_177.txt|.|2|.|bbc_entertainment_138.txt|.|3|.|bbc_entertainment_158.txt|.|3|.|bbc_entertainment_141.txt|.|3|.|bbc_entertainment_260.txt|.|2|.|bbc_entertainment_223.txt|.|3
+sotherton|.|bbc_sport_056.txt|.|4
+egyptian|.|bbc_business_478.txt|.|3|.|bbc_business_389.txt|.|2|.|bbc_sport_100.txt|.|2
+ferguson|.|bbc_sport_252.txt|.|4|.|bbc_sport_235.txt|.|8|.|bbc_sport_238.txt|.|4|.|bbc_business_385.txt|.|3|.|bbc_sport_200.txt|.|4|.|bbc_sport_189.txt|.|6|.|bbc_politics_174.txt|.|9|.|bbc_sport_152.txt|.|5|.|bbc_sport_255.txt|.|4|.|bbc_sport_282.txt|.|3|.|bbc_entertainment_223.txt|.|2
+union representing|.|bbc_business_394.txt|.|2
+charged nine|.|bbc_business_448.txt|.|1
+jackson|.|bbc_politics_307.txt|.|6|.|bbc_entertainment_385.txt|.|4|.|bbc_entertainment_375.txt|.|10|.|bbc_entertainment_171.txt|.|2|.|bbc_politics_270.txt|.|4|.|bbc_entertainment_108.txt|.|5|.|bbc_entertainment_133.txt|.|2|.|bbc_entertainment_145.txt|.|2
+organisations|.|bbc_entertainment_085.txt|.|2|.|bbc_entertainment_108.txt|.|2
+legislate|.|bbc_politics_010.txt|.|1
+boosted|.|bbc_sport_066.txt|.|2|.|bbc_business_040.txt|.|2|.|bbc_business_450.txt|.|2|.|bbc_entertainment_026.txt|.|2
+documentary|.|bbc_politics_074.txt|.|3|.|bbc_entertainment_336.txt|.|3|.|bbc_entertainment_361.txt|.|3|.|bbc_entertainment_375.txt|.|3|.|bbc_politics_292.txt|.|4
+news|.|bbc_tech_102.txt|.|2|.|bbc_business_447.txt|.|4|.|bbc_politics_403.txt|.|2|.|bbc_entertainment_167.txt|.|2|.|bbc_tech_186.txt|.|12|.|bbc_business_254.txt|.|4|.|bbc_politics_011.txt|.|3|.|bbc_tech_296.txt|.|2|.|bbc_tech_002.txt|.|2|.|bbc_entertainment_367.txt|.|3|.|bbc_business_034.txt|.|2|.|bbc_tech_114.txt|.|4|.|bbc_tech_193.txt|.|2|.|bbc_business_282.txt|.|2|.|bbc_business_422.txt|.|8|.|bbc_entertainment_368.txt|.|4|.|bbc_entertainment_108.txt|.|3|.|bbc_business_325.txt|.|3|.|bbc_tech_354.txt|.|3
+choice awards|.|bbc_entertainment_097.txt|.|2
+attack mongrel|.|bbc_politics_408.txt|.|2
+tories|.|bbc_politics_081.txt|.|3|.|bbc_politics_382.txt|.|3|.|bbc_politics_226.txt|.|3|.|bbc_politics_202.txt|.|3|.|bbc_politics_299.txt|.|3|.|bbc_politics_347.txt|.|3|.|bbc_politics_416.txt|.|2|.|bbc_politics_360.txt|.|2|.|bbc_politics_122.txt|.|2|.|bbc_politics_278.txt|.|2|.|bbc_politics_265.txt|.|3|.|bbc_politics_171.txt|.|3|.|bbc_politics_014.txt|.|4|.|bbc_politics_411.txt|.|7|.|bbc_politics_242.txt|.|3
+heading|.|bbc_politics_211.txt|.|1|.|bbc_politics_367.txt|.|2|.|bbc_sport_210.txt|.|2|.|bbc_politics_110.txt|.|2
+frankfurt|.|bbc_business_064.txt|.|1
+pacific|.|bbc_tech_288.txt|.|6
+questionnaires|.|bbc_entertainment_108.txt|.|2
+christmas single|.|bbc_entertainment_136.txt|.|2
+mongrel|.|bbc_politics_408.txt|.|4
+names|.|bbc_tech_239.txt|.|6|.|bbc_tech_387.txt|.|6|.|bbc_tech_118.txt|.|6|.|bbc_tech_049.txt|.|3|.|bbc_tech_340.txt|.|3
+balfour|.|bbc_politics_178.txt|.|4
+borrowing|.|bbc_business_436.txt|.|2|.|bbc_politics_271.txt|.|4|.|bbc_business_402.txt|.|2
+votes|.|bbc_politics_416.txt|.|2
+superior court|.|bbc_entertainment_108.txt|.|2
+denied|.|bbc_sport_047.txt|.|1|.|bbc_politics_212.txt|.|1|.|bbc_politics_329.txt|.|1|.|bbc_politics_300.txt|.|3|.|bbc_politics_141.txt|.|3|.|bbc_sport_165.txt|.|2|.|bbc_politics_402.txt|.|2|.|bbc_sport_139.txt|.|2|.|bbc_business_100.txt|.|4|.|bbc_politics_389.txt|.|3
+chronicle|.|bbc_politics_331.txt|.|3|.|bbc_sport_260.txt|.|2|.|bbc_politics_316.txt|.|2

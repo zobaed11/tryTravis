@@ -1,0 +1,17 @@
+72
+portable music|.|183.txt|.|3
+bbc|.|028.txt|.|8|.|046.txt|.|4|.|114.txt|.|3|.|102.txt|.|2|.|354.txt|.|3|.|232.txt|.|1|.|193.txt|.|2|.|296.txt|.|2
+ad|.|209.txt|.|1
+portable media|.|222.txt|.|8
+player market|.|183.txt|.|3
+portable player|.|183.txt|.|2
+gran|.|112.txt|.|2
+media player|.|183.txt|.|1
+sony walkman|.|379.txt|.|3
+robot|.|246.txt|.|7|.|356.txt|.|7|.|127.txt|.|2|.|172.txt|.|2|.|121.txt|.|10
+molyneux|.|100.txt|.|5
+army knife|.|379.txt|.|5
+concept vehicles|.|229.txt|.|3
+walkman|.|379.txt|.|3
+net cafes|.|002.txt|.|10
+customer|.|164.txt|.|3

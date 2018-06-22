@@ -1,0 +1,17 @@
+124
+travel expenses|.|140.txt|.|1
+legal action|.|180.txt|.|2|.|273.txt|.|2|.|259.txt|.|3|.|255.txt|.|3|.|241.txt|.|2|.|399.txt|.|1|.|133.txt|.|2
+life project|.|047.txt|.|2|.|327.txt|.|2
+handheld gaming|.|351.txt|.|2|.|363.txt|.|2
+gangsters|.|203.txt|.|2
+players|.|383.txt|.|3|.|059.txt|.|3|.|140.txt|.|8|.|332.txt|.|6|.|183.txt|.|8|.|170.txt|.|3|.|302.txt|.|4|.|040.txt|.|6|.|148.txt|.|3|.|047.txt|.|12|.|322.txt|.|3|.|203.txt|.|2|.|263.txt|.|3|.|249.txt|.|2|.|298.txt|.|3|.|222.txt|.|3|.|327.txt|.|12|.|279.txt|.|4
+consumption|.|367.txt|.|4
+portable|.|341.txt|.|2|.|112.txt|.|2|.|379.txt|.|5|.|222.txt|.|11|.|332.txt|.|3|.|183.txt|.|8|.|045.txt|.|2|.|040.txt|.|3
+portable video|.|183.txt|.|2
+life|.|047.txt|.|2|.|244.txt|.|1|.|367.txt|.|5|.|327.txt|.|2|.|115.txt|.|5|.|184.txt|.|3
+internet and american life project|.|047.txt|.|2|.|327.txt|.|2
+take part|.|140.txt|.|1
+spam circulating|.|026.txt|.|1
+american life|.|047.txt|.|2|.|327.txt|.|2
+project entropia|.|249.txt|.|2
+american life project|.|047.txt|.|2|.|327.txt|.|2

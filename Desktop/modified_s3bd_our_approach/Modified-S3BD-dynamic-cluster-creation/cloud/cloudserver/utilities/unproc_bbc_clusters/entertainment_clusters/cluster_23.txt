@@ -1,0 +1,93 @@
+23
+magic|.|bbc_entertainment_353.txt|.|13
+copyright|.|bbc_entertainment_148.txt|.|5
+british music|.|bbc_entertainment_148.txt|.|3
+streets|.|bbc_entertainment_106.txt|.|3|.|bbc_entertainment_256.txt|.|4
+broadcaster|.|bbc_entertainment_190.txt|.|2
+lucas|.|bbc_entertainment_201.txt|.|4|.|bbc_entertainment_382.txt|.|3
+music millionaires|.|bbc_entertainment_346.txt|.|3
+sunday times|.|bbc_entertainment_346.txt|.|2
+sound|.|bbc_entertainment_229.txt|.|5|.|bbc_entertainment_277.txt|.|2|.|bbc_entertainment_142.txt|.|5
+slim|.|bbc_entertainment_122.txt|.|1
+jailhouse|.|bbc_entertainment_233.txt|.|2|.|bbc_entertainment_242.txt|.|2
+singer courtney|.|bbc_entertainment_258.txt|.|2
+sales|.|bbc_entertainment_066.txt|.|3|.|bbc_entertainment_046.txt|.|2|.|bbc_entertainment_004.txt|.|2|.|bbc_entertainment_338.txt|.|2|.|bbc_entertainment_127.txt|.|11|.|bbc_entertainment_266.txt|.|3|.|bbc_entertainment_306.txt|.|2|.|bbc_entertainment_103.txt|.|11
+patch|.|bbc_entertainment_122.txt|.|2
+independence square|.|bbc_entertainment_213.txt|.|3
+music|.|bbc_entertainment_245.txt|.|3|.|bbc_entertainment_148.txt|.|16|.|bbc_entertainment_321.txt|.|11|.|bbc_entertainment_122.txt|.|8|.|bbc_entertainment_127.txt|.|7|.|bbc_entertainment_208.txt|.|1|.|bbc_entertainment_255.txt|.|6|.|bbc_entertainment_286.txt|.|3|.|bbc_entertainment_290.txt|.|3|.|bbc_entertainment_277.txt|.|2|.|bbc_entertainment_318.txt|.|4|.|bbc_entertainment_184.txt|.|5|.|bbc_entertainment_238.txt|.|2|.|bbc_entertainment_264.txt|.|3|.|bbc_entertainment_107.txt|.|3|.|bbc_entertainment_251.txt|.|2|.|bbc_entertainment_243.txt|.|2|.|bbc_entertainment_256.txt|.|70|.|bbc_entertainment_281.txt|.|2|.|bbc_entertainment_319.txt|.|4|.|bbc_entertainment_116.txt|.|3|.|bbc_entertainment_103.txt|.|7|.|bbc_entertainment_263.txt|.|5|.|bbc_entertainment_131.txt|.|26|.|bbc_entertainment_271.txt|.|13|.|bbc_entertainment_346.txt|.|6|.|bbc_entertainment_241.txt|.|3|.|bbc_entertainment_280.txt|.|7|.|bbc_entertainment_134.txt|.|2|.|bbc_entertainment_279.txt|.|2|.|bbc_entertainment_292.txt|.|1|.|bbc_entertainment_266.txt|.|6|.|bbc_entertainment_342.txt|.|2|.|bbc_entertainment_262.txt|.|4
+knocking|.|bbc_entertainment_234.txt|.|1
+music piracy|.|bbc_entertainment_148.txt|.|3
+leave|.|bbc_entertainment_290.txt|.|1
+ring of fire hit|.|bbc_entertainment_119.txt|.|1
+german music|.|bbc_entertainment_271.txt|.|2
+bookmaker|.|bbc_entertainment_221.txt|.|3
+create|.|bbc_entertainment_374.txt|.|3
+music award|.|bbc_entertainment_286.txt|.|1
+presley played|.|bbc_entertainment_242.txt|.|1
+based|.|bbc_entertainment_346.txt|.|1
+admitted|.|bbc_entertainment_122.txt|.|2
+music was dead|.|bbc_entertainment_122.txt|.|1
+independent labels|.|bbc_entertainment_266.txt|.|2
+joss stone|.|bbc_entertainment_251.txt|.|2|.|bbc_entertainment_256.txt|.|17
+cities|.|bbc_entertainment_256.txt|.|6
+album of the year|.|bbc_entertainment_106.txt|.|1
+like|.|bbc_entertainment_066.txt|.|2|.|bbc_entertainment_206.txt|.|2|.|bbc_entertainment_144.txt|.|2
+phonographic industries|.|bbc_entertainment_321.txt|.|1
+music rights|.|bbc_entertainment_148.txt|.|3
+primetime|.|bbc_entertainment_170.txt|.|2
+edinburgh|.|bbc_entertainment_131.txt|.|3
+urban music|.|bbc_entertainment_256.txt|.|14
+albums market|.|bbc_entertainment_321.txt|.|2
+buyer|.|bbc_entertainment_321.txt|.|1
+government help|.|bbc_entertainment_131.txt|.|2
+biggest music buyer|.|bbc_entertainment_321.txt|.|1
+market|.|bbc_entertainment_321.txt|.|4
+secondary|.|bbc_entertainment_148.txt|.|2
+entry|.|bbc_entertainment_346.txt|.|3
+music buyer|.|bbc_entertainment_321.txt|.|1
+alex|.|bbc_entertainment_131.txt|.|3
+instrumental|.|bbc_entertainment_342.txt|.|2
+survey|.|bbc_entertainment_290.txt|.|1
+rascal|.|bbc_entertainment_256.txt|.|4
+lessons|.|bbc_entertainment_148.txt|.|4
+dizzee|.|bbc_entertainment_256.txt|.|4
+dance music not dead|.|bbc_entertainment_122.txt|.|1
+kasabian|.|bbc_entertainment_255.txt|.|8
+kapranos|.|bbc_entertainment_131.txt|.|9
+fatboy slim|.|bbc_entertainment_122.txt|.|1
+stage production|.|bbc_entertainment_277.txt|.|1
+phonographic|.|bbc_entertainment_321.txt|.|2
+recreated|.|bbc_entertainment_342.txt|.|2
+rock|.|bbc_entertainment_270.txt|.|2|.|bbc_entertainment_240.txt|.|2|.|bbc_entertainment_139.txt|.|2|.|bbc_entertainment_242.txt|.|3|.|bbc_entertainment_153.txt|.|2|.|bbc_entertainment_142.txt|.|3|.|bbc_entertainment_367.txt|.|4|.|bbc_entertainment_185.txt|.|3|.|bbc_entertainment_233.txt|.|2|.|bbc_entertainment_268.txt|.|6|.|bbc_entertainment_134.txt|.|3|.|bbc_entertainment_236.txt|.|3|.|bbc_entertainment_229.txt|.|2|.|bbc_entertainment_206.txt|.|2|.|bbc_entertainment_262.txt|.|4
+connick|.|bbc_entertainment_232.txt|.|4
+black music|.|bbc_entertainment_256.txt|.|7
+joss|.|bbc_entertainment_251.txt|.|2|.|bbc_entertainment_256.txt|.|21
+dark|.|bbc_entertainment_255.txt|.|2|.|bbc_entertainment_094.txt|.|3
+spector is facing|.|bbc_entertainment_149.txt|.|1
+place|.|bbc_entertainment_221.txt|.|5|.|bbc_entertainment_084.txt|.|2|.|bbc_entertainment_106.txt|.|2|.|bbc_entertainment_267.txt|.|2
+dance acts|.|bbc_entertainment_122.txt|.|1
+clooney|.|bbc_entertainment_074.txt|.|2|.|bbc_entertainment_088.txt|.|2|.|bbc_entertainment_182.txt|.|3
+regular|.|bbc_entertainment_287.txt|.|2
+dispute|.|bbc_entertainment_155.txt|.|1
+business|.|bbc_entertainment_271.txt|.|2
+sports|.|bbc_entertainment_319.txt|.|2
+biggest music|.|bbc_entertainment_321.txt|.|2
+like toy soldiers|.|bbc_entertainment_144.txt|.|2
+secondary schools|.|bbc_entertainment_148.txt|.|1
+cook|.|bbc_entertainment_122.txt|.|8
+sell|.|bbc_entertainment_267.txt|.|1|.|bbc_entertainment_152.txt|.|2|.|bbc_entertainment_143.txt|.|2
+grammy awards|.|bbc_entertainment_139.txt|.|2
+elton played|.|bbc_entertainment_111.txt|.|1
+uk music|.|bbc_entertainment_321.txt|.|2
+fallow patch|.|bbc_entertainment_122.txt|.|2
+stone|.|bbc_entertainment_072.txt|.|3|.|bbc_entertainment_251.txt|.|5|.|bbc_entertainment_293.txt|.|2|.|bbc_entertainment_256.txt|.|17|.|bbc_entertainment_249.txt|.|2
+drummer|.|bbc_entertainment_138.txt|.|2|.|bbc_entertainment_158.txt|.|2
+hits|.|bbc_entertainment_066.txt|.|3|.|bbc_entertainment_176.txt|.|1|.|bbc_entertainment_136.txt|.|1|.|bbc_entertainment_109.txt|.|3|.|bbc_entertainment_315.txt|.|1|.|bbc_entertainment_301.txt|.|2
+elvis presley|.|bbc_entertainment_263.txt|.|2
+vinci|.|bbc_entertainment_009.txt|.|3|.|bbc_entertainment_376.txt|.|6|.|bbc_entertainment_098.txt|.|2|.|bbc_entertainment_308.txt|.|2|.|bbc_entertainment_068.txt|.|2
+help|.|bbc_entertainment_131.txt|.|5|.|bbc_entertainment_266.txt|.|2|.|bbc_entertainment_130.txt|.|2
+highlights|.|bbc_entertainment_214.txt|.|2
+angolan|.|bbc_entertainment_213.txt|.|4
+frontman|.|bbc_entertainment_381.txt|.|2
+dizzee rascal|.|bbc_entertainment_256.txt|.|4
+roses|.|bbc_entertainment_293.txt|.|2

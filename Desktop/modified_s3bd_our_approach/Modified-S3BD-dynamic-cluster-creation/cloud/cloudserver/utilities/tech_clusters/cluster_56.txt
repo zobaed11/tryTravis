@@ -1,0 +1,17 @@
+56
+cables|.|015.txt|.|3
+using|.|275.txt|.|1|.|142.txt|.|1|.|223.txt|.|1|.|343.txt|.|3|.|079.txt|.|3|.|373.txt|.|3|.|017.txt|.|1
+preventative step|.|015.txt|.|2
+using wireless|.|343.txt|.|1
+consumption on displays|.|367.txt|.|1
+letting people|.|295.txt|.|1|.|228.txt|.|1
+promise|.|367.txt|.|1
+battery|.|367.txt|.|5
+laptop|.|004.txt|.|5|.|379.txt|.|7|.|009.txt|.|6|.|367.txt|.|5|.|063.txt|.|5
+revolution|.|336.txt|.|3|.|295.txt|.|4|.|228.txt|.|4
+battery life|.|367.txt|.|4
+sun grid|.|380.txt|.|2|.|022.txt|.|2
+ways|.|367.txt|.|3
+computing power|.|380.txt|.|2|.|022.txt|.|2
+fire|.|015.txt|.|2
+step|.|015.txt|.|2

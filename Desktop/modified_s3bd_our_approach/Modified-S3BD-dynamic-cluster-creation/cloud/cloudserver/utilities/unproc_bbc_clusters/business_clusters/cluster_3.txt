@@ -1,0 +1,113 @@
+3
+prime minister|.|bbc_business_052.txt|.|2|.|bbc_business_170.txt|.|2
+jet fuel tax|.|bbc_business_075.txt|.|2
+copyright|.|bbc_business_342.txt|.|3
+islamic|.|bbc_business_147.txt|.|9
+mr bush|.|bbc_business_328.txt|.|4
+called|.|bbc_business_413.txt|.|1|.|bbc_business_227.txt|.|2|.|bbc_business_348.txt|.|1|.|bbc_business_457.txt|.|2
+firms involved|.|bbc_business_263.txt|.|3
+development aid|.|bbc_business_065.txt|.|2
+payout|.|bbc_business_403.txt|.|2
+ms lomax|.|bbc_business_057.txt|.|5
+faulty|.|bbc_business_081.txt|.|5
+investors|.|bbc_business_374.txt|.|2
+higher price|.|bbc_business_176.txt|.|2
+pleading|.|bbc_business_060.txt|.|1
+orange said|.|bbc_business_205.txt|.|2
+criminal investigation|.|bbc_business_489.txt|.|2
+gm recalls|.|bbc_business_026.txt|.|1
+uk coal|.|bbc_business_042.txt|.|5
+spending on primary|.|bbc_business_159.txt|.|2
+producer price|.|bbc_business_163.txt|.|1
+ahold|.|bbc_business_448.txt|.|12
+wants congress|.|bbc_business_368.txt|.|2
+swiss|.|bbc_business_201.txt|.|2|.|bbc_business_346.txt|.|4|.|bbc_business_050.txt|.|4|.|bbc_business_311.txt|.|3|.|bbc_business_485.txt|.|2
+khodorkovsky|.|bbc_business_318.txt|.|3|.|bbc_business_157.txt|.|6|.|bbc_business_444.txt|.|7
+eu said|.|bbc_business_065.txt|.|2
+tough|.|bbc_business_328.txt|.|2
+urged|.|bbc_business_041.txt|.|2|.|bbc_business_209.txt|.|1
+smoking dangers|.|bbc_business_291.txt|.|1
+posted record|.|bbc_business_219.txt|.|1|.|bbc_business_193.txt|.|1
+africans|.|bbc_business_176.txt|.|1
+unveils|.|bbc_business_069.txt|.|1|.|bbc_business_055.txt|.|1
+france telecom|.|bbc_business_112.txt|.|6
+driven|.|bbc_business_190.txt|.|2|.|bbc_business_351.txt|.|2
+tax cuts|.|bbc_business_055.txt|.|3
+boost|.|bbc_business_154.txt|.|3|.|bbc_business_383.txt|.|2|.|bbc_business_159.txt|.|2|.|bbc_business_171.txt|.|1|.|bbc_business_001.txt|.|1|.|bbc_business_068.txt|.|2|.|bbc_business_259.txt|.|2|.|bbc_business_097.txt|.|2|.|bbc_business_356.txt|.|2|.|bbc_business_112.txt|.|2|.|bbc_business_225.txt|.|3|.|bbc_business_013.txt|.|1|.|bbc_business_120.txt|.|2|.|bbc_business_241.txt|.|2|.|bbc_business_199.txt|.|2|.|bbc_business_258.txt|.|2|.|bbc_business_476.txt|.|3|.|bbc_business_208.txt|.|1
+mendis|.|bbc_business_398.txt|.|3
+primary|.|bbc_business_159.txt|.|2
+car ownership|.|bbc_business_461.txt|.|2
+debit cards|.|bbc_business_362.txt|.|2
+city|.|bbc_business_461.txt|.|1|.|bbc_business_070.txt|.|4
+privileged information|.|bbc_business_475.txt|.|2
+industry|.|bbc_business_090.txt|.|3|.|bbc_business_258.txt|.|2|.|bbc_business_356.txt|.|2|.|bbc_business_183.txt|.|4|.|bbc_business_060.txt|.|2
+modest profit rise|.|bbc_business_143.txt|.|1
+local|.|bbc_business_502.txt|.|2
+fell|.|bbc_business_046.txt|.|2|.|bbc_business_095.txt|.|3|.|bbc_business_066.txt|.|2|.|bbc_business_062.txt|.|2|.|bbc_business_170.txt|.|2|.|bbc_business_329.txt|.|3|.|bbc_business_044.txt|.|3|.|bbc_business_323.txt|.|5|.|bbc_business_165.txt|.|2
+savoy|.|bbc_business_470.txt|.|5
+flexibility|.|bbc_business_362.txt|.|1
+telekom|.|bbc_business_038.txt|.|2
+sri lanka banks|.|bbc_business_228.txt|.|2
+rights|.|bbc_business_342.txt|.|3
+electronic|.|bbc_business_211.txt|.|1
+decisions|.|bbc_business_236.txt|.|4|.|bbc_business_087.txt|.|1
+debit|.|bbc_business_362.txt|.|3
+japanese car|.|bbc_business_013.txt|.|2
+next year|.|bbc_business_258.txt|.|2|.|bbc_business_356.txt|.|2|.|bbc_business_030.txt|.|2
+deficit|.|bbc_business_429.txt|.|3|.|bbc_business_249.txt|.|3|.|bbc_business_002.txt|.|6|.|bbc_business_413.txt|.|7|.|bbc_business_041.txt|.|5|.|bbc_business_204.txt|.|6|.|bbc_business_488.txt|.|8|.|bbc_business_097.txt|.|4|.|bbc_business_440.txt|.|9|.|bbc_business_368.txt|.|2|.|bbc_business_328.txt|.|7
+cuts|.|bbc_business_249.txt|.|3|.|bbc_business_184.txt|.|2|.|bbc_business_460.txt|.|2|.|bbc_business_395.txt|.|2|.|bbc_business_014.txt|.|2|.|bbc_business_055.txt|.|3|.|bbc_business_103.txt|.|3|.|bbc_business_245.txt|.|6|.|bbc_business_206.txt|.|3|.|bbc_business_034.txt|.|3
+include|.|bbc_business_249.txt|.|2|.|bbc_business_131.txt|.|1
+product|.|bbc_business_117.txt|.|1|.|bbc_business_460.txt|.|2|.|bbc_business_026.txt|.|2|.|bbc_business_211.txt|.|1|.|bbc_business_044.txt|.|2
+ppi|.|bbc_business_163.txt|.|6
+health|.|bbc_business_159.txt|.|3
+manufacturing activity|.|bbc_business_370.txt|.|2
+rising costs|.|bbc_business_168.txt|.|1
+face|.|bbc_business_448.txt|.|1|.|bbc_business_245.txt|.|2
+seven years|.|bbc_business_168.txt|.|2
+brown said|.|bbc_business_241.txt|.|4
+plastic finally|.|bbc_business_362.txt|.|1
+mr chidambaram|.|bbc_business_159.txt|.|7
+tucker|.|bbc_business_151.txt|.|2
+french consumer|.|bbc_business_175.txt|.|2
+rating|.|bbc_business_091.txt|.|4|.|bbc_business_018.txt|.|3
+six zeros|.|bbc_business_257.txt|.|2
+losses|.|bbc_business_124.txt|.|1|.|bbc_business_467.txt|.|3
+chidambaram|.|bbc_business_159.txt|.|8
+domestic|.|bbc_business_249.txt|.|2|.|bbc_business_439.txt|.|3|.|bbc_business_380.txt|.|3|.|bbc_business_044.txt|.|2|.|bbc_business_190.txt|.|2
+mr ghosn|.|bbc_business_216.txt|.|8
+make progress|.|bbc_business_178.txt|.|2
+credit|.|bbc_business_375.txt|.|4|.|bbc_business_091.txt|.|2|.|bbc_business_016.txt|.|3|.|bbc_business_349.txt|.|4|.|bbc_business_362.txt|.|2|.|bbc_business_236.txt|.|2|.|bbc_business_072.txt|.|2
+budget|.|bbc_business_249.txt|.|11|.|bbc_business_159.txt|.|8|.|bbc_business_412.txt|.|5|.|bbc_business_041.txt|.|5|.|bbc_business_204.txt|.|12|.|bbc_business_055.txt|.|6|.|bbc_business_488.txt|.|6|.|bbc_business_474.txt|.|2|.|bbc_business_047.txt|.|2|.|bbc_business_245.txt|.|11|.|bbc_business_328.txt|.|6
+gross|.|bbc_business_044.txt|.|2
+nasdaq stock|.|bbc_business_267.txt|.|2|.|bbc_business_365.txt|.|2
+military operations|.|bbc_business_204.txt|.|2|.|bbc_business_488.txt|.|2
+finally|.|bbc_business_362.txt|.|2
+estate|.|bbc_business_463.txt|.|2
+barrels|.|bbc_business_028.txt|.|3
+real|.|bbc_business_463.txt|.|2
+basis|.|bbc_business_175.txt|.|3
+december meeting|.|bbc_business_383.txt|.|2
+driving|.|bbc_business_071.txt|.|1
+korea|.|bbc_business_142.txt|.|4|.|bbc_business_258.txt|.|4|.|bbc_business_349.txt|.|2|.|bbc_business_356.txt|.|4|.|bbc_business_180.txt|.|3
+spending|.|bbc_business_159.txt|.|8|.|bbc_business_124.txt|.|1|.|bbc_business_240.txt|.|2|.|bbc_business_438.txt|.|2|.|bbc_business_175.txt|.|5|.|bbc_business_356.txt|.|3|.|bbc_business_190.txt|.|4|.|bbc_business_249.txt|.|8|.|bbc_business_214.txt|.|2|.|bbc_business_204.txt|.|4|.|bbc_business_055.txt|.|5|.|bbc_business_290.txt|.|2|.|bbc_business_258.txt|.|3|.|bbc_business_362.txt|.|3|.|bbc_business_163.txt|.|4|.|bbc_business_182.txt|.|2|.|bbc_business_044.txt|.|4|.|bbc_business_072.txt|.|3|.|bbc_business_245.txt|.|9|.|bbc_business_195.txt|.|5|.|bbc_business_165.txt|.|5
+toughest|.|bbc_business_204.txt|.|3
+spending projects|.|bbc_business_195.txt|.|1
+spending rise|.|bbc_business_204.txt|.|1
+income tax|.|bbc_business_055.txt|.|2
+rises|.|bbc_business_240.txt|.|2|.|bbc_business_214.txt|.|2|.|bbc_business_030.txt|.|1
+income|.|bbc_business_479.txt|.|3|.|bbc_business_055.txt|.|2|.|bbc_business_199.txt|.|2|.|bbc_business_484.txt|.|3
+cards|.|bbc_business_362.txt|.|6
+bush|.|bbc_business_249.txt|.|6|.|bbc_business_064.txt|.|4|.|bbc_business_134.txt|.|2|.|bbc_business_294.txt|.|5|.|bbc_business_204.txt|.|5|.|bbc_business_245.txt|.|4|.|bbc_business_328.txt|.|6
+manuel|.|bbc_business_055.txt|.|4
+rule|.|bbc_business_154.txt|.|5|.|bbc_business_195.txt|.|5
+budget include|.|bbc_business_249.txt|.|1
+operations|.|bbc_business_204.txt|.|2|.|bbc_business_488.txt|.|2
+create jobs|.|bbc_business_258.txt|.|2|.|bbc_business_356.txt|.|2
+label|.|bbc_business_135.txt|.|3|.|bbc_business_418.txt|.|1|.|bbc_business_510.txt|.|4
+manchester|.|bbc_business_293.txt|.|2|.|bbc_business_224.txt|.|8|.|bbc_business_229.txt|.|3|.|bbc_business_242.txt|.|7|.|bbc_business_179.txt|.|2|.|bbc_business_209.txt|.|4
+money|.|bbc_business_249.txt|.|3|.|bbc_business_458.txt|.|4|.|bbc_business_234.txt|.|2|.|bbc_business_312.txt|.|2
+demand surges|.|bbc_business_408.txt|.|1
+social spending|.|bbc_business_055.txt|.|2
+pushed|.|bbc_business_383.txt|.|3
+president bush|.|bbc_business_204.txt|.|3
+age|.|bbc_business_382.txt|.|12

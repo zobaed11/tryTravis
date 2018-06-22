@@ -1,0 +1,113 @@
+21
+dipped|.|bbc_business_415.txt|.|1
+surveyors|.|bbc_business_329.txt|.|2
+prices dip|.|bbc_business_415.txt|.|1
+quarter than|.|bbc_business_057.txt|.|2
+chartered surveyors|.|bbc_business_329.txt|.|1
+price rise|.|bbc_business_012.txt|.|2
+disappointment|.|bbc_business_466.txt|.|1
+warns|.|bbc_business_067.txt|.|1
+property market|.|bbc_business_177.txt|.|2|.|bbc_business_323.txt|.|2
+majority|.|bbc_business_218.txt|.|2
+bt offers|.|bbc_business_252.txt|.|1
+portal|.|bbc_business_208.txt|.|2
+manipulation|.|bbc_business_489.txt|.|2
+sentence|.|bbc_business_161.txt|.|2
+crude oil|.|bbc_business_138.txt|.|2|.|bbc_business_152.txt|.|3
+advisory|.|bbc_business_191.txt|.|2
+issue|.|bbc_business_475.txt|.|3
+large|.|bbc_business_509.txt|.|2
+land registry|.|bbc_business_248.txt|.|2
+house prices dipped|.|bbc_business_415.txt|.|1
+alitalia|.|bbc_business_468.txt|.|6
+index|.|bbc_business_370.txt|.|5
+schemes|.|bbc_business_238.txt|.|7
+transactions|.|bbc_business_333.txt|.|3|.|bbc_business_265.txt|.|3
+heavy|.|bbc_business_152.txt|.|2
+lung|.|bbc_business_309.txt|.|2
+intellectual property|.|bbc_business_342.txt|.|2
+interest rates on hold|.|bbc_business_438.txt|.|1
+citigroup|.|bbc_business_489.txt|.|6|.|bbc_business_088.txt|.|5
+jd|.|bbc_business_430.txt|.|1
+drive|.|bbc_business_430.txt|.|1
+kazakh|.|bbc_business_357.txt|.|2
+wells fargo|.|bbc_business_417.txt|.|4
+high fuel|.|bbc_business_466.txt|.|4|.|bbc_business_004.txt|.|2
+ambuja|.|bbc_business_485.txt|.|2
+six months|.|bbc_business_128.txt|.|2
+reporters|.|bbc_business_398.txt|.|2
+widen|.|bbc_business_124.txt|.|1
+jp|.|bbc_business_477.txt|.|6
+payments|.|bbc_business_305.txt|.|2|.|bbc_business_236.txt|.|3
+weekend|.|bbc_business_354.txt|.|2
+inflation|.|bbc_business_163.txt|.|3
+settlement|.|bbc_business_187.txt|.|4
+drop as sales|.|bbc_business_329.txt|.|1
+refinery|.|bbc_business_045.txt|.|5
+cuts prices|.|bbc_business_184.txt|.|1
+investment trusts|.|bbc_business_263.txt|.|1
+uk top|.|bbc_business_397.txt|.|2
+bt|.|bbc_business_252.txt|.|12
+tipping|.|bbc_business_011.txt|.|1
+bosses|.|bbc_business_403.txt|.|2
+oil prices carried|.|bbc_business_138.txt|.|2
+national|.|bbc_business_388.txt|.|2|.|bbc_business_057.txt|.|2|.|bbc_business_441.txt|.|2|.|bbc_business_370.txt|.|2|.|bbc_business_495.txt|.|2
+programme|.|bbc_business_226.txt|.|3
+axa sun|.|bbc_business_281.txt|.|2
+creditors|.|bbc_business_491.txt|.|1|.|bbc_business_375.txt|.|4|.|bbc_business_349.txt|.|9
+roaming|.|bbc_business_113.txt|.|4
+equal access for rivals|.|bbc_business_252.txt|.|1
+costs hit|.|bbc_business_140.txt|.|1
+britannia members|.|bbc_business_237.txt|.|2
+turkmen|.|bbc_business_378.txt|.|4
+chilean|.|bbc_business_360.txt|.|2
+pensions|.|bbc_business_368.txt|.|3
+trusts|.|bbc_business_263.txt|.|1
+ownership|.|bbc_business_461.txt|.|2
+rachel|.|bbc_business_057.txt|.|2
+prices fell|.|bbc_business_170.txt|.|1|.|bbc_business_329.txt|.|2
+lg|.|bbc_business_375.txt|.|6|.|bbc_business_349.txt|.|15
+us crude|.|bbc_business_045.txt|.|2|.|bbc_business_138.txt|.|3|.|bbc_business_270.txt|.|2|.|bbc_business_152.txt|.|3
+facilities|.|bbc_business_014.txt|.|2
+eurodisney|.|bbc_business_483.txt|.|5
+majority stake|.|bbc_business_218.txt|.|2
+ore costs|.|bbc_business_140.txt|.|4
+prices carried|.|bbc_business_138.txt|.|2
+unemployment figure|.|bbc_business_139.txt|.|1
+south african|.|bbc_business_055.txt|.|3
+bribe|.|bbc_business_400.txt|.|5
+credit card firm|.|bbc_business_375.txt|.|2
+political|.|bbc_business_504.txt|.|2|.|bbc_business_487.txt|.|4
+office|.|bbc_business_243.txt|.|4|.|bbc_business_357.txt|.|2|.|bbc_business_446.txt|.|2|.|bbc_business_073.txt|.|2
+high fuel prices|.|bbc_business_004.txt|.|2
+rupiah|.|bbc_business_411.txt|.|3
+prices rose|.|bbc_business_405.txt|.|2|.|bbc_business_170.txt|.|2
+approvals|.|bbc_business_085.txt|.|3|.|bbc_business_153.txt|.|2
+house prices|.|bbc_business_405.txt|.|7|.|bbc_business_170.txt|.|4|.|bbc_business_329.txt|.|2|.|bbc_business_248.txt|.|5|.|bbc_business_153.txt|.|5
+package|.|bbc_business_263.txt|.|2
+cars in the us|.|bbc_business_430.txt|.|1
+equal access|.|bbc_business_252.txt|.|2
+baoshan|.|bbc_business_140.txt|.|3
+crude prices|.|bbc_business_045.txt|.|2|.|bbc_business_381.txt|.|1
+nippon|.|bbc_business_140.txt|.|3
+crude oil prices|.|bbc_business_152.txt|.|2
+suggest that manufacturing|.|bbc_business_086.txt|.|1
+petrol|.|bbc_business_045.txt|.|3
+deputy prime|.|bbc_business_170.txt|.|2
+societies association|.|bbc_business_323.txt|.|2
+producer|.|bbc_business_276.txt|.|2|.|bbc_business_163.txt|.|2
+jd power|.|bbc_business_430.txt|.|1
+american and southwest|.|bbc_business_466.txt|.|2
+jumped|.|bbc_business_045.txt|.|1
+wholesale broadband|.|bbc_business_252.txt|.|2
+ore costs hit|.|bbc_business_140.txt|.|1
+billion|.|bbc_business_067.txt|.|1
+confirms|.|bbc_business_248.txt|.|1
+equal|.|bbc_business_252.txt|.|2
+car parking|.|bbc_business_461.txt|.|2
+access to rivals|.|bbc_business_252.txt|.|1
+fuel prices|.|bbc_business_466.txt|.|3|.|bbc_business_004.txt|.|2|.|bbc_business_012.txt|.|4
+steel prices|.|bbc_business_140.txt|.|2
+mortgage approvals|.|bbc_business_153.txt|.|1
+investment bank|.|bbc_business_184.txt|.|2
+mark|.|bbc_business_184.txt|.|1

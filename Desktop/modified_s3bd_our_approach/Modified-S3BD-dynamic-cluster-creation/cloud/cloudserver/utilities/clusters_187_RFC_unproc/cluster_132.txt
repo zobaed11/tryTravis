@@ -1,0 +1,120 @@
+gsm|.|rfc5993.txt|.|15
+file format|.|rfc1952.txt|.|18|.|rfc5655.txt|.|31|.|rfc3827.txt|.|6|.|rfc2305.txt|.|4|.|rfc3625.txt|.|32|.|rfc3745.txt|.|27|.|rfc3250.txt|.|11|.|rfc4716.txt|.|17|.|rfc4393.txt|.|6|.|rfc3950.txt|.|11
+half|.|rfc5993.txt|.|11
+iso jpeg|.|rfc3745.txt|.|2
+storage format|.|rfc5388.txt|.|76
+dsr es|.|rfc3557.txt|.|15
+ldap data interchange|.|rfc2849.txt|.|17
+hall|.|rfc4155.txt|.|12
+scan line|.|rfc4175.txt|.|30|.|rfc2431.txt|.|21
+rtp payload format for uncompressed|.|rfc4421.txt|.|3
+udp checksum|.|rfc6282.txt|.|18
+format for network|.|rfc20.txt|.|9
+cip index object|.|rfc2655.txt|.|17
+enhancements january|.|rfc4788.txt|.|21
+symmetrical|.|rfc6038.txt|.|20
+andersen experimental|.|rfc3952.txt|.|13
+deflate compressed data|.|rfc1951.txt|.|18
+presence information data format|.|rfc4481.txt|.|7
+grouped|.|rfc3533.txt|.|11
+header name|.|rfc3862.txt|.|29
+cpim headers|.|rfc3862.txt|.|1
+deflate compressed|.|rfc1951.txt|.|18
+term format|.|rfc166.txt|.|18|.|rfc138.txt|.|18
+message format|.|rfc3588.txt|.|16|.|rfc3862.txt|.|50|.|rfc3546.txt|.|7|.|rfc5322.txt|.|61|.|rfc3423.txt|.|27|.|rfc533.txt|.|2|.|rfc3886.txt|.|5
+motion vectors|.|rfc2190.txt|.|17
+fax address|.|rfc2304.txt|.|13|.|rfc3192.txt|.|17
+symmetrical size|.|rfc6038.txt|.|18
+address authority|.|rfc3980.txt|.|8
+variable rate|.|rfc3625.txt|.|6
+jones|.|rfc3174.txt|.|23|.|rfc5516.txt|.|7|.|rfc4612.txt|.|12|.|rfc4103.txt|.|23
+dsr payload|.|rfc3557.txt|.|10
+compressed data|.|rfc1952.txt|.|8|.|rfc5402.txt|.|13|.|rfc1993.txt|.|4|.|rfc1991.txt|.|14|.|rfc1967.txt|.|17|.|rfc1951.txt|.|34|.|rfc3274.txt|.|11|.|rfc1978.txt|.|12|.|rfc1950.txt|.|24
+format described|.|rfc1959.txt|.|2
+format october|.|rfc5361.txt|.|13|.|rfc4581.txt|.|3|.|rfc4194.txt|.|12
+reporting format|.|rfc6201.txt|.|14|.|rfc2889.txt|.|10|.|rfc3511.txt|.|13
+rcdo|.|rfc6185.txt|.|39
+atkins|.|rfc3833.txt|.|18|.|rfc3862.txt|.|32
+robert informational|.|rfc2351.txt|.|23
+duan|.|rfc5993.txt|.|22
+huffman|.|rfc1951.txt|.|40
+payload format for uncompressed video|.|rfc4175.txt|.|18
+format and mime type|.|rfc4180.txt|.|8
+jpeg|.|rfc2035.txt|.|56|.|rfc3745.txt|.|106|.|rfc5371.txt|.|131|.|rfc2435.txt|.|95|.|rfc2880.txt|.|20
+format defined|.|rfc2073.txt|.|6
+close|.|rfc2351.txt|.|30
+format specification|.|rfc1952.txt|.|13|.|rfc1951.txt|.|17|.|rfc1950.txt|.|14
+sets|.|rfc2838.txt|.|2|.|rfc3984.txt|.|45|.|rfc6190.txt|.|69|.|rfc2533.txt|.|63|.|rfc373.txt|.|15|.|rfc3441.txt|.|3|.|rfc4357.txt|.|18|.|rfc2978.txt|.|8|.|rfc2738.txt|.|4|.|rfc6184.txt|.|193|.|rfc4911.txt|.|35|.|rfc6236.txt|.|4
+ldif file|.|rfc2849.txt|.|17
+atrac family|.|rfc5584.txt|.|37
+niccolini|.|rfc5388.txt|.|77
+tracking requests|.|rfc3886.txt|.|6
+rdata|.|rfc3845.txt|.|21
+trailing white space|.|rfc3676.txt|.|8
+audio data|.|rfc5584.txt|.|17|.|rfc3190.txt|.|14
+confirm|.|rfc2351.txt|.|15
+uaddr|.|rfc5665.txt|.|40
+ohmuro standards|.|rfc5686.txt|.|21
+video streams|.|rfc2190.txt|.|20
+packet format|.|rfc5188.txt|.|16|.|rfc5444.txt|.|65|.|rfc4788.txt|.|13|.|rfc2189.txt|.|23|.|rfc2351.txt|.|14|.|rfc6038.txt|.|34
+openpgp|.|rfc4398.txt|.|30|.|rfc5081.txt|.|38|.|rfc5581.txt|.|16|.|rfc2440.txt|.|126|.|rfc6091.txt|.|38|.|rfc4880.txt|.|204|.|rfc3156.txt|.|47
+discontinuous|.|rfc5459.txt|.|5
+ptla and pnla formats|.|rfc2921.txt|.|10
+gailly|.|rfc1950.txt|.|16
+zlib compressed|.|rfc1950.txt|.|11
+data format|.|rfc4827.txt|.|9|.|rfc4482.txt|.|8|.|rfc3067.txt|.|2|.|rfc3863.txt|.|39|.|rfc1951.txt|.|23|.|rfc1950.txt|.|25
+strombergson|.|rfc4194.txt|.|16
+format for bundled mpeg|.|rfc2343.txt|.|8
+atrac|.|rfc5584.txt|.|138
+gzip file format|.|rfc1952.txt|.|13
+brooktrout|.|rfc3250.txt|.|2
+sampling modes|.|rfc4421.txt|.|10
+xie|.|rfc3557.txt|.|18|.|rfc4788.txt|.|36|.|rfc4060.txt|.|23|.|rfc5353.txt|.|44
+ilbc|.|rfc3952.txt|.|45
+qcp|.|rfc3625.txt|.|34
+making|.|rfc2346.txt|.|7|.|rfc3929.txt|.|16
+format for uncompressed|.|rfc4175.txt|.|18
+format|.|rfc2346.txt|.|21|.|rfc5583.txt|.|31|.|rfc3389.txt|.|18|.|rfc4184.txt|.|23|.|rfc2044.txt|.|7|.|rfc2303.txt|.|3|.|rfc6184.txt|.|158|.|rfc4425.txt|.|69|.|rfc3557.txt|.|36|.|rfc385.txt|.|8|.|rfc138.txt|.|23|.|rfc4867.txt|.|143|.|rfc5875.txt|.|22|.|rfc5.txt|.|6|.|rfc2921.txt|.|14|.|rfc4194.txt|.|36|.|rfc2646.txt|.|23|.|rfc3984.txt|.|139|.|rfc2658.txt|.|17|.|rfc2250.txt|.|23|.|rfc2849.txt|.|33|.|rfc4628.txt|.|8|.|rfc2822.txt|.|64|.|rfc4042.txt|.|6|.|rfc5695.txt|.|29|.|rfc6024.txt|.|8|.|rfc3143.txt|.|15|.|rfc5188.txt|.|63|.|rfc3192.txt|.|14|.|rfc5109.txt|.|74|.|rfc3016.txt|.|38|.|rfc4613.txt|.|6|.|rfc3745.txt|.|32|.|rfc2374.txt|.|41|.|rfc3267.txt|.|111|.|rfc1979.txt|.|13|.|rfc4581.txt|.|10|.|rfc4060.txt|.|23|.|rfc2038.txt|.|15|.|rfc6038.txt|.|37|.|rfc1952.txt|.|40|.|rfc4481.txt|.|10|.|rfc5854.txt|.|52|.|rfc5536.txt|.|62|.|rfc4588.txt|.|55|.|rfc3625.txt|.|49|.|rfc6295.txt|.|303|.|rfc4855.txt|.|28|.|rfc4180.txt|.|22|.|rfc3511.txt|.|23|.|rfc5686.txt|.|43|.|rfc249.txt|.|2|.|rfc6015.txt|.|60|.|rfc3862.txt|.|65|.|rfc2862.txt|.|15|.|rfc3587.txt|.|14|.|rfc6137.txt|.|50|.|rfc2190.txt|.|27|.|rfc4880.txt|.|158|.|rfc5404.txt|.|63|.|rfc3676.txt|.|41|.|rfc2032.txt|.|15|.|rfc4155.txt|.|26|.|rfc4421.txt|.|9|.|rfc3845.txt|.|20|.|rfc4765.txt|.|27|.|rfc4103.txt|.|38|.|rfc4827.txt|.|12|.|rfc3119.txt|.|41|.|rfc4539.txt|.|11|.|rfc6190.txt|.|135|.|rfc3072.txt|.|57|.|rfc3497.txt|.|30|.|rfc2305.txt|.|13|.|rfc5577.txt|.|19|.|rfc1959.txt|.|10|.|rfc4733.txt|.|25|.|rfc20.txt|.|20|.|rfc4695.txt|.|299|.|rfc533.txt|.|2|.|rfc4716.txt|.|23|.|rfc1950.txt|.|36|.|rfc3264.txt|.|32|.|rfc2431.txt|.|21|.|rfc5993.txt|.|56|.|rfc3546.txt|.|16|.|rfc5361.txt|.|20|.|rfc3533.txt|.|26|.|rfc166.txt|.|21|.|rfc4298.txt|.|33|.|rfc5391.txt|.|32|.|rfc5655.txt|.|87|.|rfc6205.txt|.|9|.|rfc2736.txt|.|14|.|rfc2833.txt|.|27|.|rfc5574.txt|.|12|.|rfc5388.txt|.|83|.|rfc6282.txt|.|34|.|rfc4396.txt|.|174|.|rfc2035.txt|.|30|.|rfc5584.txt|.|59|.|rfc4629.txt|.|46|.|rfc5371.txt|.|58|.|rfc3302.txt|.|8|.|rfc2655.txt|.|24|.|rfc6185.txt|.|23|.|rfc4661.txt|.|29|.|rfc3827.txt|.|7|.|rfc3047.txt|.|19|.|rfc4708.txt|.|11|.|rfc3640.txt|.|77|.|rfc5459.txt|.|13|.|rfc4424.txt|.|12|.|rfc3191.txt|.|16|.|rfc5874.txt|.|43|.|rfc6262.txt|.|42|.|rfc5139.txt|.|14|.|rfc5444.txt|.|80|.|rfc5480.txt|.|20|.|rfc5665.txt|.|42|.|rfc5322.txt|.|70|.|rfc2343.txt|.|16|.|rfc2073.txt|.|33|.|rfc3886.txt|.|9|.|rfc4685.txt|.|6|.|rfc3588.txt|.|58|.|rfc4749.txt|.|32|.|rfc3863.txt|.|59|.|rfc4147.txt|.|20|.|rfc5219.txt|.|24|.|rfc2067.txt|.|18|.|rfc2889.txt|.|12|.|rfc2279.txt|.|7|.|rfc3952.txt|.|28|.|rfc425.txt|.|2|.|rfc4482.txt|.|14|.|rfc3067.txt|.|20|.|rfc6201.txt|.|14|.|rfc4587.txt|.|27|.|rfc2189.txt|.|29|.|rfc3189.txt|.|48|.|rfc3190.txt|.|36|.|rfc4040.txt|.|10|.|rfc4393.txt|.|15|.|rfc1951.txt|.|46|.|rfc4348.txt|.|101|.|rfc5962.txt|.|8|.|rfc6046.txt|.|9|.|rfc2351.txt|.|38|.|rfc3009.txt|.|17|.|rfc3950.txt|.|12|.|rfc4175.txt|.|54|.|rfc2304.txt|.|11|.|rfc5215.txt|.|44|.|rfc3980.txt|.|37|.|rfc4788.txt|.|69|.|rfc4480.txt|.|15|.|rfc4598.txt|.|54|.|rfc4352.txt|.|91|.|rfc3423.txt|.|34|.|rfc3250.txt|.|13
+interleaved|.|rfc6015.txt|.|57|.|rfc2662.txt|.|30
+format video|.|rfc4175.txt|.|12
+format parameter|.|rfc3640.txt|.|16|.|rfc2646.txt|.|16
+uncompressed video|.|rfc4175.txt|.|27|.|rfc4421.txt|.|8
+related mime|.|rfc4040.txt|.|2
+hiwasaki|.|rfc5686.txt|.|25
+unit|.|rfc3984.txt|.|310|.|rfc6190.txt|.|597|.|rfc3640.txt|.|59|.|rfc311.txt|.|4|.|rfc6185.txt|.|33|.|rfc4934.txt|.|11|.|rfc553.txt|.|81|.|rfc335.txt|.|2|.|rfc6184.txt|.|330|.|rfc3805.txt|.|29
+database format|.|rfc4155.txt|.|7
+futemma|.|rfc5371.txt|.|36
+peter deutsch|.|rfc1952.txt|.|3
+xerox parc|.|rfc2035.txt|.|4
+sdxf functions|.|rfc3072.txt|.|15
+characters are encoded|.|rfc2044.txt|.|3
+ldap url format|.|rfc1959.txt|.|5
+format location object|.|rfc5962.txt|.|4|.|rfc5139.txt|.|2
+type bit|.|rfc3845.txt|.|10
+content with information|.|rfc2822.txt|.|1|.|rfc5322.txt|.|1
+fax address format|.|rfc2304.txt|.|9|.|rfc3192.txt|.|11
+mime format|.|rfc3640.txt|.|34
+data exchange|.|rfc3072.txt|.|29
+making postscript and pdf international|.|rfc2346.txt|.|6
+naming format|.|rfc3980.txt|.|19
+qcp file format|.|rfc3625.txt|.|23
+presence information data|.|rfc5962.txt|.|6|.|rfc4481.txt|.|7|.|rfc4482.txt|.|9|.|rfc4480.txt|.|9|.|rfc3863.txt|.|35
+word sizes|.|rfc4194.txt|.|5
+gzip file|.|rfc1952.txt|.|14
+timed text|.|rfc4396.txt|.|144
+university of michigan|.|rfc1959.txt|.|7|.|rfc1960.txt|.|2
+bit linear|.|rfc3190.txt|.|25
+nsec rdata|.|rfc3845.txt|.|12
+address registries|.|rfc2928.txt|.|7|.|rfc4147.txt|.|4
+garudadri informational|.|rfc3625.txt|.|15
+compact bundled|.|rfc4788.txt|.|18
+half rate|.|rfc5993.txt|.|11
+format march|.|rfc3072.txt|.|25|.|rfc5480.txt|.|19
+wildgrube|.|rfc3072.txt|.|28
+wideband|.|rfc4298.txt|.|7|.|rfc4424.txt|.|9
+encrypted session|.|rfc4880.txt|.|29
+url format|.|rfc1959.txt|.|6
+internet message format|.|rfc2822.txt|.|53|.|rfc5322.txt|.|61
+front|.|rfc395.txt|.|3|.|rfc588.txt|.|1|.|rfc4060.txt|.|2
+image file format|.|rfc3745.txt|.|5|.|rfc3302.txt|.|5
+evrc codecs|.|rfc4788.txt|.|7

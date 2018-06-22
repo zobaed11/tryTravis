@@ -1,0 +1,120 @@
+pdp context|.|rfc3314.txt|.|70
+extensions august|.|rfc2676.txt|.|49
+common scmp element|.|rfc2383.txt|.|15
+evaluation of candidate|.|rfc4565.txt|.|31|.|rfc3955.txt|.|23
+boucadair|.|rfc5160.txt|.|23
+qspec object|.|rfc5975.txt|.|42
+itracker|.|rfc5632.txt|.|38
+qos|.|rfc2990.txt|.|107|.|rfc3583.txt|.|84|.|rfc3052.txt|.|9|.|rfc4710.txt|.|27|.|rfc4883.txt|.|87|.|rfc2815.txt|.|9|.|rfc5416.txt|.|88|.|rfc2549.txt|.|5|.|rfc5866.txt|.|462|.|rfc5778.txt|.|5|.|rfc2205.txt|.|46|.|rfc2380.txt|.|55|.|rfc3726.txt|.|91|.|rfc5160.txt|.|117|.|rfc2216.txt|.|16|.|rfc4547.txt|.|29|.|rfc5431.txt|.|6|.|rfc2331.txt|.|39|.|rfc5777.txt|.|124|.|rfc5513.txt|.|2|.|rfc5979.txt|.|130|.|rfc3317.txt|.|104|.|rfc3809.txt|.|25|.|rfc3869.txt|.|26|.|rfc2600.txt|.|2|.|rfc2215.txt|.|34|.|rfc2386.txt|.|81|.|rfc2170.txt|.|20|.|rfc5432.txt|.|52|.|rfc3670.txt|.|219|.|rfc4031.txt|.|64|.|rfc4375.txt|.|6|.|rfc6294.txt|.|32|.|rfc2210.txt|.|62|.|rfc5978.txt|.|67|.|rfc5624.txt|.|33|.|rfc2676.txt|.|251|.|rfc4032.txt|.|10|.|rfc4323.txt|.|166|.|rfc5977.txt|.|174|.|rfc3181.txt|.|21|.|rfc1946.txt|.|63|.|rfc3387.txt|.|62|.|rfc2998.txt|.|30|.|rfc2381.txt|.|86|.|rfc5976.txt|.|63|.|rfc2379.txt|.|15|.|rfc2297.txt|.|407|.|rfc2751.txt|.|21|.|rfc4924.txt|.|14|.|rfc5980.txt|.|54|.|rfc3312.txt|.|5|.|rfc2383.txt|.|23|.|rfc5974.txt|.|460|.|rfc4081.txt|.|23|.|rfc4665.txt|.|34|.|rfc2996.txt|.|10|.|rfc3374.txt|.|14|.|rfc3294.txt|.|13|.|rfc4094.txt|.|96|.|rfc3644.txt|.|175|.|rfc4542.txt|.|20|.|rfc5975.txt|.|422|.|rfc2382.txt|.|142|.|rfc3313.txt|.|57|.|rfc4923.txt|.|47
+desired status|.|rfc4032.txt|.|8
+commands recognized|.|rfc339.txt|.|3
+qos parameter|.|rfc4323.txt|.|59
+agreements march|.|rfc5160.txt|.|18
+circuits|.|rfc1946.txt|.|57|.|rfc2092.txt|.|5
+letters|.|rfc233.txt|.|4|.|rfc386.txt|.|6|.|rfc5513.txt|.|10
+writers june|.|rfc2360.txt|.|19
+init|.|rfc2960.txt|.|266|.|rfc4960.txt|.|331|.|rfc4460.txt|.|219
+borden standards track|.|rfc2381.txt|.|43
+reservation signaling|.|rfc1946.txt|.|25
+satop pw|.|rfc4553.txt|.|26
+initiator qspec|.|rfc5975.txt|.|53
+profile|.|rfc4744.txt|.|16|.|rfc2927.txt|.|26|.|rfc4227.txt|.|46|.|rfc2426.txt|.|82|.|rfc5506.txt|.|26|.|rfc4995.txt|.|109|.|rfc5019.txt|.|49|.|rfc5124.txt|.|45|.|rfc5442.txt|.|24|.|rfc4740.txt|.|42|.|rfc3961.txt|.|34|.|rfc3054.txt|.|30|.|rfc4239.txt|.|5|.|rfc5002.txt|.|6|.|rfc4164.txt|.|38|.|rfc3722.txt|.|23|.|rfc3620.txt|.|63|.|rfc2306.txt|.|35|.|rfc5921.txt|.|81|.|rfc5994.txt|.|9|.|rfc3739.txt|.|67|.|rfc5222.txt|.|58|.|rfc3539.txt|.|43|.|rfc3080.txt|.|135|.|rfc6080.txt|.|451|.|rfc5759.txt|.|43|.|rfc4550.txt|.|28|.|rfc5615.txt|.|21|.|rfc5550.txt|.|55|.|rfc5755.txt|.|95|.|rfc3039.txt|.|59|.|rfc5777.txt|.|16|.|rfc3195.txt|.|72|.|rfc5950.txt|.|5|.|rfc3288.txt|.|42|.|rfc5834.txt|.|45|.|rfc3983.txt|.|24|.|rfc4945.txt|.|82|.|rfc3644.txt|.|63|.|rfc3804.txt|.|17|.|rfc4767.txt|.|110|.|rfc3843.txt|.|47|.|rfc3529.txt|.|44|.|rfc3551.txt|.|90
+iab and iesg|.|rfc2282.txt|.|18|.|rfc1984.txt|.|4|.|rfc2727.txt|.|19|.|rfc3777.txt|.|41
+chaskar|.|rfc3583.txt|.|13
+qos class|.|rfc5976.txt|.|16|.|rfc2297.txt|.|218
+qne receives|.|rfc5974.txt|.|14
+native atm support|.|rfc1946.txt|.|21
+broadcasting|.|rfc5174.txt|.|11|.|rfc5328.txt|.|14
+network element|.|rfc5866.txt|.|36|.|rfc2215.txt|.|35|.|rfc2216.txt|.|56|.|rfc2212.txt|.|34|.|rfc2211.txt|.|37
+qspec parameter|.|rfc5976.txt|.|8
+message deficit|.|rfc4883.txt|.|9
+served|.|rfc5502.txt|.|56
+intserv september|.|rfc2210.txt|.|32
+messages|.|rfc4558.txt|.|17|.|rfc5426.txt|.|34|.|rfc3973.txt|.|104|.|rfc4443.txt|.|59|.|rfc5096.txt|.|19|.|rfc2779.txt|.|27|.|rfc4409.txt|.|27|.|rfc4883.txt|.|47|.|rfc1947.txt|.|11|.|rfc5425.txt|.|23|.|rfc4134.txt|.|141|.|rfc4611.txt|.|10|.|rfc528.txt|.|21|.|rfc2274.txt|.|56|.|rfc6142.txt|.|42|.|rfc1971.txt|.|15|.|rfc2521.txt|.|21|.|rfc2166.txt|.|33|.|rfc297.txt|.|6|.|rfc1985.txt|.|19|.|rfc635.txt|.|48|.|rfc5381.txt|.|20|.|rfc5063.txt|.|106|.|rfc2797.txt|.|92|.|rfc2264.txt|.|56|.|rfc5081.txt|.|3|.|rfc5427.txt|.|32|.|rfc5825.txt|.|23|.|rfc5508.txt|.|89|.|rfc5162.txt|.|72|.|rfc6148.txt|.|7|.|rfc6012.txt|.|23|.|rfc4090.txt|.|57|.|rfc5049.txt|.|39|.|rfc23.txt|.|3|.|rfc2201.txt|.|14|.|rfc3561.txt|.|51|.|rfc5677.txt|.|38|.|rfc2855.txt|.|3|.|rfc5104.txt|.|197|.|rfc2961.txt|.|147|.|rfc4511.txt|.|24|.|rfc3684.txt|.|71|.|rfc22.txt|.|5|.|rfc142.txt|.|5|.|rfc3226.txt|.|9|.|rfc117.txt|.|13|.|rfc3164.txt|.|169|.|rfc151.txt|.|2|.|rfc5676.txt|.|35|.|rfc6261.txt|.|44|.|rfc186.txt|.|15|.|rfc2765.txt|.|31|.|rfc5182.txt|.|19|.|rfc550.txt|.|12|.|rfc4763.txt|.|36|.|rfc3916.txt|.|19|.|rfc4080.txt|.|95|.|rfc21.txt|.|1|.|rfc4890.txt|.|289|.|rfc4585.txt|.|121|.|rfc3771.txt|.|22|.|rfc4046.txt|.|77|.|rfc5424.txt|.|93|.|rfc2463.txt|.|42|.|rfc533.txt|.|7|.|rfc5848.txt|.|237|.|rfc3195.txt|.|52|.|rfc6145.txt|.|37|.|rfc3479.txt|.|119|.|rfc5419.txt|.|27|.|rfc632.txt|.|38|.|rfc5294.txt|.|41|.|rfc2745.txt|.|53|.|rfc534.txt|.|13|.|rfc2776.txt|.|45|.|rfc5724.txt|.|64|.|rfc6016.txt|.|72|.|rfc3817.txt|.|45|.|rfc5927.txt|.|94|.|rfc4873.txt|.|26|.|rfc4207.txt|.|22|.|rfc203.txt|.|19|.|rfc3259.txt|.|100|.|rfc5153.txt|.|31|.|rfc2237.txt|.|3|.|rfc3118.txt|.|52|.|rfc5711.txt|.|13
+nslp|.|rfc5980.txt|.|86|.|rfc5974.txt|.|380|.|rfc5973.txt|.|564|.|rfc4081.txt|.|17|.|rfc5981.txt|.|141|.|rfc5976.txt|.|11|.|rfc5975.txt|.|129|.|rfc5977.txt|.|36
+message bus|.|rfc3259.txt|.|43
+qos path|.|rfc2676.txt|.|13
+mqc|.|rfc5160.txt|.|82
+intserv|.|rfc2210.txt|.|32
+qos authorization|.|rfc5866.txt|.|31
+zone transfer|.|rfc5936.txt|.|43|.|rfc1995.txt|.|16
+callout protocol|.|rfc3836.txt|.|54
+reserve message|.|rfc5975.txt|.|43
+qos resources|.|rfc5866.txt|.|25
+skip|.|rfc2356.txt|.|103
+qos model|.|rfc5974.txt|.|54
+user and extension|.|rfc5978.txt|.|29
+local rmd qspec|.|rfc5977.txt|.|3
+steps for qos|.|rfc2990.txt|.|25
+desired|.|rfc4596.txt|.|57|.|rfc4032.txt|.|8|.|rfc5975.txt|.|81|.|rfc3832.txt|.|9
+guide october|.|rfc5978.txt|.|29
+jackowski informational|.|rfc1946.txt|.|21
+push mode|.|rfc5866.txt|.|31
+sip proxy|.|rfc3313.txt|.|15
+virtual circuits|.|rfc1946.txt|.|41
+qos device datapath|.|rfc3670.txt|.|97
+qos parameter set|.|rfc4323.txt|.|50
+performance objectives|.|rfc5976.txt|.|5
+docsis qos|.|rfc4323.txt|.|110
+maximum packet|.|rfc5624.txt|.|1
+internet signaling|.|rfc6084.txt|.|3|.|rfc5978.txt|.|11
+subclass|.|rfc3670.txt|.|38
+restored|.|rfc5976.txt|.|21
+routing mechanisms|.|rfc2676.txt|.|51
+characterization|.|rfc6201.txt|.|28|.|rfc2215.txt|.|29
+service response|.|rfc2990.txt|.|24
+resource management|.|rfc3312.txt|.|30|.|rfc5974.txt|.|15|.|rfc3214.txt|.|3|.|rfc3169.txt|.|6
+defines the pib|.|rfc3317.txt|.|12
+qosm october|.|rfc5976.txt|.|18
+extensions for media|.|rfc3313.txt|.|16
+avp code|.|rfc4004.txt|.|42|.|rfc5191.txt|.|24|.|rfc5777.txt|.|71
+hierarchical|.|rfc3670.txt|.|21
+re establish|.|rfc3374.txt|.|1
+signaling path|.|rfc5974.txt|.|11
+capable routers|.|rfc4883.txt|.|34
+info|.|rfc6044.txt|.|2|.|rfc4971.txt|.|8|.|rfc5731.txt|.|19|.|rfc5502.txt|.|2|.|rfc5580.txt|.|6|.|rfc6234.txt|.|62|.|rfc2976.txt|.|78|.|rfc4474.txt|.|3|.|rfc3455.txt|.|2|.|rfc6086.txt|.|471|.|rfc5972.txt|.|12|.|rfc4244.txt|.|3|.|rfc3603.txt|.|1|.|rfc4458.txt|.|4|.|rfc3670.txt|.|96
+prc|.|rfc3317.txt|.|77
+qos profile|.|rfc5777.txt|.|9
+borden|.|rfc2381.txt|.|47
+candidate services|.|rfc3374.txt|.|1
+agreements|.|rfc2735.txt|.|1|.|rfc2562.txt|.|3|.|rfc5160.txt|.|60|.|rfc5654.txt|.|1|.|rfc2758.txt|.|4|.|rfc2702.txt|.|2|.|rfc2475.txt|.|1|.|rfc4687.txt|.|5|.|rfc5472.txt|.|1|.|rfc2859.txt|.|2
+hierarchical scheduler|.|rfc3670.txt|.|8
+steps|.|rfc2990.txt|.|26|.|rfc4690.txt|.|41
+route changes|.|rfc5980.txt|.|7
+qos device|.|rfc3670.txt|.|101
+new precondition|.|rfc4032.txt|.|15
+mqc plane|.|rfc5160.txt|.|12
+funding for internet|.|rfc3869.txt|.|12
+characterization parameters|.|rfc2215.txt|.|23
+authorization request|.|rfc5866.txt|.|9
+qos nslp operational|.|rfc5977.txt|.|4
+general characterization parameters|.|rfc2215.txt|.|16
+qspec|.|rfc5976.txt|.|34|.|rfc5975.txt|.|478|.|rfc5977.txt|.|84
+requesting|.|rfc2390.txt|.|10|.|rfc129.txt|.|1|.|rfc5866.txt|.|37|.|rfc152.txt|.|1|.|rfc2170.txt|.|4|.|rfc4529.txt|.|9|.|rfc3633.txt|.|151|.|rfc6276.txt|.|11
+rmd qosm|.|rfc5977.txt|.|10
+latency|.|rfc3918.txt|.|44|.|rfc2624.txt|.|10|.|rfc2121.txt|.|7|.|rfc5568.txt|.|19|.|rfc4881.txt|.|12|.|rfc5975.txt|.|44
+service specific|.|rfc2215.txt|.|4
+qosm|.|rfc5976.txt|.|46|.|rfc5975.txt|.|67|.|rfc5977.txt|.|28
+recv|.|rfc5432.txt|.|2
+reserve|.|rfc5189.txt|.|51|.|rfc5975.txt|.|63
+state update|.|rfc5980.txt|.|38
+address mask|.|rfc5777.txt|.|2
+atm support|.|rfc1946.txt|.|21
+ospf extensions august|.|rfc2676.txt|.|49
+bound|.|rfc5974.txt|.|37|.|rfc4057.txt|.|20|.|rfc3248.txt|.|25
+evaluation of arpanet|.|rfc369.txt|.|11
+qne|.|rfc5974.txt|.|312
+qos architecture|.|rfc2990.txt|.|40
+frame discard|.|rfc2331.txt|.|21
+priority restored|.|rfc5976.txt|.|20
+boucadair informational|.|rfc5160.txt|.|19
+atm august|.|rfc2381.txt|.|42|.|rfc2382.txt|.|29
+vpi|.|rfc2297.txt|.|189|.|rfc2515.txt|.|40
+considerations|.|rfc4451.txt|.|21|.|rfc3575.txt|.|14|.|rfc6087.txt|.|30|.|rfc3426.txt|.|32|.|rfc2541.txt|.|14|.|rfc2329.txt|.|3|.|rfc4329.txt|.|33|.|rfc4541.txt|.|21|.|rfc3840.txt|.|52|.|rfc6151.txt|.|14|.|rfc2663.txt|.|35|.|rfc3523.txt|.|6|.|rfc3964.txt|.|49|.|rfc2434.txt|.|16|.|rfc6195.txt|.|41|.|rfc2929.txt|.|30|.|rfc4628.txt|.|4|.|rfc3238.txt|.|32|.|rfc5513.txt|.|4|.|rfc5457.txt|.|42|.|rfc4589.txt|.|9|.|rfc3347.txt|.|31|.|rfc5665.txt|.|14|.|rfc6123.txt|.|38|.|rfc4613.txt|.|8|.|rfc5983.txt|.|11|.|rfc5395.txt|.|41|.|rfc5334.txt|.|19|.|rfc3555.txt|.|116|.|rfc2577.txt|.|9|.|rfc5278.txt|.|20|.|rfc5774.txt|.|91|.|rfc5375.txt|.|71|.|rfc4464.txt|.|6|.|rfc4472.txt|.|59|.|rfc5383.txt|.|19|.|rfc3383.txt|.|30|.|rfc3385.txt|.|25|.|rfc5350.txt|.|17|.|rfc4041.txt|.|14|.|rfc4403.txt|.|7|.|rfc2624.txt|.|30|.|rfc6066.txt|.|27|.|rfc4934.txt|.|12|.|rfc5226.txt|.|51|.|rfc3562.txt|.|8|.|rfc4181.txt|.|29|.|rfc3424.txt|.|12|.|rfc5902.txt|.|18|.|rfc5122.txt|.|16|.|rfc4937.txt|.|13|.|rfc4569.txt|.|7|.|rfc5342.txt|.|18|.|rfc3818.txt|.|7|.|rfc4775.txt|.|14|.|rfc3692.txt|.|7|.|rfc3520.txt|.|13|.|rfc3228.txt|.|9|.|rfc5123.txt|.|18|.|rfc2082.txt|.|2|.|rfc4940.txt|.|20|.|rfc4856.txt|.|67|.|rfc3914.txt|.|42|.|rfc5356.txt|.|42
+qos desired|.|rfc5975.txt|.|67
+icmp error|.|rfc5508.txt|.|134|.|rfc5461.txt|.|15|.|rfc5927.txt|.|73
+ip qos|.|rfc3583.txt|.|13
+ipfix mediation|.|rfc6183.txt|.|60
+articles|.|rfc2134.txt|.|10
+qos routing|.|rfc2676.txt|.|126
+language range|.|rfc3866.txt|.|29|.|rfc4647.txt|.|67

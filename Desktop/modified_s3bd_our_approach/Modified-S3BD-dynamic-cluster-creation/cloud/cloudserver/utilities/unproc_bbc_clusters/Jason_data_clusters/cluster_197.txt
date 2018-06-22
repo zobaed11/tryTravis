@@ -1,0 +1,38 @@
+197
+clips beer|.|WET2481.txt|.|22
+torchiere lamps|.|WET2215.txt|.|8
+beer finder|.|WET6220.txt|.|20
+carolina guest house|.|WET5182.txt|.|30
+cure|.|WET1185.txt|.|15|.|WET1069.txt|.|20
+torchiere|.|WET2215.txt|.|8
+guest house|.|WET5182.txt|.|30
+fixtures|.|WET2215.txt|.|19|.|WET1924.txt|.|7
+sours|.|WET6220.txt|.|20
+semi flush mount|.|WET2215.txt|.|8
+flush|.|WET2215.txt|.|35
+lost|.|WET2481.txt|.|22|.|WET5026.txt|.|8|.|WET6220.txt|.|20
+light semi flush|.|WET2215.txt|.|1
+window blinds|.|WET5081.txt|.|14
+action|.|WET5624.txt|.|39|.|WET4770.txt|.|8|.|WET3080.txt|.|66|.|WET1029.txt|.|19|.|WET2324.txt|.|250
+semi|.|WET2215.txt|.|11
+free ebook|.|WET4178.txt|.|27
+filtering|.|WET5081.txt|.|30
+lyrics|.|WET1742.txt|.|49|.|WET4929.txt|.|16|.|WET6026.txt|.|163|.|WET2970.txt|.|51|.|WET2925.txt|.|188|.|WET2288.txt|.|105|.|WET1921.txt|.|17
+light fixtures|.|WET2215.txt|.|10
+woods grand|.|WET6220.txt|.|20
+semi flush|.|WET2215.txt|.|10
+tiki|.|WET3104.txt|.|118|.|WET3105.txt|.|372
+cellular shades|.|WET1330.txt|.|39|.|WET5081.txt|.|20
+war|.|WET582.txt|.|73|.|WET6243.txt|.|11|.|WET3933.txt|.|35|.|WET5750.txt|.|20|.|WET2324.txt|.|302|.|WET4327.txt|.|119
+window and room|.|WET5081.txt|.|10
+shop front|.|WET5890.txt|.|12
+room|.|WET1455.txt|.|27|.|WET5081.txt|.|75|.|WET2790.txt|.|20|.|WET5182.txt|.|62|.|WET5074.txt|.|132|.|WET1185.txt|.|28|.|WET2481.txt|.|33|.|WET1769.txt|.|37|.|WET2032.txt|.|14|.|WET1588.txt|.|32|.|WET2324.txt|.|202|.|WET4235.txt|.|189|.|WET2894.txt|.|28|.|WET5775.txt|.|44|.|WET2215.txt|.|61|.|WET3652.txt|.|19|.|WET4957.txt|.|93|.|WET2033.txt|.|41|.|WET1208.txt|.|22|.|WET2521.txt|.|11|.|WET5203.txt|.|33|.|WET5771.txt|.|25|.|WET488.txt|.|53|.|WET6004.txt|.|41|.|WET3105.txt|.|52|.|WET4962.txt|.|18|.|WET3711.txt|.|79|.|WET6220.txt|.|30
+amby|.|WET3105.txt|.|20
+mountain adventure|.|WET2481.txt|.|22|.|WET6220.txt|.|20
+lips|.|WET6220.txt|.|20
+carolina guest|.|WET5182.txt|.|34
+null|.|WET4752.txt|.|54|.|WET4235.txt|.|14
+moreview|.|WET2894.txt|.|22
+arc lamps|.|WET2215.txt|.|11
+roller|.|WET463.txt|.|1|.|WET5081.txt|.|35
+meeting room|.|WET4962.txt|.|18|.|WET1208.txt|.|22

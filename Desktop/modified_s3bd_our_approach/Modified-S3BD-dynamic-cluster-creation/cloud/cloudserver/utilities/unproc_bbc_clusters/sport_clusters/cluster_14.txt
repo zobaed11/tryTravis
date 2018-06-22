@@ -1,0 +1,91 @@
+14
+joins|.|bbc_sport_186.txt|.|2|.|bbc_sport_024.txt|.|2|.|bbc_sport_338.txt|.|1
+gregan|.|bbc_sport_331.txt|.|2
+stringer|.|bbc_sport_302.txt|.|3|.|bbc_sport_314.txt|.|3
+domination|.|bbc_sport_290.txt|.|1
+joint|.|bbc_sport_244.txt|.|2
+uncapped|.|bbc_sport_379.txt|.|2
+republic|.|bbc_sport_132.txt|.|3|.|bbc_sport_134.txt|.|12|.|bbc_sport_133.txt|.|2|.|bbc_sport_217.txt|.|3
+dropped goal|.|bbc_sport_380.txt|.|2
+phillips|.|bbc_sport_012.txt|.|2|.|bbc_sport_224.txt|.|2|.|bbc_sport_020.txt|.|2
+dropped|.|bbc_sport_017.txt|.|2|.|bbc_sport_380.txt|.|3
+marathons|.|bbc_sport_013.txt|.|1
+official|.|bbc_sport_487.txt|.|1|.|bbc_sport_002.txt|.|1
+hamstring injury|.|bbc_sport_418.txt|.|2|.|bbc_sport_055.txt|.|2
+claiming|.|bbc_sport_492.txt|.|1
+burger|.|bbc_sport_331.txt|.|2
+uk|.|bbc_sport_015.txt|.|4|.|bbc_sport_043.txt|.|5
+raise|.|bbc_sport_331.txt|.|2
+lansdowne road|.|bbc_sport_378.txt|.|2|.|bbc_sport_405.txt|.|3
+draws|.|bbc_sport_133.txt|.|1
+join|.|bbc_sport_130.txt|.|1|.|bbc_sport_338.txt|.|1|.|bbc_sport_272.txt|.|1|.|bbc_sport_138.txt|.|1
+brian|.|bbc_sport_132.txt|.|2|.|bbc_sport_134.txt|.|2|.|bbc_sport_217.txt|.|2
+new coach|.|bbc_sport_482.txt|.|2
+manager brian|.|bbc_sport_134.txt|.|2
+us|.|bbc_sport_492.txt|.|3|.|bbc_sport_495.txt|.|4|.|bbc_sport_481.txt|.|2
+wallabies|.|bbc_sport_331.txt|.|2
+treated|.|bbc_sport_046.txt|.|2
+praised|.|bbc_sport_228.txt|.|1
+second try|.|bbc_sport_311.txt|.|2
+easterby|.|bbc_sport_418.txt|.|2|.|bbc_sport_417.txt|.|2
+williams says|.|bbc_sport_318.txt|.|2
+athlete|.|bbc_sport_026.txt|.|1|.|bbc_sport_040.txt|.|1|.|bbc_sport_071.txt|.|2|.|bbc_sport_057.txt|.|2
+ireland captain|.|bbc_sport_302.txt|.|2|.|bbc_sport_314.txt|.|2
+kerr|.|bbc_sport_132.txt|.|1|.|bbc_sport_134.txt|.|3|.|bbc_sport_217.txt|.|6
+dry|.|bbc_sport_354.txt|.|2
+brian kerr|.|bbc_sport_132.txt|.|1|.|bbc_sport_134.txt|.|2|.|bbc_sport_217.txt|.|2
+werder bremen|.|bbc_sport_237.txt|.|1
+victory over england|.|bbc_sport_290.txt|.|2
+stop|.|bbc_sport_404.txt|.|2
+brazilian|.|bbc_sport_198.txt|.|2|.|bbc_sport_211.txt|.|2|.|bbc_sport_276.txt|.|2|.|bbc_sport_195.txt|.|2
+failure|.|bbc_sport_252.txt|.|2|.|bbc_sport_255.txt|.|2
+republic of ireland|.|bbc_sport_134.txt|.|11
+laboratories|.|bbc_sport_039.txt|.|2
+know|.|bbc_sport_176.txt|.|2
+praises|.|bbc_sport_228.txt|.|1
+insists|.|bbc_sport_423.txt|.|2
+duffy|.|bbc_sport_311.txt|.|3|.|bbc_sport_417.txt|.|1
+changed|.|bbc_sport_275.txt|.|2
+umaga|.|bbc_sport_331.txt|.|2
+trust|.|bbc_sport_290.txt|.|2
+participation|.|bbc_sport_002.txt|.|1
+dublin|.|bbc_sport_323.txt|.|4|.|bbc_sport_007.txt|.|3
+injury time|.|bbc_sport_380.txt|.|1
+brazil|.|bbc_sport_210.txt|.|6
+ian mccall|.|bbc_sport_126.txt|.|3
+cole|.|bbc_sport_162.txt|.|3|.|bbc_sport_125.txt|.|4|.|bbc_sport_278.txt|.|5|.|bbc_sport_178.txt|.|4|.|bbc_sport_163.txt|.|2
+van commenee|.|bbc_sport_043.txt|.|2
+frustrating|.|bbc_sport_434.txt|.|2
+expects|.|bbc_sport_183.txt|.|2
+blues|.|bbc_sport_181.txt|.|3|.|bbc_sport_104.txt|.|5|.|bbc_sport_182.txt|.|3|.|bbc_sport_273.txt|.|2
+home game|.|bbc_sport_134.txt|.|2
+cameras|.|bbc_sport_404.txt|.|2
+rumours|.|bbc_sport_409.txt|.|1
+murphy|.|bbc_sport_302.txt|.|5|.|bbc_sport_314.txt|.|5|.|bbc_sport_325.txt|.|2|.|bbc_sport_376.txt|.|2
+gavin duffy|.|bbc_sport_311.txt|.|2
+lansdowne|.|bbc_sport_378.txt|.|2|.|bbc_sport_405.txt|.|3
+nitoglia|.|bbc_sport_302.txt|.|3|.|bbc_sport_314.txt|.|3
+scots|.|bbc_sport_311.txt|.|2
+tough game|.|bbc_sport_301.txt|.|2
+italy|.|bbc_sport_335.txt|.|3|.|bbc_sport_407.txt|.|5|.|bbc_sport_305.txt|.|2|.|bbc_sport_318.txt|.|1|.|bbc_sport_410.txt|.|4|.|bbc_sport_314.txt|.|8|.|bbc_sport_349.txt|.|3|.|bbc_sport_304.txt|.|2|.|bbc_sport_132.txt|.|5|.|bbc_sport_408.txt|.|3|.|bbc_sport_302.txt|.|9|.|bbc_sport_342.txt|.|2|.|bbc_sport_400.txt|.|2|.|bbc_sport_322.txt|.|3
+horgan|.|bbc_sport_418.txt|.|2|.|bbc_sport_417.txt|.|3
+manager|.|bbc_sport_208.txt|.|2|.|bbc_sport_150.txt|.|2|.|bbc_sport_233.txt|.|2|.|bbc_sport_119.txt|.|5|.|bbc_sport_196.txt|.|1|.|bbc_sport_238.txt|.|2|.|bbc_sport_157.txt|.|1|.|bbc_sport_273.txt|.|1|.|bbc_sport_230.txt|.|2|.|bbc_sport_267.txt|.|1|.|bbc_sport_126.txt|.|3|.|bbc_sport_202.txt|.|3|.|bbc_sport_270.txt|.|3|.|bbc_sport_226.txt|.|3|.|bbc_sport_232.txt|.|6|.|bbc_sport_277.txt|.|2|.|bbc_sport_275.txt|.|2|.|bbc_sport_212.txt|.|3|.|bbc_sport_134.txt|.|3|.|bbc_sport_153.txt|.|1|.|bbc_sport_281.txt|.|1|.|bbc_sport_244.txt|.|2
+keeping|.|bbc_sport_354.txt|.|1|.|bbc_sport_227.txt|.|1
+orquera|.|bbc_sport_302.txt|.|3|.|bbc_sport_314.txt|.|3
+jose|.|bbc_sport_424.txt|.|2|.|bbc_sport_172.txt|.|3|.|bbc_sport_426.txt|.|2|.|bbc_sport_507.txt|.|2|.|bbc_sport_280.txt|.|2|.|bbc_sport_509.txt|.|2
+liverpool and millwall|.|bbc_sport_234.txt|.|2
+kicked|.|bbc_sport_380.txt|.|2
+launch|.|bbc_sport_266.txt|.|2
+started|.|bbc_sport_366.txt|.|2
+threatened|.|bbc_sport_137.txt|.|2
+hickie|.|bbc_sport_311.txt|.|3|.|bbc_sport_302.txt|.|2|.|bbc_sport_314.txt|.|2
+petrie|.|bbc_sport_311.txt|.|3
+aizlewood|.|bbc_sport_153.txt|.|2
+new goalkeeper|.|bbc_sport_242.txt|.|2
+gordon|.|bbc_sport_417.txt|.|2
+persie|.|bbc_sport_178.txt|.|3
+real madrid|.|bbc_sport_245.txt|.|1|.|bbc_sport_193.txt|.|2|.|bbc_sport_154.txt|.|4|.|bbc_sport_211.txt|.|2|.|bbc_sport_275.txt|.|3|.|bbc_sport_237.txt|.|3|.|bbc_sport_247.txt|.|2
+fourth|.|bbc_sport_480.txt|.|4
+dempsey|.|bbc_sport_417.txt|.|2
+retinoids|.|acne.txt|.|5
+ireland|.|bbc_sport_330.txt|.|3|.|bbc_sport_305.txt|.|2|.|bbc_sport_352.txt|.|5|.|bbc_sport_300.txt|.|2|.|bbc_sport_314.txt|.|8|.|bbc_sport_403.txt|.|5|.|bbc_sport_379.txt|.|1|.|bbc_sport_323.txt|.|5|.|bbc_sport_132.txt|.|2|.|bbc_sport_331.txt|.|4|.|bbc_sport_301.txt|.|3|.|bbc_sport_339.txt|.|3|.|bbc_sport_030.txt|.|1|.|bbc_sport_415.txt|.|2|.|bbc_sport_322.txt|.|2|.|bbc_sport_311.txt|.|8|.|bbc_sport_354.txt|.|5|.|bbc_sport_418.txt|.|2|.|bbc_sport_290.txt|.|6|.|bbc_sport_409.txt|.|3|.|bbc_sport_338.txt|.|2|.|bbc_sport_014.txt|.|2|.|bbc_sport_133.txt|.|3|.|bbc_sport_405.txt|.|11|.|bbc_sport_315.txt|.|2|.|bbc_sport_380.txt|.|10|.|bbc_sport_302.txt|.|9|.|bbc_sport_134.txt|.|12|.|bbc_sport_002.txt|.|3|.|bbc_sport_404.txt|.|8|.|bbc_sport_417.txt|.|4

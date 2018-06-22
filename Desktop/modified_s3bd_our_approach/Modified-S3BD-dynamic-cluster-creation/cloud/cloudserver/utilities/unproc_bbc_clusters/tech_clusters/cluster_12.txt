@@ -1,0 +1,91 @@
+12
+hogan|.|bbc_tech_281.txt|.|6
+francisco|.|bbc_tech_018.txt|.|2|.|bbc_tech_346.txt|.|3
+reports|.|bbc_tech_400.txt|.|2
+shut|.|bbc_tech_282.txt|.|2
+radicati group|.|bbc_tech_362.txt|.|2
+fed|.|bbc_tech_021.txt|.|3|.|bbc_tech_328.txt|.|3
+george w bush|.|bbc_tech_123.txt|.|2
+poll|.|bbc_tech_031.txt|.|2
+used|.|bbc_tech_019.txt|.|8|.|bbc_tech_049.txt|.|4|.|bbc_tech_329.txt|.|8|.|bbc_tech_340.txt|.|4
+homeland security|.|bbc_tech_400.txt|.|3
+division|.|bbc_tech_400.txt|.|7
+windows programs|.|bbc_tech_007.txt|.|2|.|bbc_tech_060.txt|.|2
+avoid trouble|.|bbc_tech_034.txt|.|2
+net security|.|bbc_tech_316.txt|.|5
+hackers|.|bbc_tech_284.txt|.|1|.|bbc_tech_400.txt|.|2|.|bbc_tech_357.txt|.|3
+security firm|.|bbc_tech_373.txt|.|2|.|bbc_tech_079.txt|.|2|.|bbc_tech_362.txt|.|4
+security reasons|.|bbc_tech_123.txt|.|2
+robots|.|bbc_tech_121.txt|.|6|.|bbc_tech_356.txt|.|10|.|bbc_tech_261.txt|.|1
+connections|.|bbc_tech_175.txt|.|5|.|bbc_tech_254.txt|.|2|.|bbc_tech_188.txt|.|2|.|bbc_tech_058.txt|.|3|.|bbc_tech_262.txt|.|2|.|bbc_tech_129.txt|.|5
+online security|.|bbc_tech_031.txt|.|2
+protecting|.|bbc_tech_316.txt|.|2
+protect pcs|.|bbc_tech_316.txt|.|1
+england|.|bbc_tech_028.txt|.|3
+reports suggest|.|bbc_tech_400.txt|.|1
+using|.|bbc_tech_373.txt|.|3|.|bbc_tech_079.txt|.|3|.|bbc_tech_343.txt|.|3|.|bbc_tech_017.txt|.|1|.|bbc_tech_223.txt|.|1|.|bbc_tech_142.txt|.|1|.|bbc_tech_275.txt|.|1
+cartridges|.|bbc_tech_333.txt|.|5|.|bbc_tech_037.txt|.|5
+banks|.|bbc_tech_031.txt|.|5|.|bbc_tech_122.txt|.|10
+double|.|bbc_tech_242.txt|.|2|.|bbc_tech_181.txt|.|2
+investigating|.|bbc_tech_334.txt|.|1|.|bbc_tech_039.txt|.|1
+patches|.|bbc_tech_007.txt|.|2|.|bbc_tech_060.txt|.|2
+fbi|.|bbc_tech_334.txt|.|5|.|bbc_tech_039.txt|.|5
+alerts|.|bbc_tech_034.txt|.|7
+britons|.|bbc_tech_021.txt|.|2|.|bbc_tech_328.txt|.|2
+community grid|.|bbc_tech_200.txt|.|2
+personally|.|bbc_tech_252.txt|.|1|.|bbc_tech_008.txt|.|1
+recruit|.|bbc_tech_357.txt|.|1
+daily|.|bbc_tech_184.txt|.|5
+older people|.|bbc_tech_316.txt|.|2
+selling|.|bbc_tech_209.txt|.|2|.|bbc_tech_227.txt|.|2|.|bbc_tech_398.txt|.|2
+world community grid|.|bbc_tech_200.txt|.|2
+basic|.|bbc_tech_346.txt|.|3
+card|.|bbc_tech_120.txt|.|3|.|bbc_tech_252.txt|.|2|.|bbc_tech_164.txt|.|5|.|bbc_tech_008.txt|.|2
+trust|.|bbc_tech_187.txt|.|2|.|bbc_tech_358.txt|.|1
+bot nets|.|bbc_tech_281.txt|.|4|.|bbc_tech_357.txt|.|7
+rsa|.|bbc_tech_346.txt|.|5
+assault|.|bbc_tech_288.txt|.|5
+malicious hackers|.|bbc_tech_400.txt|.|2
+reasons|.|bbc_tech_123.txt|.|2
+critical|.|bbc_tech_007.txt|.|6|.|bbc_tech_060.txt|.|6
+nets|.|bbc_tech_281.txt|.|4|.|bbc_tech_357.txt|.|7
+ink cartridges|.|bbc_tech_333.txt|.|3|.|bbc_tech_037.txt|.|2
+documents contained|.|bbc_tech_086.txt|.|2
+trusted platform|.|bbc_tech_358.txt|.|1
+honeynet|.|bbc_tech_357.txt|.|3
+fever|.|bbc_tech_395.txt|.|2
+cellery|.|bbc_tech_272.txt|.|5
+platform|.|bbc_tech_266.txt|.|3|.|bbc_tech_358.txt|.|3
+malicious|.|bbc_tech_385.txt|.|3|.|bbc_tech_210.txt|.|5|.|bbc_tech_257.txt|.|3|.|bbc_tech_400.txt|.|2|.|bbc_tech_197.txt|.|4|.|bbc_tech_077.txt|.|6
+found|.|bbc_tech_346.txt|.|8
+spyware|.|bbc_tech_036.txt|.|3|.|bbc_tech_377.txt|.|8|.|bbc_tech_177.txt|.|6|.|bbc_tech_096.txt|.|8|.|bbc_tech_250.txt|.|9|.|bbc_tech_003.txt|.|3|.|bbc_tech_292.txt|.|6|.|bbc_tech_316.txt|.|3
+criminals|.|bbc_tech_120.txt|.|4|.|bbc_tech_217.txt|.|2
+security researchers|.|bbc_tech_357.txt|.|2
+security software|.|bbc_tech_316.txt|.|2
+crime|.|bbc_tech_373.txt|.|1|.|bbc_tech_079.txt|.|1
+older|.|bbc_tech_316.txt|.|3
+saying|.|bbc_tech_123.txt|.|2|.|bbc_tech_333.txt|.|1|.|bbc_tech_037.txt|.|1
+protect|.|bbc_tech_048.txt|.|1|.|bbc_tech_016.txt|.|3|.|bbc_tech_377.txt|.|2|.|bbc_tech_096.txt|.|2|.|bbc_tech_316.txt|.|1|.|bbc_tech_342.txt|.|1
+basic security|.|bbc_tech_346.txt|.|2
+department|.|bbc_tech_400.txt|.|3
+department of homeland|.|bbc_tech_400.txt|.|3
+burner|.|bbc_tech_301.txt|.|4
+san francisco|.|bbc_tech_018.txt|.|2|.|bbc_tech_346.txt|.|3
+election|.|bbc_tech_123.txt|.|2|.|bbc_tech_101.txt|.|2|.|bbc_tech_157.txt|.|1
+cyber security|.|bbc_tech_400.txt|.|5
+advocates|.|bbc_tech_373.txt|.|2|.|bbc_tech_079.txt|.|2
+warnings|.|bbc_tech_227.txt|.|1|.|bbc_tech_398.txt|.|1|.|bbc_tech_026.txt|.|2
+ntl|.|bbc_tech_280.txt|.|6
+writers|.|bbc_tech_281.txt|.|6
+rsa security|.|bbc_tech_346.txt|.|2
+great|.|bbc_tech_336.txt|.|1
+home|.|bbc_tech_109.txt|.|4|.|bbc_tech_347.txt|.|4|.|bbc_tech_177.txt|.|2|.|bbc_tech_374.txt|.|3|.|bbc_tech_243.txt|.|8|.|bbc_tech_292.txt|.|2|.|bbc_tech_128.txt|.|3|.|bbc_tech_316.txt|.|4|.|bbc_tech_211.txt|.|2|.|bbc_tech_058.txt|.|3|.|bbc_tech_094.txt|.|6|.|bbc_tech_034.txt|.|7|.|bbc_tech_226.txt|.|2|.|bbc_tech_313.txt|.|6
+releases|.|bbc_tech_007.txt|.|2|.|bbc_tech_060.txt|.|2
+cyber|.|bbc_tech_217.txt|.|2|.|bbc_tech_281.txt|.|2|.|bbc_tech_400.txt|.|7
+trusted|.|bbc_tech_358.txt|.|14
+grid|.|bbc_tech_200.txt|.|5|.|bbc_tech_022.txt|.|6|.|bbc_tech_380.txt|.|6
+risk of infection|.|bbc_tech_272.txt|.|1
+allowances|.|bbc_tech_058.txt|.|4
+spam|.|bbc_tech_227.txt|.|10|.|bbc_tech_398.txt|.|10|.|bbc_tech_132.txt|.|3|.|bbc_tech_362.txt|.|13|.|bbc_tech_214.txt|.|5|.|bbc_tech_189.txt|.|11|.|bbc_tech_176.txt|.|3|.|bbc_tech_159.txt|.|3|.|bbc_tech_026.txt|.|6|.|bbc_tech_390.txt|.|2|.|bbc_tech_147.txt|.|3
+trusted computing|.|bbc_tech_358.txt|.|7
+stuff|.|bbc_tech_045.txt|.|3|.|bbc_tech_341.txt|.|3

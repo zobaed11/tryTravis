@@ -1,0 +1,64 @@
+cancel|.|bbc_entertainment_118.txt|.|1
+major band|.|bbc_entertainment_245.txt|.|2
+sound|.|bbc_entertainment_229.txt|.|5|.|bbc_entertainment_277.txt|.|2|.|bbc_entertainment_142.txt|.|5
+band members|.|bbc_entertainment_239.txt|.|2
+irish band|.|bbc_entertainment_125.txt|.|2
+bad company|.|bbc_entertainment_138.txt|.|2|.|bbc_entertainment_158.txt|.|2
+reunite|.|bbc_entertainment_265.txt|.|1
+edwards|.|bbc_entertainment_187.txt|.|2|.|bbc_entertainment_244.txt|.|21|.|bbc_sport_012.txt|.|5|.|bbc_sport_020.txt|.|5
+doves|.|bbc_entertainment_126.txt|.|2
+tips|.|bbc_entertainment_229.txt|.|2|.|bbc_entertainment_142.txt|.|2
+ticket record|.|bbc_entertainment_140.txt|.|1
+new number|.|bbc_entertainment_126.txt|.|1
+brit award|.|bbc_entertainment_121.txt|.|2
+act to follow|.|bbc_entertainment_132.txt|.|2
+band|.|bbc_entertainment_245.txt|.|3|.|bbc_entertainment_160.txt|.|4|.|bbc_entertainment_126.txt|.|2|.|bbc_entertainment_121.txt|.|4|.|bbc_entertainment_139.txt|.|3|.|bbc_entertainment_296.txt|.|6|.|bbc_entertainment_109.txt|.|3|.|bbc_entertainment_142.txt|.|4|.|bbc_entertainment_105.txt|.|7|.|bbc_entertainment_118.txt|.|7|.|bbc_entertainment_255.txt|.|4|.|bbc_entertainment_158.txt|.|2|.|bbc_entertainment_229.txt|.|5|.|bbc_entertainment_239.txt|.|6|.|bbc_entertainment_107.txt|.|2|.|bbc_entertainment_132.txt|.|4|.|bbc_entertainment_140.txt|.|3|.|bbc_entertainment_153.txt|.|2|.|bbc_entertainment_235.txt|.|7|.|bbc_entertainment_159.txt|.|6|.|bbc_entertainment_125.txt|.|3|.|bbc_entertainment_287.txt|.|2|.|bbc_entertainment_244.txt|.|8|.|bbc_entertainment_138.txt|.|2|.|bbc_entertainment_236.txt|.|8|.|bbc_entertainment_143.txt|.|5|.|bbc_entertainment_262.txt|.|8
+dance|.|bbc_entertainment_255.txt|.|2|.|bbc_entertainment_122.txt|.|11|.|bbc_entertainment_188.txt|.|2
+snow patrol|.|bbc_entertainment_125.txt|.|3|.|bbc_entertainment_296.txt|.|4
+street preachers|.|bbc_entertainment_244.txt|.|4
+manic street preachers|.|bbc_entertainment_244.txt|.|4
+warwick|.|bbc_entertainment_239.txt|.|2
+uk album|.|bbc_entertainment_126.txt|.|2
+topped sound|.|bbc_entertainment_229.txt|.|1|.|bbc_entertainment_142.txt|.|1
+art school|.|bbc_entertainment_236.txt|.|3
+bloc|.|bbc_entertainment_229.txt|.|2
+concerts|.|bbc_entertainment_140.txt|.|2|.|bbc_entertainment_118.txt|.|2
+manic street|.|bbc_entertainment_244.txt|.|4
+scottish fans|.|bbc_entertainment_287.txt|.|2
+live act|.|bbc_entertainment_255.txt|.|1
+preachers|.|bbc_entertainment_244.txt|.|4
+atomic bomb|.|bbc_entertainment_262.txt|.|2
+mcclelland|.|bbc_entertainment_296.txt|.|2
+glasgow green|.|bbc_entertainment_287.txt|.|2
+indie|.|bbc_entertainment_255.txt|.|2
+pop band|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+conference|.|bbc_entertainment_239.txt|.|2|.|bbc_politics_330.txt|.|5|.|bbc_politics_011.txt|.|3|.|bbc_business_361.txt|.|2|.|bbc_tech_248.txt|.|2|.|bbc_politics_336.txt|.|3|.|bbc_politics_004.txt|.|4
+scottish band|.|bbc_entertainment_121.txt|.|2
+scottish acts|.|bbc_entertainment_121.txt|.|2
+cult|.|bbc_entertainment_255.txt|.|2
+franz ferdinand|.|bbc_entertainment_131.txt|.|4|.|bbc_entertainment_236.txt|.|4
+belle|.|bbc_entertainment_121.txt|.|3
+us rapper|.|bbc_entertainment_229.txt|.|2|.|bbc_entertainment_142.txt|.|2
+dark|.|bbc_entertainment_255.txt|.|2|.|bbc_entertainment_094.txt|.|3
+manic|.|bbc_entertainment_244.txt|.|5
+factory were the label|.|bbc_entertainment_245.txt|.|1
+wilson believes|.|bbc_entertainment_245.txt|.|2
+lightbody|.|bbc_entertainment_296.txt|.|4
+regular|.|bbc_entertainment_287.txt|.|2
+rem announce|.|bbc_entertainment_287.txt|.|1
+adds|.|bbc_entertainment_132.txt|.|3
+patrol|.|bbc_entertainment_125.txt|.|3|.|bbc_entertainment_296.txt|.|4
+richey edwards|.|bbc_entertainment_244.txt|.|2
+mills|.|bbc_sport_225.txt|.|2|.|bbc_entertainment_118.txt|.|3
+album chart|.|bbc_entertainment_126.txt|.|2
+richey|.|bbc_entertainment_244.txt|.|2
+dismantle|.|bbc_entertainment_262.txt|.|2
+dundee university|.|bbc_entertainment_296.txt|.|2
+busted|.|bbc_entertainment_105.txt|.|3|.|bbc_entertainment_235.txt|.|3
+franz|.|bbc_entertainment_131.txt|.|5|.|bbc_entertainment_106.txt|.|2|.|bbc_entertainment_236.txt|.|5
+grammy|.|bbc_entertainment_264.txt|.|6|.|bbc_entertainment_139.txt|.|3|.|bbc_entertainment_146.txt|.|2|.|bbc_entertainment_260.txt|.|1
+bassist|.|bbc_entertainment_296.txt|.|2
+biggest band|.|bbc_entertainment_262.txt|.|2
+bloc party|.|bbc_entertainment_229.txt|.|2
+lightbody said|.|bbc_entertainment_296.txt|.|2
+charlie|.|bbc_entertainment_239.txt|.|2|.|bbc_business_452.txt|.|3

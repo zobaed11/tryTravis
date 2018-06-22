@@ -1,0 +1,17 @@
+103
+virus spread|.|210.txt|.|2
+fixes for flaws|.|007.txt|.|1
+scheme|.|194.txt|.|3
+automatically|.|083.txt|.|1|.|308.txt|.|1
+replace|.|194.txt|.|1
+replacement scheme|.|194.txt|.|1
+sensitive information|.|086.txt|.|5
+windows|.|083.txt|.|10|.|210.txt|.|4|.|237.txt|.|3|.|272.txt|.|3|.|060.txt|.|3|.|194.txt|.|7|.|007.txt|.|3|.|122.txt|.|9|.|086.txt|.|3|.|250.txt|.|5|.|308.txt|.|10
+replace counterfeit|.|194.txt|.|1
+running|.|083.txt|.|2|.|308.txt|.|2
+mail messages|.|210.txt|.|1
+networks of cash machines|.|122.txt|.|1
+risk of infection|.|272.txt|.|1
+windows operating|.|083.txt|.|2|.|308.txt|.|2
+risk|.|272.txt|.|1
+turns infected|.|210.txt|.|1

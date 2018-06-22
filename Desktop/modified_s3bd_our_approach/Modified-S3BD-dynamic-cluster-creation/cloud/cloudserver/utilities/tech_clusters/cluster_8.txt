@@ -1,0 +1,17 @@
+8
+rap|.|090.txt|.|9|.|312.txt|.|9
+phone calls|.|339.txt|.|2|.|042.txt|.|2
+chip maker|.|350.txt|.|2
+make free|.|339.txt|.|2|.|350.txt|.|2|.|042.txt|.|2
+templeton said|.|350.txt|.|2
+dtt|.|371.txt|.|11
+james bond|.|245.txt|.|2
+templeton|.|350.txt|.|3
+hotspots|.|339.txt|.|4|.|042.txt|.|4
+hotspot users|.|339.txt|.|1|.|042.txt|.|1
+skype|.|339.txt|.|8|.|042.txt|.|8
+terrestrial tv|.|371.txt|.|3
+calls|.|251.txt|.|2|.|339.txt|.|6|.|042.txt|.|6|.|136.txt|.|6
+voip|.|350.txt|.|8
+free|.|102.txt|.|2|.|339.txt|.|5|.|350.txt|.|4|.|042.txt|.|5|.|371.txt|.|1|.|136.txt|.|4
+net calls|.|339.txt|.|2|.|042.txt|.|2

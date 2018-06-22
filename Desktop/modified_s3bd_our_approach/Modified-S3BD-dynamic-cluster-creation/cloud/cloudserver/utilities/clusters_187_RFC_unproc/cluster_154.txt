@@ -1,0 +1,120 @@
+ietf meetings|.|rfc4677.txt|.|24
+ietf and itu|.|rfc5704.txt|.|1
+restricted the rights|.|rfc5377.txt|.|1
+protocol parameter|.|rfc6220.txt|.|37
+naming rights|.|rfc5241.txt|.|24
+selection process|.|rfc4333.txt|.|9
+contributions|.|rfc3667.txt|.|41|.|rfc5377.txt|.|30|.|rfc3978.txt|.|58
+ietf documents|.|rfc5377.txt|.|5|.|rfc2648.txt|.|30|.|rfc5249.txt|.|3|.|rfc3978.txt|.|20
+ietf consensus|.|rfc5918.txt|.|4|.|rfc4691.txt|.|17
+internet mail consortium|.|rfc3233.txt|.|2
+mib wg|.|rfc4663.txt|.|24
+ietf mission statement|.|rfc3935.txt|.|6
+draft formats|.|rfc4228.txt|.|15
+editor documents|.|rfc3932.txt|.|10
+communicate and coordinate|.|rfc4052.txt|.|4
+recognize|.|rfc4748.txt|.|5
+cablelabs ietf|.|rfc4965.txt|.|1
+digital equipment corporation|.|rfc2028.txt|.|2
+licensing declaration|.|rfc3905.txt|.|20
+registry operator|.|rfc6220.txt|.|36
+meetings|.|rfc116.txt|.|2|.|rfc4677.txt|.|65|.|rfc85.txt|.|3|.|rfc75.txt|.|1
+disclosure and licensing declaration|.|rfc3905.txt|.|6
+requires|.|rfc3667.txt|.|7|.|rfc3409.txt|.|4|.|rfc3978.txt|.|7
+iab iesg|.|rfc4089.txt|.|2
+works|.|rfc4246.txt|.|5|.|rfc5378.txt|.|22|.|rfc3667.txt|.|33|.|rfc3978.txt|.|33
+ipr disclosures|.|rfc3668.txt|.|23|.|rfc3979.txt|.|23
+mail consortium|.|rfc3233.txt|.|2
+functionality|.|rfc2804.txt|.|1
+harris informational|.|rfc4677.txt|.|50
+parameter registry operator|.|rfc6220.txt|.|10
+party disclosure|.|rfc4879.txt|.|3
+namespace for ietf|.|rfc2648.txt|.|30
+ietf problem|.|rfc3774.txt|.|24|.|rfc3844.txt|.|24
+need for a bof|.|rfc5434.txt|.|2
+results of this algorithm|.|rfc4407.txt|.|1
+assigned names|.|rfc6289.txt|.|6
+oma ietf|.|rfc3975.txt|.|1
+digital equipment|.|rfc2028.txt|.|2
+ietf mailing|.|rfc4633.txt|.|18|.|rfc3683.txt|.|25
+produce|.|rfc5378.txt|.|15|.|rfc3667.txt|.|15|.|rfc3978.txt|.|15
+ipr trust|.|rfc4371.txt|.|1
+liaison manager|.|rfc4691.txt|.|44|.|rfc4053.txt|.|8|.|rfc4965.txt|.|21
+document clarifies|.|rfc4879.txt|.|2
+process august|.|rfc3844.txt|.|19
+ietf process experiments|.|rfc3933.txt|.|7
+consultant|.|rfc4089.txt|.|7
+administrative support|.|rfc4071.txt|.|17
+patent disclosures|.|rfc3905.txt|.|10
+mib doctor|.|rfc4663.txt|.|28
+exists|.|rfc6292.txt|.|16
+ietf mission|.|rfc3935.txt|.|7
+suite b cryptographic suites|.|rfc4869.txt|.|9
+ietf problem statement|.|rfc3774.txt|.|22
+patent disclosure and licensing declaration|.|rfc3905.txt|.|5
+ietf liaison managers|.|rfc4052.txt|.|4
+tia|.|rfc3131.txt|.|2
+rec|.|rfc5358.txt|.|6|.|rfc4089.txt|.|54
+email interface|.|rfc4228.txt|.|10
+rights in ietf contributions|.|rfc3667.txt|.|2
+namespace for ietf documents|.|rfc2648.txt|.|30
+wg chairs|.|rfc3844.txt|.|19
+iesg and rfc editor|.|rfc3932.txt|.|9
+chairs|.|rfc3844.txt|.|21
+tool reqs|.|rfc6292.txt|.|10
+tao|.|rfc4677.txt|.|63|.|rfc3160.txt|.|51
+editor contributions|.|rfc3667.txt|.|15|.|rfc3978.txt|.|15
+purchase naming rights|.|rfc5241.txt|.|1
+tao of ietf|.|rfc4677.txt|.|50|.|rfc3160.txt|.|38
+process for developing|.|rfc3683.txt|.|2
+produce derivative|.|rfc5378.txt|.|11|.|rfc3667.txt|.|11|.|rfc3978.txt|.|11
+rights in contributions|.|rfc3978.txt|.|21
+design authority|.|rfc5704.txt|.|15
+intellectual property rights|.|rfc2451.txt|.|2|.|rfc3668.txt|.|12|.|rfc3979.txt|.|12
+resolution process|.|rfc3844.txt|.|20
+hovey|.|rfc2028.txt|.|9
+ietf policy|.|rfc2804.txt|.|10
+ietf executive|.|rfc4879.txt|.|3
+ietf protocol|.|rfc6220.txt|.|16
+process and document|.|rfc4714.txt|.|4
+guidelines october|.|rfc4691.txt|.|13
+ietf review|.|rfc3932.txt|.|8
+ietf technical publisher|.|rfc4714.txt|.|74
+declarationsseptember|.|rfc3905.txt|.|8
+ietf|.|rfc4956.txt|.|8|.|rfc3184.txt|.|19|.|rfc3796.txt|.|56|.|rfc5478.txt|.|9|.|rfc4913.txt|.|10|.|rfc5249.txt|.|14|.|rfc2700.txt|.|40|.|rfc4972.txt|.|8|.|rfc6291.txt|.|13|.|rfc4743.txt|.|10|.|rfc6097.txt|.|7|.|rfc5443.txt|.|9|.|rfc5938.txt|.|16|.|rfc5672.txt|.|13|.|rfc5733.txt|.|7|.|rfc4119.txt|.|10|.|rfc4933.txt|.|9|.|rfc5377.txt|.|109|.|rfc4928.txt|.|9|.|rfc3113.txt|.|34|.|rfc5745.txt|.|22|.|rfc5242.txt|.|10|.|rfc5427.txt|.|13|.|rfc5869.txt|.|7|.|rfc6220.txt|.|55|.|rfc5021.txt|.|8|.|rfc2804.txt|.|39|.|rfc5918.txt|.|16|.|rfc5536.txt|.|44|.|rfc4863.txt|.|9|.|rfc4332.txt|.|8|.|rfc4820.txt|.|8|.|rfc4917.txt|.|8|.|rfc5985.txt|.|13|.|rfc4879.txt|.|14|.|rfc4908.txt|.|11|.|rfc5730.txt|.|12|.|rfc3668.txt|.|138|.|rfc5521.txt|.|10|.|rfc4759.txt|.|8|.|rfc5327.txt|.|10|.|rfc4089.txt|.|308|.|rfc3245.txt|.|12|.|rfc4812.txt|.|9|.|rfc2800.txt|.|42|.|rfc6207.txt|.|8|.|rfc4789.txt|.|10|.|rfc4808.txt|.|8|.|rfc4979.txt|.|8|.|rfc3300.txt|.|67|.|rfc5289.txt|.|8|.|rfc5426.txt|.|9|.|rfc5744.txt|.|24|.|rfc4892.txt|.|9|.|rfc4965.txt|.|94|.|rfc5396.txt|.|3|.|rfc6134.txt|.|8|.|rfc4858.txt|.|24|.|rfc3718.txt|.|11|.|rfc4955.txt|.|8|.|rfc3160.txt|.|289|.|rfc3248.txt|.|5|.|rfc4663.txt|.|108|.|rfc3795.txt|.|65|.|rfc5211.txt|.|11|.|rfc4932.txt|.|9|.|rfc4691.txt|.|138|.|rfc5890.txt|.|13|.|rfc4848.txt|.|8|.|rfc4742.txt|.|8|.|rfc4993.txt|.|8|.|rfc4950.txt|.|8|.|rfc2357.txt|.|19|.|rfc4578.txt|.|9|.|rfc4589.txt|.|8|.|rfc4961.txt|.|8|.|rfc5511.txt|.|11|.|rfc4228.txt|.|70|.|rfc5450.txt|.|9|.|rfc4797.txt|.|8|.|rfc2600.txt|.|37|.|rfc5493.txt|.|10|.|rfc5856.txt|.|11|.|rfc3789.txt|.|32|.|rfc3683.txt|.|47|.|rfc5432.txt|.|9|.|rfc4183.txt|.|9|.|rfc3935.txt|.|49|.|rfc3677.txt|.|34|.|rfc4811.txt|.|9|.|rfc4969.txt|.|8|.|rfc4926.txt|.|8|.|rfc2031.txt|.|39|.|rfc6251.txt|.|12|.|rfc4909.txt|.|10|.|rfc3978.txt|.|196|.|rfc3005.txt|.|19|.|rfc5164.txt|.|14|.|rfc3667.txt|.|195|.|rfc2014.txt|.|16|.|rfc5994.txt|.|19|.|rfc5226.txt|.|36|.|rfc4278.txt|.|11|.|rfc4897.txt|.|13|.|rfc3233.txt|.|33|.|rfc4747.txt|.|10|.|rfc3920.txt|.|17|.|rfc4937.txt|.|8|.|rfc3688.txt|.|19|.|rfc2500.txt|.|34|.|rfc3000.txt|.|59|.|rfc4775.txt|.|124|.|rfc4869.txt|.|8|.|rfc4826.txt|.|22|.|rfc2648.txt|.|48|.|rfc2028.txt|.|43|.|rfc4079.txt|.|12|.|rfc6087.txt|.|24|.|rfc4214.txt|.|11|.|rfc3905.txt|.|34|.|rfc4850.txt|.|10|.|rfc4796.txt|.|8|.|rfc4052.txt|.|51|.|rfc5972.txt|.|12|.|rfc5689.txt|.|9|.|rfc4849.txt|.|8|.|rfc5445.txt|.|5|.|rfc4407.txt|.|7|.|rfc3131.txt|.|36|.|rfc4628.txt|.|8|.|rfc4946.txt|.|8|.|rfc5492.txt|.|11|.|rfc4865.txt|.|8|.|rfc5526.txt|.|9|.|rfc3794.txt|.|44|.|rfc6024.txt|.|12|.|rfc3844.txt|.|169|.|rfc4931.txt|.|9|.|rfc5573.txt|.|3|.|rfc4741.txt|.|14|.|rfc3979.txt|.|139|.|rfc3763.txt|.|6|.|rfc3774.txt|.|161|.|rfc4714.txt|.|170|.|rfc4757.txt|.|9|.|rfc5171.txt|.|9|.|rfc2900.txt|.|56|.|rfc4684.txt|.|8|.|rfc4853.txt|.|8|.|rfc4748.txt|.|57|.|rfc4633.txt|.|37|.|rfc2438.txt|.|10|.|rfc3791.txt|.|34|.|rfc4144.txt|.|9|.|rfc6241.txt|.|22|.|rfc4729.txt|.|8|.|rfc4020.txt|.|12|.|rfc4919.txt|.|15|.|rfc5581.txt|.|3|.|rfc3932.txt|.|55|.|rfc3975.txt|.|77|.|rfc3356.txt|.|95|.|rfc6021.txt|.|24|.|rfc4744.txt|.|9|.|rfc4841.txt|.|18|.|rfc2418.txt|.|106|.|rfc5795.txt|.|14|.|rfc3426.txt|.|19|.|rfc4930.txt|.|11|.|rfc3002.txt|.|52|.|rfc5485.txt|.|48|.|rfc5167.txt|.|9|.|rfc5965.txt|.|7|.|rfc5037.txt|.|10|.|rfc5541.txt|.|13|.|rfc5904.txt|.|13|.|rfc4371.txt|.|19|.|rfc4071.txt|.|130|.|rfc5345.txt|.|14|.|rfc2434.txt|.|12|.|rfc3858.txt|.|11|.|rfc5434.txt|.|26|.|rfc4661.txt|.|13|.|rfc6068.txt|.|15|.|rfc5703.txt|.|9|.|rfc3793.txt|.|17|.|rfc6292.txt|.|22|.|rfc3378.txt|.|6|.|rfc5378.txt|.|171|.|rfc5241.txt|.|56|.|rfc5491.txt|.|4|.|rfc4602.txt|.|10|.|rfc4894.txt|.|13|.|rfc2339.txt|.|6|.|rfc5732.txt|.|7|.|rfc4914.txt|.|12|.|rfc6246.txt|.|16|.|rfc6289.txt|.|12|.|rfc4677.txt|.|390|.|rfc5731.txt|.|7|.|rfc4723.txt|.|8|.|rfc4333.txt|.|39|.|rfc5870.txt|.|15|.|rfc4756.txt|.|8|.|rfc3792.txt|.|37|.|rfc2323.txt|.|12|.|rfc5490.txt|.|9|.|rfc4773.txt|.|11|.|rfc5704.txt|.|58|.|rfc5429.txt|.|9|.|rfc3536.txt|.|72|.|rfc4739.txt|.|8|.|rfc4713.txt|.|8|.|rfc4845.txt|.|12|.|rfc4967.txt|.|8|.|rfc2780.txt|.|12|.|rfc3933.txt|.|25|.|rfc3470.txt|.|52|.|rfc4115.txt|.|8|.|rfc4794.txt|.|12|.|rfc3797.txt|.|19|.|rfc3600.txt|.|72|.|rfc4745.txt|.|14|.|rfc4839.txt|.|8|.|rfc4813.txt|.|10|.|rfc6174.txt|.|70|.|rfc5484.txt|.|3
+sdos|.|rfc5704.txt|.|15
+posted drafts|.|rfc4228.txt|.|7
+discussion list|.|rfc3005.txt|.|5
+ietf working groups|.|rfc2028.txt|.|6|.|rfc2418.txt|.|8
+patent|.|rfc3905.txt|.|60|.|rfc3668.txt|.|30|.|rfc3979.txt|.|30
+ietf september|.|rfc4677.txt|.|49
+ietf administrative|.|rfc4333.txt|.|7|.|rfc4071.txt|.|22
+standardization collaboration|.|rfc3113.txt|.|8|.|rfc3131.txt|.|10|.|rfc3975.txt|.|12
+ietf document|.|rfc3233.txt|.|2
+licensing declarationsseptember|.|rfc3905.txt|.|8
+hofmann|.|rfc3844.txt|.|24
+pcg|.|rfc3113.txt|.|3
+technical publication|.|rfc4714.txt|.|17
+ietf requires|.|rfc3667.txt|.|4|.|rfc3978.txt|.|4
+branded protocol|.|rfc5241.txt|.|6
+isoc trustee|.|rfc3677.txt|.|9
+consultant report|.|rfc4089.txt|.|5
+iaoc|.|rfc4089.txt|.|94
+policy on wiretapping|.|rfc2804.txt|.|10
+rbnf|.|rfc5511.txt|.|13
+model for ietf process|.|rfc3933.txt|.|7
+narten|.|rfc2462.txt|.|28|.|rfc4775.txt|.|5|.|rfc4879.txt|.|6|.|rfc2434.txt|.|14|.|rfc5434.txt|.|14
+document the process|.|rfc3774.txt|.|1
+contributions march|.|rfc3978.txt|.|17
+resource priority namespaces|.|rfc5478.txt|.|1
+ietf liaison|.|rfc4691.txt|.|24|.|rfc4052.txt|.|9
+harris|.|rfc4432.txt|.|10|.|rfc3005.txt|.|5|.|rfc4677.txt|.|53|.|rfc3184.txt|.|6|.|rfc4345.txt|.|7
+ietf isoc|.|rfc3677.txt|.|3|.|rfc2031.txt|.|2
+loopholes|.|rfc2804.txt|.|2
+doctor|.|rfc4663.txt|.|28|.|rfc439.txt|.|8
+ietf administrative support|.|rfc4071.txt|.|8
+ietf specification|.|rfc3905.txt|.|5
+administrative|.|rfc3239.txt|.|8|.|rfc136.txt|.|6|.|rfc4375.txt|.|21|.|rfc4216.txt|.|12|.|rfc4958.txt|.|16|.|rfc2901.txt|.|43|.|rfc3663.txt|.|27|.|rfc5130.txt|.|20|.|rfc4333.txt|.|15|.|rfc4071.txt|.|42|.|rfc4089.txt|.|113
+defining the ietf|.|rfc3233.txt|.|5
+country code|.|rfc3245.txt|.|3
+incoming november|.|rfc5378.txt|.|15

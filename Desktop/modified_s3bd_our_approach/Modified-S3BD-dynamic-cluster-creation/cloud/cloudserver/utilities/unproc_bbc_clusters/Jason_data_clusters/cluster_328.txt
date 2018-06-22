@@ -1,0 +1,38 @@
+328
+acc|.|WET3304.txt|.|7|.|WET1937.txt|.|50
+tapes|.|WET2139.txt|.|24|.|WET2828.txt|.|94
+screening|.|WET2840.txt|.|32
+smaller|.|WET5445.txt|.|11|.|WET1552.txt|.|11
+falcon|.|WET2827.txt|.|169|.|WET2828.txt|.|240
+air|.|WET4414.txt|.|36|.|WET65.txt|.|340|.|WET475.txt|.|20|.|WET2014.txt|.|24|.|WET5758.txt|.|62|.|WET1085.txt|.|55|.|WET5753.txt|.|27|.|WET1779.txt|.|29|.|WET5180.txt|.|37|.|WET3203.txt|.|15|.|WET928.txt|.|3|.|WET1952.txt|.|152|.|WET3653.txt|.|248|.|WET3120.txt|.|27|.|WET5599.txt|.|153|.|WET2596.txt|.|19|.|WET367.txt|.|69|.|WET6298.txt|.|131|.|WET4155.txt|.|40|.|WET4882.txt|.|102|.|WET3817.txt|.|36|.|WET5551.txt|.|45
+calculus|.|WET631.txt|.|29
+primary school|.|WET2827.txt|.|140
+shirts banner|.|WET2828.txt|.|50
+school|.|WET2587.txt|.|31|.|WET1730.txt|.|122|.|WET4463.txt|.|69|.|WET1455.txt|.|91|.|WET185.txt|.|32|.|WET1625.txt|.|40|.|WET6268.txt|.|45|.|WET3747.txt|.|22|.|WET3926.txt|.|113|.|WET1552.txt|.|17|.|WET258.txt|.|31|.|WET2827.txt|.|314|.|WET134.txt|.|22|.|WET2103.txt|.|5|.|WET2625.txt|.|30|.|WET2828.txt|.|385|.|WET770.txt|.|43|.|WET1393.txt|.|62|.|WET6062.txt|.|35|.|WET4707.txt|.|26|.|WET2533.txt|.|97|.|WET3304.txt|.|14|.|WET4503.txt|.|35|.|WET119.txt|.|36|.|WET5143.txt|.|50|.|WET582.txt|.|90|.|WET202.txt|.|22|.|WET5402.txt|.|23|.|WET4517.txt|.|13|.|WET1255.txt|.|51|.|WET2229.txt|.|51|.|WET4914.txt|.|53|.|WET631.txt|.|69|.|WET3949.txt|.|29|.|WET110.txt|.|16|.|WET2840.txt|.|50|.|WET6182.txt|.|47|.|WET3859.txt|.|12|.|WET6230.txt|.|17|.|WET5884.txt|.|37|.|WET2929.txt|.|63|.|WET2505.txt|.|53|.|WET6185.txt|.|82|.|WET201.txt|.|21|.|WET4317.txt|.|21|.|WET2321.txt|.|78|.|WET4033.txt|.|34|.|WET5699.txt|.|741|.|WET6206.txt|.|17|.|WET1989.txt|.|22|.|WET1497.txt|.|22|.|WET622.txt|.|35|.|WET5471.txt|.|257
+jigsaw puzzles|.|WET2715.txt|.|42|.|WET2714.txt|.|70
+electronic|.|WET5728.txt|.|11|.|WET3646.txt|.|4|.|WET2699.txt|.|1
+school subjects|.|WET5884.txt|.|9
+score sheet|.|WET1672.txt|.|22
+name tapes|.|WET2828.txt|.|94
+spri|.|WET1875.txt|.|27
+sur la liste|.|WET4798.txt|.|101
+bedroom costumes costumes|.|WET4914.txt|.|44
+opinie|.|WET4463.txt|.|17
+banner|.|WET2827.txt|.|142|.|WET5452.txt|.|48|.|WET2828.txt|.|200
+oral health|.|WET2840.txt|.|15
+zeppelin|.|WET324.txt|.|6
+microstructuring|.|WET297.txt|.|8
+uncategorized|.|WET4650.txt|.|20
+nach|.|WET3271.txt|.|30
+comments post|.|WET3926.txt|.|8
+school uniform|.|WET2828.txt|.|51
+homework help|.|WET5884.txt|.|18
+elementary school|.|WET3926.txt|.|15|.|WET258.txt|.|9
+oder|.|WET1714.txt|.|87|.|WET5458.txt|.|217|.|WET5869.txt|.|61
+school district|.|WET2587.txt|.|10|.|WET3747.txt|.|14
+washington|.|WET4782.txt|.|41|.|WET6268.txt|.|75|.|WET5850.txt|.|426|.|WET3169.txt|.|20|.|WET4814.txt|.|159|.|WET2527.txt|.|40
+duffel|.|WET6182.txt|.|9
+king james|.|WET1255.txt|.|7
+yoga yoga|.|WET5614.txt|.|33|.|WET1875.txt|.|27
+primary|.|WET6223.txt|.|18|.|WET2827.txt|.|172|.|WET3205.txt|.|15
+submit an announcement|.|WET2533.txt|.|20

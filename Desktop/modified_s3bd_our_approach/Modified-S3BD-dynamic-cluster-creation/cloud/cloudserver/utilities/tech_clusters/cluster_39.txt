@@ -1,0 +1,17 @@
+39
+cec|.|261.txt|.|3
+half|.|244.txt|.|1|.|154.txt|.|1|.|321.txt|.|2|.|265.txt|.|2
+role|.|401.txt|.|4|.|244.txt|.|1
+blogging|.|162.txt|.|3|.|142.txt|.|2|.|035.txt|.|1|.|149.txt|.|3
+devices|.|275.txt|.|3|.|222.txt|.|11|.|170.txt|.|4
+shooting|.|245.txt|.|1
+investment|.|384.txt|.|4
+owners|.|197.txt|.|2|.|287.txt|.|2|.|069.txt|.|4|.|372.txt|.|2
+remote|.|202.txt|.|4|.|009.txt|.|3
+told bbc|.|114.txt|.|3|.|102.txt|.|2
+microsoft said|.|020.txt|.|2|.|015.txt|.|2|.|250.txt|.|2
+virgin|.|344.txt|.|11
+new strains|.|116.txt|.|2|.|290.txt|.|2
+customs|.|354.txt|.|4
+fast forward|.|280.txt|.|2
+sister|.|176.txt|.|4|.|132.txt|.|4

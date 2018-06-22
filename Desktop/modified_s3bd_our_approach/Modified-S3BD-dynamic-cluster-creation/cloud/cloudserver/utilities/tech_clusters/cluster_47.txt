@@ -1,0 +1,17 @@
+47
+agency|.|105.txt|.|2|.|002.txt|.|2
+blocks|.|186.txt|.|1
+chinese authorities|.|002.txt|.|2
+news online|.|114.txt|.|3
+google news|.|186.txt|.|5
+harry potter|.|114.txt|.|2
+independent game|.|114.txt|.|1
+authorities|.|002.txt|.|3
+chinese|.|186.txt|.|4|.|074.txt|.|7|.|002.txt|.|6
+potter games|.|114.txt|.|2
+group said|.|186.txt|.|1
+china|.|186.txt|.|8|.|384.txt|.|8
+strict guidelines|.|002.txt|.|2
+largest independent|.|114.txt|.|2
+potter|.|114.txt|.|2
+group|.|186.txt|.|2|.|362.txt|.|2

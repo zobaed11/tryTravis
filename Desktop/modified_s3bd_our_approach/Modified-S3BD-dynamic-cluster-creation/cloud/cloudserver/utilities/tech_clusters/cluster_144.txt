@@ -1,0 +1,17 @@
+144
+software|.|342.txt|.|3|.|105.txt|.|2|.|258.txt|.|4|.|003.txt|.|6|.|012.txt|.|6|.|399.txt|.|10|.|029.txt|.|5|.|308.txt|.|9|.|257.txt|.|2|.|316.txt|.|2|.|036.txt|.|6|.|354.txt|.|12|.|398.txt|.|5|.|177.txt|.|8|.|227.txt|.|5|.|292.txt|.|8|.|108.txt|.|10|.|080.txt|.|5|.|323.txt|.|7|.|048.txt|.|3|.|014.txt|.|5|.|051.txt|.|7|.|330.txt|.|5|.|083.txt|.|9|.|091.txt|.|3|.|331.txt|.|6|.|370.txt|.|4|.|268.txt|.|8
+held|.|370.txt|.|3
+supreme court have been hearing|.|370.txt|.|1
+read colour|.|323.txt|.|1|.|051.txt|.|1
+developed|.|323.txt|.|2|.|051.txt|.|2
+lovers|.|341.txt|.|1|.|045.txt|.|1
+push|.|012.txt|.|2|.|331.txt|.|2
+directive|.|399.txt|.|7
+innovative|.|258.txt|.|2|.|229.txt|.|1|.|399.txt|.|1
+puts|.|012.txt|.|1|.|331.txt|.|1
+hits|.|038.txt|.|1|.|080.txt|.|1
+website addresses|.|340.txt|.|1|.|049.txt|.|1
+council|.|013.txt|.|2
+weather|.|323.txt|.|2|.|051.txt|.|2
+software patents|.|330.txt|.|2|.|014.txt|.|2|.|029.txt|.|4|.|268.txt|.|3
+hear|.|370.txt|.|1

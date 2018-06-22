@@ -1,0 +1,17 @@
+146
+knights|.|125.txt|.|1
+game|.|245.txt|.|8|.|202.txt|.|3|.|046.txt|.|2|.|178.txt|.|3|.|130.txt|.|3|.|283.txt|.|8|.|126.txt|.|6|.|024.txt|.|6|.|169.txt|.|3|.|325.txt|.|3|.|139.txt|.|13|.|311.txt|.|11|.|112.txt|.|2|.|125.txt|.|5|.|195.txt|.|17|.|266.txt|.|9|.|218.txt|.|4|.|160.txt|.|6|.|005.txt|.|6|.|154.txt|.|8|.|140.txt|.|6|.|057.txt|.|7|.|233.txt|.|3|.|276.txt|.|7|.|144.txt|.|11|.|114.txt|.|2|.|171.txt|.|6|.|052.txt|.|2|.|348.txt|.|5|.|082.txt|.|2|.|095.txt|.|11
+handsets than own|.|311.txt|.|1|.|095.txt|.|1
+makers|.|246.txt|.|1|.|195.txt|.|3|.|348.txt|.|3
+mobile games|.|311.txt|.|4|.|095.txt|.|4
+illegally|.|195.txt|.|2
+james|.|245.txt|.|3
+portable playstation|.|112.txt|.|1
+science fiction|.|139.txt|.|2
+bond game|.|245.txt|.|1
+operators|.|311.txt|.|1|.|095.txt|.|1
+shooter|.|126.txt|.|2|.|171.txt|.|2
+force|.|125.txt|.|1
+obtained|.|195.txt|.|1
+goldeneye|.|245.txt|.|3
+sequel|.|266.txt|.|2|.|139.txt|.|5

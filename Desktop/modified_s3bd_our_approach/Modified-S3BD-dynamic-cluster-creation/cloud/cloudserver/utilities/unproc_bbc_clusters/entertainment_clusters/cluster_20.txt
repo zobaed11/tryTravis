@@ -1,0 +1,93 @@
+20
+cyril fletcher|.|bbc_entertainment_190.txt|.|2
+imposed|.|bbc_entertainment_171.txt|.|1
+tv documentary|.|bbc_entertainment_375.txt|.|2
+fletcher|.|bbc_entertainment_190.txt|.|6
+janet|.|bbc_entertainment_171.txt|.|2|.|bbc_entertainment_200.txt|.|1|.|bbc_entertainment_133.txt|.|2|.|bbc_entertainment_145.txt|.|2
+suffering|.|bbc_entertainment_219.txt|.|2
+celebrity big brother|.|bbc_entertainment_203.txt|.|1
+celebrity big|.|bbc_entertainment_221.txt|.|2|.|bbc_entertainment_179.txt|.|2|.|bbc_entertainment_216.txt|.|2|.|bbc_entertainment_203.txt|.|2
+independence|.|bbc_entertainment_213.txt|.|3
+series in the us|.|bbc_entertainment_210.txt|.|1
+protests|.|bbc_entertainment_166.txt|.|1
+view|.|bbc_entertainment_193.txt|.|3
+shows|.|bbc_entertainment_191.txt|.|3|.|bbc_entertainment_190.txt|.|2
+million people|.|bbc_entertainment_207.txt|.|2
+berman|.|bbc_entertainment_226.txt|.|4
+norfolk|.|bbc_entertainment_222.txt|.|3
+brass eye|.|bbc_entertainment_165.txt|.|3
+poor|.|bbc_entertainment_226.txt|.|1
+george clooney|.|bbc_entertainment_182.txt|.|2
+huge|.|bbc_entertainment_213.txt|.|3
+meeting|.|bbc_entertainment_213.txt|.|2
+victims|.|bbc_entertainment_182.txt|.|2
+television host|.|bbc_entertainment_219.txt|.|2
+american bandstand|.|bbc_entertainment_219.txt|.|2
+indecency|.|bbc_entertainment_171.txt|.|3|.|bbc_entertainment_199.txt|.|4
+imports|.|bbc_entertainment_217.txt|.|1
+meeting point|.|bbc_entertainment_213.txt|.|2
+child abuse|.|bbc_entertainment_375.txt|.|3
+breaches|.|bbc_entertainment_210.txt|.|1
+broadcasters|.|bbc_entertainment_171.txt|.|3
+brass|.|bbc_entertainment_165.txt|.|3
+stations|.|bbc_entertainment_166.txt|.|1|.|bbc_entertainment_218.txt|.|6
+eye|.|bbc_entertainment_165.txt|.|3
+award ceremonies|.|bbc_entertainment_219.txt|.|1
+veteran|.|bbc_entertainment_190.txt|.|2
+tufnell|.|bbc_entertainment_207.txt|.|2
+science|.|bbc_entertainment_193.txt|.|10
+berman said|.|bbc_entertainment_226.txt|.|4
+reality|.|bbc_entertainment_226.txt|.|3|.|bbc_entertainment_203.txt|.|3
+returns|.|bbc_entertainment_165.txt|.|1
+worst|.|bbc_entertainment_217.txt|.|3
+brother|.|bbc_entertainment_221.txt|.|5|.|bbc_entertainment_180.txt|.|2|.|bbc_entertainment_304.txt|.|3|.|bbc_entertainment_179.txt|.|2|.|bbc_entertainment_187.txt|.|2|.|bbc_entertainment_216.txt|.|2|.|bbc_entertainment_203.txt|.|5|.|bbc_entertainment_225.txt|.|3
+germaine greer|.|bbc_entertainment_203.txt|.|2
+joe|.|bbc_entertainment_207.txt|.|2
+jackie stallone|.|bbc_entertainment_203.txt|.|2
+import|.|bbc_entertainment_217.txt|.|2
+programme breaches|.|bbc_entertainment_210.txt|.|1
+show|.|bbc_entertainment_294.txt|.|4|.|bbc_entertainment_207.txt|.|7|.|bbc_entertainment_178.txt|.|7|.|bbc_entertainment_231.txt|.|8|.|bbc_entertainment_213.txt|.|2|.|bbc_entertainment_209.txt|.|5|.|bbc_entertainment_174.txt|.|5|.|bbc_entertainment_193.txt|.|3|.|bbc_entertainment_219.txt|.|2|.|bbc_entertainment_284.txt|.|12|.|bbc_entertainment_280.txt|.|7|.|bbc_entertainment_203.txt|.|5|.|bbc_entertainment_206.txt|.|4|.|bbc_entertainment_184.txt|.|9
+forensic science|.|bbc_entertainment_193.txt|.|5
+mtv show|.|bbc_entertainment_206.txt|.|1
+digital tv|.|bbc_entertainment_220.txt|.|2
+media|.|bbc_entertainment_211.txt|.|2|.|bbc_entertainment_010.txt|.|2
+died|.|bbc_entertainment_198.txt|.|3|.|bbc_entertainment_089.txt|.|2|.|bbc_entertainment_016.txt|.|2|.|bbc_entertainment_378.txt|.|1|.|bbc_entertainment_177.txt|.|1|.|bbc_entertainment_307.txt|.|2|.|bbc_entertainment_190.txt|.|1
+point|.|bbc_entertainment_213.txt|.|2
+johnny carson|.|bbc_entertainment_222.txt|.|2
+film adaptation|.|bbc_entertainment_094.txt|.|2
+greer said|.|bbc_entertainment_203.txt|.|2
+refuse|.|bbc_entertainment_166.txt|.|1
+stations to refuse|.|bbc_entertainment_166.txt|.|1
+worst tv|.|bbc_entertainment_217.txt|.|2
+tv special|.|bbc_entertainment_195.txt|.|2|.|bbc_entertainment_182.txt|.|2
+jackie|.|bbc_entertainment_203.txt|.|2
+germaine|.|bbc_entertainment_203.txt|.|2
+dies|.|bbc_entertainment_124.txt|.|1|.|bbc_entertainment_177.txt|.|1|.|bbc_entertainment_190.txt|.|1
+morris|.|bbc_entertainment_165.txt|.|4
+muslim group|.|bbc_entertainment_210.txt|.|2
+gaming|.|bbc_entertainment_220.txt|.|1
+stallone|.|bbc_entertainment_203.txt|.|2|.|bbc_entertainment_225.txt|.|4
+cyril fletcher has died|.|bbc_entertainment_190.txt|.|1
+saturday morning|.|bbc_entertainment_274.txt|.|3
+peaked|.|bbc_entertainment_207.txt|.|1
+tv channel|.|bbc_entertainment_173.txt|.|2
+television|.|bbc_entertainment_219.txt|.|3|.|bbc_entertainment_195.txt|.|2|.|bbc_entertainment_224.txt|.|2|.|bbc_entertainment_194.txt|.|3
+politician|.|bbc_entertainment_171.txt|.|1
+greer|.|bbc_entertainment_203.txt|.|6
+adopted children|.|bbc_entertainment_166.txt|.|2
+war|.|bbc_entertainment_080.txt|.|3|.|bbc_entertainment_213.txt|.|2
+ozzy osbourne|.|bbc_entertainment_206.txt|.|2
+show american|.|bbc_entertainment_219.txt|.|2
+special|.|bbc_entertainment_208.txt|.|1|.|bbc_entertainment_201.txt|.|3|.|bbc_entertainment_195.txt|.|2|.|bbc_entertainment_077.txt|.|2|.|bbc_entertainment_182.txt|.|2
+ceremonies|.|bbc_entertainment_219.txt|.|1
+tv station|.|bbc_entertainment_166.txt|.|2
+cyril|.|bbc_entertainment_190.txt|.|3
+darcey bussell|.|bbc_entertainment_022.txt|.|2
+tv import|.|bbc_entertainment_217.txt|.|2
+culture|.|bbc_entertainment_211.txt|.|2
+absolute|.|bbc_entertainment_375.txt|.|2
+phil tufnell|.|bbc_entertainment_207.txt|.|2
+comic|.|bbc_entertainment_305.txt|.|5|.|bbc_entertainment_374.txt|.|2|.|bbc_entertainment_190.txt|.|2
+sport|.|bbc_entertainment_220.txt|.|2
+adopted|.|bbc_entertainment_166.txt|.|2
+muslim council|.|bbc_entertainment_210.txt|.|2

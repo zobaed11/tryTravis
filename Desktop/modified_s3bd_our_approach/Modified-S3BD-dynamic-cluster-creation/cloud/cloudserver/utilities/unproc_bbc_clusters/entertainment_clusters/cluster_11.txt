@@ -1,0 +1,93 @@
+11
+voice|.|bbc_entertainment_299.txt|.|3|.|bbc_entertainment_302.txt|.|4
+mrs simpson|.|bbc_entertainment_358.txt|.|2
+hollywood|.|bbc_entertainment_339.txt|.|4|.|bbc_entertainment_224.txt|.|1|.|bbc_entertainment_314.txt|.|2|.|bbc_entertainment_093.txt|.|4|.|bbc_entertainment_170.txt|.|1|.|bbc_entertainment_301.txt|.|2|.|bbc_entertainment_038.txt|.|2
+us actor|.|bbc_entertainment_044.txt|.|2
+achievement|.|bbc_entertainment_337.txt|.|2
+show in london|.|bbc_entertainment_294.txt|.|2
+moreno|.|bbc_entertainment_324.txt|.|3
+edward|.|bbc_entertainment_358.txt|.|3
+bening|.|bbc_entertainment_325.txt|.|11
+minority|.|bbc_entertainment_194.txt|.|5
+forensic|.|bbc_entertainment_193.txt|.|12
+told bbc|.|bbc_entertainment_167.txt|.|2
+spike|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_052.txt|.|2|.|bbc_entertainment_356.txt|.|2
+dan|.|bbc_entertainment_089.txt|.|2
+theatre|.|bbc_entertainment_023.txt|.|3|.|bbc_entertainment_294.txt|.|5|.|bbc_entertainment_273.txt|.|3|.|bbc_entertainment_008.txt|.|4|.|bbc_entertainment_315.txt|.|2|.|bbc_entertainment_358.txt|.|10|.|bbc_entertainment_012.txt|.|6
+reeves|.|bbc_entertainment_364.txt|.|2|.|bbc_entertainment_339.txt|.|4
+lost|.|bbc_entertainment_342.txt|.|3
+price|.|bbc_entertainment_152.txt|.|3|.|bbc_entertainment_181.txt|.|1
+workforce|.|bbc_entertainment_351.txt|.|6
+achievement award|.|bbc_entertainment_337.txt|.|2
+found dead|.|bbc_entertainment_044.txt|.|3
+wins|.|bbc_entertainment_091.txt|.|1|.|bbc_entertainment_189.txt|.|1|.|bbc_entertainment_327.txt|.|1
+profits|.|bbc_entertainment_298.txt|.|6
+glass|.|bbc_entertainment_019.txt|.|2
+van|.|bbc_entertainment_057.txt|.|6|.|bbc_entertainment_329.txt|.|4
+palace theatre|.|bbc_entertainment_358.txt|.|2
+beach boys|.|bbc_entertainment_124.txt|.|2
+told bbc news|.|bbc_entertainment_167.txt|.|2
+work|.|bbc_entertainment_349.txt|.|2
+melcher|.|bbc_entertainment_124.txt|.|8
+actor ossie davis|.|bbc_entertainment_044.txt|.|2
+davis found dead|.|bbc_entertainment_044.txt|.|1
+jimi|.|bbc_entertainment_257.txt|.|2|.|bbc_entertainment_270.txt|.|2
+revival|.|bbc_entertainment_019.txt|.|2
+history|.|bbc_entertainment_009.txt|.|3|.|bbc_entertainment_006.txt|.|4|.|bbc_entertainment_172.txt|.|2|.|bbc_entertainment_275.txt|.|5
+bets|.|bbc_entertainment_221.txt|.|7|.|bbc_entertainment_333.txt|.|3
+rings musical|.|bbc_entertainment_294.txt|.|2
+doris lessing|.|bbc_entertainment_017.txt|.|2
+resistance|.|bbc_entertainment_090.txt|.|2
+mr blake|.|bbc_entertainment_169.txt|.|3
+doors|.|bbc_entertainment_381.txt|.|3
+delays|.|bbc_entertainment_292.txt|.|1
+final|.|bbc_entertainment_081.txt|.|2|.|bbc_entertainment_093.txt|.|3|.|bbc_entertainment_090.txt|.|2
+ossie|.|bbc_entertainment_043.txt|.|5|.|bbc_entertainment_044.txt|.|2|.|bbc_entertainment_356.txt|.|5
+word|.|bbc_entertainment_113.txt|.|2
+history boys|.|bbc_entertainment_006.txt|.|4|.|bbc_entertainment_275.txt|.|5
+alan alda|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+newspaper|.|bbc_entertainment_045.txt|.|2
+love|.|bbc_entertainment_132.txt|.|2|.|bbc_entertainment_258.txt|.|7|.|bbc_entertainment_075.txt|.|6
+scorsese|.|bbc_entertainment_377.txt|.|3|.|bbc_entertainment_337.txt|.|1|.|bbc_entertainment_368.txt|.|10
+scrubs|.|bbc_entertainment_040.txt|.|1|.|bbc_entertainment_224.txt|.|3
+burt reynolds|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+holiff|.|bbc_entertainment_320.txt|.|6
+wonderful life|.|bbc_entertainment_003.txt|.|2|.|bbc_entertainment_272.txt|.|2
+film stars|.|bbc_entertainment_224.txt|.|1
+golden globes|.|bbc_entertainment_095.txt|.|3|.|bbc_entertainment_092.txt|.|2
+soul|.|bbc_entertainment_264.txt|.|2|.|bbc_entertainment_259.txt|.|4|.|bbc_entertainment_249.txt|.|2|.|bbc_entertainment_156.txt|.|5
+church|.|bbc_entertainment_281.txt|.|3
+osbournes|.|bbc_entertainment_206.txt|.|6
+keanu reeves|.|bbc_entertainment_339.txt|.|2
+replace peel|.|bbc_entertainment_231.txt|.|2|.|bbc_entertainment_197.txt|.|1
+wilbur the pig|.|bbc_entertainment_302.txt|.|2
+davis found|.|bbc_entertainment_044.txt|.|1
+found|.|bbc_entertainment_044.txt|.|4|.|bbc_entertainment_110.txt|.|2|.|bbc_entertainment_169.txt|.|3|.|bbc_entertainment_381.txt|.|2
+jugnot|.|bbc_entertainment_045.txt|.|5
+hopes|.|bbc_entertainment_106.txt|.|1
+event|.|bbc_entertainment_322.txt|.|3|.|bbc_entertainment_267.txt|.|5
+keanu|.|bbc_entertainment_339.txt|.|2
+twin|.|bbc_entertainment_089.txt|.|2
+academy|.|bbc_entertainment_059.txt|.|4|.|bbc_entertainment_035.txt|.|2|.|bbc_entertainment_041.txt|.|4|.|bbc_entertainment_082.txt|.|3|.|bbc_entertainment_314.txt|.|12|.|bbc_entertainment_039.txt|.|3
+spruce|.|bbc_entertainment_001.txt|.|2
+include|.|bbc_entertainment_163.txt|.|1|.|bbc_entertainment_152.txt|.|1
+honour|.|bbc_entertainment_264.txt|.|1|.|bbc_entertainment_337.txt|.|1|.|bbc_entertainment_243.txt|.|1|.|bbc_entertainment_008.txt|.|1|.|bbc_entertainment_383.txt|.|1|.|bbc_entertainment_102.txt|.|2|.|bbc_entertainment_357.txt|.|2|.|bbc_entertainment_341.txt|.|2|.|bbc_entertainment_355.txt|.|1
+oscar nomination|.|bbc_entertainment_089.txt|.|2
+tip the aviator|.|bbc_entertainment_328.txt|.|1|.|bbc_entertainment_086.txt|.|1
+us actor ossie davis|.|bbc_entertainment_044.txt|.|2
+blake|.|bbc_entertainment_169.txt|.|4
+actor for dicaprio|.|bbc_entertainment_337.txt|.|1
+kanye west|.|bbc_entertainment_264.txt|.|2|.|bbc_entertainment_259.txt|.|2
+security guard|.|bbc_entertainment_293.txt|.|2
+godfather|.|bbc_entertainment_056.txt|.|6
+mrs|.|bbc_entertainment_358.txt|.|2
+super bowl|.|bbc_entertainment_175.txt|.|4|.|bbc_entertainment_133.txt|.|7|.|bbc_entertainment_145.txt|.|7
+appearance|.|bbc_entertainment_360.txt|.|1
+christian andersen|.|bbc_entertainment_002.txt|.|3
+swank|.|bbc_entertainment_372.txt|.|2|.|bbc_entertainment_084.txt|.|3|.|bbc_entertainment_051.txt|.|7|.|bbc_entertainment_368.txt|.|14|.|bbc_entertainment_069.txt|.|7|.|bbc_entertainment_078.txt|.|2
+norah|.|bbc_entertainment_264.txt|.|2
+burt|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+dollar baby|.|bbc_entertainment_372.txt|.|2|.|bbc_entertainment_328.txt|.|1|.|bbc_entertainment_095.txt|.|3|.|bbc_entertainment_051.txt|.|3|.|bbc_entertainment_086.txt|.|1|.|bbc_entertainment_069.txt|.|3|.|bbc_entertainment_078.txt|.|5|.|bbc_entertainment_064.txt|.|2
+soul train|.|bbc_entertainment_156.txt|.|5
+tribute|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2|.|bbc_entertainment_222.txt|.|2
+indian|.|bbc_entertainment_330.txt|.|5|.|bbc_entertainment_300.txt|.|3

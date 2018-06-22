@@ -1,0 +1,17 @@
+27
+os|.|336.txt|.|2
+mass|.|260.txt|.|1|.|297.txt|.|1
+jobs|.|239.txt|.|3|.|260.txt|.|7|.|297.txt|.|7
+mac mini|.|300.txt|.|17|.|260.txt|.|4|.|301.txt|.|9|.|297.txt|.|4|.|336.txt|.|14
+great|.|336.txt|.|1
+mac|.|300.txt|.|19|.|260.txt|.|8|.|068.txt|.|3|.|301.txt|.|11|.|297.txt|.|8|.|336.txt|.|20
+macworld|.|260.txt|.|2|.|248.txt|.|2|.|297.txt|.|2
+mac os x|.|336.txt|.|2
+great excitement by apple|.|336.txt|.|1
+welcomed|.|300.txt|.|1
+low|.|300.txt|.|1|.|260.txt|.|1|.|343.txt|.|2|.|297.txt|.|1
+x|.|336.txt|.|2
+mini revolution|.|336.txt|.|1
+heralds|.|336.txt|.|1
+apple has unveiled|.|260.txt|.|1|.|297.txt|.|1
+hard drive|.|301.txt|.|6|.|070.txt|.|2|.|336.txt|.|2

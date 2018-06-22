@@ -1,0 +1,17 @@
+7
+humanoid|.|246.txt|.|2|.|356.txt|.|3
+chaos|.|245.txt|.|2
+warrior|.|218.txt|.|3
+entertainment|.|167.txt|.|2|.|313.txt|.|3|.|363.txt|.|3|.|215.txt|.|2|.|094.txt|.|3
+want|.|365.txt|.|4
+loyalty cards|.|124.txt|.|4
+painkiller|.|140.txt|.|9
+accutane|.|acne.txt|.|5
+unidentified|.|248.txt|.|2
+advertising|.|209.txt|.|2
+dialler|.|397.txt|.|4
+concern|.|321.txt|.|2
+unveils|.|356.txt|.|1|.|019.txt|.|1
+plasma levels|.|acne.txt|.|2
+deaf people|.|251.txt|.|5
+hitachi unveils|.|356.txt|.|1

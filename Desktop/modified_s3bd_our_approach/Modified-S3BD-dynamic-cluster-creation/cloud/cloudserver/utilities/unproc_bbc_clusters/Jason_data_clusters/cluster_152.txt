@@ -1,0 +1,38 @@
+152
+leader|.|WET6223.txt|.|37|.|WET286.txt|.|234
+pirate|.|WET290.txt|.|5
+usc|.|WET4036.txt|.|33
+university|.|WET282.txt|.|29|.|WET227.txt|.|656|.|WET290.txt|.|96|.|WET4026.txt|.|43|.|WET948.txt|.|30|.|WET1972.txt|.|29|.|WET286.txt|.|211|.|WET3976.txt|.|299|.|WET4327.txt|.|104|.|WET4036.txt|.|222|.|WET3960.txt|.|530|.|WET2779.txt|.|26|.|WET213.txt|.|1052|.|WET1319.txt|.|38|.|WET4371.txt|.|22|.|WET292.txt|.|262|.|WET4477.txt|.|39|.|WET506.txt|.|18|.|WET4062.txt|.|257|.|WET2579.txt|.|48|.|WET3970.txt|.|12|.|WET3927.txt|.|163|.|WET212.txt|.|523|.|WET2746.txt|.|9|.|WET3166.txt|.|147
+digital collection of robert|.|WET227.txt|.|135
+guinea|.|WET5855.txt|.|44|.|WET1180.txt|.|22
+outerwear ponchos|.|WET2145.txt|.|28
+gesundheit|.|WET4975.txt|.|37
+items are shipped|.|WET872.txt|.|9
+bar|.|WET1478.txt|.|62|.|WET1825.txt|.|300|.|WET2729.txt|.|66|.|WET6259.txt|.|65|.|WET2348.txt|.|24|.|WET3624.txt|.|53|.|WET5559.txt|.|346|.|WET1067.txt|.|40|.|WET5315.txt|.|43|.|WET2728.txt|.|48|.|WET1273.txt|.|43|.|WET5208.txt|.|28
+agricultural|.|WET948.txt|.|12|.|WET4062.txt|.|109
+valley university|.|WET3976.txt|.|292
+bat|.|WET3827.txt|.|24|.|WET3013.txt|.|48|.|WET81.txt|.|68
+rademaker|.|WET3718.txt|.|10
+draft|.|WET628.txt|.|18|.|WET4107.txt|.|24|.|WET3812.txt|.|106|.|WET2968.txt|.|12|.|WET3319.txt|.|49|.|WET902.txt|.|49|.|WET5423.txt|.|143|.|WET1356.txt|.|11|.|WET4224.txt|.|30|.|WET190.txt|.|16
+hinkley|.|WET2009.txt|.|238
+southern california collection|.|WET292.txt|.|33
+university of illinois contentdm|.|WET506.txt|.|7
+mission photography archive|.|WET292.txt|.|32
+university of illinois contentdm collection|.|WET506.txt|.|7
+abroad|.|WET3166.txt|.|6
+university edwardsville|.|WET3960.txt|.|60|.|WET213.txt|.|120|.|WET212.txt|.|60
+north park|.|WET213.txt|.|102
+agricultural extension|.|WET4062.txt|.|91
+newspaper for utah|.|WET3976.txt|.|22
+wesleyan|.|WET3960.txt|.|39
+study abroad|.|WET3166.txt|.|6
+xavier university|.|WET212.txt|.|27
+southern illinois university|.|WET213.txt|.|192
+southern illinois|.|WET3960.txt|.|99|.|WET213.txt|.|198|.|WET212.txt|.|99
+state university|.|WET227.txt|.|144|.|WET290.txt|.|41|.|WET1972.txt|.|22
+usc digital library|.|WET4036.txt|.|21
+colleges and departments|.|WET4062.txt|.|99
+southern illinois university edwardsville|.|WET213.txt|.|120
+kirkhof center|.|WET1972.txt|.|21
+mississippi|.|WET282.txt|.|59|.|WET4026.txt|.|61
+wesleyan university|.|WET3960.txt|.|39

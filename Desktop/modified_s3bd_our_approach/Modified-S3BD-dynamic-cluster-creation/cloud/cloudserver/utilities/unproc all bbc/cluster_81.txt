@@ -1,0 +1,64 @@
+electronics|.|bbc_tech_163.txt|.|4|.|bbc_tech_072.txt|.|6|.|bbc_tech_291.txt|.|4|.|bbc_tech_134.txt|.|2|.|bbc_tech_174.txt|.|4|.|bbc_business_211.txt|.|3
+direct csi episode|.|bbc_entertainment_365.txt|.|1
+south korean|.|bbc_business_409.txt|.|5
+gadget|.|bbc_tech_291.txt|.|2|.|bbc_tech_134.txt|.|3|.|bbc_tech_009.txt|.|14|.|bbc_tech_163.txt|.|2|.|bbc_tech_072.txt|.|4|.|bbc_tech_359.txt|.|6|.|bbc_tech_127.txt|.|4|.|bbc_tech_093.txt|.|3|.|bbc_tech_174.txt|.|5|.|bbc_tech_045.txt|.|3|.|bbc_tech_363.txt|.|4|.|bbc_tech_172.txt|.|4|.|bbc_tech_341.txt|.|3
+proper exit strategy|.|bbc_politics_093.txt|.|2
+tucker|.|bbc_business_151.txt|.|2
+boerse|.|bbc_business_454.txt|.|12|.|bbc_business_220.txt|.|6|.|bbc_business_316.txt|.|4|.|bbc_business_264.txt|.|4|.|bbc_business_319.txt|.|5|.|bbc_business_171.txt|.|7|.|bbc_business_279.txt|.|5|.|bbc_business_392.txt|.|6|.|bbc_business_203.txt|.|3|.|bbc_business_421.txt|.|4
+percy|.|bbc_entertainment_291.txt|.|2
+launched|.|bbc_tech_054.txt|.|2|.|bbc_tech_174.txt|.|3|.|bbc_tech_241.txt|.|2|.|bbc_tech_076.txt|.|2|.|bbc_business_449.txt|.|1|.|bbc_tech_022.txt|.|1|.|bbc_tech_194.txt|.|2|.|bbc_tech_380.txt|.|1
+debts owed|.|bbc_business_210.txt|.|2
+gates said|.|bbc_tech_134.txt|.|2
+robot|.|bbc_tech_246.txt|.|7|.|bbc_tech_127.txt|.|2|.|bbc_tech_121.txt|.|10|.|bbc_tech_172.txt|.|2|.|bbc_tech_356.txt|.|7
+reese|.|bbc_entertainment_061.txt|.|3
+epa|.|bbc_tech_072.txt|.|4
+mr gates|.|bbc_tech_134.txt|.|5
+manufacturing|.|bbc_business_058.txt|.|2|.|bbc_business_370.txt|.|5|.|bbc_business_227.txt|.|4|.|bbc_business_108.txt|.|3|.|bbc_business_086.txt|.|5
+giant|.|bbc_business_369.txt|.|2|.|bbc_business_082.txt|.|2|.|bbc_business_335.txt|.|2|.|bbc_tech_250.txt|.|2|.|bbc_business_456.txt|.|3|.|bbc_business_181.txt|.|2|.|bbc_business_475.txt|.|2|.|bbc_business_035.txt|.|2|.|bbc_business_444.txt|.|2
+promoter|.|bbc_entertainment_320.txt|.|1
+las|.|bbc_tech_193.txt|.|2|.|bbc_politics_133.txt|.|2|.|bbc_tech_296.txt|.|2
+mpc|.|bbc_business_151.txt|.|3
+millwall|.|bbc_sport_234.txt|.|5
+next fiscal|.|bbc_business_322.txt|.|2
+producer price|.|bbc_business_163.txt|.|1
+hold in interest|.|bbc_business_290.txt|.|1
+thousands|.|bbc_tech_163.txt|.|2|.|bbc_tech_397.txt|.|2|.|bbc_tech_291.txt|.|2|.|bbc_politics_365.txt|.|2|.|bbc_tech_395.txt|.|2
+tvs|.|bbc_tech_193.txt|.|2|.|bbc_tech_296.txt|.|2|.|bbc_tech_216.txt|.|2
+holds interest rate|.|bbc_business_290.txt|.|1
+saumarez|.|bbc_entertainment_026.txt|.|3
+interest rates on hold|.|bbc_business_438.txt|.|1
+driven|.|bbc_business_190.txt|.|2|.|bbc_business_351.txt|.|2
+widened|.|bbc_business_124.txt|.|1|.|bbc_business_440.txt|.|1
+core network|.|bbc_tech_023.txt|.|2
+largest|.|bbc_tech_114.txt|.|2|.|bbc_tech_193.txt|.|2|.|bbc_business_251.txt|.|1|.|bbc_tech_296.txt|.|2|.|bbc_business_173.txt|.|1|.|bbc_business_276.txt|.|3|.|bbc_business_297.txt|.|2|.|bbc_business_390.txt|.|2
+allegedly found marijuana|.|bbc_entertainment_110.txt|.|1
+digitally obese|.|bbc_tech_220.txt|.|2
+technology firms|.|bbc_tech_072.txt|.|2
+nattrass|.|bbc_politics_292.txt|.|3
+visit to britain|.|bbc_politics_155.txt|.|2
+people surveyed|.|bbc_tech_061.txt|.|2|.|bbc_tech_321.txt|.|2
+inflation|.|bbc_business_163.txt|.|3
+ces|.|bbc_tech_163.txt|.|3|.|bbc_tech_291.txt|.|3|.|bbc_tech_134.txt|.|3
+digitally|.|bbc_tech_220.txt|.|3
+growth in the gadget|.|bbc_tech_072.txt|.|1
+insurer|.|bbc_business_103.txt|.|4|.|bbc_business_206.txt|.|3
+contestant|.|bbc_entertainment_180.txt|.|1|.|bbc_entertainment_223.txt|.|1
+franc|.|bbc_business_372.txt|.|3
+consumer technology|.|bbc_tech_193.txt|.|2|.|bbc_tech_296.txt|.|2
+consumer|.|bbc_tech_291.txt|.|5|.|bbc_tech_134.txt|.|3|.|bbc_tech_377.txt|.|1|.|bbc_tech_296.txt|.|6|.|bbc_tech_309.txt|.|2|.|bbc_business_450.txt|.|3|.|bbc_business_438.txt|.|5|.|bbc_business_175.txt|.|6|.|bbc_business_361.txt|.|4|.|bbc_tech_072.txt|.|7|.|bbc_business_322.txt|.|2|.|bbc_business_344.txt|.|2|.|bbc_tech_174.txt|.|5|.|bbc_tech_321.txt|.|3|.|bbc_business_290.txt|.|5|.|bbc_business_163.txt|.|4|.|bbc_business_044.txt|.|3|.|bbc_tech_220.txt|.|3|.|bbc_tech_391.txt|.|1|.|bbc_tech_294.txt|.|2|.|bbc_tech_286.txt|.|1|.|bbc_business_151.txt|.|3|.|bbc_business_211.txt|.|2|.|bbc_business_190.txt|.|4|.|bbc_tech_163.txt|.|5|.|bbc_tech_193.txt|.|6|.|bbc_tech_096.txt|.|1|.|bbc_business_440.txt|.|2|.|bbc_business_182.txt|.|3|.|bbc_business_409.txt|.|2|.|bbc_tech_155.txt|.|2|.|bbc_business_165.txt|.|5
+digital data|.|bbc_tech_220.txt|.|2
+madonna|.|bbc_entertainment_162.txt|.|3|.|bbc_entertainment_250.txt|.|3
+website|.|bbc_tech_385.txt|.|2|.|bbc_sport_264.txt|.|2|.|bbc_tech_193.txt|.|2|.|bbc_tech_168.txt|.|3|.|bbc_tech_296.txt|.|2|.|bbc_tech_027.txt|.|5|.|bbc_entertainment_368.txt|.|3|.|bbc_tech_049.txt|.|2|.|bbc_tech_101.txt|.|3|.|bbc_tech_340.txt|.|2|.|bbc_tech_315.txt|.|5
+vegas|.|bbc_tech_193.txt|.|2|.|bbc_politics_133.txt|.|1|.|bbc_tech_296.txt|.|2
+novartis|.|bbc_business_201.txt|.|7
+multimedia content|.|bbc_tech_163.txt|.|2|.|bbc_tech_291.txt|.|2
+paul tucker|.|bbc_business_151.txt|.|2
+next fiscal year|.|bbc_business_322.txt|.|2
+surveyed|.|bbc_tech_061.txt|.|2|.|bbc_tech_321.txt|.|2
+critics|.|bbc_entertainment_091.txt|.|2|.|bbc_entertainment_030.txt|.|6|.|bbc_politics_180.txt|.|3
+concept vehicles|.|bbc_tech_229.txt|.|3
+stored|.|bbc_politics_146.txt|.|4|.|bbc_tech_174.txt|.|3
+chartered said|.|bbc_business_409.txt|.|5
+uses|.|bbc_tech_006.txt|.|1|.|bbc_tech_023.txt|.|1
+rise|.|bbc_business_022.txt|.|2|.|bbc_business_143.txt|.|2|.|bbc_politics_380.txt|.|6|.|bbc_business_438.txt|.|2|.|bbc_business_402.txt|.|5|.|bbc_business_012.txt|.|2|.|bbc_politics_241.txt|.|1|.|bbc_business_168.txt|.|3|.|bbc_business_153.txt|.|4|.|bbc_politics_001.txt|.|2|.|bbc_business_441.txt|.|3|.|bbc_business_106.txt|.|3|.|bbc_business_427.txt|.|3|.|bbc_business_204.txt|.|4|.|bbc_business_290.txt|.|2|.|bbc_business_085.txt|.|2|.|bbc_business_329.txt|.|1|.|bbc_business_221.txt|.|2|.|bbc_business_089.txt|.|2|.|bbc_business_247.txt|.|2
+consumer spending|.|bbc_business_438.txt|.|2|.|bbc_business_290.txt|.|2|.|bbc_business_175.txt|.|3|.|bbc_business_163.txt|.|2|.|bbc_business_182.txt|.|2|.|bbc_business_044.txt|.|3|.|bbc_business_165.txt|.|5|.|bbc_business_190.txt|.|4

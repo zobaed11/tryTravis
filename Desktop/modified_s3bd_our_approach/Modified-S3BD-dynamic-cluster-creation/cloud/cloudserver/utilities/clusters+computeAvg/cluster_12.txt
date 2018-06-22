@@ -1,0 +1,38 @@
+12
+thu|.|WET761.txt|.|52|.|WET380.txt|.|364|.|WET620.txt|.|46|.|WET1332.txt|.|22|.|WET4142.txt|.|85|.|WET1629.txt|.|43|.|WET4143.txt|.|47|.|WET2738.txt|.|20|.|WET2842.txt|.|60|.|WET402.txt|.|50
+qualified|.|WET729.txt|.|63
+megastore|.|WET4885.txt|.|108
+gender|.|WET1261.txt|.|7
+tue|.|WET3051.txt|.|20|.|WET1620.txt|.|89|.|WET4143.txt|.|62
+subject|.|WET712.txt|.|34|.|WET411.txt|.|63|.|WET5573.txt|.|60|.|WET5162.txt|.|41|.|WET2425.txt|.|80|.|WET4029.txt|.|36|.|WET1837.txt|.|14|.|WET4143.txt|.|114|.|WET4152.txt|.|33|.|WET729.txt|.|198|.|WET3451.txt|.|55|.|WET668.txt|.|13|.|WET1261.txt|.|42|.|WET6166.txt|.|53|.|WET4075.txt|.|83|.|WET402.txt|.|192|.|WET6168.txt|.|56
+author message|.|WET5162.txt|.|5
+couch|.|WET218.txt|.|40
+vegan dinerposted|.|WET4143.txt|.|25
+view active|.|WET5162.txt|.|5
+potluck fun timeposted|.|WET402.txt|.|25
+skills|.|WET1733.txt|.|254
+asked|.|WET4993.txt|.|16|.|WET729.txt|.|51|.|WET1067.txt|.|20|.|WET191.txt|.|54
+surgery subject|.|WET6166.txt|.|8
+forums forum|.|WET3451.txt|.|16
+view posts|.|WET3451.txt|.|9
+post subject|.|WET712.txt|.|34|.|WET411.txt|.|59|.|WET5573.txt|.|60|.|WET5162.txt|.|41|.|WET2425.txt|.|79|.|WET1837.txt|.|14|.|WET4143.txt|.|113|.|WET4152.txt|.|33|.|WET3451.txt|.|54|.|WET668.txt|.|13|.|WET1261.txt|.|41|.|WET4075.txt|.|82|.|WET402.txt|.|186|.|WET6168.txt|.|56
+tue oct|.|WET4143.txt|.|26
+tipscamera forumvideo|.|WET5162.txt|.|5
+dinerposted|.|WET4143.txt|.|25
+tipscamera|.|WET5162.txt|.|5
+cataract removal|.|WET6166.txt|.|11
+potluck fun|.|WET402.txt|.|27
+cataract|.|WET6166.txt|.|83
+forum index|.|WET712.txt|.|8
+wed oct|.|WET402.txt|.|73
+procedure|.|WET6166.txt|.|8
+kilimanjaro|.|WET6166.txt|.|25
+pmposts|.|WET402.txt|.|152
+pm post subject|.|WET3451.txt|.|36
+battle dawn forum|.|WET1261.txt|.|13
+timeposted|.|WET402.txt|.|25
+challenge|.|WET1769.txt|.|4|.|WET3554.txt|.|29|.|WET4143.txt|.|31
+cataract procedure|.|WET6166.txt|.|5
+topics board|.|WET5162.txt|.|5
+questions asked|.|WET729.txt|.|51
+potluck|.|WET402.txt|.|28

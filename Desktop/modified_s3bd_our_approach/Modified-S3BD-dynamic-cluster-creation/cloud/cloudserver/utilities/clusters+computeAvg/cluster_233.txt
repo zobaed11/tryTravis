@@ -1,0 +1,38 @@
+233
+news swimming|.|WET1973.txt|.|6
+desserts|.|WET2341.txt|.|33|.|WET2342.txt|.|33|.|WET6084.txt|.|33|.|WET6085.txt|.|33|.|WET2340.txt|.|33
+frozen desserts|.|WET2341.txt|.|22|.|WET2342.txt|.|22|.|WET6084.txt|.|22|.|WET6085.txt|.|22|.|WET2340.txt|.|22
+aviation photo quiz|.|WET1137.txt|.|11
+bus|.|WET2226.txt|.|11|.|WET6158.txt|.|40|.|WET4806.txt|.|76
+health products|.|WET5438.txt|.|5
+vaccines|.|WET5877.txt|.|39
+multivitamin|.|WET5438.txt|.|15
+fruit|.|WET2341.txt|.|209|.|WET5152.txt|.|545|.|WET6086.txt|.|19|.|WET2342.txt|.|209|.|WET6084.txt|.|209|.|WET6085.txt|.|209|.|WET2340.txt|.|209
+hoodies|.|WET5145.txt|.|27|.|WET1623.txt|.|25|.|WET2153.txt|.|42
+digestive|.|WET5877.txt|.|12|.|WET5436.txt|.|12
+home health|.|WET6083.txt|.|45
+ports|.|WET5362.txt|.|22|.|WET5594.txt|.|249
+editor meet|.|WET4853.txt|.|11
+erotici|.|WET2544.txt|.|23
+hair|.|WET2269.txt|.|15|.|WET2894.txt|.|42|.|WET5438.txt|.|30|.|WET2342.txt|.|396|.|WET823.txt|.|52|.|WET6085.txt|.|396|.|WET2340.txt|.|396|.|WET2273.txt|.|26|.|WET2341.txt|.|396|.|WET2066.txt|.|29|.|WET3820.txt|.|41|.|WET6084.txt|.|396|.|WET2895.txt|.|152|.|WET4406.txt|.|15|.|WET1365.txt|.|23|.|WET1975.txt|.|36
+current|.|WET1184.txt|.|1|.|WET1970.txt|.|104|.|WET2282.txt|.|32|.|WET4006.txt|.|30|.|WET4004.txt|.|62|.|WET5930.txt|.|20|.|WET2224.txt|.|37|.|WET4813.txt|.|23|.|WET3591.txt|.|177|.|WET2804.txt|.|23|.|WET5961.txt|.|56|.|WET5962.txt|.|20
+jp tractor salvage|.|WET1795.txt|.|20
+barnum|.|WET284.txt|.|11
+rpgwatch forums|.|WET2798.txt|.|22|.|WET2797.txt|.|29
+regimen|.|WET2895.txt|.|98
+monitor arms|.|WET5496.txt|.|7
+servicing|.|WET539.txt|.|1
+storm|.|WET3304.txt|.|6|.|WET558.txt|.|17
+cartoon|.|WET238.txt|.|7|.|WET79.txt|.|49
+meijer|.|WET2341.txt|.|253|.|WET6086.txt|.|23|.|WET2342.txt|.|253|.|WET6084.txt|.|249|.|WET6085.txt|.|253|.|WET2340.txt|.|247
+muskegon|.|WET2376.txt|.|118|.|WET3856.txt|.|58
+frozen frozen|.|WET6083.txt|.|45
+close dropdown|.|WET5010.txt|.|36
+tipstimenauts walkthrough|.|WET2992.txt|.|16
+pads|.|WET2441.txt|.|44
+bug|.|WET4019.txt|.|185|.|WET739.txt|.|17|.|WET4077.txt|.|10
+tartt|.|WET5958.txt|.|29
+last thing|.|WET1565.txt|.|8
+conditions|.|WET5098.txt|.|23|.|WET590.txt|.|4|.|WET2484.txt|.|47
+care|.|WET6183.txt|.|64|.|WET5438.txt|.|116|.|WET2361.txt|.|22|.|WET1260.txt|.|37|.|WET4556.txt|.|37|.|WET6085.txt|.|792|.|WET1323.txt|.|173|.|WET2340.txt|.|792|.|WET2341.txt|.|792|.|WET5074.txt|.|203|.|WET557.txt|.|74|.|WET3214.txt|.|26|.|WET3664.txt|.|75|.|WET5010.txt|.|119|.|WET6084.txt|.|792|.|WET3205.txt|.|73|.|WET770.txt|.|9|.|WET1947.txt|.|27|.|WET2342.txt|.|792|.|WET5283.txt|.|31|.|WET5877.txt|.|131|.|WET6083.txt|.|360|.|WET5496.txt|.|54|.|WET2360.txt|.|55|.|WET5905.txt|.|78|.|WET2343.txt|.|72|.|WET2441.txt|.|120|.|WET6105.txt|.|21|.|WET2895.txt|.|253|.|WET2339.txt|.|152|.|WET1406.txt|.|14|.|WET2153.txt|.|42
+story|.|WET696.txt|.|34|.|WET3851.txt|.|14|.|WET1218.txt|.|76|.|WET1355.txt|.|58|.|WET4952.txt|.|17|.|WET810.txt|.|34|.|WET6128.txt|.|36|.|WET5171.txt|.|17|.|WET4006.txt|.|39|.|WET1106.txt|.|26|.|WET3586.txt|.|54|.|WET5570.txt|.|240|.|WET993.txt|.|82|.|WET5105.txt|.|65|.|WET4393.txt|.|21|.|WET1527.txt|.|63|.|WET363.txt|.|22|.|WET4129.txt|.|12

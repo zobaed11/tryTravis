@@ -1,0 +1,17 @@
+1
+cheaper|.|050.txt|.|2|.|243.txt|.|4
+printers|.|243.txt|.|7
+downlink packet|.|335.txt|.|3|.|032.txt|.|4
+high street|.|243.txt|.|8
+downlink|.|335.txt|.|3|.|032.txt|.|4
+speed downlink|.|335.txt|.|2|.|032.txt|.|3
+right|.|360.txt|.|4
+film|.|231.txt|.|2|.|013.txt|.|8
+right information|.|360.txt|.|3
+pro|.|328.txt|.|3|.|111.txt|.|3|.|021.txt|.|3|.|243.txt|.|3
+photo printers|.|243.txt|.|3
+generation of mobile|.|335.txt|.|1|.|032.txt|.|1
+pictures|.|389.txt|.|2|.|234.txt|.|2|.|278.txt|.|10|.|243.txt|.|3|.|099.txt|.|1
+printed|.|243.txt|.|1
+home printed|.|243.txt|.|1
+confusion|.|360.txt|.|2

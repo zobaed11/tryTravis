@@ -1,0 +1,91 @@
+8
+ryan|.|bbc_sport_115.txt|.|2|.|bbc_sport_310.txt|.|2
+try had been disallowed|.|bbc_sport_288.txt|.|1
+sack|.|bbc_sport_199.txt|.|2|.|bbc_sport_126.txt|.|1|.|bbc_sport_201.txt|.|2
+thought|.|bbc_sport_357.txt|.|2
+admits|.|bbc_sport_115.txt|.|3
+matt williams|.|bbc_sport_298.txt|.|3
+stade de france|.|bbc_sport_320.txt|.|2
+grewcock|.|bbc_sport_307.txt|.|9
+leading|.|bbc_sport_115.txt|.|3
+backed|.|bbc_sport_359.txt|.|1|.|bbc_sport_336.txt|.|1
+reach|.|bbc_sport_508.txt|.|1|.|bbc_sport_483.txt|.|1
+west brom|.|bbc_sport_192.txt|.|2|.|bbc_sport_129.txt|.|2
+competition|.|bbc_sport_021.txt|.|2
+jonathan|.|bbc_sport_437.txt|.|2|.|bbc_sport_310.txt|.|3
+liverpool|.|bbc_sport_155.txt|.|2|.|bbc_sport_274.txt|.|3|.|bbc_sport_236.txt|.|3|.|bbc_sport_165.txt|.|1|.|bbc_sport_141.txt|.|3|.|bbc_sport_228.txt|.|6|.|bbc_sport_243.txt|.|7|.|bbc_sport_269.txt|.|6|.|bbc_sport_234.txt|.|5|.|bbc_sport_102.txt|.|5|.|bbc_sport_118.txt|.|17|.|bbc_sport_266.txt|.|3|.|bbc_sport_272.txt|.|5|.|bbc_sport_259.txt|.|3|.|bbc_sport_177.txt|.|5
+wales sport|.|bbc_sport_316.txt|.|2
+wales coach|.|bbc_sport_320.txt|.|2|.|bbc_sport_310.txt|.|2
+april|.|bbc_sport_002.txt|.|2
+gareth|.|bbc_sport_291.txt|.|2|.|bbc_sport_348.txt|.|2
+red|.|bbc_sport_269.txt|.|1|.|bbc_sport_401.txt|.|2
+fit|.|bbc_sport_315.txt|.|2|.|bbc_sport_355.txt|.|3|.|bbc_sport_057.txt|.|2
+cockbain|.|bbc_sport_416.txt|.|3
+hal|.|bbc_sport_341.txt|.|2
+game with italy|.|bbc_sport_304.txt|.|1
+flanker|.|bbc_sport_353.txt|.|4|.|bbc_sport_355.txt|.|3
+said wales|.|bbc_sport_341.txt|.|2
+fitness|.|bbc_sport_341.txt|.|2
+bbc wales|.|bbc_sport_316.txt|.|2
+decline|.|bbc_sport_326.txt|.|2
+released|.|bbc_sport_316.txt|.|1
+doubts|.|bbc_sport_129.txt|.|3
+williams could be fit|.|bbc_sport_355.txt|.|1
+wales|.|bbc_sport_357.txt|.|8|.|bbc_sport_356.txt|.|4|.|bbc_sport_297.txt|.|4|.|bbc_sport_403.txt|.|7|.|bbc_sport_115.txt|.|9|.|bbc_sport_416.txt|.|9|.|bbc_sport_396.txt|.|3|.|bbc_sport_304.txt|.|5|.|bbc_sport_299.txt|.|2|.|bbc_sport_313.txt|.|3|.|bbc_sport_326.txt|.|3|.|bbc_sport_348.txt|.|3|.|bbc_sport_359.txt|.|5|.|bbc_sport_413.txt|.|9|.|bbc_sport_392.txt|.|2|.|bbc_sport_341.txt|.|4|.|bbc_sport_316.txt|.|5|.|bbc_sport_291.txt|.|8|.|bbc_sport_310.txt|.|4|.|bbc_sport_362.txt|.|4|.|bbc_sport_401.txt|.|6|.|bbc_sport_312.txt|.|9|.|bbc_sport_129.txt|.|4|.|bbc_sport_355.txt|.|9|.|bbc_sport_320.txt|.|7|.|bbc_sport_292.txt|.|3|.|bbc_sport_307.txt|.|4
+stade|.|bbc_sport_320.txt|.|2
+said ruddock|.|bbc_sport_359.txt|.|2|.|bbc_sport_307.txt|.|2
+martyn williams|.|bbc_sport_312.txt|.|3|.|bbc_sport_395.txt|.|2|.|bbc_sport_416.txt|.|3
+yapp|.|bbc_sport_359.txt|.|2
+visitors|.|bbc_sport_312.txt|.|3|.|bbc_sport_416.txt|.|3
+wales centre|.|bbc_sport_304.txt|.|1
+record cap|.|bbc_sport_413.txt|.|1
+training with a rugby league|.|bbc_sport_357.txt|.|1
+john toshack|.|bbc_sport_115.txt|.|2
+ryan jones|.|bbc_sport_310.txt|.|2
+john|.|bbc_sport_146.txt|.|2|.|bbc_sport_115.txt|.|4
+toshack|.|bbc_sport_115.txt|.|7
+parker|.|bbc_sport_341.txt|.|2|.|bbc_sport_333.txt|.|2
+region|.|bbc_sport_392.txt|.|2
+bennett|.|bbc_sport_291.txt|.|5
+ryan giggs|.|bbc_sport_115.txt|.|2
+players will only be released|.|bbc_sport_316.txt|.|1
+neath|.|bbc_sport_297.txt|.|1
+jonathan thomas|.|bbc_sport_310.txt|.|2
+changes|.|bbc_sport_310.txt|.|2
+giggs admits|.|bbc_sport_115.txt|.|2
+air|.|bbc_sport_401.txt|.|1
+captain|.|bbc_sport_347.txt|.|3|.|bbc_sport_274.txt|.|2|.|bbc_sport_500.txt|.|2|.|bbc_sport_302.txt|.|2|.|bbc_sport_342.txt|.|4|.|bbc_sport_314.txt|.|2|.|bbc_sport_115.txt|.|3|.|bbc_sport_291.txt|.|3|.|bbc_sport_388.txt|.|2|.|bbc_sport_348.txt|.|3|.|bbc_sport_373.txt|.|7
+kim|.|bbc_sport_443.txt|.|3
+ryan giggs will captain|.|bbc_sport_115.txt|.|1
+tom|.|bbc_sport_312.txt|.|2|.|bbc_sport_416.txt|.|2
+backing|.|bbc_sport_208.txt|.|2
+files lawsuit|.|bbc_sport_088.txt|.|1
+bennett told|.|bbc_sport_291.txt|.|2
+gap|.|bbc_sport_252.txt|.|2|.|bbc_sport_255.txt|.|2
+hooker|.|bbc_sport_297.txt|.|2
+missing|.|bbc_sport_089.txt|.|3|.|bbc_sport_054.txt|.|2|.|bbc_sport_051.txt|.|2|.|bbc_sport_080.txt|.|2
+meersseman|.|bbc_sport_110.txt|.|4
+dane|.|bbc_sport_507.txt|.|2
+thomas|.|bbc_sport_312.txt|.|5|.|bbc_sport_291.txt|.|5|.|bbc_sport_348.txt|.|4|.|bbc_sport_310.txt|.|5|.|bbc_sport_416.txt|.|5
+haas|.|bbc_sport_424.txt|.|3
+boot|.|bbc_sport_307.txt|.|2
+rafa benitez|.|bbc_sport_272.txt|.|2
+wales leading|.|bbc_sport_115.txt|.|1
+shane|.|bbc_sport_312.txt|.|5|.|bbc_sport_417.txt|.|2|.|bbc_sport_416.txt|.|5
+missed|.|bbc_sport_304.txt|.|1|.|bbc_sport_016.txt|.|2|.|bbc_sport_050.txt|.|1|.|bbc_sport_341.txt|.|1|.|bbc_sport_033.txt|.|2|.|bbc_sport_031.txt|.|1|.|bbc_sport_415.txt|.|2
+tom shanklin|.|bbc_sport_312.txt|.|2|.|bbc_sport_416.txt|.|2
+martyn|.|bbc_sport_312.txt|.|3|.|bbc_sport_395.txt|.|2|.|bbc_sport_416.txt|.|3
+fowler|.|bbc_sport_176.txt|.|3|.|bbc_sport_139.txt|.|5
+stars|.|bbc_sport_316.txt|.|2
+neck|.|bbc_sport_355.txt|.|2
+toshack said|.|bbc_sport_115.txt|.|2
+mcindoe|.|bbc_sport_225.txt|.|2
+steinmetz|.|bbc_sport_384.txt|.|4
+liverpool have been charged|.|bbc_sport_234.txt|.|1
+provisionally|.|bbc_sport_089.txt|.|2
+werder|.|bbc_sport_237.txt|.|1
+rusedski|.|bbc_sport_461.txt|.|5|.|bbc_sport_421.txt|.|9|.|bbc_sport_506.txt|.|3
+rose|.|bbc_sport_401.txt|.|2
+steroids|.|bbc_sport_091.txt|.|1
+shanklin|.|bbc_sport_312.txt|.|4|.|bbc_sport_333.txt|.|3|.|bbc_sport_416.txt|.|4
+clumsy|.|bbc_sport_307.txt|.|3

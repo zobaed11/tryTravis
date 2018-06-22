@@ -1,0 +1,17 @@
+80
+gritty|.|218.txt|.|2
+art|.|005.txt|.|7|.|085.txt|.|4
+ticketing system|.|181.txt|.|1
+research suggests|.|158.txt|.|1|.|146.txt|.|1
+jupiter|.|158.txt|.|3|.|146.txt|.|3|.|361.txt|.|3
+research has shown|.|166.txt|.|1|.|165.txt|.|1
+smart|.|085.txt|.|2
+artgarden|.|085.txt|.|3
+tour|.|274.txt|.|8
+new search|.|085.txt|.|1
+tv viewing|.|158.txt|.|2|.|146.txt|.|2
+engine|.|053.txt|.|7|.|010.txt|.|2|.|076.txt|.|2|.|232.txt|.|2|.|081.txt|.|4|.|393.txt|.|4|.|261.txt|.|4
+art but know|.|085.txt|.|1
+spot|.|081.txt|.|3|.|393.txt|.|3
+jupiter research|.|158.txt|.|3|.|146.txt|.|3
+engine users|.|081.txt|.|2|.|393.txt|.|2

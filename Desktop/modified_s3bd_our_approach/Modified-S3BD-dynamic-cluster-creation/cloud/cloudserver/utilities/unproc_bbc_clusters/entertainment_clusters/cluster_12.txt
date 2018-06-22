@@ -1,0 +1,93 @@
+12
+rink|.|bbc_entertainment_188.txt|.|2
+fee|.|bbc_entertainment_202.txt|.|2|.|bbc_entertainment_147.txt|.|3
+pop music|.|bbc_entertainment_184.txt|.|2
+sarah|.|bbc_entertainment_214.txt|.|2
+philip|.|bbc_entertainment_368.txt|.|3|.|bbc_entertainment_094.txt|.|2
+bbc news|.|bbc_entertainment_167.txt|.|2|.|bbc_entertainment_368.txt|.|3
+tips|.|bbc_entertainment_229.txt|.|2|.|bbc_entertainment_142.txt|.|2
+professional|.|bbc_entertainment_188.txt|.|2
+martin scorsese|.|bbc_entertainment_368.txt|.|7
+ruling|.|bbc_entertainment_063.txt|.|2
+son|.|bbc_entertainment_163.txt|.|2
+passport|.|bbc_entertainment_186.txt|.|3
+morgan|.|bbc_entertainment_372.txt|.|2
+orchestra|.|bbc_entertainment_280.txt|.|8
+ms love|.|bbc_entertainment_258.txt|.|5
+thames|.|bbc_entertainment_151.txt|.|2
+talent|.|bbc_entertainment_229.txt|.|3|.|bbc_entertainment_142.txt|.|3
+claim|.|bbc_entertainment_230.txt|.|3
+seattle|.|bbc_entertainment_257.txt|.|3
+blackadder|.|bbc_entertainment_310.txt|.|3
+springer|.|bbc_entertainment_192.txt|.|3
+ice rink|.|bbc_entertainment_188.txt|.|2
+made public|.|bbc_entertainment_108.txt|.|2
+licence|.|bbc_entertainment_202.txt|.|2|.|bbc_entertainment_147.txt|.|2
+bbc|.|bbc_entertainment_186.txt|.|3|.|bbc_entertainment_107.txt|.|2|.|bbc_entertainment_167.txt|.|2|.|bbc_entertainment_192.txt|.|4|.|bbc_entertainment_151.txt|.|4|.|bbc_entertainment_310.txt|.|3|.|bbc_entertainment_202.txt|.|9|.|bbc_entertainment_313.txt|.|4|.|bbc_entertainment_142.txt|.|4|.|bbc_entertainment_220.txt|.|2|.|bbc_entertainment_170.txt|.|2|.|bbc_entertainment_214.txt|.|7|.|bbc_entertainment_227.txt|.|2|.|bbc_entertainment_080.txt|.|3|.|bbc_entertainment_191.txt|.|8|.|bbc_entertainment_241.txt|.|4|.|bbc_entertainment_229.txt|.|4|.|bbc_entertainment_368.txt|.|4|.|bbc_entertainment_188.txt|.|2|.|bbc_entertainment_184.txt|.|11|.|bbc_entertainment_197.txt|.|2
+ras|.|bbc_entertainment_197.txt|.|2
+programmes|.|bbc_entertainment_313.txt|.|3
+denise|.|bbc_entertainment_186.txt|.|2
+topped sound|.|bbc_entertainment_229.txt|.|1|.|bbc_entertainment_142.txt|.|1
+bbc two|.|bbc_entertainment_184.txt|.|4
+mps|.|bbc_entertainment_202.txt|.|2
+george michael|.|bbc_entertainment_227.txt|.|2
+golden rose|.|bbc_entertainment_191.txt|.|3
+skates|.|bbc_entertainment_188.txt|.|1
+paradise|.|bbc_entertainment_186.txt|.|2
+john|.|bbc_entertainment_162.txt|.|2|.|bbc_entertainment_180.txt|.|4|.|bbc_entertainment_164.txt|.|3|.|bbc_entertainment_231.txt|.|4|.|bbc_entertainment_250.txt|.|2|.|bbc_entertainment_197.txt|.|7
+music lovers|.|bbc_entertainment_184.txt|.|2
+job|.|bbc_entertainment_192.txt|.|2
+replacement|.|bbc_entertainment_197.txt|.|2
+party|.|bbc_entertainment_229.txt|.|2
+ras kwame|.|bbc_entertainment_197.txt|.|2
+audit office|.|bbc_entertainment_202.txt|.|2
+perform live|.|bbc_entertainment_227.txt|.|1
+bbc radio|.|bbc_entertainment_197.txt|.|2
+session|.|bbc_entertainment_107.txt|.|2
+jamie foxx|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_264.txt|.|2|.|bbc_entertainment_368.txt|.|15
+no plans|.|bbc_entertainment_310.txt|.|2
+saturday night|.|bbc_entertainment_186.txt|.|2|.|bbc_entertainment_352.txt|.|2
+millennium|.|bbc_entertainment_310.txt|.|2
+winter|.|bbc_entertainment_214.txt|.|3
+river thames|.|bbc_entertainment_151.txt|.|2
+air|.|bbc_entertainment_197.txt|.|2
+scrutiny|.|bbc_entertainment_202.txt|.|3
+comeback|.|bbc_entertainment_310.txt|.|2|.|bbc_entertainment_176.txt|.|3
+entertainment and comedy|.|bbc_entertainment_313.txt|.|1
+erupts|.|bbc_entertainment_214.txt|.|1
+licence fee|.|bbc_entertainment_202.txt|.|2|.|bbc_entertainment_147.txt|.|2
+us rapper|.|bbc_entertainment_229.txt|.|2|.|bbc_entertainment_142.txt|.|2
+genre|.|bbc_entertainment_016.txt|.|2|.|bbc_entertainment_256.txt|.|5|.|bbc_entertainment_229.txt|.|2|.|bbc_entertainment_142.txt|.|2
+new comedy|.|bbc_entertainment_313.txt|.|2
+december|.|bbc_entertainment_107.txt|.|3
+departments|.|bbc_entertainment_313.txt|.|3
+scripts|.|bbc_entertainment_167.txt|.|3
+new show|.|bbc_entertainment_184.txt|.|2
+programme|.|bbc_entertainment_205.txt|.|3|.|bbc_entertainment_184.txt|.|6|.|bbc_entertainment_209.txt|.|2|.|bbc_entertainment_210.txt|.|3
+philip french|.|bbc_entertainment_368.txt|.|3
+news|.|bbc_entertainment_167.txt|.|2|.|bbc_entertainment_368.txt|.|4|.|bbc_entertainment_108.txt|.|3|.|bbc_entertainment_367.txt|.|3
+innovation|.|bbc_entertainment_220.txt|.|2
+attended|.|bbc_entertainment_192.txt|.|2|.|bbc_entertainment_071.txt|.|2
+website|.|bbc_entertainment_368.txt|.|3
+british shows|.|bbc_entertainment_191.txt|.|2
+spent|.|bbc_entertainment_202.txt|.|2
+job to report|.|bbc_entertainment_192.txt|.|2
+strictly|.|bbc_entertainment_188.txt|.|2
+michael to perform|.|bbc_entertainment_227.txt|.|1
+battle|.|bbc_entertainment_147.txt|.|2|.|bbc_entertainment_220.txt|.|2
+schedule|.|bbc_entertainment_214.txt|.|2|.|bbc_entertainment_292.txt|.|2
+john peel replacement|.|bbc_entertainment_197.txt|.|1
+sundays|.|bbc_entertainment_184.txt|.|2
+money|.|bbc_entertainment_111.txt|.|3|.|bbc_entertainment_202.txt|.|5|.|bbc_entertainment_182.txt|.|4
+supervolcano|.|bbc_entertainment_214.txt|.|4
+manics|.|bbc_entertainment_107.txt|.|1
+service|.|bbc_entertainment_202.txt|.|4
+songs|.|bbc_entertainment_151.txt|.|2|.|bbc_entertainment_259.txt|.|2|.|bbc_entertainment_248.txt|.|3|.|bbc_entertainment_265.txt|.|2
+martin|.|bbc_entertainment_198.txt|.|2|.|bbc_entertainment_372.txt|.|2|.|bbc_entertainment_368.txt|.|8|.|bbc_entertainment_159.txt|.|2
+world music|.|bbc_entertainment_241.txt|.|2
+report|.|bbc_entertainment_192.txt|.|2
+rose|.|bbc_entertainment_191.txt|.|3|.|bbc_entertainment_090.txt|.|2
+river|.|bbc_entertainment_151.txt|.|2
+professional skater|.|bbc_entertainment_188.txt|.|2
+john peel|.|bbc_entertainment_231.txt|.|2|.|bbc_entertainment_197.txt|.|6
+bloc party|.|bbc_entertainment_229.txt|.|2

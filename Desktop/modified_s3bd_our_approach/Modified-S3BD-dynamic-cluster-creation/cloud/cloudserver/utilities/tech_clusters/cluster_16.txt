@@ -1,0 +1,17 @@
+16
+phishing|.|217.txt|.|12|.|281.txt|.|4
+iran|.|035.txt|.|5
+libraries|.|236.txt|.|6
+interactive|.|046.txt|.|9|.|144.txt|.|2|.|230.txt|.|1
+digital terrestrial|.|371.txt|.|6
+titles|.|203.txt|.|5|.|056.txt|.|3|.|170.txt|.|6
+uk film|.|013.txt|.|2
+computer servers|.|013.txt|.|1
+colour|.|323.txt|.|4|.|051.txt|.|4
+measures|.|154.txt|.|1
+biggest|.|276.txt|.|3
+bloggers|.|355.txt|.|6|.|035.txt|.|5
+time|.|218.txt|.|4
+star wars|.|125.txt|.|5|.|313.txt|.|4|.|094.txt|.|4
+early|.|118.txt|.|2|.|181.txt|.|2|.|101.txt|.|2|.|387.txt|.|2
+hardware|.|358.txt|.|6|.|105.txt|.|2

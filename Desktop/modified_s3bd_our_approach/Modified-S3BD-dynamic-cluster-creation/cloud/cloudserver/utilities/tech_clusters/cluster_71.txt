@@ -1,0 +1,17 @@
+71
+digital data|.|220.txt|.|2
+cabs|.|375.txt|.|4
+autolink|.|010.txt|.|7
+black|.|375.txt|.|2
+saw|.|345.txt|.|2
+say|.|048.txt|.|2|.|081.txt|.|3|.|393.txt|.|3|.|104.txt|.|3
+sky plus|.|070.txt|.|5
+tool piero|.|028.txt|.|2
+black cabs|.|375.txt|.|2
+technologies|.|220.txt|.|1
+gadget lovers|.|341.txt|.|1|.|045.txt|.|1
+tansley|.|277.txt|.|4
+pleaded guilty|.|303.txt|.|3|.|075.txt|.|3
+putting a face|.|143.txt|.|2
+gadgets|.|143.txt|.|2|.|341.txt|.|5|.|222.txt|.|2|.|220.txt|.|2|.|127.txt|.|6|.|375.txt|.|7|.|045.txt|.|5|.|172.txt|.|6
+stuff|.|341.txt|.|3|.|045.txt|.|3

@@ -1,0 +1,17 @@
+20
+analysts|.|192.txt|.|3|.|384.txt|.|2|.|064.txt|.|2|.|300.txt|.|2|.|196.txt|.|1|.|158.txt|.|3|.|146.txt|.|3|.|338.txt|.|2
+motorsport|.|277.txt|.|5
+patients with severe|.|acne.txt|.|3
+agricultural information|.|006.txt|.|2
+viewers could even be rewarded|.|124.txt|.|1
+last|.|011.txt|.|2|.|064.txt|.|2|.|338.txt|.|2|.|218.txt|.|2|.|057.txt|.|2
+western europe|.|064.txt|.|2|.|338.txt|.|2
+ultraviolet readers|.|001.txt|.|2
+last year|.|011.txt|.|2|.|064.txt|.|2|.|338.txt|.|2|.|057.txt|.|2
+mr jacobsen|.|271.txt|.|4
+space|.|209.txt|.|2
+music downloads|.|383.txt|.|2|.|064.txt|.|2|.|338.txt|.|2
+coming year|.|170.txt|.|2
+downloads|.|383.txt|.|4|.|011.txt|.|2|.|064.txt|.|2|.|338.txt|.|2
+heart association|.|blood.txt|.|2
+gartner|.|389.txt|.|2|.|064.txt|.|5|.|234.txt|.|2|.|103.txt|.|3|.|338.txt|.|5|.|388.txt|.|3

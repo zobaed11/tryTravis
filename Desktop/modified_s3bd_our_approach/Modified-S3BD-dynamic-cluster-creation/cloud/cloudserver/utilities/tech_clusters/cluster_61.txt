@@ -1,0 +1,17 @@
+61
+rogue|.|397.txt|.|3|.|188.txt|.|2
+bt retail|.|352.txt|.|2
+diallers|.|397.txt|.|3
+dialler scams|.|397.txt|.|2
+telephone|.|136.txt|.|2
+bt communicator|.|136.txt|.|3
+retail|.|352.txt|.|2
+offer|.|233.txt|.|3|.|169.txt|.|3|.|344.txt|.|1|.|136.txt|.|3
+bt|.|352.txt|.|5|.|129.txt|.|10|.|254.txt|.|5|.|349.txt|.|4|.|175.txt|.|10|.|397.txt|.|7|.|136.txt|.|14
+telephone calls|.|136.txt|.|2
+rate|.|397.txt|.|5|.|188.txt|.|6
+rate numbers|.|397.txt|.|1|.|188.txt|.|4
+rogue diallers|.|397.txt|.|2
+bt offers|.|136.txt|.|1
+signing|.|129.txt|.|3|.|175.txt|.|3
+connections|.|058.txt|.|3|.|262.txt|.|2|.|129.txt|.|5|.|254.txt|.|2|.|175.txt|.|5|.|188.txt|.|2

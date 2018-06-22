@@ -1,0 +1,64 @@
+rowlands|.|bbc_entertainment_307.txt|.|6
+harry potter|.|bbc_tech_114.txt|.|2|.|bbc_entertainment_028.txt|.|4|.|bbc_entertainment_033.txt|.|3|.|bbc_entertainment_025.txt|.|6
+spike|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_052.txt|.|2|.|bbc_entertainment_356.txt|.|2
+scrubs star|.|bbc_entertainment_040.txt|.|1
+meadows|.|bbc_entertainment_075.txt|.|2
+strauss|.|bbc_entertainment_367.txt|.|4
+mcleish|.|bbc_sport_263.txt|.|4
+rank|.|bbc_business_021.txt|.|5
+bear|.|bbc_entertainment_042.txt|.|3
+four nominations|.|bbc_entertainment_040.txt|.|2
+barnard|.|bbc_sport_214.txt|.|2
+events|.|bbc_entertainment_060.txt|.|2|.|bbc_sport_084.txt|.|2|.|bbc_sport_462.txt|.|2|.|bbc_sport_052.txt|.|2|.|bbc_entertainment_367.txt|.|2
+border|.|bbc_politics_047.txt|.|1
+im|.|bbc_entertainment_042.txt|.|2
+enduring|.|bbc_entertainment_075.txt|.|2
+potter director|.|bbc_entertainment_028.txt|.|2
+intel researchers|.|bbc_tech_019.txt|.|2|.|bbc_tech_329.txt|.|2
+patsy rowlands|.|bbc_entertainment_307.txt|.|2
+chris|.|bbc_entertainment_367.txt|.|2|.|bbc_entertainment_159.txt|.|2|.|bbc_entertainment_181.txt|.|2
+sullivan|.|bbc_business_246.txt|.|10|.|bbc_business_100.txt|.|7
+atms|.|bbc_tech_122.txt|.|4
+catholic|.|bbc_entertainment_085.txt|.|5
+iraq and afghanistan|.|bbc_business_320.txt|.|2
+new network|.|bbc_tech_013.txt|.|2|.|bbc_business_092.txt|.|2|.|bbc_tech_293.txt|.|1|.|bbc_tech_156.txt|.|1
+urges|.|bbc_entertainment_281.txt|.|1
+car ownership|.|bbc_business_461.txt|.|2
+gear|.|bbc_tech_277.txt|.|4|.|bbc_sport_382.txt|.|3|.|bbc_sport_197.txt|.|2
+enduring love|.|bbc_entertainment_075.txt|.|2
+production|.|bbc_entertainment_228.txt|.|2|.|bbc_business_399.txt|.|5|.|bbc_business_307.txt|.|3|.|bbc_business_332.txt|.|2|.|bbc_business_164.txt|.|2|.|bbc_business_099.txt|.|3|.|bbc_entertainment_194.txt|.|2|.|bbc_business_049.txt|.|4|.|bbc_entertainment_055.txt|.|1|.|bbc_business_120.txt|.|5|.|bbc_entertainment_277.txt|.|3|.|bbc_entertainment_303.txt|.|5|.|bbc_business_009.txt|.|3
+carry on films|.|bbc_entertainment_307.txt|.|3
+rule|.|bbc_business_154.txt|.|5|.|bbc_politics_266.txt|.|1|.|bbc_business_195.txt|.|5|.|bbc_entertainment_077.txt|.|3
+kelly|.|bbc_politics_055.txt|.|8|.|bbc_sport_034.txt|.|3|.|bbc_politics_157.txt|.|3|.|bbc_politics_244.txt|.|5|.|bbc_sport_068.txt|.|2|.|bbc_sport_057.txt|.|6
+mr toshitsune|.|bbc_business_287.txt|.|3
+diageo|.|bbc_business_321.txt|.|7
+direct the third harry|.|bbc_entertainment_028.txt|.|1
+csa chief|.|bbc_politics_315.txt|.|2
+clocking|.|bbc_sport_060.txt|.|2
+bollywood dvd|.|bbc_entertainment_366.txt|.|1
+servers|.|bbc_tech_013.txt|.|1|.|bbc_tech_026.txt|.|3
+athens olympics|.|bbc_sport_016.txt|.|2
+sri lanka banks|.|bbc_business_228.txt|.|2
+own currency|.|bbc_business_372.txt|.|1
+regulars|.|bbc_entertainment_307.txt|.|1
+infected machines|.|bbc_tech_210.txt|.|3
+mini revolution|.|bbc_tech_336.txt|.|1
+universal|.|bbc_entertainment_077.txt|.|2
+national land|.|bbc_business_388.txt|.|2
+beastie boys|.|bbc_entertainment_147.txt|.|6
+mikhail|.|bbc_business_318.txt|.|2
+saturday morning|.|bbc_entertainment_274.txt|.|3
+specialist films|.|bbc_tech_013.txt|.|2
+carry on star|.|bbc_entertainment_307.txt|.|2
+distributor|.|bbc_entertainment_366.txt|.|2|.|bbc_business_122.txt|.|3
+manufacturing activity|.|bbc_business_370.txt|.|2
+computer servers|.|bbc_tech_013.txt|.|1
+nominated films|.|bbc_entertainment_075.txt|.|1
+daily news|.|bbc_entertainment_367.txt|.|2
+lit idol|.|bbc_entertainment_027.txt|.|2
+mauro|.|bbc_sport_350.txt|.|2
+digital cinema|.|bbc_tech_013.txt|.|2
+tour was cancelled|.|bbc_entertainment_246.txt|.|3
+johnny depp|.|bbc_entertainment_303.txt|.|2|.|bbc_entertainment_316.txt|.|2
+shane meadows|.|bbc_entertainment_075.txt|.|2
+hd|.|bbc_tech_306.txt|.|12

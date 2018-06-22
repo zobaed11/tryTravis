@@ -1,0 +1,64 @@
+date|.|bbc_sport_125.txt|.|3|.|bbc_sport_091.txt|.|3|.|bbc_sport_045.txt|.|3
+data|.|bbc_tech_207.txt|.|7|.|bbc_tech_220.txt|.|6|.|bbc_business_020.txt|.|3
+ban imposed|.|bbc_sport_048.txt|.|1
+standards committee|.|bbc_politics_089.txt|.|2
+firefox|.|bbc_tech_138.txt|.|13|.|bbc_tech_196.txt|.|10
+feel|.|bbc_sport_172.txt|.|1|.|bbc_politics_371.txt|.|2|.|bbc_tech_261.txt|.|2
+prince harry|.|bbc_politics_120.txt|.|3
+lord archer|.|bbc_politics_296.txt|.|6
+received advice|.|bbc_politics_089.txt|.|2
+lower taxes|.|bbc_politics_159.txt|.|2
+lifts take|.|bbc_tech_253.txt|.|2
+laura ashley|.|bbc_business_393.txt|.|7
+mean no|.|bbc_politics_013.txt|.|1
+distributing|.|bbc_sport_091.txt|.|1
+forgotten|.|bbc_politics_159.txt|.|3
+argentine|.|bbc_business_123.txt|.|2|.|bbc_business_501.txt|.|6|.|bbc_business_330.txt|.|4|.|bbc_sport_210.txt|.|2
+criticisms|.|bbc_politics_013.txt|.|2
+who said|.|bbc_politics_332.txt|.|2
+david davis|.|bbc_politics_282.txt|.|2
+howard dismisses|.|bbc_politics_275.txt|.|1
+sayeed to stand|.|bbc_politics_410.txt|.|1
+black hole|.|bbc_politics_364.txt|.|2
+image|.|bbc_politics_331.txt|.|6|.|bbc_tech_201.txt|.|11
+lower|.|bbc_politics_159.txt|.|2|.|bbc_business_505.txt|.|1|.|bbc_business_247.txt|.|2|.|bbc_business_207.txt|.|3
+york times|.|bbc_tech_138.txt|.|2
+dismissed|.|bbc_politics_275.txt|.|1|.|bbc_sport_045.txt|.|2
+mr sayeed|.|bbc_politics_410.txt|.|7
+working families|.|bbc_politics_364.txt|.|1
+tory|.|bbc_politics_374.txt|.|3|.|bbc_politics_013.txt|.|7|.|bbc_politics_408.txt|.|4|.|bbc_politics_344.txt|.|6|.|bbc_politics_331.txt|.|2|.|bbc_politics_212.txt|.|1|.|bbc_politics_277.txt|.|4|.|bbc_politics_410.txt|.|2|.|bbc_politics_087.txt|.|3|.|bbc_politics_106.txt|.|3|.|bbc_politics_034.txt|.|3|.|bbc_politics_415.txt|.|1|.|bbc_politics_007.txt|.|5|.|bbc_politics_275.txt|.|7|.|bbc_politics_089.txt|.|2|.|bbc_politics_364.txt|.|4|.|bbc_politics_371.txt|.|4|.|bbc_politics_120.txt|.|2|.|bbc_politics_308.txt|.|2|.|bbc_politics_282.txt|.|8|.|bbc_politics_332.txt|.|4|.|bbc_politics_271.txt|.|3|.|bbc_politics_351.txt|.|5|.|bbc_politics_394.txt|.|1|.|bbc_politics_329.txt|.|1|.|bbc_politics_159.txt|.|6|.|bbc_politics_409.txt|.|4|.|bbc_politics_316.txt|.|2|.|bbc_politics_262.txt|.|4|.|bbc_politics_404.txt|.|5|.|bbc_politics_320.txt|.|2|.|bbc_politics_376.txt|.|1|.|bbc_politics_296.txt|.|3
+fraud|.|bbc_tech_120.txt|.|5|.|bbc_business_196.txt|.|5|.|bbc_business_122.txt|.|2|.|bbc_tech_188.txt|.|4|.|bbc_business_079.txt|.|5|.|bbc_business_059.txt|.|4|.|bbc_business_236.txt|.|7|.|bbc_business_246.txt|.|7|.|bbc_business_100.txt|.|4|.|bbc_politics_138.txt|.|13
+lift|.|bbc_entertainment_179.txt|.|2|.|bbc_politics_344.txt|.|2|.|bbc_entertainment_216.txt|.|2
+wyatt|.|bbc_politics_415.txt|.|4
+bergamasco|.|bbc_sport_350.txt|.|4
+ground|.|bbc_sport_288.txt|.|1
+eminem|.|bbc_entertainment_151.txt|.|3|.|bbc_entertainment_144.txt|.|2
+conservative|.|bbc_politics_307.txt|.|4|.|bbc_politics_399.txt|.|7|.|bbc_politics_299.txt|.|2|.|bbc_politics_404.txt|.|4|.|bbc_politics_296.txt|.|2
+dr fox|.|bbc_politics_007.txt|.|3|.|bbc_politics_351.txt|.|3
+defended|.|bbc_politics_332.txt|.|1|.|bbc_sport_097.txt|.|1
+sir anthony|.|bbc_politics_308.txt|.|2
+milburn|.|bbc_politics_260.txt|.|3|.|bbc_politics_332.txt|.|4|.|bbc_politics_261.txt|.|5|.|bbc_politics_268.txt|.|7|.|bbc_politics_402.txt|.|7
+said voters|.|bbc_politics_277.txt|.|2
+life cuts|.|bbc_business_206.txt|.|1
+billion|.|bbc_entertainment_066.txt|.|2|.|bbc_politics_344.txt|.|4|.|bbc_business_067.txt|.|1
+ghosn|.|bbc_business_216.txt|.|10
+us dollar|.|bbc_business_180.txt|.|2
+tory spokesman|.|bbc_politics_332.txt|.|2
+spending cuts|.|bbc_politics_282.txt|.|2
+pay later|.|bbc_politics_364.txt|.|3
+copy|.|bbc_tech_043.txt|.|5|.|bbc_tech_326.txt|.|5
+restore|.|bbc_politics_159.txt|.|1
+media labs|.|bbc_tech_282.txt|.|2
+cook|.|bbc_politics_276.txt|.|3|.|bbc_entertainment_122.txt|.|8
+davis said|.|bbc_politics_282.txt|.|3
+quits|.|bbc_politics_404.txt|.|1|.|bbc_politics_281.txt|.|1
+frankfurt airport|.|bbc_business_064.txt|.|1
+ethnic vote|.|bbc_politics_371.txt|.|2
+mean|.|bbc_politics_013.txt|.|3
+london marathon|.|bbc_sport_072.txt|.|3
+attacked|.|bbc_politics_144.txt|.|2|.|bbc_politics_157.txt|.|1|.|bbc_politics_106.txt|.|2
+chorus|.|bbc_entertainment_045.txt|.|4
+tods|.|bbc_politics_089.txt|.|6|.|bbc_politics_045.txt|.|3
+anthony|.|bbc_entertainment_146.txt|.|4|.|bbc_politics_308.txt|.|2
+minimum|.|bbc_politics_103.txt|.|4|.|bbc_politics_380.txt|.|46
+tods murray|.|bbc_politics_089.txt|.|6|.|bbc_politics_045.txt|.|3

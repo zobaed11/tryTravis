@@ -1,0 +1,64 @@
+mendis told|.|bbc_business_398.txt|.|2
+tv documentary|.|bbc_entertainment_375.txt|.|2
+told|.|bbc_sport_330.txt|.|2|.|bbc_politics_021.txt|.|3|.|bbc_tech_296.txt|.|3|.|bbc_business_426.txt|.|3|.|bbc_politics_358.txt|.|2|.|bbc_sport_399.txt|.|2|.|bbc_sport_321.txt|.|2|.|bbc_politics_256.txt|.|4|.|bbc_tech_114.txt|.|4|.|bbc_sport_264.txt|.|2|.|bbc_politics_193.txt|.|3|.|bbc_sport_423.txt|.|2|.|bbc_sport_102.txt|.|2|.|bbc_politics_184.txt|.|4|.|bbc_politics_356.txt|.|3|.|bbc_sport_110.txt|.|2|.|bbc_entertainment_056.txt|.|2|.|bbc_politics_268.txt|.|5|.|bbc_politics_378.txt|.|3|.|bbc_entertainment_238.txt|.|2|.|bbc_sport_415.txt|.|2|.|bbc_tech_102.txt|.|3|.|bbc_politics_007.txt|.|3|.|bbc_sport_413.txt|.|2|.|bbc_politics_253.txt|.|5|.|bbc_sport_168.txt|.|2|.|bbc_entertainment_167.txt|.|2|.|bbc_sport_142.txt|.|2|.|bbc_sport_316.txt|.|2|.|bbc_entertainment_375.txt|.|6|.|bbc_business_203.txt|.|3|.|bbc_business_157.txt|.|2|.|bbc_sport_291.txt|.|2|.|bbc_politics_165.txt|.|2|.|bbc_entertainment_382.txt|.|2|.|bbc_politics_096.txt|.|2|.|bbc_tech_193.txt|.|3|.|bbc_politics_351.txt|.|3|.|bbc_politics_195.txt|.|2|.|bbc_business_398.txt|.|2|.|bbc_entertainment_134.txt|.|2|.|bbc_politics_218.txt|.|5|.|bbc_politics_201.txt|.|4|.|bbc_politics_097.txt|.|4
+sunday times|.|bbc_entertainment_346.txt|.|2|.|bbc_politics_112.txt|.|2|.|bbc_business_203.txt|.|3
+schulberg told|.|bbc_entertainment_056.txt|.|2
+independent game|.|bbc_tech_114.txt|.|1
+told bbc|.|bbc_tech_102.txt|.|2|.|bbc_politics_007.txt|.|2|.|bbc_politics_253.txt|.|2|.|bbc_sport_168.txt|.|2|.|bbc_entertainment_167.txt|.|2|.|bbc_politics_021.txt|.|2|.|bbc_sport_316.txt|.|2|.|bbc_sport_291.txt|.|2|.|bbc_tech_114.txt|.|3|.|bbc_politics_351.txt|.|2|.|bbc_sport_102.txt|.|2|.|bbc_politics_356.txt|.|2|.|bbc_politics_378.txt|.|2|.|bbc_politics_218.txt|.|2|.|bbc_sport_415.txt|.|2
+cost sri|.|bbc_business_398.txt|.|1
+evicted|.|bbc_entertainment_180.txt|.|3|.|bbc_entertainment_225.txt|.|3
+decided|.|bbc_sport_262.txt|.|2|.|bbc_politics_096.txt|.|1
+unanimous agreement|.|bbc_politics_193.txt|.|2
+british children|.|bbc_business_484.txt|.|2
+unanimous|.|bbc_politics_193.txt|.|2
+lita|.|bbc_sport_224.txt|.|4
+nyanga|.|bbc_sport_287.txt|.|2
+kenyon|.|bbc_sport_110.txt|.|2
+officers|.|bbc_politics_165.txt|.|2
+pubs|.|bbc_politics_202.txt|.|1|.|bbc_politics_165.txt|.|5
+child abuse|.|bbc_entertainment_375.txt|.|3
+told bbc news|.|bbc_entertainment_167.txt|.|2
+pax|.|bbc_entertainment_029.txt|.|3
+mr holiff|.|bbc_entertainment_320.txt|.|3
+milburn told|.|bbc_politics_268.txt|.|2
+oliver letwin|.|bbc_politics_268.txt|.|2
+blair told|.|bbc_politics_195.txt|.|2|.|bbc_politics_378.txt|.|2|.|bbc_politics_256.txt|.|2
+potter games|.|bbc_tech_114.txt|.|2
+barrow told|.|bbc_entertainment_238.txt|.|2
+candidates|.|bbc_politics_259.txt|.|2
+rail link|.|bbc_politics_038.txt|.|2
+botin|.|bbc_business_506.txt|.|6
+treasury|.|bbc_business_166.txt|.|3|.|bbc_politics_407.txt|.|3
+claims|.|bbc_politics_284.txt|.|3|.|bbc_business_003.txt|.|2|.|bbc_entertainment_009.txt|.|4|.|bbc_politics_370.txt|.|1|.|bbc_sport_235.txt|.|1|.|bbc_sport_036.txt|.|2|.|bbc_business_346.txt|.|4|.|bbc_politics_173.txt|.|2|.|bbc_sport_165.txt|.|2|.|bbc_business_025.txt|.|1
+trevor|.|bbc_sport_321.txt|.|2
+michael jackson|.|bbc_entertainment_375.txt|.|2
+press conference|.|bbc_entertainment_239.txt|.|2
+bnp appeal|.|bbc_politics_201.txt|.|1
+child|.|bbc_business_268.txt|.|6|.|bbc_politics_156.txt|.|2|.|bbc_politics_116.txt|.|2|.|bbc_politics_051.txt|.|4|.|bbc_politics_315.txt|.|3|.|bbc_tech_004.txt|.|4|.|bbc_entertainment_375.txt|.|4|.|bbc_tech_063.txt|.|4
+closure power|.|bbc_politics_165.txt|.|2
+pbs|.|bbc_entertainment_080.txt|.|5
+reporters|.|bbc_business_398.txt|.|2
+hughes|.|bbc_sport_179.txt|.|2|.|bbc_politics_268.txt|.|2
+germany|.|bbc_sport_194.txt|.|2|.|bbc_politics_039.txt|.|5|.|bbc_politics_292.txt|.|4
+majority voting|.|bbc_politics_193.txt|.|2
+interface|.|bbc_tech_068.txt|.|4
+arjen|.|bbc_sport_110.txt|.|1
+voting instincts|.|bbc_politics_201.txt|.|2
+fox said|.|bbc_politics_165.txt|.|4
+personal websites|.|bbc_tech_102.txt|.|3
+rinaldi told|.|bbc_sport_168.txt|.|2
+absolute disaster|.|bbc_entertainment_375.txt|.|2
+deport terror|.|bbc_politics_097.txt|.|2
+meersseman|.|bbc_sport_110.txt|.|4
+licensing|.|bbc_politics_165.txt|.|4
+cost to sri lanka|.|bbc_business_398.txt|.|1
+delta airlines|.|bbc_tech_102.txt|.|3
+brennan|.|bbc_sport_321.txt|.|4
+reforms|.|bbc_politics_209.txt|.|1|.|bbc_politics_268.txt|.|4|.|bbc_business_285.txt|.|1
+aston|.|bbc_business_105.txt|.|6|.|bbc_sport_264.txt|.|2|.|bbc_sport_175.txt|.|2
+management|.|bbc_tech_055.txt|.|1|.|bbc_business_203.txt|.|3|.|bbc_tech_314.txt|.|1
+absolute|.|bbc_entertainment_375.txt|.|2
+griffin told|.|bbc_politics_201.txt|.|2
+oliver|.|bbc_entertainment_072.txt|.|3|.|bbc_politics_268.txt|.|2
+new licensing|.|bbc_politics_165.txt|.|2
+kite told|.|bbc_entertainment_375.txt|.|2

@@ -1,0 +1,17 @@
+107
+pirates|.|303.txt|.|2|.|354.txt|.|2|.|075.txt|.|2|.|195.txt|.|2
+britain|.|354.txt|.|3
+cartridges|.|037.txt|.|5|.|333.txt|.|5
+ink cartridges|.|037.txt|.|2|.|333.txt|.|3
+secret service|.|120.txt|.|3
+monitoring|.|101.txt|.|3
+us customs|.|354.txt|.|3
+bush website|.|101.txt|.|2
+early hours|.|101.txt|.|2
+bailey|.|354.txt|.|2
+software pirates|.|354.txt|.|1
+criminals|.|217.txt|.|2|.|120.txt|.|4
+old bailey|.|354.txt|.|2
+blog readers|.|078.txt|.|1
+profit|.|354.txt|.|3
+who|.|207.txt|.|3|.|354.txt|.|7|.|092.txt|.|3|.|241.txt|.|4

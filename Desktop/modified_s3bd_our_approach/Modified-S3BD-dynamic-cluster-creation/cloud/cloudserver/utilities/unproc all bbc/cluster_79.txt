@@ -1,0 +1,64 @@
+report said|.|bbc_tech_033.txt|.|3|.|bbc_politics_006.txt|.|2
+business groups|.|bbc_business_166.txt|.|3
+shiga|.|bbc_business_216.txt|.|3
+losses|.|bbc_tech_119.txt|.|2|.|bbc_business_124.txt|.|1|.|bbc_business_467.txt|.|3
+johnson|.|bbc_sport_073.txt|.|6|.|bbc_sport_367.txt|.|10|.|bbc_politics_132.txt|.|3|.|bbc_sport_061.txt|.|4|.|bbc_politics_116.txt|.|2|.|bbc_entertainment_135.txt|.|3|.|bbc_politics_075.txt|.|6|.|bbc_sport_037.txt|.|4|.|bbc_politics_315.txt|.|5|.|bbc_business_300.txt|.|6|.|bbc_sport_083.txt|.|5
+supply|.|bbc_business_077.txt|.|2|.|bbc_business_397.txt|.|4
+nec|.|bbc_politics_143.txt|.|3
+cup win|.|bbc_sport_390.txt|.|1
+pager|.|bbc_politics_310.txt|.|2|.|bbc_politics_123.txt|.|2
+mobile deal|.|bbc_business_074.txt|.|3
+maloney|.|bbc_sport_108.txt|.|4
+fahrenheit|.|bbc_entertainment_326.txt|.|5
+weitz|.|bbc_entertainment_094.txt|.|6
+went|.|bbc_tech_187.txt|.|4|.|bbc_sport_066.txt|.|2|.|bbc_sport_288.txt|.|2|.|bbc_entertainment_123.txt|.|2|.|bbc_politics_255.txt|.|2|.|bbc_sport_426.txt|.|2|.|bbc_politics_006.txt|.|2
+agreement|.|bbc_politics_193.txt|.|2|.|bbc_business_222.txt|.|1|.|bbc_business_469.txt|.|6|.|bbc_business_407.txt|.|2
+crisis|.|bbc_tech_119.txt|.|2|.|bbc_business_330.txt|.|6|.|bbc_business_080.txt|.|3|.|bbc_politics_016.txt|.|2
+lng|.|bbc_business_158.txt|.|3
+severe energy crisis|.|bbc_business_080.txt|.|2
+signed|.|bbc_sport_186.txt|.|1|.|bbc_business_250.txt|.|1|.|bbc_business_158.txt|.|2|.|bbc_sport_185.txt|.|2|.|bbc_sport_196.txt|.|2
+boost voter turnouts|.|bbc_politics_323.txt|.|1
+camilla parker bowles|.|bbc_politics_104.txt|.|2
+oil deal|.|bbc_business_080.txt|.|1
+mr fuller|.|bbc_entertainment_319.txt|.|5
+slimming|.|bbc_business_302.txt|.|2
+mr neeson|.|bbc_entertainment_012.txt|.|2
+millennium exhibition|.|bbc_politics_006.txt|.|2
+right to sell|.|bbc_business_078.txt|.|2
+distance|.|bbc_business_162.txt|.|1
+tonnes of lng a year|.|bbc_business_158.txt|.|1
+michelle|.|bbc_entertainment_304.txt|.|2
+long distance|.|bbc_business_162.txt|.|1
+sale went|.|bbc_politics_006.txt|.|1
+millennium|.|bbc_entertainment_310.txt|.|2|.|bbc_politics_006.txt|.|4
+dividend payment|.|bbc_business_171.txt|.|2
+us rappers|.|bbc_entertainment_147.txt|.|1
+japanese car maker|.|bbc_business_013.txt|.|2
+dome|.|bbc_politics_006.txt|.|6
+tonnes of lng|.|bbc_business_158.txt|.|2
+sivabaek|.|bbc_sport_193.txt|.|2
+wolf brother|.|bbc_entertainment_304.txt|.|3
+cactus|.|bbc_business_302.txt|.|3
+asbos|.|bbc_politics_092.txt|.|3
+define|.|bbc_politics_169.txt|.|4
+advertise all its products|.|bbc_business_443.txt|.|1
+douglas|.|bbc_entertainment_330.txt|.|3
+stent|.|bbc_business_300.txt|.|1
+exhibition|.|bbc_entertainment_020.txt|.|2|.|bbc_politics_006.txt|.|2
+car maker|.|bbc_business_149.txt|.|2|.|bbc_business_462.txt|.|2|.|bbc_business_160.txt|.|2|.|bbc_business_013.txt|.|3|.|bbc_business_049.txt|.|2
+department store|.|bbc_business_155.txt|.|3
+purchase|.|bbc_business_268.txt|.|2|.|bbc_business_077.txt|.|2|.|bbc_business_238.txt|.|2|.|bbc_business_318.txt|.|2|.|bbc_business_005.txt|.|2
+employment|.|bbc_business_336.txt|.|2
+deccan|.|bbc_business_339.txt|.|4|.|bbc_business_407.txt|.|5
+specific|.|bbc_politics_379.txt|.|3|.|bbc_tech_053.txt|.|3
+mitsubishi motors|.|bbc_business_013.txt|.|5
+oil supply|.|bbc_business_077.txt|.|2
+natural gas|.|bbc_business_158.txt|.|2|.|bbc_business_420.txt|.|2|.|bbc_business_378.txt|.|2
+bondholders|.|bbc_business_093.txt|.|5
+deal with peugeot|.|bbc_business_013.txt|.|2
+annual sales|.|bbc_business_155.txt|.|2
+risks|.|bbc_tech_122.txt|.|3|.|bbc_business_289.txt|.|2|.|bbc_business_074.txt|.|1
+fender|.|bbc_entertainment_270.txt|.|2
+severe|.|bbc_business_080.txt|.|2
+profits warning|.|bbc_business_013.txt|.|1
+manifesto|.|bbc_politics_340.txt|.|3

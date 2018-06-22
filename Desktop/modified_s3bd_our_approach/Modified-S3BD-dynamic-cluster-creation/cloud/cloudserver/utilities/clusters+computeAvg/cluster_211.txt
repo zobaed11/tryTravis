@@ -1,0 +1,38 @@
+211
+pizza sauce|.|WET2957.txt|.|10
+specialty|.|WET2893.txt|.|4|.|WET5736.txt|.|82|.|WET1474.txt|.|12|.|WET5485.txt|.|7
+purdue|.|WET4062.txt|.|506
+horizontal burning|.|WET6147.txt|.|17
+mountainbike trail|.|WET2411.txt|.|10
+recipe|.|WET1964.txt|.|66|.|WET1004.txt|.|394|.|WET1831.txt|.|122|.|WET3515.txt|.|51|.|WET2561.txt|.|135
+adobe flash|.|WET2198.txt|.|10
+bottle opener|.|WET6271.txt|.|28
+episode|.|WET989.txt|.|15|.|WET3226.txt|.|11|.|WET4927.txt|.|637|.|WET2963.txt|.|605|.|WET1656.txt|.|27|.|WET5682.txt|.|9
+lot size|.|WET3747.txt|.|16
+scene|.|WET365.txt|.|33|.|WET3222.txt|.|57|.|WET2152.txt|.|20
+vlaanderen|.|WET1499.txt|.|44
+herbarium|.|WET5744.txt|.|13
+encyclopedia of life|.|WET342.txt|.|22
+saroyan|.|WET3553.txt|.|19
+selle|.|WET1758.txt|.|11
+kao|.|WET4684.txt|.|5
+master series|.|WET2750.txt|.|48
+kan|.|WET1169.txt|.|11
+savage|.|WET6011.txt|.|19
+use mouse|.|WET4508.txt|.|66
+uniprotkb|.|WET3185.txt|.|129
+profiling with pidns|.|WET4336.txt|.|16
+grenade|.|WET4885.txt|.|32|.|WET1138.txt|.|28
+sells|.|WET6197.txt|.|44
+doiexport recordbibtexrisrdfxmldblp|.|WET264.txt|.|112|.|WET4007.txt|.|79
+kbc|.|WET5909.txt|.|9
+cheatscrabble|.|WET1165.txt|.|10
+wager|.|WET5301.txt|.|2|.|WET1792.txt|.|2|.|WET2027.txt|.|24|.|WET3812.txt|.|2|.|WET3110.txt|.|2
+waterfowl|.|WET5442.txt|.|38
+member join|.|WET958.txt|.|19|.|WET5924.txt|.|19|.|WET2581.txt|.|59|.|WET5085.txt|.|18|.|WET4985.txt|.|25|.|WET1611.txt|.|10|.|WET1333.txt|.|34|.|WET1217.txt|.|12|.|WET6011.txt|.|27|.|WET5084.txt|.|32|.|WET6260.txt|.|48|.|WET4698.txt|.|36
+university of southern california|.|WET4036.txt|.|214|.|WET292.txt|.|246
+earth|.|WET6199.txt|.|26|.|WET5755.txt|.|42|.|WET4256.txt|.|42|.|WET1935.txt|.|23|.|WET666.txt|.|18
+oregon|.|WET1083.txt|.|221|.|WET4834.txt|.|219|.|WET4835.txt|.|219|.|WET4723.txt|.|204|.|WET2560.txt|.|42|.|WET3169.txt|.|18|.|WET1789.txt|.|16
+landwirtschaftliches|.|WET2659.txt|.|15
+uwispace|.|WET1013.txt|.|24
+moonsorrow jumalten aika|.|WET2356.txt|.|14

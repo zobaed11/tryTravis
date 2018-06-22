@@ -1,0 +1,17 @@
+22
+francisco|.|018.txt|.|2|.|346.txt|.|3
+cell chip|.|190.txt|.|2
+chip|.|320.txt|.|8|.|319.txt|.|2|.|350.txt|.|2|.|190.txt|.|10|.|050.txt|.|5|.|018.txt|.|9
+unveil|.|018.txt|.|1
+babinet|.|383.txt|.|5
+run|.|246.txt|.|5|.|320.txt|.|4|.|241.txt|.|2
+cell|.|142.txt|.|2|.|320.txt|.|8|.|319.txt|.|14|.|190.txt|.|4|.|018.txt|.|5
+processor|.|320.txt|.|6|.|319.txt|.|6|.|018.txt|.|3
+former|.|001.txt|.|2
+unveil the chip|.|018.txt|.|1
+playstation|.|112.txt|.|3|.|320.txt|.|6|.|190.txt|.|4
+details of the chip|.|018.txt|.|2
+raskin|.|068.txt|.|7
+mr sigarchi|.|035.txt|.|4
+drive|.|064.txt|.|3|.|301.txt|.|6|.|050.txt|.|2|.|338.txt|.|3|.|070.txt|.|2|.|336.txt|.|2
+designed|.|018.txt|.|3

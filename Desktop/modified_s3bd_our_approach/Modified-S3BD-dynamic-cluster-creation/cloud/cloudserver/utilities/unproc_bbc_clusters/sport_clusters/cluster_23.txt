@@ -1,0 +1,91 @@
+23
+named|.|bbc_sport_418.txt|.|2|.|bbc_sport_492.txt|.|2|.|bbc_sport_271.txt|.|2|.|bbc_sport_334.txt|.|2
+career|.|bbc_sport_443.txt|.|1|.|bbc_sport_275.txt|.|2|.|bbc_sport_038.txt|.|2
+rougerie|.|bbc_sport_287.txt|.|2
+injuries|.|bbc_sport_460.txt|.|1|.|bbc_sport_074.txt|.|2
+year|.|bbc_sport_492.txt|.|6|.|bbc_sport_271.txt|.|3|.|bbc_sport_034.txt|.|4|.|bbc_sport_352.txt|.|4|.|bbc_sport_410.txt|.|1|.|bbc_sport_386.txt|.|2|.|bbc_sport_094.txt|.|1|.|bbc_sport_241.txt|.|1|.|bbc_sport_364.txt|.|6|.|bbc_sport_035.txt|.|1|.|bbc_sport_423.txt|.|4|.|bbc_sport_065.txt|.|2|.|bbc_sport_090.txt|.|2|.|bbc_sport_476.txt|.|2|.|bbc_sport_078.txt|.|2|.|bbc_sport_038.txt|.|5|.|bbc_sport_069.txt|.|1|.|bbc_sport_445.txt|.|2|.|bbc_sport_493.txt|.|1|.|bbc_sport_030.txt|.|4|.|bbc_sport_066.txt|.|3|.|bbc_sport_354.txt|.|1|.|bbc_sport_413.txt|.|2|.|bbc_sport_168.txt|.|1|.|bbc_sport_499.txt|.|1|.|bbc_sport_185.txt|.|1|.|bbc_sport_397.txt|.|3|.|bbc_sport_460.txt|.|3|.|bbc_sport_435.txt|.|1|.|bbc_sport_007.txt|.|1|.|bbc_sport_338.txt|.|2|.|bbc_sport_001.txt|.|1|.|bbc_sport_014.txt|.|2|.|bbc_sport_388.txt|.|1|.|bbc_sport_442.txt|.|1|.|bbc_sport_031.txt|.|1|.|bbc_sport_057.txt|.|2|.|bbc_sport_100.txt|.|1|.|bbc_sport_092.txt|.|1|.|bbc_sport_501.txt|.|1|.|bbc_sport_210.txt|.|1|.|bbc_sport_495.txt|.|9|.|bbc_sport_116.txt|.|1|.|bbc_sport_015.txt|.|1|.|bbc_sport_426.txt|.|1|.|bbc_sport_019.txt|.|1
+juan|.|bbc_sport_423.txt|.|2|.|bbc_sport_472.txt|.|2
+triple crown|.|bbc_sport_364.txt|.|3
+last year|.|bbc_sport_352.txt|.|3|.|bbc_sport_397.txt|.|2|.|bbc_sport_476.txt|.|2
+body|.|bbc_sport_016.txt|.|2|.|bbc_sport_461.txt|.|2|.|bbc_sport_442.txt|.|2
+hold|.|bbc_sport_460.txt|.|2
+fifa|.|bbc_sport_271.txt|.|4
+hit|.|bbc_sport_460.txt|.|1
+wood believes|.|bbc_sport_352.txt|.|2
+radcliffe will compete|.|bbc_sport_065.txt|.|2
+ivanovic|.|bbc_sport_501.txt|.|5
+wood|.|bbc_sport_352.txt|.|6
+butler|.|bbc_sport_078.txt|.|3|.|bbc_sport_083.txt|.|3
+struggling|.|bbc_sport_127.txt|.|2
+vaughan claimed|.|bbc_sport_153.txt|.|1
+rafa|.|bbc_sport_272.txt|.|2
+home tie|.|bbc_sport_192.txt|.|3
+sprinter|.|bbc_sport_035.txt|.|2|.|bbc_sport_047.txt|.|2
+double olympic|.|bbc_sport_057.txt|.|5
+double|.|bbc_sport_066.txt|.|5|.|bbc_sport_075.txt|.|3|.|bbc_sport_068.txt|.|1|.|bbc_sport_491.txt|.|2|.|bbc_sport_057.txt|.|6
+testing|.|bbc_sport_035.txt|.|1
+olympics|.|bbc_sport_047.txt|.|2|.|bbc_sport_017.txt|.|3|.|bbc_sport_016.txt|.|2|.|bbc_sport_092.txt|.|2|.|bbc_sport_090.txt|.|1|.|bbc_sport_051.txt|.|3|.|bbc_sport_033.txt|.|1|.|bbc_sport_094.txt|.|2|.|bbc_sport_241.txt|.|1|.|bbc_sport_043.txt|.|3
+chester|.|bbc_sport_153.txt|.|6
+said mcilroy|.|bbc_sport_014.txt|.|2
+finished|.|bbc_sport_009.txt|.|3|.|bbc_sport_364.txt|.|5|.|bbc_sport_083.txt|.|2
+comfortably|.|bbc_sport_069.txt|.|2
+athens|.|bbc_sport_016.txt|.|4|.|bbc_sport_034.txt|.|7|.|bbc_sport_075.txt|.|2|.|bbc_sport_038.txt|.|5|.|bbc_sport_093.txt|.|3|.|bbc_sport_030.txt|.|7
+major medal|.|bbc_sport_001.txt|.|2
+davenport has put|.|bbc_sport_460.txt|.|1
+matches|.|bbc_sport_423.txt|.|2|.|bbc_sport_474.txt|.|2|.|bbc_sport_204.txt|.|3|.|bbc_sport_362.txt|.|2|.|bbc_sport_455.txt|.|2
+simon royce|.|bbc_sport_173.txt|.|2
+carr|.|bbc_sport_105.txt|.|3
+careers|.|bbc_sport_241.txt|.|1
+sunday|.|bbc_sport_323.txt|.|2|.|bbc_sport_338.txt|.|2|.|bbc_sport_465.txt|.|2|.|bbc_sport_457.txt|.|2
+ethiopia|.|bbc_sport_078.txt|.|3
+win grand slam|.|bbc_sport_352.txt|.|1
+roche|.|bbc_sport_494.txt|.|5
+jimmy|.|bbc_sport_464.txt|.|3|.|bbc_sport_306.txt|.|2
+spain|.|bbc_sport_499.txt|.|2|.|bbc_sport_142.txt|.|2|.|bbc_sport_078.txt|.|2|.|bbc_sport_216.txt|.|6
+drug tests|.|bbc_sport_082.txt|.|1
+boca|.|bbc_sport_210.txt|.|3
+advice|.|bbc_sport_094.txt|.|2
+linford|.|bbc_sport_094.txt|.|2
+harry|.|bbc_sport_127.txt|.|2
+irish|.|bbc_sport_131.txt|.|2|.|bbc_sport_378.txt|.|2|.|bbc_sport_294.txt|.|7|.|bbc_sport_314.txt|.|5|.|bbc_sport_364.txt|.|7|.|bbc_sport_321.txt|.|2|.|bbc_sport_030.txt|.|5
+makofo|.|bbc_sport_224.txt|.|3
+candela|.|bbc_sport_185.txt|.|4
+kelly|.|bbc_sport_034.txt|.|3|.|bbc_sport_068.txt|.|2|.|bbc_sport_057.txt|.|6
+final game|.|bbc_sport_241.txt|.|2
+lot|.|bbc_sport_038.txt|.|3|.|bbc_sport_511.txt|.|3
+juniors|.|bbc_sport_210.txt|.|2
+declining|.|bbc_sport_445.txt|.|2
+ferrero|.|bbc_sport_423.txt|.|8|.|bbc_sport_428.txt|.|2
+criminals|.|bbc_sport_046.txt|.|1
+olympic gold|.|bbc_sport_057.txt|.|2
+medal|.|bbc_sport_059.txt|.|4|.|bbc_sport_001.txt|.|4|.|bbc_sport_086.txt|.|2|.|bbc_sport_030.txt|.|2
+cheats|.|bbc_sport_034.txt|.|2|.|bbc_sport_235.txt|.|1|.|bbc_sport_046.txt|.|2
+expectations of winning|.|bbc_sport_038.txt|.|2
+working|.|bbc_sport_031.txt|.|1
+honours|.|bbc_sport_090.txt|.|2
+retired|.|bbc_sport_241.txt|.|1
+expectations|.|bbc_sport_038.txt|.|2
+event|.|bbc_sport_034.txt|.|2|.|bbc_sport_447.txt|.|2|.|bbc_sport_025.txt|.|3|.|bbc_sport_502.txt|.|2|.|bbc_sport_474.txt|.|2
+next year|.|bbc_sport_413.txt|.|2|.|bbc_sport_038.txt|.|2
+finger|.|bbc_sport_338.txt|.|2
+infected|.|bbc_sport_338.txt|.|2
+thoughts|.|bbc_sport_034.txt|.|1
+race|.|bbc_sport_060.txt|.|2|.|bbc_sport_209.txt|.|2|.|bbc_sport_053.txt|.|4|.|bbc_sport_065.txt|.|5|.|bbc_sport_078.txt|.|4|.|bbc_sport_038.txt|.|7|.|bbc_sport_007.txt|.|3|.|bbc_sport_069.txt|.|3|.|bbc_sport_272.txt|.|3|.|bbc_sport_070.txt|.|3|.|bbc_sport_019.txt|.|4
+relay|.|bbc_sport_028.txt|.|3|.|bbc_sport_090.txt|.|2|.|bbc_sport_075.txt|.|3|.|bbc_sport_094.txt|.|2
+hingis makes|.|bbc_sport_442.txt|.|1
+irish rugby|.|bbc_sport_364.txt|.|3
+outdoor season|.|bbc_sport_057.txt|.|1
+tindall|.|bbc_sport_419.txt|.|5|.|bbc_sport_394.txt|.|4|.|bbc_sport_393.txt|.|3
+dwain|.|bbc_sport_092.txt|.|2
+prinz|.|bbc_sport_271.txt|.|2
+favourite|.|bbc_sport_034.txt|.|2
+rejoin the national|.|bbc_sport_100.txt|.|2
+great|.|bbc_sport_397.txt|.|2|.|bbc_sport_500.txt|.|4|.|bbc_sport_078.txt|.|2|.|bbc_sport_143.txt|.|2|.|bbc_sport_370.txt|.|5|.|bbc_sport_074.txt|.|2|.|bbc_sport_218.txt|.|2
+outdoor|.|bbc_sport_057.txt|.|2
+mbe|.|bbc_sport_090.txt|.|2
+ferrero insists|.|bbc_sport_423.txt|.|2
+week working|.|bbc_sport_031.txt|.|1
+athletics|.|bbc_sport_017.txt|.|3|.|bbc_sport_016.txt|.|3|.|bbc_sport_034.txt|.|3|.|bbc_sport_027.txt|.|3|.|bbc_sport_081.txt|.|2|.|bbc_sport_013.txt|.|2|.|bbc_sport_021.txt|.|2|.|bbc_sport_015.txt|.|5|.|bbc_sport_031.txt|.|2|.|bbc_sport_043.txt|.|6|.|bbc_sport_030.txt|.|5|.|bbc_sport_019.txt|.|1
+win a grand|.|bbc_sport_352.txt|.|1
+anniversary|.|bbc_sport_065.txt|.|2
+blatter|.|bbc_sport_271.txt|.|2

@@ -1,0 +1,17 @@
+123
+net browser|.|310.txt|.|2|.|089.txt|.|2
+marine chronometer|.|379.txt|.|4|.|009.txt|.|4
+visiting|.|385.txt|.|2
+stations|.|230.txt|.|2
+chronometer|.|379.txt|.|4|.|009.txt|.|4
+londoners|.|230.txt|.|2
+marine|.|379.txt|.|4|.|009.txt|.|4
+fitted|.|230.txt|.|2
+vulnerable|.|116.txt|.|2|.|290.txt|.|2
+knife|.|379.txt|.|6
+apple laptop|.|379.txt|.|2|.|009.txt|.|2
+cabir strains|.|116.txt|.|1|.|290.txt|.|1
+cups flour|.|bread.txt|.|5
+mobile phone|.|379.txt|.|6|.|116.txt|.|2|.|234.txt|.|2|.|230.txt|.|2|.|325.txt|.|4|.|098.txt|.|2|.|338.txt|.|1|.|109.txt|.|2|.|208.txt|.|5|.|389.txt|.|2|.|064.txt|.|1|.|289.txt|.|2|.|009.txt|.|5|.|093.txt|.|1|.|050.txt|.|1|.|290.txt|.|2|.|305.txt|.|2
+vulnerable phone|.|116.txt|.|2|.|290.txt|.|2
+audio on a mobile|.|325.txt|.|1

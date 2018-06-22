@@ -1,0 +1,38 @@
+105
+financial|.|WET2706.txt|.|8|.|WET137.txt|.|75|.|WET4824.txt|.|15|.|WET3663.txt|.|26|.|WET5207.txt|.|23|.|WET4831.txt|.|84|.|WET6053.txt|.|30|.|WET3325.txt|.|38
+paz wrap|.|WET2768.txt|.|15
+financial services|.|WET137.txt|.|46|.|WET3663.txt|.|22
+wsj|.|WET137.txt|.|237|.|WET136.txt|.|231|.|WET3880.txt|.|232|.|WET3879.txt|.|218|.|WET3325.txt|.|119
+foreign|.|WET3881.txt|.|22
+choucroute de la mer|.|WET812.txt|.|54
+body glove|.|WET1325.txt|.|7
+cheese location|.|WET187.txt|.|42
+horizontal|.|WET6147.txt|.|20
+email alerts|.|WET1970.txt|.|45
+szenci|.|WET811.txt|.|22
+feature|.|WET4682.txt|.|54|.|WET1724.txt|.|10
+preferite|.|WET4268.txt|.|11
+moneybeat|.|WET137.txt|.|51
+wayne|.|WET1791.txt|.|50|.|WET2736.txt|.|7
+hillary|.|WET4948.txt|.|8
+tech|.|WET2695.txt|.|34|.|WET136.txt|.|152|.|WET46.txt|.|49|.|WET5875.txt|.|47|.|WET4682.txt|.|77|.|WET3879.txt|.|140|.|WET1509.txt|.|22|.|WET3321.txt|.|55|.|WET3881.txt|.|157|.|WET3325.txt|.|63|.|WET1325.txt|.|15|.|WET1083.txt|.|82|.|WET5260.txt|.|28|.|WET137.txt|.|163|.|WET2136.txt|.|88|.|WET5876.txt|.|61|.|WET1227.txt|.|12|.|WET3880.txt|.|155|.|WET5326.txt|.|30|.|WET2324.txt|.|218|.|WET4367.txt|.|18
+aga khan|.|WET1140.txt|.|41
+silk|.|WET4660.txt|.|25
+tech report|.|WET4682.txt|.|40
+box score|.|WET4730.txt|.|32|.|WET991.txt|.|16
+max volume|.|WET2047.txt|.|8
+poweredge|.|WET924.txt|.|41
+cfo journal|.|WET137.txt|.|44|.|WET3881.txt|.|44
+condensate|.|WET6307.txt|.|435
+foreign edition podcast|.|WET3881.txt|.|22
+repair man|.|WET46.txt|.|66
+confirm|.|WET1502.txt|.|22|.|WET5253.txt|.|18
+hill|.|WET2448.txt|.|17|.|WET303.txt|.|16|.|WET1402.txt|.|22|.|WET1602.txt|.|15
+cyril|.|WET4682.txt|.|59
+cpus graphics|.|WET4682.txt|.|18
+gt catalog|.|WET4605.txt|.|12
+arts in review|.|WET3881.txt|.|44
+tech trader daily|.|WET137.txt|.|22|.|WET3879.txt|.|20|.|WET3881.txt|.|22
+appliance parts|.|WET46.txt|.|13
+real time economics|.|WET137.txt|.|54|.|WET136.txt|.|53|.|WET3879.txt|.|52|.|WET3881.txt|.|51
+jones|.|WET2090.txt|.|65|.|WET137.txt|.|86|.|WET136.txt|.|89|.|WET5834.txt|.|66|.|WET3838.txt|.|41

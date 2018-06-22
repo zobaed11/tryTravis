@@ -1,0 +1,64 @@
+ryan|.|bbc_sport_115.txt|.|2|.|bbc_sport_310.txt|.|2
+admits|.|bbc_sport_115.txt|.|3
+mcbryde|.|bbc_sport_341.txt|.|2
+england and wales|.|bbc_politics_239.txt|.|2
+gareth|.|bbc_sport_291.txt|.|2|.|bbc_sport_348.txt|.|2
+red|.|bbc_sport_269.txt|.|1|.|bbc_tech_230.txt|.|1|.|bbc_entertainment_354.txt|.|4|.|bbc_entertainment_064.txt|.|2|.|bbc_sport_401.txt|.|2
+hal|.|bbc_sport_341.txt|.|2
+game with italy|.|bbc_sport_304.txt|.|1
+striking civil servants|.|bbc_politics_210.txt|.|1
+muslim community|.|bbc_politics_185.txt|.|3
+fitness|.|bbc_sport_341.txt|.|2
+decline|.|bbc_sport_326.txt|.|2
+health minister|.|bbc_politics_124.txt|.|3
+wales|.|bbc_politics_239.txt|.|2|.|bbc_sport_357.txt|.|8|.|bbc_sport_356.txt|.|4|.|bbc_sport_297.txt|.|4|.|bbc_politics_124.txt|.|10|.|bbc_sport_403.txt|.|7|.|bbc_sport_115.txt|.|9|.|bbc_tech_028.txt|.|3|.|bbc_sport_416.txt|.|9|.|bbc_politics_044.txt|.|2|.|bbc_sport_396.txt|.|3|.|bbc_sport_304.txt|.|5|.|bbc_sport_299.txt|.|2|.|bbc_sport_313.txt|.|3|.|bbc_sport_326.txt|.|3|.|bbc_sport_348.txt|.|3|.|bbc_sport_359.txt|.|5|.|bbc_politics_121.txt|.|8|.|bbc_sport_413.txt|.|9|.|bbc_sport_392.txt|.|2|.|bbc_politics_210.txt|.|11|.|bbc_sport_341.txt|.|4|.|bbc_sport_316.txt|.|5|.|bbc_politics_185.txt|.|4|.|bbc_sport_291.txt|.|8|.|bbc_sport_310.txt|.|4|.|bbc_sport_362.txt|.|4|.|bbc_politics_096.txt|.|3|.|bbc_sport_401.txt|.|6|.|bbc_sport_312.txt|.|9|.|bbc_sport_129.txt|.|4|.|bbc_sport_355.txt|.|9|.|bbc_sport_320.txt|.|7|.|bbc_sport_292.txt|.|3|.|bbc_sport_307.txt|.|4
+dr gibbons|.|bbc_politics_124.txt|.|7
+tremendous change|.|bbc_politics_124.txt|.|2
+lists|.|bbc_politics_124.txt|.|7|.|bbc_business_049.txt|.|1
+detain|.|bbc_politics_239.txt|.|2
+john toshack|.|bbc_sport_115.txt|.|2
+toshack|.|bbc_sport_115.txt|.|7
+south wales|.|bbc_politics_185.txt|.|3
+raising money|.|bbc_politics_185.txt|.|2
+free sports|.|bbc_politics_171.txt|.|2
+ryan giggs|.|bbc_sport_115.txt|.|2
+light bulb|.|bbc_entertainment_001.txt|.|1
+trying to buy|.|bbc_business_171.txt|.|2
+alda|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+speaking fees|.|bbc_politics_320.txt|.|2
+giggs admits|.|bbc_sport_115.txt|.|2
+robbie|.|bbc_sport_130.txt|.|2|.|bbc_entertainment_253.txt|.|27|.|bbc_sport_217.txt|.|2
+final game|.|bbc_sport_241.txt|.|2
+new zealand|.|bbc_sport_328.txt|.|3|.|bbc_sport_371.txt|.|30|.|bbc_sport_385.txt|.|2|.|bbc_sport_340.txt|.|2|.|bbc_sport_382.txt|.|4|.|bbc_sport_329.txt|.|3|.|bbc_sport_387.txt|.|2|.|bbc_sport_368.txt|.|1|.|bbc_sport_386.txt|.|3|.|bbc_sport_308.txt|.|2|.|bbc_sport_402.txt|.|4|.|bbc_sport_400.txt|.|2
+mr thomas|.|bbc_politics_002.txt|.|3
+ryan giggs will captain|.|bbc_sport_115.txt|.|1
+current target|.|bbc_politics_121.txt|.|2
+juniors|.|bbc_sport_210.txt|.|2
+weakness|.|bbc_business_053.txt|.|1
+emergency committee|.|bbc_tech_027.txt|.|2|.|bbc_tech_315.txt|.|2
+bennett told|.|bbc_sport_291.txt|.|2
+hooker|.|bbc_sport_297.txt|.|2
+roy|.|bbc_sport_137.txt|.|2|.|bbc_entertainment_018.txt|.|3|.|bbc_sport_282.txt|.|2
+scottish students|.|bbc_politics_047.txt|.|3
+bellamy should play|.|bbc_sport_187.txt|.|1
+federation|.|bbc_politics_239.txt|.|3|.|bbc_sport_170.txt|.|2|.|bbc_sport_258.txt|.|2|.|bbc_sport_257.txt|.|2
+cesar|.|bbc_entertainment_067.txt|.|3|.|bbc_entertainment_063.txt|.|5
+undermine|.|bbc_politics_191.txt|.|2
+strike across wales|.|bbc_politics_210.txt|.|1
+waiting less than|.|bbc_politics_121.txt|.|1
+foreign nationals|.|bbc_politics_205.txt|.|2
+phpbb|.|bbc_tech_257.txt|.|3
+assassinated|.|bbc_business_167.txt|.|1
+wales leading|.|bbc_sport_115.txt|.|1
+portable media|.|bbc_tech_222.txt|.|8
+ruddock|.|bbc_sport_359.txt|.|5|.|bbc_sport_307.txt|.|5
+federation has said|.|bbc_politics_239.txt|.|1
+patients in wales|.|bbc_politics_121.txt|.|3
+black players|.|bbc_sport_216.txt|.|2
+toshack said|.|bbc_sport_115.txt|.|2
+gibbons|.|bbc_politics_124.txt|.|8
+monthly waiting|.|bbc_politics_121.txt|.|2
+confrontational|.|bbc_politics_239.txt|.|2
+robinson said|.|bbc_politics_368.txt|.|1|.|bbc_sport_406.txt|.|1|.|bbc_sport_383.txt|.|2|.|bbc_sport_326.txt|.|1
+waiting lists|.|bbc_politics_124.txt|.|4|.|bbc_business_049.txt|.|1
+clumsy|.|bbc_sport_307.txt|.|3

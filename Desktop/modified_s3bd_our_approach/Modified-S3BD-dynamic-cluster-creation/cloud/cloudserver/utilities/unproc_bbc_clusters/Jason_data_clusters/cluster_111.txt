@@ -1,0 +1,38 @@
+111
+birthday|.|WET2599.txt|.|189|.|WET1915.txt|.|66|.|WET6301.txt|.|95|.|WET4465.txt|.|35|.|WET5653.txt|.|121|.|WET5070.txt|.|36|.|WET2973.txt|.|87|.|WET2562.txt|.|90|.|WET3630.txt|.|21
+baby shower|.|WET1450.txt|.|8|.|WET2973.txt|.|97
+baby shower invitations|.|WET2973.txt|.|66
+photoslocal vendors|.|WET3267.txt|.|20
+bands|.|WET1898.txt|.|92|.|WET1815.txt|.|25
+talklocal|.|WET3267.txt|.|20
+wedding invitations|.|WET2973.txt|.|83
+platinum|.|WET1898.txt|.|79
+carat diamond engagement|.|WET1898.txt|.|50
+vintage wedding|.|WET4770.txt|.|32
+invitations|.|WET3078.txt|.|181|.|WET2593.txt|.|99|.|WET5238.txt|.|78|.|WET2592.txt|.|50|.|WET2973.txt|.|694
+wedding ideas|.|WET2005.txt|.|12
+cut diamond engagement|.|WET1898.txt|.|50
+citylocal|.|WET3267.txt|.|20
+change|.|WET5666.txt|.|5|.|WET5015.txt|.|34|.|WET3267.txt|.|37|.|WET4302.txt|.|24|.|WET3049.txt|.|18
+change citylocal talklocal|.|WET3267.txt|.|20
+carat|.|WET1898.txt|.|75
+baptism|.|WET2973.txt|.|160
+wedding planner|.|WET957.txt|.|19
+real wedding|.|WET3651.txt|.|4
+chocolate trading|.|WET5230.txt|.|30|.|WET5228.txt|.|57
+weddingslocal|.|WET3267.txt|.|20
+weddingslocal photoslocal vendors|.|WET3267.txt|.|20
+citylocal talklocal weddingslocal|.|WET3267.txt|.|20
+vendors after wedding|.|WET3267.txt|.|11
+automated|.|WET4770.txt|.|8
+taiwan|.|WET1765.txt|.|24
+wedding bands|.|WET1898.txt|.|80|.|WET1815.txt|.|6
+wedding mapper|.|WET3268.txt|.|30|.|WET3267.txt|.|72
+contact support|.|WET4770.txt|.|8
+ideas real weddings|.|WET2005.txt|.|6
+change citylocal|.|WET3267.txt|.|20
+dresses wedding|.|WET2547.txt|.|11
+thank|.|WET2594.txt|.|48|.|WET2973.txt|.|104
+venues|.|WET2005.txt|.|66
+wedding venues|.|WET2005.txt|.|42
+option|.|WET2005.txt|.|32|.|WET3469.txt|.|41|.|WET5268.txt|.|11

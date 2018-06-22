@@ -1,0 +1,64 @@
+quick|.|bbc_sport_377.txt|.|2|.|bbc_sport_248.txt|.|4
+concerned|.|bbc_tech_122.txt|.|1|.|bbc_business_079.txt|.|3
+mckoy|.|bbc_sport_224.txt|.|2
+concern over rfid|.|bbc_tech_061.txt|.|1|.|bbc_tech_321.txt|.|1
+us retailer|.|bbc_business_361.txt|.|1
+copying|.|bbc_tech_285.txt|.|2|.|bbc_tech_304.txt|.|2
+look like|.|bbc_tech_093.txt|.|1
+chicago|.|bbc_entertainment_030.txt|.|2|.|bbc_entertainment_343.txt|.|2
+auctions|.|bbc_tech_209.txt|.|1|.|bbc_entertainment_018.txt|.|1|.|bbc_business_079.txt|.|1
+cars in the us|.|bbc_business_430.txt|.|1
+bergh|.|bbc_sport_382.txt|.|2
+purchases|.|bbc_tech_061.txt|.|2|.|bbc_tech_321.txt|.|2
+reported by consumers|.|bbc_business_079.txt|.|1
+pace|.|bbc_business_052.txt|.|2|.|bbc_tech_254.txt|.|2|.|bbc_tech_093.txt|.|3|.|bbc_sport_070.txt|.|2
+complaints|.|bbc_business_079.txt|.|4
+milk|.|bbc_business_338.txt|.|4
+new rules|.|bbc_tech_067.txt|.|3|.|bbc_business_015.txt|.|2|.|bbc_tech_382.txt|.|3|.|bbc_politics_215.txt|.|5
+illegal|.|bbc_politics_134.txt|.|3|.|bbc_business_197.txt|.|2|.|bbc_tech_285.txt|.|3|.|bbc_tech_304.txt|.|3|.|bbc_tech_194.txt|.|3
+erfurt|.|bbc_sport_064.txt|.|2
+innovations|.|bbc_tech_225.txt|.|2|.|bbc_tech_212.txt|.|2
+than half|.|bbc_tech_061.txt|.|2|.|bbc_tech_321.txt|.|2
+hybrid|.|bbc_business_430.txt|.|11
+banning hunting|.|bbc_politics_169.txt|.|1
+shops|.|bbc_tech_061.txt|.|2|.|bbc_tech_363.txt|.|2
+us consumers|.|bbc_business_079.txt|.|2|.|bbc_business_361.txt|.|1
+jd|.|bbc_business_430.txt|.|1
+selling|.|bbc_tech_209.txt|.|2|.|bbc_tech_227.txt|.|2|.|bbc_tech_398.txt|.|2|.|bbc_entertainment_160.txt|.|1|.|bbc_business_280.txt|.|2|.|bbc_entertainment_181.txt|.|2|.|bbc_sport_044.txt|.|2
+cebit fever|.|bbc_tech_395.txt|.|2
+illegal copying|.|bbc_tech_285.txt|.|2|.|bbc_tech_304.txt|.|2
+sellers|.|bbc_tech_067.txt|.|3|.|bbc_tech_382.txt|.|3
+state opera|.|bbc_entertainment_023.txt|.|1|.|bbc_entertainment_273.txt|.|1
+advisory panel|.|bbc_business_191.txt|.|2
+mr raskin|.|bbc_tech_068.txt|.|6
+penalty notices|.|bbc_politics_030.txt|.|2
+mike|.|bbc_sport_419.txt|.|2|.|bbc_entertainment_373.txt|.|2|.|bbc_sport_394.txt|.|2|.|bbc_sport_316.txt|.|2|.|bbc_sport_393.txt|.|3|.|bbc_entertainment_352.txt|.|4|.|bbc_entertainment_118.txt|.|2
+portable player|.|bbc_tech_183.txt|.|2
+arnesen denies|.|bbc_sport_207.txt|.|1
+portable video|.|bbc_tech_183.txt|.|2
+content|.|bbc_tech_163.txt|.|5|.|bbc_tech_291.txt|.|5|.|bbc_tech_349.txt|.|6|.|bbc_tech_285.txt|.|6|.|bbc_tech_087.txt|.|14|.|bbc_tech_304.txt|.|6
+poll said|.|bbc_sport_248.txt|.|1
+wholesale|.|bbc_business_136.txt|.|2|.|bbc_business_252.txt|.|4
+systems|.|bbc_politics_325.txt|.|1|.|bbc_tech_055.txt|.|4|.|bbc_business_026.txt|.|1|.|bbc_tech_105.txt|.|2|.|bbc_tech_285.txt|.|10|.|bbc_tech_304.txt|.|10|.|bbc_tech_314.txt|.|4
+gizmondo|.|bbc_tech_359.txt|.|5
+angels|.|bbc_entertainment_290.txt|.|2
+upcoming parliamentary|.|bbc_tech_001.txt|.|2
+victor conte|.|bbc_sport_036.txt|.|1|.|bbc_sport_049.txt|.|2|.|bbc_sport_088.txt|.|2
+consumers|.|bbc_tech_067.txt|.|5|.|bbc_tech_398.txt|.|3|.|bbc_business_068.txt|.|2|.|bbc_business_079.txt|.|4|.|bbc_tech_225.txt|.|5|.|bbc_business_361.txt|.|4|.|bbc_tech_212.txt|.|5|.|bbc_tech_087.txt|.|4|.|bbc_business_430.txt|.|2|.|bbc_tech_061.txt|.|7|.|bbc_tech_227.txt|.|3|.|bbc_tech_093.txt|.|2|.|bbc_tech_321.txt|.|7|.|bbc_tech_382.txt|.|5|.|bbc_tech_285.txt|.|11|.|bbc_tech_183.txt|.|5|.|bbc_business_063.txt|.|2|.|bbc_tech_304.txt|.|11|.|bbc_business_072.txt|.|2|.|bbc_business_245.txt|.|1|.|bbc_tech_222.txt|.|4
+relief|.|bbc_sport_239.txt|.|3|.|bbc_politics_392.txt|.|4|.|bbc_politics_026.txt|.|2|.|bbc_entertainment_195.txt|.|3|.|bbc_business_241.txt|.|4|.|bbc_politics_208.txt|.|5|.|bbc_business_210.txt|.|4|.|bbc_sport_451.txt|.|3|.|bbc_tech_223.txt|.|2
+boycott|.|bbc_entertainment_281.txt|.|2
+nelly|.|bbc_entertainment_281.txt|.|3
+gadget fan|.|bbc_tech_093.txt|.|1
+retailer|.|bbc_business_070.txt|.|3|.|bbc_business_448.txt|.|2|.|bbc_business_361.txt|.|1|.|bbc_business_393.txt|.|2|.|bbc_business_390.txt|.|2
+player market|.|bbc_tech_183.txt|.|3
+real estate|.|bbc_business_463.txt|.|2
+media player|.|bbc_tech_183.txt|.|1
+control|.|bbc_tech_266.txt|.|4|.|bbc_politics_039.txt|.|4|.|bbc_tech_202.txt|.|4|.|bbc_politics_090.txt|.|2|.|bbc_business_343.txt|.|2|.|bbc_politics_072.txt|.|3|.|bbc_tech_009.txt|.|3|.|bbc_tech_165.txt|.|5|.|bbc_tech_279.txt|.|5|.|bbc_politics_113.txt|.|2|.|bbc_business_421.txt|.|3|.|bbc_sport_169.txt|.|2|.|bbc_business_131.txt|.|3|.|bbc_politics_182.txt|.|2|.|bbc_tech_166.txt|.|5|.|bbc_tech_285.txt|.|6|.|bbc_tech_304.txt|.|6|.|bbc_tech_302.txt|.|5
+lifestyle|.|bbc_tech_225.txt|.|2|.|bbc_tech_212.txt|.|2
+promotions|.|bbc_politics_094.txt|.|6
+rfid tags|.|bbc_tech_061.txt|.|5|.|bbc_tech_321.txt|.|5
+fellow|.|bbc_entertainment_180.txt|.|2
+earn|.|bbc_entertainment_351.txt|.|3
+interaction|.|bbc_tech_143.txt|.|2
+rfid|.|bbc_tech_061.txt|.|11|.|bbc_tech_321.txt|.|11
+allow westminster|.|bbc_politics_010.txt|.|1

@@ -1,0 +1,17 @@
+113
+people in the uk|.|109.txt|.|2
+increased|.|058.txt|.|1
+tulip computers|.|128.txt|.|2|.|374.txt|.|2
+usage|.|058.txt|.|2
+home phones|.|109.txt|.|2
+broadband speeds|.|058.txt|.|2
+home computer|.|034.txt|.|2
+home|.|226.txt|.|2|.|211.txt|.|2|.|243.txt|.|8|.|094.txt|.|6|.|109.txt|.|4|.|347.txt|.|4|.|316.txt|.|4|.|058.txt|.|3|.|128.txt|.|3|.|034.txt|.|7|.|313.txt|.|6|.|374.txt|.|3|.|177.txt|.|2|.|292.txt|.|2
+alert site|.|034.txt|.|1
+avoid trouble|.|034.txt|.|2
+fixed line phone|.|109.txt|.|3
+street developers|.|243.txt|.|2
+street|.|243.txt|.|8
+allowances|.|058.txt|.|4
+customers|.|058.txt|.|7
+tell people|.|034.txt|.|3

@@ -1,0 +1,38 @@
+279
+descuentos y ofertas|.|WET4602.txt|.|61
+stack|.|WET647.txt|.|55|.|WET4667.txt|.|88|.|WET545.txt|.|40|.|WET4387.txt|.|254|.|WET4388.txt|.|76|.|WET3939.txt|.|41|.|WET243.txt|.|50|.|WET792.txt|.|112|.|WET3486.txt|.|47|.|WET646.txt|.|222|.|WET3456.txt|.|11|.|WET630.txt|.|68|.|WET4787.txt|.|62|.|WET4532.txt|.|117|.|WET629.txt|.|116|.|WET628.txt|.|120|.|WET4181.txt|.|28|.|WET3809.txt|.|24|.|WET3792.txt|.|48|.|WET1041.txt|.|95|.|WET1067.txt|.|72|.|WET3885.txt|.|50|.|WET4083.txt|.|87|.|WET4788.txt|.|94|.|WET946.txt|.|87|.|WET3462.txt|.|33|.|WET899.txt|.|61|.|WET45.txt|.|83|.|WET4601.txt|.|92|.|WET331.txt|.|21|.|WET340.txt|.|77|.|WET4410.txt|.|53|.|WET3410.txt|.|155|.|WET4369.txt|.|116|.|WET153.txt|.|24|.|WET4687.txt|.|84|.|WET36.txt|.|72|.|WET4817.txt|.|51
+meta stack overflow|.|WET4388.txt|.|15
+invitational|.|WET3770.txt|.|9
+stack overflow|.|WET647.txt|.|35|.|WET45.txt|.|32|.|WET646.txt|.|73|.|WET4601.txt|.|42|.|WET340.txt|.|22|.|WET1041.txt|.|28|.|WET4387.txt|.|74|.|WET3410.txt|.|92|.|WET4388.txt|.|51|.|WET4369.txt|.|33|.|WET4083.txt|.|24|.|WET629.txt|.|35
+wearables|.|WET1166.txt|.|22
+samurai|.|WET46.txt|.|94
+ladies youth tall|.|WET1534.txt|.|12
+tennessee|.|WET3378.txt|.|44|.|WET4098.txt|.|24
+latex stack exchange|.|WET946.txt|.|23
+sign up or log|.|WET3808.txt|.|14|.|WET1041.txt|.|13
+programmers|.|WET2701.txt|.|70|.|WET4532.txt|.|85
+diego|.|WET2820.txt|.|29|.|WET2819.txt|.|59|.|WET874.txt|.|93|.|WET4613.txt|.|16|.|WET3172.txt|.|38|.|WET2998.txt|.|9|.|WET2818.txt|.|53
+killer unicorns|.|WET785.txt|.|61
+webmasters stack|.|WET4788.txt|.|22
+west baltimore|.|WET2316.txt|.|14
+train|.|WET4176.txt|.|465
+overview|.|WET647.txt|.|5|.|WET4667.txt|.|11|.|WET863.txt|.|11|.|WET545.txt|.|5|.|WET1956.txt|.|11|.|WET4387.txt|.|11|.|WET859.txt|.|4|.|WET4543.txt|.|2|.|WET4388.txt|.|5|.|WET63.txt|.|5|.|WET243.txt|.|5|.|WET792.txt|.|11|.|WET3486.txt|.|5|.|WET4642.txt|.|4|.|WET646.txt|.|12|.|WET630.txt|.|7|.|WET4787.txt|.|6|.|WET4532.txt|.|11|.|WET4668.txt|.|5|.|WET3791.txt|.|5|.|WET4722.txt|.|4|.|WET629.txt|.|11|.|WET628.txt|.|11|.|WET3792.txt|.|6|.|WET1041.txt|.|9|.|WET2427.txt|.|93|.|WET3885.txt|.|5|.|WET4083.txt|.|8|.|WET191.txt|.|2|.|WET4193.txt|.|9|.|WET5710.txt|.|28|.|WET3842.txt|.|2|.|WET3462.txt|.|3|.|WET899.txt|.|6|.|WET45.txt|.|10|.|WET864.txt|.|3|.|WET4601.txt|.|10|.|WET3454.txt|.|3|.|WET331.txt|.|3|.|WET340.txt|.|8|.|WET4410.txt|.|7|.|WET4507.txt|.|3|.|WET4369.txt|.|11|.|WET4687.txt|.|8|.|WET4529.txt|.|3|.|WET2313.txt|.|31|.|WET4817.txt|.|5
+northwest herald|.|WET6261.txt|.|28
+development|.|WET959.txt|.|8|.|WET1339.txt|.|27|.|WET4181.txt|.|16|.|WET1067.txt|.|52|.|WET5669.txt|.|12|.|WET5419.txt|.|39|.|WET4817.txt|.|36
+ask question|.|WET4083.txt|.|8
+engineering stack|.|WET331.txt|.|5
+ellipsis text|.|WET2628.txt|.|9|.|WET751.txt|.|33
+monitor|.|WET1580.txt|.|49|.|WET1998.txt|.|29|.|WET5496.txt|.|19
+ray archer|.|WET5278.txt|.|10
+windows|.|WET4809.txt|.|467|.|WET3294.txt|.|169|.|WET4667.txt|.|140|.|WET6130.txt|.|68
+scholar|.|WET5873.txt|.|75|.|WET760.txt|.|85
+fit part|.|WET2771.txt|.|97
+tour|.|WET1939.txt|.|67|.|WET1926.txt|.|241|.|WET6099.txt|.|27|.|WET3026.txt|.|71|.|WET4591.txt|.|9|.|WET2779.txt|.|14|.|WET4532.txt|.|33|.|WET5506.txt|.|56|.|WET1769.txt|.|42|.|WET1421.txt|.|13|.|WET629.txt|.|33|.|WET1940.txt|.|69|.|WET5678.txt|.|26|.|WET4083.txt|.|24|.|WET1063.txt|.|11|.|WET5978.txt|.|14|.|WET4193.txt|.|27|.|WET480.txt|.|16|.|WET3462.txt|.|9|.|WET45.txt|.|33|.|WET6098.txt|.|39|.|WET4601.txt|.|30|.|WET340.txt|.|22|.|WET4410.txt|.|17|.|WET5666.txt|.|80|.|WET4369.txt|.|33|.|WET2644.txt|.|105
+juego|.|WET349.txt|.|11
+scholarms|.|WET264.txt|.|171|.|WET4007.txt|.|182
+postage|.|WET5457.txt|.|331|.|WET1711.txt|.|190|.|WET1712.txt|.|264
+material|.|WET3425.txt|.|7|.|WET5692.txt|.|25|.|WET4492.txt|.|26|.|WET751.txt|.|73|.|WET3610.txt|.|21|.|WET3339.txt|.|143|.|WET297.txt|.|9|.|WET2604.txt|.|7|.|WET4485.txt|.|56
+live stats|.|WET3996.txt|.|48|.|WET251.txt|.|48
+bookings|.|WET3630.txt|.|31
+communities|.|WET3809.txt|.|7|.|WET2317.txt|.|12|.|WET2336.txt|.|44|.|WET5490.txt|.|12|.|WET4387.txt|.|32|.|WET343.txt|.|6|.|WET45.txt|.|23|.|WET6079.txt|.|40|.|WET4532.txt|.|23|.|WET2140.txt|.|11|.|WET4369.txt|.|22|.|WET4270.txt|.|4|.|WET629.txt|.|24
+dictionaries|.|WET2575.txt|.|36|.|WET6290.txt|.|8

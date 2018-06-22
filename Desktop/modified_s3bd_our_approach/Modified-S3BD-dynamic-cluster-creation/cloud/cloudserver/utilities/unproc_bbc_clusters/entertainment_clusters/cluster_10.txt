@@ -1,0 +1,93 @@
+10
+bernath|.|bbc_entertainment_300.txt|.|5
+newcomer|.|bbc_entertainment_253.txt|.|3|.|bbc_entertainment_156.txt|.|2
+dancing|.|bbc_entertainment_188.txt|.|2
+trend|.|bbc_entertainment_300.txt|.|2
+dancers|.|bbc_entertainment_022.txt|.|9
+bussell|.|bbc_entertainment_022.txt|.|2
+vera drake|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_034.txt|.|2|.|bbc_entertainment_373.txt|.|2|.|bbc_entertainment_075.txt|.|4|.|bbc_entertainment_352.txt|.|8|.|bbc_entertainment_357.txt|.|6
+million dollar baby|.|bbc_entertainment_078.txt|.|5
+fewer|.|bbc_entertainment_022.txt|.|3
+county|.|bbc_entertainment_108.txt|.|3
+adaptation|.|bbc_entertainment_094.txt|.|3
+british|.|bbc_entertainment_323.txt|.|3|.|bbc_entertainment_148.txt|.|3|.|bbc_entertainment_251.txt|.|3|.|bbc_entertainment_253.txt|.|17|.|bbc_entertainment_071.txt|.|3|.|bbc_entertainment_261.txt|.|2|.|bbc_entertainment_075.txt|.|2|.|bbc_entertainment_129.txt|.|2|.|bbc_entertainment_289.txt|.|5|.|bbc_entertainment_300.txt|.|4|.|bbc_entertainment_354.txt|.|6|.|bbc_entertainment_038.txt|.|4|.|bbc_entertainment_034.txt|.|2|.|bbc_entertainment_191.txt|.|6|.|bbc_entertainment_373.txt|.|8|.|bbc_entertainment_268.txt|.|2|.|bbc_entertainment_136.txt|.|2|.|bbc_entertainment_303.txt|.|3|.|bbc_entertainment_383.txt|.|2|.|bbc_entertainment_022.txt|.|5|.|bbc_entertainment_357.txt|.|6
+episode|.|bbc_entertainment_365.txt|.|7|.|bbc_entertainment_176.txt|.|1|.|bbc_entertainment_196.txt|.|3
+fears|.|bbc_entertainment_022.txt|.|2
+scene|.|bbc_entertainment_173.txt|.|3
+red|.|bbc_entertainment_354.txt|.|4|.|bbc_entertainment_064.txt|.|2
+kevin|.|bbc_entertainment_071.txt|.|2
+darcey|.|bbc_entertainment_022.txt|.|2
+album title|.|bbc_entertainment_261.txt|.|1|.|bbc_entertainment_129.txt|.|1
+warrior poet|.|bbc_entertainment_300.txt|.|2
+pete doherty|.|bbc_entertainment_114.txt|.|2
+meadows|.|bbc_entertainment_075.txt|.|2
+south devon|.|bbc_entertainment_251.txt|.|2
+ballet attendance|.|bbc_entertainment_022.txt|.|1
+won|.|bbc_entertainment_251.txt|.|2|.|bbc_entertainment_253.txt|.|12|.|bbc_entertainment_217.txt|.|2|.|bbc_entertainment_097.txt|.|3|.|bbc_entertainment_099.txt|.|4|.|bbc_entertainment_332.txt|.|3|.|bbc_entertainment_153.txt|.|5|.|bbc_entertainment_092.txt|.|2|.|bbc_entertainment_369.txt|.|3|.|bbc_entertainment_263.txt|.|2|.|bbc_entertainment_371.txt|.|3|.|bbc_entertainment_241.txt|.|3|.|bbc_entertainment_007.txt|.|5|.|bbc_entertainment_067.txt|.|6|.|bbc_entertainment_357.txt|.|6|.|bbc_entertainment_065.txt|.|2|.|bbc_entertainment_275.txt|.|5|.|bbc_entertainment_024.txt|.|2
+reunited|.|bbc_entertainment_213.txt|.|3|.|bbc_entertainment_265.txt|.|1
+friend|.|bbc_entertainment_043.txt|.|1|.|bbc_entertainment_356.txt|.|1
+vienna|.|bbc_entertainment_023.txt|.|2|.|bbc_entertainment_273.txt|.|2
+audience|.|bbc_entertainment_253.txt|.|3
+making|.|bbc_entertainment_300.txt|.|1
+british premiere|.|bbc_entertainment_071.txt|.|1
+unrealistic|.|bbc_entertainment_193.txt|.|2
+spacey|.|bbc_entertainment_071.txt|.|7
+old|.|bbc_entertainment_339.txt|.|1
+vera|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_034.txt|.|2|.|bbc_entertainment_373.txt|.|2|.|bbc_entertainment_075.txt|.|4|.|bbc_entertainment_352.txt|.|9|.|bbc_entertainment_357.txt|.|7
+dent|.|bbc_entertainment_299.txt|.|2
+british ballet|.|bbc_entertainment_022.txt|.|3
+sensitive information|.|bbc_entertainment_221.txt|.|4
+morning|.|bbc_entertainment_274.txt|.|3
+cultural|.|bbc_entertainment_383.txt|.|1
+scissor sisters|.|bbc_entertainment_253.txt|.|5|.|bbc_entertainment_128.txt|.|3
+huw stephens|.|bbc_entertainment_231.txt|.|2|.|bbc_entertainment_197.txt|.|2
+kevin spacey|.|bbc_entertainment_071.txt|.|2
+shining|.|bbc_entertainment_354.txt|.|1
+jude law|.|bbc_entertainment_303.txt|.|2
+twelve|.|bbc_entertainment_074.txt|.|3|.|bbc_entertainment_088.txt|.|3
+foxx|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_084.txt|.|4|.|bbc_entertainment_264.txt|.|2|.|bbc_entertainment_051.txt|.|4|.|bbc_entertainment_368.txt|.|16|.|bbc_entertainment_069.txt|.|4|.|bbc_entertainment_092.txt|.|3|.|bbc_entertainment_357.txt|.|3
+michael jackson|.|bbc_entertainment_375.txt|.|2
+mark morrison|.|bbc_entertainment_161.txt|.|4
+says bernath|.|bbc_entertainment_300.txt|.|1
+parker|.|bbc_entertainment_164.txt|.|2|.|bbc_entertainment_383.txt|.|3
+bobby darin|.|bbc_entertainment_071.txt|.|4
+donated|.|bbc_entertainment_222.txt|.|1
+direction prize|.|bbc_entertainment_373.txt|.|1
+ballet future|.|bbc_entertainment_022.txt|.|1
+brought|.|bbc_entertainment_354.txt|.|2
+warrior|.|bbc_entertainment_300.txt|.|2
+years probation|.|bbc_entertainment_258.txt|.|1
+brits success|.|bbc_entertainment_261.txt|.|3|.|bbc_entertainment_129.txt|.|3
+title|.|bbc_entertainment_261.txt|.|1|.|bbc_entertainment_129.txt|.|1
+british film|.|bbc_entertainment_034.txt|.|2|.|bbc_entertainment_383.txt|.|2|.|bbc_entertainment_354.txt|.|2
+blanchett|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_354.txt|.|2|.|bbc_entertainment_038.txt|.|2
+ballet dancers|.|bbc_entertainment_022.txt|.|2
+sir alan|.|bbc_entertainment_383.txt|.|2
+bobby|.|bbc_entertainment_071.txt|.|4
+darin|.|bbc_entertainment_071.txt|.|5
+leonardo dicaprio|.|bbc_entertainment_354.txt|.|2
+newcomer awards|.|bbc_entertainment_253.txt|.|2
+rights|.|bbc_entertainment_059.txt|.|3|.|bbc_entertainment_148.txt|.|3
+red carpet|.|bbc_entertainment_354.txt|.|4|.|bbc_entertainment_064.txt|.|2
+poet|.|bbc_entertainment_300.txt|.|2
+staunton|.|bbc_entertainment_323.txt|.|3|.|bbc_entertainment_352.txt|.|2|.|bbc_entertainment_064.txt|.|2
+direction|.|bbc_entertainment_373.txt|.|1
+cate blanchett|.|bbc_entertainment_372.txt|.|2|.|bbc_entertainment_354.txt|.|2
+cate|.|bbc_entertainment_372.txt|.|2|.|bbc_entertainment_354.txt|.|2
+shane|.|bbc_entertainment_075.txt|.|2
+album|.|bbc_entertainment_162.txt|.|4|.|bbc_entertainment_253.txt|.|7|.|bbc_entertainment_126.txt|.|5|.|bbc_entertainment_261.txt|.|8|.|bbc_entertainment_129.txt|.|8|.|bbc_entertainment_250.txt|.|4|.|bbc_entertainment_125.txt|.|3|.|bbc_entertainment_106.txt|.|6|.|bbc_entertainment_120.txt|.|2|.|bbc_entertainment_241.txt|.|3|.|bbc_entertainment_268.txt|.|1|.|bbc_entertainment_117.txt|.|3|.|bbc_entertainment_238.txt|.|3
+lemony|.|bbc_entertainment_060.txt|.|2
+rwanda|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_047.txt|.|6
+families|.|bbc_entertainment_213.txt|.|7
+leonardo|.|bbc_entertainment_354.txt|.|2
+bombings|.|bbc_entertainment_054.txt|.|2
+fewer children|.|bbc_entertainment_022.txt|.|2
+nominated films|.|bbc_entertainment_075.txt|.|1
+future|.|bbc_entertainment_022.txt|.|3
+scored|.|bbc_entertainment_285.txt|.|1
+big screen|.|bbc_entertainment_353.txt|.|6
+shane meadows|.|bbc_entertainment_075.txt|.|2
+superior court|.|bbc_entertainment_108.txt|.|2
+royal|.|bbc_entertainment_011.txt|.|2|.|bbc_entertainment_022.txt|.|2
+attendance|.|bbc_entertainment_022.txt|.|1
+return|.|bbc_entertainment_261.txt|.|2|.|bbc_entertainment_129.txt|.|2

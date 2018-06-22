@@ -1,0 +1,38 @@
+115
+camera reviews|.|WET5818.txt|.|23
+chronicle image|.|WET1484.txt|.|160
+city directories|.|WET4296.txt|.|18
+directory|.|WET3684.txt|.|32|.|WET3174.txt|.|17|.|WET2443.txt|.|11|.|WET2395.txt|.|6|.|WET1795.txt|.|10|.|WET2468.txt|.|12|.|WET5279.txt|.|22|.|WET128.txt|.|8|.|WET2577.txt|.|12
+tennis tournament|.|WET5700.txt|.|49
+lexington city|.|WET4296.txt|.|30
+polar bear|.|WET2846.txt|.|91
+us navy|.|WET4508.txt|.|50
+bear plunge|.|WET2846.txt|.|87
+stemming|.|WET1581.txt|.|1|.|WET4296.txt|.|11|.|WET1765.txt|.|2|.|WET5511.txt|.|2
+test image|.|WET5818.txt|.|17
+previous gallery|.|WET1189.txt|.|32|.|WET4942.txt|.|22
+personal details|.|WET3625.txt|.|10
+comics twitter directory|.|WET5279.txt|.|22
+image|.|WET4296.txt|.|75|.|WET4667.txt|.|17|.|WET4030.txt|.|50|.|WET1189.txt|.|69|.|WET5280.txt|.|25|.|WET5279.txt|.|66|.|WET4508.txt|.|86|.|WET421.txt|.|3|.|WET4942.txt|.|62|.|WET1108.txt|.|17|.|WET4608.txt|.|14|.|WET2846.txt|.|163|.|WET5699.txt|.|521|.|WET3924.txt|.|94|.|WET5818.txt|.|73|.|WET5816.txt|.|36|.|WET3625.txt|.|25|.|WET1530.txt|.|28|.|WET159.txt|.|2|.|WET5700.txt|.|79|.|WET1484.txt|.|178|.|WET5021.txt|.|104
+alison cook|.|WET1484.txt|.|28
+board member|.|WET5021.txt|.|7
+buy this photo|.|WET5699.txt|.|181
+imageto|.|WET4508.txt|.|66
+new us|.|WET1108.txt|.|7
+gallery image|.|WET1189.txt|.|64
+speculates|.|WET5699.txt|.|1
+expected|.|WET1484.txt|.|10
+scroll|.|WET4508.txt|.|66
+beaumont|.|WET1270.txt|.|99|.|WET5021.txt|.|171
+candidates|.|WET5236.txt|.|13|.|WET1484.txt|.|10
+member resigns|.|WET5021.txt|.|7
+wireimage|.|WET5021.txt|.|39
+powerful|.|WET1484.txt|.|10
+plunge|.|WET2846.txt|.|87
+arthur girl|.|WET5021.txt|.|7
+imageto scroll|.|WET4508.txt|.|66
+starring|.|WET2846.txt|.|107
+greenwich|.|WET5699.txt|.|206
+previous gallery image|.|WET1189.txt|.|32
+hold mouse|.|WET4508.txt|.|66
+imaging resource|.|WET5818.txt|.|32

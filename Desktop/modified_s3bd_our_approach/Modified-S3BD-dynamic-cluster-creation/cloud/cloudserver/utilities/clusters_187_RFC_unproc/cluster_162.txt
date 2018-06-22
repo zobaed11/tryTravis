@@ -1,0 +1,120 @@
+data management system|.|rfc304.txt|.|9
+modules define|.|rfc6244.txt|.|2
+data consumer|.|rfc3897.txt|.|16|.|rfc3835.txt|.|22
+protocol manager|.|rfc83.txt|.|8
+netconf and yang|.|rfc6244.txt|.|7
+line convention|.|rfc318.txt|.|3
+output area|.|rfc83.txt|.|8
+term archive|.|rfc4810.txt|.|2
+joint computer|.|rfc290.txt|.|15
+fast retransmit and fast|.|rfc3782.txt|.|17
+channel status|.|rfc5818.txt|.|37
+data computer|.|rfc195.txt|.|6
+iscsi target|.|rfc3720.txt|.|57|.|rfc4018.txt|.|26
+randomizing part|.|rfc2994.txt|.|7
+spring joint|.|rfc243.txt|.|6|.|rfc290.txt|.|11
+ipfix file|.|rfc6183.txt|.|19
+services export|.|rfc3954.txt|.|34
+data compression|.|rfc1976.txt|.|7|.|rfc3749.txt|.|6|.|rfc3051.txt|.|12|.|rfc468.txt|.|11|.|rfc1962.txt|.|5
+profile type|.|rfc6080.txt|.|22
+confirmation|.|rfc5818.txt|.|10
+data sender|.|rfc2582.txt|.|16|.|rfc3782.txt|.|15|.|rfc2018.txt|.|17
+data specification syntax|.|rfc645.txt|.|9
+expected to be used|.|rfc328.txt|.|1
+errors at high data rates|.|rfc4963.txt|.|10
+defaults|.|rfc6243.txt|.|7
+ifip|.|rfc243.txt|.|7
+shafer informational|.|rfc6244.txt|.|30
+weather data|.|rfc251.txt|.|3
+cause the failure|.|rfc144.txt|.|2
+term archive service|.|rfc4810.txt|.|2
+base encoded|.|rfc3548.txt|.|5
+volatile storage|.|rfc2975.txt|.|5
+ppp compression control protocol|.|rfc1978.txt|.|2
+bases|.|rfc316.txt|.|6
+rate upstream|.|rfc4679.txt|.|1|.|rfc5515.txt|.|1
+dit structure|.|rfc3663.txt|.|13
+structure to a network|.|rfc3720.txt|.|1
+zlib compressed data|.|rfc1950.txt|.|11
+baseline tiff|.|rfc2306.txt|.|20
+duplicate acknowledgements|.|rfc3782.txt|.|22
+high data|.|rfc4963.txt|.|11
+compressed data in an internet|.|rfc5402.txt|.|6
+demonstrating|.|rfc2525.txt|.|39
+ppp compression|.|rfc1976.txt|.|5|.|rfc1993.txt|.|2|.|rfc1962.txt|.|9
+afips|.|rfc290.txt|.|15
+errors at high|.|rfc4963.txt|.|10
+withdrawal|.|rfc5471.txt|.|19|.|rfc5473.txt|.|10
+removefrom return data|.|rfc5267.txt|.|6
+dataflow|.|rfc4037.txt|.|75
+default handling basic|.|rfc6243.txt|.|1
+committee meeting|.|rfc173.txt|.|2
+configuration october|.|rfc6011.txt|.|28
+data transfer|.|rfc2887.txt|.|26|.|rfc454.txt|.|31|.|rfc573.txt|.|8|.|rfc486.txt|.|8|.|rfc617.txt|.|4|.|rfc5046.txt|.|30|.|rfc542.txt|.|30|.|rfc171.txt|.|22|.|rfc264.txt|.|21|.|rfc227.txt|.|2|.|rfc265.txt|.|13|.|rfc172.txt|.|12
+data model|.|rfc6087.txt|.|9|.|rfc4479.txt|.|55|.|rfc6244.txt|.|20|.|rfc5070.txt|.|43|.|rfc6137.txt|.|20|.|rfc3505.txt|.|4|.|rfc4741.txt|.|32|.|rfc6022.txt|.|17
+huffman codes|.|rfc1951.txt|.|17
+danthine|.|rfc631.txt|.|3
+original dataflow|.|rfc4037.txt|.|25
+data|.|rfc4824.txt|.|33|.|rfc624.txt|.|7|.|rfc5532.txt|.|62|.|rfc3141.txt|.|24|.|rfc4506.txt|.|107|.|rfc4204.txt|.|205|.|rfc4565.txt|.|63|.|rfc5982.txt|.|94|.|rfc2018.txt|.|92|.|rfc3709.txt|.|30|.|rfc199.txt|.|28|.|rfc5990.txt|.|49|.|rfc6062.txt|.|74|.|rfc4755.txt|.|7|.|rfc3954.txt|.|119|.|rfc6042.txt|.|9|.|rfc5652.txt|.|35|.|rfc144.txt|.|76|.|rfc6011.txt|.|116|.|rfc1954.txt|.|7|.|rfc640.txt|.|11|.|rfc2313.txt|.|54|.|rfc318.txt|.|44|.|rfc2259.txt|.|45|.|rfc4847.txt|.|40|.|rfc4631.txt|.|16|.|rfc5830.txt|.|39|.|rfc3830.txt|.|135|.|rfc3749.txt|.|27|.|rfc4481.txt|.|7|.|rfc6243.txt|.|165|.|rfc354.txt|.|174|.|rfc1978.txt|.|41|.|rfc5667.txt|.|37|.|rfc486.txt|.|13|.|rfc125.txt|.|4|.|rfc4791.txt|.|87|.|rfc6235.txt|.|181|.|rfc4720.txt|.|7|.|rfc4827.txt|.|16|.|rfc309.txt|.|19|.|rfc3072.txt|.|149|.|rfc1993.txt|.|13|.|rfc6143.txt|.|43|.|rfc3548.txt|.|46|.|rfc5041.txt|.|175|.|rfc80.txt|.|30|.|rfc5818.txt|.|126|.|rfc1950.txt|.|49|.|rfc172.txt|.|60|.|rfc1963.txt|.|50|.|rfc6158.txt|.|155|.|rfc2856.txt|.|23|.|rfc4678.txt|.|149|.|rfc454.txt|.|190|.|rfc5613.txt|.|38|.|rfc392.txt|.|13|.|rfc5882.txt|.|34|.|rfc2525.txt|.|135|.|rfc3369.txt|.|33|.|rfc264.txt|.|36|.|rfc5469.txt|.|8|.|rfc2604.txt|.|99|.|rfc2876.txt|.|3|.|rfc5282.txt|.|35|.|rfc5310.txt|.|17|.|rfc163.txt|.|28|.|rfc1991.txt|.|76|.|rfc5515.txt|.|28|.|rfc4998.txt|.|182|.|rfc3584.txt|.|47|.|rfc2292.txt|.|184|.|rfc2823.txt|.|43|.|rfc3663.txt|.|45|.|rfc625.txt|.|4|.|rfc173.txt|.|16|.|rfc5460.txt|.|35|.|rfc5884.txt|.|31|.|rfc42.txt|.|11|.|rfc5297.txt|.|45|.|rfc3297.txt|.|196|.|rfc194.txt|.|28|.|rfc157.txt|.|5|.|rfc291.txt|.|7|.|rfc542.txt|.|203|.|rfc6037.txt|.|46|.|rfc3394.txt|.|57|.|rfc6183.txt|.|83|.|rfc4546.txt|.|83|.|rfc4228.txt|.|4|.|rfc5126.txt|.|263|.|rfc3444.txt|.|17|.|rfc2582.txt|.|56|.|rfc4479.txt|.|83|.|rfc242.txt|.|88|.|rfc5493.txt|.|23|.|rfc285.txt|.|24|.|rfc5047.txt|.|123|.|rfc508.txt|.|37|.|rfc188.txt|.|12|.|rfc4384.txt|.|27|.|rfc3863.txt|.|48|.|rfc310.txt|.|50|.|rfc5706.txt|.|41|.|rfc468.txt|.|22|.|rfc6022.txt|.|53|.|rfc5253.txt|.|15|.|rfc3048.txt|.|39|.|rfc2994.txt|.|20|.|rfc6244.txt|.|188|.|rfc4040.txt|.|27|.|rfc515.txt|.|41|.|rfc4341.txt|.|81|.|rfc4553.txt|.|39|.|rfc2315.txt|.|54|.|rfc2887.txt|.|114|.|rfc5962.txt|.|6|.|rfc3852.txt|.|35|.|rfc4378.txt|.|14|.|rfc5042.txt|.|170|.|rfc195.txt|.|27|.|rfc4679.txt|.|24|.|rfc2268.txt|.|5|.|rfc3835.txt|.|98|.|rfc2063.txt|.|93|.|rfc3449.txt|.|97|.|rfc5215.txt|.|65|.|rfc4480.txt|.|23|.|rfc3423.txt|.|187|.|rfc5471.txt|.|118|.|rfc2750.txt|.|13|.|rfc4397.txt|.|82|.|rfc243.txt|.|50|.|rfc4680.txt|.|38|.|rfc6087.txt|.|77|.|rfc340.txt|.|6|.|rfc4303.txt|.|90|.|rfc4591.txt|.|17|.|rfc146.txt|.|70|.|rfc5433.txt|.|30|.|rfc5654.txt|.|28|.|rfc5070.txt|.|148|.|rfc5690.txt|.|150|.|rfc219.txt|.|41|.|rfc138.txt|.|78|.|rfc316.txt|.|70|.|rfc227.txt|.|3|.|rfc2946.txt|.|40|.|rfc5402.txt|.|22|.|rfc3720.txt|.|553|.|rfc2849.txt|.|21|.|rfc5267.txt|.|16|.|rfc5348.txt|.|112|.|rfc5046.txt|.|221|.|rfc5941.txt|.|39|.|rfc304.txt|.|66|.|rfc347.txt|.|3|.|rfc573.txt|.|41|.|rfc3542.txt|.|184|.|rfc6148.txt|.|15|.|rfc4741.txt|.|157|.|rfc3034.txt|.|14|.|rfc290.txt|.|93|.|rfc1952.txt|.|35|.|rfc3384.txt|.|71|.|rfc328.txt|.|3|.|rfc2040.txt|.|8|.|rfc3740.txt|.|71|.|rfc4810.txt|.|145|.|rfc4217.txt|.|121|.|rfc6137.txt|.|46|.|rfc4951.txt|.|26|.|rfc4934.txt|.|12|.|rfc3518.txt|.|33|.|rfc1976.txt|.|43|.|rfc4080.txt|.|97|.|rfc5852.txt|.|22|.|rfc5878.txt|.|55|.|rfc6017.txt|.|7|.|rfc6241.txt|.|213|.|rfc631.txt|.|4|.|rfc4033.txt|.|52|.|rfc6113.txt|.|54|.|rfc2636.txt|.|99|.|rfc3565.txt|.|1|.|rfc4648.txt|.|44|.|rfc5086.txt|.|64|.|rfc5325.txt|.|81|.|rfc166.txt|.|67|.|rfc5043.txt|.|59|.|rfc565.txt|.|16|.|rfc294.txt|.|16|.|rfc6021.txt|.|28|.|rfc437.txt|.|24|.|rfc251.txt|.|7|.|rfc3833.txt|.|22|.|rfc3558.txt|.|72|.|rfc5981.txt|.|42|.|rfc2126.txt|.|143|.|rfc2630.txt|.|28|.|rfc6078.txt|.|44|.|rfc2355.txt|.|148|.|rfc4037.txt|.|251|.|rfc5584.txt|.|57|.|rfc6002.txt|.|15|.|rfc607.txt|.|11|.|rfc5045.txt|.|98|.|rfc5718.txt|.|10|.|rfc112.txt|.|2|.|rfc2388.txt|.|25|.|rfc617.txt|.|11|.|rfc3505.txt|.|10|.|rfc3274.txt|.|18|.|rfc5017.txt|.|5|.|rfc127.txt|.|6|.|rfc4327.txt|.|16|.|rfc4165.txt|.|127|.|rfc1967.txt|.|99|.|rfc4963.txt|.|33|.|rfc3029.txt|.|152|.|rfc2503.txt|.|7|.|rfc3051.txt|.|30|.|rfc2975.txt|.|228|.|rfc5910.txt|.|92|.|rfc623.txt|.|14|.|rfc2198.txt|.|47|.|rfc83.txt|.|34|.|rfc3782.txt|.|69|.|rfc4472.txt|.|54|.|rfc5083.txt|.|9|.|rfc5102.txt|.|346|.|rfc3156.txt|.|34|.|rfc265.txt|.|66|.|rfc3084.txt|.|86|.|rfc4482.txt|.|14|.|rfc3067.txt|.|23|.|rfc3519.txt|.|22|.|rfc5810.txt|.|129|.|rfc3897.txt|.|31|.|rfc3190.txt|.|22|.|rfc2306.txt|.|72|.|rfc5040.txt|.|295|.|rfc5066.txt|.|46|.|rfc5960.txt|.|43|.|rfc1951.txt|.|75|.|rfc5473.txt|.|104|.|rfc2402.txt|.|29|.|rfc6080.txt|.|187|.|rfc2351.txt|.|24|.|rfc5424.txt|.|24|.|rfc2033.txt|.|7|.|rfc148.txt|.|2|.|rfc645.txt|.|42|.|rfc327.txt|.|30|.|rfc2127.txt|.|29|.|rfc3410.txt|.|46|.|rfc171.txt|.|38|.|rfc94.txt|.|15|.|rfc1962.txt|.|27|.|rfc3289.txt|.|114
+computer corporation of america|.|rfc565.txt|.|3|.|rfc188.txt|.|2
+transfer workshop notes|.|rfc327.txt|.|5
+afips proc|.|rfc290.txt|.|15
+alphabet characters|.|rfc3548.txt|.|4
+acm sigfidet|.|rfc290.txt|.|9
+spring|.|rfc243.txt|.|6|.|rfc290.txt|.|11
+data placement|.|rfc5667.txt|.|13
+data tablet graphics|.|rfc199.txt|.|1
+standard data|.|rfc645.txt|.|10
+data ack|.|rfc3423.txt|.|23
+schneider|.|rfc1976.txt|.|13
+external data|.|rfc4506.txt|.|28
+structured data exchange|.|rfc3072.txt|.|27
+mitsubishi|.|rfc2994.txt|.|4
+verbs|.|rfc607.txt|.|3
+ocp agent|.|rfc4037.txt|.|28
+tablet graphics|.|rfc199.txt|.|1
+communication networks|.|rfc157.txt|.|2
+domain accounting|.|rfc2975.txt|.|1
+yang module|.|rfc6087.txt|.|33|.|rfc6244.txt|.|21|.|rfc6022.txt|.|39
+replacement rules|.|rfc83.txt|.|3
+removefrom|.|rfc5267.txt|.|16
+fast recovery|.|rfc2582.txt|.|48|.|rfc3782.txt|.|74
+single master|.|rfc3384.txt|.|6
+nttdm february|.|rfc6137.txt|.|45
+evaluating alternative|.|rfc173.txt|.|1
+statuses|.|rfc5818.txt|.|29
+replacement|.|rfc5259.txt|.|1|.|rfc83.txt|.|6
+export packet|.|rfc3954.txt|.|28
+signed data|.|rfc3156.txt|.|8
+device profile|.|rfc6080.txt|.|40
+telnet data encryption option|.|rfc2946.txt|.|8
+data confidentiality and integrity|.|rfc3384.txt|.|6
+management committee|.|rfc173.txt|.|3
+management system|.|rfc144.txt|.|15|.|rfc304.txt|.|9
+single host|.|rfc623.txt|.|2
+introductory|.|rfc144.txt|.|3
+representation standard|.|rfc4506.txt|.|28
+operational primitive|.|rfc5046.txt|.|129|.|rfc5047.txt|.|82
+define|.|rfc3125.txt|.|8|.|rfc6244.txt|.|9
+agnostic|.|rfc5611.txt|.|1|.|rfc4553.txt|.|1
+form data|.|rfc2388.txt|.|3
+trouble|.|rfc6137.txt|.|23
+deutsch informational|.|rfc1951.txt|.|17
+existing data|.|rfc144.txt|.|7
+designed|.|rfc3720.txt|.|7|.|rfc2804.txt|.|7|.|rfc3077.txt|.|2
+test the services|.|rfc146.txt|.|1
+data format specification|.|rfc1951.txt|.|17|.|rfc1950.txt|.|14
+list members|.|rfc515.txt|.|1
+selective|.|rfc3708.txt|.|6|.|rfc2018.txt|.|24|.|rfc3517.txt|.|7|.|rfc2883.txt|.|5
+data objects|.|rfc4810.txt|.|43
+telnet sockets|.|rfc617.txt|.|2
+data management system proposal|.|rfc304.txt|.|8
+stern|.|rfc251.txt|.|2
+volatile|.|rfc2975.txt|.|6
+order codes|.|rfc94.txt|.|5
+description of the data|.|rfc242.txt|.|2
+command sequence|.|rfc640.txt|.|4
+form machine|.|rfc83.txt|.|16|.|rfc166.txt|.|10
+allowed searches|.|rfc3663.txt|.|8
+encrypted data|.|rfc2313.txt|.|22|.|rfc5830.txt|.|25
+handshake message for supplemental data|.|rfc4680.txt|.|9

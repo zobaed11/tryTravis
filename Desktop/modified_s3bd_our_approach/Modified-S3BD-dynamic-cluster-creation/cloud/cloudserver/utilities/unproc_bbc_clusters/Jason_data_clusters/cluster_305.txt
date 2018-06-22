@@ -1,0 +1,38 @@
+305
+handbags|.|WET1244.txt|.|33|.|WET2972.txt|.|42|.|WET1377.txt|.|80|.|WET5128.txt|.|73|.|WET1378.txt|.|44
+cuoco|.|WET5523.txt|.|24
+feet|.|WET1839.txt|.|221|.|WET5576.txt|.|87
+lower body health|.|WET1839.txt|.|23
+plantar fasciitis pronation|.|WET1839.txt|.|38
+protective gear apparel|.|WET2950.txt|.|40
+arch pain|.|WET1840.txt|.|6
+heel|.|WET3358.txt|.|4|.|WET1839.txt|.|140|.|WET5576.txt|.|50
+flats|.|WET3606.txt|.|15
+shoes shop|.|WET1839.txt|.|33
+boots casual|.|WET1840.txt|.|6
+top handles|.|WET1377.txt|.|33
+odor foot perspiration|.|WET1839.txt|.|35
+perspiration|.|WET1839.txt|.|35
+sneaker release dates|.|WET1817.txt|.|15
+rain|.|WET1377.txt|.|16|.|WET5128.txt|.|11
+classics|.|WET3118.txt|.|25
+lower|.|WET1839.txt|.|23
+socks shop|.|WET1839.txt|.|44
+heel pain|.|WET5576.txt|.|22
+hiking|.|WET4905.txt|.|37
+casual sandals|.|WET1840.txt|.|4
+shoes|.|WET2917.txt|.|30|.|WET5441.txt|.|14|.|WET2189.txt|.|54|.|WET2950.txt|.|461|.|WET2913.txt|.|20|.|WET1816.txt|.|190|.|WET5124.txt|.|173|.|WET3357.txt|.|68|.|WET5574.txt|.|35|.|WET3243.txt|.|66|.|WET5128.txt|.|111|.|WET1840.txt|.|118|.|WET4658.txt|.|18|.|WET5523.txt|.|158|.|WET3093.txt|.|40|.|WET2015.txt|.|36|.|WET2916.txt|.|69|.|WET3118.txt|.|64|.|WET1377.txt|.|127|.|WET475.txt|.|27|.|WET2839.txt|.|133|.|WET1839.txt|.|494|.|WET5186.txt|.|123|.|WET2915.txt|.|66|.|WET5957.txt|.|50|.|WET1788.txt|.|176|.|WET2872.txt|.|256|.|WET3708.txt|.|63|.|WET3606.txt|.|31|.|WET5576.txt|.|174|.|WET5550.txt|.|131|.|WET5679.txt|.|298|.|WET2780.txt|.|63|.|WET2844.txt|.|187|.|WET4905.txt|.|194|.|WET1623.txt|.|132|.|WET2874.txt|.|78|.|WET1941.txt|.|260|.|WET2188.txt|.|189|.|WET1415.txt|.|300|.|WET1378.txt|.|56|.|WET1817.txt|.|148|.|WET2153.txt|.|84|.|WET5551.txt|.|254
+boots shoes|.|WET1377.txt|.|22|.|WET1378.txt|.|12
+baths|.|WET5576.txt|.|17
+crossbody|.|WET1378.txt|.|18
+polo ralph lauren|.|WET1377.txt|.|15
+ski clothing|.|WET4905.txt|.|26
+slip|.|WET5944.txt|.|8|.|WET2872.txt|.|4
+clutches|.|WET1377.txt|.|33|.|WET1378.txt|.|18
+clogs|.|WET2872.txt|.|31
+pronation|.|WET1839.txt|.|38
+fasciitis|.|WET1839.txt|.|60
+backpacking|.|WET1415.txt|.|50
+wide shoes|.|WET1840.txt|.|4
+walking shoes|.|WET5576.txt|.|15
+arch|.|WET1840.txt|.|19

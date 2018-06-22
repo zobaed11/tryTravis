@@ -1,0 +1,17 @@
+59
+infected|.|210.txt|.|5|.|272.txt|.|3
+game firm|.|024.txt|.|2
+games industry|.|231.txt|.|2|.|100.txt|.|3
+mail|.|390.txt|.|3|.|210.txt|.|3|.|117.txt|.|1|.|314.txt|.|1|.|026.txt|.|11|.|362.txt|.|3|.|055.txt|.|1
+spammer|.|390.txt|.|2
+called|.|210.txt|.|2
+mobile music|.|383.txt|.|4
+bankruptcy protection|.|390.txt|.|2
+company said|.|390.txt|.|2
+called bofra|.|210.txt|.|2
+seeking|.|390.txt|.|3
+circulating|.|026.txt|.|2
+mail servers|.|026.txt|.|3
+security firm|.|079.txt|.|2|.|362.txt|.|4|.|373.txt|.|2
+junk|.|390.txt|.|2|.|314.txt|.|2|.|026.txt|.|10|.|055.txt|.|2
+movement|.|054.txt|.|2|.|029.txt|.|3

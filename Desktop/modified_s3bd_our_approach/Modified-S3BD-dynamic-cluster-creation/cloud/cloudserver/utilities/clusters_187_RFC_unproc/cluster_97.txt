@@ -1,0 +1,120 @@
+palme informational|.|rfc2076.txt|.|27
+domainkeys identified mail|.|rfc5016.txt|.|5
+implicit keep|.|rfc5228.txt|.|15
+mail senders|.|rfc577.txt|.|1
+user process|.|rfc123.txt|.|4|.|rfc60.txt|.|15|.|rfc607.txt|.|8|.|rfc165.txt|.|4|.|rfc524.txt|.|31|.|rfc151.txt|.|3|.|rfc624.txt|.|8|.|rfc103.txt|.|5
+dkim signing|.|rfc5016.txt|.|11
+greek text|.|rfc1947.txt|.|7
+formal syntax|.|rfc539.txt|.|2
+mail priority|.|rfc577.txt|.|2
+facsimile using internet|.|rfc2532.txt|.|7|.|rfc3249.txt|.|6
+mosso|.|rfc574.txt|.|2
+maruszak standards|.|rfc3939.txt|.|11
+minimal fax address|.|rfc2304.txt|.|11|.|rfc3192.txt|.|14
+control codes|.|rfc196.txt|.|7|.|rfc393.txt|.|4
+mime header fields|.|rfc4021.txt|.|57
+message context|.|rfc3458.txt|.|33|.|rfc3938.txt|.|4
+exit|.|rfc3178.txt|.|18|.|rfc524.txt|.|33|.|rfc2473.txt|.|3
+network mail|.|rfc491.txt|.|3|.|rfc453.txt|.|6|.|rfc644.txt|.|10|.|rfc561.txt|.|4|.|rfc475.txt|.|18|.|rfc456.txt|.|2|.|rfc469.txt|.|4
+new mail notification|.|rfc4146.txt|.|5
+string list|.|rfc3028.txt|.|2
+labeling ineffective|.|rfc4096.txt|.|13
+spammers|.|rfc2505.txt|.|24
+message headers|.|rfc5738.txt|.|3|.|rfc3862.txt|.|12|.|rfc2076.txt|.|28
+discuss a network|.|rfc453.txt|.|3
+requirements for internet voice|.|rfc3773.txt|.|10
+guyton|.|rfc574.txt|.|2
+system status|.|rfc3463.txt|.|22
+enhanced mail system|.|rfc3463.txt|.|16
+emsd ua|.|rfc2524.txt|.|2
+simple new mail|.|rfc4146.txt|.|5
+message access|.|rfc4469.txt|.|6|.|rfc5423.txt|.|11
+mail protocols|.|rfc498.txt|.|1
+dynamic ip|.|rfc2645.txt|.|2
+revision of the mail|.|rfc278.txt|.|5
+reliable mail|.|rfc630.txt|.|2
+smtp extension|.|rfc5336.txt|.|29|.|rfc5335.txt|.|5|.|rfc4952.txt|.|14
+unsolicited|.|rfc2635.txt|.|30
+domainkeys|.|rfc5016.txt|.|5
+ffpim november|.|rfc4142.txt|.|8
+jew rfc|.|rfc555.txt|.|6
+mailing processes|.|rfc630.txt|.|2
+kp|.|rfc561.txt|.|3
+user and server|.|rfc524.txt|.|6|.|rfc414.txt|.|4
+journal delivery|.|rfc510.txt|.|4|.|rfc543.txt|.|5
+sex|.|rfc3675.txt|.|33
+identified mail|.|rfc5016.txt|.|5
+server process|.|rfc123.txt|.|5|.|rfc555.txt|.|9|.|rfc165.txt|.|5|.|rfc524.txt|.|17
+actor|.|rfc5598.txt|.|26
+pstn address|.|rfc2303.txt|.|5
+mail from command|.|rfc3865.txt|.|10
+labeling requirements|.|rfc4096.txt|.|6
+nls|.|rfc276.txt|.|2|.|rfc488.txt|.|10|.|rfc543.txt|.|13
+codes january|.|rfc3463.txt|.|15
+caller name|.|rfc3939.txt|.|8
+box protocol|.|rfc196.txt|.|5|.|rfc221.txt|.|14|.|rfc278.txt|.|9
+network mail headers|.|rfc561.txt|.|3
+discuss|.|rfc453.txt|.|4
+simple new mail notification|.|rfc4146.txt|.|5
+mail|.|rfc5230.txt|.|23|.|rfc3028.txt|.|69|.|rfc561.txt|.|8|.|rfc2532.txt|.|18|.|rfc3850.txt|.|15|.|rfc3087.txt|.|37|.|rfc2524.txt|.|78|.|rfc278.txt|.|20|.|rfc2303.txt|.|20|.|rfc3249.txt|.|29|.|rfc2249.txt|.|46|.|rfc4409.txt|.|41|.|rfc2700.txt|.|36|.|rfc4239.txt|.|27|.|rfc5336.txt|.|52|.|rfc4468.txt|.|17|.|rfc456.txt|.|2|.|rfc4407.txt|.|6|.|rfc555.txt|.|30|.|rfc5585.txt|.|55|.|rfc458.txt|.|12|.|rfc4550.txt|.|42|.|rfc3461.txt|.|78|.|rfc3192.txt|.|20|.|rfc3463.txt|.|54|.|rfc6293.txt|.|14|.|rfc539.txt|.|24|.|rfc5016.txt|.|41|.|rfc5598.txt|.|107|.|rfc3458.txt|.|39|.|rfc4356.txt|.|80|.|rfc543.txt|.|37|.|rfc574.txt|.|6|.|rfc221.txt|.|35|.|rfc5863.txt|.|101|.|rfc3855.txt|.|10|.|rfc2978.txt|.|4|.|rfc524.txt|.|258|.|rfc629.txt|.|14|.|rfc2049.txt|.|37|.|rfc469.txt|.|69|.|rfc4146.txt|.|27|.|rfc2653.txt|.|19|.|rfc2305.txt|.|47|.|rfc644.txt|.|56|.|rfc3834.txt|.|52|.|rfc196.txt|.|23|.|rfc3864.txt|.|21|.|rfc5423.txt|.|17|.|rfc3804.txt|.|30|.|rfc2237.txt|.|11|.|rfc3965.txt|.|50|.|rfc2177.txt|.|4|.|rfc4096.txt|.|26|.|rfc498.txt|.|16|.|rfc5442.txt|.|12|.|rfc3939.txt|.|12|.|rfc2312.txt|.|18|.|rfc5965.txt|.|25|.|rfc1947.txt|.|12|.|rfc2505.txt|.|168|.|rfc5248.txt|.|7|.|rfc2142.txt|.|21|.|rfc4142.txt|.|14|.|rfc3462.txt|.|10|.|rfc6068.txt|.|38|.|rfc4959.txt|.|2|.|rfc5335.txt|.|14|.|rfc475.txt|.|127|.|rfc4262.txt|.|3|.|rfc1985.txt|.|12|.|rfc3459.txt|.|60|.|rfc3191.txt|.|22|.|rfc2645.txt|.|40|.|rfc2632.txt|.|11|.|rfc2821.txt|.|429|.|rfc3207.txt|.|11|.|rfc4406.txt|.|43|.|rfc4952.txt|.|29|.|rfc4405.txt|.|29|.|rfc2368.txt|.|28|.|rfc5490.txt|.|4|.|rfc3773.txt|.|41|.|rfc630.txt|.|12|.|rfc3464.txt|.|71|.|rfc3854.txt|.|11|.|rfc491.txt|.|13|.|rfc3233.txt|.|2|.|rfc453.txt|.|13|.|rfc3865.txt|.|49|.|rfc577.txt|.|9|.|rfc3675.txt|.|23|.|rfc4416.txt|.|96|.|rfc5550.txt|.|52|.|rfc4143.txt|.|12|.|rfc2033.txt|.|29|.|rfc2076.txt|.|37|.|rfc2304.txt|.|13|.|rfc3030.txt|.|21|.|rfc5228.txt|.|34|.|rfc4450.txt|.|8|.|rfc2635.txt|.|88|.|rfc4021.txt|.|227|.|rfc2789.txt|.|59
+fields march|.|rfc4021.txt|.|53
+nic ident|.|rfc629.txt|.|2|.|rfc584.txt|.|2
+multimedia messaging service|.|rfc4356.txt|.|7
+emsd sa|.|rfc2524.txt|.|2
+mail address|.|rfc3192.txt|.|1
+lmtp|.|rfc3848.txt|.|10|.|rfc2033.txt|.|26
+ftp error code|.|rfc630.txt|.|3
+mail filtering language|.|rfc3028.txt|.|36
+jew|.|rfc555.txt|.|7|.|rfc561.txt|.|3
+format in internet|.|rfc3192.txt|.|12|.|rfc3191.txt|.|14|.|rfc2303.txt|.|2
+malamud informational|.|rfc4096.txt|.|14
+showalter|.|rfc5228.txt|.|45|.|rfc5230.txt|.|19
+lunde informational|.|rfc2635.txt|.|18
+problem of signature|.|rfc644.txt|.|3
+simple mode|.|rfc3965.txt|.|15|.|rfc2305.txt|.|14
+mp|.|rfc4012.txt|.|3|.|rfc5747.txt|.|1|.|rfc524.txt|.|34|.|rfc4798.txt|.|1
+mail submission|.|rfc4550.txt|.|25|.|rfc5550.txt|.|20|.|rfc2524.txt|.|28
+contains greek|.|rfc1947.txt|.|2
+policy labeling|.|rfc4096.txt|.|13
+mail box|.|rfc196.txt|.|17|.|rfc221.txt|.|28|.|rfc278.txt|.|10
+discuss a network mail system|.|rfc453.txt|.|3
+new mail|.|rfc2177.txt|.|4|.|rfc4146.txt|.|13
+signature authentication problem|.|rfc644.txt|.|3
+service control|.|rfc3087.txt|.|38
+capital eta|.|rfc1947.txt|.|2
+capability string|.|rfc5228.txt|.|7
+mail retrieval|.|rfc458.txt|.|2
+spam spam|.|rfc2635.txt|.|18
+message transfer|.|rfc5598.txt|.|9
+hambridge|.|rfc2635.txt|.|20
+mail subsystem|.|rfc543.txt|.|4
+mms message|.|rfc4356.txt|.|3
+internet message headers|.|rfc2076.txt|.|27
+proposed mail|.|rfc555.txt|.|11|.|rfc524.txt|.|40
+sri arc|.|rfc621.txt|.|1|.|rfc628.txt|.|1|.|rfc479.txt|.|1|.|rfc543.txt|.|1
+mailbox address|.|rfc475.txt|.|7
+chunking|.|rfc4550.txt|.|13
+ftp and network mail system|.|rfc475.txt|.|8
+admd|.|rfc5585.txt|.|31
+dialogue|.|rfc237.txt|.|2|.|rfc453.txt|.|4
+data command|.|rfc2033.txt|.|6
+unified messaging|.|rfc3773.txt|.|10
+party signature|.|rfc5016.txt|.|18
+lmtp protocol|.|rfc2033.txt|.|10
+voice mail|.|rfc3773.txt|.|26|.|rfc3087.txt|.|37|.|rfc3458.txt|.|11|.|rfc3939.txt|.|7
+reject messages|.|rfc4409.txt|.|2
+simple mail transfer|.|rfc2821.txt|.|87
+voice profile|.|rfc4239.txt|.|5|.|rfc3804.txt|.|15
+system status codes|.|rfc3463.txt|.|16
+recommendations february|.|rfc2505.txt|.|23
+signature authentication|.|rfc644.txt|.|6
+internet mail extensions|.|rfc2049.txt|.|9|.|rfc3855.txt|.|5|.|rfc3854.txt|.|6|.|rfc2978.txt|.|4
+vaudreuil standards|.|rfc3463.txt|.|16
+ineffective|.|rfc4096.txt|.|17
+bhushan|.|rfc309.txt|.|8|.|rfc523.txt|.|3|.|rfc475.txt|.|8|.|rfc294.txt|.|2|.|rfc52.txt|.|2|.|rfc133.txt|.|1
+dsn extension|.|rfc3461.txt|.|40
+network journal|.|rfc510.txt|.|3|.|rfc629.txt|.|6|.|rfc543.txt|.|19
+klyne|.|rfc4021.txt|.|60|.|rfc3297.txt|.|54|.|rfc4142.txt|.|13
+address formats|.|rfc3804.txt|.|4
+mail service|.|rfc498.txt|.|3|.|rfc630.txt|.|4
+esmtp|.|rfc3887.txt|.|1|.|rfc2033.txt|.|13

@@ -1,0 +1,17 @@
+4
+making|.|097.txt|.|1
+aid agencies|.|097.txt|.|4
+donations|.|097.txt|.|10
+asia|.|106.txt|.|2
+jerry yang|.|065.txt|.|2
+photo|.|278.txt|.|5|.|243.txt|.|5|.|201.txt|.|2
+lankan|.|106.txt|.|2
+gupta|.|106.txt|.|5
+prof|.|199.txt|.|9
+version|.|310.txt|.|3|.|089.txt|.|3|.|020.txt|.|6
+fast lifts|.|253.txt|.|1
+refuse|.|188.txt|.|3
+sri lankan|.|106.txt|.|2
+ebay|.|191.txt|.|2|.|235.txt|.|6|.|168.txt|.|2|.|097.txt|.|3
+text|.|106.txt|.|2|.|142.txt|.|9|.|287.txt|.|6|.|152.txt|.|9|.|372.txt|.|6
+computers|.|128.txt|.|4|.|374.txt|.|4|.|177.txt|.|1|.|292.txt|.|1

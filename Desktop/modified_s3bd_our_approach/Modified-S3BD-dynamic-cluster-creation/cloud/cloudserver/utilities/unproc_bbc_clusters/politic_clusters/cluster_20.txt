@@ -1,0 +1,104 @@
+20
+mr lane|.|bbc_politics_336.txt|.|2
+dirty tricks|.|bbc_politics_196.txt|.|3|.|bbc_politics_297.txt|.|3
+issues|.|bbc_politics_062.txt|.|5|.|bbc_politics_289.txt|.|2|.|bbc_politics_019.txt|.|2
+rivalry|.|bbc_politics_254.txt|.|3
+defect|.|bbc_politics_307.txt|.|1
+four|.|bbc_politics_169.txt|.|2|.|bbc_politics_346.txt|.|2|.|bbc_politics_151.txt|.|4|.|bbc_politics_178.txt|.|2|.|bbc_politics_006.txt|.|2
+warns|.|bbc_politics_297.txt|.|1
+dr tamimi said|.|bbc_politics_062.txt|.|3
+mr howard|.|bbc_politics_013.txt|.|7|.|bbc_politics_408.txt|.|5|.|bbc_politics_331.txt|.|6|.|bbc_politics_212.txt|.|2|.|bbc_politics_120.txt|.|3|.|bbc_politics_096.txt|.|6|.|bbc_politics_087.txt|.|6|.|bbc_politics_329.txt|.|2|.|bbc_politics_316.txt|.|2|.|bbc_politics_106.txt|.|4|.|bbc_politics_270.txt|.|6|.|bbc_politics_411.txt|.|3|.|bbc_politics_034.txt|.|4|.|bbc_politics_201.txt|.|2|.|bbc_politics_190.txt|.|4|.|bbc_politics_110.txt|.|2
+tamimi said|.|bbc_politics_062.txt|.|3
+voted labour|.|bbc_politics_062.txt|.|1
+warning to bbc|.|bbc_politics_196.txt|.|1
+testing|.|bbc_politics_349.txt|.|1
+bethnal green|.|bbc_politics_302.txt|.|4
+milburn told|.|bbc_politics_268.txt|.|2
+four little words|.|bbc_politics_346.txt|.|2
+defects|.|bbc_politics_307.txt|.|1
+sly|.|bbc_politics_332.txt|.|2
+conservative mp defects|.|bbc_politics_307.txt|.|1
+mandelson|.|bbc_politics_196.txt|.|4|.|bbc_politics_297.txt|.|4
+battle bus|.|bbc_politics_305.txt|.|3
+cheap political|.|bbc_politics_147.txt|.|2
+labour|.|bbc_politics_349.txt|.|6|.|bbc_politics_331.txt|.|9|.|bbc_politics_153.txt|.|3|.|bbc_politics_073.txt|.|2|.|bbc_politics_107.txt|.|3|.|bbc_politics_277.txt|.|5|.|bbc_politics_196.txt|.|7|.|bbc_politics_336.txt|.|9|.|bbc_politics_256.txt|.|10|.|bbc_politics_362.txt|.|6|.|bbc_politics_254.txt|.|5|.|bbc_politics_343.txt|.|3|.|bbc_politics_318.txt|.|4|.|bbc_politics_305.txt|.|8|.|bbc_politics_330.txt|.|3|.|bbc_politics_340.txt|.|3|.|bbc_politics_289.txt|.|4|.|bbc_politics_268.txt|.|10|.|bbc_politics_406.txt|.|7|.|bbc_politics_411.txt|.|8|.|bbc_politics_099.txt|.|5|.|bbc_politics_175.txt|.|5|.|bbc_politics_110.txt|.|2|.|bbc_politics_004.txt|.|3|.|bbc_politics_415.txt|.|6|.|bbc_politics_062.txt|.|10|.|bbc_politics_037.txt|.|2|.|bbc_politics_228.txt|.|6|.|bbc_politics_342.txt|.|3|.|bbc_politics_236.txt|.|3|.|bbc_politics_304.txt|.|3|.|bbc_politics_295.txt|.|5|.|bbc_politics_258.txt|.|8|.|bbc_politics_282.txt|.|6|.|bbc_politics_297.txt|.|7|.|bbc_politics_367.txt|.|2|.|bbc_politics_278.txt|.|6|.|bbc_politics_307.txt|.|4|.|bbc_politics_332.txt|.|8|.|bbc_politics_302.txt|.|5|.|bbc_politics_346.txt|.|4|.|bbc_politics_147.txt|.|6|.|bbc_politics_413.txt|.|6|.|bbc_politics_257.txt|.|5
+minority women|.|bbc_politics_318.txt|.|2
+asylum seekers|.|bbc_politics_153.txt|.|4
+mr campbell|.|bbc_politics_306.txt|.|4|.|bbc_politics_009.txt|.|7|.|bbc_politics_297.txt|.|3
+telling labour|.|bbc_politics_147.txt|.|2
+event|.|bbc_politics_062.txt|.|3
+muslim voters|.|bbc_politics_062.txt|.|2
+dirty|.|bbc_politics_196.txt|.|3|.|bbc_politics_297.txt|.|3
+conservative mp|.|bbc_politics_307.txt|.|3
+labour stooge|.|bbc_politics_302.txt|.|2
+cunningham|.|bbc_politics_343.txt|.|4|.|bbc_politics_236.txt|.|4
+words|.|bbc_politics_346.txt|.|2
+cheap|.|bbc_politics_147.txt|.|2
+political points|.|bbc_politics_147.txt|.|2
+battle|.|bbc_politics_305.txt|.|4
+core labour|.|bbc_politics_336.txt|.|1
+oliver|.|bbc_politics_268.txt|.|2
+operation|.|bbc_politics_318.txt|.|2
+spring conference|.|bbc_politics_336.txt|.|2
+two men|.|bbc_politics_254.txt|.|4|.|bbc_politics_258.txt|.|3|.|bbc_politics_257.txt|.|2
+points|.|bbc_politics_147.txt|.|3
+spring|.|bbc_politics_336.txt|.|2
+maternity|.|bbc_politics_001.txt|.|9|.|bbc_politics_128.txt|.|3|.|bbc_politics_340.txt|.|4|.|bbc_politics_003.txt|.|2
+warning|.|bbc_politics_196.txt|.|1|.|bbc_politics_090.txt|.|3
+consider|.|bbc_politics_062.txt|.|1
+who said|.|bbc_politics_332.txt|.|2
+mp|.|bbc_politics_410.txt|.|4|.|bbc_politics_307.txt|.|4|.|bbc_politics_273.txt|.|2|.|bbc_politics_399.txt|.|4|.|bbc_politics_144.txt|.|3|.|bbc_politics_075.txt|.|2|.|bbc_politics_157.txt|.|3|.|bbc_politics_143.txt|.|3|.|bbc_politics_113.txt|.|2|.|bbc_politics_415.txt|.|2
+four little|.|bbc_politics_346.txt|.|2
+king|.|bbc_politics_302.txt|.|4
+ms|.|bbc_politics_013.txt|.|2|.|bbc_politics_176.txt|.|2|.|bbc_politics_001.txt|.|3|.|bbc_politics_055.txt|.|5|.|bbc_politics_279.txt|.|5|.|bbc_politics_039.txt|.|5|.|bbc_politics_302.txt|.|3|.|bbc_politics_124.txt|.|7|.|bbc_politics_244.txt|.|6|.|bbc_politics_003.txt|.|3
+oliver letwin|.|bbc_politics_268.txt|.|2
+defect to labour|.|bbc_politics_307.txt|.|1
+headquarters|.|bbc_politics_278.txt|.|2
+mr mandelson|.|bbc_politics_196.txt|.|2|.|bbc_politics_297.txt|.|2
+outspent|.|bbc_politics_304.txt|.|2
+flying|.|bbc_politics_228.txt|.|1
+survey|.|bbc_politics_269.txt|.|3
+aggressively promoting|.|bbc_politics_338.txt|.|2
+wyatt and said|.|bbc_politics_415.txt|.|1
+opposition parties|.|bbc_politics_362.txt|.|3
+operation black|.|bbc_politics_318.txt|.|2
+secretary told|.|bbc_politics_358.txt|.|2
+little|.|bbc_politics_346.txt|.|2|.|bbc_politics_269.txt|.|3
+parents|.|bbc_politics_067.txt|.|4|.|bbc_politics_051.txt|.|6|.|bbc_politics_390.txt|.|4|.|bbc_politics_030.txt|.|3
+labour mps|.|bbc_politics_258.txt|.|2|.|bbc_politics_256.txt|.|2
+no|.|bbc_politics_013.txt|.|3|.|bbc_politics_169.txt|.|2|.|bbc_politics_353.txt|.|5|.|bbc_politics_072.txt|.|4|.|bbc_politics_405.txt|.|2|.|bbc_politics_200.txt|.|8
+problem debts|.|bbc_politics_338.txt|.|1
+code|.|bbc_politics_136.txt|.|6
+playing games|.|bbc_politics_199.txt|.|3
+hughes|.|bbc_politics_268.txt|.|2
+unveil|.|bbc_politics_153.txt|.|1|.|bbc_politics_340.txt|.|2|.|bbc_politics_226.txt|.|1
+terrorists|.|bbc_politics_290.txt|.|16|.|bbc_politics_379.txt|.|2
+dems|.|bbc_politics_301.txt|.|6|.|bbc_politics_403.txt|.|2|.|bbc_politics_272.txt|.|4|.|bbc_politics_102.txt|.|1|.|bbc_politics_396.txt|.|3|.|bbc_politics_213.txt|.|5|.|bbc_politics_085.txt|.|1|.|bbc_politics_269.txt|.|2|.|bbc_politics_300.txt|.|1|.|bbc_politics_141.txt|.|1|.|bbc_politics_340.txt|.|3|.|bbc_politics_339.txt|.|6|.|bbc_politics_387.txt|.|2|.|bbc_politics_361.txt|.|2|.|bbc_politics_398.txt|.|3|.|bbc_politics_223.txt|.|2|.|bbc_politics_070.txt|.|2|.|bbc_politics_338.txt|.|4|.|bbc_politics_235.txt|.|2|.|bbc_politics_014.txt|.|2|.|bbc_politics_341.txt|.|2|.|bbc_politics_182.txt|.|2|.|bbc_politics_417.txt|.|2|.|bbc_politics_054.txt|.|3|.|bbc_politics_283.txt|.|3|.|bbc_politics_002.txt|.|1
+mental|.|bbc_politics_068.txt|.|3|.|bbc_politics_214.txt|.|3
+media|.|bbc_politics_306.txt|.|2|.|bbc_politics_133.txt|.|2|.|bbc_politics_196.txt|.|2|.|bbc_politics_297.txt|.|2
+bethnal|.|bbc_politics_302.txt|.|4
+new labour|.|bbc_politics_278.txt|.|2|.|bbc_politics_107.txt|.|3|.|bbc_politics_342.txt|.|3|.|bbc_politics_302.txt|.|3|.|bbc_politics_268.txt|.|4|.|bbc_politics_099.txt|.|1
+living wills|.|bbc_politics_068.txt|.|2
+racial|.|bbc_politics_318.txt|.|1
+said voters|.|bbc_politics_277.txt|.|2
+ruth kelly|.|bbc_politics_055.txt|.|2|.|bbc_politics_157.txt|.|2
+opus dei|.|bbc_politics_055.txt|.|3
+issues that muslims|.|bbc_politics_062.txt|.|1
+police chief|.|bbc_politics_198.txt|.|3
+mp defects|.|bbc_politics_307.txt|.|1
+tory spokesman|.|bbc_politics_332.txt|.|2
+lane|.|bbc_politics_336.txt|.|3
+muslims should consider|.|bbc_politics_062.txt|.|1
+minimum wage|.|bbc_politics_380.txt|.|43
+flying pigs|.|bbc_politics_228.txt|.|1
+maintain services|.|bbc_politics_241.txt|.|3
+than men|.|bbc_politics_246.txt|.|2
+race|.|bbc_politics_318.txt|.|2
+warmly welcomed|.|bbc_politics_307.txt|.|1
+ms king|.|bbc_politics_302.txt|.|3
+tricks|.|bbc_politics_196.txt|.|3|.|bbc_politics_377.txt|.|3|.|bbc_politics_297.txt|.|3
+manifesto for women|.|bbc_politics_340.txt|.|1
+labour group|.|bbc_politics_336.txt|.|2
+outspent both labour|.|bbc_politics_304.txt|.|1
+warns bbc|.|bbc_politics_297.txt|.|1
+mp defects to labour|.|bbc_politics_307.txt|.|1

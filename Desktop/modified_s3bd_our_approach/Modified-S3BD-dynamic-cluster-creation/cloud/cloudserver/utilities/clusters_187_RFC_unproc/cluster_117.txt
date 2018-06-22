@@ -1,0 +1,120 @@
+example scheme|.|rfc3087.txt|.|6
+isdn|.|rfc2127.txt|.|154|.|rfc4129.txt|.|8|.|rfc3033.txt|.|3|.|rfc4715.txt|.|73
+transfer call|.|rfc5589.txt|.|9
+client transaction state|.|rfc6026.txt|.|6
+visited network|.|rfc3455.txt|.|24
+sip request|.|rfc2543.txt|.|25|.|rfc4484.txt|.|12|.|rfc5364.txt|.|55|.|rfc4474.txt|.|13
+interworking sip|.|rfc3976.txt|.|27
+sip enumservice|.|rfc3764.txt|.|7
+vemuri|.|rfc3372.txt|.|25
+jennings informational|.|rfc5039.txt|.|28
+mule|.|rfc6271.txt|.|25
+peering requirements|.|rfc6271.txt|.|22
+diversion indication|.|rfc5806.txt|.|53
+sip server|.|rfc3361.txt|.|12|.|rfc4123.txt|.|6|.|rfc4740.txt|.|319
+refer target|.|rfc3892.txt|.|37
+time text|.|rfc5194.txt|.|3
+prack|.|rfc4497.txt|.|33
+join header|.|rfc3911.txt|.|43
+reject contact|.|rfc4596.txt|.|3|.|rfc3841.txt|.|3
+sip spam january|.|rfc5039.txt|.|27
+call flows|.|rfc3666.txt|.|130|.|rfc6216.txt|.|71|.|rfc5407.txt|.|65
+sip message|.|rfc5606.txt|.|13|.|rfc3893.txt|.|5|.|rfc3204.txt|.|3|.|rfc3428.txt|.|18|.|rfc3842.txt|.|18|.|rfc3420.txt|.|17
+invite contact|.|rfc5359.txt|.|134
+munakata informational|.|rfc5379.txt|.|23
+torture tests|.|rfc4465.txt|.|82|.|rfc5118.txt|.|19
+complete path|.|rfc6049.txt|.|36
+nomcom issues|.|rfc5680.txt|.|6
+patch march|.|rfc5789.txt|.|9
+established session|.|rfc4964.txt|.|1
+sppi|.|rfc3216.txt|.|55
+idxp greeting|.|rfc4767.txt|.|2
+poc settings|.|rfc4354.txt|.|30
+supplemental atm|.|rfc3606.txt|.|93
+message requests|.|rfc3428.txt|.|28
+negotiate usage|.|rfc6223.txt|.|10
+answer mode|.|rfc5373.txt|.|5
+sip state|.|rfc3976.txt|.|15
+examples|.|rfc4317.txt|.|36|.|rfc5398.txt|.|7|.|rfc2905.txt|.|55|.|rfc4134.txt|.|164|.|rfc3665.txt|.|101|.|rfc3759.txt|.|25|.|rfc4735.txt|.|4|.|rfc5359.txt|.|184
+issn|.|rfc3044.txt|.|149
+user profile|.|rfc4740.txt|.|36
+sip call|.|rfc5806.txt|.|2
+protocol state|.|rfc3976.txt|.|33
+endpoints september|.|rfc5638.txt|.|18
+serving proxy|.|rfc4083.txt|.|26
+sip protocol|.|rfc3976.txt|.|33
+answer state|.|rfc4964.txt|.|2
+message waiting|.|rfc3842.txt|.|25
+agboh|.|rfc4123.txt|.|18
+hearing|.|rfc3351.txt|.|69
+kaplan|.|rfc5947.txt|.|15
+number routing|.|rfc6140.txt|.|34
+sip december|.|rfc5049.txt|.|20|.|rfc3427.txt|.|11|.|rfc3969.txt|.|5|.|rfc3327.txt|.|16|.|rfc5393.txt|.|19
+message method|.|rfc3428.txt|.|12
+message extension|.|rfc3428.txt|.|17
+mahy standards|.|rfc3842.txt|.|19
+information august|.|rfc3857.txt|.|19
+spam|.|rfc2635.txt|.|70|.|rfc2505.txt|.|47|.|rfc5039.txt|.|168
+sip devices|.|rfc4504.txt|.|9
+secure call|.|rfc6216.txt|.|66
+sin enabled|.|rfc3976.txt|.|2
+early dialog|.|rfc6228.txt|.|41
+proxy server|.|rfc2543.txt|.|52|.|rfc4189.txt|.|30|.|rfc5806.txt|.|42
+reputation|.|rfc5039.txt|.|40|.|rfc5765.txt|.|26
+connect message|.|rfc4497.txt|.|24
+ua behavior|.|rfc5621.txt|.|20
+mohali|.|rfc5806.txt|.|55
+outbound|.|rfc5291.txt|.|24|.|rfc5292.txt|.|9|.|rfc4083.txt|.|41|.|rfc6223.txt|.|22
+applications in endpoints|.|rfc5638.txt|.|18
+trait|.|rfc4484.txt|.|10
+talk|.|rfc4964.txt|.|10
+locating sip|.|rfc3263.txt|.|17
+req|.|rfc4123.txt|.|15
+call flow examples|.|rfc3665.txt|.|96
+mohali historic|.|rfc5806.txt|.|53
+number information element|.|rfc4497.txt|.|44
+including|.|rfc5606.txt|.|9
+speech impaired|.|rfc3351.txt|.|16
+en|.|rfc4497.txt|.|14
+lingle|.|rfc4780.txt|.|89
+accept contact|.|rfc4596.txt|.|6|.|rfc3841.txt|.|4
+consent|.|rfc5362.txt|.|1|.|rfc5360.txt|.|52|.|rfc4453.txt|.|18
+examples october|.|rfc5359.txt|.|169
+terminating proxy|.|rfc3603.txt|.|32|.|rfc5503.txt|.|30
+real time text|.|rfc5194.txt|.|3
+message summary|.|rfc3842.txt|.|8
+locating|.|rfc2739.txt|.|15|.|rfc3263.txt|.|17
+certs june|.|rfc5922.txt|.|16
+services document|.|rfc4826.txt|.|17
+keep alives|.|rfc6223.txt|.|5
+globally|.|rfc4085.txt|.|1|.|rfc6140.txt|.|43
+call processing|.|rfc2824.txt|.|23
+qsig connect message|.|rfc4497.txt|.|23
+retransmission allowed|.|rfc5606.txt|.|4
+conveyed|.|rfc5606.txt|.|4
+sip usage|.|rfc5638.txt|.|20
+push to talk|.|rfc4964.txt|.|10
+sip conferencing|.|rfc4245.txt|.|9
+enumservice april|.|rfc3764.txt|.|7
+applicable to sip|.|rfc4780.txt|.|7
+sin|.|rfc3976.txt|.|22
+sip|.|rfc3311.txt|.|22|.|rfc3486.txt|.|52|.|rfc4168.txt|.|72|.|rfc3893.txt|.|42|.|rfc5638.txt|.|226|.|rfc3680.txt|.|67|.|rfc4575.txt|.|48|.|rfc3087.txt|.|160|.|rfc3842.txt|.|63|.|rfc5621.txt|.|92|.|rfc3303.txt|.|85|.|rfc5727.txt|.|99|.|rfc6141.txt|.|41|.|rfc4567.txt|.|29|.|rfc4117.txt|.|29|.|rfc5194.txt|.|72|.|rfc3372.txt|.|167|.|rfc5379.txt|.|61|.|rfc3840.txt|.|105|.|rfc3204.txt|.|18|.|rfc4240.txt|.|76|.|rfc2824.txt|.|30|.|rfc5875.txt|.|30|.|rfc3603.txt|.|47|.|rfc5239.txt|.|47|.|rfc4354.txt|.|45|.|rfc5806.txt|.|197|.|rfc4964.txt|.|216|.|rfc3911.txt|.|72|.|rfc3857.txt|.|21|.|rfc4504.txt|.|310|.|rfc3666.txt|.|416|.|rfc6216.txt|.|103|.|rfc6011.txt|.|79|.|rfc5364.txt|.|91|.|rfc3050.txt|.|197|.|rfc2976.txt|.|47|.|rfc3420.txt|.|44|.|rfc3966.txt|.|32|.|rfc6026.txt|.|34|.|rfc4245.txt|.|51|.|rfc4662.txt|.|83|.|rfc3702.txt|.|109|.|rfc3427.txt|.|103|.|rfc5839.txt|.|62|.|rfc4484.txt|.|61|.|rfc4123.txt|.|99|.|rfc5923.txt|.|53|.|rfc4313.txt|.|19|.|rfc3830.txt|.|21|.|rfc2995.txt|.|63|.|rfc4189.txt|.|13|.|rfc5022.txt|.|84|.|rfc3969.txt|.|36|.|rfc5359.txt|.|552|.|rfc5368.txt|.|55|.|rfc3608.txt|.|41|.|rfc4660.txt|.|24|.|rfc5058.txt|.|12|.|rfc4722.txt|.|84|.|rfc5897.txt|.|71|.|rfc5393.txt|.|60|.|rfc3725.txt|.|58|.|rfc4780.txt|.|427|.|rfc5989.txt|.|84|.|rfc6271.txt|.|145|.|rfc3262.txt|.|23|.|rfc5039.txt|.|139|.|rfc4590.txt|.|37|.|rfc5479.txt|.|70|.|rfc3313.txt|.|64|.|rfc5118.txt|.|72|.|rfc3515.txt|.|81|.|rfc5922.txt|.|100|.|rfc3892.txt|.|66|.|rfc4353.txt|.|103|.|rfc4485.txt|.|171|.|rfc3485.txt|.|80|.|rfc3329.txt|.|77|.|rfc3487.txt|.|82|.|rfc5002.txt|.|23|.|rfc5947.txt|.|58|.|rfc3319.txt|.|67|.|rfc3841.txt|.|42|.|rfc5606.txt|.|68|.|rfc4916.txt|.|57|.|rfc3351.txt|.|34|.|rfc2848.txt|.|125|.|rfc4896.txt|.|13|.|rfc3764.txt|.|49|.|rfc5924.txt|.|50|.|rfc6140.txt|.|89|.|rfc4479.txt|.|35|.|rfc6228.txt|.|37|.|rfc3665.txt|.|374|.|rfc3428.txt|.|70|.|rfc4497.txt|.|616|.|rfc3856.txt|.|100|.|rfc5049.txt|.|108|.|rfc4596.txt|.|73|.|rfc4083.txt|.|262|.|rfc5057.txt|.|38|.|rfc3325.txt|.|72|.|rfc5552.txt|.|106|.|rfc4740.txt|.|770|.|rfc5853.txt|.|90|.|rfc3455.txt|.|194|.|rfc3323.txt|.|72|.|rfc4032.txt|.|22|.|rfc4412.txt|.|156|.|rfc4730.txt|.|68|.|rfc4579.txt|.|145|.|rfc3880.txt|.|56|.|rfc4235.txt|.|36|.|rfc5012.txt|.|21|.|rfc3903.txt|.|74|.|rfc2543.txt|.|547|.|rfc5373.txt|.|72|.|rfc5360.txt|.|77|.|rfc3976.txt|.|219|.|rfc6076.txt|.|68|.|rfc3327.txt|.|57|.|rfc4474.txt|.|171|.|rfc6223.txt|.|135|.|rfc5589.txt|.|134|.|rfc4826.txt|.|25|.|rfc3361.txt|.|40|.|rfc4508.txt|.|14|.|rfc4542.txt|.|73|.|rfc4715.txt|.|24|.|rfc3581.txt|.|24|.|rfc5503.txt|.|55|.|rfc3263.txt|.|95|.|rfc6157.txt|.|59
+usages|.|rfc6086.txt|.|19|.|rfc5057.txt|.|112
+mime body|.|rfc5703.txt|.|12|.|rfc3893.txt|.|7|.|rfc2161.txt|.|5|.|rfc2159.txt|.|7
+outbound proxy|.|rfc4083.txt|.|39
+attended|.|rfc5589.txt|.|25
+indication in sip|.|rfc5806.txt|.|53
+applying|.|rfc5049.txt|.|21
+petrie standards|.|rfc3911.txt|.|17
+spammer|.|rfc5039.txt|.|26
+aor reachability|.|rfc5947.txt|.|13
+monitor|.|rfc6291.txt|.|3|.|rfc2959.txt|.|29|.|rfc56.txt|.|11|.|rfc2981.txt|.|8|.|rfc5989.txt|.|29|.|rfc620.txt|.|3
+state header|.|rfc4964.txt|.|1
+proxied|.|rfc3050.txt|.|21
+phone number|.|rfc3966.txt|.|8|.|rfc2477.txt|.|16|.|rfc2871.txt|.|16|.|rfc2806.txt|.|36
+alives|.|rfc6223.txt|.|5
+sipping tba|.|rfc4484.txt|.|14
+sip telephony|.|rfc4504.txt|.|181
+sip uri|.|rfc5002.txt|.|4|.|rfc3263.txt|.|11
+including location|.|rfc5606.txt|.|3
+sessions initiated|.|rfc2976.txt|.|3

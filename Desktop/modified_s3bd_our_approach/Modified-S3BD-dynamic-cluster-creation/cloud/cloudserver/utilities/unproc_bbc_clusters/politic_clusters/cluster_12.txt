@@ -1,0 +1,104 @@
+12
+european council|.|bbc_politics_358.txt|.|2
+parenting contracts|.|bbc_politics_030.txt|.|2
+dei|.|bbc_politics_055.txt|.|3
+smart acquisition|.|bbc_politics_076.txt|.|2
+firm|.|bbc_politics_045.txt|.|3
+million people|.|bbc_politics_018.txt|.|2
+subsidised|.|bbc_politics_383.txt|.|2|.|bbc_politics_082.txt|.|2
+next week|.|bbc_politics_358.txt|.|1
+shows former|.|bbc_politics_320.txt|.|2
+announcement|.|bbc_politics_187.txt|.|2|.|bbc_politics_031.txt|.|2
+lords ruled|.|bbc_politics_384.txt|.|1
+aimed at averting|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+taxpayer subsidised|.|bbc_politics_383.txt|.|2|.|bbc_politics_082.txt|.|2
+made|.|bbc_politics_156.txt|.|4|.|bbc_politics_149.txt|.|2
+allied|.|bbc_politics_065.txt|.|2
+shortages in key|.|bbc_politics_016.txt|.|3
+new white|.|bbc_politics_383.txt|.|2|.|bbc_politics_082.txt|.|2
+child support|.|bbc_politics_156.txt|.|2|.|bbc_politics_116.txt|.|2|.|bbc_politics_315.txt|.|3
+warned|.|bbc_politics_329.txt|.|1|.|bbc_politics_116.txt|.|2|.|bbc_politics_219.txt|.|1
+propaganda exercise|.|bbc_politics_383.txt|.|2|.|bbc_politics_082.txt|.|2
+student loans|.|bbc_politics_246.txt|.|2
+male|.|bbc_politics_003.txt|.|2
+suspends|.|bbc_politics_170.txt|.|1
+religious|.|bbc_politics_244.txt|.|2
+guantanamo bay|.|bbc_politics_194.txt|.|2|.|bbc_politics_205.txt|.|2|.|bbc_politics_100.txt|.|2|.|bbc_politics_065.txt|.|5|.|bbc_politics_192.txt|.|2|.|bbc_politics_151.txt|.|2
+spokesman said|.|bbc_politics_318.txt|.|3|.|bbc_politics_207.txt|.|2
+industry|.|bbc_politics_199.txt|.|6|.|bbc_politics_243.txt|.|3
+health secretary|.|bbc_politics_320.txt|.|1
+christian|.|bbc_politics_172.txt|.|2|.|bbc_politics_151.txt|.|2
+ian|.|bbc_politics_379.txt|.|3|.|bbc_politics_160.txt|.|2
+referendum question|.|bbc_politics_142.txt|.|3
+free|.|bbc_politics_098.txt|.|3|.|bbc_politics_050.txt|.|1|.|bbc_politics_171.txt|.|2
+johnson said|.|bbc_politics_132.txt|.|2
+mr straw|.|bbc_politics_386.txt|.|7|.|bbc_politics_383.txt|.|5|.|bbc_politics_029.txt|.|2|.|bbc_politics_192.txt|.|2|.|bbc_politics_082.txt|.|5|.|bbc_politics_058.txt|.|3
+irregularities|.|bbc_politics_138.txt|.|3
+llwyd|.|bbc_politics_177.txt|.|4
+seekers|.|bbc_politics_153.txt|.|4
+jack straw|.|bbc_politics_142.txt|.|2
+mr wallace|.|bbc_politics_047.txt|.|3
+appeal|.|bbc_politics_173.txt|.|2|.|bbc_politics_179.txt|.|2|.|bbc_politics_201.txt|.|1
+appealed against the police actions|.|bbc_politics_131.txt|.|1
+earnings|.|bbc_politics_320.txt|.|1
+face|.|bbc_politics_314.txt|.|1|.|bbc_politics_384.txt|.|3
+watch|.|bbc_politics_136.txt|.|2
+permanent|.|bbc_politics_156.txt|.|2
+fish|.|bbc_politics_243.txt|.|5
+clarke said|.|bbc_politics_056.txt|.|2|.|bbc_politics_221.txt|.|2
+khan|.|bbc_politics_279.txt|.|6
+paul|.|bbc_politics_407.txt|.|6
+experts|.|bbc_politics_090.txt|.|2
+taxpayer subsidised propaganda exercise|.|bbc_politics_082.txt|.|2
+report said|.|bbc_politics_006.txt|.|2
+fees|.|bbc_politics_246.txt|.|4|.|bbc_politics_047.txt|.|7|.|bbc_politics_213.txt|.|6|.|bbc_politics_320.txt|.|3
+protects|.|bbc_politics_230.txt|.|2
+abortion|.|bbc_politics_405.txt|.|9
+winter deaths|.|bbc_politics_091.txt|.|2
+pakistani community|.|bbc_politics_155.txt|.|2
+boateng|.|bbc_politics_407.txt|.|7
+radio|.|bbc_politics_157.txt|.|2|.|bbc_politics_060.txt|.|2|.|bbc_politics_166.txt|.|2
+spiritual support|.|bbc_politics_055.txt|.|2
+shows|.|bbc_politics_320.txt|.|3
+portillo|.|bbc_politics_320.txt|.|2
+negotiation|.|bbc_politics_051.txt|.|2|.|bbc_politics_358.txt|.|1
+freedom of information act|.|bbc_politics_242.txt|.|2
+face house arrest|.|bbc_politics_384.txt|.|3
+allander institute|.|bbc_politics_098.txt|.|2
+ms kelly|.|bbc_politics_055.txt|.|5|.|bbc_politics_244.txt|.|4
+las|.|bbc_politics_133.txt|.|2
+police authorities|.|bbc_politics_347.txt|.|4
+eu referendum|.|bbc_politics_142.txt|.|2
+straw|.|bbc_politics_386.txt|.|9|.|bbc_politics_139.txt|.|5|.|bbc_politics_142.txt|.|3|.|bbc_politics_358.txt|.|3|.|bbc_politics_383.txt|.|6|.|bbc_politics_029.txt|.|3|.|bbc_politics_192.txt|.|3|.|bbc_politics_082.txt|.|6|.|bbc_politics_373.txt|.|4|.|bbc_politics_018.txt|.|3|.|bbc_politics_058.txt|.|4
+square|.|bbc_politics_136.txt|.|4
+treasury|.|bbc_politics_407.txt|.|3
+bbc radio|.|bbc_politics_157.txt|.|2|.|bbc_politics_060.txt|.|2|.|bbc_politics_166.txt|.|2
+constitution|.|bbc_politics_391.txt|.|3|.|bbc_politics_142.txt|.|9|.|bbc_politics_222.txt|.|7|.|bbc_politics_383.txt|.|6
+exports|.|bbc_politics_136.txt|.|2
+paul boateng|.|bbc_politics_407.txt|.|2
+permanent secretary|.|bbc_politics_156.txt|.|2
+bad name|.|bbc_politics_160.txt|.|2
+alcohol problems|.|bbc_politics_214.txt|.|2
+disruptive children|.|bbc_politics_055.txt|.|2
+hour|.|bbc_politics_202.txt|.|1
+law lords|.|bbc_politics_368.txt|.|6|.|bbc_politics_224.txt|.|3|.|bbc_politics_221.txt|.|3|.|bbc_politics_384.txt|.|3|.|bbc_politics_040.txt|.|4|.|bbc_politics_097.txt|.|2
+men|.|bbc_politics_254.txt|.|7|.|bbc_politics_246.txt|.|2|.|bbc_politics_144.txt|.|3|.|bbc_politics_151.txt|.|7|.|bbc_politics_258.txt|.|3|.|bbc_politics_257.txt|.|2
+abbas|.|bbc_politics_209.txt|.|6|.|bbc_politics_149.txt|.|3
+smoking|.|bbc_politics_050.txt|.|9
+work and pensions|.|bbc_politics_116.txt|.|3
+mep|.|bbc_politics_292.txt|.|5
+human|.|bbc_politics_368.txt|.|4|.|bbc_politics_279.txt|.|16|.|bbc_politics_221.txt|.|4|.|bbc_politics_131.txt|.|3|.|bbc_politics_384.txt|.|6|.|bbc_politics_040.txt|.|3|.|bbc_politics_280.txt|.|2|.|bbc_politics_215.txt|.|4|.|bbc_politics_229.txt|.|4|.|bbc_politics_224.txt|.|4|.|bbc_politics_214.txt|.|2|.|bbc_politics_173.txt|.|4|.|bbc_politics_136.txt|.|5|.|bbc_politics_216.txt|.|3
+mr boateng|.|bbc_politics_407.txt|.|4
+heard|.|bbc_politics_148.txt|.|3
+opposed|.|bbc_politics_381.txt|.|1
+macdonell|.|bbc_politics_019.txt|.|4
+sir john was made|.|bbc_politics_156.txt|.|1
+eu rebate|.|bbc_politics_358.txt|.|2
+held by the us|.|bbc_politics_192.txt|.|2
+constable|.|bbc_politics_198.txt|.|3
+moazzam|.|bbc_politics_192.txt|.|3
+cut winter|.|bbc_politics_091.txt|.|2
+agencies working|.|bbc_politics_388.txt|.|1
+eu constitution|.|bbc_politics_142.txt|.|2|.|bbc_politics_383.txt|.|2
+comprehensive ban|.|bbc_politics_050.txt|.|2
+otis|.|bbc_politics_066.txt|.|2

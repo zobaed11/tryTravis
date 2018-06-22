@@ -1,0 +1,64 @@
+legend|.|bbc_sport_395.txt|.|1
+gambling|.|bbc_politics_133.txt|.|3|.|bbc_politics_187.txt|.|6|.|bbc_tech_270.txt|.|3|.|bbc_politics_010.txt|.|2|.|bbc_politics_377.txt|.|5|.|bbc_tech_299.txt|.|3
+evil twin|.|bbc_tech_073.txt|.|3
+public sector|.|bbc_politics_312.txt|.|4|.|bbc_politics_311.txt|.|4|.|bbc_politics_069.txt|.|4|.|bbc_politics_294.txt|.|2
+alfa|.|bbc_business_369.txt|.|1|.|bbc_business_148.txt|.|5
+grady|.|bbc_sport_107.txt|.|7
+west end to honour|.|bbc_entertainment_008.txt|.|1
+carpenter|.|bbc_tech_366.txt|.|9
+ebbers|.|bbc_business_196.txt|.|7|.|bbc_business_465.txt|.|5|.|bbc_business_059.txt|.|7|.|bbc_business_087.txt|.|7|.|bbc_business_246.txt|.|13|.|bbc_business_100.txt|.|10|.|bbc_business_114.txt|.|11
+wireless net|.|bbc_tech_073.txt|.|2
+top of the supercomputing chart|.|bbc_tech_141.txt|.|1
+tagged|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+computer infection|.|bbc_tech_385.txt|.|1
+strict|.|bbc_tech_002.txt|.|2
+net|.|bbc_tech_385.txt|.|2|.|bbc_tech_350.txt|.|4|.|bbc_tech_398.txt|.|2|.|bbc_tech_270.txt|.|8|.|bbc_business_464.txt|.|2|.|bbc_tech_002.txt|.|15|.|bbc_tech_364.txt|.|5|.|bbc_tech_316.txt|.|13|.|bbc_tech_368.txt|.|6|.|bbc_tech_089.txt|.|2|.|bbc_tech_011.txt|.|5|.|bbc_tech_211.txt|.|3|.|bbc_tech_136.txt|.|2|.|bbc_tech_042.txt|.|6|.|bbc_tech_267.txt|.|4|.|bbc_tech_339.txt|.|6|.|bbc_tech_365.txt|.|2|.|bbc_tech_175.txt|.|3|.|bbc_tech_073.txt|.|4|.|bbc_tech_361.txt|.|5|.|bbc_tech_366.txt|.|15|.|bbc_tech_081.txt|.|4|.|bbc_business_503.txt|.|2|.|bbc_business_479.txt|.|3|.|bbc_tech_310.txt|.|2|.|bbc_tech_087.txt|.|9|.|bbc_tech_299.txt|.|8|.|bbc_tech_221.txt|.|2|.|bbc_tech_397.txt|.|3|.|bbc_tech_392.txt|.|5|.|bbc_tech_031.txt|.|5|.|bbc_tech_074.txt|.|16|.|bbc_tech_227.txt|.|2|.|bbc_tech_150.txt|.|5|.|bbc_tech_129.txt|.|3|.|bbc_tech_226.txt|.|3|.|bbc_tech_393.txt|.|4|.|bbc_business_288.txt|.|2|.|bbc_tech_010.txt|.|2
+commands|.|bbc_tech_310.txt|.|1|.|bbc_tech_089.txt|.|1
+crackdown|.|bbc_tech_002.txt|.|4
+broke|.|bbc_sport_444.txt|.|2|.|bbc_sport_483.txt|.|2|.|bbc_sport_458.txt|.|2|.|bbc_sport_511.txt|.|2|.|bbc_tech_273.txt|.|3
+news agency|.|bbc_tech_002.txt|.|2
+dr carpenter|.|bbc_tech_366.txt|.|8
+spot|.|bbc_sport_419.txt|.|2|.|bbc_tech_081.txt|.|3|.|bbc_entertainment_109.txt|.|2|.|bbc_tech_393.txt|.|3|.|bbc_entertainment_144.txt|.|2
+tube lines|.|bbc_business_341.txt|.|2
+spammers|.|bbc_tech_214.txt|.|3|.|bbc_tech_273.txt|.|6
+evil|.|bbc_tech_073.txt|.|4
+carling cup final|.|bbc_sport_174.txt|.|2
+net use|.|bbc_tech_074.txt|.|3
+internet access|.|bbc_tech_211.txt|.|4|.|bbc_tech_226.txt|.|4
+accessible|.|bbc_tech_310.txt|.|1|.|bbc_tech_089.txt|.|1
+phone calls|.|bbc_tech_042.txt|.|2|.|bbc_tech_339.txt|.|2
+high fuel|.|bbc_business_466.txt|.|4|.|bbc_business_004.txt|.|2
+rsa|.|bbc_tech_346.txt|.|5
+works|.|bbc_tech_366.txt|.|2
+oversees|.|bbc_tech_366.txt|.|1
+chinese authorities|.|bbc_tech_002.txt|.|2
+new chair|.|bbc_tech_366.txt|.|2
+isbn|.|bbc_tech_010.txt|.|3
+dialler scams|.|bbc_tech_397.txt|.|2
+blanchett|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_354.txt|.|2|.|bbc_entertainment_038.txt|.|2
+net works|.|bbc_tech_366.txt|.|1
+opera browser|.|bbc_tech_310.txt|.|1|.|bbc_tech_089.txt|.|1
+pockets|.|bbc_business_403.txt|.|2
+strict guidelines|.|bbc_tech_002.txt|.|2
+arm|.|bbc_sport_411.txt|.|3
+architecture|.|bbc_tech_366.txt|.|3
+training squad|.|bbc_sport_383.txt|.|2
+net content|.|bbc_tech_087.txt|.|2
+dwain|.|bbc_sport_092.txt|.|2
+isbn number|.|bbc_tech_010.txt|.|2
+toolbar|.|bbc_tech_010.txt|.|3
+questioned said|.|bbc_tech_081.txt|.|3|.|bbc_tech_393.txt|.|3
+real hotspot|.|bbc_tech_073.txt|.|1
+cafes operate|.|bbc_tech_002.txt|.|1
+mr mallon|.|bbc_politics_200.txt|.|4
+seagrave|.|bbc_tech_270.txt|.|4|.|bbc_tech_299.txt|.|4
+web access|.|bbc_tech_392.txt|.|1|.|bbc_tech_150.txt|.|1
+ask|.|bbc_tech_318.txt|.|9|.|bbc_tech_081.txt|.|2|.|bbc_business_011.txt|.|4|.|bbc_tech_213.txt|.|7|.|bbc_tech_393.txt|.|2|.|bbc_tech_062.txt|.|9|.|bbc_politics_401.txt|.|1
+net industry|.|bbc_tech_087.txt|.|2
+yahoo remains|.|bbc_tech_337.txt|.|2
+mexican open|.|bbc_sport_429.txt|.|2
+chinese people|.|bbc_tech_074.txt|.|4
+engine users|.|bbc_tech_081.txt|.|2|.|bbc_tech_393.txt|.|2
+signing|.|bbc_sport_186.txt|.|2|.|bbc_tech_175.txt|.|3|.|bbc_tech_129.txt|.|3
+net cafes|.|bbc_tech_002.txt|.|10
+rupees a year earlier|.|bbc_business_503.txt|.|2

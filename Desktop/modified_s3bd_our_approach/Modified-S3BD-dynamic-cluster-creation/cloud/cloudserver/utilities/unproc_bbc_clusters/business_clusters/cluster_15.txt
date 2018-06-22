@@ -1,0 +1,113 @@
+15
+bombardier|.|bbc_business_304.txt|.|6
+brothers|.|bbc_business_379.txt|.|3
+scott sullivan|.|bbc_business_100.txt|.|2
+issues|.|bbc_business_487.txt|.|3
+securities|.|bbc_business_331.txt|.|2|.|bbc_business_338.txt|.|1
+modest|.|bbc_business_143.txt|.|2
+dutch|.|bbc_business_111.txt|.|1
+group said|.|bbc_business_029.txt|.|2
+ashburton|.|bbc_business_271.txt|.|2
+ashburton grove|.|bbc_business_271.txt|.|2
+fao|.|bbc_business_067.txt|.|5
+operator euronext|.|bbc_business_454.txt|.|1
+taxed|.|bbc_business_071.txt|.|1
+air passengers|.|bbc_business_015.txt|.|3
+chalone|.|bbc_business_321.txt|.|3
+cash|.|bbc_business_200.txt|.|2|.|bbc_business_264.txt|.|2|.|bbc_business_362.txt|.|4|.|bbc_business_404.txt|.|2
+victims|.|bbc_business_187.txt|.|6|.|bbc_business_337.txt|.|5
+petrochemicals|.|bbc_business_379.txt|.|3
+rise in exports|.|bbc_business_441.txt|.|1
+overbooking|.|bbc_business_015.txt|.|4
+vestey group|.|bbc_business_029.txt|.|3
+foreign currency|.|bbc_business_018.txt|.|2
+hariri|.|bbc_business_167.txt|.|5
+supply chain|.|bbc_business_397.txt|.|2
+authorities said|.|bbc_business_029.txt|.|1
+vestey|.|bbc_business_029.txt|.|3
+made|.|bbc_business_479.txt|.|2|.|bbc_business_311.txt|.|1
+gifts is that the children|.|bbc_business_268.txt|.|1
+european stock|.|bbc_business_319.txt|.|1
+new rules|.|bbc_business_015.txt|.|2
+limiting|.|bbc_business_305.txt|.|1
+demand|.|bbc_business_310.txt|.|2|.|bbc_business_111.txt|.|2|.|bbc_business_046.txt|.|4|.|bbc_business_503.txt|.|2|.|bbc_business_054.txt|.|3|.|bbc_business_380.txt|.|2|.|bbc_business_408.txt|.|4|.|bbc_business_270.txt|.|2|.|bbc_business_274.txt|.|2|.|bbc_business_045.txt|.|2|.|bbc_business_010.txt|.|1|.|bbc_business_174.txt|.|3|.|bbc_business_360.txt|.|2|.|bbc_business_028.txt|.|5|.|bbc_business_355.txt|.|2|.|bbc_business_156.txt|.|3|.|bbc_business_476.txt|.|3|.|bbc_business_474.txt|.|2|.|bbc_business_141.txt|.|2|.|bbc_business_152.txt|.|2|.|bbc_business_351.txt|.|2
+sunday|.|bbc_business_166.txt|.|3|.|bbc_business_014.txt|.|2|.|bbc_business_203.txt|.|3|.|bbc_business_421.txt|.|2|.|bbc_business_179.txt|.|3
+cars|.|bbc_business_430.txt|.|2|.|bbc_business_410.txt|.|2|.|bbc_business_049.txt|.|7
+phone|.|bbc_business_129.txt|.|2|.|bbc_business_202.txt|.|4|.|bbc_business_162.txt|.|2|.|bbc_business_188.txt|.|3|.|bbc_business_236.txt|.|2|.|bbc_business_113.txt|.|4
+farms|.|bbc_business_388.txt|.|3
+slide|.|bbc_business_142.txt|.|2|.|bbc_business_097.txt|.|4
+public listing|.|bbc_business_267.txt|.|1|.|bbc_business_365.txt|.|1
+us wine|.|bbc_business_321.txt|.|3
+disney has settled|.|bbc_business_331.txt|.|1
+ministry|.|bbc_business_427.txt|.|2|.|bbc_business_133.txt|.|2|.|bbc_business_043.txt|.|4|.|bbc_business_313.txt|.|2
+authors|.|bbc_business_266.txt|.|6
+hardie|.|bbc_business_337.txt|.|4
+tellier|.|bbc_business_304.txt|.|3
+lebanese|.|bbc_business_167.txt|.|2
+acquisition|.|bbc_business_027.txt|.|2|.|bbc_business_201.txt|.|2
+scott|.|bbc_business_100.txt|.|2
+agreed|.|bbc_business_400.txt|.|3|.|bbc_business_102.txt|.|3
+disclosure|.|bbc_business_331.txt|.|2
+development and product|.|bbc_business_460.txt|.|1
+benin|.|bbc_business_102.txt|.|5
+company said|.|bbc_business_307.txt|.|2
+chairman|.|bbc_business_352.txt|.|1|.|bbc_business_111.txt|.|1|.|bbc_business_213.txt|.|3|.|bbc_business_486.txt|.|1
+disclose|.|bbc_business_331.txt|.|3
+admitting|.|bbc_business_102.txt|.|1
+mukesh|.|bbc_business_352.txt|.|2
+buys|.|bbc_business_208.txt|.|1|.|bbc_business_325.txt|.|1
+scrushy|.|bbc_business_508.txt|.|5
+reliance group|.|bbc_business_486.txt|.|4
+disappointed|.|bbc_business_307.txt|.|1
+board meeting|.|bbc_business_486.txt|.|2
+oil ministry|.|bbc_business_313.txt|.|2
+said diageo|.|bbc_business_321.txt|.|1
+group company|.|bbc_business_486.txt|.|1
+titan|.|bbc_business_102.txt|.|4
+net|.|bbc_business_503.txt|.|2|.|bbc_business_464.txt|.|2|.|bbc_business_479.txt|.|3|.|bbc_business_288.txt|.|2
+train|.|bbc_business_123.txt|.|1|.|bbc_business_304.txt|.|2
+richard|.|bbc_business_508.txt|.|2
+agreed to pay|.|bbc_business_400.txt|.|2|.|bbc_business_102.txt|.|2
+feud|.|bbc_business_352.txt|.|1
+italian stock|.|bbc_business_048.txt|.|2
+air jamaica|.|bbc_business_343.txt|.|3
+failed|.|bbc_business_225.txt|.|2|.|bbc_business_331.txt|.|3
+travelers|.|bbc_business_088.txt|.|2
+beirut|.|bbc_business_167.txt|.|3
+richard scrushy|.|bbc_business_508.txt|.|2
+unit|.|bbc_business_003.txt|.|3|.|bbc_business_399.txt|.|2|.|bbc_business_479.txt|.|6|.|bbc_business_456.txt|.|2|.|bbc_business_021.txt|.|3
+sullivan|.|bbc_business_246.txt|.|10|.|bbc_business_100.txt|.|7
+tax enforcement|.|bbc_business_266.txt|.|3
+sued|.|bbc_business_164.txt|.|2|.|bbc_business_312.txt|.|2
+publishes|.|bbc_business_325.txt|.|1
+mittal|.|bbc_business_027.txt|.|8
+land owned|.|bbc_business_029.txt|.|1
+unilever|.|bbc_business_111.txt|.|7|.|bbc_business_302.txt|.|4
+bribery|.|bbc_business_102.txt|.|2
+asbestos|.|bbc_business_337.txt|.|4
+traders|.|bbc_business_489.txt|.|2|.|bbc_business_261.txt|.|1|.|bbc_business_167.txt|.|1
+weakness of the dollar|.|bbc_business_053.txt|.|1
+boards|.|bbc_business_111.txt|.|1
+media|.|bbc_business_475.txt|.|2|.|bbc_business_325.txt|.|2
+diageo|.|bbc_business_321.txt|.|7
+james hardie|.|bbc_business_337.txt|.|2
+telecommunications|.|bbc_business_102.txt|.|2
+running|.|bbc_business_379.txt|.|1
+new plant|.|bbc_business_054.txt|.|2
+weakness|.|bbc_business_053.txt|.|1
+ambani|.|bbc_business_352.txt|.|2|.|bbc_business_379.txt|.|3|.|bbc_business_486.txt|.|6
+money paid|.|bbc_business_312.txt|.|2
+largest us|.|bbc_business_251.txt|.|1
+company|.|bbc_business_027.txt|.|3|.|bbc_business_111.txt|.|7|.|bbc_business_251.txt|.|3|.|bbc_business_307.txt|.|6|.|bbc_business_222.txt|.|4|.|bbc_business_337.txt|.|5|.|bbc_business_486.txt|.|4|.|bbc_business_460.txt|.|5|.|bbc_business_188.txt|.|2|.|bbc_business_053.txt|.|2|.|bbc_business_331.txt|.|4|.|bbc_business_379.txt|.|2|.|bbc_business_102.txt|.|4|.|bbc_business_349.txt|.|2|.|bbc_business_476.txt|.|1|.|bbc_business_314.txt|.|4|.|bbc_business_167.txt|.|3|.|bbc_business_048.txt|.|3|.|bbc_business_321.txt|.|2|.|bbc_business_508.txt|.|2|.|bbc_business_304.txt|.|3|.|bbc_business_029.txt|.|2|.|bbc_business_479.txt|.|4|.|bbc_business_054.txt|.|4|.|bbc_business_343.txt|.|2|.|bbc_business_313.txt|.|6|.|bbc_business_088.txt|.|2|.|bbc_business_352.txt|.|2|.|bbc_business_266.txt|.|3|.|bbc_business_325.txt|.|2|.|bbc_business_312.txt|.|5|.|bbc_business_100.txt|.|4
+oil company|.|bbc_business_266.txt|.|2|.|bbc_business_222.txt|.|2|.|bbc_business_313.txt|.|2
+failed to disclose|.|bbc_business_331.txt|.|2
+euros|.|bbc_business_111.txt|.|3|.|bbc_business_109.txt|.|4|.|bbc_business_017.txt|.|5|.|bbc_business_132.txt|.|3|.|bbc_business_468.txt|.|1|.|bbc_business_483.txt|.|2|.|bbc_business_312.txt|.|2
+assassinated|.|bbc_business_167.txt|.|1
+korean|.|bbc_business_349.txt|.|2|.|bbc_business_409.txt|.|5
+two brothers|.|bbc_business_379.txt|.|2
+witness|.|bbc_business_059.txt|.|2|.|bbc_business_087.txt|.|2|.|bbc_business_100.txt|.|3
+solidere|.|bbc_business_167.txt|.|5
+president chavez|.|bbc_business_029.txt|.|2
+owned|.|bbc_business_029.txt|.|4
+paid|.|bbc_business_312.txt|.|2
+family|.|bbc_business_373.txt|.|2|.|bbc_business_486.txt|.|4

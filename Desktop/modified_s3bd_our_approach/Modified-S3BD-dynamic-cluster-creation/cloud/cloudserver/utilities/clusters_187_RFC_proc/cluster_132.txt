@@ -1,0 +1,120 @@
+gsm
+file format
+half
+iso jpeg
+storage format
+dsr es
+ldap data interchange
+hall
+scan line
+rtp payload format for uncompressed
+udp checksum
+format for network
+cip index object
+enhancements january
+symmetrical
+andersen experimental
+deflate compressed data
+presence information data format
+grouped
+header name
+cpim headers
+deflate compressed
+term format
+message format
+motion vectors
+fax address
+symmetrical size
+address authority
+variable rate
+jones
+dsr payload
+compressed data
+format described
+format october
+reporting format
+rcdo
+atkins
+robert informational
+duan
+huffman
+payload format for uncompressed video
+format and mime type
+jpeg
+format defined
+close
+format specification
+sets
+ldif file
+atrac family
+niccolini
+tracking requests
+rdata
+trailing white space
+audio data
+confirm
+uaddr
+ohmuro standards
+video streams
+packet format
+openpgp
+discontinuous
+ptla and pnla formats
+gailly
+zlib compressed
+data format
+strombergson
+format for bundled mpeg
+atrac
+gzip file format
+brooktrout
+sampling modes
+xie
+ilbc
+qcp
+making
+format for uncompressed
+format
+interleaved
+format video
+format parameter
+uncompressed video
+related mime
+hiwasaki
+unit
+database format
+futemma
+peter deutsch
+xerox parc
+sdxf functions
+characters are encoded
+ldap url format
+format location object
+type bit
+content with information
+fax address format
+mime format
+data exchange
+making postscript and pdf international
+naming format
+qcp file format
+presence information data
+word sizes
+gzip file
+timed text
+university of michigan
+bit linear
+nsec rdata
+address registries
+garudadri informational
+compact bundled
+half rate
+format march
+wildgrube
+wideband
+encrypted session
+url format
+internet message format
+front
+image file format
+evrc codecs

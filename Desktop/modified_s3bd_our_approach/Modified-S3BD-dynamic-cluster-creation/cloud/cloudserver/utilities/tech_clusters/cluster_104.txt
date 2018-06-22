@@ -1,0 +1,17 @@
+104
+innovation|.|137.txt|.|5|.|111.txt|.|2|.|370.txt|.|5|.|268.txt|.|3|.|174.txt|.|2
+set|.|360.txt|.|4|.|124.txt|.|1|.|199.txt|.|2
+lives|.|137.txt|.|4
+television|.|199.txt|.|6|.|240.txt|.|3
+ideas based|.|161.txt|.|1
+indians|.|199.txt|.|3
+personal|.|102.txt|.|5|.|369.txt|.|3|.|229.txt|.|5|.|398.txt|.|2|.|199.txt|.|2|.|161.txt|.|4|.|227.txt|.|2
+poor people|.|199.txt|.|3
+personal computer|.|199.txt|.|2
+reddy thinks|.|199.txt|.|2
+pearson|.|161.txt|.|4
+prof reddy|.|199.txt|.|7
+poor|.|199.txt|.|3
+thinks|.|199.txt|.|5
+says|.|137.txt|.|9|.|083.txt|.|2|.|276.txt|.|2|.|364.txt|.|6|.|366.txt|.|4|.|074.txt|.|2|.|344.txt|.|3|.|199.txt|.|10|.|161.txt|.|3|.|148.txt|.|2|.|308.txt|.|2
+architecture|.|366.txt|.|3

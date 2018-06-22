@@ -1,0 +1,64 @@
+patti|.|bbc_entertainment_317.txt|.|2
+headline the second|.|bbc_entertainment_283.txt|.|2
+screening|.|bbc_entertainment_096.txt|.|1|.|bbc_entertainment_334.txt|.|1|.|bbc_entertainment_301.txt|.|1
+bangkok international film festival|.|bbc_entertainment_309.txt|.|2
+salam|.|bbc_entertainment_029.txt|.|2
+festival film|.|bbc_entertainment_329.txt|.|1
+van gogh|.|bbc_entertainment_329.txt|.|2
+bangkok international film|.|bbc_entertainment_309.txt|.|2
+fighters|.|bbc_entertainment_322.txt|.|4|.|bbc_entertainment_267.txt|.|2
+movies|.|bbc_entertainment_347.txt|.|1|.|bbc_entertainment_101.txt|.|1|.|bbc_entertainment_305.txt|.|2|.|bbc_entertainment_332.txt|.|1|.|bbc_tech_345.txt|.|5|.|bbc_tech_183.txt|.|2|.|bbc_entertainment_303.txt|.|1|.|bbc_entertainment_301.txt|.|1
+roxy music|.|bbc_entertainment_318.txt|.|3
+music on isle of wight|.|bbc_entertainment_318.txt|.|1
+sundance film|.|bbc_entertainment_336.txt|.|2
+cinema|.|bbc_entertainment_101.txt|.|4|.|bbc_tech_013.txt|.|6|.|bbc_entertainment_348.txt|.|2|.|bbc_entertainment_058.txt|.|2|.|bbc_entertainment_331.txt|.|2|.|bbc_entertainment_079.txt|.|2
+supergrass|.|bbc_entertainment_318.txt|.|2
+festival will feature|.|bbc_entertainment_101.txt|.|1
+second stage|.|bbc_entertainment_283.txt|.|2
+iraqis|.|bbc_entertainment_029.txt|.|2
+baghdad|.|bbc_entertainment_029.txt|.|4
+sundance|.|bbc_entertainment_101.txt|.|3|.|bbc_entertainment_336.txt|.|4|.|bbc_entertainment_032.txt|.|7|.|bbc_entertainment_301.txt|.|4
+bangkok|.|bbc_entertainment_309.txt|.|3|.|bbc_entertainment_306.txt|.|4
+film festival|.|bbc_entertainment_269.txt|.|2|.|bbc_entertainment_047.txt|.|2|.|bbc_entertainment_042.txt|.|2|.|bbc_entertainment_101.txt|.|2|.|bbc_entertainment_309.txt|.|2|.|bbc_entertainment_336.txt|.|3|.|bbc_entertainment_306.txt|.|4|.|bbc_entertainment_102.txt|.|2|.|bbc_entertainment_341.txt|.|2
+park city|.|bbc_entertainment_032.txt|.|2
+redford wants|.|bbc_entertainment_032.txt|.|1
+isle of wight|.|bbc_entertainment_318.txt|.|2
+prater|.|bbc_entertainment_306.txt|.|2
+opens|.|bbc_tech_134.txt|.|1|.|bbc_sport_474.txt|.|1|.|bbc_entertainment_019.txt|.|1|.|bbc_entertainment_301.txt|.|1|.|bbc_tech_340.txt|.|1
+balado|.|bbc_entertainment_267.txt|.|2
+hotel rwanda|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_047.txt|.|4
+golden bear|.|bbc_entertainment_042.txt|.|2
+allardyce|.|bbc_sport_185.txt|.|3
+donated|.|bbc_tech_200.txt|.|2|.|bbc_entertainment_222.txt|.|1
+joining|.|bbc_business_320.txt|.|1|.|bbc_entertainment_283.txt|.|1|.|bbc_sport_138.txt|.|1
+cheadle|.|bbc_entertainment_047.txt|.|3
+idlewild|.|bbc_entertainment_318.txt|.|2
+archives|.|bbc_politics_393.txt|.|7
+activity|.|bbc_business_370.txt|.|2|.|bbc_business_463.txt|.|2
+supergrass and idlewild|.|bbc_entertainment_318.txt|.|2
+patti smith|.|bbc_entertainment_317.txt|.|2
+textile workers|.|bbc_business_442.txt|.|2
+baghdad blogger|.|bbc_entertainment_029.txt|.|3
+paver|.|bbc_entertainment_304.txt|.|4
+controversial film|.|bbc_entertainment_099.txt|.|2
+medical research|.|bbc_politics_244.txt|.|2
+touts|.|bbc_entertainment_137.txt|.|2
+international film|.|bbc_entertainment_309.txt|.|2
+european cinema|.|bbc_entertainment_348.txt|.|2|.|bbc_entertainment_058.txt|.|2
+salam pax|.|bbc_entertainment_029.txt|.|2
+headline the second stage|.|bbc_entertainment_283.txt|.|2
+berlin film|.|bbc_entertainment_269.txt|.|2|.|bbc_entertainment_047.txt|.|2|.|bbc_entertainment_102.txt|.|2|.|bbc_entertainment_341.txt|.|2
+berlin|.|bbc_entertainment_269.txt|.|2|.|bbc_entertainment_047.txt|.|5|.|bbc_entertainment_042.txt|.|2|.|bbc_entertainment_348.txt|.|2|.|bbc_entertainment_058.txt|.|2|.|bbc_entertainment_102.txt|.|3|.|bbc_entertainment_090.txt|.|3|.|bbc_entertainment_341.txt|.|3
+redford|.|bbc_entertainment_032.txt|.|7
+park|.|bbc_sport_179.txt|.|4|.|bbc_sport_180.txt|.|2|.|bbc_sport_148.txt|.|2|.|bbc_politics_144.txt|.|2|.|bbc_entertainment_283.txt|.|5|.|bbc_entertainment_032.txt|.|2|.|bbc_entertainment_267.txt|.|3|.|bbc_sport_095.txt|.|2
+place at balado|.|bbc_entertainment_267.txt|.|2
+hylands park|.|bbc_entertainment_283.txt|.|2
+triumph|.|bbc_entertainment_336.txt|.|1
+international film festival|.|bbc_entertainment_309.txt|.|2
+ticket|.|bbc_entertainment_066.txt|.|4|.|bbc_business_123.txt|.|2|.|bbc_entertainment_140.txt|.|3|.|bbc_entertainment_306.txt|.|3
+prodigy|.|bbc_sport_463.txt|.|2|.|bbc_entertainment_283.txt|.|4
+rwanda|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_047.txt|.|6
+bangkok international|.|bbc_entertainment_309.txt|.|2
+berlin film festival|.|bbc_entertainment_269.txt|.|2|.|bbc_entertainment_047.txt|.|2
+glastonbury|.|bbc_entertainment_137.txt|.|2
+meltdown festival|.|bbc_entertainment_317.txt|.|2

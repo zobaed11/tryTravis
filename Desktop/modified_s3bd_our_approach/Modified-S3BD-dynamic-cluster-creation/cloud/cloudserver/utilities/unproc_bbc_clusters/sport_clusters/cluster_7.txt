@@ -1,0 +1,91 @@
+7
+qualified|.|bbc_sport_237.txt|.|2
+who had already qualified|.|bbc_sport_237.txt|.|2
+touchline|.|bbc_sport_169.txt|.|2
+ban|.|bbc_sport_035.txt|.|3|.|bbc_sport_485.txt|.|1|.|bbc_sport_048.txt|.|1|.|bbc_sport_319.txt|.|3|.|bbc_sport_026.txt|.|4|.|bbc_sport_021.txt|.|4|.|bbc_sport_166.txt|.|2|.|bbc_sport_201.txt|.|2|.|bbc_sport_295.txt|.|2
+bayer leverkusen|.|bbc_sport_237.txt|.|2
+riise|.|bbc_sport_104.txt|.|4
+price|.|bbc_sport_168.txt|.|2
+serious|.|bbc_sport_218.txt|.|2
+action|.|bbc_sport_169.txt|.|3
+warning|.|bbc_sport_172.txt|.|2
+ten|.|bbc_sport_140.txt|.|2
+criticism|.|bbc_sport_263.txt|.|2
+chelsea boss jose|.|bbc_sport_280.txt|.|2
+thanou|.|bbc_sport_047.txt|.|2|.|bbc_sport_017.txt|.|3|.|bbc_sport_016.txt|.|3|.|bbc_sport_089.txt|.|7|.|bbc_sport_048.txt|.|3|.|bbc_sport_054.txt|.|5|.|bbc_sport_079.txt|.|3|.|bbc_sport_050.txt|.|3|.|bbc_sport_051.txt|.|5|.|bbc_sport_081.txt|.|4|.|bbc_sport_080.txt|.|3
+assistants|.|bbc_sport_140.txt|.|1
+portsmouth|.|bbc_sport_278.txt|.|3
+ac|.|bbc_sport_237.txt|.|2
+champions|.|bbc_sport_227.txt|.|3|.|bbc_sport_182.txt|.|3|.|bbc_sport_236.txt|.|3|.|bbc_sport_141.txt|.|2|.|bbc_sport_206.txt|.|2|.|bbc_sport_152.txt|.|3|.|bbc_sport_111.txt|.|2|.|bbc_sport_243.txt|.|2|.|bbc_sport_239.txt|.|2|.|bbc_sport_102.txt|.|6|.|bbc_sport_159.txt|.|2|.|bbc_sport_181.txt|.|3|.|bbc_sport_183.txt|.|3|.|bbc_sport_223.txt|.|2|.|bbc_sport_229.txt|.|2|.|bbc_sport_160.txt|.|5|.|bbc_sport_376.txt|.|2|.|bbc_sport_136.txt|.|1|.|bbc_sport_218.txt|.|4|.|bbc_sport_456.txt|.|1|.|bbc_sport_177.txt|.|2
+test|.|bbc_sport_047.txt|.|3|.|bbc_sport_299.txt|.|2|.|bbc_sport_485.txt|.|2|.|bbc_sport_089.txt|.|3|.|bbc_sport_048.txt|.|1|.|bbc_sport_199.txt|.|4|.|bbc_sport_051.txt|.|3|.|bbc_sport_080.txt|.|2|.|bbc_sport_201.txt|.|1
+kezman|.|bbc_sport_104.txt|.|5|.|bbc_sport_139.txt|.|3
+inter|.|bbc_sport_168.txt|.|3
+league|.|bbc_sport_357.txt|.|3|.|bbc_sport_182.txt|.|3|.|bbc_sport_152.txt|.|3|.|bbc_sport_102.txt|.|6|.|bbc_sport_183.txt|.|3|.|bbc_sport_118.txt|.|1|.|bbc_sport_229.txt|.|2|.|bbc_sport_370.txt|.|5|.|bbc_sport_153.txt|.|3|.|bbc_sport_255.txt|.|2|.|bbc_sport_125.txt|.|5|.|bbc_sport_112.txt|.|2|.|bbc_sport_227.txt|.|3|.|bbc_sport_252.txt|.|2|.|bbc_sport_236.txt|.|3|.|bbc_sport_141.txt|.|2|.|bbc_sport_206.txt|.|2|.|bbc_sport_111.txt|.|2|.|bbc_sport_243.txt|.|2|.|bbc_sport_239.txt|.|2|.|bbc_sport_159.txt|.|4|.|bbc_sport_181.txt|.|3|.|bbc_sport_223.txt|.|2|.|bbc_sport_205.txt|.|3|.|bbc_sport_398.txt|.|3|.|bbc_sport_160.txt|.|6|.|bbc_sport_121.txt|.|2|.|bbc_sport_164.txt|.|1|.|bbc_sport_177.txt|.|2
+fourth round|.|bbc_sport_480.txt|.|2
+banned substance|.|bbc_sport_199.txt|.|2
+failed|.|bbc_sport_199.txt|.|4|.|bbc_sport_021.txt|.|2
+balco|.|bbc_sport_035.txt|.|4|.|bbc_sport_091.txt|.|6|.|bbc_sport_039.txt|.|2|.|bbc_sport_026.txt|.|3|.|bbc_sport_045.txt|.|5|.|bbc_sport_044.txt|.|3
+camp|.|bbc_sport_181.txt|.|2|.|bbc_sport_183.txt|.|2|.|bbc_sport_182.txt|.|2|.|bbc_sport_019.txt|.|2
+failed a drugs|.|bbc_sport_199.txt|.|2
+susan|.|bbc_sport_024.txt|.|2
+served|.|bbc_sport_201.txt|.|2
+simpson|.|bbc_sport_214.txt|.|2
+nunez|.|bbc_sport_104.txt|.|3
+drogba|.|bbc_sport_278.txt|.|3
+terry|.|bbc_sport_246.txt|.|3|.|bbc_sport_123.txt|.|2
+carling cup final|.|bbc_sport_174.txt|.|2
+fa|.|bbc_sport_234.txt|.|2|.|bbc_sport_117.txt|.|2|.|bbc_sport_169.txt|.|3|.|bbc_sport_159.txt|.|3|.|bbc_sport_197.txt|.|4|.|bbc_sport_122.txt|.|2|.|bbc_sport_205.txt|.|2|.|bbc_sport_231.txt|.|3|.|bbc_sport_166.txt|.|2
+christie|.|bbc_sport_094.txt|.|3
+parry revealed|.|bbc_sport_112.txt|.|2|.|bbc_sport_121.txt|.|2
+quashie|.|bbc_sport_278.txt|.|3
+chelsea|.|bbc_sport_174.txt|.|2|.|bbc_sport_246.txt|.|8|.|bbc_sport_114.txt|.|2|.|bbc_sport_280.txt|.|3|.|bbc_sport_162.txt|.|2|.|bbc_sport_251.txt|.|3|.|bbc_sport_167.txt|.|3|.|bbc_sport_184.txt|.|3|.|bbc_sport_183.txt|.|3|.|bbc_sport_237.txt|.|2|.|bbc_sport_140.txt|.|4|.|bbc_sport_255.txt|.|3|.|bbc_sport_203.txt|.|2|.|bbc_sport_125.txt|.|4|.|bbc_sport_168.txt|.|7|.|bbc_sport_252.txt|.|3|.|bbc_sport_274.txt|.|2|.|bbc_sport_104.txt|.|7|.|bbc_sport_278.txt|.|5|.|bbc_sport_209.txt|.|4|.|bbc_sport_169.txt|.|3|.|bbc_sport_199.txt|.|8|.|bbc_sport_159.txt|.|4|.|bbc_sport_279.txt|.|2|.|bbc_sport_201.txt|.|4|.|bbc_sport_218.txt|.|5|.|bbc_sport_177.txt|.|5
+gallas|.|bbc_sport_209.txt|.|4|.|bbc_sport_246.txt|.|3|.|bbc_sport_139.txt|.|3|.|bbc_sport_097.txt|.|5
+tomlinson|.|bbc_sport_071.txt|.|3
+weeks|.|bbc_sport_162.txt|.|2|.|bbc_sport_114.txt|.|4|.|bbc_sport_213.txt|.|3|.|bbc_sport_031.txt|.|1
+extra time|.|bbc_sport_104.txt|.|1
+clash|.|bbc_sport_315.txt|.|2|.|bbc_sport_103.txt|.|2|.|bbc_sport_160.txt|.|1
+chorley|.|bbc_sport_224.txt|.|2
+confirmed|.|bbc_sport_218.txt|.|3
+shot|.|bbc_sport_246.txt|.|6|.|bbc_sport_268.txt|.|9
+adriano|.|bbc_sport_168.txt|.|5
+nicolas anelka|.|bbc_sport_254.txt|.|4
+venus|.|bbc_sport_439.txt|.|2
+asked|.|bbc_sport_125.txt|.|2
+rinaldi told|.|bbc_sport_168.txt|.|2
+nou|.|bbc_sport_181.txt|.|2|.|bbc_sport_183.txt|.|2|.|bbc_sport_182.txt|.|2
+metatarsal|.|bbc_sport_114.txt|.|4
+extra|.|bbc_sport_104.txt|.|1
+ac milan|.|bbc_sport_237.txt|.|2
+clubs|.|bbc_sport_250.txt|.|2|.|bbc_sport_220.txt|.|1|.|bbc_sport_237.txt|.|1
+solskjaer|.|bbc_sport_249.txt|.|4
+stay at anfield|.|bbc_sport_274.txt|.|2
+steve|.|bbc_sport_177.txt|.|2
+boss jose|.|bbc_sport_280.txt|.|2
+wayne rooney|.|bbc_sport_101.txt|.|2|.|bbc_sport_216.txt|.|2
+two points|.|bbc_sport_259.txt|.|2
+banned|.|bbc_sport_485.txt|.|2|.|bbc_sport_092.txt|.|1|.|bbc_sport_199.txt|.|2|.|bbc_sport_044.txt|.|1|.|bbc_sport_203.txt|.|2
+chelsea sack|.|bbc_sport_199.txt|.|1
+boss arsene|.|bbc_sport_198.txt|.|1|.|bbc_sport_143.txt|.|1|.|bbc_sport_201.txt|.|1|.|bbc_sport_242.txt|.|1
+foot|.|bbc_sport_114.txt|.|4|.|bbc_sport_394.txt|.|2|.|bbc_sport_110.txt|.|2
+witnessed|.|bbc_sport_140.txt|.|2
+cate|.|bbc_sport_140.txt|.|2
+unacceptable|.|bbc_sport_187.txt|.|1
+cudicini will miss|.|bbc_sport_174.txt|.|1
+substance|.|bbc_sport_199.txt|.|3
+rinaldi|.|bbc_sport_168.txt|.|4
+wearing|.|bbc_sport_148.txt|.|3
+london race|.|bbc_sport_019.txt|.|1
+cech|.|bbc_sport_104.txt|.|4
+football|.|bbc_sport_208.txt|.|6|.|bbc_sport_149.txt|.|5|.|bbc_sport_235.txt|.|6|.|bbc_sport_222.txt|.|1|.|bbc_sport_206.txt|.|3|.|bbc_sport_241.txt|.|2|.|bbc_sport_258.txt|.|2|.|bbc_sport_137.txt|.|2|.|bbc_sport_170.txt|.|2|.|bbc_sport_118.txt|.|2|.|bbc_sport_212.txt|.|2|.|bbc_sport_374.txt|.|3|.|bbc_sport_257.txt|.|2|.|bbc_sport_177.txt|.|2
+kept|.|bbc_sport_139.txt|.|2
+santini resigns|.|bbc_sport_202.txt|.|1
+bayern munich|.|bbc_sport_237.txt|.|3
+no action|.|bbc_sport_169.txt|.|1
+robben|.|bbc_sport_114.txt|.|5|.|bbc_sport_167.txt|.|4|.|bbc_sport_110.txt|.|3|.|bbc_sport_278.txt|.|5
+complaint|.|bbc_sport_140.txt|.|2
+sack mutu|.|bbc_sport_199.txt|.|2
+ten cate|.|bbc_sport_140.txt|.|2
+shot high|.|bbc_sport_246.txt|.|2
+league football|.|bbc_sport_177.txt|.|2
+champions league football|.|bbc_sport_177.txt|.|2
+champions league|.|bbc_sport_227.txt|.|3|.|bbc_sport_182.txt|.|3|.|bbc_sport_236.txt|.|3|.|bbc_sport_141.txt|.|2|.|bbc_sport_206.txt|.|2|.|bbc_sport_152.txt|.|3|.|bbc_sport_111.txt|.|2|.|bbc_sport_243.txt|.|2|.|bbc_sport_239.txt|.|2|.|bbc_sport_102.txt|.|6|.|bbc_sport_159.txt|.|2|.|bbc_sport_181.txt|.|3|.|bbc_sport_183.txt|.|3|.|bbc_sport_223.txt|.|2|.|bbc_sport_229.txt|.|2|.|bbc_sport_160.txt|.|5|.|bbc_sport_177.txt|.|2

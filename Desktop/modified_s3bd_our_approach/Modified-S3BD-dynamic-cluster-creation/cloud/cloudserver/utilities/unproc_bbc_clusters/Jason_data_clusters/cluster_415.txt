@@ -1,0 +1,22 @@
+415
+bra sized|.|WET5002.txt|.|2
+new organic|.|WET920.txt|.|2
+shop|.|WET2269.txt|.|83|.|WET4560.txt|.|62|.|WET1757.txt|.|59|.|WET913.txt|.|28|.|WET4862.txt|.|2035|.|WET5102.txt|.|29|.|WET2658.txt|.|128|.|WET3208.txt|.|33|.|WET372.txt|.|50|.|WET5668.txt|.|71|.|WET5986.txt|.|67|.|WET2147.txt|.|27|.|WET6252.txt|.|75|.|WET2218.txt|.|104|.|WET2633.txt|.|35|.|WET3244.txt|.|1045|.|WET2562.txt|.|649|.|WET4607.txt|.|51|.|WET5788.txt|.|85|.|WET6201.txt|.|76|.|WET5919.txt|.|30|.|WET3351.txt|.|107|.|WET3597.txt|.|121|.|WET2440.txt|.|51|.|WET1414.txt|.|312|.|WET836.txt|.|22|.|WET818.txt|.|15|.|WET1885.txt|.|48|.|WET3457.txt|.|11|.|WET840.txt|.|22|.|WET2712.txt|.|56|.|WET4577.txt|.|23|.|WET5890.txt|.|23|.|WET1569.txt|.|57|.|WET1623.txt|.|56|.|WET5017.txt|.|117|.|WET3572.txt|.|93|.|WET1838.txt|.|362|.|WET1285.txt|.|88|.|WET5923.txt|.|26|.|WET3127.txt|.|38|.|WET1114.txt|.|2035|.|WET3272.txt|.|157|.|WET5955.txt|.|139|.|WET6301.txt|.|650|.|WET5912.txt|.|83|.|WET2000.txt|.|34|.|WET3638.txt|.|31|.|WET5124.txt|.|179|.|WET4556.txt|.|54|.|WET5946.txt|.|26|.|WET659.txt|.|7|.|WET2929.txt|.|40|.|WET2884.txt|.|73|.|WET2320.txt|.|53|.|WET6311.txt|.|8|.|WET4850.txt|.|23|.|WET5575.txt|.|328|.|WET3603.txt|.|35|.|WET5434.txt|.|50|.|WET2461.txt|.|132|.|WET1660.txt|.|86|.|WET2839.txt|.|167|.|WET2173.txt|.|130|.|WET500.txt|.|11|.|WET3708.txt|.|108|.|WET6100.txt|.|44|.|WET3723.txt|.|23|.|WET1927.txt|.|51|.|WET1976.txt|.|16|.|WET940.txt|.|62|.|WET5220.txt|.|45|.|WET1374.txt|.|122|.|WET4618.txt|.|29|.|WET1154.txt|.|170|.|WET2845.txt|.|56|.|WET2189.txt|.|42|.|WET4861.txt|.|188|.|WET2950.txt|.|210|.|WET1918.txt|.|29|.|WET3608.txt|.|87|.|WET4578.txt|.|22|.|WET5926.txt|.|85|.|WET6103.txt|.|118|.|WET2634.txt|.|104|.|WET1413.txt|.|565|.|WET3596.txt|.|106|.|WET2359.txt|.|73|.|WET2482.txt|.|17|.|WET2261.txt|.|61|.|WET3377.txt|.|37|.|WET4576.txt|.|22|.|WET1886.txt|.|64|.|WET4847.txt|.|101|.|WET5002.txt|.|93|.|WET1839.txt|.|550|.|WET6172.txt|.|135|.|WET1253.txt|.|271|.|WET1703.txt|.|107|.|WET1924.txt|.|34|.|WET1284.txt|.|88|.|WET483.txt|.|47|.|WET920.txt|.|72|.|WET5898.txt|.|17|.|WET1381.txt|.|48|.|WET1113.txt|.|1485|.|WET3271.txt|.|54|.|WET5020.txt|.|27|.|WET2989.txt|.|147|.|WET6061.txt|.|45|.|WET2357.txt|.|79|.|WET2768.txt|.|18|.|WET5954.txt|.|159|.|WET2689.txt|.|108|.|WET4751.txt|.|105|.|WET2972.txt|.|16|.|WET5574.txt|.|86|.|WET1840.txt|.|58|.|WET3671.txt|.|79|.|WET1459.txt|.|81|.|WET1115.txt|.|740|.|WET5407.txt|.|51|.|WET5680.txt|.|152|.|WET2893.txt|.|16|.|WET837.txt|.|22|.|WET5663.txt|.|47|.|WET3214.txt|.|51|.|WET2876.txt|.|96|.|WET5426.txt|.|40|.|WET5010.txt|.|91|.|WET5185.txt|.|50|.|WET1469.txt|.|39|.|WET3062.txt|.|28|.|WET5036.txt|.|88|.|WET2016.txt|.|20|.|WET3118.txt|.|93|.|WET2635.txt|.|105|.|WET5164.txt|.|343|.|WET5864.txt|.|36|.|WET1928.txt|.|44|.|WET2029.txt|.|49|.|WET1738.txt|.|22|.|WET5478.txt|.|22|.|WET2885.txt|.|51|.|WET5580.txt|.|10|.|WET5576.txt|.|200|.|WET2249.txt|.|89|.|WET2180.txt|.|58|.|WET2780.txt|.|62|.|WET2844.txt|.|264|.|WET2219.txt|.|31|.|WET839.txt|.|22|.|WET2462.txt|.|42|.|WET5012.txt|.|72|.|WET2793.txt|.|258|.|WET2874.txt|.|72|.|WET2573.txt|.|8|.|WET3289.txt|.|276|.|WET1008.txt|.|61|.|WET6101.txt|.|125
+paint|.|WET2136.txt|.|22|.|WET3012.txt|.|25|.|WET2137.txt|.|20|.|WET1569.txt|.|39|.|WET2135.txt|.|19|.|WET5876.txt|.|14|.|WET4862.txt|.|231
+ceiling fans|.|WET1113.txt|.|56
+odor|.|WET1839.txt|.|47
+allure|.|WET5955.txt|.|10
+backtracks|.|WET1113.txt|.|4|.|WET5286.txt|.|2
+trash|.|WET4862.txt|.|89|.|WET1114.txt|.|88
+party supplies shop|.|WET6301.txt|.|22|.|WET2562.txt|.|22
+shop all baby|.|WET3244.txt|.|99
+indoor living|.|WET1413.txt|.|48
+teacher|.|WET6301.txt|.|46|.|WET2562.txt|.|44
+shop teacher supplies|.|WET6301.txt|.|11|.|WET2562.txt|.|11
+outdoor lighting shop|.|WET4862.txt|.|33|.|WET1114.txt|.|33
+spa essentials|.|WET2320.txt|.|18
+customer favorites bestsellers|.|WET1253.txt|.|40
+makeup tips|.|WET5955.txt|.|24
+beauty mag|.|WET2218.txt|.|6
+shop more holidays|.|WET6301.txt|.|22|.|WET2562.txt|.|22
+mount mailboxes|.|WET1115.txt|.|16

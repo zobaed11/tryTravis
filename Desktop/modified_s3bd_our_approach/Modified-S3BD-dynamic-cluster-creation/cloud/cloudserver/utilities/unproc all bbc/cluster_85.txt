@@ -1,0 +1,64 @@
+manchester united|.|bbc_sport_101.txt|.|2|.|bbc_sport_096.txt|.|2|.|bbc_sport_180.txt|.|3|.|bbc_sport_235.txt|.|2|.|bbc_business_229.txt|.|3|.|bbc_sport_122.txt|.|2|.|bbc_business_242.txt|.|6|.|bbc_business_179.txt|.|2|.|bbc_business_209.txt|.|4|.|bbc_sport_124.txt|.|2|.|bbc_business_293.txt|.|2|.|bbc_sport_137.txt|.|2|.|bbc_sport_184.txt|.|3|.|bbc_sport_158.txt|.|3|.|bbc_sport_231.txt|.|2|.|bbc_sport_095.txt|.|3|.|bbc_sport_283.txt|.|2
+allen|.|bbc_sport_180.txt|.|1
+hoped to return|.|bbc_sport_249.txt|.|1
+scrushy|.|bbc_business_508.txt|.|5
+serve|.|bbc_sport_491.txt|.|15|.|bbc_politics_206.txt|.|2
+neville|.|bbc_sport_101.txt|.|3|.|bbc_sport_137.txt|.|6
+equity|.|bbc_business_315.txt|.|2
+return to everton|.|bbc_sport_095.txt|.|2
+drinks promotions|.|bbc_politics_094.txt|.|4
+star trek fans|.|bbc_entertainment_183.txt|.|2
+whelan|.|bbc_sport_107.txt|.|2
+brewer|.|bbc_business_315.txt|.|2|.|bbc_business_435.txt|.|3|.|bbc_business_173.txt|.|2
+stam says|.|bbc_sport_158.txt|.|2
+griffin park|.|bbc_sport_180.txt|.|2
+stevie|.|bbc_sport_107.txt|.|2
+dundee united|.|bbc_sport_126.txt|.|4
+keane|.|bbc_sport_137.txt|.|3|.|bbc_sport_217.txt|.|2
+venture|.|bbc_business_315.txt|.|5|.|bbc_business_205.txt|.|2
+dundee|.|bbc_sport_107.txt|.|2|.|bbc_entertainment_296.txt|.|2|.|bbc_sport_126.txt|.|4
+said jol|.|bbc_sport_283.txt|.|1
+man city|.|bbc_sport_101.txt|.|2
+selhurst|.|bbc_sport_148.txt|.|2
+david prutton|.|bbc_sport_180.txt|.|2
+gary neville|.|bbc_sport_101.txt|.|1|.|bbc_sport_137.txt|.|4
+southampton|.|bbc_sport_180.txt|.|7|.|bbc_sport_270.txt|.|3|.|bbc_sport_226.txt|.|4|.|bbc_sport_233.txt|.|6|.|bbc_sport_192.txt|.|2|.|bbc_sport_122.txt|.|3
+proposals|.|bbc_business_293.txt|.|2|.|bbc_politics_001.txt|.|3|.|bbc_business_229.txt|.|2|.|bbc_business_209.txt|.|2|.|bbc_sport_124.txt|.|2
+detailed proposals|.|bbc_business_293.txt|.|1|.|bbc_business_229.txt|.|1|.|bbc_business_209.txt|.|1
+brentford|.|bbc_sport_122.txt|.|3
+stevie crawford|.|bbc_sport_107.txt|.|2
+united|.|bbc_sport_101.txt|.|10|.|bbc_business_315.txt|.|6|.|bbc_business_146.txt|.|2|.|bbc_sport_238.txt|.|2|.|bbc_sport_122.txt|.|8|.|bbc_sport_152.txt|.|2|.|bbc_business_242.txt|.|8|.|bbc_business_209.txt|.|8|.|bbc_sport_098.txt|.|3|.|bbc_business_473.txt|.|4|.|bbc_sport_251.txt|.|4|.|bbc_sport_148.txt|.|3|.|bbc_sport_184.txt|.|6|.|bbc_sport_158.txt|.|4|.|bbc_sport_188.txt|.|4|.|bbc_sport_095.txt|.|8|.|bbc_sport_255.txt|.|3|.|bbc_sport_096.txt|.|4|.|bbc_sport_198.txt|.|3|.|bbc_sport_180.txt|.|3|.|bbc_sport_252.txt|.|3|.|bbc_sport_235.txt|.|6|.|bbc_sport_249.txt|.|3|.|bbc_business_229.txt|.|8|.|bbc_sport_126.txt|.|4|.|bbc_business_179.txt|.|2|.|bbc_sport_124.txt|.|3|.|bbc_business_293.txt|.|6|.|bbc_sport_137.txt|.|2|.|bbc_sport_107.txt|.|7|.|bbc_sport_231.txt|.|3|.|bbc_sport_283.txt|.|3
+tannadice|.|bbc_sport_126.txt|.|2
+ian mccall|.|bbc_sport_126.txt|.|3
+bullock|.|bbc_sport_107.txt|.|3|.|bbc_sport_339.txt|.|2
+martin allen|.|bbc_sport_180.txt|.|1
+united restored|.|bbc_sport_107.txt|.|1
+bitter|.|bbc_sport_188.txt|.|2
+goodison|.|bbc_sport_095.txt|.|2
+holders|.|bbc_sport_184.txt|.|2
+mccall|.|bbc_sport_126.txt|.|6
+selhurst park|.|bbc_sport_148.txt|.|2
+wayne rooney|.|bbc_sport_101.txt|.|2|.|bbc_sport_216.txt|.|2
+wayne|.|bbc_sport_101.txt|.|2|.|bbc_sport_216.txt|.|3
+irish duo|.|bbc_business_179.txt|.|2
+archibald|.|bbc_sport_107.txt|.|4
+mistake|.|bbc_sport_158.txt|.|2
+henri|.|bbc_sport_180.txt|.|2
+glazer|.|bbc_business_293.txt|.|10|.|bbc_business_224.txt|.|6|.|bbc_business_229.txt|.|8|.|bbc_business_242.txt|.|10|.|bbc_business_209.txt|.|8|.|bbc_sport_124.txt|.|7
+health|.|bbc_politics_050.txt|.|9|.|bbc_politics_170.txt|.|7|.|bbc_business_159.txt|.|3|.|bbc_politics_265.txt|.|2|.|bbc_politics_382.txt|.|9|.|bbc_tech_200.txt|.|3|.|bbc_politics_226.txt|.|2|.|bbc_politics_124.txt|.|9|.|bbc_politics_057.txt|.|2|.|bbc_politics_320.txt|.|1|.|bbc_politics_122.txt|.|9|.|bbc_politics_162.txt|.|6
+ronaldo|.|bbc_sport_240.txt|.|7|.|bbc_sport_095.txt|.|5|.|bbc_sport_098.txt|.|3
+positive|.|bbc_sport_448.txt|.|4|.|bbc_sport_411.txt|.|2
+favourite|.|bbc_entertainment_328.txt|.|6|.|bbc_sport_034.txt|.|2|.|bbc_entertainment_007.txt|.|3|.|bbc_entertainment_086.txt|.|6|.|bbc_entertainment_013.txt|.|3|.|bbc_entertainment_223.txt|.|4
+us tycoon|.|bbc_business_224.txt|.|2|.|bbc_business_229.txt|.|2|.|bbc_business_209.txt|.|2
+fans wearing|.|bbc_sport_148.txt|.|2
+gunners|.|bbc_sport_125.txt|.|2|.|bbc_sport_188.txt|.|2
+equity stake|.|bbc_business_315.txt|.|2
+detailed|.|bbc_business_293.txt|.|2|.|bbc_business_229.txt|.|2|.|bbc_business_209.txt|.|2
+machine|.|bbc_tech_173.txt|.|8|.|bbc_tech_141.txt|.|4
+minutes later|.|bbc_sport_107.txt|.|3
+restored|.|bbc_sport_107.txt|.|2
+fantastic|.|bbc_sport_252.txt|.|2|.|bbc_sport_261.txt|.|3|.|bbc_sport_255.txt|.|2
+prutton|.|bbc_sport_180.txt|.|2|.|bbc_sport_166.txt|.|5
+told mps|.|bbc_politics_193.txt|.|2
+crawford|.|bbc_sport_131.txt|.|2|.|bbc_sport_107.txt|.|6
+return|.|bbc_sport_096.txt|.|3|.|bbc_sport_443.txt|.|3|.|bbc_sport_249.txt|.|2|.|bbc_politics_078.txt|.|7|.|bbc_entertainment_261.txt|.|2|.|bbc_entertainment_129.txt|.|2|.|bbc_sport_442.txt|.|2|.|bbc_politics_206.txt|.|2|.|bbc_sport_299.txt|.|3|.|bbc_sport_366.txt|.|2|.|bbc_sport_167.txt|.|2|.|bbc_sport_092.txt|.|2|.|bbc_sport_110.txt|.|2|.|bbc_sport_099.txt|.|2|.|bbc_sport_190.txt|.|4|.|bbc_sport_008.txt|.|3|.|bbc_sport_484.txt|.|2|.|bbc_sport_095.txt|.|3

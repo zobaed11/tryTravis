@@ -1,0 +1,17 @@
+100
+personal information|.|369.txt|.|2|.|398.txt|.|2|.|227.txt|.|2
+sustains spam|.|362.txt|.|1
+radicati group|.|362.txt|.|2
+bad|.|362.txt|.|3
+spam messages|.|362.txt|.|2
+links in spam|.|362.txt|.|1
+warnings|.|398.txt|.|1|.|026.txt|.|2|.|227.txt|.|1
+sign|.|251.txt|.|4|.|189.txt|.|2
+amount of spam circulating|.|026.txt|.|1
+radicati|.|362.txt|.|2
+links|.|362.txt|.|1
+selling|.|209.txt|.|2|.|398.txt|.|2|.|227.txt|.|2
+amount of spam|.|026.txt|.|2
+spam|.|390.txt|.|2|.|176.txt|.|3|.|398.txt|.|10|.|159.txt|.|3|.|026.txt|.|6|.|362.txt|.|13|.|147.txt|.|3|.|132.txt|.|3|.|189.txt|.|11|.|227.txt|.|10|.|214.txt|.|5
+sustains|.|362.txt|.|1
+fight|.|390.txt|.|1|.|355.txt|.|2|.|189.txt|.|2

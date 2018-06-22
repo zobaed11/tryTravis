@@ -1,0 +1,64 @@
+oil pipeline|.|bbc_business_363.txt|.|2
+gas from iran|.|bbc_business_420.txt|.|1
+iranian|.|bbc_business_420.txt|.|2|.|bbc_sport_136.txt|.|2
+filed for bankruptcy|.|bbc_business_145.txt|.|1|.|bbc_business_391.txt|.|1
+greenspan warned|.|bbc_business_273.txt|.|2
+exploration contract|.|bbc_business_096.txt|.|1
+rating|.|bbc_business_091.txt|.|4|.|bbc_business_018.txt|.|3
+yukos assets|.|bbc_business_399.txt|.|2
+opec|.|bbc_business_144.txt|.|4
+iraqi|.|bbc_politics_229.txt|.|4|.|bbc_business_284.txt|.|9|.|bbc_business_313.txt|.|2
+venezuela|.|bbc_business_388.txt|.|1|.|bbc_business_340.txt|.|6|.|bbc_business_080.txt|.|4|.|bbc_business_231.txt|.|3
+find|.|bbc_business_198.txt|.|1
+bankruptcy filing|.|bbc_business_164.txt|.|2
+oil prices|.|bbc_business_144.txt|.|4|.|bbc_business_381.txt|.|1|.|bbc_business_182.txt|.|3|.|bbc_business_270.txt|.|4|.|bbc_business_152.txt|.|2|.|bbc_business_351.txt|.|2
+rally|.|bbc_business_028.txt|.|2
+high oil|.|bbc_business_221.txt|.|2
+biggest oil|.|bbc_business_399.txt|.|2
+mild|.|bbc_business_351.txt|.|2
+barrels|.|bbc_business_028.txt|.|3
+oil production|.|bbc_business_399.txt|.|2|.|bbc_business_164.txt|.|2
+energy firm burren|.|bbc_business_096.txt|.|1
+authorities|.|bbc_business_388.txt|.|2|.|bbc_entertainment_204.txt|.|2|.|bbc_sport_448.txt|.|2|.|bbc_tech_002.txt|.|3|.|bbc_business_029.txt|.|3|.|bbc_business_399.txt|.|2|.|bbc_politics_053.txt|.|4|.|bbc_politics_226.txt|.|2|.|bbc_politics_347.txt|.|5|.|bbc_business_192.txt|.|2|.|bbc_business_391.txt|.|3|.|bbc_politics_265.txt|.|2|.|bbc_business_131.txt|.|2
+supply deal|.|bbc_business_077.txt|.|2
+name|.|bbc_tech_209.txt|.|4|.|bbc_politics_160.txt|.|2
+allard|.|bbc_tech_348.txt|.|6
+fields|.|bbc_business_340.txt|.|2|.|bbc_business_420.txt|.|2
+crude stocks|.|bbc_business_270.txt|.|2
+crop|.|bbc_business_009.txt|.|2
+bot nets|.|bbc_tech_281.txt|.|4|.|bbc_tech_357.txt|.|7
+truce|.|bbc_business_413.txt|.|2
+yugansk|.|bbc_business_131.txt|.|8|.|bbc_business_192.txt|.|6
+increase the amount|.|bbc_business_266.txt|.|1
+indian oil|.|bbc_business_399.txt|.|2
+damages|.|bbc_business_025.txt|.|2
+abolish|.|bbc_politics_265.txt|.|2|.|bbc_politics_226.txt|.|2
+msn search|.|bbc_tech_053.txt|.|3
+production unit|.|bbc_business_399.txt|.|2
+contracts|.|bbc_business_161.txt|.|6|.|bbc_business_096.txt|.|4|.|bbc_business_231.txt|.|3|.|bbc_politics_030.txt|.|2
+cairn shares|.|bbc_business_198.txt|.|1|.|bbc_business_307.txt|.|1
+finance group|.|bbc_business_314.txt|.|3
+crude|.|bbc_business_045.txt|.|3|.|bbc_business_399.txt|.|3|.|bbc_business_144.txt|.|2|.|bbc_business_381.txt|.|5|.|bbc_business_138.txt|.|5|.|bbc_business_270.txt|.|6|.|bbc_business_152.txt|.|5|.|bbc_business_351.txt|.|2
+four companies|.|bbc_business_164.txt|.|2
+asian states|.|bbc_business_273.txt|.|2
+khatami|.|bbc_business_412.txt|.|4
+instrumental parts|.|bbc_entertainment_342.txt|.|2
+playstation|.|bbc_tech_320.txt|.|6|.|bbc_tech_190.txt|.|4|.|bbc_tech_112.txt|.|3
+make online|.|bbc_tech_369.txt|.|2
+oil|.|bbc_business_340.txt|.|13|.|bbc_business_358.txt|.|2|.|bbc_business_412.txt|.|4|.|bbc_business_307.txt|.|7|.|bbc_business_332.txt|.|4|.|bbc_business_222.txt|.|6|.|bbc_business_138.txt|.|9|.|bbc_business_030.txt|.|7|.|bbc_business_499.txt|.|5|.|bbc_business_192.txt|.|3|.|bbc_business_391.txt|.|3|.|bbc_business_083.txt|.|3|.|bbc_business_096.txt|.|4|.|bbc_business_198.txt|.|5|.|bbc_business_091.txt|.|2|.|bbc_business_318.txt|.|3|.|bbc_business_420.txt|.|8|.|bbc_business_273.txt|.|3|.|bbc_business_221.txt|.|9|.|bbc_business_314.txt|.|4|.|bbc_business_299.txt|.|2|.|bbc_business_399.txt|.|16|.|bbc_business_080.txt|.|2|.|bbc_business_144.txt|.|6|.|bbc_business_164.txt|.|6|.|bbc_business_025.txt|.|2|.|bbc_business_363.txt|.|6|.|bbc_business_270.txt|.|8|.|bbc_business_127.txt|.|2|.|bbc_business_313.txt|.|7|.|bbc_business_077.txt|.|8|.|bbc_business_131.txt|.|5|.|bbc_business_028.txt|.|4|.|bbc_business_266.txt|.|2|.|bbc_business_284.txt|.|3|.|bbc_business_381.txt|.|4|.|bbc_business_182.txt|.|3|.|bbc_business_152.txt|.|7|.|bbc_business_351.txt|.|5
+gazprom|.|bbc_business_131.txt|.|14|.|bbc_business_456.txt|.|5|.|bbc_business_164.txt|.|3
+darin|.|bbc_entertainment_071.txt|.|5
+us oil|.|bbc_business_351.txt|.|2
+boot|.|bbc_sport_307.txt|.|2
+tender|.|bbc_business_222.txt|.|2
+sensing|.|bbc_tech_368.txt|.|2
+new tender|.|bbc_business_222.txt|.|2
+aims|.|bbc_tech_153.txt|.|1|.|bbc_business_363.txt|.|2
+rosneft|.|bbc_business_003.txt|.|6|.|bbc_business_077.txt|.|10|.|bbc_business_332.txt|.|8|.|bbc_business_230.txt|.|2|.|bbc_business_127.txt|.|3
+awarded|.|bbc_business_096.txt|.|3
+burren energy|.|bbc_business_096.txt|.|3
+macedonia|.|bbc_business_363.txt|.|3
+balkan|.|bbc_business_363.txt|.|2
+iranian oil|.|bbc_business_420.txt|.|2
+oil fields|.|bbc_business_340.txt|.|2|.|bbc_business_420.txt|.|2
+mild winter|.|bbc_business_351.txt|.|2

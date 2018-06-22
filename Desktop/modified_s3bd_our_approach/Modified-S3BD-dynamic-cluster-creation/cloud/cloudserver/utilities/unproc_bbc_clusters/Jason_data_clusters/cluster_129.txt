@@ -1,0 +1,38 @@
+129
+agoda|.|WET1130.txt|.|143|.|WET4876.txt|.|103
+frankfurt am main|.|WET1131.txt|.|50
+donna tartt|.|WET5958.txt|.|26
+serveras|.|WET2032.txt|.|15
+business center|.|WET5203.txt|.|20
+panama city|.|WET3729.txt|.|100|.|WET1563.txt|.|19
+eventos|.|WET2032.txt|.|15
+sabanero eco lodge|.|WET333.txt|.|54
+dennis|.|WET5336.txt|.|17
+space|.|WET1562.txt|.|52|.|WET5775.txt|.|31|.|WET687.txt|.|41|.|WET5611.txt|.|12|.|WET2101.txt|.|10|.|WET4881.txt|.|30
+western plus hotel|.|WET3580.txt|.|29
+chiang mai|.|WET857.txt|.|16
+hotel|.|WET1130.txt|.|362|.|WET2221.txt|.|26|.|WET2894.txt|.|23|.|WET5336.txt|.|90|.|WET857.txt|.|8|.|WET3729.txt|.|148|.|WET330.txt|.|6|.|WET3580.txt|.|176|.|WET3422.txt|.|93|.|WET2033.txt|.|165|.|WET4762.txt|.|917|.|WET1454.txt|.|86|.|WET148.txt|.|73|.|WET5203.txt|.|49|.|WET1131.txt|.|106|.|WET1017.txt|.|455|.|WET5771.txt|.|17|.|WET3863.txt|.|112|.|WET4876.txt|.|223|.|WET2032.txt|.|115|.|WET5958.txt|.|15|.|WET333.txt|.|45|.|WET4235.txt|.|187
+western hotel|.|WET3580.txt|.|108
+avis hotel|.|WET5336.txt|.|78
+inclusive|.|WET148.txt|.|2
+hotel area|.|WET4876.txt|.|40
+hotel special|.|WET2033.txt|.|9
+customer ratings|.|WET1454.txt|.|14
+friendly staff|.|WET4762.txt|.|126
+north face|.|WET4992.txt|.|32|.|WET3770.txt|.|9|.|WET1241.txt|.|36
+night|.|WET1454.txt|.|44|.|WET3257.txt|.|35|.|WET1772.txt|.|15|.|WET2412.txt|.|77|.|WET6106.txt|.|45|.|WET4762.txt|.|395
+bialek|.|WET5336.txt|.|16
+gmat|.|WET4198.txt|.|591|.|WET453.txt|.|246|.|WET452.txt|.|691
+hotel would recommend|.|WET4762.txt|.|69
+accidents|.|WET2511.txt|.|19
+serveras med|.|WET2032.txt|.|13
+stays|.|WET2033.txt|.|41
+plus hotel|.|WET3580.txt|.|29
+sandals mary|.|WET3606.txt|.|15
+rental houses|.|WET2763.txt|.|132
+select your dates|.|WET1454.txt|.|11
+click for details|.|WET5336.txt|.|16
+neatorama|.|WET2474.txt|.|10
+couple stayed|.|WET4762.txt|.|644
+mature couple|.|WET4762.txt|.|467
+related accessories|.|WET3422.txt|.|16

@@ -1,0 +1,38 @@
+311
+inrequest accountlog|.|WET4077.txt|.|9
+polish portuguese|.|WET3997.txt|.|5
+privacy statement|.|WET207.txt|.|6|.|WET2387.txt|.|11|.|WET776.txt|.|6|.|WET1752.txt|.|32
+close icon|.|WET3654.txt|.|6
+advice|.|WET2016.txt|.|34|.|WET2713.txt|.|45|.|WET1753.txt|.|16|.|WET1406.txt|.|25
+food games|.|WET3654.txt|.|6
+choose|.|WET5913.txt|.|20|.|WET751.txt|.|12|.|WET2173.txt|.|160
+variants|.|WET4077.txt|.|9
+topics contribute|.|WET5709.txt|.|7
+units|.|WET839.txt|.|22|.|WET3712.txt|.|34
+translate|.|WET3997.txt|.|5
+horizontal|.|WET6147.txt|.|20
+dance design|.|WET3654.txt|.|6
+related questions|.|WET5884.txt|.|18
+related|.|WET1321.txt|.|58|.|WET5051.txt|.|16|.|WET3794.txt|.|80|.|WET6172.txt|.|60|.|WET3598.txt|.|20|.|WET4466.txt|.|13|.|WET1055.txt|.|15|.|WET3422.txt|.|24|.|WET5884.txt|.|18|.|WET3871.txt|.|10|.|WET3703.txt|.|18|.|WET5348.txt|.|10|.|WET127.txt|.|11|.|WET1408.txt|.|36|.|WET2592.txt|.|30|.|WET5049.txt|.|35
+ebscohost|.|WET730.txt|.|11
+volunteering|.|WET4077.txt|.|9
+help me choose|.|WET5913.txt|.|20|.|WET2173.txt|.|160
+deals help me choose blog|.|WET2173.txt|.|160
+shop all deals help|.|WET2173.txt|.|128
+small engine parts|.|WET2596.txt|.|11
+welcome|.|WET3569.txt|.|20|.|WET5229.txt|.|11|.|WET5368.txt|.|8
+programming|.|WET2130.txt|.|91|.|WET4150.txt|.|121|.|WET756.txt|.|56|.|WET1716.txt|.|14|.|WET4497.txt|.|42|.|WET2128.txt|.|33
+swedish|.|WET3997.txt|.|6
+help search|.|WET285.txt|.|11
+homework|.|WET5884.txt|.|18
+sponsored|.|WET5912.txt|.|18|.|WET964.txt|.|2|.|WET3326.txt|.|25|.|WET4816.txt|.|3
+thai|.|WET3997.txt|.|5
+help appliance repair|.|WET2596.txt|.|11
+recipes to browse|.|WET1963.txt|.|11
+deals help|.|WET2173.txt|.|160
+cart danish|.|WET3997.txt|.|5
+help|.|WET1778.txt|.|14|.|WET2713.txt|.|19|.|WET3654.txt|.|20|.|WET5912.txt|.|102|.|WET5709.txt|.|9|.|WET5861.txt|.|39|.|WET3175.txt|.|74|.|WET5383.txt|.|20|.|WET1963.txt|.|44|.|WET1459.txt|.|16|.|WET5884.txt|.|38|.|WET4774.txt|.|41|.|WET5913.txt|.|32|.|WET730.txt|.|11|.|WET1002.txt|.|20|.|WET756.txt|.|55|.|WET4532.txt|.|39|.|WET2596.txt|.|64|.|WET2620.txt|.|11|.|WET2337.txt|.|76|.|WET642.txt|.|22|.|WET629.txt|.|36|.|WET3923.txt|.|4|.|WET4775.txt|.|46|.|WET3732.txt|.|71|.|WET2130.txt|.|27|.|WET2173.txt|.|163|.|WET1029.txt|.|44|.|WET3585.txt|.|33|.|WET4083.txt|.|29|.|WET4046.txt|.|7|.|WET5368.txt|.|26|.|WET4193.txt|.|33|.|WET3462.txt|.|17|.|WET45.txt|.|32|.|WET207.txt|.|10|.|WET839.txt|.|44|.|WET3609.txt|.|12|.|WET4601.txt|.|31|.|WET340.txt|.|22|.|WET3997.txt|.|11|.|WET285.txt|.|11|.|WET4369.txt|.|35|.|WET1030.txt|.|45|.|WET4497.txt|.|43|.|WET4077.txt|.|25|.|WET1962.txt|.|44
+washers|.|WET2173.txt|.|40
+help forum|.|WET1963.txt|.|22|.|WET1962.txt|.|22
+greek hebrew|.|WET3997.txt|.|5
+find crag|.|WET3175.txt|.|12

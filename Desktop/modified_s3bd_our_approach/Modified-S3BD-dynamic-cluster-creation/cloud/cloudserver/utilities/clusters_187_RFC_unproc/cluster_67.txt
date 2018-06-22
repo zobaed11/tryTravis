@@ -1,0 +1,120 @@
+signing certificate|.|rfc5035.txt|.|18
+base profile|.|rfc5759.txt|.|3
+college|.|rfc5697.txt|.|3|.|rfc3793.txt|.|2|.|rfc5327.txt|.|3
+qualified|.|rfc4704.txt|.|14|.|rfc3039.txt|.|76|.|rfc3739.txt|.|75
+proxy certificate|.|rfc3820.txt|.|128
+certificate store|.|rfc4387.txt|.|54
+store access|.|rfc4387.txt|.|27
+esscertid update|.|rfc5035.txt|.|16
+ipsec peer|.|rfc4809.txt|.|48
+random number|.|rfc4108.txt|.|5|.|rfc4683.txt|.|11
+certification authority|.|rfc4945.txt|.|35|.|rfc4158.txt|.|25|.|rfc2314.txt|.|10|.|rfc2527.txt|.|27
+certificate status|.|rfc4366.txt|.|9|.|rfc4557.txt|.|4|.|rfc5019.txt|.|9|.|rfc2560.txt|.|7|.|rfc6277.txt|.|6
+certificate theory|.|rfc2693.txt|.|43
+attribute certificate|.|rfc5877.txt|.|10|.|rfc3281.txt|.|56|.|rfc3709.txt|.|8|.|rfc4476.txt|.|9
+crls|.|rfc4945.txt|.|42
+logotype data|.|rfc3709.txt|.|17
+proof|.|rfc2875.txt|.|1|.|rfc4211.txt|.|7
+certificate identification|.|rfc5035.txt|.|10
+pkix ocsp|.|rfc2560.txt|.|22
+certificate and crl|.|rfc5759.txt|.|15
+package load receipt|.|rfc4108.txt|.|22
+openpgp certificates|.|rfc6091.txt|.|11
+certificate issued|.|rfc5636.txt|.|8
+extension in the certificate|.|rfc4945.txt|.|3
+revocation list|.|rfc3850.txt|.|5
+domain signature|.|rfc5617.txt|.|30|.|rfc3183.txt|.|57
+key usage|.|rfc3820.txt|.|33|.|rfc4334.txt|.|21|.|rfc3770.txt|.|15|.|rfc3039.txt|.|11|.|rfc5924.txt|.|11
+sip secure|.|rfc6216.txt|.|66
+handling july|.|rfc3850.txt|.|15
+enrollment request|.|rfc2797.txt|.|32
+validating|.|rfc5937.txt|.|2
+possession of data|.|rfc3029.txt|.|12
+certificates|.|rfc6273.txt|.|11|.|rfc6187.txt|.|59|.|rfc4572.txt|.|32|.|rfc4682.txt|.|6|.|rfc3506.txt|.|7|.|rfc6091.txt|.|23|.|rfc4158.txt|.|296|.|rfc3039.txt|.|64|.|rfc6193.txt|.|21|.|rfc5697.txt|.|55|.|rfc3126.txt|.|65|.|rfc4894.txt|.|25|.|rfc5917.txt|.|9|.|rfc3709.txt|.|57|.|rfc5916.txt|.|7|.|rfc3739.txt|.|63
+visual representation of a certificate|.|rfc6170.txt|.|3
+certificate management|.|rfc4212.txt|.|10|.|rfc6072.txt|.|2
+internet attribute certificate|.|rfc3281.txt|.|40
+dierks|.|rfc5246.txt|.|108
+alternative certificate|.|rfc4212.txt|.|29
+online certificate status|.|rfc4557.txt|.|4|.|rfc4806.txt|.|3|.|rfc6277.txt|.|4
+mechanism august|.|rfc2389.txt|.|8|.|rfc4616.txt|.|10|.|rfc3163.txt|.|16
+local names|.|rfc2693.txt|.|9
+internet attribute|.|rfc3281.txt|.|40
+zieglar|.|rfc5759.txt|.|12
+data validation certificate|.|rfc3029.txt|.|39
+usage values|.|rfc4334.txt|.|5|.|rfc3770.txt|.|4
+esscertid|.|rfc5035.txt|.|27
+validation certificate|.|rfc3029.txt|.|39
+sdsi|.|rfc2693.txt|.|35
+new certificate|.|rfc5697.txt|.|15
+rescorla standards track|.|rfc5246.txt|.|104
+status protocol|.|rfc4738.txt|.|1|.|rfc4557.txt|.|4
+pki message|.|rfc2510.txt|.|29
+qualified certificates|.|rfc3039.txt|.|56|.|rfc3739.txt|.|49
+using openpgp|.|rfc5081.txt|.|9
+certificate formats|.|rfc4212.txt|.|21
+certificate extension|.|rfc5913.txt|.|27|.|rfc4059.txt|.|14|.|rfc4334.txt|.|11|.|rfc3770.txt|.|7|.|rfc4262.txt|.|4|.|rfc5924.txt|.|4
+eastlake standards|.|rfc2930.txt|.|16|.|rfc6066.txt|.|25
+certificate pair|.|rfc4523.txt|.|14
+user certificate|.|rfc6216.txt|.|10
+credential service|.|rfc6072.txt|.|42
+practice statement|.|rfc2527.txt|.|18
+package load error|.|rfc4108.txt|.|23
+cross certificate|.|rfc2510.txt|.|1
+subject name|.|rfc3739.txt|.|5
+end entity|.|rfc4210.txt|.|126|.|rfc5697.txt|.|10|.|rfc3820.txt|.|30|.|rfc2510.txt|.|118
+certificate handling|.|rfc3850.txt|.|17|.|rfc2312.txt|.|20|.|rfc2632.txt|.|14
+path discovery|.|rfc3379.txt|.|28
+authentication sasl|.|rfc3163.txt|.|18
+trinity|.|rfc5697.txt|.|3|.|rfc5327.txt|.|3
+cp or cps|.|rfc3647.txt|.|53
+entity certificate|.|rfc4945.txt|.|3|.|rfc3379.txt|.|1
+traceable anonymous certificate|.|rfc5636.txt|.|38
+logotypes|.|rfc3709.txt|.|67
+certification paths|.|rfc5937.txt|.|8
+tls protocol|.|rfc2246.txt|.|96
+ocsp june|.|rfc2560.txt|.|22
+profile january|.|rfc3039.txt|.|34
+handshake messages|.|rfc5081.txt|.|3
+constraints certificate extension|.|rfc5913.txt|.|24
+wireless lan|.|rfc4334.txt|.|6|.|rfc3770.txt|.|5
+key exchange|.|rfc4432.txt|.|16|.|rfc5386.txt|.|3|.|rfc4462.txt|.|101|.|rfc5246.txt|.|82|.|rfc4492.txt|.|38|.|rfc4307.txt|.|7|.|rfc2230.txt|.|16|.|rfc4346.txt|.|78|.|rfc4478.txt|.|3|.|rfc4279.txt|.|14|.|rfc3766.txt|.|40|.|rfc2407.txt|.|11|.|rfc4253.txt|.|67|.|rfc2412.txt|.|31|.|rfc4419.txt|.|18|.|rfc2945.txt|.|9|.|rfc4109.txt|.|5|.|rfc2786.txt|.|11|.|rfc4308.txt|.|6|.|rfc5903.txt|.|13|.|rfc6101.txt|.|61|.|rfc6071.txt|.|47|.|rfc6023.txt|.|4
+eku june|.|rfc5924.txt|.|7
+aggrieved|.|rfc5636.txt|.|17
+using openpgp keys|.|rfc5081.txt|.|8
+formats october|.|rfc4212.txt|.|18
+wlan february|.|rfc4334.txt|.|10
+santesson|.|rfc4680.txt|.|10|.|rfc4325.txt|.|9|.|rfc4681.txt|.|14|.|rfc6170.txt|.|16|.|rfc6277.txt|.|14|.|rfc3739.txt|.|36
+certificate validation|.|rfc5276.txt|.|3
+real|.|rfc5763.txt|.|2|.|rfc5636.txt|.|34|.|rfc4612.txt|.|1|.|rfc2686.txt|.|1|.|rfc32.txt|.|1|.|rfc5124.txt|.|3|.|rfc5669.txt|.|1|.|rfc5194.txt|.|7|.|rfc2689.txt|.|1|.|rfc5993.txt|.|3|.|rfc5968.txt|.|2|.|rfc2862.txt|.|1|.|rfc2326.txt|.|93|.|rfc57.txt|.|3|.|rfc508.txt|.|1|.|rfc2687.txt|.|1
+certification practice|.|rfc2527.txt|.|24
+flows april|.|rfc6216.txt|.|66
+update august|.|rfc5035.txt|.|16
+secure hypertext transfer|.|rfc2660.txt|.|45
+mavrogiannopoulos|.|rfc5081.txt|.|10|.|rfc6091.txt|.|12
+vpn system|.|rfc4809.txt|.|26
+certificates extension|.|rfc5697.txt|.|12
+clearance constraints certificate|.|rfc5913.txt|.|28
+certificates profile|.|rfc3039.txt|.|35|.|rfc3739.txt|.|34
+visual representation|.|rfc6170.txt|.|7
+proxy issuer|.|rfc3820.txt|.|24
+handling june|.|rfc2632.txt|.|12
+data validation|.|rfc3029.txt|.|78
+identity scheme|.|rfc5906.txt|.|24
+certificate|.|rfc3125.txt|.|111|.|rfc3647.txt|.|406|.|rfc4108.txt|.|75|.|rfc5913.txt|.|54|.|rfc4523.txt|.|60|.|rfc5019.txt|.|28|.|rfc5281.txt|.|40|.|rfc3850.txt|.|128|.|rfc3506.txt|.|7|.|rfc4346.txt|.|126|.|rfc5035.txt|.|92|.|rfc2312.txt|.|110|.|rfc5751.txt|.|38|.|rfc5697.txt|.|66|.|rfc4557.txt|.|11|.|rfc3770.txt|.|57|.|rfc3709.txt|.|76|.|rfc4806.txt|.|36|.|rfc6239.txt|.|14|.|rfc2408.txt|.|104|.|rfc4738.txt|.|20|.|rfc5763.txt|.|41|.|rfc5636.txt|.|191|.|rfc5759.txt|.|36|.|rfc6216.txt|.|142|.|rfc3161.txt|.|30|.|rfc4262.txt|.|18|.|rfc6072.txt|.|151|.|rfc3379.txt|.|62|.|rfc2314.txt|.|21|.|rfc5937.txt|.|17|.|rfc2632.txt|.|96|.|rfc5924.txt|.|51|.|rfc5906.txt|.|137|.|rfc3029.txt|.|111|.|rfc2797.txt|.|156|.|rfc5996.txt|.|80|.|rfc4387.txt|.|125|.|rfc5081.txt|.|43|.|rfc4043.txt|.|23|.|rfc4945.txt|.|262|.|rfc2847.txt|.|20|.|rfc5953.txt|.|112|.|rfc2246.txt|.|126|.|rfc6170.txt|.|81|.|rfc4642.txt|.|13|.|rfc3820.txt|.|239|.|rfc3163.txt|.|40|.|rfc2693.txt|.|199|.|rfc6091.txt|.|49|.|rfc6277.txt|.|26|.|rfc2154.txt|.|36|.|rfc4366.txt|.|74|.|rfc4306.txt|.|79|.|rfc2660.txt|.|22|.|rfc4270.txt|.|17|.|rfc6066.txt|.|61|.|rfc4739.txt|.|2|.|rfc2510.txt|.|278|.|rfc3739.txt|.|109|.|rfc2527.txt|.|270|.|rfc5708.txt|.|7|.|rfc5246.txt|.|165|.|rfc4211.txt|.|125|.|rfc5216.txt|.|77|.|rfc4746.txt|.|21|.|rfc4212.txt|.|96|.|rfc4476.txt|.|20|.|rfc5848.txt|.|141|.|rfc3039.txt|.|100|.|rfc4474.txt|.|58|.|rfc4809.txt|.|72|.|rfc2538.txt|.|41|.|rfc5877.txt|.|16|.|rfc3281.txt|.|75|.|rfc3520.txt|.|21|.|rfc4059.txt|.|36|.|rfc4334.txt|.|64|.|rfc3851.txt|.|35|.|rfc3183.txt|.|36|.|rfc2560.txt|.|66|.|rfc5479.txt|.|25|.|rfc5276.txt|.|32|.|rfc4683.txt|.|65
+wallace|.|rfc5276.txt|.|16|.|rfc6025.txt|.|21|.|rfc5937.txt|.|12
+logotype types|.|rfc3709.txt|.|8
+extended key|.|rfc4334.txt|.|17|.|rfc3770.txt|.|12|.|rfc5924.txt|.|11
+re key|.|rfc3647.txt|.|3
+certification practice statement|.|rfc2527.txt|.|18
+attribute and authority clearance|.|rfc5913.txt|.|3
+certificate identified|.|rfc5035.txt|.|4
+tls extension|.|rfc6066.txt|.|24
+sdsi name|.|rfc2693.txt|.|10
+revocation information|.|rfc5940.txt|.|17|.|rfc5276.txt|.|14
+handling march|.|rfc2312.txt|.|19
+pair|.|rfc4809.txt|.|43|.|rfc4210.txt|.|67|.|rfc3647.txt|.|27|.|rfc6013.txt|.|8|.|rfc4523.txt|.|14|.|rfc5534.txt|.|55|.|rfc5533.txt|.|181|.|rfc4621.txt|.|50|.|rfc2510.txt|.|46|.|rfc4060.txt|.|21|.|rfc6181.txt|.|10
+enrollment|.|rfc2797.txt|.|95
+peer and server|.|rfc5216.txt|.|12
+certificate policy|.|rfc3039.txt|.|9|.|rfc3739.txt|.|9|.|rfc2527.txt|.|82
+spki certificate|.|rfc2693.txt|.|48

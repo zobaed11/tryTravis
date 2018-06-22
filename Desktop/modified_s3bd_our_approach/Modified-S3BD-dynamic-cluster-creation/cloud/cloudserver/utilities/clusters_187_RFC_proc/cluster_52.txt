@@ -1,0 +1,120 @@
+preamble
+mkcol for webdav
+use of xml
+semantic web
+filter criteria
+processors
+epp contact
+pending additions
+hollenbeck standards
+character
+xml
+ietf xml registry
+calendar collection
+smi datatype
+exclusive
+common schema
+rfcs using xml
+resource lists
+web distributed authoring
+snmp smi
+sieve march
+diff event
+xml declaration
+validation mapping
+vedam
+marcxml
+mgcp business
+validation information
+rendered
+omitted
+maintained registry
+contact mapping
+stark ericsson mobile
+inria
+omitted charset
+semantic
+representation for sieve
+encoding declaration
+document
+xml mime
+xml request
+availability
+romary
+instruction node
+security extensions mapping
+open trading protocol
+exclusive xml canonicalization
+vedam standards
+diff processing
+canonical form
+voucher language
+processing instruction node
+internet open
+business phone
+status values
+xml representation for sieve
+types july
+mapping august
+xcap diff
+goal of mapping
+epp dns
+lendl standards
+generic voucher
+prefixed
+canonical xml
+phone packages
+xml document
+signature syntax
+partial pidf
+prefixed namespace declaration
+pipelining with chunks
+saint andre
+internet open trading protocol
+method defined
+mobile communications
+reagle
+contact object
+xml digital signature
+maintained
+sieves in xml
+speech synthesis
+xsd datatype
+event package
+lundberg
+watcher information
+interface framework
+metadata object description
+exclusive xml
+business phone packages
+extensible markup
+rfcs using
+protocols january
+open trading
+lists
+xml processors
+canonicalization
+rose informational
+underlying xml documents
+partial notifications
+notify request
+namespace prefixes
+base datatypes
+calendar data
+graphical user
+xsd
+language september
+stark
+object description schema
+expressing snmp
+schema preamble
+boyer
+patch operations
+consortium and inria
+security uris
+fujimura
+signature requirements
+declarations
+pidf diff
+xml entity
+initiating

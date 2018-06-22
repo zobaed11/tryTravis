@@ -1,0 +1,17 @@
+79
+tuffy|.|306.txt|.|4
+virtual|.|249.txt|.|6|.|200.txt|.|2
+uk gamers|.|140.txt|.|2
+island|.|249.txt|.|3
+part|.|140.txt|.|2
+screen|.|084.txt|.|1|.|306.txt|.|2
+virtual land|.|249.txt|.|2
+painkiller game|.|140.txt|.|2
+quality|.|306.txt|.|3
+professional|.|274.txt|.|2
+entropia|.|249.txt|.|4
+consoles by march|.|238.txt|.|2
+land|.|249.txt|.|4
+disabled|.|277.txt|.|5
+elimination|.|274.txt|.|2
+gamers|.|185.txt|.|4|.|238.txt|.|2|.|317.txt|.|2|.|249.txt|.|5|.|274.txt|.|2|.|153.txt|.|4|.|140.txt|.|4|.|025.txt|.|2|.|306.txt|.|3

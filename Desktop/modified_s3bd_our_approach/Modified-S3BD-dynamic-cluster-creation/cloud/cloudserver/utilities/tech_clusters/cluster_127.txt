@@ -1,0 +1,17 @@
+127
+mobiles with cameras|.|103.txt|.|1|.|388.txt|.|1
+old mobile|.|017.txt|.|2
+gartner said|.|064.txt|.|1|.|338.txt|.|1
+mobile phones|.|383.txt|.|6|.|034.txt|.|2|.|103.txt|.|1|.|375.txt|.|2|.|382.txt|.|2|.|388.txt|.|1|.|067.txt|.|2|.|017.txt|.|6|.|069.txt|.|2
+intervoice said|.|069.txt|.|2
+report revealed|.|017.txt|.|1
+phones|.|383.txt|.|6|.|234.txt|.|6|.|103.txt|.|13|.|375.txt|.|7|.|338.txt|.|7|.|382.txt|.|3|.|388.txt|.|13|.|265.txt|.|5|.|109.txt|.|4|.|386.txt|.|4|.|208.txt|.|7|.|389.txt|.|6|.|064.txt|.|7|.|034.txt|.|3|.|182.txt|.|5|.|050.txt|.|6|.|067.txt|.|3|.|017.txt|.|11|.|069.txt|.|7
+landfill sites|.|017.txt|.|2
+old mobile phones|.|017.txt|.|2
+rock|.|182.txt|.|2
+call of duty|.|288.txt|.|6
+tabloid newspapers|.|208.txt|.|1
+camera|.|208.txt|.|5|.|389.txt|.|2|.|234.txt|.|2|.|278.txt|.|2|.|103.txt|.|13|.|388.txt|.|13
+mobile owners|.|287.txt|.|2|.|069.txt|.|4|.|372.txt|.|2
+old phones|.|017.txt|.|2
+phone users|.|389.txt|.|2|.|234.txt|.|2

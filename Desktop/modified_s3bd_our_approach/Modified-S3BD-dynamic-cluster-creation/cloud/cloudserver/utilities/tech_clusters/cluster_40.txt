@@ -1,0 +1,17 @@
+40
+rsa|.|346.txt|.|5
+protect inventions|.|342.txt|.|1|.|048.txt|.|1
+patent|.|342.txt|.|4|.|030.txt|.|4|.|048.txt|.|4|.|029.txt|.|4
+delay hits|.|080.txt|.|1
+tallest|.|253.txt|.|1
+tech firms|.|342.txt|.|2|.|048.txt|.|2
+patenting|.|258.txt|.|5
+patenting of computer|.|258.txt|.|1
+implemented invention|.|030.txt|.|1
+companies|.|376.txt|.|1|.|188.txt|.|12|.|080.txt|.|3|.|041.txt|.|1
+juri|.|030.txt|.|2
+inventions|.|342.txt|.|2|.|030.txt|.|4|.|258.txt|.|2|.|048.txt|.|2|.|080.txt|.|3
+implemented|.|030.txt|.|2
+mixer|.|bread.txt|.|5
+invention|.|030.txt|.|1
+fresh delay|.|080.txt|.|2

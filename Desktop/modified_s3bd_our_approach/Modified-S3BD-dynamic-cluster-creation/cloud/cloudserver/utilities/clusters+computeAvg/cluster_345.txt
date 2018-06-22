@@ -1,0 +1,38 @@
+345
+forest|.|WET2103.txt|.|17
+management and services|.|WET2436.txt|.|1
+advertisers|.|WET5631.txt|.|14
+stylus|.|WET2662.txt|.|18
+services management|.|WET3409.txt|.|2
+active learning|.|WET4015.txt|.|2
+assistant professor faculty|.|WET4015.txt|.|40
+programmatic|.|WET4045.txt|.|738
+fellows hall|.|WET4015.txt|.|44
+scheduling|.|WET2338.txt|.|2
+celebs porn|.|WET2436.txt|.|4
+adaptive resource management|.|WET4832.txt|.|2
+football schedule|.|WET1801.txt|.|5
+warnell|.|WET2103.txt|.|5
+directions products|.|WET1406.txt|.|4
+goals|.|WET1670.txt|.|8
+essences|.|WET4955.txt|.|19
+service management|.|WET5071.txt|.|18|.|WET465.txt|.|6
+flash storage|.|WET4258.txt|.|2
+channel events|.|WET1749.txt|.|5
+managed services|.|WET1574.txt|.|3|.|WET5322.txt|.|2|.|WET3415.txt|.|6
+customer care|.|WET1406.txt|.|8
+services|.|WET816.txt|.|18|.|WET1749.txt|.|241|.|WET1801.txt|.|53|.|WET4510.txt|.|9|.|WET1201.txt|.|9|.|WET1783.txt|.|23|.|WET4015.txt|.|221|.|WET2103.txt|.|23|.|WET5071.txt|.|69|.|WET4908.txt|.|6|.|WET1235.txt|.|7|.|WET3240.txt|.|12|.|WET2436.txt|.|10|.|WET4258.txt|.|1|.|WET5982.txt|.|29|.|WET4490.txt|.|11|.|WET2338.txt|.|11|.|WET4987.txt|.|5|.|WET1381.txt|.|13|.|WET2643.txt|.|19|.|WET6074.txt|.|21|.|WET3623.txt|.|19|.|WET5322.txt|.|15|.|WET3415.txt|.|132|.|WET3733.txt|.|33|.|WET1670.txt|.|12|.|WET3582.txt|.|5|.|WET1574.txt|.|9|.|WET4955.txt|.|7|.|WET2998.txt|.|44|.|WET2662.txt|.|36|.|WET3409.txt|.|23|.|WET3760.txt|.|46|.|WET5494.txt|.|11|.|WET137.txt|.|80|.|WET2701.txt|.|6|.|WET1955.txt|.|4|.|WET3663.txt|.|31|.|WET4832.txt|.|207|.|WET4045.txt|.|229|.|WET3603.txt|.|66|.|WET6261.txt|.|14|.|WET5847.txt|.|31|.|WET5465.txt|.|71|.|WET2716.txt|.|27|.|WET1122.txt|.|29|.|WET6109.txt|.|46|.|WET1390.txt|.|48|.|WET2365.txt|.|43|.|WET304.txt|.|133|.|WET5631.txt|.|25|.|WET3706.txt|.|39|.|WET5547.txt|.|53|.|WET5229.txt|.|11|.|WET2941.txt|.|38|.|WET5454.txt|.|13|.|WET1406.txt|.|10
+coolest mobile|.|WET1574.txt|.|9
+pack|.|WET6109.txt|.|19
+services planning|.|WET5982.txt|.|8
+facilities services|.|WET4015.txt|.|105
+mercedes|.|WET3663.txt|.|2
+pinnacle|.|WET2662.txt|.|24
+collaboration|.|WET422.txt|.|17|.|WET1749.txt|.|164
+images publications|.|WET2103.txt|.|5
+nfl schedules|.|WET1801.txt|.|4
+blanket|.|WET3623.txt|.|19
+schedules services|.|WET1670.txt|.|2
+field goals|.|WET1670.txt|.|7
+error persists|.|WET4045.txt|.|199
+services installation|.|WET1406.txt|.|4

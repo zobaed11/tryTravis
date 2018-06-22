@@ -1,0 +1,120 @@
+service level
+ecrit
+guttman standards
+bocci
+aor
+cmts port
+home organization
+pr sctp
+communicate at the link
+internet white
+previous responders
+iana msg
+presence and instant messaging
+service call
+sp chain
+urls june
+ddds
+session balancing
+abstract dtp
+identifier in packet
+maparch september
+support service
+directory service
+service specification
+quality
+authentication block
+aaa authorization
+opaque extension
+management function
+access remote
+virtual node
+element service
+voice messaging directory service
+control service
+presence and instant
+mark packets
+connecting it to the network
+internet connectivity
+token bucket
+internet layer
+resolution service
+credit control application
+solicitation keywords
+general requirements
+lost server
+emergency services
+codes september
+messaging directory
+server supports
+emergency telecommunications
+desirability
+service requests
+pppoe june
+local users
+abstract service
+packet headers
+software consulting service
+service url
+paste october
+qualities
+name service search
+version timestamp
+service attributes
+dynamically to target
+roke manor research
+ip services
+service identifier
+elastic treatment
+host addresses
+abrams
+call connection
+implemented
+qualities of service
+reliability extension
+restrictions
+finding
+boeyen
+andrew
+frame relay service
+parameter configuration
+wroclawski informational
+guaranteed quality
+pint working
+pvc end point
+subscribe operation
+reconfiguration service
+pcn encoding
+credit control
+service provider
+archive requirements
+repository locator service
+discovering desired
+service request
+accounting service
+service location protocol
+urls
+multiple services
+cable service interface
+using slp
+security management
+service interface specifications
+service quality
+service definition
+ssm service
+warnings
+listservicesbylocation
+authorization protocols
+behavior of the user
+montenegro
+dchk
+mailbox addresses
+switched telephone
+template september
+extension for command
+service
+nagarajan informational
+logical link
+naugle
+content body
+root service

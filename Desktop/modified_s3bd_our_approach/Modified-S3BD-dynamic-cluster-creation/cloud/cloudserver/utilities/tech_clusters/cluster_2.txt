@@ -1,0 +1,17 @@
+2
+firefox browser|.|138.txt|.|2
+sites searching|.|257.txt|.|1
+phpbb|.|257.txt|.|3
+wallpaper|.|197.txt|.|2
+release|.|237.txt|.|2|.|036.txt|.|1|.|300.txt|.|3|.|139.txt|.|3|.|138.txt|.|2|.|003.txt|.|1|.|268.txt|.|1
+trojan|.|036.txt|.|3|.|003.txt|.|3
+program|.|257.txt|.|5|.|197.txt|.|10|.|237.txt|.|3|.|036.txt|.|6|.|138.txt|.|5|.|003.txt|.|6
+malicious program|.|257.txt|.|3|.|197.txt|.|2
+tool|.|028.txt|.|2|.|237.txt|.|4|.|036.txt|.|2|.|177.txt|.|2|.|003.txt|.|2|.|292.txt|.|2|.|108.txt|.|3|.|267.txt|.|2
+malicious|.|257.txt|.|3|.|077.txt|.|6|.|400.txt|.|2|.|197.txt|.|4|.|210.txt|.|5|.|385.txt|.|3
+spyware tool|.|036.txt|.|1|.|003.txt|.|1
+internet explorer|.|369.txt|.|4|.|196.txt|.|3|.|020.txt|.|5|.|138.txt|.|5
+warned|.|197.txt|.|1|.|049.txt|.|1
+program attempts|.|036.txt|.|1|.|003.txt|.|1
+smartphones|.|197.txt|.|2
+attempts|.|036.txt|.|2|.|003.txt|.|2

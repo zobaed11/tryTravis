@@ -1,0 +1,64 @@
+corp|.|bbc_business_447.txt|.|4|.|bbc_business_282.txt|.|2|.|bbc_business_422.txt|.|6|.|bbc_business_254.txt|.|4
+lets|.|bbc_tech_202.txt|.|3|.|bbc_tech_076.txt|.|2
+campaigns|.|bbc_entertainment_041.txt|.|1|.|bbc_tech_157.txt|.|3
+group tru|.|bbc_entertainment_279.txt|.|2
+broadband network|.|bbc_tech_394.txt|.|1
+games market|.|bbc_business_447.txt|.|2|.|bbc_business_254.txt|.|2
+mcfadden makes|.|bbc_entertainment_123.txt|.|2
+music video|.|bbc_entertainment_279.txt|.|2
+group|.|bbc_sport_497.txt|.|3|.|bbc_politics_319.txt|.|6|.|bbc_business_218.txt|.|3|.|bbc_tech_186.txt|.|2|.|bbc_sport_238.txt|.|2|.|bbc_business_014.txt|.|3|.|bbc_entertainment_296.txt|.|3|.|bbc_business_486.txt|.|6|.|bbc_business_021.txt|.|3|.|bbc_politics_336.txt|.|3|.|bbc_business_510.txt|.|5|.|bbc_business_341.txt|.|2|.|bbc_business_053.txt|.|2|.|bbc_business_291.txt|.|3|.|bbc_politics_238.txt|.|4|.|bbc_business_349.txt|.|8|.|bbc_business_314.txt|.|5|.|bbc_entertainment_107.txt|.|2|.|bbc_sport_222.txt|.|2|.|bbc_business_029.txt|.|3|.|bbc_entertainment_248.txt|.|4|.|bbc_sport_133.txt|.|4|.|bbc_sport_219.txt|.|3|.|bbc_business_127.txt|.|3|.|bbc_sport_455.txt|.|2|.|bbc_entertainment_174.txt|.|2|.|bbc_business_422.txt|.|2|.|bbc_tech_362.txt|.|2|.|bbc_business_308.txt|.|4|.|bbc_sport_261.txt|.|2|.|bbc_business_067.txt|.|2|.|bbc_entertainment_279.txt|.|3|.|bbc_business_223.txt|.|2|.|bbc_business_418.txt|.|3|.|bbc_politics_240.txt|.|3|.|bbc_entertainment_210.txt|.|2|.|bbc_business_444.txt|.|1
+eyeing|.|bbc_business_447.txt|.|1|.|bbc_sport_067.txt|.|1|.|bbc_business_254.txt|.|1
+news corp|.|bbc_business_447.txt|.|4|.|bbc_business_422.txt|.|6|.|bbc_business_254.txt|.|4
+devices|.|bbc_tech_170.txt|.|4|.|bbc_tech_275.txt|.|3|.|bbc_tech_222.txt|.|11
+query|.|bbc_tech_076.txt|.|2
+tree|.|bbc_entertainment_001.txt|.|5
+telewest|.|bbc_tech_280.txt|.|9|.|bbc_tech_070.txt|.|5
+search service|.|bbc_tech_076.txt|.|2
+minority ethnic led|.|bbc_entertainment_194.txt|.|4
+filmed|.|bbc_entertainment_279.txt|.|4
+search query|.|bbc_tech_076.txt|.|2
+jail|.|bbc_business_161.txt|.|2|.|bbc_entertainment_258.txt|.|2|.|bbc_entertainment_279.txt|.|5
+mad black woman|.|bbc_entertainment_312.txt|.|3
+scottish regiments|.|bbc_politics_238.txt|.|4
+classification|.|bbc_tech_231.txt|.|2
+amoruso|.|bbc_sport_213.txt|.|1
+talked|.|bbc_tech_394.txt|.|1
+rush future at chester|.|bbc_sport_153.txt|.|1
+shark tale|.|bbc_entertainment_359.txt|.|4
+cable firm|.|bbc_tech_280.txt|.|1
+tru|.|bbc_entertainment_279.txt|.|2
+halo fans|.|bbc_tech_139.txt|.|2
+soar|.|bbc_tech_264.txt|.|1|.|bbc_business_476.txt|.|1
+mobile gig|.|bbc_tech_182.txt|.|1
+music video in jail|.|bbc_entertainment_279.txt|.|2
+soap|.|bbc_entertainment_170.txt|.|2|.|bbc_entertainment_211.txt|.|2
+rapper had filmed|.|bbc_entertainment_279.txt|.|1
+daniel williams|.|bbc_sport_225.txt|.|2
+special effects|.|bbc_entertainment_077.txt|.|2
+google has launched|.|bbc_tech_076.txt|.|1
+video|.|bbc_tech_024.txt|.|2|.|bbc_business_447.txt|.|6|.|bbc_tech_139.txt|.|6|.|bbc_tech_309.txt|.|5|.|bbc_tech_076.txt|.|6|.|bbc_tech_130.txt|.|2|.|bbc_tech_070.txt|.|3|.|bbc_tech_178.txt|.|2|.|bbc_tech_182.txt|.|4|.|bbc_tech_104.txt|.|2|.|bbc_tech_394.txt|.|4|.|bbc_tech_386.txt|.|12|.|bbc_tech_203.txt|.|2|.|bbc_entertainment_123.txt|.|5|.|bbc_tech_082.txt|.|2|.|bbc_tech_216.txt|.|2|.|bbc_entertainment_230.txt|.|2|.|bbc_tech_094.txt|.|3|.|bbc_tech_183.txt|.|5|.|bbc_tech_313.txt|.|3|.|bbc_tech_157.txt|.|5|.|bbc_tech_276.txt|.|9|.|bbc_politics_199.txt|.|3|.|bbc_business_254.txt|.|7|.|bbc_tech_280.txt|.|3|.|bbc_tech_251.txt|.|5|.|bbc_entertainment_359.txt|.|4|.|bbc_tech_205.txt|.|1|.|bbc_entertainment_279.txt|.|6|.|bbc_tech_231.txt|.|4|.|bbc_tech_222.txt|.|9
+government officials|.|bbc_tech_231.txt|.|2
+fuller|.|bbc_entertainment_319.txt|.|8|.|bbc_sport_268.txt|.|6
+rapper|.|bbc_entertainment_288.txt|.|3|.|bbc_entertainment_151.txt|.|2|.|bbc_entertainment_259.txt|.|5|.|bbc_entertainment_285.txt|.|2|.|bbc_entertainment_229.txt|.|3|.|bbc_entertainment_279.txt|.|3|.|bbc_entertainment_115.txt|.|3|.|bbc_entertainment_142.txt|.|3
+banking|.|bbc_business_417.txt|.|4|.|bbc_business_489.txt|.|2|.|bbc_business_147.txt|.|7|.|bbc_business_409.txt|.|5|.|bbc_business_032.txt|.|1|.|bbc_business_088.txt|.|2
+nominees|.|bbc_entertainment_084.txt|.|5|.|bbc_entertainment_377.txt|.|6|.|bbc_entertainment_363.txt|.|5|.|bbc_entertainment_369.txt|.|2
+september|.|bbc_business_295.txt|.|3
+online games|.|bbc_tech_157.txt|.|2
+dating|.|bbc_tech_386.txt|.|12
+video phones|.|bbc_tech_386.txt|.|4|.|bbc_tech_182.txt|.|3
+violence|.|bbc_entertainment_168.txt|.|2|.|bbc_tech_231.txt|.|3
+video gaming|.|bbc_tech_309.txt|.|2
+video game|.|bbc_tech_024.txt|.|2|.|bbc_tech_139.txt|.|2|.|bbc_tech_082.txt|.|2|.|bbc_tech_130.txt|.|1|.|bbc_tech_178.txt|.|1|.|bbc_tech_276.txt|.|5
+ntl|.|bbc_tech_280.txt|.|6
+video in jail|.|bbc_entertainment_279.txt|.|2
+theft|.|bbc_business_185.txt|.|3|.|bbc_business_079.txt|.|4|.|bbc_tech_130.txt|.|2|.|bbc_tech_178.txt|.|2
+sign language|.|bbc_tech_251.txt|.|4
+video mobile|.|bbc_tech_386.txt|.|1
+google video|.|bbc_tech_076.txt|.|3
+top box|.|bbc_tech_070.txt|.|1
+westlife|.|bbc_entertainment_123.txt|.|2
+home video|.|bbc_entertainment_359.txt|.|3|.|bbc_tech_094.txt|.|2|.|bbc_tech_313.txt|.|2
+challenge|.|bbc_tech_070.txt|.|2|.|bbc_politics_308.txt|.|2
+machines|.|bbc_tech_210.txt|.|6|.|bbc_business_123.txt|.|2|.|bbc_tech_309.txt|.|9|.|bbc_tech_122.txt|.|17
+dating services|.|bbc_tech_386.txt|.|3
+video recorders|.|bbc_tech_216.txt|.|2|.|bbc_tech_070.txt|.|2

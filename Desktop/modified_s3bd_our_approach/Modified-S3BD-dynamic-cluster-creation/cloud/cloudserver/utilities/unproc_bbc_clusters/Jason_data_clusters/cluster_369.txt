@@ -1,0 +1,38 @@
+369
+sun ultrasparc|.|WET4467.txt|.|7
+albums|.|WET4883.txt|.|19|.|WET4577.txt|.|16|.|WET2924.txt|.|48
+facebook fan|.|WET3050.txt|.|76
+probowl|.|WET3844.txt|.|17
+post on digg|.|WET3844.txt|.|30
+dolce vita|.|WET2273.txt|.|52
+linkedin|.|WET2493.txt|.|13|.|WET1015.txt|.|31|.|WET1776.txt|.|22|.|WET5511.txt|.|23
+retirement|.|WET4851.txt|.|11|.|WET5691.txt|.|16
+schedule roster|.|WET455.txt|.|41|.|WET5673.txt|.|160|.|WET3342.txt|.|20|.|WET4109.txt|.|36|.|WET2259.txt|.|30|.|WET1973.txt|.|69|.|WET4952.txt|.|69
+roster|.|WET5673.txt|.|163|.|WET3342.txt|.|22|.|WET4374.txt|.|75|.|WET5611.txt|.|6|.|WET4109.txt|.|38|.|WET3171.txt|.|26|.|WET2541.txt|.|40|.|WET3178.txt|.|46|.|WET4952.txt|.|69|.|WET3169.txt|.|69|.|WET455.txt|.|42|.|WET2259.txt|.|30|.|WET1973.txt|.|72|.|WET2891.txt|.|19
+twitter|.|WET3331.txt|.|21|.|WET4374.txt|.|75|.|WET4519.txt|.|19|.|WET1535.txt|.|17|.|WET1829.txt|.|24|.|WET5790.txt|.|5|.|WET1820.txt|.|9|.|WET2198.txt|.|9|.|WET2900.txt|.|19|.|WET2536.txt|.|9|.|WET4791.txt|.|55|.|WET6062.txt|.|47|.|WET3923.txt|.|33|.|WET903.txt|.|18|.|WET250.txt|.|4|.|WET5279.txt|.|60|.|WET119.txt|.|17|.|WET4435.txt|.|34|.|WET5511.txt|.|32|.|WET4504.txt|.|22|.|WET4259.txt|.|17|.|WET1402.txt|.|37|.|WET1776.txt|.|26|.|WET5936.txt|.|9|.|WET3786.txt|.|8|.|WET2239.txt|.|20|.|WET4912.txt|.|17|.|WET1477.txt|.|11|.|WET1345.txt|.|12|.|WET2718.txt|.|5|.|WET1044.txt|.|55|.|WET4442.txt|.|12|.|WET414.txt|.|54|.|WET457.txt|.|9|.|WET455.txt|.|51|.|WET2108.txt|.|24|.|WET4938.txt|.|23|.|WET4700.txt|.|17|.|WET2377.txt|.|41|.|WET4775.txt|.|11|.|WET5673.txt|.|148|.|WET3589.txt|.|8|.|WET4792.txt|.|55|.|WET4758.txt|.|13|.|WET4303.txt|.|18|.|WET3405.txt|.|29|.|WET1989.txt|.|50|.|WET366.txt|.|32|.|WET4649.txt|.|9|.|WET3865.txt|.|18|.|WET5741.txt|.|45|.|WET3326.txt|.|16|.|WET1030.txt|.|10|.|WET4352.txt|.|7
+consignment|.|WET5790.txt|.|4
+terms privacy|.|WET4649.txt|.|8
+africa canada|.|WET3068.txt|.|5
+roster twitter facebook|.|WET455.txt|.|25
+links home|.|WET1097.txt|.|8
+facebook account|.|WET6215.txt|.|26
+file sharing|.|WET1097.txt|.|16
+whisperer|.|WET3050.txt|.|107
+buncombe|.|WET1390.txt|.|30
+ultrasparc|.|WET4467.txt|.|15
+facebook|.|WET4374.txt|.|72|.|WET185.txt|.|11|.|WET1277.txt|.|25|.|WET3844.txt|.|37|.|WET5790.txt|.|6|.|WET442.txt|.|27|.|WET1820.txt|.|10|.|WET2900.txt|.|21|.|WET2536.txt|.|11|.|WET4791.txt|.|56|.|WET1075.txt|.|22|.|WET6062.txt|.|42|.|WET3923.txt|.|33|.|WET4258.txt|.|22|.|WET6215.txt|.|26|.|WET4435.txt|.|36|.|WET280.txt|.|22|.|WET1509.txt|.|20|.|WET3050.txt|.|223|.|WET5431.txt|.|15|.|WET5511.txt|.|28|.|WET4504.txt|.|21|.|WET4259.txt|.|18|.|WET4467.txt|.|23|.|WET4742.txt|.|11|.|WET5826.txt|.|16|.|WET361.txt|.|27|.|WET1830.txt|.|15|.|WET1047.txt|.|18|.|WET1021.txt|.|45|.|WET1776.txt|.|27|.|WET3683.txt|.|44|.|WET3786.txt|.|8|.|WET5433.txt|.|17|.|WET3904.txt|.|24|.|WET2239.txt|.|19|.|WET3654.txt|.|13|.|WET4912.txt|.|15|.|WET2477.txt|.|16|.|WET5212.txt|.|11|.|WET1345.txt|.|12|.|WET2718.txt|.|4|.|WET1044.txt|.|56|.|WET4442.txt|.|17|.|WET457.txt|.|12|.|WET2273.txt|.|30|.|WET561.txt|.|14|.|WET455.txt|.|42|.|WET1849.txt|.|10|.|WET1045.txt|.|22|.|WET4680.txt|.|45|.|WET1096.txt|.|60|.|WET4938.txt|.|21|.|WET1097.txt|.|42|.|WET4700.txt|.|13|.|WET4775.txt|.|11|.|WET5673.txt|.|112|.|WET3589.txt|.|12|.|WET4792.txt|.|56|.|WET2321.txt|.|67|.|WET2924.txt|.|22|.|WET1390.txt|.|58|.|WET4305.txt|.|10|.|WET4649.txt|.|9|.|WET5741.txt|.|48|.|WET5691.txt|.|30|.|WET3068.txt|.|20|.|WET635.txt|.|28|.|WET3326.txt|.|21|.|WET1356.txt|.|17|.|WET1030.txt|.|10|.|WET5105.txt|.|53|.|WET1391.txt|.|66|.|WET4352.txt|.|6
+crunch report|.|WET4680.txt|.|14
+startups mobile gadgets|.|WET4680.txt|.|21
+burda|.|WET5141.txt|.|47|.|WET1391.txt|.|44
+nfc|.|WET3844.txt|.|13
+nfc probowl|.|WET3844.txt|.|13
+startups|.|WET4680.txt|.|35
+machine learning|.|WET4258.txt|.|5|.|WET4593.txt|.|2
+diaper whisperer|.|WET3050.txt|.|102
+home new|.|WET1277.txt|.|6
+using google using|.|WET4792.txt|.|22
+permit|.|WET1390.txt|.|17
+polyak k|.|WET361.txt|.|12
+size information|.|WET3923.txt|.|2
+index terms|.|WET3923.txt|.|2
+cloth|.|WET5387.txt|.|31|.|WET4502.txt|.|13|.|WET279.txt|.|15|.|WET3050.txt|.|255|.|WET1641.txt|.|36

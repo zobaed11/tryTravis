@@ -1,0 +1,64 @@
+jobless|.|bbc_business_275.txt|.|3|.|bbc_business_387.txt|.|5|.|bbc_business_490.txt|.|2|.|bbc_business_061.txt|.|3|.|bbc_business_139.txt|.|3
+oil firm|.|bbc_business_083.txt|.|2|.|bbc_business_131.txt|.|2|.|bbc_business_164.txt|.|2
+animal welfare|.|bbc_politics_048.txt|.|5
+tyranny|.|bbc_politics_290.txt|.|9
+frederick forsyth|.|bbc_politics_290.txt|.|8
+ibge|.|bbc_business_490.txt|.|3
+prosecution|.|bbc_politics_048.txt|.|2
+independent of government|.|bbc_politics_025.txt|.|2
+quango|.|bbc_politics_039.txt|.|1
+welsh|.|bbc_politics_170.txt|.|5|.|bbc_sport_392.txt|.|2|.|bbc_politics_039.txt|.|8|.|bbc_sport_395.txt|.|7|.|bbc_sport_362.txt|.|4|.|bbc_politics_177.txt|.|3|.|bbc_sport_401.txt|.|2
+pugh|.|bbc_politics_039.txt|.|2
+protected|.|bbc_politics_290.txt|.|4
+environment select|.|bbc_politics_048.txt|.|2
+media labs europe|.|bbc_tech_282.txt|.|2
+quango review|.|bbc_politics_039.txt|.|1
+ms james|.|bbc_politics_039.txt|.|5
+skill levels|.|bbc_politics_080.txt|.|2
+claim against the government|.|bbc_business_303.txt|.|2
+areas to get special|.|bbc_politics_092.txt|.|1
+government control|.|bbc_politics_039.txt|.|3
+government help|.|bbc_entertainment_131.txt|.|2
+average monthly|.|bbc_business_490.txt|.|2
+alex|.|bbc_entertainment_131.txt|.|3
+boosts|.|bbc_business_347.txt|.|1
+arts funding|.|bbc_politics_039.txt|.|2
+improve animal|.|bbc_politics_048.txt|.|2
+tomlinson|.|bbc_sport_071.txt|.|3
+scheme|.|bbc_politics_023.txt|.|2|.|bbc_politics_042.txt|.|4|.|bbc_tech_194.txt|.|3
+robertson|.|bbc_sport_267.txt|.|4
+committee said|.|bbc_politics_048.txt|.|2
+fletcher dies|.|bbc_entertainment_190.txt|.|1
+online communities|.|bbc_tech_191.txt|.|6
+welsh arts|.|bbc_politics_039.txt|.|2
+chorley|.|bbc_sport_224.txt|.|2
+reais|.|bbc_business_303.txt|.|2
+regulators|.|bbc_business_191.txt|.|2|.|bbc_business_326.txt|.|1
+pugh said|.|bbc_politics_039.txt|.|2
+increases|.|bbc_politics_380.txt|.|7
+blair government|.|bbc_politics_027.txt|.|1
+government|.|bbc_business_159.txt|.|2|.|bbc_politics_048.txt|.|6|.|bbc_politics_357.txt|.|9|.|bbc_politics_250.txt|.|5|.|bbc_politics_039.txt|.|11|.|bbc_business_107.txt|.|4|.|bbc_tech_002.txt|.|4|.|bbc_sport_386.txt|.|2|.|bbc_business_248.txt|.|2|.|bbc_business_010.txt|.|3|.|bbc_politics_101.txt|.|8|.|bbc_politics_162.txt|.|2|.|bbc_politics_092.txt|.|3|.|bbc_business_347.txt|.|2|.|bbc_politics_317.txt|.|3|.|bbc_politics_380.txt|.|16|.|bbc_politics_100.txt|.|3|.|bbc_tech_191.txt|.|8|.|bbc_business_127.txt|.|2|.|bbc_business_303.txt|.|7|.|bbc_politics_080.txt|.|6|.|bbc_business_077.txt|.|2|.|bbc_business_389.txt|.|4|.|bbc_business_382.txt|.|2|.|bbc_politics_020.txt|.|7|.|bbc_politics_271.txt|.|5|.|bbc_tech_282.txt|.|2|.|bbc_politics_222.txt|.|4|.|bbc_business_487.txt|.|5|.|bbc_business_033.txt|.|6|.|bbc_business_324.txt|.|3|.|bbc_politics_027.txt|.|8|.|bbc_business_023.txt|.|2|.|bbc_politics_025.txt|.|3|.|bbc_business_136.txt|.|4|.|bbc_politics_343.txt|.|2|.|bbc_politics_290.txt|.|30|.|bbc_tech_211.txt|.|2|.|bbc_business_083.txt|.|2|.|bbc_politics_369.txt|.|3|.|bbc_business_120.txt|.|4|.|bbc_business_490.txt|.|3|.|bbc_politics_037.txt|.|2|.|bbc_business_012.txt|.|6|.|bbc_politics_135.txt|.|4|.|bbc_politics_103.txt|.|3|.|bbc_entertainment_131.txt|.|22|.|bbc_business_104.txt|.|4|.|bbc_politics_023.txt|.|4|.|bbc_business_227.txt|.|2|.|bbc_business_182.txt|.|2|.|bbc_tech_231.txt|.|2|.|bbc_tech_226.txt|.|2|.|bbc_business_245.txt|.|4|.|bbc_business_195.txt|.|3
+salaries|.|bbc_business_133.txt|.|2
+reject|.|bbc_politics_222.txt|.|3
+legalising euthanasia|.|bbc_politics_068.txt|.|1
+power cables|.|bbc_tech_015.txt|.|1
+barbara county|.|bbc_entertainment_108.txt|.|2
+uk university|.|bbc_politics_023.txt|.|1
+pesos|.|bbc_business_033.txt|.|2
+independent body|.|bbc_politics_025.txt|.|2
+colombia|.|bbc_business_033.txt|.|2
+world leaders|.|bbc_business_487.txt|.|2
+gcses|.|bbc_politics_020.txt|.|3
+ballot|.|bbc_politics_114.txt|.|8|.|bbc_politics_061.txt|.|9|.|bbc_entertainment_081.txt|.|1|.|bbc_politics_294.txt|.|2
+pretty|.|bbc_politics_357.txt|.|2
+plays|.|bbc_business_303.txt|.|1
+lord butler|.|bbc_politics_027.txt|.|7
+discuss issues|.|bbc_business_487.txt|.|1
+tonnes this year|.|bbc_business_120.txt|.|1
+frank discussions|.|bbc_politics_357.txt|.|2
+nuisance behaviour|.|bbc_politics_092.txt|.|2
+publish|.|bbc_politics_025.txt|.|1
+political leaders|.|bbc_business_487.txt|.|2
+decent wages|.|bbc_business_227.txt|.|2
+irish government|.|bbc_tech_282.txt|.|2
+discuss|.|bbc_business_487.txt|.|1

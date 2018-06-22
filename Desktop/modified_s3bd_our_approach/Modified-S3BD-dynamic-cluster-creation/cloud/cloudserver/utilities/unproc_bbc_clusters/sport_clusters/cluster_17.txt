@@ -1,0 +1,91 @@
+17
+forwards|.|bbc_sport_337.txt|.|3|.|bbc_sport_336.txt|.|1
+yard|.|bbc_sport_146.txt|.|2
+game against italy|.|bbc_sport_342.txt|.|1
+james kept|.|bbc_sport_139.txt|.|2
+penalties|.|bbc_sport_284.txt|.|4|.|bbc_sport_163.txt|.|4
+subs|.|bbc_sport_214.txt|.|2|.|bbc_sport_225.txt|.|2|.|bbc_sport_224.txt|.|2
+klinsmann|.|bbc_sport_194.txt|.|4
+belgian|.|bbc_sport_448.txt|.|6|.|bbc_sport_502.txt|.|3|.|bbc_sport_465.txt|.|2
+impressed|.|bbc_sport_056.txt|.|1
+run|.|bbc_sport_059.txt|.|2|.|bbc_sport_366.txt|.|2|.|bbc_sport_062.txt|.|2|.|bbc_sport_002.txt|.|2|.|bbc_sport_085.txt|.|2
+larne|.|bbc_sport_130.txt|.|2
+johnson|.|bbc_sport_073.txt|.|6|.|bbc_sport_367.txt|.|10|.|bbc_sport_061.txt|.|4|.|bbc_sport_037.txt|.|4|.|bbc_sport_083.txt|.|5
+marathon runner|.|bbc_sport_013.txt|.|1
+bomb|.|bbc_sport_245.txt|.|5
+scottish|.|bbc_sport_365.txt|.|6|.|bbc_sport_212.txt|.|4|.|bbc_sport_363.txt|.|2
+trial|.|bbc_sport_091.txt|.|4|.|bbc_sport_045.txt|.|3
+dallaglio|.|bbc_sport_373.txt|.|2|.|bbc_sport_389.txt|.|4|.|bbc_sport_375.txt|.|17
+points|.|bbc_sport_377.txt|.|6|.|bbc_sport_428.txt|.|3|.|bbc_sport_151.txt|.|2|.|bbc_sport_259.txt|.|2
+decided|.|bbc_sport_262.txt|.|2
+lacklustre|.|bbc_sport_412.txt|.|2
+disorders|.|acne.txt|.|7
+white|.|bbc_sport_207.txt|.|2|.|bbc_sport_313.txt|.|7|.|bbc_sport_044.txt|.|10
+years and won a couple|.|bbc_sport_458.txt|.|1
+lennon|.|bbc_sport_221.txt|.|3
+mcleish|.|bbc_sport_263.txt|.|4
+maloney|.|bbc_sport_108.txt|.|4
+annual|.|bbc_sport_027.txt|.|2
+barnard|.|bbc_sport_214.txt|.|2
+wales next|.|bbc_sport_356.txt|.|2
+donate|.|bbc_sport_451.txt|.|2
+jump title|.|bbc_sport_061.txt|.|2
+kiole|.|bbc_sport_293.txt|.|3
+hurdles|.|bbc_sport_059.txt|.|3|.|bbc_sport_056.txt|.|2|.|bbc_sport_001.txt|.|3
+hugh|.|bbc_sport_147.txt|.|2
+luscombe|.|bbc_sport_333.txt|.|3
+edinburgh|.|bbc_sport_076.txt|.|2|.|bbc_sport_024.txt|.|3|.|bbc_sport_410.txt|.|12|.|bbc_sport_388.txt|.|2|.|bbc_sport_322.txt|.|2
+two task|.|bbc_sport_004.txt|.|2
+real|.|bbc_sport_239.txt|.|3|.|bbc_sport_245.txt|.|5|.|bbc_sport_193.txt|.|7|.|bbc_sport_154.txt|.|7|.|bbc_sport_211.txt|.|2|.|bbc_sport_275.txt|.|4|.|bbc_sport_237.txt|.|3|.|bbc_sport_266.txt|.|3|.|bbc_sport_247.txt|.|5|.|bbc_sport_151.txt|.|6
+monitoring|.|bbc_sport_156.txt|.|2
+giggs|.|bbc_sport_115.txt|.|14|.|bbc_sport_282.txt|.|2
+alan|.|bbc_sport_105.txt|.|2
+celtic|.|bbc_sport_221.txt|.|1|.|bbc_sport_187.txt|.|3|.|bbc_sport_277.txt|.|2|.|bbc_sport_276.txt|.|6|.|bbc_sport_146.txt|.|7|.|bbc_sport_108.txt|.|6|.|bbc_sport_138.txt|.|2
+heinze|.|bbc_sport_200.txt|.|5
+mauresmo|.|bbc_sport_474.txt|.|6
+laharrague|.|bbc_sport_287.txt|.|3
+reid|.|bbc_sport_191.txt|.|4
+bulgarian|.|bbc_sport_277.txt|.|2
+bolton|.|bbc_sport_105.txt|.|7|.|bbc_sport_185.txt|.|5
+sella believes|.|bbc_sport_327.txt|.|2
+next|.|bbc_sport_413.txt|.|2|.|bbc_sport_053.txt|.|2|.|bbc_sport_073.txt|.|3|.|bbc_sport_356.txt|.|2|.|bbc_sport_038.txt|.|2|.|bbc_sport_393.txt|.|3|.|bbc_sport_141.txt|.|2|.|bbc_sport_204.txt|.|2|.|bbc_sport_086.txt|.|2|.|bbc_sport_468.txt|.|3
+wilkinson|.|bbc_sport_347.txt|.|2|.|bbc_sport_342.txt|.|2|.|bbc_sport_345.txt|.|7|.|bbc_sport_388.txt|.|3|.|bbc_sport_373.txt|.|4|.|bbc_sport_415.txt|.|5
+cueto|.|bbc_sport_406.txt|.|3|.|bbc_sport_289.txt|.|3|.|bbc_sport_405.txt|.|3
+ludovic valbon|.|bbc_sport_344.txt|.|2|.|bbc_sport_332.txt|.|2
+cautious|.|bbc_sport_215.txt|.|3
+robbie|.|bbc_sport_130.txt|.|2|.|bbc_sport_217.txt|.|2
+grandclaude|.|bbc_sport_306.txt|.|2
+running|.|bbc_sport_072.txt|.|7|.|bbc_sport_042.txt|.|2|.|bbc_sport_110.txt|.|2
+yannick|.|bbc_sport_287.txt|.|4
+seed was too strong|.|bbc_sport_444.txt|.|1
+rogge|.|bbc_sport_036.txt|.|2
+athens olympics|.|bbc_sport_016.txt|.|2
+caledonian|.|bbc_sport_085.txt|.|2
+newry|.|bbc_sport_131.txt|.|7
+narraway|.|bbc_sport_293.txt|.|3
+sorrell|.|bbc_sport_324.txt|.|2
+wales record cap|.|bbc_sport_413.txt|.|1
+greek|.|bbc_sport_023.txt|.|5|.|bbc_sport_047.txt|.|3|.|bbc_sport_017.txt|.|4|.|bbc_sport_016.txt|.|3|.|bbc_sport_089.txt|.|4|.|bbc_sport_048.txt|.|2|.|bbc_sport_050.txt|.|3|.|bbc_sport_051.txt|.|4|.|bbc_sport_081.txt|.|3|.|bbc_sport_033.txt|.|6|.|bbc_sport_080.txt|.|7|.|bbc_sport_082.txt|.|4
+respect his decision|.|bbc_sport_202.txt|.|1
+ioannidis|.|bbc_sport_017.txt|.|3
+valbon|.|bbc_sport_344.txt|.|3|.|bbc_sport_332.txt|.|3
+mills|.|bbc_sport_225.txt|.|2
+griffen|.|bbc_sport_350.txt|.|2
+black|.|bbc_sport_216.txt|.|2
+training squad|.|bbc_sport_383.txt|.|2
+war|.|bbc_sport_363.txt|.|2
+bowen|.|bbc_sport_213.txt|.|3
+black players|.|bbc_sport_216.txt|.|2
+sheffield|.|bbc_sport_062.txt|.|2
+hails|.|bbc_sport_282.txt|.|1
+final sprint|.|bbc_sport_042.txt|.|1
+governing body|.|bbc_sport_016.txt|.|2
+mauro|.|bbc_sport_350.txt|.|2
+acne|.|acne.txt|.|20
+kick|.|bbc_sport_109.txt|.|2|.|bbc_sport_248.txt|.|1
+slip|.|bbc_sport_146.txt|.|2
+paterson|.|bbc_sport_407.txt|.|9
+livingston|.|bbc_sport_109.txt|.|2
+signing|.|bbc_sport_186.txt|.|2
+greg|.|bbc_sport_461.txt|.|2
+robson|.|bbc_sport_172.txt|.|7

@@ -1,0 +1,64 @@
+executive producer|.|bbc_entertainment_228.txt|.|1
+diamonds|.|bbc_entertainment_330.txt|.|1
+beauty|.|bbc_entertainment_325.txt|.|2
+jury prize|.|bbc_entertainment_336.txt|.|4
+film critics|.|bbc_entertainment_030.txt|.|2
+anger|.|bbc_entertainment_085.txt|.|2
+bangkok film|.|bbc_entertainment_306.txt|.|2
+guild|.|bbc_entertainment_377.txt|.|2|.|bbc_entertainment_051.txt|.|2|.|bbc_entertainment_069.txt|.|2
+venice|.|bbc_entertainment_198.txt|.|1
+face barriers|.|bbc_entertainment_194.txt|.|2
+motion picture|.|bbc_entertainment_035.txt|.|2
+figaro newspaper|.|bbc_entertainment_045.txt|.|2
+drake|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_034.txt|.|2|.|bbc_entertainment_373.txt|.|2|.|bbc_entertainment_075.txt|.|4|.|bbc_entertainment_352.txt|.|8|.|bbc_entertainment_357.txt|.|6
+recent|.|bbc_entertainment_063.txt|.|1
+trophies|.|bbc_entertainment_352.txt|.|2
+hoffman has hit|.|bbc_entertainment_315.txt|.|1
+afi jury|.|bbc_entertainment_048.txt|.|2
+recent ruling|.|bbc_entertainment_063.txt|.|1
+film|.|bbc_entertainment_377.txt|.|5|.|bbc_entertainment_385.txt|.|5|.|bbc_entertainment_334.txt|.|4|.|bbc_entertainment_032.txt|.|3|.|bbc_entertainment_075.txt|.|3|.|bbc_entertainment_308.txt|.|4|.|bbc_entertainment_350.txt|.|7|.|bbc_entertainment_326.txt|.|19|.|bbc_entertainment_369.txt|.|6|.|bbc_entertainment_091.txt|.|5|.|bbc_entertainment_034.txt|.|7|.|bbc_entertainment_383.txt|.|5|.|bbc_entertainment_065.txt|.|5|.|bbc_entertainment_060.txt|.|3|.|bbc_entertainment_073.txt|.|7|.|bbc_entertainment_379.txt|.|4|.|bbc_entertainment_336.txt|.|7|.|bbc_entertainment_030.txt|.|8|.|bbc_entertainment_049.txt|.|6|.|bbc_entertainment_306.txt|.|7|.|bbc_entertainment_079.txt|.|4|.|bbc_entertainment_354.txt|.|7|.|bbc_entertainment_042.txt|.|5|.|bbc_entertainment_330.txt|.|4|.|bbc_entertainment_085.txt|.|13|.|bbc_entertainment_324.txt|.|4|.|bbc_entertainment_067.txt|.|5|.|bbc_entertainment_312.txt|.|3|.|bbc_entertainment_224.txt|.|3|.|bbc_entertainment_363.txt|.|3|.|bbc_entertainment_380.txt|.|5|.|bbc_entertainment_194.txt|.|6|.|bbc_entertainment_096.txt|.|4|.|bbc_entertainment_047.txt|.|7|.|bbc_entertainment_053.txt|.|4|.|bbc_entertainment_371.txt|.|7|.|bbc_entertainment_365.txt|.|1|.|bbc_entertainment_070.txt|.|5|.|bbc_entertainment_056.txt|.|4|.|bbc_entertainment_331.txt|.|4|.|bbc_entertainment_039.txt|.|7|.|bbc_entertainment_102.txt|.|5|.|bbc_entertainment_357.txt|.|8|.|bbc_entertainment_094.txt|.|6|.|bbc_entertainment_352.txt|.|14|.|bbc_entertainment_382.txt|.|4|.|bbc_entertainment_064.txt|.|3|.|bbc_entertainment_045.txt|.|5|.|bbc_entertainment_303.txt|.|8|.|bbc_entertainment_329.txt|.|5|.|bbc_entertainment_228.txt|.|10|.|bbc_entertainment_309.txt|.|3|.|bbc_entertainment_068.txt|.|4|.|bbc_entertainment_300.txt|.|5|.|bbc_entertainment_341.txt|.|5|.|bbc_entertainment_198.txt|.|3|.|bbc_entertainment_335.txt|.|6|.|bbc_entertainment_378.txt|.|4|.|bbc_entertainment_295.txt|.|2|.|bbc_entertainment_269.txt|.|7|.|bbc_entertainment_323.txt|.|7|.|bbc_entertainment_035.txt|.|3|.|bbc_entertainment_299.txt|.|3|.|bbc_tech_013.txt|.|8|.|bbc_entertainment_048.txt|.|5|.|bbc_entertainment_374.txt|.|3|.|bbc_entertainment_361.txt|.|3|.|bbc_entertainment_005.txt|.|3|.|bbc_entertainment_099.txt|.|11|.|bbc_entertainment_090.txt|.|10|.|bbc_entertainment_072.txt|.|6|.|bbc_entertainment_337.txt|.|4|.|bbc_entertainment_325.txt|.|7|.|bbc_entertainment_037.txt|.|5|.|bbc_entertainment_355.txt|.|7|.|bbc_entertainment_347.txt|.|6|.|bbc_entertainment_304.txt|.|3|.|bbc_entertainment_089.txt|.|2|.|bbc_entertainment_029.txt|.|8|.|bbc_entertainment_054.txt|.|5|.|bbc_entertainment_003.txt|.|4|.|bbc_entertainment_071.txt|.|5|.|bbc_entertainment_097.txt|.|7|.|bbc_business_021.txt|.|4|.|bbc_entertainment_038.txt|.|6|.|bbc_entertainment_101.txt|.|3|.|bbc_entertainment_362.txt|.|8|.|bbc_entertainment_087.txt|.|4|.|bbc_entertainment_277.txt|.|4|.|bbc_entertainment_061.txt|.|8|.|bbc_entertainment_095.txt|.|4|.|bbc_entertainment_082.txt|.|7|.|bbc_entertainment_057.txt|.|4|.|bbc_entertainment_332.txt|.|3|.|bbc_entertainment_272.txt|.|4|.|bbc_entertainment_315.txt|.|4|.|bbc_entertainment_358.txt|.|2|.|bbc_entertainment_302.txt|.|5|.|bbc_entertainment_080.txt|.|2|.|bbc_entertainment_033.txt|.|3|.|bbc_tech_231.txt|.|2|.|bbc_entertainment_351.txt|.|7|.|bbc_entertainment_063.txt|.|10|.|bbc_entertainment_381.txt|.|2
+girl|.|bbc_entertainment_085.txt|.|2
+warner bros|.|bbc_entertainment_063.txt|.|2
+resistance|.|bbc_entertainment_090.txt|.|2
+mckendry|.|bbc_entertainment_369.txt|.|1
+us film|.|bbc_entertainment_097.txt|.|1
+adolf hitler|.|bbc_entertainment_090.txt|.|1
+release of a film|.|bbc_entertainment_054.txt|.|1
+globe|.|bbc_entertainment_095.txt|.|4|.|bbc_entertainment_092.txt|.|2|.|bbc_entertainment_355.txt|.|2|.|bbc_entertainment_038.txt|.|2
+uk troops|.|bbc_politics_129.txt|.|2
+chances|.|bbc_sport_259.txt|.|2
+adventure film|.|bbc_entertainment_330.txt|.|2
+stopped working|.|bbc_entertainment_315.txt|.|2
+decision making|.|bbc_business_111.txt|.|2|.|bbc_politics_193.txt|.|2
+napster|.|bbc_tech_298.txt|.|5|.|bbc_tech_263.txt|.|5
+documentary category|.|bbc_entertainment_336.txt|.|2
+box office takings|.|bbc_entertainment_073.txt|.|2|.|bbc_entertainment_350.txt|.|2
+exorcist|.|bbc_entertainment_362.txt|.|2
+said michael|.|bbc_entertainment_269.txt|.|1
+mumbai bombs|.|bbc_entertainment_054.txt|.|1
+ian curtis|.|bbc_entertainment_228.txt|.|2
+stage production|.|bbc_entertainment_277.txt|.|1
+curtis|.|bbc_entertainment_228.txt|.|2
+box|.|bbc_entertainment_060.txt|.|2|.|bbc_entertainment_100.txt|.|4|.|bbc_entertainment_312.txt|.|2|.|bbc_entertainment_073.txt|.|3|.|bbc_entertainment_364.txt|.|2|.|bbc_entertainment_046.txt|.|2|.|bbc_tech_070.txt|.|4|.|bbc_entertainment_363.txt|.|6|.|bbc_entertainment_049.txt|.|3|.|bbc_entertainment_350.txt|.|3|.|bbc_entertainment_088.txt|.|3|.|bbc_entertainment_380.txt|.|3|.|bbc_entertainment_072.txt|.|4|.|bbc_entertainment_384.txt|.|2|.|bbc_entertainment_335.txt|.|3|.|bbc_entertainment_066.txt|.|2|.|bbc_entertainment_155.txt|.|4|.|bbc_entertainment_053.txt|.|6|.|bbc_entertainment_297.txt|.|3|.|bbc_entertainment_338.txt|.|2|.|bbc_entertainment_074.txt|.|3|.|bbc_entertainment_340.txt|.|3|.|bbc_entertainment_076.txt|.|4|.|bbc_entertainment_065.txt|.|2
+british film|.|bbc_entertainment_034.txt|.|2|.|bbc_entertainment_383.txt|.|2|.|bbc_entertainment_354.txt|.|2
+lord of the rings|.|bbc_entertainment_385.txt|.|2
+television industries|.|bbc_entertainment_194.txt|.|2
+hitler|.|bbc_entertainment_090.txt|.|1
+film being julia|.|bbc_entertainment_325.txt|.|2
+feature|.|bbc_entertainment_101.txt|.|2|.|bbc_tech_010.txt|.|7
+critics associations|.|bbc_entertainment_030.txt|.|2
+unfortunate events|.|bbc_entertainment_060.txt|.|2
+next bond|.|bbc_entertainment_347.txt|.|2
+reese witherspoon|.|bbc_entertainment_061.txt|.|2
+oscar winner|.|bbc_entertainment_385.txt|.|2
+companies face|.|bbc_entertainment_194.txt|.|1
+cate blanchett|.|bbc_entertainment_372.txt|.|2|.|bbc_entertainment_354.txt|.|2
+unfortunate|.|bbc_entertainment_060.txt|.|2
+office takings|.|bbc_entertainment_073.txt|.|2|.|bbc_entertainment_350.txt|.|2
+controversy|.|bbc_entertainment_326.txt|.|2
+wilbur|.|bbc_entertainment_302.txt|.|2
+vinci|.|bbc_entertainment_009.txt|.|3|.|bbc_entertainment_376.txt|.|6|.|bbc_entertainment_098.txt|.|2|.|bbc_entertainment_308.txt|.|2|.|bbc_entertainment_068.txt|.|2|.|bbc_sport_440.txt|.|3
+submission|.|bbc_business_227.txt|.|3|.|bbc_entertainment_329.txt|.|2
+us critics|.|bbc_entertainment_030.txt|.|2
+bafta film|.|bbc_entertainment_352.txt|.|1
+story|.|bbc_business_243.txt|.|2|.|bbc_entertainment_228.txt|.|2|.|bbc_entertainment_343.txt|.|1

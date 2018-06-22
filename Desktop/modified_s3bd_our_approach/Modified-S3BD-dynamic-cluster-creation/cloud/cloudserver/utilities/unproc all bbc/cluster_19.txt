@@ -1,0 +1,64 @@
+podcasting|.|bbc_tech_110.txt|.|8
+documents|.|bbc_tech_086.txt|.|9|.|bbc_tech_179.txt|.|1|.|bbc_politics_303.txt|.|3|.|bbc_business_267.txt|.|1|.|bbc_tech_131.txt|.|1|.|bbc_business_365.txt|.|1|.|bbc_business_366.txt|.|2
+jazz|.|bbc_entertainment_164.txt|.|4
+huw|.|bbc_entertainment_231.txt|.|3|.|bbc_entertainment_197.txt|.|3
+philip|.|bbc_entertainment_368.txt|.|3|.|bbc_entertainment_094.txt|.|2
+marathon runner|.|bbc_sport_013.txt|.|1
+merrill|.|bbc_business_336.txt|.|5
+radio|.|bbc_sport_142.txt|.|2|.|bbc_tech_110.txt|.|9|.|bbc_entertainment_218.txt|.|4|.|bbc_entertainment_231.txt|.|11|.|bbc_tech_364.txt|.|7|.|bbc_tech_381.txt|.|2|.|bbc_tech_344.txt|.|13|.|bbc_entertainment_311.txt|.|2|.|bbc_tech_066.txt|.|2|.|bbc_tech_305.txt|.|20|.|bbc_sport_154.txt|.|2|.|bbc_entertainment_284.txt|.|6|.|bbc_sport_102.txt|.|2|.|bbc_politics_157.txt|.|2|.|bbc_entertainment_212.txt|.|3|.|bbc_entertainment_134.txt|.|2|.|bbc_politics_060.txt|.|2|.|bbc_politics_166.txt|.|2|.|bbc_entertainment_128.txt|.|2|.|bbc_entertainment_199.txt|.|3|.|bbc_sport_415.txt|.|2|.|bbc_entertainment_197.txt|.|6
+handheld computer|.|bbc_tech_066.txt|.|1|.|bbc_tech_381.txt|.|1
+virgin|.|bbc_business_474.txt|.|9|.|bbc_entertainment_128.txt|.|2|.|bbc_tech_344.txt|.|11
+xml|.|bbc_tech_110.txt|.|2
+says radio|.|bbc_tech_344.txt|.|1
+continuous|.|bbc_entertainment_218.txt|.|1
+visual|.|bbc_tech_305.txt|.|13|.|bbc_tech_261.txt|.|2
+mitsubishi|.|bbc_business_013.txt|.|8|.|bbc_business_032.txt|.|3|.|bbc_business_431.txt|.|6
+slurry|.|bbc_politics_157.txt|.|4
+maternity pay|.|bbc_politics_001.txt|.|9
+fully|.|bbc_business_458.txt|.|2
+slug|.|bbc_tech_233.txt|.|4|.|bbc_tech_169.txt|.|4
+land institute|.|bbc_business_388.txt|.|2
+revamped|.|bbc_entertainment_284.txt|.|2
+indecency|.|bbc_entertainment_171.txt|.|3|.|bbc_entertainment_199.txt|.|4
+adam|.|bbc_tech_110.txt|.|3|.|bbc_business_213.txt|.|4
+radio times|.|bbc_entertainment_311.txt|.|2|.|bbc_entertainment_212.txt|.|3
+linking|.|bbc_sport_154.txt|.|3
+university of california|.|bbc_business_414.txt|.|2
+stern has been dropped|.|bbc_entertainment_218.txt|.|1
+cardinal|.|bbc_politics_060.txt|.|8
+curry|.|bbc_tech_110.txt|.|6|.|bbc_tech_364.txt|.|6
+bucket|.|bbc_politics_157.txt|.|2
+dictionary|.|bbc_tech_151.txt|.|3
+showcasing uk|.|bbc_entertainment_231.txt|.|1
+john|.|bbc_entertainment_162.txt|.|2|.|bbc_entertainment_180.txt|.|4|.|bbc_politics_156.txt|.|4|.|bbc_politics_261.txt|.|2|.|bbc_entertainment_164.txt|.|3|.|bbc_sport_146.txt|.|2|.|bbc_entertainment_231.txt|.|4|.|bbc_sport_115.txt|.|4|.|bbc_politics_167.txt|.|3|.|bbc_politics_034.txt|.|2|.|bbc_entertainment_250.txt|.|2|.|bbc_entertainment_197.txt|.|7
+ras kwame|.|bbc_entertainment_197.txt|.|2
+associations|.|bbc_entertainment_030.txt|.|2
+mosque|.|bbc_politics_185.txt|.|6
+bbc radio|.|bbc_sport_142.txt|.|2|.|bbc_sport_102.txt|.|2|.|bbc_politics_157.txt|.|2|.|bbc_politics_060.txt|.|2|.|bbc_politics_166.txt|.|2|.|bbc_sport_415.txt|.|2|.|bbc_entertainment_197.txt|.|2
+investigations|.|bbc_entertainment_199.txt|.|2
+students|.|bbc_tech_066.txt|.|5|.|bbc_politics_246.txt|.|4|.|bbc_politics_047.txt|.|11|.|bbc_politics_213.txt|.|18|.|bbc_tech_381.txt|.|5|.|bbc_entertainment_052.txt|.|2|.|bbc_sport_362.txt|.|7
+replace peel|.|bbc_entertainment_231.txt|.|2|.|bbc_entertainment_197.txt|.|1
+lot|.|bbc_tech_093.txt|.|3|.|bbc_tech_110.txt|.|2|.|bbc_sport_038.txt|.|3|.|bbc_sport_511.txt|.|3
+yannick|.|bbc_sport_287.txt|.|4
+radio station|.|bbc_tech_305.txt|.|4|.|bbc_entertainment_134.txt|.|2
+genres|.|bbc_entertainment_231.txt|.|2|.|bbc_entertainment_197.txt|.|1
+kwame|.|bbc_entertainment_197.txt|.|2
+station|.|bbc_entertainment_107.txt|.|2|.|bbc_tech_305.txt|.|6|.|bbc_entertainment_166.txt|.|2|.|bbc_entertainment_134.txt|.|2|.|bbc_politics_151.txt|.|3
+handset|.|bbc_tech_305.txt|.|4
+disabled|.|bbc_tech_277.txt|.|5|.|bbc_politics_388.txt|.|2
+audio|.|bbc_tech_325.txt|.|8|.|bbc_tech_110.txt|.|5
+satellite|.|bbc_tech_066.txt|.|5|.|bbc_entertainment_218.txt|.|3|.|bbc_tech_381.txt|.|5|.|bbc_tech_223.txt|.|7
+phytopharm|.|bbc_business_302.txt|.|6
+stephens|.|bbc_entertainment_231.txt|.|3|.|bbc_entertainment_197.txt|.|2
+viacom|.|bbc_entertainment_199.txt|.|9
+criticised|.|bbc_politics_409.txt|.|1|.|bbc_politics_060.txt|.|2|.|bbc_politics_363.txt|.|1|.|bbc_politics_257.txt|.|2
+listeners|.|bbc_entertainment_128.txt|.|1
+virgin says radio|.|bbc_tech_344.txt|.|1
+mr curry|.|bbc_tech_110.txt|.|5
+radio show|.|bbc_entertainment_231.txt|.|2
+stern|.|bbc_entertainment_218.txt|.|10|.|bbc_entertainment_199.txt|.|2
+john peel replacement|.|bbc_entertainment_197.txt|.|1
+money|.|bbc_tech_391.txt|.|4|.|bbc_sport_432.txt|.|5|.|bbc_sport_112.txt|.|5|.|bbc_entertainment_111.txt|.|3|.|bbc_entertainment_202.txt|.|5|.|bbc_tech_286.txt|.|4|.|bbc_politics_185.txt|.|2|.|bbc_tech_364.txt|.|3|.|bbc_business_458.txt|.|4|.|bbc_sport_451.txt|.|3|.|bbc_business_249.txt|.|3|.|bbc_sport_438.txt|.|5|.|bbc_tech_274.txt|.|2|.|bbc_tech_267.txt|.|2|.|bbc_sport_121.txt|.|6|.|bbc_business_234.txt|.|2|.|bbc_business_312.txt|.|2|.|bbc_entertainment_182.txt|.|4
+paid|.|bbc_politics_089.txt|.|3|.|bbc_entertainment_199.txt|.|3|.|bbc_business_312.txt|.|2
+john peel|.|bbc_entertainment_231.txt|.|2|.|bbc_entertainment_197.txt|.|6
+supported|.|bbc_politics_381.txt|.|3

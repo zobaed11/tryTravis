@@ -1,0 +1,64 @@
+win the next game|.|bbc_sport_141.txt|.|1
+trade deficit|.|bbc_business_429.txt|.|2|.|bbc_business_440.txt|.|3
+injuries|.|bbc_sport_460.txt|.|1|.|bbc_sport_074.txt|.|2
+dementieva|.|bbc_sport_465.txt|.|2|.|bbc_sport_456.txt|.|3
+executive pleading guilty|.|bbc_business_060.txt|.|1
+liverpool|.|bbc_sport_155.txt|.|2|.|bbc_sport_274.txt|.|3|.|bbc_sport_236.txt|.|3|.|bbc_sport_165.txt|.|1|.|bbc_sport_141.txt|.|3|.|bbc_sport_228.txt|.|6|.|bbc_sport_243.txt|.|7|.|bbc_sport_269.txt|.|6|.|bbc_sport_234.txt|.|5|.|bbc_sport_102.txt|.|5|.|bbc_sport_118.txt|.|17|.|bbc_sport_266.txt|.|3|.|bbc_sport_272.txt|.|5|.|bbc_sport_259.txt|.|3|.|bbc_sport_177.txt|.|5
+pig|.|bbc_entertainment_302.txt|.|2
+win the team|.|bbc_sport_074.txt|.|1
+counter attack|.|bbc_sport_223.txt|.|1
+police actions|.|bbc_politics_131.txt|.|2
+claim|.|bbc_business_303.txt|.|2|.|bbc_entertainment_230.txt|.|3|.|bbc_business_456.txt|.|2|.|bbc_business_336.txt|.|4|.|bbc_sport_058.txt|.|3
+mull historical|.|bbc_entertainment_104.txt|.|2
+weston|.|bbc_sport_384.txt|.|2
+make love|.|bbc_tech_214.txt|.|4
+wight|.|bbc_entertainment_318.txt|.|2
+suspend|.|bbc_business_432.txt|.|3
+total claims|.|bbc_business_346.txt|.|2
+newton aycliffe|.|bbc_business_058.txt|.|2
+arash|.|bbc_tech_016.txt|.|5
+justice department|.|bbc_business_291.txt|.|2
+gardener|.|bbc_sport_009.txt|.|4|.|bbc_sport_090.txt|.|3|.|bbc_sport_010.txt|.|2|.|bbc_sport_075.txt|.|3
+spears|.|bbc_entertainment_345.txt|.|3|.|bbc_entertainment_247.txt|.|5
+boerse told|.|bbc_business_203.txt|.|2
+housemates|.|bbc_entertainment_180.txt|.|2
+clinical|.|bbc_business_309.txt|.|2
+steven|.|bbc_sport_274.txt|.|2|.|bbc_sport_141.txt|.|2|.|bbc_sport_243.txt|.|3
+snow|.|bbc_entertainment_125.txt|.|4|.|bbc_entertainment_296.txt|.|4|.|bbc_business_097.txt|.|2
+keep|.|bbc_sport_290.txt|.|2|.|bbc_politics_357.txt|.|3|.|bbc_sport_194.txt|.|2|.|bbc_sport_229.txt|.|1
+looking|.|bbc_sport_150.txt|.|1|.|bbc_sport_256.txt|.|1
+drogba|.|bbc_sport_278.txt|.|3
+wing|.|bbc_sport_412.txt|.|2|.|bbc_sport_391.txt|.|3|.|bbc_sport_333.txt|.|3
+win over aston villa|.|bbc_sport_175.txt|.|1
+pavey|.|bbc_sport_074.txt|.|3
+forest|.|bbc_sport_150.txt|.|4|.|bbc_sport_191.txt|.|4
+stemmed|.|bbc_entertainment_258.txt|.|2
+ahead|.|bbc_sport_328.txt|.|2|.|bbc_sport_246.txt|.|3|.|bbc_politics_369.txt|.|2|.|bbc_sport_329.txt|.|2|.|bbc_sport_075.txt|.|2|.|bbc_business_363.txt|.|1|.|bbc_sport_058.txt|.|3|.|bbc_sport_083.txt|.|2
+plate|.|bbc_sport_381.txt|.|2
+cole|.|bbc_sport_162.txt|.|3|.|bbc_sport_125.txt|.|4|.|bbc_sport_278.txt|.|5|.|bbc_sport_178.txt|.|4|.|bbc_sport_163.txt|.|2
+castaignede|.|bbc_sport_340.txt|.|8
+casino royale|.|bbc_entertainment_347.txt|.|5
+leipzig|.|bbc_sport_009.txt|.|2
+courtney love|.|bbc_entertainment_258.txt|.|2
+health secretary|.|bbc_politics_320.txt|.|1
+meltdown|.|bbc_entertainment_317.txt|.|3
+darlington council|.|bbc_politics_061.txt|.|3
+tennis association|.|bbc_sport_493.txt|.|2
+jm barrie|.|bbc_entertainment_316.txt|.|1
+win|.|bbc_sport_335.txt|.|3|.|bbc_sport_390.txt|.|1|.|bbc_politics_212.txt|.|2|.|bbc_sport_009.txt|.|3|.|bbc_sport_352.txt|.|4|.|bbc_sport_381.txt|.|4|.|bbc_sport_446.txt|.|4|.|bbc_sport_453.txt|.|2|.|bbc_sport_470.txt|.|2|.|bbc_politics_213.txt|.|2|.|bbc_sport_349.txt|.|2|.|bbc_sport_468.txt|.|2|.|bbc_sport_396.txt|.|6|.|bbc_sport_503.txt|.|4|.|bbc_sport_340.txt|.|4|.|bbc_sport_145.txt|.|2|.|bbc_sport_175.txt|.|2|.|bbc_sport_493.txt|.|2|.|bbc_entertainment_078.txt|.|5|.|bbc_sport_384.txt|.|2|.|bbc_sport_150.txt|.|3|.|bbc_sport_486.txt|.|2|.|bbc_sport_290.txt|.|4|.|bbc_entertainment_051.txt|.|2|.|bbc_sport_278.txt|.|3|.|bbc_sport_141.txt|.|5|.|bbc_sport_074.txt|.|1|.|bbc_sport_133.txt|.|4|.|bbc_sport_243.txt|.|6|.|bbc_sport_176.txt|.|2|.|bbc_sport_041.txt|.|3|.|bbc_sport_412.txt|.|3|.|bbc_politics_329.txt|.|2|.|bbc_sport_408.txt|.|3|.|bbc_sport_075.txt|.|3|.|bbc_sport_261.txt|.|2|.|bbc_sport_404.txt|.|3|.|bbc_sport_292.txt|.|3|.|bbc_sport_218.txt|.|3|.|bbc_sport_456.txt|.|2|.|bbc_sport_058.txt|.|4|.|bbc_sport_469.txt|.|2
+gilbert|.|bbc_sport_481.txt|.|6
+victory|.|bbc_sport_499.txt|.|2|.|bbc_sport_290.txt|.|4|.|bbc_business_294.txt|.|2|.|bbc_sport_435.txt|.|2|.|bbc_sport_063.txt|.|2|.|bbc_sport_477.txt|.|3|.|bbc_entertainment_189.txt|.|3|.|bbc_sport_468.txt|.|2|.|bbc_sport_217.txt|.|3|.|bbc_sport_215.txt|.|4|.|bbc_sport_501.txt|.|2|.|bbc_sport_022.txt|.|3|.|bbc_sport_301.txt|.|2|.|bbc_sport_474.txt|.|2|.|bbc_sport_078.txt|.|2|.|bbc_sport_151.txt|.|2
+peel|.|bbc_entertainment_231.txt|.|5|.|bbc_entertainment_197.txt|.|8
+edinburgh city|.|bbc_politics_114.txt|.|2
+research council|.|bbc_politics_244.txt|.|1
+steinmetz|.|bbc_sport_384.txt|.|4
+win over aston|.|bbc_sport_175.txt|.|1
+hacker|.|bbc_tech_271.txt|.|2
+week working|.|bbc_sport_031.txt|.|1
+nervous|.|bbc_sport_503.txt|.|2
+schrader|.|bbc_entertainment_362.txt|.|3
+pompey|.|bbc_sport_270.txt|.|2|.|bbc_sport_278.txt|.|4|.|bbc_sport_268.txt|.|5
+days|.|bbc_politics_392.txt|.|2|.|bbc_politics_063.txt|.|5|.|bbc_sport_093.txt|.|2|.|bbc_entertainment_090.txt|.|3|.|bbc_sport_493.txt|.|2
+win in dubai|.|bbc_sport_381.txt|.|1
+culture secretary|.|bbc_politics_187.txt|.|2
+spam websites|.|bbc_tech_189.txt|.|3

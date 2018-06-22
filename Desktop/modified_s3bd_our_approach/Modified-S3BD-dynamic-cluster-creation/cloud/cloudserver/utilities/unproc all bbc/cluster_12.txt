@@ -1,0 +1,64 @@
+wall street|.|bbc_business_134.txt|.|2|.|bbc_business_386.txt|.|2|.|bbc_business_464.txt|.|3
+us actor|.|bbc_entertainment_044.txt|.|2
+added|.|bbc_politics_016.txt|.|1
+sources close|.|bbc_business_034.txt|.|1
+textiles|.|bbc_business_442.txt|.|2
+developing|.|bbc_business_442.txt|.|2|.|bbc_business_296.txt|.|4|.|bbc_tech_033.txt|.|3
+natural disasters|.|bbc_tech_151.txt|.|2
+mac mini|.|bbc_tech_300.txt|.|17|.|bbc_tech_336.txt|.|14|.|bbc_tech_297.txt|.|4|.|bbc_tech_260.txt|.|4|.|bbc_tech_301.txt|.|9
+allander|.|bbc_politics_098.txt|.|2
+bollywood films|.|bbc_entertainment_366.txt|.|3
+jobs than expected|.|bbc_business_134.txt|.|1
+artists including|.|bbc_entertainment_117.txt|.|1
+parties they receive|.|bbc_politics_322.txt|.|1
+national gallery|.|bbc_entertainment_026.txt|.|2
+former enron|.|bbc_business_414.txt|.|2
+unemployment rate|.|bbc_business_490.txt|.|4|.|bbc_business_253.txt|.|2|.|bbc_business_007.txt|.|2
+new year|.|bbc_business_376.txt|.|2|.|bbc_politics_156.txt|.|1|.|bbc_politics_036.txt|.|2|.|bbc_business_296.txt|.|2
+south east|.|bbc_politics_167.txt|.|1|.|bbc_politics_365.txt|.|2
+level|.|bbc_politics_146.txt|.|2|.|bbc_business_253.txt|.|2|.|bbc_business_007.txt|.|2
+lose|.|bbc_business_442.txt|.|3|.|bbc_sport_263.txt|.|1|.|bbc_sport_452.txt|.|1|.|bbc_business_296.txt|.|3
+textile|.|bbc_business_442.txt|.|5
+developing nations|.|bbc_business_442.txt|.|2
+lowest|.|bbc_business_253.txt|.|2|.|bbc_business_007.txt|.|2
+regarding|.|bbc_entertainment_204.txt|.|1
+labor|.|bbc_business_134.txt|.|3|.|bbc_business_253.txt|.|2|.|bbc_business_007.txt|.|2
+christian aid|.|bbc_business_296.txt|.|3
+imanol|.|bbc_sport_287.txt|.|2
+inbev|.|bbc_business_369.txt|.|5|.|bbc_business_132.txt|.|5
+jobs growth|.|bbc_business_253.txt|.|1|.|bbc_business_007.txt|.|1
+viktor yushchenko|.|bbc_business_217.txt|.|2
+alfa romeo|.|bbc_business_148.txt|.|4
+lose jobs|.|bbc_business_442.txt|.|1
+heart attack|.|bbc_business_191.txt|.|2
+mass|.|bbc_tech_297.txt|.|1|.|bbc_tech_260.txt|.|1
+decent|.|bbc_business_227.txt|.|2
+title|.|bbc_sport_120.txt|.|2|.|bbc_sport_510.txt|.|2|.|bbc_sport_504.txt|.|3|.|bbc_sport_061.txt|.|9|.|bbc_sport_488.txt|.|4|.|bbc_entertainment_261.txt|.|1|.|bbc_sport_087.txt|.|2|.|bbc_sport_505.txt|.|2|.|bbc_entertainment_129.txt|.|1|.|bbc_sport_429.txt|.|2|.|bbc_sport_451.txt|.|2|.|bbc_sport_003.txt|.|4|.|bbc_sport_481.txt|.|2|.|bbc_sport_060.txt|.|3|.|bbc_sport_501.txt|.|2|.|bbc_tech_244.txt|.|4|.|bbc_sport_058.txt|.|11
+tuition fees|.|bbc_politics_246.txt|.|3
+papers|.|bbc_politics_061.txt|.|7
+low|.|bbc_tech_300.txt|.|1|.|bbc_tech_343.txt|.|2|.|bbc_tech_297.txt|.|1|.|bbc_business_085.txt|.|2|.|bbc_business_270.txt|.|1|.|bbc_tech_260.txt|.|1|.|bbc_business_350.txt|.|3
+christian|.|bbc_entertainment_002.txt|.|5|.|bbc_business_296.txt|.|4|.|bbc_politics_172.txt|.|2|.|bbc_politics_151.txt|.|2|.|bbc_business_418.txt|.|2
+budget airline|.|bbc_business_474.txt|.|2|.|bbc_business_047.txt|.|2
+surveillance system|.|bbc_tech_143.txt|.|2
+civil|.|bbc_entertainment_149.txt|.|2|.|bbc_politics_156.txt|.|4|.|bbc_politics_210.txt|.|8|.|bbc_politics_095.txt|.|5|.|bbc_sport_363.txt|.|2|.|bbc_politics_365.txt|.|6|.|bbc_politics_084.txt|.|5|.|bbc_politics_294.txt|.|3
+player|.|bbc_sport_437.txt|.|2|.|bbc_sport_492.txt|.|3|.|bbc_sport_271.txt|.|1|.|bbc_sport_195.txt|.|3|.|bbc_sport_189.txt|.|2|.|bbc_sport_308.txt|.|5|.|bbc_sport_399.txt|.|2|.|bbc_tech_260.txt|.|2|.|bbc_tech_359.txt|.|2|.|bbc_tech_297.txt|.|2|.|bbc_sport_262.txt|.|2|.|bbc_sport_272.txt|.|2|.|bbc_tech_183.txt|.|6
+mittal steel|.|bbc_business_027.txt|.|5
+product|.|bbc_business_117.txt|.|1|.|bbc_tech_324.txt|.|1|.|bbc_business_460.txt|.|2|.|bbc_business_026.txt|.|2|.|bbc_tech_044.txt|.|1|.|bbc_business_211.txt|.|1|.|bbc_business_044.txt|.|2|.|bbc_tech_248.txt|.|3
+address|.|bbc_politics_247.txt|.|3|.|bbc_tech_239.txt|.|2|.|bbc_tech_069.txt|.|4
+mini|.|bbc_tech_300.txt|.|17|.|bbc_tech_336.txt|.|17|.|bbc_tech_297.txt|.|4|.|bbc_tech_260.txt|.|4|.|bbc_business_049.txt|.|15|.|bbc_tech_301.txt|.|9
+labor department|.|bbc_business_134.txt|.|2|.|bbc_business_253.txt|.|2|.|bbc_business_007.txt|.|2
+mr sullivan|.|bbc_business_246.txt|.|9|.|bbc_business_100.txt|.|5
+jobs|.|bbc_business_442.txt|.|3|.|bbc_business_027.txt|.|3|.|bbc_business_076.txt|.|3|.|bbc_politics_253.txt|.|2|.|bbc_tech_239.txt|.|3|.|bbc_business_278.txt|.|1|.|bbc_business_253.txt|.|9|.|bbc_business_356.txt|.|2|.|bbc_business_296.txt|.|6|.|bbc_business_047.txt|.|2|.|bbc_tech_260.txt|.|7|.|bbc_business_034.txt|.|3|.|bbc_business_460.txt|.|2|.|bbc_business_134.txt|.|9|.|bbc_tech_297.txt|.|7|.|bbc_business_227.txt|.|2|.|bbc_business_258.txt|.|2|.|bbc_politics_365.txt|.|8|.|bbc_politics_218.txt|.|2|.|bbc_business_297.txt|.|5|.|bbc_business_007.txt|.|9|.|bbc_politics_084.txt|.|4
+false|.|bbc_entertainment_345.txt|.|3|.|bbc_politics_084.txt|.|3
+retro|.|bbc_tech_233.txt|.|2|.|bbc_tech_169.txt|.|2
+sturgeon|.|bbc_politics_098.txt|.|2
+foxes|.|bbc_politics_134.txt|.|2
+macworld|.|bbc_tech_297.txt|.|2|.|bbc_tech_248.txt|.|2|.|bbc_tech_260.txt|.|2
+wages|.|bbc_business_227.txt|.|2
+icann|.|bbc_tech_239.txt|.|2
+developing countries|.|bbc_business_296.txt|.|3
+wto said|.|bbc_business_296.txt|.|2
+false economy|.|bbc_politics_084.txt|.|3
+profit share|.|bbc_business_237.txt|.|3
+apple has unveiled|.|bbc_tech_297.txt|.|1|.|bbc_tech_260.txt|.|1
+largest bank|.|bbc_business_297.txt|.|1

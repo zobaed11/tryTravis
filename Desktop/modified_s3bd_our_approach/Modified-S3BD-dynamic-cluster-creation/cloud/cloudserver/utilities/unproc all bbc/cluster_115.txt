@@ -1,0 +1,64 @@
+cabs|.|bbc_tech_375.txt|.|4
+kyoto protocol|.|bbc_politics_197.txt|.|2
+doors frontman|.|bbc_entertainment_381.txt|.|2
+palestinian leader|.|bbc_politics_149.txt|.|1
+issue of trust|.|bbc_politics_314.txt|.|1
+politically|.|bbc_politics_316.txt|.|2
+pressing the us|.|bbc_politics_197.txt|.|1
+mahmoud abbas|.|bbc_politics_149.txt|.|2
+terms|.|bbc_politics_295.txt|.|2
+livingstone said|.|bbc_politics_186.txt|.|2
+peace process|.|bbc_politics_149.txt|.|2
+blair also faced|.|bbc_politics_314.txt|.|1
+no pain|.|bbc_politics_353.txt|.|2
+election pledge|.|bbc_politics_352.txt|.|1
+mr blair|.|bbc_politics_026.txt|.|2|.|bbc_politics_314.txt|.|3|.|bbc_politics_225.txt|.|5|.|bbc_politics_277.txt|.|2|.|bbc_politics_064.txt|.|3|.|bbc_politics_161.txt|.|2|.|bbc_politics_022.txt|.|5|.|bbc_politics_353.txt|.|6|.|bbc_politics_189.txt|.|6|.|bbc_politics_256.txt|.|8|.|bbc_politics_260.txt|.|4|.|bbc_politics_305.txt|.|2|.|bbc_politics_012.txt|.|3|.|bbc_politics_197.txt|.|3|.|bbc_business_504.txt|.|3|.|bbc_politics_251.txt|.|3|.|bbc_politics_095.txt|.|3|.|bbc_politics_352.txt|.|5|.|bbc_politics_255.txt|.|7|.|bbc_politics_378.txt|.|2|.|bbc_politics_149.txt|.|7|.|bbc_politics_110.txt|.|2|.|bbc_politics_007.txt|.|6|.|bbc_politics_126.txt|.|3|.|bbc_politics_253.txt|.|7|.|bbc_politics_181.txt|.|2|.|bbc_politics_046.txt|.|2|.|bbc_politics_295.txt|.|6|.|bbc_politics_135.txt|.|3|.|bbc_politics_414.txt|.|3|.|bbc_politics_282.txt|.|6|.|bbc_politics_401.txt|.|2|.|bbc_politics_367.txt|.|2|.|bbc_politics_351.txt|.|6|.|bbc_politics_014.txt|.|3|.|bbc_politics_195.txt|.|3|.|bbc_politics_316.txt|.|7|.|bbc_politics_262.txt|.|8|.|bbc_politics_186.txt|.|2|.|bbc_politics_218.txt|.|7
+greenhouse|.|bbc_politics_197.txt|.|2
+bob geldof|.|bbc_politics_026.txt|.|2
+no gain|.|bbc_politics_353.txt|.|2
+fight crime|.|bbc_politics_262.txt|.|1
+peace|.|bbc_business_347.txt|.|2|.|bbc_politics_161.txt|.|2|.|bbc_politics_149.txt|.|4
+processing|.|bbc_politics_022.txt|.|4
+sailing|.|bbc_politics_352.txt|.|3
+trust|.|bbc_business_268.txt|.|5|.|bbc_tech_187.txt|.|2|.|bbc_politics_223.txt|.|4|.|bbc_politics_403.txt|.|14|.|bbc_business_473.txt|.|5|.|bbc_sport_290.txt|.|2|.|bbc_politics_314.txt|.|3|.|bbc_politics_409.txt|.|1|.|bbc_politics_341.txt|.|4|.|bbc_tech_358.txt|.|1|.|bbc_politics_415.txt|.|2
+second term|.|bbc_politics_189.txt|.|2
+attack michael|.|bbc_politics_316.txt|.|2
+education secretary|.|bbc_politics_055.txt|.|2|.|bbc_politics_352.txt|.|2
+soldiers|.|bbc_entertainment_144.txt|.|3
+robredo|.|bbc_sport_466.txt|.|2
+blair went|.|bbc_politics_255.txt|.|2
+membership|.|bbc_business_178.txt|.|3|.|bbc_business_320.txt|.|4|.|bbc_politics_064.txt|.|3|.|bbc_politics_161.txt|.|3
+kinnock said|.|bbc_politics_163.txt|.|1
+blair made|.|bbc_politics_149.txt|.|1
+aer|.|bbc_business_445.txt|.|9
+chelsea both face|.|bbc_sport_184.txt|.|1
+lord strathclyde|.|bbc_politics_072.txt|.|2
+pressing|.|bbc_politics_197.txt|.|2
+amicus|.|bbc_politics_108.txt|.|3|.|bbc_politics_291.txt|.|3
+laser|.|bbc_tech_019.txt|.|8|.|bbc_tech_329.txt|.|9|.|bbc_tech_023.txt|.|6
+criminal use|.|bbc_tech_077.txt|.|1
+ratings|.|bbc_entertainment_226.txt|.|2|.|bbc_entertainment_031.txt|.|2|.|bbc_entertainment_170.txt|.|3
+abbas|.|bbc_politics_209.txt|.|6|.|bbc_politics_149.txt|.|3
+clubs|.|bbc_politics_171.txt|.|3|.|bbc_politics_181.txt|.|2|.|bbc_sport_250.txt|.|2|.|bbc_sport_220.txt|.|1|.|bbc_sport_237.txt|.|1
+office chart|.|bbc_entertainment_060.txt|.|2
+expectancy|.|bbc_business_235.txt|.|6
+snoop|.|bbc_entertainment_115.txt|.|5
+laptops|.|bbc_tech_375.txt|.|4|.|bbc_tech_004.txt|.|6|.|bbc_tech_063.txt|.|6
+full terms|.|bbc_politics_295.txt|.|1
+pain|.|bbc_politics_353.txt|.|3
+process|.|bbc_politics_149.txt|.|2
+middle|.|bbc_politics_149.txt|.|2|.|bbc_politics_189.txt|.|2
+afi|.|bbc_entertainment_048.txt|.|6
+howard politically|.|bbc_politics_316.txt|.|2
+label|.|bbc_entertainment_245.txt|.|3|.|bbc_business_135.txt|.|3|.|bbc_entertainment_161.txt|.|6|.|bbc_entertainment_123.txt|.|3|.|bbc_business_418.txt|.|1|.|bbc_business_510.txt|.|4
+mladenovic|.|bbc_sport_117.txt|.|4
+recorded|.|bbc_entertainment_116.txt|.|5|.|bbc_entertainment_130.txt|.|4
+beliefs|.|bbc_politics_316.txt|.|2
+faced|.|bbc_politics_314.txt|.|1
+irritation|.|bbc_politics_251.txt|.|2
+manchester|.|bbc_sport_101.txt|.|4|.|bbc_sport_122.txt|.|2|.|bbc_sport_195.txt|.|2|.|bbc_sport_254.txt|.|2|.|bbc_sport_152.txt|.|2|.|bbc_business_242.txt|.|7|.|bbc_sport_128.txt|.|2|.|bbc_business_209.txt|.|4|.|bbc_politics_330.txt|.|5|.|bbc_sport_184.txt|.|3|.|bbc_sport_158.txt|.|3|.|bbc_sport_095.txt|.|3|.|bbc_politics_004.txt|.|5|.|bbc_sport_096.txt|.|3|.|bbc_sport_180.txt|.|3|.|bbc_business_224.txt|.|8|.|bbc_sport_235.txt|.|2|.|bbc_business_229.txt|.|3|.|bbc_business_179.txt|.|2|.|bbc_sport_124.txt|.|2|.|bbc_business_293.txt|.|2|.|bbc_sport_137.txt|.|2|.|bbc_politics_155.txt|.|2|.|bbc_sport_231.txt|.|2|.|bbc_sport_283.txt|.|2
+hereford hospital|.|bbc_politics_170.txt|.|2
+blair said|.|bbc_politics_014.txt|.|2|.|bbc_politics_314.txt|.|2|.|bbc_politics_012.txt|.|2|.|bbc_politics_102.txt|.|2|.|bbc_politics_064.txt|.|2|.|bbc_politics_161.txt|.|1|.|bbc_politics_022.txt|.|2|.|bbc_politics_280.txt|.|1|.|bbc_politics_206.txt|.|2|.|bbc_politics_189.txt|.|2
+serving prime|.|bbc_politics_295.txt|.|1
+age|.|bbc_politics_313.txt|.|2|.|bbc_entertainment_016.txt|.|4|.|bbc_business_382.txt|.|12|.|bbc_politics_345.txt|.|13|.|bbc_politics_132.txt|.|8|.|bbc_entertainment_320.txt|.|2|.|bbc_sport_116.txt|.|2|.|bbc_tech_383.txt|.|2|.|bbc_politics_311.txt|.|2|.|bbc_politics_069.txt|.|2|.|bbc_politics_043.txt|.|2
+mahmoud|.|bbc_politics_149.txt|.|2

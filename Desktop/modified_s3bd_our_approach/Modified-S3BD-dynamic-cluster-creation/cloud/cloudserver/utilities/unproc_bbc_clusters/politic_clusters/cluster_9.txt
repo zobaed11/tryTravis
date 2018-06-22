@@ -1,0 +1,104 @@
+9
+career|.|bbc_politics_003.txt|.|5
+north east|.|bbc_politics_061.txt|.|2|.|bbc_politics_200.txt|.|7
+blunkett|.|bbc_politics_234.txt|.|6|.|bbc_politics_102.txt|.|6|.|bbc_politics_046.txt|.|7|.|bbc_politics_206.txt|.|5|.|bbc_politics_049.txt|.|2|.|bbc_politics_248.txt|.|3|.|bbc_politics_193.txt|.|3|.|bbc_politics_397.txt|.|2|.|bbc_politics_112.txt|.|9|.|bbc_politics_041.txt|.|11|.|bbc_politics_166.txt|.|8|.|bbc_politics_028.txt|.|2|.|bbc_politics_227.txt|.|3
+release|.|bbc_politics_205.txt|.|3|.|bbc_politics_192.txt|.|5|.|bbc_politics_150.txt|.|2|.|bbc_politics_031.txt|.|1
+euthanasia|.|bbc_politics_068.txt|.|6
+balfour beatty|.|bbc_politics_178.txt|.|3
+years|.|bbc_politics_241.txt|.|4|.|bbc_politics_006.txt|.|2
+moral|.|bbc_politics_191.txt|.|2
+radio sheffield|.|bbc_politics_166.txt|.|2
+david blunkett|.|bbc_politics_248.txt|.|2|.|bbc_politics_041.txt|.|2
+guidelines|.|bbc_politics_230.txt|.|2|.|bbc_politics_168.txt|.|3|.|bbc_politics_231.txt|.|4
+election call|.|bbc_politics_397.txt|.|2
+outbreak|.|bbc_politics_203.txt|.|5
+region of kashmir|.|bbc_politics_139.txt|.|2
+murder sentence|.|bbc_politics_168.txt|.|2
+save the scottish regiments|.|bbc_politics_238.txt|.|3
+businesses|.|bbc_politics_109.txt|.|5
+nao|.|bbc_politics_138.txt|.|2
+aggravating|.|bbc_politics_168.txt|.|2
+supported a hunting ban|.|bbc_politics_381.txt|.|1
+great believer|.|bbc_politics_166.txt|.|2
+mr mubanga|.|bbc_politics_100.txt|.|9
+home countries|.|bbc_politics_097.txt|.|3
+suspected|.|bbc_politics_368.txt|.|1
+terror suspects|.|bbc_politics_014.txt|.|2|.|bbc_politics_182.txt|.|4|.|bbc_politics_384.txt|.|3|.|bbc_politics_070.txt|.|3|.|bbc_politics_160.txt|.|2|.|bbc_politics_216.txt|.|3|.|bbc_politics_097.txt|.|2
+immigration plan|.|bbc_politics_078.txt|.|2
+stop|.|bbc_politics_176.txt|.|3|.|bbc_politics_105.txt|.|3
+resign|.|bbc_politics_041.txt|.|1
+proper policing|.|bbc_politics_220.txt|.|2
+foreign|.|bbc_politics_221.txt|.|3|.|bbc_politics_142.txt|.|2|.|bbc_politics_358.txt|.|4|.|bbc_politics_040.txt|.|5|.|bbc_politics_029.txt|.|5|.|bbc_politics_070.txt|.|3|.|bbc_politics_018.txt|.|3|.|bbc_politics_205.txt|.|3|.|bbc_politics_224.txt|.|4|.|bbc_politics_400.txt|.|2|.|bbc_politics_136.txt|.|2|.|bbc_politics_383.txt|.|4|.|bbc_politics_192.txt|.|3|.|bbc_politics_082.txt|.|4
+mr clarke|.|bbc_politics_049.txt|.|3|.|bbc_politics_056.txt|.|2|.|bbc_politics_182.txt|.|4|.|bbc_politics_220.txt|.|2|.|bbc_politics_072.txt|.|4|.|bbc_politics_227.txt|.|4|.|bbc_politics_147.txt|.|4
+believer|.|bbc_politics_166.txt|.|2
+rail tickets|.|bbc_politics_046.txt|.|2
+home secretary|.|bbc_politics_013.txt|.|2|.|bbc_politics_368.txt|.|2|.|bbc_politics_153.txt|.|2|.|bbc_politics_221.txt|.|4|.|bbc_politics_100.txt|.|2|.|bbc_politics_046.txt|.|4|.|bbc_politics_384.txt|.|4|.|bbc_politics_040.txt|.|3|.|bbc_politics_070.txt|.|3|.|bbc_politics_031.txt|.|3|.|bbc_politics_049.txt|.|3|.|bbc_politics_182.txt|.|3|.|bbc_politics_041.txt|.|3|.|bbc_politics_220.txt|.|3|.|bbc_politics_166.txt|.|3|.|bbc_politics_034.txt|.|2|.|bbc_politics_097.txt|.|3
+include|.|bbc_politics_234.txt|.|2
+uk citizens|.|bbc_politics_182.txt|.|2
+mrs|.|bbc_politics_011.txt|.|5|.|bbc_politics_104.txt|.|7|.|bbc_politics_046.txt|.|4|.|bbc_politics_166.txt|.|2|.|bbc_politics_150.txt|.|3
+returning|.|bbc_politics_078.txt|.|2
+seeking children|.|bbc_politics_078.txt|.|1
+murder law|.|bbc_politics_031.txt|.|1
+robinson said|.|bbc_politics_368.txt|.|1
+blears|.|bbc_politics_105.txt|.|3
+failed asylum|.|bbc_politics_153.txt|.|2
+citizens|.|bbc_politics_182.txt|.|2|.|bbc_politics_384.txt|.|4
+foreign suspects|.|bbc_politics_221.txt|.|2
+evidence|.|bbc_politics_118.txt|.|4|.|bbc_politics_216.txt|.|10
+serious misgivings|.|bbc_politics_070.txt|.|2
+foreign terror|.|bbc_politics_070.txt|.|2
+provocation|.|bbc_politics_031.txt|.|3
+serious|.|bbc_politics_070.txt|.|4
+unaccompanied asylum|.|bbc_politics_078.txt|.|1
+aggravating factor|.|bbc_politics_168.txt|.|2
+backing for id cards|.|bbc_politics_081.txt|.|1|.|bbc_politics_299.txt|.|1
+liberty said|.|bbc_politics_370.txt|.|2
+asylum claims|.|bbc_politics_370.txt|.|1
+minutes|.|bbc_politics_071.txt|.|4
+economic migrants|.|bbc_politics_153.txt|.|4
+suspects|.|bbc_politics_014.txt|.|3|.|bbc_politics_239.txt|.|3|.|bbc_politics_224.txt|.|3|.|bbc_politics_221.txt|.|4|.|bbc_politics_182.txt|.|5|.|bbc_politics_384.txt|.|5|.|bbc_politics_040.txt|.|3|.|bbc_politics_070.txt|.|4|.|bbc_politics_160.txt|.|2|.|bbc_politics_216.txt|.|5|.|bbc_politics_097.txt|.|4
+failed|.|bbc_politics_153.txt|.|3|.|bbc_politics_023.txt|.|2
+clarke told|.|bbc_politics_097.txt|.|2
+permanently stored|.|bbc_politics_146.txt|.|1
+materials|.|bbc_politics_052.txt|.|2
+tory mp|.|bbc_politics_410.txt|.|2
+gain access|.|bbc_politics_166.txt|.|2
+policing|.|bbc_politics_220.txt|.|2
+tickets|.|bbc_politics_046.txt|.|3
+solana|.|bbc_politics_216.txt|.|3
+proper|.|bbc_politics_093.txt|.|2|.|bbc_politics_220.txt|.|2
+straw said|.|bbc_politics_358.txt|.|2|.|bbc_politics_029.txt|.|2|.|bbc_politics_192.txt|.|2|.|bbc_politics_373.txt|.|2|.|bbc_politics_058.txt|.|2
+wallace|.|bbc_politics_047.txt|.|4
+choose|.|bbc_politics_388.txt|.|3
+guilty plea|.|bbc_politics_168.txt|.|3
+chief constable|.|bbc_politics_198.txt|.|3
+operations in iraq|.|bbc_politics_150.txt|.|2
+kinnock said|.|bbc_politics_163.txt|.|1
+police stops|.|bbc_politics_105.txt|.|1
+amicus|.|bbc_politics_108.txt|.|3|.|bbc_politics_291.txt|.|3
+returning unaccompanied|.|bbc_politics_078.txt|.|1
+plans include|.|bbc_politics_234.txt|.|1
+terrorism|.|bbc_politics_368.txt|.|1
+responsible|.|bbc_politics_377.txt|.|2
+strikes|.|bbc_politics_312.txt|.|3|.|bbc_politics_052.txt|.|1
+democratic|.|bbc_politics_163.txt|.|2
+surveillance|.|bbc_politics_216.txt|.|2
+sir john|.|bbc_politics_156.txt|.|4|.|bbc_politics_034.txt|.|2
+correctional|.|bbc_politics_204.txt|.|2
+asylum seeking|.|bbc_politics_078.txt|.|1
+shadow chancellor|.|bbc_politics_349.txt|.|2
+robinson|.|bbc_politics_013.txt|.|3|.|bbc_politics_368.txt|.|3
+citizenship|.|bbc_politics_056.txt|.|4|.|bbc_politics_172.txt|.|5
+new home secretary|.|bbc_politics_049.txt|.|3
+agencies|.|bbc_politics_388.txt|.|2
+clean|.|bbc_politics_146.txt|.|1
+seeking|.|bbc_politics_078.txt|.|1
+home|.|bbc_politics_013.txt|.|3|.|bbc_politics_349.txt|.|3|.|bbc_politics_081.txt|.|3|.|bbc_politics_153.txt|.|3|.|bbc_politics_234.txt|.|3|.|bbc_politics_221.txt|.|6|.|bbc_politics_078.txt|.|2|.|bbc_politics_370.txt|.|3|.|bbc_politics_105.txt|.|2|.|bbc_politics_220.txt|.|5|.|bbc_politics_166.txt|.|5|.|bbc_politics_034.txt|.|2|.|bbc_politics_216.txt|.|3|.|bbc_politics_368.txt|.|3|.|bbc_politics_100.txt|.|2|.|bbc_politics_046.txt|.|5|.|bbc_politics_384.txt|.|4|.|bbc_politics_040.txt|.|4|.|bbc_politics_070.txt|.|8|.|bbc_politics_215.txt|.|5|.|bbc_politics_031.txt|.|8|.|bbc_politics_049.txt|.|5|.|bbc_politics_146.txt|.|2|.|bbc_politics_168.txt|.|4|.|bbc_politics_182.txt|.|5|.|bbc_politics_400.txt|.|3|.|bbc_politics_041.txt|.|6|.|bbc_politics_071.txt|.|3|.|bbc_politics_097.txt|.|7
+hereford hospital|.|bbc_politics_170.txt|.|2
+migrants|.|bbc_politics_153.txt|.|4
+eoc|.|bbc_politics_003.txt|.|3
+spoken|.|bbc_politics_166.txt|.|2
+detention ruling|.|bbc_politics_368.txt|.|1
+attacked|.|bbc_politics_144.txt|.|2|.|bbc_politics_157.txt|.|1|.|bbc_politics_106.txt|.|2
+local people|.|bbc_politics_234.txt|.|2
+age|.|bbc_politics_313.txt|.|2|.|bbc_politics_345.txt|.|13|.|bbc_politics_132.txt|.|8|.|bbc_politics_311.txt|.|2|.|bbc_politics_069.txt|.|2|.|bbc_politics_043.txt|.|2

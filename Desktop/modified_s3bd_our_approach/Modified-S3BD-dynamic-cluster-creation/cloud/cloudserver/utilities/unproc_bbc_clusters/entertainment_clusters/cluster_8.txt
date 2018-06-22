@@ -1,0 +1,93 @@
+8
+raise money|.|bbc_entertainment_111.txt|.|2
+brothers|.|bbc_entertainment_028.txt|.|2
+year|.|bbc_entertainment_132.txt|.|3|.|bbc_entertainment_046.txt|.|4|.|bbc_entertainment_349.txt|.|3|.|bbc_entertainment_172.txt|.|3|.|bbc_entertainment_133.txt|.|4|.|bbc_entertainment_211.txt|.|1|.|bbc_entertainment_157.txt|.|1|.|bbc_entertainment_066.txt|.|6|.|bbc_entertainment_091.txt|.|2|.|bbc_entertainment_101.txt|.|1|.|bbc_entertainment_179.txt|.|4|.|bbc_entertainment_106.txt|.|1|.|bbc_entertainment_216.txt|.|4|.|bbc_entertainment_045.txt|.|2|.|bbc_entertainment_338.txt|.|4|.|bbc_entertainment_314.txt|.|3|.|bbc_entertainment_013.txt|.|2|.|bbc_entertainment_303.txt|.|4|.|bbc_entertainment_145.txt|.|4
+desperate|.|bbc_entertainment_179.txt|.|2|.|bbc_entertainment_216.txt|.|2
+seven|.|bbc_entertainment_075.txt|.|2
+saxophone|.|bbc_entertainment_164.txt|.|2
+last year|.|bbc_entertainment_179.txt|.|2|.|bbc_entertainment_216.txt|.|2|.|bbc_entertainment_046.txt|.|3|.|bbc_entertainment_349.txt|.|2|.|bbc_entertainment_045.txt|.|2|.|bbc_entertainment_338.txt|.|3|.|bbc_entertainment_133.txt|.|3|.|bbc_entertainment_303.txt|.|3|.|bbc_entertainment_145.txt|.|3
+mr thoday|.|bbc_entertainment_003.txt|.|2|.|bbc_entertainment_272.txt|.|2
+bollywood films|.|bbc_entertainment_366.txt|.|3
+show the x factor|.|bbc_entertainment_174.txt|.|1
+rowlands died|.|bbc_entertainment_307.txt|.|1
+directed harry potter|.|bbc_entertainment_028.txt|.|1
+movies|.|bbc_entertainment_347.txt|.|1|.|bbc_entertainment_101.txt|.|1|.|bbc_entertainment_305.txt|.|2|.|bbc_entertainment_332.txt|.|1|.|bbc_entertainment_303.txt|.|1|.|bbc_entertainment_301.txt|.|1
+dutch|.|bbc_entertainment_057.txt|.|6
+patsy|.|bbc_entertainment_307.txt|.|2
+score|.|bbc_entertainment_342.txt|.|2
+probation|.|bbc_entertainment_258.txt|.|4
+uk charity premiere|.|bbc_entertainment_360.txt|.|2
+dvd|.|bbc_entertainment_359.txt|.|4|.|bbc_entertainment_366.txt|.|1|.|bbc_entertainment_033.txt|.|4|.|bbc_entertainment_077.txt|.|4
+film oscar|.|bbc_entertainment_035.txt|.|2
+extraordinary powers|.|bbc_entertainment_305.txt|.|2
+arkansas state|.|bbc_entertainment_281.txt|.|2
+strauss|.|bbc_entertainment_367.txt|.|4
+awaiting|.|bbc_entertainment_279.txt|.|2
+bear|.|bbc_entertainment_042.txt|.|3
+four nominations|.|bbc_entertainment_040.txt|.|2
+compared to last|.|bbc_entertainment_179.txt|.|1|.|bbc_entertainment_216.txt|.|1
+international|.|bbc_entertainment_101.txt|.|4|.|bbc_entertainment_309.txt|.|2
+prison|.|bbc_entertainment_366.txt|.|2
+moving|.|bbc_entertainment_087.txt|.|4
+events|.|bbc_entertainment_060.txt|.|2|.|bbc_entertainment_367.txt|.|2
+preview performances|.|bbc_entertainment_292.txt|.|3
+fairy|.|bbc_entertainment_002.txt|.|1
+x factor|.|bbc_entertainment_174.txt|.|3
+arthur hailey|.|bbc_entertainment_016.txt|.|2
+law|.|bbc_entertainment_171.txt|.|1|.|bbc_entertainment_303.txt|.|2
+sundance|.|bbc_entertainment_101.txt|.|3|.|bbc_entertainment_336.txt|.|4|.|bbc_entertainment_032.txt|.|7|.|bbc_entertainment_301.txt|.|4
+enduring|.|bbc_entertainment_075.txt|.|2
+celebrate|.|bbc_entertainment_348.txt|.|1|.|bbc_entertainment_058.txt|.|1
+james bond|.|bbc_entertainment_347.txt|.|2|.|bbc_entertainment_333.txt|.|2
+european|.|bbc_entertainment_348.txt|.|5|.|bbc_entertainment_058.txt|.|5
+lessing|.|bbc_entertainment_017.txt|.|2
+version|.|bbc_entertainment_353.txt|.|6|.|bbc_entertainment_385.txt|.|2|.|bbc_entertainment_362.txt|.|3|.|bbc_entertainment_159.txt|.|3|.|bbc_entertainment_302.txt|.|2
+warner|.|bbc_entertainment_028.txt|.|5|.|bbc_entertainment_063.txt|.|2
+british films|.|bbc_entertainment_303.txt|.|2
+announced|.|bbc_entertainment_287.txt|.|2|.|bbc_entertainment_075.txt|.|2
+visitors|.|bbc_entertainment_026.txt|.|3
+patsy rowlands|.|bbc_entertainment_307.txt|.|2
+chris|.|bbc_entertainment_367.txt|.|2|.|bbc_entertainment_159.txt|.|2|.|bbc_entertainment_181.txt|.|2
+film production|.|bbc_entertainment_303.txt|.|3
+stop|.|bbc_entertainment_161.txt|.|2
+bjorn|.|bbc_entertainment_265.txt|.|2
+opens|.|bbc_entertainment_019.txt|.|1|.|bbc_entertainment_301.txt|.|1
+institute|.|bbc_entertainment_048.txt|.|3
+independent film|.|bbc_entertainment_032.txt|.|2|.|bbc_entertainment_075.txt|.|1
+british independent|.|bbc_entertainment_075.txt|.|2
+enduring love|.|bbc_entertainment_075.txt|.|2
+producing songs|.|bbc_entertainment_259.txt|.|1
+arthur|.|bbc_entertainment_299.txt|.|2|.|bbc_entertainment_016.txt|.|2|.|bbc_entertainment_055.txt|.|2
+tickets|.|bbc_entertainment_137.txt|.|6|.|bbc_entertainment_267.txt|.|2|.|bbc_entertainment_140.txt|.|4
+superhero|.|bbc_entertainment_374.txt|.|2|.|bbc_entertainment_386.txt|.|2|.|bbc_entertainment_077.txt|.|2
+special effects|.|bbc_entertainment_077.txt|.|2
+rule|.|bbc_entertainment_077.txt|.|3
+sandino|.|bbc_entertainment_324.txt|.|2
+starring johnny|.|bbc_entertainment_303.txt|.|2
+iron maiden|.|bbc_entertainment_322.txt|.|3
+direct the third harry|.|bbc_entertainment_028.txt|.|1
+fell|.|bbc_entertainment_303.txt|.|2
+help raise|.|bbc_entertainment_130.txt|.|1
+christina|.|bbc_entertainment_260.txt|.|2
+bollywood dvd|.|bbc_entertainment_366.txt|.|1
+chris rock|.|bbc_entertainment_367.txt|.|2
+jackson|.|bbc_entertainment_385.txt|.|4|.|bbc_entertainment_375.txt|.|10|.|bbc_entertainment_171.txt|.|2|.|bbc_entertainment_108.txt|.|5|.|bbc_entertainment_133.txt|.|2|.|bbc_entertainment_145.txt|.|2
+portishead|.|bbc_entertainment_238.txt|.|6
+public|.|bbc_entertainment_269.txt|.|2|.|bbc_entertainment_121.txt|.|3|.|bbc_entertainment_108.txt|.|2|.|bbc_entertainment_020.txt|.|2
+regulars|.|bbc_entertainment_307.txt|.|1
+spend|.|bbc_entertainment_003.txt|.|6|.|bbc_entertainment_272.txt|.|6
+austrian|.|bbc_entertainment_277.txt|.|1
+man|.|bbc_entertainment_305.txt|.|3|.|bbc_entertainment_055.txt|.|2|.|bbc_entertainment_135.txt|.|2|.|bbc_entertainment_348.txt|.|2|.|bbc_entertainment_058.txt|.|2|.|bbc_entertainment_248.txt|.|4|.|bbc_entertainment_077.txt|.|1
+san francisco|.|bbc_entertainment_293.txt|.|3
+joshua reynolds|.|bbc_entertainment_020.txt|.|2
+clunes|.|bbc_entertainment_198.txt|.|1
+warner brothers|.|bbc_entertainment_028.txt|.|2
+shoes|.|bbc_entertainment_075.txt|.|3
+ossie davis|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_044.txt|.|2|.|bbc_entertainment_356.txt|.|2
+roy lichtenstein|.|bbc_entertainment_018.txt|.|2
+daily news|.|bbc_entertainment_367.txt|.|2
+trade|.|bbc_entertainment_276.txt|.|1
+johnny depp|.|bbc_entertainment_303.txt|.|2|.|bbc_entertainment_316.txt|.|2
+music rich|.|bbc_entertainment_346.txt|.|3
+imelda staunton|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_352.txt|.|2|.|bbc_entertainment_064.txt|.|2
+tsunami benefit|.|bbc_entertainment_104.txt|.|2

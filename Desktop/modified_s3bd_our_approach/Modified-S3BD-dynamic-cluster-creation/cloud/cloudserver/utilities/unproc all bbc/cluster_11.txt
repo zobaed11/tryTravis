@@ -1,0 +1,64 @@
+foxx and swank|.|bbc_entertainment_051.txt|.|2|.|bbc_entertainment_069.txt|.|2
+tapes|.|bbc_entertainment_163.txt|.|5|.|bbc_entertainment_152.txt|.|5
+dollar hovered|.|bbc_business_374.txt|.|1
+record lows|.|bbc_business_374.txt|.|2
+honor|.|bbc_tech_288.txt|.|3
+new low versus euro|.|bbc_business_350.txt|.|1
+governments|.|bbc_business_135.txt|.|2|.|bbc_business_002.txt|.|2|.|bbc_business_345.txt|.|2
+ms lomax|.|bbc_business_057.txt|.|5
+investors|.|bbc_business_374.txt|.|2
+million dollar|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_328.txt|.|2|.|bbc_entertainment_095.txt|.|3|.|bbc_entertainment_051.txt|.|3|.|bbc_entertainment_086.txt|.|2|.|bbc_entertainment_069.txt|.|3|.|bbc_entertainment_078.txt|.|5|.|bbc_entertainment_064.txt|.|2
+actor award|.|bbc_entertainment_069.txt|.|1
+reuters|.|bbc_business_053.txt|.|5
+record|.|bbc_tech_253.txt|.|4|.|bbc_tech_372.txt|.|2|.|bbc_tech_070.txt|.|3|.|bbc_business_374.txt|.|3|.|bbc_business_354.txt|.|3|.|bbc_sport_005.txt|.|3|.|bbc_entertainment_157.txt|.|1|.|bbc_sport_060.txt|.|4|.|bbc_sport_029.txt|.|2|.|bbc_tech_152.txt|.|1|.|bbc_business_056.txt|.|2|.|bbc_business_260.txt|.|3|.|bbc_business_193.txt|.|2|.|bbc_entertainment_238.txt|.|3|.|bbc_politics_350.txt|.|2|.|bbc_sport_413.txt|.|2|.|bbc_sport_053.txt|.|2|.|bbc_entertainment_124.txt|.|2|.|bbc_business_121.txt|.|2|.|bbc_entertainment_140.txt|.|1|.|bbc_sport_070.txt|.|5|.|bbc_business_350.txt|.|1|.|bbc_business_219.txt|.|2|.|bbc_business_360.txt|.|2|.|bbc_entertainment_161.txt|.|4|.|bbc_business_126.txt|.|2|.|bbc_business_024.txt|.|5|.|bbc_sport_006.txt|.|2|.|bbc_tech_287.txt|.|2
+tip|.|bbc_entertainment_328.txt|.|1|.|bbc_entertainment_086.txt|.|1
+weakened|.|bbc_business_344.txt|.|1
+manager of johnny cash|.|bbc_entertainment_320.txt|.|1
+gm recalls|.|bbc_business_026.txt|.|1
+supported a hunting ban|.|bbc_politics_381.txt|.|1
+share listing|.|bbc_business_271.txt|.|2
+mapping|.|bbc_tech_223.txt|.|3
+strong dollar|.|bbc_business_097.txt|.|2
+olympics|.|bbc_sport_047.txt|.|2|.|bbc_sport_017.txt|.|3|.|bbc_sport_016.txt|.|2|.|bbc_sport_092.txt|.|2|.|bbc_sport_090.txt|.|1|.|bbc_sport_051.txt|.|3|.|bbc_sport_033.txt|.|1|.|bbc_sport_094.txt|.|2|.|bbc_sport_241.txt|.|1|.|bbc_sport_043.txt|.|3
+bethnal green|.|bbc_politics_302.txt|.|4
+reserves|.|bbc_business_142.txt|.|6|.|bbc_business_210.txt|.|3|.|bbc_business_180.txt|.|3|.|bbc_business_419.txt|.|5
+pressure|.|bbc_business_496.txt|.|2|.|bbc_sport_340.txt|.|3|.|bbc_sport_322.txt|.|3
+december meeting|.|bbc_business_383.txt|.|2
+helps boost|.|bbc_business_097.txt|.|1
+new low|.|bbc_business_350.txt|.|2
+dance music|.|bbc_entertainment_122.txt|.|6
+baby has become the new|.|bbc_entertainment_078.txt|.|1
+carpet|.|bbc_entertainment_354.txt|.|4|.|bbc_entertainment_064.txt|.|2
+ray charles|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_051.txt|.|2|.|bbc_entertainment_344.txt|.|2|.|bbc_entertainment_069.txt|.|2|.|bbc_entertainment_263.txt|.|4
+account deficit|.|bbc_business_097.txt|.|3
+helps|.|bbc_tech_097.txt|.|1|.|bbc_business_097.txt|.|2
+ease|.|bbc_business_496.txt|.|2
+weakness of the dollar|.|bbc_business_053.txt|.|1
+screen actors|.|bbc_entertainment_051.txt|.|2|.|bbc_entertainment_069.txt|.|2
+parole|.|bbc_entertainment_110.txt|.|3
+modest profit rise|.|bbc_business_143.txt|.|1
+weak|.|bbc_business_143.txt|.|2|.|bbc_business_053.txt|.|1|.|bbc_business_089.txt|.|2
+morgan freeman|.|bbc_entertainment_372.txt|.|2
+savoy|.|bbc_business_470.txt|.|5
+clive owen|.|bbc_entertainment_064.txt|.|2
+foreign reserves|.|bbc_business_180.txt|.|2
+telekom|.|bbc_business_038.txt|.|2|.|bbc_tech_365.txt|.|5
+dollar has fallen|.|bbc_business_344.txt|.|1
+imelda|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_352.txt|.|2|.|bbc_entertainment_064.txt|.|2
+deficit concerns|.|bbc_business_002.txt|.|1
+federal|.|bbc_business_064.txt|.|2|.|bbc_business_002.txt|.|3|.|bbc_business_041.txt|.|2|.|bbc_business_213.txt|.|2|.|bbc_business_121.txt|.|3|.|bbc_business_328.txt|.|2
+euro on friday|.|bbc_business_374.txt|.|2
+deficit|.|bbc_business_429.txt|.|3|.|bbc_business_249.txt|.|3|.|bbc_business_002.txt|.|6|.|bbc_business_413.txt|.|7|.|bbc_business_041.txt|.|5|.|bbc_business_204.txt|.|6|.|bbc_business_488.txt|.|8|.|bbc_business_097.txt|.|4|.|bbc_business_440.txt|.|9|.|bbc_business_368.txt|.|2|.|bbc_business_328.txt|.|7
+auctioned in new york|.|bbc_entertainment_018.txt|.|1
+worrying|.|bbc_business_376.txt|.|1
+beckham revealed|.|bbc_sport_275.txt|.|1
+revenues|.|bbc_business_053.txt|.|3
+governing body|.|bbc_sport_016.txt|.|2
+low versus euro|.|bbc_business_350.txt|.|1
+current account|.|bbc_business_097.txt|.|3
+swank|.|bbc_entertainment_372.txt|.|2|.|bbc_entertainment_084.txt|.|3|.|bbc_entertainment_051.txt|.|7|.|bbc_entertainment_368.txt|.|14|.|bbc_entertainment_069.txt|.|7|.|bbc_entertainment_078.txt|.|2
+baby|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_328.txt|.|1|.|bbc_entertainment_095.txt|.|3|.|bbc_entertainment_051.txt|.|3|.|bbc_entertainment_086.txt|.|1|.|bbc_entertainment_069.txt|.|3|.|bbc_entertainment_078.txt|.|6|.|bbc_entertainment_064.txt|.|2
+dollar baby|.|bbc_entertainment_372.txt|.|2|.|bbc_entertainment_328.txt|.|1|.|bbc_entertainment_095.txt|.|3|.|bbc_entertainment_051.txt|.|3|.|bbc_entertainment_086.txt|.|1|.|bbc_entertainment_069.txt|.|3|.|bbc_entertainment_078.txt|.|5|.|bbc_entertainment_064.txt|.|2
+federal reserve|.|bbc_business_002.txt|.|2|.|bbc_business_213.txt|.|2|.|bbc_business_121.txt|.|2
+pushed|.|bbc_business_383.txt|.|3|.|bbc_sport_091.txt|.|2
+hitachi said|.|bbc_tech_356.txt|.|2

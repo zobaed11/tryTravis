@@ -1,0 +1,17 @@
+78
+people and business|.|262.txt|.|1
+sell around five million|.|160.txt|.|1
+business|.|262.txt|.|1
+connected to broadband|.|262.txt|.|1
+expected|.|242.txt|.|3
+million copies|.|203.txt|.|2|.|160.txt|.|2
+local|.|365.txt|.|5|.|264.txt|.|5|.|242.txt|.|3
+xbox live|.|160.txt|.|2
+americans|.|262.txt|.|2
+number|.|010.txt|.|2|.|262.txt|.|2
+piero|.|028.txt|.|8
+copies|.|203.txt|.|4|.|160.txt|.|2
+million|.|226.txt|.|2|.|203.txt|.|2|.|262.txt|.|5|.|217.txt|.|3|.|254.txt|.|5|.|242.txt|.|5|.|211.txt|.|2|.|099.txt|.|2|.|160.txt|.|4
+number of people|.|262.txt|.|2
+cable|.|394.txt|.|6|.|254.txt|.|2|.|070.txt|.|2|.|184.txt|.|2|.|280.txt|.|5
+analyst for forrester|.|242.txt|.|1

@@ -1,0 +1,120 @@
+monitoring of network|.|rfc2248.txt|.|4
+inform|.|rfc4484.txt|.|2|.|rfc2273.txt|.|32
+application protocols|.|rfc3117.txt|.|49
+diameter credit|.|rfc4006.txt|.|26
+taxonomy|.|rfc2729.txt|.|33|.|rfc3040.txt|.|36|.|rfc3234.txt|.|31
+voicexml media services|.|rfc5552.txt|.|39
+layering february|.|rfc3205.txt|.|13
+dnssec keys|.|rfc3445.txt|.|16
+verb identifiers|.|rfc3395.txt|.|21
+refreshed display|.|rfc192.txt|.|4
+iotp application core|.|rfc3867.txt|.|171
+application examples|.|rfc2905.txt|.|54
+application element|.|rfc2564.txt|.|103
+protocol tags|.|rfc3958.txt|.|10
+existing payment software|.|rfc3867.txt|.|48
+exchange protocol|.|rfc3117.txt|.|5
+network access server|.|rfc4005.txt|.|92
+apm notification|.|rfc3729.txt|.|4
+store delegated credentials|.|rfc5588.txt|.|1
+underlying|.|rfc2479.txt|.|52|.|rfc2935.txt|.|2|.|rfc5413.txt|.|14
+dynamically|.|rfc129.txt|.|2|.|rfc3958.txt|.|3
+intelligence|.|rfc152.txt|.|3|.|rfc373.txt|.|2|.|rfc3303.txt|.|19
+ddds january|.|rfc3958.txt|.|24
+service identity|.|rfc6125.txt|.|85
+generic tunnels|.|rfc3609.txt|.|9
+daigle|.|rfc2016.txt|.|26|.|rfc3406.txt|.|26|.|rfc4848.txt|.|13|.|rfc2968.txt|.|12|.|rfc3912.txt|.|6|.|rfc4844.txt|.|24
+responsiveness metric|.|rfc3729.txt|.|17
+strictest requirement|.|rfc2729.txt|.|53
+application profile|.|rfc3054.txt|.|15
+data flow|.|rfc4080.txt|.|31
+ip phone|.|rfc3054.txt|.|54
+tracing application|.|rfc3609.txt|.|3
+strictest|.|rfc2729.txt|.|55
+forwarding plane|.|rfc3609.txt|.|12
+kelly|.|rfc2355.txt|.|40
+stop sending data|.|rfc4037.txt|.|24
+hip bone|.|rfc6079.txt|.|66
+responsiveness|.|rfc3729.txt|.|58
+applications supporting|.|rfc4038.txt|.|9
+rsvp june|.|rfc2872.txt|.|5
+input devices|.|rfc178.txt|.|10
+hornquist|.|rfc5896.txt|.|8
+route tracing|.|rfc3609.txt|.|2
+application unique string|.|rfc3761.txt|.|5|.|rfc3402.txt|.|23
+application aspects|.|rfc4038.txt|.|34
+inform pdu|.|rfc2273.txt|.|13
+dns domain|.|rfc6125.txt|.|73|.|rfc3832.txt|.|9
+tls handshake|.|rfc4680.txt|.|13
+kalbfleisch|.|rfc4149.txt|.|45|.|rfc2039.txt|.|16|.|rfc2564.txt|.|90
+transparency july|.|rfc4924.txt|.|14
+unique string|.|rfc3402.txt|.|24
+dual stack|.|rfc2767.txt|.|36|.|rfc4798.txt|.|6|.|rfc5454.txt|.|2|.|rfc4241.txt|.|18|.|rfc6180.txt|.|16|.|rfc3338.txt|.|39|.|rfc3974.txt|.|12|.|rfc4477.txt|.|1|.|rfc4977.txt|.|13|.|rfc4038.txt|.|7
+brenner|.|rfc5224.txt|.|7
+forwarded request|.|rfc2263.txt|.|6|.|rfc2273.txt|.|6
+application exchange core|.|rfc3340.txt|.|40
+diameter network access|.|rfc4005.txt|.|85
+application specific|.|rfc2903.txt|.|53
+requirements for generic|.|rfc3609.txt|.|9
+tracing requirements|.|rfc3609.txt|.|9
+application verb|.|rfc3395.txt|.|26
+service layer|.|rfc2903.txt|.|69
+taxonomy and issues|.|rfc3234.txt|.|27
+application intelligence|.|rfc3303.txt|.|16
+hornquist astrand|.|rfc5896.txt|.|8
+friendly|.|rfc5622.txt|.|5|.|rfc3235.txt|.|13
+algorithm october|.|rfc3402.txt|.|16
+design guidelines|.|rfc3235.txt|.|13
+friendly application design|.|rfc3235.txt|.|12
+apex endpoint|.|rfc3340.txt|.|21
+cotton|.|rfc178.txt|.|13|.|rfc314.txt|.|2|.|rfc5771.txt|.|13|.|rfc5735.txt|.|15
+layering|.|rfc3205.txt|.|16
+requirements december|.|rfc2729.txt|.|26|.|rfc5390.txt|.|13|.|rfc4313.txt|.|19
+substrate|.|rfc3205.txt|.|9
+sub application|.|rfc2872.txt|.|2
+voicexml application|.|rfc5552.txt|.|26
+end point|.|rfc2954.txt|.|7|.|rfc5056.txt|.|4|.|rfc2903.txt|.|20|.|rfc5660.txt|.|1
+syslog application|.|rfc5424.txt|.|35
+server application|.|rfc4005.txt|.|85
+user credentials|.|rfc5896.txt|.|6
+exchange core|.|rfc3340.txt|.|40
+kind|.|rfc2199.txt|.|52|.|rfc2564.txt|.|23
+application subtype|.|rfc5688.txt|.|11
+communication requirements|.|rfc2729.txt|.|29
+existing payment|.|rfc3867.txt|.|55
+establish|.|rfc4583.txt|.|10|.|rfc5003.txt|.|1|.|rfc3374.txt|.|9|.|rfc6079.txt|.|8
+srv records|.|rfc3958.txt|.|18|.|rfc2782.txt|.|7|.|rfc6186.txt|.|7
+chap challenge|.|rfc4005.txt|.|3
+layer end point|.|rfc2903.txt|.|9
+network address translators|.|rfc3235.txt|.|4
+friendly application|.|rfc3235.txt|.|12
+taxonomy of communication requirements|.|rfc2729.txt|.|27
+payment protocol|.|rfc3867.txt|.|65
+reference identifier|.|rfc6125.txt|.|30|.|rfc4078.txt|.|3
+installed|.|rfc2287.txt|.|76
+daigle standards|.|rfc4848.txt|.|10
+terminal rule|.|rfc3402.txt|.|7
+key resource|.|rfc3445.txt|.|12
+records|.|rfc3044.txt|.|10|.|rfc4472.txt|.|73|.|rfc3824.txt|.|59|.|rfc2931.txt|.|5|.|rfc3974.txt|.|39|.|rfc3917.txt|.|66|.|rfc5982.txt|.|69|.|rfc2782.txt|.|22|.|rfc3088.txt|.|8|.|rfc2168.txt|.|50|.|rfc6235.txt|.|40|.|rfc4408.txt|.|84|.|rfc5473.txt|.|76|.|rfc4592.txt|.|18|.|rfc2181.txt|.|62|.|rfc4509.txt|.|17|.|rfc5470.txt|.|59|.|rfc4470.txt|.|25|.|rfc2874.txt|.|79|.|rfc3954.txt|.|92|.|rfc2535.txt|.|23|.|rfc5933.txt|.|13|.|rfc3403.txt|.|32|.|rfc6186.txt|.|18|.|rfc6183.txt|.|107|.|rfc5702.txt|.|29|.|rfc3958.txt|.|53|.|rfc3110.txt|.|6|.|rfc4034.txt|.|50|.|rfc4406.txt|.|34|.|rfc5471.txt|.|59|.|rfc4183.txt|.|15|.|rfc2975.txt|.|51
+aspects|.|rfc2185.txt|.|15|.|rfc4038.txt|.|35
+layered|.|rfc3205.txt|.|20
+tracing requirements for generic tunnels|.|rfc3609.txt|.|9
+pabbati|.|rfc2872.txt|.|9
+diameter policy|.|rfc5224.txt|.|5
+identifiers september|.|rfc3395.txt|.|20
+payment instrument|.|rfc3867.txt|.|59
+application design guidelines|.|rfc3235.txt|.|13
+forwarder application|.|rfc2263.txt|.|19|.|rfc2273.txt|.|19
+sysapplelmtpastruntable|.|rfc2287.txt|.|22
+graphic attention|.|rfc178.txt|.|12
+issues february|.|rfc3234.txt|.|26
+application server|.|rfc3868.txt|.|66|.|rfc4666.txt|.|93|.|rfc5552.txt|.|39|.|rfc5567.txt|.|30
+existing|.|rfc144.txt|.|8|.|rfc3867.txt|.|61|.|rfc5994.txt|.|6|.|rfc4554.txt|.|10
+delegated credentials|.|rfc5588.txt|.|7
+application|.|rfc4680.txt|.|8|.|rfc3761.txt|.|21|.|rfc2905.txt|.|64|.|rfc3868.txt|.|107|.|rfc5719.txt|.|4|.|rfc4825.txt|.|171|.|rfc2788.txt|.|74|.|rfc3303.txt|.|85|.|rfc2273.txt|.|72|.|rfc2355.txt|.|33|.|rfc3117.txt|.|85|.|rfc4037.txt|.|164|.|rfc5567.txt|.|70|.|rfc3054.txt|.|26|.|rfc5629.txt|.|232|.|rfc5866.txt|.|180|.|rfc3320.txt|.|92|.|rfc6125.txt|.|167|.|rfc3205.txt|.|36|.|rfc3867.txt|.|201|.|rfc6079.txt|.|14|.|rfc2248.txt|.|77|.|rfc5222.txt|.|17|.|rfc2263.txt|.|72|.|rfc2594.txt|.|24|.|rfc3539.txt|.|29|.|rfc3402.txt|.|80|.|rfc2903.txt|.|83|.|rfc4848.txt|.|44|.|rfc3729.txt|.|123|.|rfc2039.txt|.|40|.|rfc2479.txt|.|74|.|rfc5573.txt|.|10|.|rfc5971.txt|.|162|.|rfc3395.txt|.|69|.|rfc3445.txt|.|55|.|rfc5224.txt|.|15|.|rfc2564.txt|.|266|.|rfc4038.txt|.|135|.|rfc4006.txt|.|177|.|rfc2287.txt|.|218|.|rfc6074.txt|.|9|.|rfc5588.txt|.|5|.|rfc192.txt|.|32|.|rfc2872.txt|.|33|.|rfc5552.txt|.|88|.|rfc4740.txt|.|142|.|rfc5554.txt|.|4|.|rfc3340.txt|.|89|.|rfc5896.txt|.|7|.|rfc3342.txt|.|30|.|rfc4005.txt|.|109|.|rfc3075.txt|.|65|.|rfc3341.txt|.|35|.|rfc3235.txt|.|34|.|rfc4080.txt|.|95|.|rfc4402.txt|.|8|.|rfc178.txt|.|17|.|rfc4666.txt|.|136|.|rfc5688.txt|.|30|.|rfc2861.txt|.|3|.|rfc5424.txt|.|40|.|rfc3234.txt|.|36|.|rfc4924.txt|.|21|.|rfc2729.txt|.|84|.|rfc4826.txt|.|32|.|rfc5056.txt|.|36|.|rfc3958.txt|.|133|.|rfc5179.txt|.|5|.|rfc3343.txt|.|36|.|rfc3609.txt|.|37
+application protocol|.|rfc5573.txt|.|8|.|rfc3958.txt|.|27
+application data|.|rfc4680.txt|.|6
+translation|.|rfc3424.txt|.|7|.|rfc5902.txt|.|14|.|rfc5360.txt|.|81|.|rfc6173.txt|.|10|.|rfc6052.txt|.|52|.|rfc3022.txt|.|31|.|rfc3238.txt|.|12|.|rfc2766.txt|.|55|.|rfc5223.txt|.|6|.|rfc3605.txt|.|9|.|rfc6145.txt|.|118|.|rfc6172.txt|.|20|.|rfc6219.txt|.|76|.|rfc2663.txt|.|39|.|rfc2962.txt|.|41|.|rfc4185.txt|.|17|.|rfc2391.txt|.|26|.|rfc6144.txt|.|167|.|rfc6025.txt|.|22|.|rfc3235.txt|.|10
+callout server|.|rfc3836.txt|.|42|.|rfc4037.txt|.|107
+end principle|.|rfc3724.txt|.|2|.|rfc3234.txt|.|5
+request for service|.|rfc3729.txt|.|2

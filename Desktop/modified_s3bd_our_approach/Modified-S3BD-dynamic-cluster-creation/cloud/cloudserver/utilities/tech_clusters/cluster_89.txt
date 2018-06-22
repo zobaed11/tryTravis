@@ -1,0 +1,17 @@
+89
+computer code|.|340.txt|.|1|.|049.txt|.|1
+door|.|340.txt|.|2
+codes|.|340.txt|.|2|.|049.txt|.|2
+hours|.|101.txt|.|2
+website|.|315.txt|.|5|.|340.txt|.|2|.|049.txt|.|2|.|168.txt|.|3|.|193.txt|.|2|.|101.txt|.|3|.|296.txt|.|2|.|385.txt|.|2|.|027.txt|.|5
+committee|.|030.txt|.|2|.|315.txt|.|2|.|027.txt|.|2
+began|.|101.txt|.|2
+emergency|.|315.txt|.|2|.|027.txt|.|2
+scam|.|315.txt|.|2|.|027.txt|.|2
+us began|.|101.txt|.|1
+alphabet|.|340.txt|.|2|.|049.txt|.|2
+internationalised domain|.|340.txt|.|2|.|049.txt|.|2
+tsunami|.|315.txt|.|6|.|027.txt|.|6
+opens|.|340.txt|.|1|.|134.txt|.|1
+internationalised|.|340.txt|.|2|.|049.txt|.|2
+fake|.|315.txt|.|4|.|340.txt|.|5|.|049.txt|.|5|.|027.txt|.|4

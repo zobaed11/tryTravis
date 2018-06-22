@@ -1,0 +1,17 @@
+109
+report said|.|033.txt|.|3
+spanish speaking|.|090.txt|.|1|.|312.txt|.|1
+developing|.|033.txt|.|3
+rendering|.|005.txt|.|3
+los caballeros|.|090.txt|.|3|.|312.txt|.|3
+summit|.|033.txt|.|2
+spanish language|.|090.txt|.|3|.|312.txt|.|3
+los|.|090.txt|.|3|.|312.txt|.|3
+community grid|.|200.txt|.|2
+world summit|.|033.txt|.|2
+speaking world|.|090.txt|.|1|.|312.txt|.|1
+prize money|.|274.txt|.|2
+wcg|.|200.txt|.|2
+narrowing|.|033.txt|.|2
+world community grid|.|200.txt|.|2
+caballeros|.|090.txt|.|3|.|312.txt|.|3

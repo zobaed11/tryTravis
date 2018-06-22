@@ -1,0 +1,38 @@
+161
+donald robb|.|WET323.txt|.|63
+donald|.|WET3257.txt|.|112|.|WET1531.txt|.|10|.|WET2898.txt|.|20|.|WET323.txt|.|63
+collection cuban|.|WET4386.txt|.|9
+health sciences library|.|WET287.txt|.|29
+oral history collection|.|WET287.txt|.|50
+photos of louisville|.|WET4030.txt|.|31
+sewer district collection|.|WET287.txt|.|30
+manuel ochoa papers|.|WET645.txt|.|17
+library history collections|.|WET287.txt|.|29
+papers manuel|.|WET645.txt|.|20
+digital image collection|.|WET4030.txt|.|33
+alan crockwell collection|.|WET645.txt|.|17
+hawkins|.|WET4031.txt|.|8
+crockwell|.|WET645.txt|.|17
+photo company collection|.|WET4030.txt|.|31
+metropolitan sewer district|.|WET4030.txt|.|31
+pictorial collection|.|WET323.txt|.|399
+sewer|.|WET4030.txt|.|31|.|WET287.txt|.|33
+louisville and nashville|.|WET287.txt|.|28
+royal photo company|.|WET4030.txt|.|31
+yearbook|.|WET553.txt|.|28
+cuban photograph collections|.|WET4385.txt|.|26|.|WET645.txt|.|23
+john donald robb|.|WET323.txt|.|63
+international honor quilt|.|WET4030.txt|.|32
+sciences library history|.|WET287.txt|.|29
+hamas|.|WET322.txt|.|33
+collection|.|WET227.txt|.|381|.|WET4030.txt|.|905|.|WET287.txt|.|803|.|WET71.txt|.|38|.|WET553.txt|.|112|.|WET230.txt|.|47|.|WET286.txt|.|782|.|WET3976.txt|.|294|.|WET1909.txt|.|8|.|WET4031.txt|.|160|.|WET181.txt|.|290|.|WET292.txt|.|351|.|WET506.txt|.|13|.|WET3951.txt|.|157|.|WET3973.txt|.|247|.|WET4385.txt|.|1124|.|WET3665.txt|.|107|.|WET645.txt|.|855|.|WET5011.txt|.|18|.|WET3974.txt|.|230|.|WET323.txt|.|1312|.|WET5601.txt|.|78|.|WET4768.txt|.|24|.|WET4386.txt|.|164|.|WET322.txt|.|381
+ochoa|.|WET645.txt|.|17
+honor quilt collection|.|WET4030.txt|.|32
+collection louisiana|.|WET181.txt|.|49
+gaza|.|WET322.txt|.|55
+louisville leader collection|.|WET286.txt|.|82
+photograph|.|WET4385.txt|.|257|.|WET4386.txt|.|35|.|WET645.txt|.|211|.|WET177.txt|.|21|.|WET323.txt|.|441
+kornhauser|.|WET287.txt|.|29
+alan|.|WET645.txt|.|17
+kornhauser health sciences|.|WET287.txt|.|29
+john donald|.|WET323.txt|.|63

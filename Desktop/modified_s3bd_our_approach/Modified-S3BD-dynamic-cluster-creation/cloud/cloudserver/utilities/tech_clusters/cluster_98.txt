@@ -1,0 +1,17 @@
+98
+lionhead studios|.|100.txt|.|2
+musicians are embracing|.|145.txt|.|2
+honour|.|100.txt|.|4
+successful artists|.|145.txt|.|3
+allan|.|092.txt|.|2
+industry|.|226.txt|.|2|.|231.txt|.|6|.|100.txt|.|5|.|367.txt|.|3|.|307.txt|.|3|.|087.txt|.|2|.|038.txt|.|2|.|211.txt|.|2|.|145.txt|.|6|.|092.txt|.|6|.|241.txt|.|4
+lionhead|.|100.txt|.|3
+bruvik|.|092.txt|.|4
+appeal|.|092.txt|.|2
+classification|.|231.txt|.|2
+music industry|.|145.txt|.|3|.|092.txt|.|5
+benefit|.|145.txt|.|2
+allan bruvik|.|092.txt|.|2
+norway|.|092.txt|.|3
+cleared|.|092.txt|.|2
+benefit musicians|.|145.txt|.|2

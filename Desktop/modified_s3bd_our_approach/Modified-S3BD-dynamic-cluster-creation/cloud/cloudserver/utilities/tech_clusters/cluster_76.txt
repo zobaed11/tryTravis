@@ -1,0 +1,17 @@
+76
+accessible|.|310.txt|.|1|.|089.txt|.|1
+pocket office|.|376.txt|.|2|.|041.txt|.|2
+fiction|.|139.txt|.|3
+iaea|.|105.txt|.|5
+celebrates|.|065.txt|.|1
+fixes|.|007.txt|.|4
+fixed line|.|109.txt|.|3
+engerwitzdorf|.|365.txt|.|3
+major|.|187.txt|.|4
+chat|.|265.txt|.|4
+travel|.|118.txt|.|4|.|140.txt|.|1|.|387.txt|.|4
+auctions|.|209.txt|.|1
+pocket|.|376.txt|.|3|.|222.txt|.|1|.|041.txt|.|3
+video phones|.|182.txt|.|3|.|386.txt|.|4
+latest|.|310.txt|.|2|.|091.txt|.|2|.|376.txt|.|2|.|060.txt|.|2|.|089.txt|.|2|.|007.txt|.|2|.|182.txt|.|3|.|041.txt|.|2
+fats contain|.|blood.txt|.|2

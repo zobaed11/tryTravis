@@ -1,0 +1,38 @@
+52
+search and rescue|.|WET2321.txt|.|2
+girls soccer|.|WET4641.txt|.|163
+joubert|.|WET3668.txt|.|40
+boys|.|WET2041.txt|.|22|.|WET2321.txt|.|133|.|WET1546.txt|.|10|.|WET6240.txt|.|101|.|WET2950.txt|.|78|.|WET1816.txt|.|81|.|WET4225.txt|.|85|.|WET4766.txt|.|46|.|WET5070.txt|.|20|.|WET4641.txt|.|371|.|WET479.txt|.|119|.|WET6122.txt|.|154|.|WET563.txt|.|8|.|WET113.txt|.|73|.|WET3004.txt|.|93|.|WET2828.txt|.|120|.|WET6239.txt|.|154|.|WET3847.txt|.|72|.|WET5551.txt|.|110
+soccer boys|.|WET6122.txt|.|16
+dimension implementation|.|WET246.txt|.|6
+vacatures|.|WET4445.txt|.|66
+rowing|.|WET3004.txt|.|12
+maria magdalena|.|WET3668.txt|.|21
+double xp|.|WET1071.txt|.|9
+dalam|.|WET3749.txt|.|230|.|WET65.txt|.|179|.|WET3490.txt|.|99
+filipino|.|WET329.txt|.|11|.|WET3990.txt|.|11|.|WET3997.txt|.|5|.|WET3884.txt|.|11|.|WET4446.txt|.|11
+skiing girls|.|WET6240.txt|.|7|.|WET6239.txt|.|10
+divorce|.|WET1813.txt|.|106
+girls basketball|.|WET4641.txt|.|196
+dr hauschka|.|WET2398.txt|.|22
+adicionado em|.|WET5629.txt|.|10
+pain|.|WET1997.txt|.|74|.|WET2337.txt|.|24|.|WET5576.txt|.|96|.|WET1840.txt|.|34|.|WET3883.txt|.|95
+harvest|.|WET5152.txt|.|219
+skiing|.|WET4043.txt|.|8|.|WET6240.txt|.|14|.|WET6239.txt|.|20
+biffy clyro|.|WET2344.txt|.|19
+girls volleyball|.|WET4641.txt|.|190
+firearms|.|WET5708.txt|.|28
+trousers|.|WET2828.txt|.|230
+news cny|.|WET3004.txt|.|18
+rowing girls|.|WET3004.txt|.|11
+stuffed|.|WET5231.txt|.|21
+ratednew|.|WET1241.txt|.|16
+show additional|.|WET3890.txt|.|50
+nike air max|.|WET5551.txt|.|36
+lawn care|.|WET1947.txt|.|25
+help java|.|WET4046.txt|.|2
+playing|.|WET628.txt|.|2|.|WET647.txt|.|1|.|WET4181.txt|.|1|.|WET3673.txt|.|7|.|WET1067.txt|.|1|.|WET13.txt|.|5|.|WET3939.txt|.|1|.|WET4641.txt|.|200|.|WET3842.txt|.|1|.|WET449.txt|.|2|.|WET864.txt|.|4|.|WET6243.txt|.|16|.|WET4042.txt|.|2|.|WET4943.txt|.|8|.|WET153.txt|.|2|.|WET4687.txt|.|1|.|WET1190.txt|.|12
+teams in playing|.|WET4641.txt|.|199
+polish|.|WET3997.txt|.|5|.|WET704.txt|.|11
+optical|.|WET3678.txt|.|300|.|WET4599.txt|.|55
+lacrosse|.|WET479.txt|.|28|.|WET4374.txt|.|26|.|WET3250.txt|.|67|.|WET3379.txt|.|23|.|WET3579.txt|.|176

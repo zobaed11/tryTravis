@@ -1,0 +1,64 @@
+cheats other athletes|.|bbc_sport_046.txt|.|1
+owners|.|bbc_tech_372.txt|.|2|.|bbc_tech_069.txt|.|4|.|bbc_tech_287.txt|.|2|.|bbc_tech_197.txt|.|2
+beer sales|.|bbc_business_173.txt|.|2
+luxury car|.|bbc_business_117.txt|.|2|.|bbc_business_149.txt|.|3
+heineken|.|bbc_sport_391.txt|.|4|.|bbc_sport_317.txt|.|2|.|bbc_business_173.txt|.|6
+retirement age|.|bbc_business_382.txt|.|4|.|bbc_politics_132.txt|.|2
+losses at its european|.|bbc_business_467.txt|.|1
+high fuel prices|.|bbc_business_004.txt|.|2
+carlsberg|.|bbc_business_173.txt|.|5
+aviv|.|bbc_sport_050.txt|.|2
+cadbury schweppes|.|bbc_business_143.txt|.|2
+high|.|bbc_business_466.txt|.|4|.|bbc_tech_253.txt|.|2|.|bbc_sport_246.txt|.|2|.|bbc_tech_013.txt|.|2|.|bbc_tech_032.txt|.|4|.|bbc_business_306.txt|.|2|.|bbc_tech_243.txt|.|8|.|bbc_politics_131.txt|.|2|.|bbc_business_144.txt|.|2|.|bbc_politics_174.txt|.|1|.|bbc_politics_033.txt|.|2|.|bbc_business_225.txt|.|2|.|bbc_business_004.txt|.|2|.|bbc_politics_407.txt|.|3|.|bbc_tech_360.txt|.|2|.|bbc_tech_335.txt|.|3|.|bbc_business_018.txt|.|2|.|bbc_business_221.txt|.|3
+ice cream|.|bbc_business_050.txt|.|2
+annual|.|bbc_business_281.txt|.|3|.|bbc_business_501.txt|.|2|.|bbc_business_173.txt|.|2|.|bbc_business_110.txt|.|2|.|bbc_business_155.txt|.|2|.|bbc_business_153.txt|.|2|.|bbc_business_484.txt|.|2|.|bbc_tech_119.txt|.|2|.|bbc_business_384.txt|.|2|.|bbc_sport_027.txt|.|2|.|bbc_business_094.txt|.|3|.|bbc_business_040.txt|.|2|.|bbc_tech_088.txt|.|2|.|bbc_business_221.txt|.|3|.|bbc_business_206.txt|.|2
+sir paul|.|bbc_entertainment_133.txt|.|4|.|bbc_entertainment_145.txt|.|4
+beer|.|bbc_business_315.txt|.|3|.|bbc_business_071.txt|.|5|.|bbc_business_132.txt|.|3|.|bbc_business_173.txt|.|2
+cadbury|.|bbc_business_143.txt|.|7
+garnier|.|bbc_business_115.txt|.|2
+boosting|.|bbc_politics_366.txt|.|2|.|bbc_business_132.txt|.|1|.|bbc_business_133.txt|.|1|.|bbc_entertainment_367.txt|.|1
+excellent|.|bbc_business_288.txt|.|2
+loans|.|bbc_politics_246.txt|.|2|.|bbc_business_396.txt|.|3
+varig|.|bbc_business_303.txt|.|5
+case against mr ebbers|.|bbc_business_246.txt|.|3
+moore|.|bbc_sport_347.txt|.|6|.|bbc_entertainment_097.txt|.|4|.|bbc_sport_008.txt|.|3
+mcallister|.|bbc_sport_109.txt|.|7
+wpp|.|bbc_business_035.txt|.|5
+mercedes|.|bbc_business_117.txt|.|9|.|bbc_business_410.txt|.|4
+schweppes|.|bbc_business_143.txt|.|2
+western|.|bbc_tech_074.txt|.|3|.|bbc_business_173.txt|.|4|.|bbc_tech_064.txt|.|3|.|bbc_tech_338.txt|.|3|.|bbc_business_247.txt|.|4
+generic version|.|bbc_business_095.txt|.|1
+weir|.|bbc_sport_130.txt|.|3|.|bbc_sport_256.txt|.|3
+poorly|.|bbc_politics_169.txt|.|2
+beatty|.|bbc_politics_178.txt|.|3
+doubled|.|bbc_business_174.txt|.|1|.|bbc_business_017.txt|.|1
+mcletchie|.|bbc_politics_089.txt|.|11|.|bbc_politics_045.txt|.|7
+mineral water|.|bbc_business_050.txt|.|2
+profits fall|.|bbc_business_117.txt|.|1|.|bbc_business_115.txt|.|1
+pioneered|.|bbc_business_250.txt|.|1
+new mini|.|bbc_business_049.txt|.|4
+motors|.|bbc_business_467.txt|.|2|.|bbc_business_462.txt|.|2|.|bbc_business_013.txt|.|5
+davis found|.|bbc_entertainment_044.txt|.|1
+glaxo|.|bbc_business_115.txt|.|2
+bp|.|bbc_business_221.txt|.|6
+inclusion|.|bbc_entertainment_278.txt|.|2
+computing|.|bbc_tech_379.txt|.|1|.|bbc_tech_137.txt|.|6|.|bbc_tech_358.txt|.|8|.|bbc_tech_022.txt|.|7|.|bbc_tech_380.txt|.|7
+fall|.|bbc_business_117.txt|.|2|.|bbc_business_046.txt|.|2|.|bbc_business_170.txt|.|2|.|bbc_business_273.txt|.|3|.|bbc_business_115.txt|.|2
+boca juniors|.|bbc_sport_210.txt|.|2
+operating profits|.|bbc_business_117.txt|.|2
+kiefer|.|bbc_sport_422.txt|.|2
+barclays|.|bbc_business_417.txt|.|8|.|bbc_business_218.txt|.|7|.|bbc_business_126.txt|.|10
+electric|.|bbc_business_174.txt|.|2
+weak dollar|.|bbc_business_143.txt|.|2
+played|.|bbc_entertainment_111.txt|.|3|.|bbc_entertainment_176.txt|.|2|.|bbc_entertainment_242.txt|.|1|.|bbc_sport_204.txt|.|2|.|bbc_sport_361.txt|.|2
+blackpool|.|bbc_politics_330.txt|.|8|.|bbc_politics_004.txt|.|8
+general motors|.|bbc_business_467.txt|.|2|.|bbc_business_462.txt|.|2
+swiss francs|.|bbc_business_050.txt|.|2
+yuan|.|bbc_business_396.txt|.|2
+marvel|.|bbc_entertainment_298.txt|.|5
+high oil price|.|bbc_business_221.txt|.|2
+increased marketing|.|bbc_business_173.txt|.|2
+luxury|.|bbc_business_117.txt|.|3|.|bbc_business_149.txt|.|5|.|bbc_business_056.txt|.|2
+telecentres|.|bbc_tech_006.txt|.|2
+fourth|.|bbc_business_466.txt|.|2|.|bbc_business_256.txt|.|3|.|bbc_business_118.txt|.|2|.|bbc_business_001.txt|.|3|.|bbc_business_479.txt|.|4|.|bbc_business_371.txt|.|3|.|bbc_business_288.txt|.|2|.|bbc_business_190.txt|.|3|.|bbc_business_073.txt|.|2|.|bbc_sport_480.txt|.|4
+deeley|.|bbc_entertainment_274.txt|.|4

@@ -1,0 +1,64 @@
+parenting contracts|.|bbc_politics_030.txt|.|2
+enters|.|bbc_entertainment_081.txt|.|1
+who had already qualified|.|bbc_sport_237.txt|.|2
+touchline|.|bbc_sport_169.txt|.|2
+crash|.|bbc_sport_047.txt|.|4|.|bbc_entertainment_259.txt|.|2
+patch|.|bbc_entertainment_122.txt|.|2
+bremen|.|bbc_sport_237.txt|.|1
+moggi|.|bbc_sport_203.txt|.|2
+riise|.|bbc_sport_104.txt|.|4
+bucharest|.|bbc_sport_203.txt|.|1
+season|.|bbc_sport_499.txt|.|2|.|bbc_sport_367.txt|.|4|.|bbc_sport_204.txt|.|2|.|bbc_sport_111.txt|.|4|.|bbc_sport_057.txt|.|1|.|bbc_sport_176.txt|.|2|.|bbc_sport_372.txt|.|4|.|bbc_sport_186.txt|.|2|.|bbc_sport_239.txt|.|3|.|bbc_sport_209.txt|.|2|.|bbc_sport_419.txt|.|2|.|bbc_sport_102.txt|.|5|.|bbc_sport_495.txt|.|2|.|bbc_sport_056.txt|.|1|.|bbc_sport_069.txt|.|3|.|bbc_sport_218.txt|.|5
+mutu|.|bbc_sport_201.txt|.|6|.|bbc_sport_203.txt|.|6
+aguas argentinas|.|bbc_business_501.txt|.|9
+comedy sideways|.|bbc_entertainment_030.txt|.|2
+goals|.|bbc_sport_186.txt|.|3|.|bbc_sport_096.txt|.|2|.|bbc_sport_221.txt|.|2|.|bbc_sport_236.txt|.|2|.|bbc_sport_176.txt|.|2
+ac|.|bbc_sport_237.txt|.|2
+portsmouth|.|bbc_sport_278.txt|.|3
+kezman|.|bbc_sport_104.txt|.|5|.|bbc_sport_139.txt|.|3
+minutes|.|bbc_sport_240.txt|.|2|.|bbc_sport_106.txt|.|3|.|bbc_sport_107.txt|.|8|.|bbc_sport_225.txt|.|2|.|bbc_sport_119.txt|.|2|.|bbc_sport_104.txt|.|6|.|bbc_politics_071.txt|.|4|.|bbc_sport_247.txt|.|4|.|bbc_sport_376.txt|.|2
+malagasy|.|bbc_business_372.txt|.|2
+inter|.|bbc_sport_168.txt|.|3
+frozen|.|bbc_politics_158.txt|.|2|.|bbc_business_301.txt|.|2
+wonderful|.|bbc_entertainment_003.txt|.|2|.|bbc_entertainment_272.txt|.|2
+athens|.|bbc_sport_016.txt|.|4|.|bbc_sport_034.txt|.|7|.|bbc_sport_075.txt|.|2|.|bbc_sport_038.txt|.|5|.|bbc_sport_093.txt|.|3|.|bbc_sport_030.txt|.|7
+rijkaard|.|bbc_sport_140.txt|.|4
+anfield|.|bbc_sport_274.txt|.|4|.|bbc_sport_118.txt|.|4|.|bbc_sport_228.txt|.|2
+shortages in key|.|bbc_politics_016.txt|.|3
+naamsa said|.|bbc_business_408.txt|.|3
+werder bremen|.|bbc_sport_237.txt|.|1
+pilkington|.|bbc_sport_214.txt|.|2
+lasers have helped|.|bbc_tech_023.txt|.|1
+failure|.|bbc_business_309.txt|.|2|.|bbc_sport_252.txt|.|2|.|bbc_sport_255.txt|.|2
+served|.|bbc_sport_201.txt|.|2
+babayaro|.|bbc_sport_279.txt|.|3
+leeds|.|bbc_sport_251.txt|.|9|.|bbc_sport_357.txt|.|2|.|bbc_entertainment_322.txt|.|3|.|bbc_sport_324.txt|.|2
+quashie|.|bbc_sport_278.txt|.|3
+scorsese|.|bbc_entertainment_377.txt|.|3|.|bbc_entertainment_337.txt|.|1|.|bbc_entertainment_368.txt|.|10
+extra time|.|bbc_sport_104.txt|.|1
+superhero|.|bbc_entertainment_374.txt|.|2|.|bbc_entertainment_386.txt|.|2|.|bbc_entertainment_077.txt|.|2
+confirmed|.|bbc_entertainment_137.txt|.|2|.|bbc_tech_133.txt|.|2|.|bbc_tech_180.txt|.|2|.|bbc_sport_218.txt|.|3
+blues|.|bbc_sport_181.txt|.|3|.|bbc_sport_104.txt|.|5|.|bbc_sport_182.txt|.|3|.|bbc_sport_273.txt|.|2
+adriano|.|bbc_sport_168.txt|.|5
+leverkusen|.|bbc_sport_237.txt|.|2|.|bbc_sport_127.txt|.|2
+yachvili|.|bbc_sport_286.txt|.|4|.|bbc_sport_414.txt|.|6
+misses|.|bbc_sport_174.txt|.|1
+ac milan|.|bbc_sport_237.txt|.|2
+steve|.|bbc_sport_177.txt|.|2
+stay at anfield|.|bbc_sport_274.txt|.|2
+mep|.|bbc_politics_292.txt|.|5
+talks with juventus|.|bbc_sport_203.txt|.|2
+markets further afield|.|bbc_business_261.txt|.|2
+surges|.|bbc_business_408.txt|.|1
+rinaldi|.|bbc_sport_168.txt|.|4
+premier|.|bbc_sport_125.txt|.|5
+saakashvili|.|bbc_business_199.txt|.|5
+cech|.|bbc_sport_104.txt|.|4
+metal slug|.|bbc_tech_233.txt|.|4|.|bbc_tech_169.txt|.|4
+tankan|.|bbc_business_295.txt|.|2
+orange|.|bbc_business_112.txt|.|4|.|bbc_business_205.txt|.|9
+no action|.|bbc_sport_169.txt|.|1
+complaint|.|bbc_sport_140.txt|.|2|.|bbc_business_475.txt|.|2
+ten cate|.|bbc_sport_140.txt|.|2
+werder|.|bbc_sport_237.txt|.|1
+mourinho|.|bbc_sport_169.txt|.|5|.|bbc_sport_159.txt|.|5|.|bbc_sport_103.txt|.|3|.|bbc_sport_183.txt|.|4|.|bbc_sport_231.txt|.|9|.|bbc_sport_172.txt|.|3|.|bbc_sport_218.txt|.|8|.|bbc_sport_280.txt|.|4

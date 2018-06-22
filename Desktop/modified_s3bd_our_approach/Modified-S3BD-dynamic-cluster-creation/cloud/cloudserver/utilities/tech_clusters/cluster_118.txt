@@ -1,0 +1,17 @@
+118
+viewing habits|.|158.txt|.|2|.|146.txt|.|2
+burke|.|349.txt|.|4
+analysts jupiter research|.|158.txt|.|2|.|146.txt|.|2
+fcc|.|262.txt|.|2
+daily life|.|184.txt|.|2
+connected|.|262.txt|.|1|.|350.txt|.|1
+suggests|.|158.txt|.|1|.|146.txt|.|1
+regularly|.|150.txt|.|2|.|392.txt|.|2
+growing|.|129.txt|.|2|.|099.txt|.|2|.|175.txt|.|2
+broadband|.|264.txt|.|16|.|262.txt|.|7|.|394.txt|.|4|.|129.txt|.|10|.|254.txt|.|8|.|146.txt|.|8|.|349.txt|.|15|.|058.txt|.|8|.|150.txt|.|10|.|392.txt|.|10|.|158.txt|.|8|.|205.txt|.|7|.|184.txt|.|11|.|175.txt|.|10|.|136.txt|.|9
+times faster|.|205.txt|.|2
+modem|.|184.txt|.|3
+connection|.|066.txt|.|3|.|150.txt|.|1|.|392.txt|.|1|.|381.txt|.|3|.|184.txt|.|6
+communicator|.|136.txt|.|3
+people signing|.|129.txt|.|2|.|175.txt|.|2
+cable modem|.|184.txt|.|2

@@ -1,0 +1,120 @@
+exporting process|.|rfc6183.txt|.|15|.|rfc5470.txt|.|33|.|rfc3917.txt|.|48|.|rfc5474.txt|.|30|.|rfc5153.txt|.|52|.|rfc5471.txt|.|70|.|rfc5101.txt|.|118|.|rfc6235.txt|.|28
+tenex|.|rfc417.txt|.|3|.|rfc415.txt|.|4|.|rfc644.txt|.|7|.|rfc190.txt|.|12|.|rfc470.txt|.|1|.|rfc404.txt|.|4|.|rfc546.txt|.|8|.|rfc594.txt|.|3|.|rfc471.txt|.|5|.|rfc247.txt|.|2|.|rfc636.txt|.|28|.|rfc571.txt|.|8|.|rfc599.txt|.|9
+documents the process|.|rfc2551.txt|.|2|.|rfc2026.txt|.|2
+process by which images|.|rfc3806.txt|.|1
+control information|.|rfc5470.txt|.|31|.|rfc196.txt|.|4|.|rfc3451.txt|.|11|.|rfc5532.txt|.|6|.|rfc137.txt|.|2|.|rfc171.txt|.|4|.|rfc3738.txt|.|20|.|rfc2.txt|.|2|.|rfc2489.txt|.|2|.|rfc158.txt|.|2|.|rfc2939.txt|.|2|.|rfc2976.txt|.|3
+roman standards process|.|rfc2551.txt|.|63
+allowed|.|rfc5606.txt|.|8|.|rfc5348.txt|.|84|.|rfc2759.txt|.|7|.|rfc3663.txt|.|20|.|rfc2647.txt|.|20
+anonymized|.|rfc6235.txt|.|126
+use of ipc|.|rfc150.txt|.|11
+advancement of mib|.|rfc2438.txt|.|7
+discipline|.|rfc5905.txt|.|39
+executing|.|rfc62.txt|.|8
+intermediate process|.|rfc6183.txt|.|25
+jbp rfc|.|rfc555.txt|.|12
+set of observation|.|rfc5470.txt|.|2
+process executing|.|rfc62.txt|.|8
+template record|.|rfc3954.txt|.|32|.|rfc5101.txt|.|72
+review|.|rfc4846.txt|.|48|.|rfc6292.txt|.|53|.|rfc3932.txt|.|31|.|rfc5539.txt|.|2|.|rfc4446.txt|.|10|.|rfc2194.txt|.|37|.|rfc6117.txt|.|30
+submissions july|.|rfc4846.txt|.|15
+ipc|.|rfc150.txt|.|18
+command verbs|.|rfc607.txt|.|3
+conversations with steve crocker|.|rfc49.txt|.|6
+roman standards|.|rfc2551.txt|.|100
+option template|.|rfc5471.txt|.|26
+images|.|rfc3806.txt|.|2
+initial connection protocol|.|rfc165.txt|.|5|.|rfc93.txt|.|2|.|rfc145.txt|.|3
+sampling|.|rfc4352.txt|.|17|.|rfc5474.txt|.|69|.|rfc450.txt|.|2|.|rfc4421.txt|.|14
+operating systems|.|rfc2563.txt|.|3|.|rfc4732.txt|.|6|.|rfc448.txt|.|2|.|rfc3164.txt|.|9|.|rfc33.txt|.|4|.|rfc62.txt|.|6|.|rfc4049.txt|.|2|.|rfc3514.txt|.|2
+interprocess|.|rfc333.txt|.|7|.|rfc61.txt|.|33|.|rfc62.txt|.|24
+committees|.|rfc5078.txt|.|3|.|rfc5633.txt|.|2
+options template|.|rfc3954.txt|.|53|.|rfc5153.txt|.|10|.|rfc5101.txt|.|74|.|rfc6235.txt|.|20
+connection and execute the initial|.|rfc429.txt|.|1|.|rfc348.txt|.|1|.|rfc347.txt|.|1
+mission|.|rfc3935.txt|.|28|.|rfc4844.txt|.|11
+sdc|.|rfc293.txt|.|3|.|rfc19.txt|.|2|.|rfc151.txt|.|2
+ignore port|.|rfc3917.txt|.|3
+submissions|.|rfc4846.txt|.|33|.|rfc3667.txt|.|17
+critiques|.|rfc555.txt|.|12
+hash|.|rfc5816.txt|.|8|.|rfc6273.txt|.|36|.|rfc5854.txt|.|22|.|rfc4418.txt|.|35|.|rfc4982.txt|.|77|.|rfc6234.txt|.|143|.|rfc4634.txt|.|140|.|rfc2104.txt|.|48|.|rfc2802.txt|.|10|.|rfc4253.txt|.|28|.|rfc4270.txt|.|66|.|rfc4998.txt|.|136|.|rfc5709.txt|.|20|.|rfc4880.txt|.|139|.|rfc5155.txt|.|103|.|rfc2938.txt|.|35|.|rfc3174.txt|.|33|.|rfc4055.txt|.|62|.|rfc4814.txt|.|33|.|rfc2440.txt|.|79|.|rfc3874.txt|.|33|.|rfc5474.txt|.|49|.|rfc6210.txt|.|53|.|rfc5831.txt|.|40|.|rfc4894.txt|.|49|.|rfc4843.txt|.|54|.|rfc2992.txt|.|10|.|rfc5475.txt|.|157
+current ncp protocol|.|rfc103.txt|.|2
+davies informational|.|rfc3774.txt|.|22|.|rfc6256.txt|.|17|.|rfc4924.txt|.|15
+ietf technical|.|rfc4714.txt|.|77
+galvin|.|rfc2282.txt|.|16|.|rfc2027.txt|.|13
+experiments|.|rfc4955.txt|.|19|.|rfc3933.txt|.|8|.|rfc1.txt|.|4
+collecting|.|rfc6183.txt|.|31|.|rfc5470.txt|.|42|.|rfc5153.txt|.|54|.|rfc5471.txt|.|206|.|rfc5101.txt|.|151|.|rfc5473.txt|.|33
+data base|.|rfc285.txt|.|6|.|rfc625.txt|.|2|.|rfc623.txt|.|9
+implementation of interrupt|.|rfc103.txt|.|4
+requests for comments|.|rfc4845.txt|.|2
+ipfix testing|.|rfc5471.txt|.|32
+mcmxcix|.|rfc2551.txt|.|39
+time process|.|rfc508.txt|.|1
+april mcmxcix|.|rfc2551.txt|.|37
+established|.|rfc417.txt|.|1|.|rfc36.txt|.|8|.|rfc163.txt|.|4|.|rfc3645.txt|.|25|.|rfc4964.txt|.|8
+debugging the process|.|rfc643.txt|.|10
+nominating committee process|.|rfc5633.txt|.|2
+interprocess communication system|.|rfc62.txt|.|4
+process pa|.|rfc36.txt|.|2
+ogg encapsulation|.|rfc3533.txt|.|10
+ipfix|.|rfc5655.txt|.|539|.|rfc5470.txt|.|239|.|rfc5102.txt|.|312|.|rfc5472.txt|.|218|.|rfc6183.txt|.|236|.|rfc5815.txt|.|178|.|rfc3955.txt|.|52|.|rfc3917.txt|.|82|.|rfc5982.txt|.|207|.|rfc5477.txt|.|62|.|rfc5153.txt|.|214|.|rfc5471.txt|.|151|.|rfc5101.txt|.|323|.|rfc5473.txt|.|59|.|rfc5103.txt|.|99
+series|.|rfc4693.txt|.|21|.|rfc2413.txt|.|9|.|rfc5620.txt|.|65|.|rfc4844.txt|.|95
+elements|.|rfc3208.txt|.|165|.|rfc6163.txt|.|18|.|rfc3532.txt|.|14|.|rfc5388.txt|.|68|.|rfc4930.txt|.|116|.|rfc4645.txt|.|15|.|rfc5052.txt|.|41|.|rfc5645.txt|.|17|.|rfc5472.txt|.|31|.|rfc4054.txt|.|15|.|rfc6231.txt|.|150|.|rfc5730.txt|.|116|.|rfc5153.txt|.|76|.|rfc5471.txt|.|39|.|rfc4356.txt|.|15|.|rfc2750.txt|.|10
+facilities|.|rfc268.txt|.|3|.|rfc150.txt|.|11|.|rfc498.txt|.|1|.|rfc126.txt|.|1
+iab rfc publication|.|rfc4845.txt|.|6
+communications link|.|rfc508.txt|.|2
+distinguishing|.|rfc3917.txt|.|7
+common properties withdrawal|.|rfc5473.txt|.|9
+receiving sockets|.|rfc147.txt|.|1
+process documents|.|rfc4844.txt|.|13
+process october|.|rfc2026.txt|.|35
+two inits|.|rfc151.txt|.|2
+model for ietf process experiments|.|rfc3933.txt|.|7
+interrupt|.|rfc2490.txt|.|22|.|rfc103.txt|.|19
+inits|.|rfc151.txt|.|3
+metering process|.|rfc5470.txt|.|28|.|rfc3917.txt|.|67|.|rfc5474.txt|.|34|.|rfc5101.txt|.|36|.|rfc5103.txt|.|20
+ietf standards|.|rfc5511.txt|.|3|.|rfc3000.txt|.|47|.|rfc2800.txt|.|38|.|rfc2900.txt|.|46|.|rfc2438.txt|.|5
+distinguishing flows|.|rfc3917.txt|.|6
+offset|.|rfc4737.txt|.|31|.|rfc5450.txt|.|19|.|rfc5905.txt|.|114|.|rfc4833.txt|.|13
+recall committees|.|rfc5078.txt|.|3|.|rfc5633.txt|.|2
+approval processes|.|rfc4844.txt|.|6
+peer process|.|rfc5905.txt|.|28
+buffer space|.|rfc59.txt|.|13
+ipfix message|.|rfc5655.txt|.|71|.|rfc5101.txt|.|87
+deamon process|.|rfc361.txt|.|1
+http state management|.|rfc2964.txt|.|40
+pfeifer|.|rfc508.txt|.|11
+ifmp|.|rfc1953.txt|.|76
+publishes documents|.|rfc4845.txt|.|2
+packet sampling|.|rfc5474.txt|.|10
+use of ipc facilities|.|rfc150.txt|.|11
+biflowdirection information element|.|rfc5103.txt|.|9
+process running|.|rfc643.txt|.|1
+process experiments|.|rfc3933.txt|.|8
+device subunit|.|rfc3806.txt|.|23
+scmp|.|rfc2383.txt|.|152
+request during discussion|.|rfc5633.txt|.|1
+initial connection|.|rfc165.txt|.|6|.|rfc93.txt|.|2|.|rfc145.txt|.|3
+biflow|.|rfc5103.txt|.|112
+observation point|.|rfc5470.txt|.|30|.|rfc5815.txt|.|20|.|rfc5474.txt|.|19
+echo process|.|rfc347.txt|.|7
+framework april|.|rfc6183.txt|.|28
+ipfix messages|.|rfc5153.txt|.|16
+initiates|.|rfc123.txt|.|1
+metering|.|rfc5470.txt|.|40|.|rfc2227.txt|.|41|.|rfc3917.txt|.|81|.|rfc5474.txt|.|49|.|rfc5670.txt|.|32|.|rfc5101.txt|.|41|.|rfc5103.txt|.|24
+ignore|.|rfc3917.txt|.|4
+data received|.|rfc347.txt|.|1
+archival|.|rfc4844.txt|.|7
+rfc series|.|rfc5620.txt|.|55|.|rfc4844.txt|.|77
+clock discipline|.|rfc5905.txt|.|26
+anonymized data|.|rfc6235.txt|.|44
+open geospatial consortium|.|rfc5165.txt|.|6
+approval|.|rfc4714.txt|.|12|.|rfc2780.txt|.|18|.|rfc4693.txt|.|12|.|rfc4844.txt|.|30|.|rfc5978.txt|.|3
+electronic codebook|.|rfc5830.txt|.|21
+ftp user|.|rfc607.txt|.|5|.|rfc571.txt|.|1
+discard process|.|rfc348.txt|.|5
+record stream|.|rfc6183.txt|.|26
+packet selection|.|rfc5474.txt|.|51|.|rfc5475.txt|.|80
+ospf based|.|rfc5252.txt|.|2
+stanford research|.|rfc155.txt|.|6|.|rfc329.txt|.|6|.|rfc211.txt|.|6
+observation domain|.|rfc5470.txt|.|24
+properties|.|rfc5889.txt|.|7|.|rfc4230.txt|.|57|.|rfc3694.txt|.|10|.|rfc4316.txt|.|17|.|rfc5473.txt|.|160
+connection is established|.|rfc36.txt|.|4

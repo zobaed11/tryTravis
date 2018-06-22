@@ -1,0 +1,91 @@
+13
+difficult week|.|bbc_sport_358.txt|.|2
+mail|.|bbc_sport_346.txt|.|3
+rugby special|.|bbc_sport_419.txt|.|2
+legend|.|bbc_sport_395.txt|.|1
+seven|.|bbc_sport_361.txt|.|2
+northern|.|bbc_sport_064.txt|.|2|.|bbc_sport_402.txt|.|2
+youth|.|bbc_sport_362.txt|.|2
+dual code|.|bbc_sport_370.txt|.|2
+professional|.|bbc_sport_360.txt|.|3|.|bbc_sport_150.txt|.|2
+welsh|.|bbc_sport_392.txt|.|2|.|bbc_sport_395.txt|.|7|.|bbc_sport_362.txt|.|4|.|bbc_sport_401.txt|.|2
+executive|.|bbc_sport_365.txt|.|1|.|bbc_sport_118.txt|.|2|.|bbc_sport_363.txt|.|2
+director of rugby|.|bbc_sport_358.txt|.|2
+english|.|bbc_sport_360.txt|.|4|.|bbc_sport_375.txt|.|2
+stradey|.|bbc_sport_361.txt|.|3
+club rugby|.|bbc_sport_358.txt|.|1
+international rugby|.|bbc_sport_385.txt|.|4|.|bbc_sport_346.txt|.|2|.|bbc_sport_387.txt|.|4
+football union|.|bbc_sport_374.txt|.|2
+crown|.|bbc_sport_364.txt|.|3|.|bbc_sport_003.txt|.|2
+rugby|.|bbc_sport_360.txt|.|8|.|bbc_sport_365.txt|.|5|.|bbc_sport_343.txt|.|2|.|bbc_sport_357.txt|.|3|.|bbc_sport_395.txt|.|4|.|bbc_sport_399.txt|.|3|.|bbc_sport_364.txt|.|5|.|bbc_sport_419.txt|.|2|.|bbc_sport_369.txt|.|4|.|bbc_sport_387.txt|.|6|.|bbc_sport_370.txt|.|4|.|bbc_sport_402.txt|.|5|.|bbc_sport_374.txt|.|6|.|bbc_sport_361.txt|.|2|.|bbc_sport_413.txt|.|3|.|bbc_sport_371.txt|.|11|.|bbc_sport_346.txt|.|3|.|bbc_sport_367.txt|.|3|.|bbc_sport_397.txt|.|6|.|bbc_sport_329.txt|.|3|.|bbc_sport_362.txt|.|6|.|bbc_sport_375.txt|.|3|.|bbc_sport_372.txt|.|3|.|bbc_sport_328.txt|.|3|.|bbc_sport_385.txt|.|6|.|bbc_sport_358.txt|.|5|.|bbc_sport_404.txt|.|2|.|bbc_sport_363.txt|.|3|.|bbc_sport_398.txt|.|3|.|bbc_sport_400.txt|.|3
+international rugby board|.|bbc_sport_346.txt|.|2
+students rugby|.|bbc_sport_362.txt|.|3
+lions coach|.|bbc_sport_385.txt|.|2|.|bbc_sport_387.txt|.|2
+gronkjaer|.|bbc_sport_265.txt|.|3
+dent|.|bbc_sport_498.txt|.|3|.|bbc_sport_444.txt|.|3|.|bbc_sport_458.txt|.|3|.|bbc_sport_453.txt|.|4|.|bbc_sport_480.txt|.|2
+australia|.|bbc_sport_371.txt|.|5
+protest|.|bbc_sport_346.txt|.|2
+massu|.|bbc_sport_468.txt|.|2
+accept|.|bbc_sport_112.txt|.|2|.|bbc_sport_121.txt|.|2
+coaches|.|bbc_sport_365.txt|.|1|.|bbc_sport_321.txt|.|1
+important|.|bbc_sport_358.txt|.|2
+carlton|.|bbc_sport_162.txt|.|2
+cleared in doping|.|bbc_sport_082.txt|.|1
+david prutton|.|bbc_sport_180.txt|.|2
+sporting director|.|bbc_sport_207.txt|.|3
+spot|.|bbc_sport_419.txt|.|2
+daily|.|bbc_sport_346.txt|.|3
+farrell|.|bbc_sport_398.txt|.|5|.|bbc_sport_399.txt|.|4
+code success|.|bbc_sport_370.txt|.|2
+leeds|.|bbc_sport_251.txt|.|9|.|bbc_sport_357.txt|.|2|.|bbc_sport_324.txt|.|2
+madrid|.|bbc_sport_239.txt|.|1|.|bbc_sport_245.txt|.|3|.|bbc_sport_193.txt|.|2|.|bbc_sport_120.txt|.|1|.|bbc_sport_265.txt|.|2|.|bbc_sport_142.txt|.|3|.|bbc_sport_154.txt|.|6|.|bbc_sport_211.txt|.|3|.|bbc_sport_275.txt|.|3|.|bbc_sport_237.txt|.|2|.|bbc_sport_247.txt|.|2|.|bbc_sport_014.txt|.|4
+hereford|.|bbc_sport_225.txt|.|2
+cup winners|.|bbc_sport_387.txt|.|2
+stems|.|bbc_sport_395.txt|.|1
+switching|.|bbc_sport_399.txt|.|1
+love|.|bbc_sport_397.txt|.|3
+allardyce|.|bbc_sport_185.txt|.|3
+pavey|.|bbc_sport_074.txt|.|3
+code|.|bbc_sport_370.txt|.|2
+professional rugby|.|bbc_sport_360.txt|.|2
+rooney|.|bbc_sport_101.txt|.|7|.|bbc_sport_240.txt|.|9|.|bbc_sport_216.txt|.|4
+students|.|bbc_sport_362.txt|.|7
+rugby board|.|bbc_sport_346.txt|.|2
+davenport|.|bbc_sport_432.txt|.|3|.|bbc_sport_438.txt|.|3|.|bbc_sport_488.txt|.|6|.|bbc_sport_476.txt|.|4|.|bbc_sport_460.txt|.|4|.|bbc_sport_446.txt|.|4|.|bbc_sport_441.txt|.|2
+missing three drugs|.|bbc_sport_089.txt|.|1|.|bbc_sport_054.txt|.|1
+gave rangers|.|bbc_sport_146.txt|.|2
+important game|.|bbc_sport_358.txt|.|2
+world cup winners|.|bbc_sport_387.txt|.|2
+switch|.|bbc_sport_399.txt|.|1
+blew|.|bbc_sport_263.txt|.|2
+daily mail|.|bbc_sport_346.txt|.|3
+leverkusen|.|bbc_sport_237.txt|.|2|.|bbc_sport_127.txt|.|2
+civil|.|bbc_sport_363.txt|.|2
+irb|.|bbc_sport_346.txt|.|2
+national|.|bbc_sport_354.txt|.|1|.|bbc_sport_100.txt|.|5|.|bbc_sport_365.txt|.|4|.|bbc_sport_212.txt|.|3
+thompson|.|bbc_sport_108.txt|.|6|.|bbc_sport_126.txt|.|2|.|bbc_sport_177.txt|.|5
+manchester city|.|bbc_sport_101.txt|.|2|.|bbc_sport_195.txt|.|2|.|bbc_sport_254.txt|.|2
+wayne|.|bbc_sport_101.txt|.|2|.|bbc_sport_216.txt|.|3
+teenager|.|bbc_sport_351.txt|.|1
+winners|.|bbc_sport_387.txt|.|2
+who also won|.|bbc_sport_006.txt|.|1
+st|.|bbc_sport_397.txt|.|4|.|bbc_sport_357.txt|.|4
+funding|.|bbc_sport_362.txt|.|2
+honour|.|bbc_sport_027.txt|.|1|.|bbc_sport_369.txt|.|1
+rugby football|.|bbc_sport_374.txt|.|2
+decision|.|bbc_sport_288.txt|.|1|.|bbc_sport_081.txt|.|4|.|bbc_sport_082.txt|.|3|.|bbc_sport_202.txt|.|3
+gamble|.|bbc_sport_398.txt|.|3
+union|.|bbc_sport_360.txt|.|3|.|bbc_sport_397.txt|.|2|.|bbc_sport_063.txt|.|2|.|bbc_sport_399.txt|.|3|.|bbc_sport_402.txt|.|2|.|bbc_sport_362.txt|.|2|.|bbc_sport_374.txt|.|2
+sculthorpe|.|bbc_sport_397.txt|.|8
+andy farrell|.|bbc_sport_398.txt|.|2
+wales students|.|bbc_sport_362.txt|.|4
+years at stradey|.|bbc_sport_361.txt|.|2
+english rugby|.|bbc_sport_360.txt|.|2|.|bbc_sport_375.txt|.|2
+dual code success|.|bbc_sport_370.txt|.|2
+players who|.|bbc_sport_385.txt|.|1
+sides|.|bbc_sport_395.txt|.|3
+seven years|.|bbc_sport_361.txt|.|2
+wru|.|bbc_sport_372.txt|.|3
+aiming|.|bbc_sport_419.txt|.|2
+board|.|bbc_sport_346.txt|.|2|.|bbc_sport_363.txt|.|2
+rugby union|.|bbc_sport_360.txt|.|2|.|bbc_sport_397.txt|.|2|.|bbc_sport_399.txt|.|2|.|bbc_sport_402.txt|.|2

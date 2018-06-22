@@ -1,0 +1,38 @@
+96
+doris|.|WET3437.txt|.|6
+student|.|WET2245.txt|.|15|.|WET3732.txt|.|129|.|WET2317.txt|.|28|.|WET1143.txt|.|224|.|WET250.txt|.|23|.|WET4891.txt|.|126|.|WET3622.txt|.|27|.|WET1063.txt|.|135|.|WET1446.txt|.|56|.|WET3976.txt|.|93|.|WET682.txt|.|39|.|WET3591.txt|.|331|.|WET5273.txt|.|23|.|WET4035.txt|.|123|.|WET3437.txt|.|27|.|WET3897.txt|.|21|.|WET3477.txt|.|24|.|WET4562.txt|.|43|.|WET3367.txt|.|26|.|WET5196.txt|.|50|.|WET2618.txt|.|89
+government student|.|WET2618.txt|.|10
+liberal arts|.|WET2618.txt|.|22
+help desk|.|WET3732.txt|.|49
+deadlines|.|WET3204.txt|.|2|.|WET2998.txt|.|2|.|WET6221.txt|.|3|.|WET3831.txt|.|2|.|WET4197.txt|.|2|.|WET2522.txt|.|2|.|WET1814.txt|.|3|.|WET3846.txt|.|2|.|WET5509.txt|.|1|.|WET2295.txt|.|2|.|WET1597.txt|.|2|.|WET660.txt|.|2|.|WET2698.txt|.|3|.|WET3477.txt|.|2|.|WET4477.txt|.|2|.|WET1076.txt|.|3|.|WET3622.txt|.|2|.|WET1373.txt|.|4|.|WET5275.txt|.|3|.|WET5282.txt|.|2|.|WET1524.txt|.|2|.|WET682.txt|.|3|.|WET5156.txt|.|2|.|WET1268.txt|.|2|.|WET1812.txt|.|4|.|WET5873.txt|.|2|.|WET4149.txt|.|2|.|WET326.txt|.|5|.|WET5780.txt|.|2|.|WET4099.txt|.|1|.|WET4856.txt|.|2
+degrees|.|WET3437.txt|.|18
+intranet|.|WET3437.txt|.|6
+keywords to search|.|WET1063.txt|.|7
+vegetable spices|.|WET3528.txt|.|40
+dual|.|WET1063.txt|.|11
+academic|.|WET3732.txt|.|66|.|WET3622.txt|.|26|.|WET264.txt|.|172|.|WET6308.txt|.|42|.|WET6264.txt|.|15|.|WET4477.txt|.|26|.|WET4867.txt|.|32|.|WET1063.txt|.|58|.|WET1446.txt|.|133|.|WET4007.txt|.|182|.|WET5196.txt|.|114|.|WET3591.txt|.|180
+regional campuses|.|WET1063.txt|.|9
+thesis committee|.|WET3897.txt|.|10
+dual credit|.|WET1063.txt|.|9
+virtual tour|.|WET1063.txt|.|9|.|WET4591.txt|.|6
+chemistry|.|WET3897.txt|.|123
+search intranet|.|WET3437.txt|.|3
+requirements|.|WET3437.txt|.|7
+graduates degrees|.|WET3437.txt|.|6
+campus|.|WET2899.txt|.|41|.|WET2779.txt|.|7|.|WET3732.txt|.|42|.|WET1143.txt|.|72|.|WET4891.txt|.|40|.|WET5982.txt|.|63|.|WET6308.txt|.|78|.|WET4015.txt|.|349|.|WET1063.txt|.|69|.|WET1972.txt|.|61|.|WET3166.txt|.|57
+uhd online|.|WET3732.txt|.|16
+admissions|.|WET2779.txt|.|20|.|WET3732.txt|.|34|.|WET3846.txt|.|50|.|WET453.txt|.|30
+art museum|.|WET3976.txt|.|88
+academic affairs|.|WET1063.txt|.|15
+community engagement|.|WET3732.txt|.|20
+uhd|.|WET3732.txt|.|192
+university historical student|.|WET3976.txt|.|46
+art supplies|.|WET1143.txt|.|8|.|WET4970.txt|.|23
+collection of historical|.|WET3976.txt|.|44
+photographs|.|WET180.txt|.|149|.|WET4385.txt|.|232|.|WET3960.txt|.|40|.|WET181.txt|.|67|.|WET229.txt|.|135|.|WET6004.txt|.|40|.|WET645.txt|.|182|.|WET3976.txt|.|162|.|WET4034.txt|.|78|.|WET4326.txt|.|13|.|WET4327.txt|.|400
+historical student newspapers|.|WET3976.txt|.|46
+undergraduates|.|WET3437.txt|.|6
+rationalization|.|WET4562.txt|.|1
+main content|.|WET1062.txt|.|5|.|WET6112.txt|.|6|.|WET1063.txt|.|9|.|WET3974.txt|.|11
+atcc|.|WET1143.txt|.|64
+campuses|.|WET1063.txt|.|19

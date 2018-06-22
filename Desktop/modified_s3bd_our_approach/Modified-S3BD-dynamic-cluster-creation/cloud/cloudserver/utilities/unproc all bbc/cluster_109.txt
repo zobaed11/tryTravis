@@ -1,0 +1,64 @@
+luck|.|bbc_business_244.txt|.|2
+fletcher|.|bbc_entertainment_190.txt|.|6
+shareholder value|.|bbc_business_220.txt|.|1
+uk property|.|bbc_business_177.txt|.|2
+looks|.|bbc_business_244.txt|.|1
+housing market|.|bbc_business_438.txt|.|3|.|bbc_business_290.txt|.|3|.|bbc_business_194.txt|.|2|.|bbc_business_459.txt|.|3|.|bbc_business_153.txt|.|4
+gaming market|.|bbc_tech_351.txt|.|2|.|bbc_tech_192.txt|.|2
+mozilla browsers|.|bbc_tech_196.txt|.|2
+property market|.|bbc_business_177.txt|.|2|.|bbc_business_323.txt|.|2
+mortgage lender|.|bbc_business_177.txt|.|1
+stock|.|bbc_business_264.txt|.|4|.|bbc_business_239.txt|.|3|.|bbc_business_171.txt|.|3|.|bbc_business_294.txt|.|2|.|bbc_business_269.txt|.|3|.|bbc_business_036.txt|.|2|.|bbc_business_272.txt|.|3|.|bbc_business_454.txt|.|2|.|bbc_business_319.txt|.|5|.|bbc_business_411.txt|.|2|.|bbc_business_392.txt|.|4|.|bbc_business_260.txt|.|4|.|bbc_business_494.txt|.|4|.|bbc_business_150.txt|.|3|.|bbc_business_048.txt|.|2|.|bbc_business_215.txt|.|4|.|bbc_business_267.txt|.|3|.|bbc_business_261.txt|.|8|.|bbc_business_497.txt|.|3|.|bbc_business_233.txt|.|2|.|bbc_business_365.txt|.|3|.|bbc_business_220.txt|.|3|.|bbc_business_244.txt|.|2|.|bbc_business_316.txt|.|2|.|bbc_business_279.txt|.|4
+lenders|.|bbc_business_323.txt|.|2
+pickering|.|bbc_sport_372.txt|.|3
+phonographic industries|.|bbc_entertainment_321.txt|.|1
+exchanges|.|bbc_business_316.txt|.|1|.|bbc_business_319.txt|.|1
+youth market|.|bbc_business_226.txt|.|2
+mozilla|.|bbc_tech_196.txt|.|5
+albums market|.|bbc_entertainment_321.txt|.|2
+mobile gaming|.|bbc_tech_185.txt|.|2|.|bbc_tech_153.txt|.|2|.|bbc_tech_192.txt|.|5
+fa cup|.|bbc_sport_159.txt|.|3|.|bbc_sport_122.txt|.|2|.|bbc_sport_205.txt|.|2
+browsers|.|bbc_tech_196.txt|.|3
+biggest music buyer|.|bbc_entertainment_321.txt|.|1
+financial times|.|bbc_business_051.txt|.|2|.|bbc_business_346.txt|.|2
+market|.|bbc_business_447.txt|.|2|.|bbc_business_264.txt|.|5|.|bbc_business_294.txt|.|2|.|bbc_business_226.txt|.|2|.|bbc_entertainment_321.txt|.|4|.|bbc_business_438.txt|.|4|.|bbc_business_036.txt|.|1|.|bbc_tech_351.txt|.|2|.|bbc_business_019.txt|.|5|.|bbc_business_153.txt|.|5|.|bbc_business_272.txt|.|3|.|bbc_business_149.txt|.|5|.|bbc_business_319.txt|.|3|.|bbc_business_031.txt|.|3|.|bbc_business_290.txt|.|4|.|bbc_business_260.txt|.|1|.|bbc_tech_153.txt|.|5|.|bbc_business_494.txt|.|5|.|bbc_business_323.txt|.|7|.|bbc_tech_183.txt|.|6|.|bbc_tech_192.txt|.|7|.|bbc_business_035.txt|.|2|.|bbc_business_141.txt|.|5|.|bbc_business_459.txt|.|3|.|bbc_tech_196.txt|.|5|.|bbc_business_215.txt|.|5|.|bbc_business_254.txt|.|3|.|bbc_business_194.txt|.|2|.|bbc_business_283.txt|.|1|.|bbc_business_233.txt|.|2|.|bbc_business_220.txt|.|3|.|bbc_business_244.txt|.|3|.|bbc_business_177.txt|.|10|.|bbc_tech_332.txt|.|6|.|bbc_business_051.txt|.|3|.|bbc_tech_040.txt|.|6|.|bbc_tech_185.txt|.|5|.|bbc_business_113.txt|.|3|.|bbc_business_232.txt|.|3
+music buyer|.|bbc_entertainment_321.txt|.|1
+mobile gaming market|.|bbc_tech_192.txt|.|2
+societies association|.|bbc_business_323.txt|.|2
+music market|.|bbc_tech_332.txt|.|2|.|bbc_tech_040.txt|.|2
+browser firefox|.|bbc_tech_196.txt|.|1
+ipod family|.|bbc_tech_332.txt|.|2|.|bbc_tech_040.txt|.|2
+uk property market|.|bbc_business_177.txt|.|2
+cruise|.|bbc_business_244.txt|.|5
+uk housing|.|bbc_business_177.txt|.|2
+commission alleged|.|bbc_business_113.txt|.|1
+crossover|.|bbc_business_141.txt|.|5
+nintendo|.|bbc_tech_317.txt|.|2|.|bbc_tech_247.txt|.|6|.|bbc_tech_084.txt|.|9|.|bbc_tech_256.txt|.|2|.|bbc_tech_185.txt|.|10|.|bbc_tech_153.txt|.|9|.|bbc_tech_363.txt|.|2|.|bbc_tech_351.txt|.|6|.|bbc_tech_025.txt|.|2
+housing|.|bbc_business_177.txt|.|6|.|bbc_business_239.txt|.|6|.|bbc_business_438.txt|.|3|.|bbc_business_290.txt|.|3|.|bbc_business_194.txt|.|2|.|bbc_business_329.txt|.|2|.|bbc_business_323.txt|.|1|.|bbc_business_459.txt|.|3|.|bbc_business_153.txt|.|4
+cash bid|.|bbc_business_264.txt|.|2
+phonographic|.|bbc_entertainment_321.txt|.|2
+recovery|.|bbc_business_086.txt|.|2|.|bbc_tech_207.txt|.|3|.|bbc_business_283.txt|.|2|.|bbc_business_073.txt|.|1|.|bbc_business_272.txt|.|3
+alleged|.|bbc_entertainment_110.txt|.|2|.|bbc_business_113.txt|.|1|.|bbc_tech_273.txt|.|2
+lender|.|bbc_business_177.txt|.|1
+apple ipods|.|bbc_tech_332.txt|.|1|.|bbc_tech_040.txt|.|1
+johnson said|.|bbc_politics_132.txt|.|2
+tube stake|.|bbc_business_341.txt|.|1
+mortgage lending|.|bbc_business_194.txt|.|4|.|bbc_business_323.txt|.|2
+home fell|.|bbc_business_323.txt|.|1
+foreign direct|.|bbc_business_019.txt|.|2
+chinese officials|.|bbc_business_212.txt|.|2
+fannie mae|.|bbc_business_298.txt|.|5|.|bbc_business_326.txt|.|9
+biggest music|.|bbc_entertainment_321.txt|.|2
+car market|.|bbc_business_149.txt|.|2|.|bbc_business_141.txt|.|1
+expands|.|bbc_tech_332.txt|.|1|.|bbc_tech_040.txt|.|1
+uk music|.|bbc_entertainment_321.txt|.|2
+crossover vehicles|.|bbc_business_141.txt|.|2
+crop production|.|bbc_business_009.txt|.|2
+simon|.|bbc_sport_353.txt|.|2|.|bbc_sport_173.txt|.|2|.|bbc_sport_410.txt|.|2|.|bbc_politics_268.txt|.|2|.|bbc_entertainment_116.txt|.|1
+listed|.|bbc_business_051.txt|.|2
+celebrations|.|bbc_entertainment_233.txt|.|1
+raiwalui|.|bbc_sport_324.txt|.|2
+fish|.|bbc_politics_243.txt|.|5
+khan|.|bbc_politics_279.txt|.|6|.|bbc_entertainment_349.txt|.|5
+lull|.|bbc_business_194.txt|.|2
+mortgage lenders|.|bbc_business_323.txt|.|2

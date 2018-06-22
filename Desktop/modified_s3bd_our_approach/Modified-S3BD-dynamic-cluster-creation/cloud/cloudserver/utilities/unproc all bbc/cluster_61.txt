@@ -1,0 +1,64 @@
+hassan|.|bbc_politics_150.txt|.|5
+leading|.|bbc_entertainment_150.txt|.|2|.|bbc_entertainment_011.txt|.|1|.|bbc_business_011.txt|.|2|.|bbc_politics_191.txt|.|1|.|bbc_sport_115.txt|.|3|.|bbc_entertainment_156.txt|.|1
+boxing day|.|bbc_politics_135.txt|.|2
+southern asia|.|bbc_business_353.txt|.|3
+emergency|.|bbc_tech_027.txt|.|2|.|bbc_tech_315.txt|.|2
+aid donor|.|bbc_politics_127.txt|.|1
+irritation mode|.|bbc_politics_251.txt|.|2
+mr senanayake|.|bbc_tech_142.txt|.|2
+moral|.|bbc_politics_191.txt|.|2
+poor|.|bbc_tech_199.txt|.|3|.|bbc_entertainment_226.txt|.|1|.|bbc_politics_130.txt|.|3|.|bbc_business_033.txt|.|4
+mr gupta|.|bbc_tech_106.txt|.|4
+silence|.|bbc_politics_135.txt|.|2
+aid agencies|.|bbc_tech_097.txt|.|4|.|bbc_business_353.txt|.|1
+making|.|bbc_business_111.txt|.|2|.|bbc_sport_130.txt|.|2|.|bbc_business_149.txt|.|1|.|bbc_politics_193.txt|.|2|.|bbc_tech_097.txt|.|1|.|bbc_entertainment_300.txt|.|1|.|bbc_sport_256.txt|.|1
+makers|.|bbc_tech_348.txt|.|3|.|bbc_business_090.txt|.|3|.|bbc_tech_246.txt|.|1|.|bbc_business_149.txt|.|2|.|bbc_business_424.txt|.|2|.|bbc_tech_195.txt|.|3
+care international|.|bbc_politics_150.txt|.|2
+alitalia|.|bbc_business_468.txt|.|6
+text messages|.|bbc_tech_152.txt|.|4|.|bbc_tech_106.txt|.|1|.|bbc_tech_142.txt|.|5
+damage s asia|.|bbc_business_353.txt|.|1
+lanka|.|bbc_business_345.txt|.|3|.|bbc_business_398.txt|.|4|.|bbc_business_228.txt|.|3|.|bbc_business_434.txt|.|3|.|bbc_business_353.txt|.|4
+new world|.|bbc_business_090.txt|.|2
+poor countries|.|bbc_politics_130.txt|.|2
+signals|.|bbc_business_023.txt|.|1|.|bbc_tech_142.txt|.|1
+instrumental|.|bbc_entertainment_342.txt|.|2
+aguilera|.|bbc_entertainment_260.txt|.|6
+johnny|.|bbc_entertainment_186.txt|.|2|.|bbc_entertainment_320.txt|.|2|.|bbc_entertainment_303.txt|.|2|.|bbc_entertainment_316.txt|.|2|.|bbc_entertainment_222.txt|.|2
+state aid|.|bbc_business_424.txt|.|2|.|bbc_business_468.txt|.|8
+tsunami aid|.|bbc_tech_027.txt|.|2|.|bbc_politics_191.txt|.|2|.|bbc_tech_315.txt|.|2
+frederic|.|bbc_sport_287.txt|.|2
+moral authority|.|bbc_politics_191.txt|.|2
+hundred|.|bbc_politics_135.txt|.|1
+euro|.|bbc_business_496.txt|.|4|.|bbc_business_090.txt|.|1|.|bbc_business_189.txt|.|1|.|bbc_business_439.txt|.|2|.|bbc_business_374.txt|.|3|.|bbc_business_097.txt|.|4|.|bbc_entertainment_220.txt|.|2|.|bbc_business_350.txt|.|6|.|bbc_business_376.txt|.|5|.|bbc_business_172.txt|.|4|.|bbc_business_040.txt|.|2|.|bbc_business_509.txt|.|2|.|bbc_politics_389.txt|.|5
+hundred million|.|bbc_politics_135.txt|.|1
+industrialised nations|.|bbc_politics_130.txt|.|2
+scam|.|bbc_tech_027.txt|.|2|.|bbc_tech_315.txt|.|2
+tourism|.|bbc_business_353.txt|.|6
+phone signals|.|bbc_tech_142.txt|.|1
+mrs hassan|.|bbc_politics_150.txt|.|3
+lankan|.|bbc_tech_106.txt|.|2
+web helps|.|bbc_tech_097.txt|.|1
+cell phone|.|bbc_tech_142.txt|.|2
+operations in iraq|.|bbc_politics_150.txt|.|2
+gupta|.|bbc_tech_106.txt|.|5
+industrialised|.|bbc_politics_130.txt|.|2
+christmas number|.|bbc_entertainment_159.txt|.|2
+tsunami|.|bbc_politics_164.txt|.|2|.|bbc_politics_191.txt|.|2|.|bbc_politics_208.txt|.|3|.|bbc_business_471.txt|.|3|.|bbc_politics_195.txt|.|3|.|bbc_business_398.txt|.|4|.|bbc_business_411.txt|.|4|.|bbc_entertainment_195.txt|.|2|.|bbc_tech_027.txt|.|6|.|bbc_business_228.txt|.|2|.|bbc_politics_017.txt|.|1|.|bbc_entertainment_104.txt|.|3|.|bbc_entertainment_182.txt|.|6|.|bbc_tech_315.txt|.|6
+sri lanka|.|bbc_business_345.txt|.|3|.|bbc_business_398.txt|.|4|.|bbc_business_228.txt|.|3|.|bbc_business_434.txt|.|3|.|bbc_business_353.txt|.|4
+coalition|.|bbc_politics_191.txt|.|2
+wine makers|.|bbc_business_090.txt|.|3
+band aid single|.|bbc_entertainment_160.txt|.|2
+top industrialised|.|bbc_politics_130.txt|.|2
+senanayake|.|bbc_tech_142.txt|.|3
+mfa|.|bbc_business_296.txt|.|3
+rich|.|bbc_entertainment_346.txt|.|3|.|bbc_politics_130.txt|.|4
+agencies|.|bbc_business_064.txt|.|2|.|bbc_business_091.txt|.|2|.|bbc_tech_097.txt|.|3|.|bbc_business_353.txt|.|3|.|bbc_politics_388.txt|.|2
+making donations|.|bbc_tech_097.txt|.|1
+using sms|.|bbc_tech_142.txt|.|1
+rift|.|bbc_sport_207.txt|.|2|.|bbc_politics_251.txt|.|2
+aid single|.|bbc_entertainment_160.txt|.|2
+chris martin|.|bbc_entertainment_159.txt|.|2
+sri lankan|.|bbc_tech_106.txt|.|2
+disasters emergency|.|bbc_tech_027.txt|.|1|.|bbc_tech_315.txt|.|1
+british government|.|bbc_politics_135.txt|.|2
+undermine the un|.|bbc_politics_191.txt|.|2

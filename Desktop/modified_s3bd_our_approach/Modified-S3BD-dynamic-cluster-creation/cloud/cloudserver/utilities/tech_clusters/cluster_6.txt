@@ -1,0 +1,17 @@
+6
+jakob|.|168.txt|.|2
+chair|.|366.txt|.|2
+nielsen|.|168.txt|.|10
+new chair|.|366.txt|.|2
+carpenter|.|366.txt|.|9
+lifestyle|.|212.txt|.|2|.|225.txt|.|2
+intel unveils|.|019.txt|.|1
+innovations|.|212.txt|.|2|.|225.txt|.|2
+intel researchers|.|329.txt|.|2|.|019.txt|.|2
+dr carpenter|.|366.txt|.|8
+governing|.|212.txt|.|1|.|225.txt|.|1
+jakob nielsen|.|168.txt|.|2
+net works|.|366.txt|.|1
+phone firms|.|212.txt|.|2|.|225.txt|.|2
+laser|.|023.txt|.|6|.|329.txt|.|9|.|019.txt|.|8
+amplify laser|.|329.txt|.|2|.|019.txt|.|2

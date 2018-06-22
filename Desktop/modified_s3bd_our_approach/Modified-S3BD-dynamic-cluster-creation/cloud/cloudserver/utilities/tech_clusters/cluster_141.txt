@@ -1,0 +1,17 @@
+141
+rooms|.|204.txt|.|2
+telecentres uses|.|006.txt|.|1
+reading|.|078.txt|.|2|.|204.txt|.|2
+screensaver|.|189.txt|.|9
+monsters|.|119.txt|.|3
+bloggies|.|088.txt|.|5
+elections|.|001.txt|.|12
+yahoo|.|269.txt|.|3|.|065.txt|.|6|.|168.txt|.|2|.|337.txt|.|19
+raises|.|087.txt|.|1
+siemens|.|335.txt|.|6|.|032.txt|.|6
+massachusetts|.|282.txt|.|2
+browser firefox|.|196.txt|.|1
+embracing|.|145.txt|.|2
+musicians are embracing the internet|.|145.txt|.|2
+internet|.|118.txt|.|2|.|394.txt|.|3|.|369.txt|.|4|.|020.txt|.|5|.|211.txt|.|4|.|334.txt|.|3|.|267.txt|.|3|.|058.txt|.|2|.|354.txt|.|8|.|337.txt|.|7|.|138.txt|.|6|.|328.txt|.|3|.|269.txt|.|3|.|226.txt|.|4|.|078.txt|.|4|.|087.txt|.|10|.|176.txt|.|3|.|204.txt|.|3|.|047.txt|.|2|.|335.txt|.|3|.|039.txt|.|3|.|196.txt|.|3|.|327.txt|.|2|.|021.txt|.|3|.|145.txt|.|8|.|132.txt|.|3|.|387.txt|.|2
+successful|.|145.txt|.|5

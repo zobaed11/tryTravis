@@ -1,0 +1,91 @@
+17
+supreme court have been hearing|.|bbc_tech_370.txt|.|1
+developed software|.|bbc_tech_323.txt|.|1|.|bbc_tech_051.txt|.|1
+delta|.|bbc_tech_102.txt|.|5
+parliament|.|bbc_tech_330.txt|.|3|.|bbc_tech_014.txt|.|3
+developed|.|bbc_tech_323.txt|.|2|.|bbc_tech_051.txt|.|2
+specific queries|.|bbc_tech_053.txt|.|2
+put|.|bbc_tech_399.txt|.|2
+public library|.|bbc_tech_236.txt|.|2
+patenting of computer|.|bbc_tech_258.txt|.|1
+word document|.|bbc_tech_086.txt|.|2
+european parliament|.|bbc_tech_330.txt|.|3|.|bbc_tech_014.txt|.|3
+bailey|.|bbc_tech_354.txt|.|2
+draft|.|bbc_tech_048.txt|.|2|.|bbc_tech_342.txt|.|2
+property|.|bbc_tech_268.txt|.|3
+ripping|.|bbc_tech_326.txt|.|3
+use linux|.|bbc_tech_012.txt|.|1|.|bbc_tech_331.txt|.|1
+santy worm|.|bbc_tech_257.txt|.|2
+brand|.|bbc_tech_209.txt|.|2|.|bbc_tech_374.txt|.|5|.|bbc_tech_128.txt|.|5
+proposal|.|bbc_tech_387.txt|.|2|.|bbc_tech_118.txt|.|2
+browsing|.|bbc_tech_085.txt|.|2
+test results|.|bbc_tech_173.txt|.|2
+read|.|bbc_tech_323.txt|.|3|.|bbc_tech_051.txt|.|3
+musical|.|bbc_tech_323.txt|.|1|.|bbc_tech_051.txt|.|1
+issue|.|bbc_tech_258.txt|.|3
+blind student|.|bbc_tech_323.txt|.|2|.|bbc_tech_051.txt|.|2
+soviet republics|.|bbc_tech_001.txt|.|1
+mr wong|.|bbc_tech_323.txt|.|6|.|bbc_tech_051.txt|.|6
+wong|.|bbc_tech_323.txt|.|7|.|bbc_tech_051.txt|.|7
+tech firms|.|bbc_tech_048.txt|.|2|.|bbc_tech_342.txt|.|2
+security tools|.|bbc_tech_177.txt|.|2|.|bbc_tech_292.txt|.|2
+old|.|bbc_tech_016.txt|.|1|.|bbc_tech_240.txt|.|2|.|bbc_tech_017.txt|.|6|.|bbc_tech_354.txt|.|3
+programmer|.|bbc_tech_399.txt|.|2
+sensitive information|.|bbc_tech_086.txt|.|5
+read colour|.|bbc_tech_323.txt|.|1|.|bbc_tech_051.txt|.|1
+eu|.|bbc_tech_048.txt|.|3|.|bbc_tech_258.txt|.|5|.|bbc_tech_080.txt|.|5|.|bbc_tech_330.txt|.|3|.|bbc_tech_030.txt|.|4|.|bbc_tech_014.txt|.|3|.|bbc_tech_342.txt|.|3
+patent lawsuits|.|bbc_tech_029.txt|.|2
+spending|.|bbc_tech_012.txt|.|2|.|bbc_tech_331.txt|.|2
+delay|.|bbc_tech_080.txt|.|3
+intellectual property|.|bbc_tech_268.txt|.|3
+new era|.|bbc_tech_268.txt|.|2
+directive could put|.|bbc_tech_399.txt|.|1
+boost|.|bbc_tech_012.txt|.|2|.|bbc_tech_331.txt|.|2
+colours|.|bbc_tech_323.txt|.|3|.|bbc_tech_051.txt|.|3
+who|.|bbc_tech_092.txt|.|3|.|bbc_tech_241.txt|.|4|.|bbc_tech_207.txt|.|3|.|bbc_tech_354.txt|.|7
+patenting of software|.|bbc_tech_258.txt|.|2
+release patents|.|bbc_tech_268.txt|.|1
+blind|.|bbc_tech_323.txt|.|5|.|bbc_tech_051.txt|.|5
+supreme court|.|bbc_tech_092.txt|.|2|.|bbc_tech_370.txt|.|5
+sites searching|.|bbc_tech_257.txt|.|1
+piracy|.|bbc_tech_083.txt|.|3|.|bbc_tech_043.txt|.|1|.|bbc_tech_308.txt|.|3|.|bbc_tech_326.txt|.|1|.|bbc_tech_195.txt|.|3
+student|.|bbc_tech_092.txt|.|2|.|bbc_tech_323.txt|.|4|.|bbc_tech_051.txt|.|4
+searching|.|bbc_tech_257.txt|.|2
+automatically|.|bbc_tech_083.txt|.|1|.|bbc_tech_308.txt|.|1
+patenting|.|bbc_tech_258.txt|.|5
+updates|.|bbc_tech_083.txt|.|3|.|bbc_tech_308.txt|.|3
+ministers|.|bbc_tech_080.txt|.|2
+colours into musical|.|bbc_tech_323.txt|.|1|.|bbc_tech_051.txt|.|1
+running|.|bbc_tech_083.txt|.|2|.|bbc_tech_308.txt|.|2
+open source|.|bbc_tech_029.txt|.|10
+running pirated|.|bbc_tech_083.txt|.|2|.|bbc_tech_308.txt|.|2
+frees|.|bbc_tech_268.txt|.|1
+era|.|bbc_tech_268.txt|.|2
+linux|.|bbc_tech_012.txt|.|8|.|bbc_tech_029.txt|.|3|.|bbc_tech_331.txt|.|8
+responsible|.|bbc_tech_370.txt|.|4
+hearing|.|bbc_tech_370.txt|.|2
+patents|.|bbc_tech_029.txt|.|9|.|bbc_tech_330.txt|.|2|.|bbc_tech_268.txt|.|18|.|bbc_tech_014.txt|.|2
+genuine|.|bbc_tech_083.txt|.|3|.|bbc_tech_308.txt|.|3
+operating|.|bbc_tech_259.txt|.|2|.|bbc_tech_083.txt|.|3|.|bbc_tech_308.txt|.|3|.|bbc_tech_194.txt|.|2
+software patents|.|bbc_tech_029.txt|.|4|.|bbc_tech_330.txt|.|2|.|bbc_tech_268.txt|.|3|.|bbc_tech_014.txt|.|2
+profit|.|bbc_tech_354.txt|.|3
+hear|.|bbc_tech_370.txt|.|1
+fresh delay|.|bbc_tech_080.txt|.|2
+pirates|.|bbc_tech_303.txt|.|2|.|bbc_tech_195.txt|.|2|.|bbc_tech_075.txt|.|2|.|bbc_tech_354.txt|.|2
+personal information|.|bbc_tech_227.txt|.|2|.|bbc_tech_398.txt|.|2|.|bbc_tech_369.txt|.|2
+ibm said|.|bbc_tech_012.txt|.|3|.|bbc_tech_331.txt|.|3
+protect inventions|.|bbc_tech_048.txt|.|1|.|bbc_tech_342.txt|.|1
+held responsible|.|bbc_tech_370.txt|.|3
+phpbb|.|bbc_tech_257.txt|.|3
+delay hits|.|bbc_tech_080.txt|.|1
+operating system|.|bbc_tech_259.txt|.|1|.|bbc_tech_083.txt|.|3|.|bbc_tech_308.txt|.|3|.|bbc_tech_194.txt|.|2
+us firm|.|bbc_tech_268.txt|.|1
+intellectual|.|bbc_tech_268.txt|.|3
+pirated|.|bbc_tech_083.txt|.|5|.|bbc_tech_255.txt|.|2|.|bbc_tech_293.txt|.|3|.|bbc_tech_308.txt|.|5|.|bbc_tech_354.txt|.|2|.|bbc_tech_194.txt|.|2|.|bbc_tech_156.txt|.|3
+colour|.|bbc_tech_323.txt|.|4|.|bbc_tech_051.txt|.|4
+hitachi|.|bbc_tech_356.txt|.|5
+earth|.|bbc_tech_173.txt|.|3|.|bbc_tech_141.txt|.|2
+windows operating|.|bbc_tech_083.txt|.|2|.|bbc_tech_308.txt|.|2
+court will hear|.|bbc_tech_370.txt|.|1
+fresh|.|bbc_tech_080.txt|.|2
+backs|.|bbc_tech_219.txt|.|1|.|bbc_tech_224.txt|.|1

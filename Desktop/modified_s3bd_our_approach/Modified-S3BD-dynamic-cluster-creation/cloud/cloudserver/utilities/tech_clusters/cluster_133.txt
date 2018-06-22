@@ -1,0 +1,17 @@
+133
+megabit|.|205.txt|.|1
+us secret|.|120.txt|.|3
+alerting service|.|034.txt|.|4
+faster than|.|023.txt|.|2|.|205.txt|.|2
+alerts tell|.|034.txt|.|1
+uk online|.|205.txt|.|3
+downloaded|.|263.txt|.|1|.|298.txt|.|1
+security problems|.|034.txt|.|2
+faster|.|023.txt|.|2|.|205.txt|.|2
+alert|.|034.txt|.|2
+service|.|328.txt|.|4|.|221.txt|.|3|.|162.txt|.|2|.|076.txt|.|5|.|369.txt|.|1|.|380.txt|.|3|.|022.txt|.|3|.|087.txt|.|4|.|120.txt|.|3|.|267.txt|.|1|.|010.txt|.|3|.|378.txt|.|3|.|058.txt|.|1|.|263.txt|.|10|.|298.txt|.|10|.|034.txt|.|10|.|352.txt|.|5|.|021.txt|.|4|.|368.txt|.|5|.|205.txt|.|13|.|149.txt|.|2
+songs|.|263.txt|.|2|.|298.txt|.|2|.|148.txt|.|3
+network affected|.|368.txt|.|2
+speeds of broadband|.|205.txt|.|1
+trouble|.|034.txt|.|2
+napster offers|.|263.txt|.|1|.|298.txt|.|1

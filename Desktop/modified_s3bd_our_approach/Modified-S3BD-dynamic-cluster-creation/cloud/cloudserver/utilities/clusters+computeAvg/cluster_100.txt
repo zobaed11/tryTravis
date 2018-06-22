@@ -1,0 +1,38 @@
+100
+baseball daily|.|WET5273.txt|.|3
+college|.|WET1730.txt|.|292|.|WET1143.txt|.|88|.|WET5005.txt|.|45|.|WET3980.txt|.|11|.|WET4891.txt|.|60|.|WET4693.txt|.|106|.|WET1561.txt|.|24|.|WET948.txt|.|36|.|WET3682.txt|.|40|.|WET5273.txt|.|259|.|WET5446.txt|.|40|.|WET221.txt|.|22|.|WET2675.txt|.|11|.|WET1255.txt|.|42|.|WET171.txt|.|1402|.|WET2086.txt|.|32|.|WET1523.txt|.|38|.|WET3367.txt|.|63|.|WET3579.txt|.|326|.|WET4233.txt|.|146|.|WET5471.txt|.|476
+desiring|.|WET5378.txt|.|13
+mathematics professor|.|WET171.txt|.|16
+aab|.|WET1931.txt|.|116
+navigasi|.|WET3465.txt|.|16
+brookings|.|WET1373.txt|.|48
+choose blog|.|WET2173.txt|.|160
+howard|.|WET948.txt|.|33
+statussee results|.|WET2945.txt|.|55|.|WET2944.txt|.|131
+penn college|.|WET3682.txt|.|14
+agricultural college|.|WET948.txt|.|12
+watch live|.|WET3579.txt|.|90
+college ballparks|.|WET4693.txt|.|20
+theatre|.|WET4900.txt|.|8|.|WET4267.txt|.|30|.|WET2427.txt|.|35|.|WET171.txt|.|141|.|WET3688.txt|.|24|.|WET5895.txt|.|5
+catawba collegecatawba college|.|WET171.txt|.|77
+college baseball|.|WET5273.txt|.|14
+alaska|.|WET4889.txt|.|40|.|WET4768.txt|.|199|.|WET3321.txt|.|11|.|WET3166.txt|.|202|.|WET1023.txt|.|146
+like mike|.|WET2843.txt|.|156
+guide assembly|.|WET746.txt|.|27
+catawba collegecatawba|.|WET171.txt|.|103
+lois lane|.|WET5.txt|.|9
+new balance|.|WET3682.txt|.|6
+enduro|.|WET1984.txt|.|7
+silverado|.|WET1428.txt|.|69
+tor al central|.|WET4693.txt|.|20
+coaches|.|WET3171.txt|.|26|.|WET4693.txt|.|10
+daily intelligencer vulture|.|WET713.txt|.|31|.|WET4453.txt|.|23
+warming|.|WET2773.txt|.|747|.|WET4600.txt|.|8
+red light|.|WET235.txt|.|17
+metrics|.|WET6220.txt|.|20
+placement|.|WET6255.txt|.|34
+gmci|.|WET751.txt|.|27
+cupscontinental|.|WET3315.txt|.|42
+contenu abusif|.|WET2228.txt|.|218
+healthy habits|.|WET5446.txt|.|14
+horses|.|WET1759.txt|.|19|.|WET5768.txt|.|164|.|WET1758.txt|.|92|.|WET2029.txt|.|76|.|WET2026.txt|.|111

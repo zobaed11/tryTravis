@@ -1,0 +1,38 @@
+39
+loc|.|WET406.txt|.|77|.|WET2655.txt|.|83
+semantic|.|WET3240.txt|.|31|.|WET2901.txt|.|2
+board index|.|WET5530.txt|.|23|.|WET5063.txt|.|16
+searching|.|WET3732.txt|.|4|.|WET1687.txt|.|2|.|WET4029.txt|.|11|.|WET5150.txt|.|7
+interactive|.|WET5841.txt|.|62|.|WET2454.txt|.|39|.|WET3838.txt|.|21|.|WET4466.txt|.|10|.|WET2098.txt|.|74|.|WET4103.txt|.|15
+uv index|.|WET5841.txt|.|68
+aviation industry news|.|WET1137.txt|.|11
+mention|.|WET2494.txt|.|26
+youtube pinterest|.|WET2536.txt|.|9
+mad|.|WET5733.txt|.|30|.|WET2477.txt|.|6|.|WET1992.txt|.|33|.|WET6035.txt|.|17
+mag|.|WET2885.txt|.|147|.|WET2218.txt|.|6
+today vermont|.|WET4574.txt|.|28
+mak|.|WET6041.txt|.|30
+man|.|WET1730.txt|.|362|.|WET46.txt|.|72|.|WET2468.txt|.|46|.|WET5279.txt|.|24|.|WET5732.txt|.|15|.|WET2578.txt|.|86|.|WET4111.txt|.|121|.|WET4167.txt|.|29|.|WET2842.txt|.|29|.|WET5542.txt|.|9|.|WET4714.txt|.|22|.|WET428.txt|.|40|.|WET1527.txt|.|134|.|WET4590.txt|.|5|.|WET5471.txt|.|545
+unusual|.|WET5530.txt|.|8
+mar|.|WET3377.txt|.|70|.|WET4600.txt|.|43|.|WET5147.txt|.|72|.|WET4171.txt|.|186|.|WET1187.txt|.|14|.|WET6095.txt|.|44|.|WET3760.txt|.|57|.|WET1019.txt|.|80|.|WET4932.txt|.|83|.|WET123.txt|.|158|.|WET1209.txt|.|4
+quiz|.|WET1137.txt|.|11|.|WET4243.txt|.|85|.|WET494.txt|.|174|.|WET495.txt|.|136
+glycemic index|.|WET1697.txt|.|17|.|WET5060.txt|.|21
+mat|.|WET2729.txt|.|22
+hannah|.|WET4866.txt|.|457
+owned businesses|.|WET5418.txt|.|1
+occupational|.|WET1706.txt|.|15|.|WET4003.txt|.|17
+forum for dogs|.|WET2639.txt|.|19
+mane tailgate|.|WET2557.txt|.|11
+hurricane|.|WET5841.txt|.|144|.|WET798.txt|.|32|.|WET2098.txt|.|180|.|WET4272.txt|.|60|.|WET5842.txt|.|90
+bless|.|WET2672.txt|.|14
+printed|.|WET1669.txt|.|3|.|WET3077.txt|.|24|.|WET5475.txt|.|15|.|WET4958.txt|.|76|.|WET5238.txt|.|156
+compare online|.|WET3354.txt|.|232
+month|.|WET5561.txt|.|34|.|WET1137.txt|.|12|.|WET5348.txt|.|12|.|WET3862.txt|.|32|.|WET3668.txt|.|21|.|WET4247.txt|.|42
+field|.|WET186.txt|.|7|.|WET3826.txt|.|41|.|WET293.txt|.|11|.|WET1200.txt|.|22|.|WET2321.txt|.|35|.|WET5822.txt|.|46|.|WET1663.txt|.|14|.|WET2578.txt|.|12|.|WET2625.txt|.|35|.|WET782.txt|.|8|.|WET201.txt|.|27|.|WET1670.txt|.|12
+reference information|.|WET4242.txt|.|187|.|WET494.txt|.|170|.|WET495.txt|.|136
+seguir privado|.|WET910.txt|.|6
+history register log|.|WET5749.txt|.|11
+opens|.|WET1254.txt|.|3|.|WET3548.txt|.|49|.|WET3009.txt|.|13|.|WET2285.txt|.|54|.|WET733.txt|.|20
+add photo|.|WET2411.txt|.|6
+evaluate|.|WET4593.txt|.|18
+mite|.|WET991.txt|.|24

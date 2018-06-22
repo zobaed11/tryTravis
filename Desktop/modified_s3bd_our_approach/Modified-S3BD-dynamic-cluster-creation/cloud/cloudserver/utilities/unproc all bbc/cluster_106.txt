@@ -1,0 +1,64 @@
+won olympic|.|bbc_sport_028.txt|.|2
+who won olympic|.|bbc_sport_028.txt|.|2
+uk film council|.|bbc_entertainment_371.txt|.|2
+devon|.|bbc_entertainment_251.txt|.|5
+usher won|.|bbc_entertainment_153.txt|.|1
+influence|.|bbc_entertainment_263.txt|.|4
+wasp|.|bbc_entertainment_369.txt|.|3
+alan bennett|.|bbc_entertainment_006.txt|.|1|.|bbc_entertainment_275.txt|.|2
+kinnock|.|bbc_politics_289.txt|.|7|.|bbc_politics_163.txt|.|6
+lung cancer|.|bbc_business_309.txt|.|2
+kluft|.|bbc_sport_056.txt|.|4|.|bbc_sport_005.txt|.|2
+firm if its debt|.|bbc_business_375.txt|.|1
+south devon|.|bbc_entertainment_251.txt|.|2
+won|.|bbc_business_375.txt|.|2|.|bbc_entertainment_253.txt|.|12|.|bbc_entertainment_097.txt|.|3|.|bbc_sport_453.txt|.|2|.|bbc_sport_466.txt|.|2|.|bbc_entertainment_092.txt|.|2|.|bbc_entertainment_369.txt|.|3|.|bbc_sport_005.txt|.|3|.|bbc_tech_355.txt|.|2|.|bbc_sport_391.txt|.|2|.|bbc_entertainment_371.txt|.|3|.|bbc_tech_174.txt|.|3|.|bbc_sport_463.txt|.|2|.|bbc_sport_458.txt|.|1|.|bbc_sport_069.txt|.|3|.|bbc_entertainment_357.txt|.|6|.|bbc_entertainment_065.txt|.|2|.|bbc_sport_028.txt|.|3|.|bbc_entertainment_251.txt|.|2|.|bbc_entertainment_217.txt|.|2|.|bbc_entertainment_099.txt|.|4|.|bbc_entertainment_332.txt|.|3|.|bbc_entertainment_153.txt|.|5|.|bbc_entertainment_263.txt|.|2|.|bbc_sport_455.txt|.|2|.|bbc_sport_041.txt|.|4|.|bbc_entertainment_241.txt|.|3|.|bbc_sport_076.txt|.|2|.|bbc_sport_027.txt|.|2|.|bbc_sport_474.txt|.|2|.|bbc_tech_057.txt|.|8|.|bbc_sport_320.txt|.|2|.|bbc_entertainment_007.txt|.|5|.|bbc_business_342.txt|.|3|.|bbc_sport_006.txt|.|2|.|bbc_entertainment_067.txt|.|6|.|bbc_entertainment_275.txt|.|5|.|bbc_entertainment_024.txt|.|2
+urban act|.|bbc_entertainment_251.txt|.|2
+spike lee|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_052.txt|.|2|.|bbc_entertainment_356.txt|.|2
+jesse owens|.|bbc_sport_041.txt|.|3
+who won|.|bbc_sport_028.txt|.|2
+bafta|.|bbc_entertainment_070.txt|.|3|.|bbc_tech_057.txt|.|4|.|bbc_tech_046.txt|.|3|.|bbc_entertainment_352.txt|.|6|.|bbc_entertainment_220.txt|.|2|.|bbc_entertainment_357.txt|.|6|.|bbc_entertainment_354.txt|.|3|.|bbc_entertainment_355.txt|.|2|.|bbc_entertainment_038.txt|.|2
+arnold has been congratulated|.|bbc_entertainment_371.txt|.|1
+won his second|.|bbc_sport_453.txt|.|1
+comfortably|.|bbc_sport_069.txt|.|2
+arnold|.|bbc_entertainment_371.txt|.|3|.|bbc_entertainment_369.txt|.|5
+paris suburb|.|bbc_entertainment_067.txt|.|1
+animation|.|bbc_entertainment_353.txt|.|4|.|bbc_entertainment_332.txt|.|2|.|bbc_entertainment_065.txt|.|2
+olivier awards|.|bbc_entertainment_275.txt|.|2
+books|.|bbc_business_298.txt|.|3|.|bbc_entertainment_024.txt|.|4
+indoor|.|bbc_sport_066.txt|.|3|.|bbc_sport_009.txt|.|6|.|bbc_sport_061.txt|.|4|.|bbc_sport_012.txt|.|2|.|bbc_sport_064.txt|.|4|.|bbc_sport_001.txt|.|1|.|bbc_sport_020.txt|.|2|.|bbc_sport_074.txt|.|3|.|bbc_sport_068.txt|.|3|.|bbc_sport_014.txt|.|2|.|bbc_sport_055.txt|.|1|.|bbc_sport_018.txt|.|5|.|bbc_sport_070.txt|.|3|.|bbc_sport_005.txt|.|2|.|bbc_sport_060.txt|.|4|.|bbc_sport_032.txt|.|4|.|bbc_sport_069.txt|.|6|.|bbc_sport_086.txt|.|2|.|bbc_sport_071.txt|.|3
+campbell has set|.|bbc_sport_028.txt|.|1
+rock band|.|bbc_entertainment_236.txt|.|1|.|bbc_entertainment_229.txt|.|2|.|bbc_entertainment_153.txt|.|2|.|bbc_entertainment_142.txt|.|2
+jesse owens awards|.|bbc_sport_041.txt|.|2
+import|.|bbc_entertainment_217.txt|.|2
+incredibles|.|bbc_entertainment_332.txt|.|5
+said dent|.|bbc_sport_453.txt|.|1
+levy|.|bbc_entertainment_007.txt|.|2
+olympic champion|.|bbc_sport_025.txt|.|2|.|bbc_sport_069.txt|.|3
+owens|.|bbc_sport_041.txt|.|3
+olivier|.|bbc_entertainment_275.txt|.|4
+baywatch|.|bbc_entertainment_217.txt|.|3
+relay gold|.|bbc_sport_028.txt|.|2
+rescued|.|bbc_business_375.txt|.|1
+started in new|.|bbc_business_465.txt|.|1
+producing|.|bbc_entertainment_259.txt|.|1|.|bbc_entertainment_205.txt|.|1
+mel|.|bbc_entertainment_097.txt|.|2|.|bbc_entertainment_326.txt|.|2
+worst tv|.|bbc_entertainment_217.txt|.|2
+film awards|.|bbc_entertainment_357.txt|.|2
+broke laws|.|bbc_tech_273.txt|.|1
+treasure|.|bbc_entertainment_083.txt|.|3
+congratulated|.|bbc_entertainment_371.txt|.|2
+perform|.|bbc_entertainment_227.txt|.|3
+mtv europe|.|bbc_entertainment_153.txt|.|3
+bafta awards|.|bbc_tech_057.txt|.|2
+mtv europe awards|.|bbc_entertainment_153.txt|.|2
+jesse|.|bbc_sport_041.txt|.|3
+internationalised domain|.|bbc_tech_049.txt|.|2|.|bbc_tech_340.txt|.|2
+mary queen|.|bbc_entertainment_007.txt|.|2
+elvis presley|.|bbc_entertainment_263.txt|.|2
+owens awards|.|bbc_sport_041.txt|.|2
+century|.|bbc_entertainment_020.txt|.|2|.|bbc_entertainment_067.txt|.|1
+qualified majority|.|bbc_politics_193.txt|.|2
+james brown|.|bbc_entertainment_263.txt|.|2
+suburb|.|bbc_entertainment_067.txt|.|1
+lichtenstein|.|bbc_entertainment_018.txt|.|2
+whitbread prize|.|bbc_entertainment_007.txt|.|2

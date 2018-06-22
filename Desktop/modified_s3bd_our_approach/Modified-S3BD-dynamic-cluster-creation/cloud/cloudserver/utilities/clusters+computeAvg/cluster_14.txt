@@ -1,0 +1,38 @@
+14
+pop n rock|.|WET1515.txt|.|13
+search results|.|WET2437.txt|.|8
+venue|.|WET5266.txt|.|22|.|WET1515.txt|.|18
+tickets|.|WET4781.txt|.|27|.|WET5264.txt|.|411|.|WET5266.txt|.|415|.|WET2548.txt|.|153|.|WET1515.txt|.|226|.|WET3098.txt|.|144|.|WET336.txt|.|1188|.|WET2085.txt|.|52|.|WET5697.txt|.|54|.|WET2896.txt|.|90|.|WET1513.txt|.|403|.|WET1908.txt|.|35|.|WET4900.txt|.|27|.|WET5127.txt|.|22|.|WET5265.txt|.|420|.|WET2437.txt|.|54|.|WET6284.txt|.|70
+buyers|.|WET5266.txt|.|7|.|WET1515.txt|.|6|.|WET6232.txt|.|2
+hank|.|WET2437.txt|.|10
+snow report|.|WET2896.txt|.|36
+pop n rock concert tickets|.|WET1515.txt|.|7
+concert|.|WET5266.txt|.|43|.|WET1515.txt|.|32
+email page|.|WET1515.txt|.|12
+venue guide|.|WET5266.txt|.|14
+fisher|.|WET806.txt|.|111|.|WET5156.txt|.|8
+coast to coast tickets|.|WET5266.txt|.|31
+hank aaron|.|WET2437.txt|.|8
+spoiler|.|WET4732.txt|.|35|.|WET991.txt|.|28
+lekarz|.|WET742.txt|.|52
+buyers and sellers|.|WET5266.txt|.|7|.|WET1515.txt|.|6|.|WET6232.txt|.|2
+tickets las|.|WET5264.txt|.|22
+active dates|.|WET5127.txt|.|7
+concert tickets|.|WET5266.txt|.|24
+music gigs|.|WET4900.txt|.|4
+journals|.|WET796.txt|.|40
+ripoff|.|WET2776.txt|.|88
+aaron|.|WET2437.txt|.|13
+lumpkin county|.|WET188.txt|.|76|.|WET3936.txt|.|76
+london theatre|.|WET4900.txt|.|4
+spot|.|WET1814.txt|.|41|.|WET905.txt|.|33|.|WET3247.txt|.|28
+coast tickets|.|WET1513.txt|.|52|.|WET5265.txt|.|52|.|WET5266.txt|.|38
+theatre tickets|.|WET4900.txt|.|4
+study plans gmat|.|WET452.txt|.|11
+word processor|.|WET2548.txt|.|10
+ski gear|.|WET2896.txt|.|20
+no active dates|.|WET5127.txt|.|7
+theater tickets|.|WET5266.txt|.|22
+aid|.|WET2375.txt|.|42
+sports concerts|.|WET3098.txt|.|18
+gigs|.|WET4900.txt|.|4

@@ -1,0 +1,38 @@
+246
+shampoo|.|WET5140.txt|.|147
+columbus dispatch|.|WET5402.txt|.|14
+analyst research|.|WET3416.txt|.|6
+enlarge zoom|.|WET6112.txt|.|6
+ideaschocolate|.|WET5229.txt|.|22
+customer service|.|WET1976.txt|.|23|.|WET2180.txt|.|28|.|WET4510.txt|.|22|.|WET5891.txt|.|4|.|WET1655.txt|.|30|.|WET3298.txt|.|16|.|WET5179.txt|.|95|.|WET3364.txt|.|18|.|WET2804.txt|.|25|.|WET2009.txt|.|21|.|WET2114.txt|.|15|.|WET5154.txt|.|16
+check order status|.|WET2358.txt|.|11
+forecastability|.|WET3364.txt|.|2
+thickening|.|WET5140.txt|.|80
+miss|.|WET3364.txt|.|4
+concern|.|WET5140.txt|.|117
+disse|.|WET1401.txt|.|12
+advice bedroom|.|WET1406.txt|.|4
+outdoors skip|.|WET6112.txt|.|6
+wine by varietal|.|WET3296.txt|.|16|.|WET3298.txt|.|8|.|WET3297.txt|.|11
+feeds|.|WET5402.txt|.|20|.|WET1655.txt|.|31|.|WET5383.txt|.|10|.|WET6226.txt|.|5
+tel|.|WET5229.txt|.|11
+euros|.|WET2053.txt|.|6
+shipping info returns|.|WET2358.txt|.|11
+lima|.|WET5990.txt|.|31
+phone pay|.|WET3601.txt|.|8
+customer service manage|.|WET5402.txt|.|4|.|WET1655.txt|.|6
+mobile|.|WET1700.txt|.|11|.|WET1807.txt|.|34|.|WET1574.txt|.|12|.|WET842.txt|.|3|.|WET5383.txt|.|10|.|WET3409.txt|.|2|.|WET3829.txt|.|6|.|WET2420.txt|.|5|.|WET4920.txt|.|11|.|WET1167.txt|.|43|.|WET1896.txt|.|11|.|WET5446.txt|.|11|.|WET5235.txt|.|20|.|WET845.txt|.|14|.|WET4680.txt|.|39|.|WET3814.txt|.|5|.|WET5384.txt|.|10|.|WET943.txt|.|70|.|WET2089.txt|.|10|.|WET5037.txt|.|18|.|WET1253.txt|.|30|.|WET5915.txt|.|11|.|WET565.txt|.|19|.|WET4580.txt|.|7|.|WET1338.txt|.|6|.|WET1699.txt|.|11|.|WET5089.txt|.|7|.|WET4300.txt|.|4|.|WET3077.txt|.|8|.|WET3085.txt|.|13|.|WET3504.txt|.|66|.|WET2091.txt|.|20|.|WET873.txt|.|30|.|WET3599.txt|.|34|.|WET2962.txt|.|10|.|WET4813.txt|.|3|.|WET4021.txt|.|4
+gallery carpet|.|WET1406.txt|.|4
+order status shipping|.|WET2358.txt|.|11
+edt reads|.|WET4786.txt|.|36|.|WET1040.txt|.|36
+teen|.|WET1146.txt|.|23|.|WET1253.txt|.|30|.|WET3224.txt|.|110|.|WET2935.txt|.|14
+blue jackets|.|WET5402.txt|.|14
+customer service check|.|WET2358.txt|.|11
+cooking class|.|WET2996.txt|.|4
+customer favorites|.|WET5003.txt|.|35
+podcasts|.|WET2521.txt|.|18|.|WET5402.txt|.|20|.|WET2109.txt|.|18|.|WET1655.txt|.|30|.|WET1049.txt|.|16
+winner|.|WET1105.txt|.|167
+school sports|.|WET3304.txt|.|6|.|WET4503.txt|.|15|.|WET5402.txt|.|16
+remove selection|.|WET71.txt|.|35
+wikimedia commons|.|WET3416.txt|.|18
+new customer|.|WET6112.txt|.|6|.|WET1206.txt|.|3

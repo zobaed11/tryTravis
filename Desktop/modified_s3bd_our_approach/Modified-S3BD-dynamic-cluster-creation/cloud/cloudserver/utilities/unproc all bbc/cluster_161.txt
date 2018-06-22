@@ -1,0 +1,64 @@
+sports interactive|.|bbc_tech_144.txt|.|2
+fighting|.|bbc_sport_421.txt|.|2
+rest of the season|.|bbc_sport_111.txt|.|2
+faults|.|bbc_sport_491.txt|.|1
+wales coach|.|bbc_sport_320.txt|.|2|.|bbc_sport_310.txt|.|2
+accounts valve|.|bbc_tech_195.txt|.|1
+tripled|.|bbc_tech_130.txt|.|1
+encounters|.|bbc_sport_188.txt|.|1
+director of rugby|.|bbc_sport_358.txt|.|2
+draws|.|bbc_sport_133.txt|.|1
+affair|.|bbc_tech_266.txt|.|2
+sands of time|.|bbc_tech_218.txt|.|2
+obtained illegally|.|bbc_tech_195.txt|.|1
+assistants|.|bbc_sport_140.txt|.|1
+games maker|.|bbc_tech_114.txt|.|1|.|bbc_tech_100.txt|.|2
+goal|.|bbc_sport_155.txt|.|3|.|bbc_sport_105.txt|.|2|.|bbc_sport_380.txt|.|3|.|bbc_sport_263.txt|.|2|.|bbc_sport_144.txt|.|3|.|bbc_sport_157.txt|.|4|.|bbc_sport_109.txt|.|4|.|bbc_sport_151.txt|.|2|.|bbc_sport_284.txt|.|2|.|bbc_sport_283.txt|.|5|.|bbc_sport_217.txt|.|5|.|bbc_sport_177.txt|.|2
+protege|.|bbc_entertainment_288.txt|.|2
+painkiller game|.|bbc_tech_140.txt|.|2
+cancellations|.|bbc_business_015.txt|.|2
+jedi|.|bbc_tech_125.txt|.|1
+good arrogance|.|bbc_sport_308.txt|.|1
+wales centre|.|bbc_sport_304.txt|.|1
+cocoa production|.|bbc_business_120.txt|.|2
+sector unions|.|bbc_politics_312.txt|.|3|.|bbc_politics_311.txt|.|3|.|bbc_politics_069.txt|.|3
+junk mail|.|bbc_tech_026.txt|.|6|.|bbc_tech_390.txt|.|2
+monfils|.|bbc_sport_463.txt|.|3
+obtained|.|bbc_tech_195.txt|.|1
+play the final|.|bbc_sport_247.txt|.|2
+bulgarian|.|bbc_sport_277.txt|.|2
+feud with his protege|.|bbc_entertainment_288.txt|.|1
+pervasive|.|bbc_tech_137.txt|.|4
+goldeneye|.|bbc_tech_245.txt|.|3
+trafford|.|bbc_sport_158.txt|.|2|.|bbc_business_317.txt|.|2
+hartson|.|bbc_sport_146.txt|.|7
+game|.|bbc_sport_335.txt|.|3|.|bbc_tech_126.txt|.|6|.|bbc_entertainment_288.txt|.|7|.|bbc_tech_266.txt|.|9|.|bbc_sport_238.txt|.|2|.|bbc_sport_483.txt|.|2|.|bbc_sport_319.txt|.|1|.|bbc_tech_160.txt|.|6|.|bbc_sport_459.txt|.|2|.|bbc_tech_195.txt|.|17|.|bbc_sport_440.txt|.|1|.|bbc_tech_169.txt|.|3|.|bbc_sport_396.txt|.|1|.|bbc_sport_221.txt|.|2|.|bbc_sport_503.txt|.|1|.|bbc_tech_144.txt|.|11|.|bbc_sport_183.txt|.|2|.|bbc_sport_140.txt|.|3|.|bbc_tech_233.txt|.|3|.|bbc_sport_309.txt|.|4|.|bbc_tech_276.txt|.|7|.|bbc_sport_198.txt|.|2|.|bbc_sport_155.txt|.|4|.|bbc_sport_236.txt|.|2|.|bbc_tech_154.txt|.|8|.|bbc_sport_507.txt|.|2|.|bbc_sport_282.txt|.|2|.|bbc_sport_401.txt|.|3|.|bbc_sport_408.txt|.|3|.|bbc_sport_358.txt|.|5|.|bbc_tech_057.txt|.|7|.|bbc_sport_320.txt|.|2|.|bbc_sport_333.txt|.|2|.|bbc_sport_491.txt|.|18|.|bbc_sport_430.txt|.|1|.|bbc_sport_218.txt|.|4|.|bbc_tech_245.txt|.|8|.|bbc_tech_139.txt|.|13|.|bbc_sport_488.txt|.|5|.|bbc_sport_276.txt|.|2|.|bbc_tech_202.txt|.|3|.|bbc_sport_410.txt|.|2|.|bbc_tech_130.txt|.|3|.|bbc_sport_349.txt|.|1|.|bbc_sport_509.txt|.|2|.|bbc_sport_323.txt|.|5|.|bbc_sport_304.txt|.|4|.|bbc_sport_366.txt|.|2|.|bbc_sport_436.txt|.|1|.|bbc_tech_140.txt|.|6|.|bbc_sport_120.txt|.|2|.|bbc_sport_421.txt|.|3|.|bbc_sport_338.txt|.|8|.|bbc_sport_308.txt|.|5|.|bbc_sport_133.txt|.|3|.|bbc_sport_310.txt|.|4|.|bbc_sport_481.txt|.|2|.|bbc_tech_311.txt|.|11|.|bbc_sport_355.txt|.|2|.|bbc_sport_342.txt|.|2|.|bbc_sport_404.txt|.|5|.|bbc_sport_231.txt|.|4|.|bbc_sport_097.txt|.|3|.|bbc_sport_360.txt|.|2|.|bbc_tech_283.txt|.|8|.|bbc_sport_352.txt|.|1|.|bbc_tech_178.txt|.|3|.|bbc_sport_115.txt|.|4|.|bbc_tech_046.txt|.|2|.|bbc_sport_247.txt|.|5|.|bbc_sport_334.txt|.|2|.|bbc_tech_348.txt|.|5|.|bbc_sport_192.txt|.|3|.|bbc_sport_301.txt|.|4|.|bbc_sport_212.txt|.|2|.|bbc_sport_158.txt|.|4|.|bbc_sport_344.txt|.|3|.|bbc_sport_326.txt|.|2|.|bbc_sport_281.txt|.|2|.|bbc_sport_298.txt|.|3|.|bbc_sport_510.txt|.|2|.|bbc_sport_303.txt|.|3|.|bbc_politics_199.txt|.|5|.|bbc_sport_316.txt|.|3|.|bbc_sport_409.txt|.|2|.|bbc_sport_427.txt|.|2|.|bbc_sport_141.txt|.|2|.|bbc_sport_332.txt|.|3|.|bbc_tech_171.txt|.|6|.|bbc_sport_111.txt|.|5|.|bbc_sport_219.txt|.|6|.|bbc_tech_125.txt|.|5|.|bbc_sport_474.txt|.|2|.|bbc_tech_218.txt|.|4|.|bbc_tech_112.txt|.|2|.|bbc_sport_253.txt|.|5|.|bbc_sport_283.txt|.|4|.|bbc_tech_024.txt|.|6|.|bbc_sport_179.txt|.|4|.|bbc_sport_305.txt|.|2|.|bbc_tech_325.txt|.|3|.|bbc_sport_119.txt|.|4|.|bbc_sport_267.txt|.|2|.|bbc_sport_128.txt|.|2|.|bbc_sport_241.txt|.|2|.|bbc_sport_284.txt|.|3|.|bbc_tech_114.txt|.|2|.|bbc_sport_215.txt|.|3|.|bbc_sport_277.txt|.|4|.|bbc_sport_420.txt|.|2|.|bbc_tech_082.txt|.|2|.|bbc_sport_110.txt|.|2|.|bbc_sport_188.txt|.|1|.|bbc_sport_339.txt|.|2|.|bbc_sport_480.txt|.|3|.|bbc_sport_371.txt|.|15|.|bbc_sport_367.txt|.|3|.|bbc_sport_290.txt|.|3|.|bbc_tech_095.txt|.|11|.|bbc_tech_005.txt|.|6|.|bbc_sport_341.txt|.|2|.|bbc_sport_435.txt|.|2|.|bbc_tech_052.txt|.|2|.|bbc_sport_200.txt|.|2|.|bbc_sport_245.txt|.|2|.|bbc_sport_226.txt|.|2|.|bbc_sport_134.txt|.|2|.|bbc_sport_292.txt|.|2|.|bbc_sport_151.txt|.|2
+fight to finish|.|bbc_sport_183.txt|.|1
+racing|.|bbc_sport_022.txt|.|1|.|bbc_sport_031.txt|.|1
+move to birmingham|.|bbc_sport_187.txt|.|2
+family friend|.|bbc_entertainment_043.txt|.|1|.|bbc_entertainment_356.txt|.|1
+amro|.|bbc_business_297.txt|.|3
+million units|.|bbc_business_410.txt|.|2
+james|.|bbc_entertainment_347.txt|.|2|.|bbc_sport_060.txt|.|2|.|bbc_tech_245.txt|.|3|.|bbc_politics_039.txt|.|6|.|bbc_business_337.txt|.|2|.|bbc_entertainment_333.txt|.|2|.|bbc_entertainment_263.txt|.|2|.|bbc_sport_139.txt|.|12|.|bbc_sport_097.txt|.|3
+ludovic valbon|.|bbc_sport_344.txt|.|2|.|bbc_sport_332.txt|.|2
+range|.|bbc_tech_290.txt|.|4|.|bbc_sport_303.txt|.|1|.|bbc_politics_035.txt|.|2|.|bbc_tech_116.txt|.|4
+srichaphan|.|bbc_sport_451.txt|.|2
+mini heralds|.|bbc_tech_336.txt|.|1
+nadal to serve|.|bbc_sport_491.txt|.|1
+science fiction|.|bbc_tech_139.txt|.|2
+ends|.|bbc_entertainment_288.txt|.|1
+finger|.|bbc_sport_338.txt|.|2
+knights|.|bbc_tech_125.txt|.|1
+visuals|.|bbc_tech_233.txt|.|1|.|bbc_tech_169.txt|.|1
+manager|.|bbc_sport_208.txt|.|2|.|bbc_sport_150.txt|.|2|.|bbc_sport_233.txt|.|2|.|bbc_sport_119.txt|.|5|.|bbc_sport_196.txt|.|1|.|bbc_sport_238.txt|.|2|.|bbc_sport_157.txt|.|1|.|bbc_sport_273.txt|.|1|.|bbc_sport_230.txt|.|2|.|bbc_sport_267.txt|.|1|.|bbc_sport_126.txt|.|3|.|bbc_sport_202.txt|.|3|.|bbc_tech_144.txt|.|7|.|bbc_sport_270.txt|.|3|.|bbc_sport_226.txt|.|3|.|bbc_sport_232.txt|.|6|.|bbc_sport_277.txt|.|2|.|bbc_sport_275.txt|.|2|.|bbc_entertainment_320.txt|.|3|.|bbc_sport_212.txt|.|3|.|bbc_sport_134.txt|.|3|.|bbc_sport_153.txt|.|1|.|bbc_sport_281.txt|.|1|.|bbc_sport_244.txt|.|2
+illegally|.|bbc_business_187.txt|.|2|.|bbc_business_025.txt|.|2|.|bbc_tech_195.txt|.|2
+break point|.|bbc_sport_491.txt|.|10
+officially released|.|bbc_tech_195.txt|.|2
+cent ends|.|bbc_entertainment_288.txt|.|1
+bridge could miss rest|.|bbc_sport_111.txt|.|1
+mathew tait|.|bbc_sport_308.txt|.|2
+prerogative|.|bbc_sport_277.txt|.|2
+punishment|.|bbc_sport_170.txt|.|4|.|bbc_sport_200.txt|.|1|.|bbc_sport_253.txt|.|2
+stakes|.|bbc_sport_308.txt|.|1
+bond game|.|bbc_tech_245.txt|.|1
+handled|.|bbc_sport_298.txt|.|1

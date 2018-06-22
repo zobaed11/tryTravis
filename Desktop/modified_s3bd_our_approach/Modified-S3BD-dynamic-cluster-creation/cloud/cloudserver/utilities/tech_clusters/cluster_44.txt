@@ -1,0 +1,17 @@
+44
+product|.|324.txt|.|1|.|248.txt|.|3|.|044.txt|.|1
+video gaming|.|309.txt|.|2
+intel|.|329.txt|.|5|.|019.txt|.|5|.|343.txt|.|6
+pacific|.|288.txt|.|6
+picture|.|208.txt|.|8|.|313.txt|.|2|.|201.txt|.|2|.|094.txt|.|2
+ultra|.|343.txt|.|2
+instant|.|bread.txt|.|5
+alerting|.|034.txt|.|4
+supercomputing chart|.|141.txt|.|1
+names|.|118.txt|.|6|.|239.txt|.|6|.|340.txt|.|3|.|049.txt|.|3|.|387.txt|.|6
+hacker|.|271.txt|.|2
+itunes|.|284.txt|.|7|.|148.txt|.|5
+satellite imagery|.|223.txt|.|2
+peer|.|206.txt|.|6
+ask jeeves|.|062.txt|.|9|.|081.txt|.|2|.|393.txt|.|2|.|318.txt|.|9|.|213.txt|.|7
+industries|.|005.txt|.|4

@@ -1,0 +1,91 @@
+20
+announces|.|bbc_sport_367.txt|.|1
+pattaya|.|bbc_sport_454.txt|.|2
+obikwelu|.|bbc_sport_003.txt|.|2
+taipei|.|bbc_sport_400.txt|.|2
+charities|.|bbc_sport_454.txt|.|1
+victories|.|bbc_sport_066.txt|.|1
+two mile|.|bbc_sport_032.txt|.|2
+lehmann|.|bbc_sport_194.txt|.|4
+maintain|.|bbc_sport_070.txt|.|2
+maurice|.|bbc_sport_006.txt|.|2
+guerrouj|.|bbc_sport_025.txt|.|5
+pole|.|bbc_sport_029.txt|.|2
+edwards|.|bbc_sport_012.txt|.|5|.|bbc_sport_020.txt|.|5
+merritt|.|bbc_sport_018.txt|.|2
+roger|.|bbc_sport_425.txt|.|3|.|bbc_sport_433.txt|.|3
+chinese|.|bbc_sport_400.txt|.|2
+georgia|.|bbc_sport_400.txt|.|2
+thailand|.|bbc_sport_454.txt|.|2
+cross country championships|.|bbc_sport_025.txt|.|2
+san jose|.|bbc_sport_424.txt|.|2|.|bbc_sport_426.txt|.|2|.|bbc_sport_507.txt|.|2|.|bbc_sport_509.txt|.|2
+medallists|.|bbc_sport_010.txt|.|2
+belgium|.|bbc_sport_465.txt|.|2
+vault|.|bbc_sport_029.txt|.|2
+ran|.|bbc_sport_018.txt|.|3
+respectability|.|bbc_sport_128.txt|.|2
+eyeing|.|bbc_sport_067.txt|.|1
+pole vault|.|bbc_sport_029.txt|.|2
+world champion|.|bbc_sport_010.txt|.|1
+mile|.|bbc_sport_032.txt|.|2
+gold medallists|.|bbc_sport_010.txt|.|2
+pace|.|bbc_sport_070.txt|.|2
+el|.|bbc_sport_025.txt|.|5
+hong kong|.|bbc_sport_400.txt|.|3|.|bbc_sport_374.txt|.|3|.|bbc_sport_456.txt|.|1
+qualifiers|.|bbc_sport_132.txt|.|2
+runners|.|bbc_sport_070.txt|.|2
+kong|.|bbc_sport_400.txt|.|3|.|bbc_sport_374.txt|.|3|.|bbc_sport_456.txt|.|1
+hong|.|bbc_sport_400.txt|.|3|.|bbc_sport_374.txt|.|3|.|bbc_sport_456.txt|.|2
+eerdekens|.|bbc_sport_448.txt|.|4|.|bbc_sport_502.txt|.|2
+rankings|.|bbc_sport_449.txt|.|1|.|bbc_sport_426.txt|.|1|.|bbc_sport_441.txt|.|3
+announced|.|bbc_sport_367.txt|.|1
+take part|.|bbc_sport_029.txt|.|2
+kipchoge|.|bbc_sport_076.txt|.|2
+francis obikwelu|.|bbc_sport_003.txt|.|2
+jason gardener|.|bbc_sport_010.txt|.|2
+autumn|.|bbc_sport_383.txt|.|2|.|bbc_sport_368.txt|.|4
+world number two|.|bbc_sport_441.txt|.|2
+country championships|.|bbc_sport_025.txt|.|2
+cup qualifiers|.|bbc_sport_132.txt|.|2
+captained|.|bbc_sport_367.txt|.|2
+seed|.|bbc_sport_424.txt|.|2|.|bbc_sport_435.txt|.|2|.|bbc_sport_446.txt|.|6|.|bbc_sport_427.txt|.|4|.|bbc_sport_477.txt|.|2|.|bbc_sport_511.txt|.|3|.|bbc_sport_505.txt|.|2|.|bbc_sport_459.txt|.|4|.|bbc_sport_429.txt|.|6|.|bbc_sport_457.txt|.|2|.|bbc_sport_507.txt|.|1|.|bbc_sport_509.txt|.|4|.|bbc_sport_444.txt|.|4|.|bbc_sport_425.txt|.|2|.|bbc_sport_433.txt|.|2|.|bbc_sport_434.txt|.|3|.|bbc_sport_458.txt|.|4|.|bbc_sport_428.txt|.|2|.|bbc_sport_506.txt|.|3|.|bbc_sport_452.txt|.|3|.|bbc_sport_480.txt|.|3
+world mark|.|bbc_sport_032.txt|.|1
+johnson has announced|.|bbc_sport_367.txt|.|1
+team gb|.|bbc_sport_066.txt|.|3
+world record|.|bbc_sport_053.txt|.|1|.|bbc_sport_029.txt|.|1|.|bbc_sport_006.txt|.|2|.|bbc_sport_070.txt|.|1|.|bbc_sport_005.txt|.|2
+said greene|.|bbc_sport_003.txt|.|1
+comeback|.|bbc_sport_465.txt|.|4
+olympic champion|.|bbc_sport_025.txt|.|2|.|bbc_sport_069.txt|.|3
+total|.|bbc_sport_149.txt|.|2
+ran the fastest|.|bbc_sport_018.txt|.|1
+world|.|bbc_sport_149.txt|.|3|.|bbc_sport_390.txt|.|2|.|bbc_sport_012.txt|.|3|.|bbc_sport_025.txt|.|7|.|bbc_sport_020.txt|.|3|.|bbc_sport_128.txt|.|2|.|bbc_sport_018.txt|.|7|.|bbc_sport_003.txt|.|5|.|bbc_sport_005.txt|.|3|.|bbc_sport_132.txt|.|7|.|bbc_sport_029.txt|.|2|.|bbc_sport_450.txt|.|2|.|bbc_sport_423.txt|.|3|.|bbc_sport_433.txt|.|3|.|bbc_sport_387.txt|.|2|.|bbc_sport_428.txt|.|2|.|bbc_sport_454.txt|.|2|.|bbc_sport_374.txt|.|6|.|bbc_sport_441.txt|.|5|.|bbc_sport_066.txt|.|7|.|bbc_sport_053.txt|.|3|.|bbc_sport_367.txt|.|4|.|bbc_sport_448.txt|.|3|.|bbc_sport_010.txt|.|7|.|bbc_sport_368.txt|.|4|.|bbc_sport_345.txt|.|3|.|bbc_sport_507.txt|.|2|.|bbc_sport_070.txt|.|3|.|bbc_sport_375.txt|.|5|.|bbc_sport_011.txt|.|2|.|bbc_sport_385.txt|.|2|.|bbc_sport_425.txt|.|3|.|bbc_sport_067.txt|.|3|.|bbc_sport_194.txt|.|2|.|bbc_sport_076.txt|.|4|.|bbc_sport_032.txt|.|6|.|bbc_sport_465.txt|.|3|.|bbc_sport_006.txt|.|3|.|bbc_sport_400.txt|.|6
+cup sevens|.|bbc_sport_400.txt|.|2
+world indoor|.|bbc_sport_066.txt|.|3|.|bbc_sport_032.txt|.|3
+legendary|.|bbc_sport_149.txt|.|2
+indoors|.|bbc_sport_073.txt|.|1|.|bbc_sport_012.txt|.|1|.|bbc_sport_001.txt|.|1|.|bbc_sport_020.txt|.|1|.|bbc_sport_006.txt|.|1|.|bbc_sport_055.txt|.|1
+pace but could not maintain|.|bbc_sport_070.txt|.|1
+dibaba|.|bbc_sport_005.txt|.|3
+gb|.|bbc_sport_011.txt|.|3|.|bbc_sport_066.txt|.|3|.|bbc_sport_087.txt|.|2|.|bbc_sport_068.txt|.|3
+boosted|.|bbc_sport_066.txt|.|2
+world cross country championships|.|bbc_sport_025.txt|.|2
+rugby world|.|bbc_sport_400.txt|.|2|.|bbc_sport_374.txt|.|1
+cross country|.|bbc_sport_076.txt|.|2|.|bbc_sport_025.txt|.|6|.|bbc_sport_024.txt|.|3|.|bbc_sport_078.txt|.|1|.|bbc_sport_087.txt|.|4|.|bbc_sport_013.txt|.|4|.|bbc_sport_021.txt|.|3|.|bbc_sport_074.txt|.|3
+world cross|.|bbc_sport_025.txt|.|4
+idowu|.|bbc_sport_012.txt|.|5|.|bbc_sport_020.txt|.|5
+sports|.|bbc_sport_448.txt|.|2|.|bbc_sport_046.txt|.|1
+world cup|.|bbc_sport_390.txt|.|2|.|bbc_sport_132.txt|.|6|.|bbc_sport_385.txt|.|2|.|bbc_sport_367.txt|.|3|.|bbc_sport_194.txt|.|2|.|bbc_sport_387.txt|.|2|.|bbc_sport_345.txt|.|1|.|bbc_sport_400.txt|.|4|.|bbc_sport_374.txt|.|4|.|bbc_sport_375.txt|.|5
+collins will compete|.|bbc_sport_010.txt|.|1
+fastest|.|bbc_sport_018.txt|.|2
+clear|.|bbc_sport_080.txt|.|1|.|bbc_sport_006.txt|.|1
+cross|.|bbc_sport_076.txt|.|2|.|bbc_sport_025.txt|.|6|.|bbc_sport_077.txt|.|1|.|bbc_sport_024.txt|.|3|.|bbc_sport_078.txt|.|2|.|bbc_sport_087.txt|.|4|.|bbc_sport_013.txt|.|4|.|bbc_sport_021.txt|.|3|.|bbc_sport_074.txt|.|3|.|bbc_sport_083.txt|.|2
+bekele|.|bbc_sport_032.txt|.|5
+paula radcliffe|.|bbc_sport_066.txt|.|2
+gebrselassie|.|bbc_sport_053.txt|.|4
+world number|.|bbc_sport_425.txt|.|2|.|bbc_sport_433.txt|.|2|.|bbc_sport_428.txt|.|2|.|bbc_sport_441.txt|.|3
+places|.|bbc_sport_441.txt|.|2
+meet|.|bbc_sport_070.txt|.|3
+build|.|bbc_sport_067.txt|.|1
+final match|.|bbc_sport_367.txt|.|2
+francis|.|bbc_sport_010.txt|.|1|.|bbc_sport_003.txt|.|2
+chinese taipei|.|bbc_sport_400.txt|.|2
+number two|.|bbc_sport_441.txt|.|2

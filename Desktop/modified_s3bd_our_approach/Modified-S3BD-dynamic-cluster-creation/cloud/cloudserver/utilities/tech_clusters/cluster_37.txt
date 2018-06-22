@@ -1,0 +1,17 @@
+37
+tv set|.|360.txt|.|2
+sigarchi|.|035.txt|.|5
+us shops|.|363.txt|.|1
+debut|.|359.txt|.|2
+sale|.|359.txt|.|5|.|114.txt|.|3|.|351.txt|.|3|.|160.txt|.|2
+telekom|.|365.txt|.|5
+acne|.|acne.txt|.|20
+gizmondo|.|359.txt|.|5
+search software|.|108.txt|.|5
+future|.|248.txt|.|3
+shops|.|363.txt|.|2
+handheld|.|359.txt|.|3|.|066.txt|.|3|.|084.txt|.|5|.|351.txt|.|5|.|381.txt|.|3|.|363.txt|.|4
+workshare|.|086.txt|.|3
+satellite|.|066.txt|.|5|.|381.txt|.|5|.|223.txt|.|7
+multiplayer|.|363.txt|.|2
+multiplayer gaming|.|363.txt|.|2

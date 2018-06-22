@@ -1,0 +1,17 @@
+48
+uwb|.|275.txt|.|12|.|343.txt|.|11
+usb|.|343.txt|.|3
+wireless usb|.|343.txt|.|3
+british|.|231.txt|.|2|.|204.txt|.|6
+population|.|107.txt|.|2
+wireless net|.|073.txt|.|2
+visitors|.|395.txt|.|2|.|204.txt|.|5
+extensive|.|204.txt|.|2
+real hotspot|.|073.txt|.|1
+nature reserve|.|107.txt|.|2
+wolong nature reserve|.|107.txt|.|2
+wireless|.|275.txt|.|2|.|066.txt|.|1|.|073.txt|.|9|.|381.txt|.|1|.|343.txt|.|4|.|204.txt|.|5|.|107.txt|.|4
+british library|.|204.txt|.|6
+evil|.|073.txt|.|4
+twin|.|073.txt|.|3
+wolong nature|.|107.txt|.|2

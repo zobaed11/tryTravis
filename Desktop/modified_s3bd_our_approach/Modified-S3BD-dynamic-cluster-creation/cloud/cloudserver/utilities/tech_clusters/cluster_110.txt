@@ -1,0 +1,17 @@
+110
+months|.|093.txt|.|2|.|281.txt|.|2
+gadget|.|291.txt|.|2|.|163.txt|.|2|.|172.txt|.|4|.|174.txt|.|5|.|341.txt|.|3|.|359.txt|.|6|.|072.txt|.|4|.|009.txt|.|14|.|093.txt|.|3|.|127.txt|.|4|.|363.txt|.|4|.|045.txt|.|3|.|134.txt|.|3
+remote control|.|009.txt|.|3
+powerbook|.|009.txt|.|2
+greatest gadget|.|009.txt|.|2
+priced|.|359.txt|.|2
+cabir|.|116.txt|.|10|.|290.txt|.|10
+sun|.|380.txt|.|8|.|022.txt|.|8
+annual losses|.|119.txt|.|2
+fan|.|093.txt|.|1
+artists|.|396.txt|.|7|.|145.txt|.|5
+apple powerbook|.|009.txt|.|2
+look like|.|093.txt|.|1
+sale in the us|.|359.txt|.|2
+audio|.|325.txt|.|8|.|110.txt|.|5
+email|.|314.txt|.|7|.|055.txt|.|7

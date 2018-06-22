@@ -1,0 +1,120 @@
+usage definition|.|rfc5295.txt|.|23
+sack|.|rfc4138.txt|.|22|.|rfc4460.txt|.|83|.|rfc3517.txt|.|26|.|rfc2883.txt|.|110
+internet infrastructure|.|rfc3869.txt|.|13|.|rfc2901.txt|.|34
+catalog|.|rfc304.txt|.|14|.|rfc2116.txt|.|168
+traversal problem|.|rfc4093.txt|.|18
+payload length|.|rfc2675.txt|.|20
+plain mechanism|.|rfc4616.txt|.|11
+signatory field|.|rfc2137.txt|.|20
+tml|.|rfc5811.txt|.|179|.|rfc6053.txt|.|36
+sasl|.|rfc4744.txt|.|15|.|rfc4992.txt|.|39|.|rfc2808.txt|.|29|.|rfc3163.txt|.|32|.|rfc5801.txt|.|125|.|rfc3920.txt|.|110|.|rfc2831.txt|.|44|.|rfc2595.txt|.|25|.|rfc2444.txt|.|30|.|rfc4422.txt|.|169|.|rfc5803.txt|.|4|.|rfc4513.txt|.|97|.|rfc4643.txt|.|123|.|rfc2245.txt|.|13|.|rfc4616.txt|.|37|.|rfc5802.txt|.|46|.|rfc4752.txt|.|33|.|rfc2222.txt|.|72
+tagged|.|rfc2654.txt|.|59|.|rfc5232.txt|.|13|.|rfc5041.txt|.|74
+classes august|.|rfc4594.txt|.|56
+block|.|rfc4418.txt|.|22|.|rfc3451.txt|.|37|.|rfc5052.txt|.|52|.|rfc3611.txt|.|212|.|rfc3452.txt|.|83|.|rfc3531.txt|.|8|.|rfc5735.txt|.|28|.|rfc4761.txt|.|36|.|rfc5053.txt|.|73|.|rfc2036.txt|.|8|.|rfc3566.txt|.|15|.|rfc5445.txt|.|142|.|rfc6259.txt|.|54|.|rfc4992.txt|.|88|.|rfc5093.txt|.|23|.|rfc3610.txt|.|49|.|rfc2883.txt|.|50|.|rfc4312.txt|.|20|.|rfc3450.txt|.|87|.|rfc5775.txt|.|60|.|rfc5444.txt|.|129|.|rfc3695.txt|.|106|.|rfc5401.txt|.|84|.|rfc6258.txt|.|80|.|rfc2140.txt|.|14|.|rfc4196.txt|.|19|.|rfc2040.txt|.|61|.|rfc5669.txt|.|16|.|rfc2608.txt|.|46|.|rfc3723.txt|.|166|.|rfc6260.txt|.|20|.|rfc3686.txt|.|79|.|rfc3713.txt|.|10|.|rfc5651.txt|.|49|.|rfc2994.txt|.|8|.|rfc4773.txt|.|9|.|rfc3269.txt|.|53|.|rfc5748.txt|.|4|.|rfc5404.txt|.|1|.|rfc6209.txt|.|10|.|rfc3882.txt|.|10|.|rfc2801.txt|.|899|.|rfc3602.txt|.|17|.|rfc5725.txt|.|37|.|rfc5848.txt|.|257|.|rfc3738.txt|.|40|.|rfc6130.txt|.|110|.|rfc3215.txt|.|237|.|rfc3453.txt|.|84|.|rfc4493.txt|.|39|.|rfc5613.txt|.|38|.|rfc5497.txt|.|22|.|rfc5529.txt|.|20
+macros august|.|rfc2896.txt|.|83
+compress|.|rfc4978.txt|.|45|.|rfc1977.txt|.|55
+gan informational|.|rfc2391.txt|.|18
+key derivation|.|rfc6188.txt|.|34|.|rfc5295.txt|.|46|.|rfc5869.txt|.|11|.|rfc3961.txt|.|16|.|rfc3079.txt|.|39|.|rfc5448.txt|.|33
+control client|.|rfc4006.txt|.|19
+openpgp working|.|rfc3156.txt|.|4
+format changes|.|rfc4147.txt|.|2
+media gateway|.|rfc2719.txt|.|21|.|rfc2705.txt|.|155|.|rfc4040.txt|.|4|.|rfc3992.txt|.|4|.|rfc3525.txt|.|97|.|rfc3064.txt|.|36|.|rfc2885.txt|.|96|.|rfc2805.txt|.|25
+quality monitoring|.|rfc1989.txt|.|31
+venters|.|rfc1976.txt|.|13|.|rfc1963.txt|.|22
+dns notify|.|rfc1996.txt|.|8
+apm mib|.|rfc3577.txt|.|22
+requested|.|rfc6171.txt|.|3|.|rfc5247.txt|.|3|.|rfc4006.txt|.|54|.|rfc41.txt|.|1|.|rfc5749.txt|.|13|.|rfc494.txt|.|1|.|rfc5580.txt|.|12|.|rfc4433.txt|.|88|.|rfc6156.txt|.|6|.|rfc53.txt|.|1
+cip architecture|.|rfc2651.txt|.|18
+instant messaging or presence|.|rfc3861.txt|.|5
+sdh|.|rfc4257.txt|.|50|.|rfc4207.txt|.|11|.|rfc4606.txt|.|60
+interoperation of cls|.|rfc2381.txt|.|42
+farrell|.|rfc3767.txt|.|28|.|rfc3185.txt|.|12|.|rfc2906.txt|.|27|.|rfc5327.txt|.|16|.|rfc5755.txt|.|55|.|rfc3157.txt|.|23
+transparency|.|rfc2775.txt|.|47|.|rfc4924.txt|.|50
+dskpp server|.|rfc6063.txt|.|153
+submission servers|.|rfc5550.txt|.|17
+sdtp packets|.|rfc1963.txt|.|10
+midcom agent|.|rfc3303.txt|.|72
+security gateway|.|rfc3456.txt|.|46|.|rfc4301.txt|.|59
+watcher list|.|rfc3858.txt|.|4
+authorization service|.|rfc4484.txt|.|18
+feedback reports|.|rfc5965.txt|.|33
+urn definition|.|rfc4246.txt|.|6|.|rfc4617.txt|.|7
+sava|.|rfc5210.txt|.|69
+key sequence|.|rfc2897.txt|.|19
+ipp object|.|rfc2639.txt|.|101|.|rfc3196.txt|.|118
+sharing transaction fraud|.|rfc5941.txt|.|27
+information server|.|rfc2654.txt|.|10
+sacred|.|rfc3760.txt|.|52|.|rfc3157.txt|.|37
+architecture and framework|.|rfc5828.txt|.|2|.|rfc6060.txt|.|3|.|rfc3303.txt|.|35
+research funding recommendations august|.|rfc3869.txt|.|29
+notify operation|.|rfc3859.txt|.|18
+caused|.|rfc4006.txt|.|2
+index object|.|rfc2654.txt|.|68|.|rfc2652.txt|.|21|.|rfc2651.txt|.|43|.|rfc2655.txt|.|20
+users august|.|rfc2664.txt|.|10
+diameter credit control|.|rfc4006.txt|.|15
+report type|.|rfc5965.txt|.|4
+link quality monitoring|.|rfc1989.txt|.|31
+submission|.|rfc5068.txt|.|63|.|rfc5744.txt|.|42|.|rfc4865.txt|.|14|.|rfc5321.txt|.|18|.|rfc2476.txt|.|51|.|rfc510.txt|.|3|.|rfc5383.txt|.|20|.|rfc5742.txt|.|18|.|rfc4550.txt|.|55|.|rfc2708.txt|.|48|.|rfc5550.txt|.|64|.|rfc2524.txt|.|93|.|rfc479.txt|.|6|.|rfc4409.txt|.|57|.|rfc4228.txt|.|94|.|rfc4468.txt|.|33|.|rfc5620.txt|.|22|.|rfc543.txt|.|18
+stuffing|.|rfc4814.txt|.|50|.|rfc3676.txt|.|12|.|rfc2646.txt|.|4
+lsnat august|.|rfc2391.txt|.|17
+verifications|.|rfc214.txt|.|2
+terminationid|.|rfc2885.txt|.|96
+transport august|.|rfc5734.txt|.|12
+wenzel|.|rfc2901.txt|.|34
+nsid|.|rfc5001.txt|.|62
+presence service|.|rfc2778.txt|.|41|.|rfc3859.txt|.|14
+lemonade message|.|rfc5550.txt|.|45
+requested service|.|rfc6171.txt|.|1|.|rfc4006.txt|.|22|.|rfc5749.txt|.|4
+virtual terminal|.|rfc377.txt|.|4
+compress command|.|rfc4978.txt|.|3
+document mappings|.|rfc2648.txt|.|2
+mname field|.|rfc1996.txt|.|2
+rmon pi|.|rfc2896.txt|.|84
+session load|.|rfc2391.txt|.|9
+srv rr|.|rfc4985.txt|.|14|.|rfc2052.txt|.|20|.|rfc5864.txt|.|14|.|rfc2782.txt|.|25
+atm network|.|rfc2381.txt|.|38
+bierman|.|rfc4133.txt|.|67|.|rfc6087.txt|.|28|.|rfc2896.txt|.|89|.|rfc2895.txt|.|47|.|rfc3395.txt|.|24|.|rfc3433.txt|.|21|.|rfc2737.txt|.|60|.|rfc3434.txt|.|27|.|rfc2037.txt|.|38
+tba|.|rfc4484.txt|.|14
+meeting announcement|.|rfc453.txt|.|1|.|rfc188.txt|.|2
+urn namespace for ietf|.|rfc2648.txt|.|30
+service classes august|.|rfc4594.txt|.|56
+guidelines for diffserv|.|rfc4594.txt|.|57
+tagged index object|.|rfc2654.txt|.|48
+profiles august|.|rfc4164.txt|.|20
+terminology and considerations|.|rfc2663.txt|.|30
+streaming service|.|rfc6064.txt|.|8|.|rfc4594.txt|.|12|.|rfc4396.txt|.|7
+interoperation|.|rfc2825.txt|.|3|.|rfc2381.txt|.|45|.|rfc5790.txt|.|7
+design team|.|rfc3833.txt|.|4|.|rfc3248.txt|.|4
+syn|.|rfc5961.txt|.|28|.|rfc3360.txt|.|65|.|rfc5562.txt|.|48|.|rfc4987.txt|.|147|.|rfc6191.txt|.|27
+network host measurements|.|rfc557.txt|.|2
+cridland|.|rfc6075.txt|.|10|.|rfc4731.txt|.|10|.|rfc5550.txt|.|46|.|rfc5524.txt|.|11
+abc software|.|rfc4617.txt|.|4
+fragmentation and reassembly|.|rfc4623.txt|.|34
+dccp august|.|rfc5634.txt|.|21
+compress extension|.|rfc4978.txt|.|11
+enumservice august|.|rfc4969.txt|.|6
+fast reroute|.|rfc5714.txt|.|21|.|rfc4561.txt|.|9
+configuration option format|.|rfc1979.txt|.|3
+holdrege|.|rfc2663.txt|.|32
+inform authorization|.|rfc4484.txt|.|1
+base context|.|rfc4164.txt|.|43
+cromwell|.|rfc2897.txt|.|37
+emulation|.|rfc5542.txt|.|4|.|rfc4816.txt|.|4|.|rfc5087.txt|.|32|.|rfc4842.txt|.|68|.|rfc4446.txt|.|6|.|rfc4197.txt|.|26|.|rfc5143.txt|.|32|.|rfc5086.txt|.|60|.|rfc5611.txt|.|13|.|rfc6240.txt|.|24|.|rfc5287.txt|.|17|.|rfc2834.txt|.|13|.|rfc5960.txt|.|11|.|rfc4553.txt|.|18
+tla|.|rfc2928.txt|.|11
+caused the failure|.|rfc4006.txt|.|2
+bsd compress|.|rfc1977.txt|.|48
+infrastructure guide|.|rfc2901.txt|.|30
+parameter august|.|rfc2646.txt|.|13
+new york|.|rfc551.txt|.|3
+jumbograms|.|rfc2147.txt|.|10|.|rfc2675.txt|.|20
+transaction fraud|.|rfc5941.txt|.|36
+cip august|.|rfc2654.txt|.|23|.|rfc2652.txt|.|21
+tls august|.|rfc5246.txt|.|103
+unwanted traffic august|.|rfc4948.txt|.|42
+york|.|rfc551.txt|.|3
+savola|.|rfc5294.txt|.|16|.|rfc4459.txt|.|16
+borman|.|rfc2147.txt|.|6|.|rfc2675.txt|.|12
+tls|.|rfc4680.txt|.|31|.|rfc4642.txt|.|96|.|rfc3943.txt|.|86|.|rfc4507.txt|.|70|.|rfc5281.txt|.|105|.|rfc6091.txt|.|22|.|rfc4279.txt|.|57|.|rfc5422.txt|.|101|.|rfc4366.txt|.|117|.|rfc4217.txt|.|134|.|rfc5425.txt|.|55|.|rfc5054.txt|.|49|.|rfc6066.txt|.|93|.|rfc5430.txt|.|69|.|rfc4681.txt|.|30|.|rfc6209.txt|.|24|.|rfc4261.txt|.|57|.|rfc5246.txt|.|332|.|rfc5929.txt|.|93|.|rfc6042.txt|.|32|.|rfc5216.txt|.|196|.|rfc5746.txt|.|68|.|rfc2716.txt|.|197|.|rfc5539.txt|.|45|.|rfc2818.txt|.|32|.|rfc2595.txt|.|76|.|rfc5630.txt|.|134|.|rfc5487.txt|.|30|.|rfc4712.txt|.|73|.|rfc4513.txt|.|84|.|rfc4851.txt|.|257|.|rfc3546.txt|.|109|.|rfc4975.txt|.|35|.|rfc5953.txt|.|154|.|rfc2246.txt|.|204|.|rfc5153.txt|.|23|.|rfc2830.txt|.|109|.|rfc5077.txt|.|78
+machines|.|rfc5609.txt|.|64
+metric composition|.|rfc5835.txt|.|24
+control august|.|rfc4633.txt|.|6|.|rfc4606.txt|.|24

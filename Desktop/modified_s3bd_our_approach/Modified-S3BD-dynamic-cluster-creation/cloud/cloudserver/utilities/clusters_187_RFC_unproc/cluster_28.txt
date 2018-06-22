@@ -1,0 +1,120 @@
+desanti standards|.|rfc3831.txt|.|24
+cc type|.|rfc5085.txt|.|32
+channel|.|rfc6230.txt|.|153|.|rfc5795.txt|.|67|.|rfc4044.txt|.|217|.|rfc4338.txt|.|105|.|rfc5885.txt|.|36|.|rfc3816.txt|.|51|.|rfc5567.txt|.|27|.|rfc6002.txt|.|27|.|rfc4204.txt|.|190|.|rfc4947.txt|.|25|.|rfc5718.txt|.|28|.|rfc4867.txt|.|19|.|rfc4327.txt|.|99|.|rfc5801.txt|.|101|.|rfc5857.txt|.|16|.|rfc3831.txt|.|72|.|rfc4595.txt|.|73|.|rfc150.txt|.|42|.|rfc5586.txt|.|75|.|rfc4626.txt|.|88|.|rfc3759.txt|.|136|.|rfc5573.txt|.|40|.|rfc3267.txt|.|40|.|rfc4631.txt|.|100|.|rfc4369.txt|.|18|.|rfc4935.txt|.|91|.|rfc5324.txt|.|284|.|rfc4439.txt|.|134|.|rfc591.txt|.|2|.|rfc4625.txt|.|55|.|rfc5811.txt|.|86|.|rfc4706.txt|.|127|.|rfc2625.txt|.|100|.|rfc3643.txt|.|31|.|rfc3723.txt|.|28|.|rfc5554.txt|.|26|.|rfc4385.txt|.|28|.|rfc5403.txt|.|51|.|rfc4438.txt|.|108|.|rfc6172.txt|.|27|.|rfc311.txt|.|3|.|rfc2811.txt|.|309|.|rfc5244.txt|.|3|.|rfc4172.txt|.|368|.|rfc4040.txt|.|2|.|rfc4951.txt|.|42|.|rfc5802.txt|.|68|.|rfc3822.txt|.|9|.|rfc5085.txt|.|101|.|rfc5929.txt|.|119|.|rfc4335.txt|.|7|.|rfc4747.txt|.|28|.|rfc6173.txt|.|21|.|rfc2734.txt|.|167|.|rfc4764.txt|.|48|.|rfc5660.txt|.|38|.|rfc3738.txt|.|137|.|rfc5818.txt|.|105|.|rfc3821.txt|.|87|.|rfc4936.txt|.|78|.|rfc5387.txt|.|53|.|rfc3945.txt|.|70|.|rfc5056.txt|.|255|.|rfc4983.txt|.|94|.|rfc2127.txt|.|113|.|rfc203.txt|.|6
+channel statuses|.|rfc5818.txt|.|28
+mapping examples|.|rfc3759.txt|.|20
+management plane|.|rfc5493.txt|.|33|.|rfc5818.txt|.|15
+channels june|.|rfc5573.txt|.|7
+beep channels|.|rfc5573.txt|.|11
+hadi|.|rfc5811.txt|.|32
+vccv capability|.|rfc5085.txt|.|27
+channel bindings|.|rfc5403.txt|.|32|.|rfc5554.txt|.|21
+registered state change notifications|.|rfc4983.txt|.|15
+new consoles|.|rfc311.txt|.|1
+thomson|.|rfc5573.txt|.|11|.|rfc5964.txt|.|14
+work|.|rfc459.txt|.|1|.|rfc514.txt|.|4|.|rfc5811.txt|.|54|.|rfc3932.txt|.|14|.|rfc2860.txt|.|6
+channel name|.|rfc4438.txt|.|41
+data link layer|.|rfc2127.txt|.|13
+forwarding detection|.|rfc5881.txt|.|5|.|rfc5885.txt|.|9
+security protocols|.|rfc5324.txt|.|166|.|rfc4046.txt|.|13
+data channel status confirmation|.|rfc5818.txt|.|5
+safe channels|.|rfc2811.txt|.|12
+fabric|.|rfc3821.txt|.|116|.|rfc4936.txt|.|221|.|rfc4935.txt|.|171|.|rfc4438.txt|.|47|.|rfc4439.txt|.|190|.|rfc2837.txt|.|131|.|rfc4172.txt|.|174|.|rfc5963.txt|.|10
+webrc|.|rfc3738.txt|.|115
+multiplexor channel|.|rfc311.txt|.|2
+tml march|.|rfc5811.txt|.|27
+fibre channel frame|.|rfc4172.txt|.|23
+notifications|.|rfc5337.txt|.|17|.|rfc5362.txt|.|29|.|rfc2298.txt|.|47|.|rfc3995.txt|.|176|.|rfc3708.txt|.|7|.|rfc6080.txt|.|18|.|rfc5550.txt|.|19|.|rfc5675.txt|.|47|.|rfc5277.txt|.|105|.|rfc4660.txt|.|20|.|rfc4983.txt|.|33|.|rfc4957.txt|.|34|.|rfc5551.txt|.|70|.|rfc3464.txt|.|56|.|rfc5676.txt|.|29|.|rfc3856.txt|.|26|.|rfc3886.txt|.|11|.|rfc4235.txt|.|24
+management instance|.|rfc4044.txt|.|22
+registered state|.|rfc4983.txt|.|16
+vccv control|.|rfc5085.txt|.|29
+bi|.|rfc3759.txt|.|5
+transparent mode|.|rfc6172.txt|.|6
+fabric address|.|rfc4439.txt|.|68
+stamped|.|rfc5544.txt|.|2
+link management|.|rfc4204.txt|.|90
+registered state change|.|rfc4983.txt|.|16
+vicisano|.|rfc3695.txt|.|19
+feedback channel|.|rfc3759.txt|.|25
+nadeau standards|.|rfc5602.txt|.|31|.|rfc5603.txt|.|23|.|rfc5605.txt|.|36
+application program|.|rfc4402.txt|.|5|.|rfc178.txt|.|11|.|rfc5588.txt|.|3|.|rfc192.txt|.|15|.|rfc5179.txt|.|5|.|rfc5554.txt|.|3
+directional|.|rfc3759.txt|.|4
+ip multicast group|.|rfc2734.txt|.|10
+ogawa standards|.|rfc5811.txt|.|28
+creator|.|rfc2811.txt|.|14
+sw|.|rfc4439.txt|.|1
+channel security association|.|rfc4595.txt|.|12
+hadi salim|.|rfc5811.txt|.|32
+terminology and channel|.|rfc3759.txt|.|20
+undetected|.|rfc3385.txt|.|33
+fc sp|.|rfc5324.txt|.|1
+laat systems|.|rfc595.txt|.|5
+tls unique|.|rfc5929.txt|.|1
+mathematical software|.|rfc382.txt|.|2
+language bindings|.|rfc5554.txt|.|4
+robust header compression|.|rfc4815.txt|.|9|.|rfc3243.txt|.|5|.|rfc3816.txt|.|16|.|rfc5857.txt|.|8|.|rfc5858.txt|.|9|.|rfc3409.txt|.|10
+channel creator|.|rfc2811.txt|.|14
+request for graphics|.|rfc472.txt|.|3
+walden|.|rfc616.txt|.|2|.|rfc591.txt|.|2|.|rfc494.txt|.|1|.|rfc449.txt|.|1|.|rfc440.txt|.|2|.|rfc533.txt|.|2|.|rfc611.txt|.|5|.|rfc65.txt|.|2|.|rfc473.txt|.|2|.|rfc548.txt|.|1|.|rfc365.txt|.|3|.|rfc457.txt|.|1|.|rfc534.txt|.|3|.|rfc547.txt|.|3
+applied network|.|rfc2186.txt|.|5
+address manager|.|rfc4439.txt|.|62
+security association management|.|rfc4595.txt|.|12
+fc encapsulation|.|rfc3643.txt|.|34
+iotp payment|.|rfc3867.txt|.|203
+jeanne north|.|rfc511.txt|.|3
+internet fibre|.|rfc4172.txt|.|111
+rohc feedback|.|rfc3759.txt|.|31
+load averages|.|rfc546.txt|.|5
+channel type|.|rfc5085.txt|.|13|.|rfc5586.txt|.|24
+standards organization|.|rfc4144.txt|.|2
+channel name server|.|rfc4438.txt|.|41
+fcip|.|rfc3821.txt|.|521|.|rfc3822.txt|.|102|.|rfc4404.txt|.|234|.|rfc3723.txt|.|79
+break character|.|rfc357.txt|.|18|.|rfc560.txt|.|33
+compressors and decompressors|.|rfc3816.txt|.|5
+ach tlv|.|rfc5586.txt|.|27
+forces sctp|.|rfc5811.txt|.|28
+ipc facilities|.|rfc150.txt|.|11
+wave channel|.|rfc3738.txt|.|41
+change notifications|.|rfc6080.txt|.|9|.|rfc4983.txt|.|15
+kempf|.|rfc2614.txt|.|94|.|rfc3154.txt|.|19|.|rfc4065.txt|.|10|.|rfc3990.txt|.|2|.|rfc4830.txt|.|15
+capable atm lsrs|.|rfc2682.txt|.|13
+fibre channel security|.|rfc4595.txt|.|19
+point channel|.|rfc5056.txt|.|3
+channel delay|.|rfc2811.txt|.|14
+lmp april|.|rfc5818.txt|.|14
+control unit|.|rfc311.txt|.|2
+channel mapping|.|rfc3759.txt|.|20|.|rfc2734.txt|.|26
+channel binding type|.|rfc5929.txt|.|37
+using channel binding|.|rfc5056.txt|.|2
+channel management|.|rfc4044.txt|.|94|.|rfc2811.txt|.|19
+tnls|.|rfc496.txt|.|4
+safe|.|rfc2310.txt|.|36|.|rfc2811.txt|.|14
+server farm|.|rfc5517.txt|.|4
+oriented|.|rfc4571.txt|.|1|.|rfc2687.txt|.|13|.|rfc2513.txt|.|2
+channel work|.|rfc5811.txt|.|18
+desanti|.|rfc4439.txt|.|45|.|rfc4626.txt|.|41|.|rfc3831.txt|.|26
+bidirectional forwarding|.|rfc5881.txt|.|5|.|rfc5885.txt|.|9
+scram july|.|rfc5802.txt|.|27
+vc merging|.|rfc2682.txt|.|32
+fabric address manager|.|rfc4439.txt|.|62
+control channel|.|rfc6230.txt|.|141|.|rfc4204.txt|.|154|.|rfc5085.txt|.|78|.|rfc3945.txt|.|52|.|rfc5586.txt|.|24|.|rfc4631.txt|.|98|.|rfc5567.txt|.|25
+channel networking|.|rfc4172.txt|.|110
+isdn mib|.|rfc2127.txt|.|61
+code table|.|rfc3284.txt|.|41
+data channel status|.|rfc5818.txt|.|32
+related|.|rfc3198.txt|.|10|.|rfc6002.txt|.|8|.|rfc5829.txt|.|2|.|rfc3538.txt|.|73|.|rfc2760.txt|.|49|.|rfc4694.txt|.|2|.|rfc4040.txt|.|2|.|rfc3753.txt|.|46|.|rfc5198.txt|.|2
+security layers|.|rfc5801.txt|.|10
+channel mapping examples|.|rfc3759.txt|.|20
+sctp tml|.|rfc5811.txt|.|58
+cv types|.|rfc5885.txt|.|49
+booz allen hamilton|.|rfc5857.txt|.|4
+channel modes|.|rfc2811.txt|.|13
+williams standards|.|rfc5801.txt|.|26|.|rfc5660.txt|.|31
+state change notifications|.|rfc4983.txt|.|15
+block storage|.|rfc3723.txt|.|148
+fibre channel networking|.|rfc4172.txt|.|110
+application layer|.|rfc5056.txt|.|10
+reliable communication|.|rfc203.txt|.|5
+bfd encapsulation|.|rfc5885.txt|.|7
+internet fibre channel|.|rfc4172.txt|.|111
+data channel|.|rfc6002.txt|.|10|.|rfc4951.txt|.|14|.|rfc5818.txt|.|95

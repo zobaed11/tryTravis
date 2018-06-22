@@ -1,0 +1,17 @@
+69
+including|.|196.txt|.|3
+satellite maps|.|223.txt|.|1
+new media|.|384.txt|.|3
+viewing|.|158.txt|.|3|.|146.txt|.|3
+explosion|.|221.txt|.|3|.|384.txt|.|1
+petrol|.|307.txt|.|4
+gaming market|.|192.txt|.|2|.|351.txt|.|2
+europeans|.|158.txt|.|2|.|146.txt|.|2
+browser|.|310.txt|.|6|.|196.txt|.|8|.|089.txt|.|6|.|020.txt|.|10|.|138.txt|.|8
+source movement|.|029.txt|.|3
+club|.|277.txt|.|2
+analysts jupiter|.|146.txt|.|2
+nuclear|.|105.txt|.|7
+human|.|207.txt|.|2|.|121.txt|.|6
+possibly|.|154.txt|.|2
+colours|.|323.txt|.|3|.|051.txt|.|3

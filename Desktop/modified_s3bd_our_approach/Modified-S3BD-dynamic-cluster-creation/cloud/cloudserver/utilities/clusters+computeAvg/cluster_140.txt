@@ -1,0 +1,38 @@
+140
+awards held|.|WET6184.txt|.|129
+studio|.|WET4000.txt|.|60|.|WET3346.txt|.|21|.|WET1194.txt|.|25|.|WET2601.txt|.|14|.|WET5155.txt|.|55|.|WET1049.txt|.|19|.|WET5896.txt|.|10
+francisco|.|WET424.txt|.|17|.|WET4582.txt|.|74|.|WET2861.txt|.|36|.|WET2860.txt|.|75|.|WET1481.txt|.|18|.|WET4604.txt|.|43|.|WET3895.txt|.|8|.|WET5155.txt|.|77
+tampa|.|WET3378.txt|.|30|.|WET424.txt|.|16|.|WET4613.txt|.|24|.|WET873.txt|.|30|.|WET3901.txt|.|22|.|WET3008.txt|.|89
+held|.|WET6184.txt|.|132|.|WET3863.txt|.|111
+state san|.|WET3172.txt|.|12
+brothers|.|WET4582.txt|.|8|.|WET5.txt|.|4|.|WET6166.txt|.|26
+san antonio|.|WET2442.txt|.|180|.|WET6184.txt|.|369|.|WET6185.txt|.|402|.|WET5765.txt|.|140|.|WET1563.txt|.|20
+granular|.|WET5000.txt|.|2|.|WET3758.txt|.|2|.|WET4945.txt|.|2|.|WET1192.txt|.|4|.|WET2604.txt|.|2
+swim mask|.|WET3002.txt|.|8
+used|.|WET4979.txt|.|54|.|WET3915.txt|.|243|.|WET1428.txt|.|185|.|WET5468.txt|.|16|.|WET1226.txt|.|25|.|WET169.txt|.|129|.|WET1725.txt|.|60|.|WET1225.txt|.|58|.|WET4978.txt|.|81|.|WET1651.txt|.|36|.|WET3916.txt|.|244|.|WET2596.txt|.|72|.|WET3525.txt|.|19
+flat rate|.|WET874.txt|.|13
+ffvs|.|WET6293.txt|.|86
+diego reader|.|WET2818.txt|.|15
+estately|.|WET2860.txt|.|22
+neutrality|.|WET6092.txt|.|16
+vinyl|.|WET7.txt|.|21|.|WET5155.txt|.|55
+san francisco|.|WET424.txt|.|16|.|WET4582.txt|.|73|.|WET2860.txt|.|75|.|WET4604.txt|.|43|.|WET3895.txt|.|6|.|WET5155.txt|.|77
+nvidia|.|WET4053.txt|.|8
+san|.|WET424.txt|.|28|.|WET2442.txt|.|229|.|WET874.txt|.|103|.|WET172.txt|.|36|.|WET4613.txt|.|56|.|WET4582.txt|.|89|.|WET6092.txt|.|14|.|WET2998.txt|.|13|.|WET3758.txt|.|37|.|WET1481.txt|.|21|.|WET2024.txt|.|6|.|WET2818.txt|.|61|.|WET4604.txt|.|43|.|WET1563.txt|.|39|.|WET2820.txt|.|28|.|WET2819.txt|.|65|.|WET6184.txt|.|415|.|WET3172.txt|.|64|.|WET2080.txt|.|19|.|WET2860.txt|.|87|.|WET6185.txt|.|435|.|WET5765.txt|.|140|.|WET3895.txt|.|11|.|WET5155.txt|.|132
+san diego|.|WET2820.txt|.|28|.|WET2819.txt|.|58|.|WET874.txt|.|93|.|WET4613.txt|.|16|.|WET3172.txt|.|38|.|WET2998.txt|.|9|.|WET2818.txt|.|53
+fanatics retail group|.|WET874.txt|.|22|.|WET4610.txt|.|22
+doobie brothers|.|WET4582.txt|.|8
+marcos|.|WET3172.txt|.|14
+jose|.|WET6092.txt|.|13|.|WET3758.txt|.|15
+downtown|.|WET6185.txt|.|65
+tampa bay|.|WET3378.txt|.|30|.|WET4613.txt|.|24|.|WET873.txt|.|30|.|WET3901.txt|.|21
+san francisco bay|.|WET1481.txt|.|15
+vinyl vinyl|.|WET5155.txt|.|22
+chickens|.|WET1243.txt|.|22
+carpet hardwood|.|WET5155.txt|.|22
+action reports|.|WET2324.txt|.|220
+route|.|WET3522.txt|.|2|.|WET172.txt|.|11
+zimbra collaboration|.|WET422.txt|.|16
+slow|.|WET4150.txt|.|40|.|WET1148.txt|.|53|.|WET5232.txt|.|36|.|WET1481.txt|.|36|.|WET5231.txt|.|40
+laminate luxury|.|WET5155.txt|.|22
+luxury|.|WET2285.txt|.|22|.|WET5155.txt|.|22

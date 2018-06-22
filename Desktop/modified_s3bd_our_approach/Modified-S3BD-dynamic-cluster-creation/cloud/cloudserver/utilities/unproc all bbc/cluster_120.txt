@@ -1,0 +1,64 @@
+mrs simpson|.|bbc_entertainment_358.txt|.|2
+tabloids us|.|bbc_entertainment_345.txt|.|1
+charities|.|bbc_entertainment_295.txt|.|1|.|bbc_sport_454.txt|.|1
+lucas|.|bbc_entertainment_201.txt|.|4|.|bbc_entertainment_382.txt|.|3
+godfather role|.|bbc_entertainment_056.txt|.|2
+sarah|.|bbc_entertainment_214.txt|.|2
+springsteen|.|bbc_entertainment_291.txt|.|3
+rowlands died|.|bbc_entertainment_307.txt|.|1
+patsy|.|bbc_entertainment_307.txt|.|2
+lucas said|.|bbc_entertainment_382.txt|.|1
+home entertainment|.|bbc_tech_094.txt|.|3|.|bbc_tech_313.txt|.|3
+amelie|.|bbc_entertainment_308.txt|.|2|.|bbc_entertainment_068.txt|.|2
+los angeles|.|bbc_entertainment_183.txt|.|2|.|bbc_entertainment_344.txt|.|2
+star wars|.|bbc_tech_125.txt|.|5|.|bbc_tech_094.txt|.|4|.|bbc_tech_313.txt|.|4|.|bbc_entertainment_382.txt|.|4
+tennis star|.|bbc_sport_443.txt|.|2
+repeatedly|.|bbc_entertainment_056.txt|.|2
+angeles|.|bbc_entertainment_183.txt|.|2|.|bbc_entertainment_344.txt|.|2
+slater|.|bbc_entertainment_019.txt|.|5
+dates|.|bbc_entertainment_120.txt|.|2
+lush|.|bbc_entertainment_225.txt|.|2|.|bbc_entertainment_223.txt|.|3
+cent appeared|.|bbc_entertainment_282.txt|.|2
+blackground records|.|bbc_entertainment_230.txt|.|2
+adventure|.|bbc_entertainment_330.txt|.|3|.|bbc_entertainment_014.txt|.|2
+haunted|.|bbc_entertainment_237.txt|.|3
+ceremony|.|bbc_entertainment_291.txt|.|3|.|bbc_entertainment_185.txt|.|5|.|bbc_entertainment_038.txt|.|4
+simpson|.|bbc_sport_214.txt|.|2|.|bbc_entertainment_358.txt|.|2
+wars|.|bbc_tech_125.txt|.|5|.|bbc_tech_094.txt|.|4|.|bbc_entertainment_093.txt|.|2|.|bbc_tech_313.txt|.|4|.|bbc_entertainment_382.txt|.|4
+godzilla received|.|bbc_entertainment_093.txt|.|1
+fame|.|bbc_entertainment_339.txt|.|2|.|bbc_entertainment_291.txt|.|2|.|bbc_entertainment_093.txt|.|2
+gameplay|.|bbc_tech_125.txt|.|2|.|bbc_tech_135.txt|.|3
+tom hanks|.|bbc_entertainment_098.txt|.|2
+blackground|.|bbc_entertainment_230.txt|.|2
+tabloids|.|bbc_entertainment_345.txt|.|2
+entertainment|.|bbc_business_422.txt|.|3|.|bbc_tech_215.txt|.|2|.|bbc_entertainment_319.txt|.|5|.|bbc_tech_094.txt|.|3|.|bbc_entertainment_313.txt|.|3|.|bbc_tech_363.txt|.|3|.|bbc_business_208.txt|.|2|.|bbc_tech_167.txt|.|2|.|bbc_tech_313.txt|.|3|.|bbc_entertainment_052.txt|.|2
+golden globes|.|bbc_entertainment_095.txt|.|3|.|bbc_entertainment_092.txt|.|2
+schulberg|.|bbc_entertainment_056.txt|.|2
+enterprise|.|bbc_business_200.txt|.|2|.|bbc_entertainment_183.txt|.|4
+us weekly|.|bbc_entertainment_345.txt|.|2
+sheila|.|bbc_entertainment_223.txt|.|2
+battlefront|.|bbc_tech_125.txt|.|5
+hollywood boulevard|.|bbc_entertainment_093.txt|.|2
+keanu reeves|.|bbc_entertainment_339.txt|.|2
+menagerie|.|bbc_entertainment_019.txt|.|2
+weekly|.|bbc_entertainment_345.txt|.|2
+kim|.|bbc_sport_443.txt|.|3
+characters|.|bbc_tech_125.txt|.|2
+erupts|.|bbc_entertainment_214.txt|.|1
+los|.|bbc_tech_312.txt|.|3|.|bbc_entertainment_183.txt|.|2|.|bbc_entertainment_344.txt|.|2|.|bbc_tech_090.txt|.|3
+island records|.|bbc_entertainment_120.txt|.|2
+knight said|.|bbc_entertainment_237.txt|.|2
+polar|.|bbc_entertainment_036.txt|.|3
+revenge|.|bbc_entertainment_382.txt|.|2
+star|.|bbc_entertainment_232.txt|.|2|.|bbc_entertainment_339.txt|.|4|.|bbc_entertainment_151.txt|.|3|.|bbc_entertainment_308.txt|.|3|.|bbc_entertainment_068.txt|.|3|.|bbc_entertainment_291.txt|.|1|.|bbc_entertainment_012.txt|.|2|.|bbc_entertainment_317.txt|.|2|.|bbc_entertainment_237.txt|.|2|.|bbc_entertainment_038.txt|.|2|.|bbc_entertainment_335.txt|.|1|.|bbc_entertainment_120.txt|.|2|.|bbc_entertainment_040.txt|.|1|.|bbc_entertainment_295.txt|.|1|.|bbc_entertainment_176.txt|.|2|.|bbc_entertainment_282.txt|.|2|.|bbc_entertainment_212.txt|.|2|.|bbc_entertainment_230.txt|.|2|.|bbc_entertainment_056.txt|.|2|.|bbc_tech_094.txt|.|5|.|bbc_tech_313.txt|.|5|.|bbc_sport_443.txt|.|2|.|bbc_entertainment_095.txt|.|4|.|bbc_entertainment_183.txt|.|9|.|bbc_entertainment_345.txt|.|2|.|bbc_entertainment_049.txt|.|1|.|bbc_entertainment_358.txt|.|2|.|bbc_entertainment_036.txt|.|2|.|bbc_entertainment_382.txt|.|4|.|bbc_entertainment_064.txt|.|2|.|bbc_entertainment_214.txt|.|4|.|bbc_entertainment_330.txt|.|3|.|bbc_sport_385.txt|.|1|.|bbc_tech_125.txt|.|5|.|bbc_entertainment_098.txt|.|1|.|bbc_sport_262.txt|.|1|.|bbc_entertainment_019.txt|.|2|.|bbc_entertainment_307.txt|.|2|.|bbc_entertainment_093.txt|.|5|.|bbc_entertainment_117.txt|.|1|.|bbc_entertainment_223.txt|.|2
+february return|.|bbc_sport_443.txt|.|1
+rap star|.|bbc_entertainment_117.txt|.|1
+leicester square|.|bbc_entertainment_036.txt|.|2
+who played|.|bbc_entertainment_176.txt|.|2
+killed|.|bbc_entertainment_230.txt|.|2
+monster|.|bbc_entertainment_093.txt|.|2
+cent has said|.|bbc_entertainment_282.txt|.|1
+french actress|.|bbc_entertainment_308.txt|.|2|.|bbc_entertainment_068.txt|.|2
+hall of fame|.|bbc_entertainment_291.txt|.|2
+highlights|.|bbc_entertainment_214.txt|.|2
+starring in a friends|.|bbc_entertainment_176.txt|.|1

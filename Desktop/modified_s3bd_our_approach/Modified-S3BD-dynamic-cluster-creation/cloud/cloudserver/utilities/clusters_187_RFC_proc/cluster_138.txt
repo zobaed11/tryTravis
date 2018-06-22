@@ -1,0 +1,120 @@
+author domain
+recommendations for chinese
+identity november
+domain names
+identity assessor
+idna march
+relationships
+host objects
+internet registry information
+false assumptions
+sdid
+convention for using legal
+registry information
+curve domain
+domain object
+tessman
+level domain
+vpws
+based names
+dlv domain
+deployment scenario
+standard curves
+intra domain
+sender policy framework
+traditional chinese
+vpws oam
+map characters
+tlds
+government internet
+grace period
+vpn domain
+domain
+domain certs
+names october
+dnsnet
+ethernet automatic protection
+assumptions february
+masc domain
+process of standardizing
+internationalized domain names
+dod nic
+using legal names as domain
+federal networking council
+curve domain parameters
+initially derived
+domain administrative
+federal
+name allocation
+brainpool standard
+jet guidelines
+second level
+sex considered
+synthesis
+provisioning protocol
+auid
+gustafsson standards
+legal names
+internet domain
+domain assurance council
+service names
+certs
+domain based
+reflections on the dns
+tld dit
+federal networking
+use of arabic
+recursing nameservers
+viagenie
+assessor
+labels in the domain name
+desired services
+srivastava informational
+legal
+dnsnet september
+administrative data
+extreme
+nameprep march
+network asserted identity
+recommendations for chinese domain
+intra
+domain registry
+dnssec aware
+using legal
+domain framework
+chinese characters
+internet registry information service
+ace prefix
+multi domain
+considered dangerous
+ddds application
+provider oam
+single administrative domain
+signing domain
+oam domain
+terminal naptr
+trust relationships
+registrar protocol
+blanchet viagenie
+configuration request
+srivastava
+domain parameters
+full copyright
+domain administrative data
+trust authority
+exchange delegation record
+class keyword
+networking council
+names february
+idna rationale august
+domain to be local
+domain name allocation
+recommendations for chinese domain names
+adsp august
+contextual rules
+plzak
+sigs
+message error
+initially
+toascii
+resolver support of dnssec

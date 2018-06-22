@@ -1,0 +1,38 @@
+116
+grado|.|WET4400.txt|.|36
+air tools|.|WET3120.txt|.|4
+lucky eagle|.|WET947.txt|.|18
+thamar|.|WET1422.txt|.|16
+alfa|.|WET1224.txt|.|15
+track your order|.|WET5745.txt|.|8
+dollar|.|WET1454.txt|.|77|.|WET1293.txt|.|40|.|WET2793.txt|.|330|.|WET5042.txt|.|25
+oxford|.|WET2575.txt|.|110|.|WET6314.txt|.|80|.|WET6313.txt|.|81
+enrichment|.|WET6264.txt|.|16
+make a decision|.|WET3869.txt|.|3|.|WET3901.txt|.|1|.|WET4071.txt|.|2
+mobile computing|.|WET943.txt|.|40
+birmingham|.|WET101.txt|.|83|.|WET1319.txt|.|57|.|WET5069.txt|.|92|.|WET3847.txt|.|111
+checkered flag|.|WET3850.txt|.|30
+certificate send|.|WET2139.txt|.|8
+chiefs|.|WET5223.txt|.|41|.|WET1471.txt|.|36|.|WET5222.txt|.|158|.|WET190.txt|.|24|.|WET1470.txt|.|137
+hue adjustment|.|WET759.txt|.|16
+protein|.|WET5668.txt|.|113|.|WET1928.txt|.|45|.|WET1503.txt|.|242|.|WET2705.txt|.|32|.|WET5254.txt|.|349|.|WET5911.txt|.|204
+ceiling lights|.|WET2215.txt|.|72|.|WET5953.txt|.|55|.|WET3658.txt|.|10
+businesses|.|WET5418.txt|.|4|.|WET2560.txt|.|12|.|WET5218.txt|.|31|.|WET201.txt|.|18
+expo|.|WET1040.txt|.|46
+play on spotify|.|WET2224.txt|.|64
+blossom|.|WET1461.txt|.|16|.|WET5212.txt|.|79
+teamscorehome|.|WET3262.txt|.|176
+twittercondividi|.|WET4759.txt|.|6
+unlove|.|WET2224.txt|.|64|.|WET5962.txt|.|18
+drill|.|WET4348.txt|.|5|.|WET5746.txt|.|4|.|WET3120.txt|.|26|.|WET1961.txt|.|8
+iconics|.|WET5502.txt|.|32
+warranties|.|WET3524.txt|.|40
+alex|.|WET2090.txt|.|73|.|WET5834.txt|.|75|.|WET1143.txt|.|53
+news sports|.|WET2004.txt|.|17
+middle east|.|WET5165.txt|.|60|.|WET2366.txt|.|5
+pride|.|WET1940.txt|.|30|.|WET2712.txt|.|184|.|WET2713.txt|.|152|.|WET1795.txt|.|21
+grade|.|WET2143.txt|.|123|.|WET5884.txt|.|125|.|WET210.txt|.|25
+organizers|.|WET5923.txt|.|84
+erlanger|.|WET1760.txt|.|24
+questions general|.|WET1540.txt|.|12
+honorable|.|WET2494.txt|.|25

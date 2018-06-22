@@ -1,0 +1,64 @@
+dallas|.|bbc_sport_147.txt|.|2
+report says|.|bbc_tech_074.txt|.|1|.|bbc_politics_130.txt|.|1|.|bbc_business_285.txt|.|2
+putting|.|bbc_tech_055.txt|.|1|.|bbc_politics_222.txt|.|1|.|bbc_tech_143.txt|.|2|.|bbc_tech_314.txt|.|1
+satellite maps|.|bbc_tech_223.txt|.|1
+old mobile|.|bbc_tech_017.txt|.|2
+official|.|bbc_sport_487.txt|.|1|.|bbc_tech_002.txt|.|2|.|bbc_politics_076.txt|.|2|.|bbc_sport_002.txt|.|1|.|bbc_entertainment_278.txt|.|5|.|bbc_politics_015.txt|.|1
+blair backs|.|bbc_politics_021.txt|.|1|.|bbc_politics_356.txt|.|1
+attempt|.|bbc_politics_006.txt|.|4
+abba|.|bbc_entertainment_265.txt|.|3
+robotic|.|bbc_tech_229.txt|.|3
+dominate|.|bbc_tech_242.txt|.|2|.|bbc_tech_337.txt|.|1|.|bbc_tech_045.txt|.|2|.|bbc_tech_341.txt|.|2
+manslaughter|.|bbc_politics_178.txt|.|2
+national theatre|.|bbc_entertainment_008.txt|.|2
+merger talk|.|bbc_business_417.txt|.|1
+join sunderland|.|bbc_sport_130.txt|.|1
+subs not used|.|bbc_sport_214.txt|.|2|.|bbc_sport_225.txt|.|2|.|bbc_sport_224.txt|.|2
+hiv|.|bbc_business_482.txt|.|6
+fao|.|bbc_business_067.txt|.|5
+awaiting|.|bbc_entertainment_279.txt|.|2|.|bbc_sport_147.txt|.|1
+hugh|.|bbc_sport_147.txt|.|2
+common practice|.|bbc_politics_174.txt|.|3
+da vinci|.|bbc_entertainment_009.txt|.|3|.|bbc_entertainment_376.txt|.|6|.|bbc_entertainment_098.txt|.|2|.|bbc_entertainment_308.txt|.|2|.|bbc_entertainment_068.txt|.|2
+uk banking|.|bbc_business_417.txt|.|2
+programmes|.|bbc_tech_216.txt|.|3|.|bbc_tech_070.txt|.|4|.|bbc_entertainment_313.txt|.|3|.|bbc_tech_011.txt|.|10
+double|.|bbc_entertainment_221.txt|.|2|.|bbc_sport_066.txt|.|5|.|bbc_entertainment_187.txt|.|2|.|bbc_tech_242.txt|.|2|.|bbc_entertainment_284.txt|.|2|.|bbc_sport_075.txt|.|3|.|bbc_sport_068.txt|.|1|.|bbc_sport_491.txt|.|2|.|bbc_sport_057.txt|.|6|.|bbc_tech_181.txt|.|2
+opportunity|.|bbc_politics_049.txt|.|2|.|bbc_sport_420.txt|.|2|.|bbc_sport_119.txt|.|2|.|bbc_politics_231.txt|.|2
+countries|.|bbc_business_130.txt|.|2|.|bbc_business_340.txt|.|3|.|bbc_politics_078.txt|.|3|.|bbc_business_482.txt|.|3|.|bbc_business_296.txt|.|9|.|bbc_business_495.txt|.|9|.|bbc_business_285.txt|.|2|.|bbc_politics_135.txt|.|3|.|bbc_politics_127.txt|.|6|.|bbc_business_478.txt|.|2|.|bbc_politics_093.txt|.|1|.|bbc_business_058.txt|.|2|.|bbc_politics_130.txt|.|5|.|bbc_business_241.txt|.|10|.|bbc_politics_097.txt|.|5
+eu countries|.|bbc_business_285.txt|.|2
+viewers|.|bbc_tech_113.txt|.|6|.|bbc_tech_124.txt|.|6|.|bbc_tech_216.txt|.|3|.|bbc_entertainment_209.txt|.|3|.|bbc_tech_011.txt|.|2
+eurovision song|.|bbc_entertainment_172.txt|.|2
+delays|.|bbc_politics_051.txt|.|3|.|bbc_politics_076.txt|.|3|.|bbc_business_015.txt|.|1|.|bbc_entertainment_292.txt|.|1
+scottish executive|.|bbc_politics_174.txt|.|2
+narrowing|.|bbc_tech_033.txt|.|2
+said ministers|.|bbc_politics_174.txt|.|2
+option|.|bbc_business_335.txt|.|2|.|bbc_politics_116.txt|.|3|.|bbc_sport_147.txt|.|2
+world bank|.|bbc_business_076.txt|.|2|.|bbc_tech_033.txt|.|3
+cited|.|bbc_entertainment_048.txt|.|2
+camilla parker|.|bbc_politics_104.txt|.|2
+summit|.|bbc_politics_126.txt|.|3|.|bbc_politics_358.txt|.|2|.|bbc_tech_033.txt|.|2
+begg|.|bbc_politics_151.txt|.|4
+vanity|.|bbc_entertainment_061.txt|.|5
+smart|.|bbc_tech_085.txt|.|2|.|bbc_politics_076.txt|.|2
+landfill|.|bbc_tech_017.txt|.|2
+common|.|bbc_politics_174.txt|.|3
+assembly|.|bbc_politics_101.txt|.|3|.|bbc_politics_061.txt|.|3|.|bbc_politics_288.txt|.|2|.|bbc_politics_039.txt|.|8|.|bbc_politics_200.txt|.|5
+wef|.|bbc_business_482.txt|.|3
+divide|.|bbc_tech_211.txt|.|5|.|bbc_tech_033.txt|.|6|.|bbc_tech_226.txt|.|5
+honours|.|bbc_sport_090.txt|.|2
+acquisition|.|bbc_business_027.txt|.|2|.|bbc_business_201.txt|.|2|.|bbc_politics_076.txt|.|2
+british empire|.|bbc_politics_286.txt|.|2|.|bbc_politics_125.txt|.|2
+hospital|.|bbc_politics_170.txt|.|9|.|bbc_politics_174.txt|.|2|.|bbc_politics_057.txt|.|2|.|bbc_entertainment_118.txt|.|2
+chip|.|bbc_tech_350.txt|.|2|.|bbc_tech_320.txt|.|8|.|bbc_tech_018.txt|.|9|.|bbc_tech_190.txt|.|10|.|bbc_tech_319.txt|.|2|.|bbc_tech_050.txt|.|5
+said in a statement|.|bbc_politics_212.txt|.|1|.|bbc_politics_329.txt|.|1
+sell|.|bbc_tech_247.txt|.|1|.|bbc_business_160.txt|.|1|.|bbc_sport_273.txt|.|2|.|bbc_tech_160.txt|.|1|.|bbc_entertainment_267.txt|.|1|.|bbc_business_021.txt|.|2|.|bbc_tech_300.txt|.|1|.|bbc_business_274.txt|.|2|.|bbc_business_389.txt|.|1|.|bbc_business_039.txt|.|2|.|bbc_business_359.txt|.|2|.|bbc_sport_158.txt|.|3|.|bbc_business_210.txt|.|2|.|bbc_entertainment_152.txt|.|2|.|bbc_tech_285.txt|.|2|.|bbc_business_078.txt|.|3|.|bbc_business_483.txt|.|2|.|bbc_tech_304.txt|.|2|.|bbc_business_035.txt|.|2|.|bbc_politics_006.txt|.|4|.|bbc_entertainment_143.txt|.|2
+subjects|.|bbc_politics_016.txt|.|2
+job to report|.|bbc_entertainment_192.txt|.|2
+old mobile phones|.|bbc_tech_017.txt|.|2
+forum|.|bbc_business_487.txt|.|4|.|bbc_business_482.txt|.|2
+defence official|.|bbc_politics_076.txt|.|2
+earnings|.|bbc_business_298.txt|.|3|.|bbc_business_448.txt|.|2|.|bbc_business_118.txt|.|2|.|bbc_business_360.txt|.|2|.|bbc_business_508.txt|.|1|.|bbc_business_462.txt|.|5|.|bbc_politics_320.txt|.|1|.|bbc_business_326.txt|.|3|.|bbc_business_484.txt|.|2
+pc|.|bbc_tech_379.txt|.|5|.|bbc_tech_242.txt|.|8|.|bbc_tech_007.txt|.|2|.|bbc_tech_111.txt|.|5|.|bbc_tech_243.txt|.|5|.|bbc_tech_357.txt|.|2|.|bbc_tech_009.txt|.|5|.|bbc_tech_063.txt|.|2|.|bbc_tech_301.txt|.|13|.|bbc_tech_373.txt|.|3|.|bbc_tech_300.txt|.|6|.|bbc_tech_079.txt|.|3|.|bbc_business_250.txt|.|4|.|bbc_tech_057.txt|.|2|.|bbc_tech_004.txt|.|2|.|bbc_tech_021.txt|.|3|.|bbc_tech_358.txt|.|3|.|bbc_tech_244.txt|.|3|.|bbc_tech_328.txt|.|3|.|bbc_tech_060.txt|.|2
+calls|.|bbc_politics_337.txt|.|9|.|bbc_politics_366.txt|.|1|.|bbc_tech_136.txt|.|6|.|bbc_tech_042.txt|.|6|.|bbc_politics_396.txt|.|7|.|bbc_tech_339.txt|.|6|.|bbc_politics_088.txt|.|9|.|bbc_tech_251.txt|.|2|.|bbc_business_020.txt|.|5
+subsidies|.|bbc_business_424.txt|.|4|.|bbc_business_067.txt|.|5|.|bbc_business_012.txt|.|6|.|bbc_business_033.txt|.|2
+analyst|.|bbc_tech_234.txt|.|1|.|bbc_business_302.txt|.|1|.|bbc_tech_242.txt|.|1|.|bbc_business_280.txt|.|1|.|bbc_tech_389.txt|.|1|.|bbc_business_497.txt|.|2

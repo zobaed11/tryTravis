@@ -1,0 +1,120 @@
+data management system
+modules define
+data consumer
+protocol manager
+netconf and yang
+line convention
+output area
+term archive
+joint computer
+fast retransmit and fast
+channel status
+data computer
+iscsi target
+randomizing part
+spring joint
+ipfix file
+services export
+data compression
+profile type
+confirmation
+data sender
+data specification syntax
+expected to be used
+errors at high data rates
+defaults
+ifip
+shafer informational
+weather data
+cause the failure
+term archive service
+base encoded
+volatile storage
+ppp compression control protocol
+bases
+rate upstream
+dit structure
+structure to a network
+zlib compressed data
+baseline tiff
+duplicate acknowledgements
+high data
+compressed data in an internet
+demonstrating
+ppp compression
+afips
+errors at high
+withdrawal
+removefrom return data
+dataflow
+default handling basic
+committee meeting
+configuration october
+data transfer
+data model
+huffman codes
+danthine
+original dataflow
+data
+computer corporation of america
+transfer workshop notes
+afips proc
+alphabet characters
+acm sigfidet
+spring
+data placement
+data tablet graphics
+standard data
+data ack
+schneider
+external data
+structured data exchange
+mitsubishi
+verbs
+ocp agent
+tablet graphics
+communication networks
+domain accounting
+yang module
+replacement rules
+removefrom
+fast recovery
+single master
+nttdm february
+evaluating alternative
+statuses
+replacement
+export packet
+signed data
+device profile
+telnet data encryption option
+data confidentiality and integrity
+management committee
+management system
+single host
+introductory
+representation standard
+operational primitive
+define
+agnostic
+form data
+trouble
+deutsch informational
+existing data
+designed
+test the services
+data format specification
+list members
+selective
+data objects
+telnet sockets
+data management system proposal
+stern
+volatile
+order codes
+description of the data
+command sequence
+form machine
+allowed searches
+encrypted data
+handshake message for supplemental data

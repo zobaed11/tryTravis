@@ -1,0 +1,17 @@
+132
+films|.|276.txt|.|1|.|013.txt|.|8|.|279.txt|.|1|.|302.txt|.|1|.|255.txt|.|2|.|306.txt|.|2
+skulls|.|197.txt|.|9
+auto|.|178.txt|.|2|.|130.txt|.|2
+figures suggest|.|178.txt|.|1|.|130.txt|.|1
+figures|.|203.txt|.|3|.|178.txt|.|3|.|130.txt|.|3
+forecasting|.|289.txt|.|2|.|098.txt|.|2
+grid computing|.|380.txt|.|2|.|022.txt|.|2
+said the report|.|011.txt|.|2
+displays|.|367.txt|.|2
+sales have tripled|.|130.txt|.|1
+sun offers|.|380.txt|.|1|.|022.txt|.|1
+fake site|.|315.txt|.|4|.|027.txt|.|4
+uk|.|178.txt|.|5|.|130.txt|.|5|.|011.txt|.|7|.|140.txt|.|3|.|353.txt|.|4|.|129.txt|.|5|.|254.txt|.|4|.|098.txt|.|6|.|382.txt|.|1|.|265.txt|.|4|.|109.txt|.|3|.|341.txt|.|2|.|150.txt|.|5|.|289.txt|.|6|.|235.txt|.|4|.|352.txt|.|2|.|205.txt|.|5|.|013.txt|.|8|.|175.txt|.|5|.|082.txt|.|3|.|067.txt|.|1
+buying|.|235.txt|.|6
+initiating|.|180.txt|.|1|.|133.txt|.|1
+people with hand|.|353.txt|.|2

@@ -1,0 +1,113 @@
+18
+defence lawyer|.|bbc_business_087.txt|.|1
+schroeder also called|.|bbc_business_457.txt|.|1
+named|.|bbc_business_216.txt|.|1
+manchester united|.|bbc_business_293.txt|.|2|.|bbc_business_229.txt|.|3|.|bbc_business_242.txt|.|6|.|bbc_business_179.txt|.|2|.|bbc_business_209.txt|.|4
+accounting decisions|.|bbc_business_087.txt|.|1
+commit|.|bbc_business_196.txt|.|2
+shiga|.|bbc_business_216.txt|.|3
+fraud to meet|.|bbc_business_196.txt|.|2
+ebbers|.|bbc_business_196.txt|.|7|.|bbc_business_465.txt|.|5|.|bbc_business_059.txt|.|7|.|bbc_business_087.txt|.|7|.|bbc_business_246.txt|.|13|.|bbc_business_100.txt|.|10|.|bbc_business_114.txt|.|11
+club urged|.|bbc_business_209.txt|.|1
+begins|.|bbc_business_506.txt|.|1
+case|.|bbc_business_246.txt|.|3
+mr bell|.|bbc_business_452.txt|.|8
+eu reform|.|bbc_business_457.txt|.|1
+lying|.|bbc_business_114.txt|.|2
+money just for japan|.|bbc_business_234.txt|.|1
+proposal|.|bbc_business_224.txt|.|4
+mr fischer|.|bbc_business_423.txt|.|4
+fbi|.|bbc_business_497.txt|.|3
+case against mr ebbers|.|bbc_business_246.txt|.|3
+former|.|bbc_business_196.txt|.|3|.|bbc_business_197.txt|.|1|.|bbc_business_508.txt|.|2|.|bbc_business_465.txt|.|3|.|bbc_business_414.txt|.|4|.|bbc_business_336.txt|.|2|.|bbc_business_059.txt|.|2|.|bbc_business_458.txt|.|3|.|bbc_business_087.txt|.|3|.|bbc_business_403.txt|.|5|.|bbc_business_246.txt|.|4|.|bbc_business_497.txt|.|2
+innovative|.|bbc_business_146.txt|.|2
+hispano|.|bbc_business_506.txt|.|2
+oppose|.|bbc_business_224.txt|.|1
+schroeder said|.|bbc_business_457.txt|.|1
+age discrimination|.|bbc_business_382.txt|.|3
+offer proposal|.|bbc_business_224.txt|.|1
+companies reporting|.|bbc_business_397.txt|.|1
+boss|.|bbc_business_385.txt|.|2|.|bbc_business_087.txt|.|3
+amro|.|bbc_business_297.txt|.|3
+oppose mr|.|bbc_business_224.txt|.|1
+south|.|bbc_business_142.txt|.|4|.|bbc_business_218.txt|.|4|.|bbc_business_375.txt|.|3|.|bbc_business_262.txt|.|2|.|bbc_business_054.txt|.|3|.|bbc_business_055.txt|.|5|.|bbc_business_408.txt|.|5|.|bbc_business_258.txt|.|4|.|bbc_business_349.txt|.|2|.|bbc_business_356.txt|.|4|.|bbc_business_409.txt|.|11|.|bbc_business_180.txt|.|3
+million units|.|bbc_business_410.txt|.|2
+bakrie|.|bbc_business_491.txt|.|2
+james|.|bbc_business_337.txt|.|2
+dein|.|bbc_business_271.txt|.|4
+mr toshitsune|.|bbc_business_287.txt|.|3
+aurora|.|bbc_business_244.txt|.|7
+central hispano|.|bbc_business_506.txt|.|2
+poorest|.|bbc_business_241.txt|.|6|.|bbc_business_210.txt|.|2
+life cuts|.|bbc_business_206.txt|.|1
+ghosn|.|bbc_business_216.txt|.|10
+confidential us|.|bbc_business_497.txt|.|1
+recall|.|bbc_business_026.txt|.|4|.|bbc_business_081.txt|.|5
+member|.|bbc_business_114.txt|.|1
+chavez|.|bbc_business_340.txt|.|3|.|bbc_business_029.txt|.|2
+who owns|.|bbc_business_293.txt|.|1
+fbi agent|.|bbc_business_497.txt|.|2
+latest|.|bbc_business_229.txt|.|3
+supporters|.|bbc_business_209.txt|.|3
+charge|.|bbc_business_216.txt|.|4|.|bbc_business_113.txt|.|3
+aged|.|bbc_business_452.txt|.|2
+worldcom boss|.|bbc_business_087.txt|.|2
+viktor|.|bbc_business_217.txt|.|4
+started|.|bbc_business_107.txt|.|2|.|bbc_business_465.txt|.|1
+climate|.|bbc_business_504.txt|.|2
+mr schroeder|.|bbc_business_457.txt|.|5
+chief executive of fiat|.|bbc_business_189.txt|.|1
+nissan|.|bbc_business_216.txt|.|10
+board|.|bbc_business_352.txt|.|2|.|bbc_business_224.txt|.|6|.|bbc_business_229.txt|.|3|.|bbc_business_361.txt|.|1|.|bbc_business_242.txt|.|5|.|bbc_business_486.txt|.|6|.|bbc_business_209.txt|.|4|.|bbc_business_114.txt|.|3
+charlie|.|bbc_business_452.txt|.|3
+country|.|bbc_business_411.txt|.|2|.|bbc_business_199.txt|.|1|.|bbc_business_217.txt|.|3
+evidence|.|bbc_business_196.txt|.|2
+full share listing|.|bbc_business_271.txt|.|2
+officer|.|bbc_business_196.txt|.|2
+privatisations|.|bbc_business_217.txt|.|2
+case against mr|.|bbc_business_246.txt|.|3
+toshiyuki shiga|.|bbc_business_216.txt|.|2
+lagardere group|.|bbc_business_308.txt|.|2
+supporters club|.|bbc_business_209.txt|.|2
+aids|.|bbc_business_504.txt|.|2|.|bbc_business_176.txt|.|1
+stability|.|bbc_business_457.txt|.|2
+admitted|.|bbc_business_114.txt|.|1
+mr|.|bbc_business_052.txt|.|2|.|bbc_business_159.txt|.|7|.|bbc_business_146.txt|.|6|.|bbc_business_189.txt|.|7|.|bbc_business_412.txt|.|7|.|bbc_business_506.txt|.|7|.|bbc_business_367.txt|.|6|.|bbc_business_242.txt|.|13|.|bbc_business_328.txt|.|4|.|bbc_business_287.txt|.|7|.|bbc_business_209.txt|.|12|.|bbc_business_106.txt|.|7|.|bbc_business_504.txt|.|3|.|bbc_business_217.txt|.|6|.|bbc_business_087.txt|.|12|.|bbc_business_234.txt|.|2|.|bbc_business_491.txt|.|3|.|bbc_business_423.txt|.|5|.|bbc_business_224.txt|.|8|.|bbc_business_229.txt|.|13|.|bbc_business_216.txt|.|11|.|bbc_business_157.txt|.|7|.|bbc_business_246.txt|.|19|.|bbc_business_497.txt|.|9|.|bbc_business_114.txt|.|19|.|bbc_business_293.txt|.|3|.|bbc_business_196.txt|.|10|.|bbc_business_308.txt|.|9|.|bbc_business_452.txt|.|9|.|bbc_business_465.txt|.|4|.|bbc_business_241.txt|.|6|.|bbc_business_457.txt|.|6|.|bbc_business_284.txt|.|6|.|bbc_business_271.txt|.|3|.|bbc_business_444.txt|.|7|.|bbc_business_100.txt|.|13|.|bbc_business_232.txt|.|3
+deficits|.|bbc_business_328.txt|.|1
+mr bakrie|.|bbc_business_491.txt|.|1
+viktor yushchenko|.|bbc_business_217.txt|.|2
+proposals|.|bbc_business_293.txt|.|2|.|bbc_business_229.txt|.|2|.|bbc_business_209.txt|.|2
+finances|.|bbc_business_133.txt|.|1|.|bbc_business_114.txt|.|2
+fc|.|bbc_business_367.txt|.|2
+problems|.|bbc_business_087.txt|.|2
+mr yushchenko|.|bbc_business_217.txt|.|5
+detailed proposals|.|bbc_business_293.txt|.|1|.|bbc_business_229.txt|.|1|.|bbc_business_209.txt|.|1
+dozens|.|bbc_business_217.txt|.|2
+stability pact|.|bbc_business_457.txt|.|2
+died|.|bbc_business_452.txt|.|2
+insurance market|.|bbc_business_232.txt|.|2
+mr camus|.|bbc_business_308.txt|.|5
+head|.|bbc_business_002.txt|.|2|.|bbc_business_308.txt|.|1|.|bbc_business_232.txt|.|2
+aerospace group|.|bbc_business_308.txt|.|2
+taking charge|.|bbc_business_216.txt|.|1
+toshiyuki|.|bbc_business_216.txt|.|2
+mr kok|.|bbc_business_146.txt|.|3
+saying|.|bbc_business_106.txt|.|2
+lawyer|.|bbc_business_087.txt|.|1
+york court|.|bbc_business_114.txt|.|2
+declines|.|bbc_business_491.txt|.|1
+ageing|.|bbc_business_287.txt|.|2
+board member|.|bbc_business_114.txt|.|1
+mr sullivan|.|bbc_business_246.txt|.|9|.|bbc_business_100.txt|.|5
+malcolm|.|bbc_business_293.txt|.|2|.|bbc_business_242.txt|.|3
+football|.|bbc_business_219.txt|.|2|.|bbc_business_224.txt|.|5|.|bbc_business_193.txt|.|2
+demanding|.|bbc_business_234.txt|.|1
+us tycoon|.|bbc_business_224.txt|.|2|.|bbc_business_229.txt|.|2|.|bbc_business_209.txt|.|2
+club said|.|bbc_business_224.txt|.|2
+economics minister|.|bbc_business_491.txt|.|2
+eurozone|.|bbc_business_457.txt|.|2
+detailed|.|bbc_business_293.txt|.|2|.|bbc_business_229.txt|.|2|.|bbc_business_209.txt|.|2
+lagardere|.|bbc_business_308.txt|.|2
+denied|.|bbc_business_100.txt|.|4
+malcolm glazer|.|bbc_business_293.txt|.|2|.|bbc_business_242.txt|.|3
+taking|.|bbc_business_216.txt|.|1

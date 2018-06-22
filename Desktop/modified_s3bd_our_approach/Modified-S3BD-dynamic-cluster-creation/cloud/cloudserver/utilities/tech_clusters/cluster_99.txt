@@ -1,0 +1,17 @@
+99
+news|.|186.txt|.|12|.|114.txt|.|4|.|102.txt|.|2|.|354.txt|.|3|.|193.txt|.|2|.|296.txt|.|2|.|002.txt|.|2
+like device|.|229.txt|.|1
+blind|.|323.txt|.|5|.|051.txt|.|5
+visuals|.|233.txt|.|1|.|169.txt|.|1
+developers|.|243.txt|.|3|.|052.txt|.|3|.|082.txt|.|5|.|309.txt|.|5
+book|.|069.txt|.|4|.|253.txt|.|2
+blogger|.|106.txt|.|4
+war|.|288.txt|.|2
+collected|.|046.txt|.|2
+saturated|.|blood.txt|.|15
+bond|.|245.txt|.|8
+open source|.|029.txt|.|10
+mr gates|.|134.txt|.|5
+fat|.|blood.txt|.|15
+yang|.|065.txt|.|3
+duty|.|288.txt|.|6

@@ -1,0 +1,38 @@
+376
+county durham|.|WET4806.txt|.|9
+arthur|.|WET1270.txt|.|21|.|WET5021.txt|.|23
+bidding section|.|WET3365.txt|.|44
+shared contact wikitravel|.|WET4806.txt|.|10
+lansing|.|WET2376.txt|.|79|.|WET3856.txt|.|26
+joined apr|.|WET196.txt|.|50
+city|.|WET1057.txt|.|260|.|WET1197.txt|.|41|.|WET4294.txt|.|34|.|WET558.txt|.|47|.|WET5411.txt|.|47|.|WET2578.txt|.|102|.|WET5909.txt|.|22|.|WET3111.txt|.|96|.|WET5243.txt|.|61|.|WET1446.txt|.|149|.|WET1909.txt|.|52|.|WET2502.txt|.|9|.|WET5782.txt|.|33|.|WET2588.txt|.|43|.|WET2376.txt|.|125|.|WET2080.txt|.|34|.|WET2782.txt|.|48|.|WET1490.txt|.|56|.|WET982.txt|.|54|.|WET4032.txt|.|487|.|WET1270.txt|.|245|.|WET6315.txt|.|69|.|WET4350.txt|.|38|.|WET3819.txt|.|36|.|WET1491.txt|.|25|.|WET2105.txt|.|55|.|WET1059.txt|.|10|.|WET3729.txt|.|110|.|WET196.txt|.|118|.|WET3291.txt|.|66|.|WET2479.txt|.|56|.|WET5507.txt|.|44|.|WET1199.txt|.|37|.|WET6122.txt|.|96|.|WET1513.txt|.|25|.|WET5585.txt|.|41|.|WET6263.txt|.|24|.|WET6090.txt|.|108|.|WET3856.txt|.|51|.|WET3365.txt|.|206|.|WET5525.txt|.|22|.|WET5670.txt|.|53|.|WET4043.txt|.|157|.|WET3904.txt|.|36|.|WET5264.txt|.|30|.|WET3980.txt|.|90|.|WET6123.txt|.|33|.|WET927.txt|.|43|.|WET1515.txt|.|23|.|WET1647.txt|.|185|.|WET4591.txt|.|42|.|WET6190.txt|.|22|.|WET4282.txt|.|31|.|WET1929.txt|.|72|.|WET3981.txt|.|39|.|WET4956.txt|.|199|.|WET1194.txt|.|30|.|WET4806.txt|.|121|.|WET3231.txt|.|40|.|WET2377.txt|.|101|.|WET1339.txt|.|81|.|WET1369.txt|.|43|.|WET610.txt|.|15|.|WET4296.txt|.|30|.|WET4979.txt|.|63|.|WET1771.txt|.|45|.|WET2347.txt|.|119|.|WET5894.txt|.|52|.|WET1563.txt|.|38|.|WET1470.txt|.|27|.|WET3203.txt|.|276|.|WET1454.txt|.|53|.|WET6211.txt|.|40|.|WET2348.txt|.|30|.|WET5122.txt|.|30|.|WET4237.txt|.|36|.|WET5123.txt|.|50|.|WET5090.txt|.|99|.|WET5196.txt|.|129|.|WET4763.txt|.|128
+innovators|.|WET3231.txt|.|2
+city guide|.|WET1513.txt|.|22|.|WET5264.txt|.|22|.|WET1515.txt|.|12
+nearby|.|WET4591.txt|.|8
+chronicle the saginaw|.|WET2377.txt|.|33|.|WET6122.txt|.|30
+air no|.|WET3203.txt|.|13
+nearby upcoming|.|WET4591.txt|.|6
+silent|.|WET2578.txt|.|13
+jefferson city|.|WET2578.txt|.|60
+sea bay|.|WET4591.txt|.|18
+epidemic|.|WET2578.txt|.|12
+hammons field|.|WET2578.txt|.|12
+ocho|.|WET3981.txt|.|16
+ocho rios|.|WET3981.txt|.|16
+kbc questions|.|WET5909.txt|.|5
+no videos|.|WET3203.txt|.|13
+port arthur|.|WET1270.txt|.|21
+au naturel|.|WET234.txt|.|63|.|WET3980.txt|.|73
+policies student|.|WET5196.txt|.|12
+bus terminal|.|WET4806.txt|.|12
+lansing muskegon saginaw|.|WET2376.txt|.|43|.|WET3856.txt|.|19
+added listing|.|WET4806.txt|.|1
+header|.|WET3365.txt|.|44
+groups reviews|.|WET4591.txt|.|6
+durham|.|WET4806.txt|.|13
+hammons|.|WET2578.txt|.|12
+newsreader|.|WET5090.txt|.|11
+select property|.|WET3980.txt|.|10
+rooms amenities|.|WET4591.txt|.|6
+skiing company|.|WET4043.txt|.|7
+college station|.|WET3980.txt|.|10

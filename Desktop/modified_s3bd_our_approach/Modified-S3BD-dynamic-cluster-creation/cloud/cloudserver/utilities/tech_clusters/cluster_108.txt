@@ -1,0 +1,17 @@
+108
+firms said|.|304.txt|.|2|.|285.txt|.|2
+maker|.|114.txt|.|1|.|100.txt|.|3|.|350.txt|.|3
+control|.|304.txt|.|6|.|202.txt|.|4|.|166.txt|.|5|.|009.txt|.|3|.|266.txt|.|4|.|285.txt|.|6|.|279.txt|.|5|.|165.txt|.|5|.|302.txt|.|5
+launch|.|317.txt|.|2|.|025.txt|.|2|.|280.txt|.|2|.|371.txt|.|4
+people surveyed|.|321.txt|.|2
+malicious programs|.|077.txt|.|5
+persia|.|218.txt|.|3
+surveyed|.|321.txt|.|2
+content control|.|304.txt|.|3|.|285.txt|.|3
+concern over rfid tags|.|321.txt|.|1
+concern over rfid|.|321.txt|.|1
+than half|.|321.txt|.|2
+copying|.|304.txt|.|2|.|285.txt|.|2
+consumers|.|304.txt|.|11|.|183.txt|.|5|.|087.txt|.|4|.|382.txt|.|5|.|321.txt|.|7|.|222.txt|.|4|.|093.txt|.|2|.|212.txt|.|5|.|398.txt|.|3|.|285.txt|.|11|.|225.txt|.|5|.|067.txt|.|5|.|227.txt|.|3
+consumer concern|.|321.txt|.|1
+illegal copying|.|304.txt|.|2|.|285.txt|.|2

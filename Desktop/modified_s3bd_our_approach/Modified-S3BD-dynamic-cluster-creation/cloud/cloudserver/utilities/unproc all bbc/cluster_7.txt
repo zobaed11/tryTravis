@@ -1,0 +1,64 @@
+expert|.|bbc_entertainment_193.txt|.|1
+rebel|.|bbc_entertainment_178.txt|.|3
+mr irish|.|bbc_tech_127.txt|.|6|.|bbc_tech_172.txt|.|6
+dj|.|bbc_entertainment_284.txt|.|3
+suffering|.|bbc_entertainment_219.txt|.|2
+celebrity big brother|.|bbc_entertainment_203.txt|.|1
+chart show|.|bbc_entertainment_284.txt|.|4
+revamp|.|bbc_entertainment_284.txt|.|1
+advance|.|bbc_business_226.txt|.|2
+double act|.|bbc_entertainment_284.txt|.|2
+independence square|.|bbc_entertainment_213.txt|.|3
+top of the pops|.|bbc_entertainment_242.txt|.|3|.|bbc_entertainment_184.txt|.|8
+flop|.|bbc_entertainment_178.txt|.|1
+reunited|.|bbc_entertainment_213.txt|.|3|.|bbc_entertainment_265.txt|.|1
+joel|.|bbc_entertainment_284.txt|.|3
+television host|.|bbc_entertainment_219.txt|.|2
+stunt show|.|bbc_entertainment_209.txt|.|2
+american bandstand|.|bbc_entertainment_219.txt|.|2
+tech fair|.|bbc_tech_347.txt|.|1
+meeting point|.|bbc_entertainment_213.txt|.|2
+itv|.|bbc_entertainment_174.txt|.|1
+advance warning|.|bbc_business_226.txt|.|2
+award ceremonies|.|bbc_entertainment_219.txt|.|1
+digital home|.|bbc_tech_347.txt|.|3
+tufnell|.|bbc_entertainment_207.txt|.|2
+music lovers|.|bbc_entertainment_184.txt|.|2
+reality tv|.|bbc_entertainment_226.txt|.|2|.|bbc_entertainment_203.txt|.|2
+gadget show|.|bbc_tech_127.txt|.|2|.|bbc_tech_172.txt|.|2
+branson|.|bbc_entertainment_178.txt|.|1
+dead rats|.|bbc_entertainment_209.txt|.|2
+joe|.|bbc_entertainment_207.txt|.|2
+sponsor|.|bbc_business_226.txt|.|2
+theme at the show|.|bbc_tech_347.txt|.|2
+recommissioned|.|bbc_entertainment_174.txt|.|1
+show|.|bbc_business_130.txt|.|5|.|bbc_entertainment_294.txt|.|4|.|bbc_entertainment_207.txt|.|7|.|bbc_entertainment_178.txt|.|7|.|bbc_tech_347.txt|.|12|.|bbc_business_226.txt|.|3|.|bbc_entertainment_231.txt|.|8|.|bbc_entertainment_213.txt|.|2|.|bbc_entertainment_209.txt|.|5|.|bbc_entertainment_174.txt|.|5|.|bbc_politics_260.txt|.|2|.|bbc_entertainment_193.txt|.|3|.|bbc_tech_127.txt|.|3|.|bbc_entertainment_219.txt|.|2|.|bbc_entertainment_284.txt|.|12|.|bbc_entertainment_280.txt|.|7|.|bbc_entertainment_203.txt|.|5|.|bbc_entertainment_206.txt|.|4|.|bbc_tech_172.txt|.|3|.|bbc_entertainment_184.txt|.|9|.|bbc_politics_281.txt|.|2
+forensic science|.|bbc_entertainment_193.txt|.|5
+mtv show|.|bbc_entertainment_206.txt|.|1
+musical director|.|bbc_entertainment_280.txt|.|4
+watching|.|bbc_entertainment_209.txt|.|2
+minis|.|bbc_tech_127.txt|.|2|.|bbc_tech_172.txt|.|2
+show advance|.|bbc_business_226.txt|.|2
+greer said|.|bbc_entertainment_203.txt|.|2
+air show|.|bbc_business_130.txt|.|2
+osbourne|.|bbc_entertainment_268.txt|.|7|.|bbc_entertainment_141.txt|.|4|.|bbc_entertainment_206.txt|.|4
+rats|.|bbc_entertainment_209.txt|.|2
+jackie|.|bbc_entertainment_203.txt|.|2
+germaine|.|bbc_entertainment_203.txt|.|2
+programme|.|bbc_business_226.txt|.|3|.|bbc_entertainment_205.txt|.|3|.|bbc_sport_049.txt|.|2|.|bbc_sport_088.txt|.|2|.|bbc_entertainment_184.txt|.|6|.|bbc_entertainment_209.txt|.|2|.|bbc_entertainment_210.txt|.|3
+bandstand|.|bbc_entertainment_219.txt|.|2
+billionaire|.|bbc_entertainment_178.txt|.|3
+sir richard|.|bbc_entertainment_178.txt|.|2
+peaked|.|bbc_entertainment_207.txt|.|1
+greer|.|bbc_entertainment_203.txt|.|6
+revamped chart|.|bbc_entertainment_284.txt|.|1
+eating|.|bbc_entertainment_209.txt|.|1
+stunt|.|bbc_entertainment_209.txt|.|3
+show advance warning|.|bbc_business_226.txt|.|2
+angolan|.|bbc_entertainment_213.txt|.|4
+airbus|.|bbc_business_130.txt|.|3
+ipod minis|.|bbc_tech_127.txt|.|2|.|bbc_tech_172.txt|.|2
+pops|.|bbc_entertainment_242.txt|.|3|.|bbc_entertainment_184.txt|.|8
+big brother|.|bbc_entertainment_221.txt|.|5|.|bbc_entertainment_180.txt|.|2|.|bbc_entertainment_179.txt|.|2|.|bbc_entertainment_187.txt|.|2|.|bbc_entertainment_216.txt|.|2|.|bbc_entertainment_203.txt|.|5|.|bbc_entertainment_225.txt|.|3
+aerospace firms|.|bbc_business_130.txt|.|2
+phil tufnell|.|bbc_entertainment_207.txt|.|2

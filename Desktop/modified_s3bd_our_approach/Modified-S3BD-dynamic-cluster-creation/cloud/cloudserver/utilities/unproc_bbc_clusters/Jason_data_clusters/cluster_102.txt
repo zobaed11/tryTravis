@@ -1,0 +1,38 @@
+102
+features photos|.|WET485.txt|.|141|.|WET1372.txt|.|6|.|WET4232.txt|.|47
+drill press|.|WET4348.txt|.|5
+sheridan|.|WET967.txt|.|70
+industry|.|WET4883.txt|.|33|.|WET2706.txt|.|24|.|WET1137.txt|.|33|.|WET3190.txt|.|33|.|WET5710.txt|.|27
+health news news|.|WET3188.txt|.|11|.|WET3190.txt|.|11|.|WET3189.txt|.|11
+airbus helicopters|.|WET4881.txt|.|23
+press kit|.|WET485.txt|.|144|.|WET4232.txt|.|48
+millions of readers|.|WET3188.txt|.|22|.|WET3190.txt|.|22|.|WET3189.txt|.|22
+week four|.|WET4143.txt|.|27
+nominee|.|WET1485.txt|.|70
+photos world news|.|WET3188.txt|.|11|.|WET3190.txt|.|11|.|WET3189.txt|.|11
+backyard|.|WET1243.txt|.|16
+auto show press|.|WET3763.txt|.|27
+patrimoine|.|WET4798.txt|.|983
+press|.|WET4234.txt|.|15|.|WET5861.txt|.|13|.|WET967.txt|.|38|.|WET3188.txt|.|35|.|WET3189.txt|.|37|.|WET1119.txt|.|200|.|WET4232.txt|.|105|.|WET4881.txt|.|80|.|WET1485.txt|.|32|.|WET4636.txt|.|19|.|WET4348.txt|.|5|.|WET485.txt|.|298|.|WET2521.txt|.|20|.|WET969.txt|.|22|.|WET487.txt|.|32|.|WET5614.txt|.|22|.|WET3190.txt|.|39|.|WET897.txt|.|32|.|WET3847.txt|.|16|.|WET2605.txt|.|30|.|WET3763.txt|.|99
+airbus defence|.|WET4881.txt|.|19
+espanol follow upi|.|WET3188.txt|.|11|.|WET3190.txt|.|11|.|WET3189.txt|.|11
+show press releases|.|WET3763.txt|.|27
+soybean|.|WET897.txt|.|14
+rack|.|WET2729.txt|.|139|.|WET2730.txt|.|81|.|WET2408.txt|.|22
+race|.|WET3770.txt|.|60|.|WET663.txt|.|13|.|WET2803.txt|.|32
+releases photos|.|WET485.txt|.|96|.|WET3763.txt|.|32
+features press|.|WET485.txt|.|75
+press releases|.|WET485.txt|.|150|.|WET1119.txt|.|101|.|WET4232.txt|.|51
+continuing education|.|WET4636.txt|.|5
+gaiam returns press|.|WET5614.txt|.|11
+npr press room|.|WET2521.txt|.|11
+yang lalu|.|WET4368.txt|.|96
+odd|.|WET3189.txt|.|28
+upi|.|WET3188.txt|.|224|.|WET3190.txt|.|246|.|WET3189.txt|.|194
+share tweet plus|.|WET5861.txt|.|36|.|WET2120.txt|.|34
+photos videos photos videos|.|WET4232.txt|.|13
+associated|.|WET4234.txt|.|15|.|WET969.txt|.|14|.|WET487.txt|.|31
+millions|.|WET3188.txt|.|22|.|WET3190.txt|.|22|.|WET3189.txt|.|22
+continuing|.|WET4636.txt|.|5
+salary report|.|WET2605.txt|.|40
+industry energy|.|WET3190.txt|.|11

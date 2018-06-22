@@ -1,0 +1,64 @@
+matt williams|.|bbc_sport_298.txt|.|3
+ring|.|bbc_entertainment_141.txt|.|1|.|bbc_entertainment_119.txt|.|4
+bribe|.|bbc_business_400.txt|.|5
+welsh region|.|bbc_sport_392.txt|.|2
+cockbain|.|bbc_sport_416.txt|.|3
+caribbean|.|bbc_entertainment_037.txt|.|3
+west ham|.|bbc_politics_318.txt|.|2|.|bbc_sport_129.txt|.|3|.|bbc_sport_197.txt|.|4
+lindsay|.|bbc_sport_488.txt|.|2|.|bbc_sport_476.txt|.|2|.|bbc_sport_399.txt|.|6
+toshiyuki shiga|.|bbc_business_216.txt|.|2
+ring of fire hit|.|bbc_entertainment_119.txt|.|1
+business confidence|.|bbc_business_066.txt|.|2|.|bbc_business_295.txt|.|2
+hantuchova|.|bbc_sport_497.txt|.|2|.|bbc_sport_436.txt|.|3|.|bbc_sport_430.txt|.|3
+parenting|.|bbc_politics_030.txt|.|2
+rigoglioso|.|bbc_sport_225.txt|.|3
+rome|.|bbc_sport_312.txt|.|2|.|bbc_sport_301.txt|.|2
+retirement on hold|.|bbc_sport_460.txt|.|2
+audience|.|bbc_entertainment_253.txt|.|3
+tribute to actor|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+williams says|.|bbc_sport_318.txt|.|2
+williams said|.|bbc_entertainment_037.txt|.|2
+pass|.|bbc_sport_407.txt|.|2|.|bbc_tech_230.txt|.|3
+wrote|.|bbc_entertainment_119.txt|.|3
+slopping out case|.|bbc_politics_173.txt|.|2
+williams could be fit|.|bbc_sport_355.txt|.|1
+viruses written|.|bbc_tech_077.txt|.|2
+williams jr|.|bbc_entertainment_119.txt|.|2
+amazon|.|bbc_tech_168.txt|.|2
+daniel|.|bbc_sport_225.txt|.|2
+scissor sisters|.|bbc_entertainment_253.txt|.|5|.|bbc_entertainment_128.txt|.|3
+vienna state|.|bbc_entertainment_023.txt|.|2|.|bbc_entertainment_273.txt|.|2
+grabbing|.|bbc_sport_293.txt|.|1
+zvonareva|.|bbc_sport_474.txt|.|3
+cantata|.|bbc_entertainment_342.txt|.|2
+sledge|.|bbc_entertainment_291.txt|.|2
+open champion|.|bbc_sport_436.txt|.|2|.|bbc_sport_430.txt|.|2
+carib|.|bbc_entertainment_037.txt|.|4
+ruth kelly|.|bbc_politics_055.txt|.|2|.|bbc_politics_157.txt|.|2
+elia|.|bbc_sport_439.txt|.|3
+mr camus|.|bbc_business_308.txt|.|5
+paid advocacy|.|bbc_politics_089.txt|.|3
+tom|.|bbc_sport_312.txt|.|2|.|bbc_entertainment_098.txt|.|2|.|bbc_sport_416.txt|.|2
+paris|.|bbc_business_491.txt|.|6|.|bbc_sport_396.txt|.|2|.|bbc_entertainment_111.txt|.|2|.|bbc_sport_395.txt|.|5|.|bbc_sport_133.txt|.|3|.|bbc_entertainment_067.txt|.|2
+venus|.|bbc_sport_439.txt|.|2
+cole has refused|.|bbc_sport_178.txt|.|1
+paterson slotted|.|bbc_sport_407.txt|.|1
+cardiff|.|bbc_sport_129.txt|.|5|.|bbc_sport_355.txt|.|3|.|bbc_sport_077.txt|.|2
+possibility|.|bbc_sport_318.txt|.|2
+months later|.|bbc_sport_065.txt|.|2
+sir ian|.|bbc_politics_379.txt|.|3
+looked|.|bbc_sport_425.txt|.|1|.|bbc_sport_433.txt|.|1|.|bbc_sport_488.txt|.|3
+forward pass|.|bbc_sport_407.txt|.|2
+shane|.|bbc_sport_312.txt|.|5|.|bbc_entertainment_075.txt|.|2|.|bbc_sport_417.txt|.|2|.|bbc_sport_416.txt|.|5
+tom shanklin|.|bbc_sport_312.txt|.|2|.|bbc_sport_416.txt|.|2
+martyn|.|bbc_sport_312.txt|.|3|.|bbc_sport_395.txt|.|2|.|bbc_sport_416.txt|.|3
+ospreys|.|bbc_sport_392.txt|.|2|.|bbc_sport_297.txt|.|3
+neck|.|bbc_sport_355.txt|.|2
+hank williams|.|bbc_entertainment_119.txt|.|2
+mcindoe|.|bbc_sport_225.txt|.|2
+wrote ring|.|bbc_entertainment_119.txt|.|2
+cannibals|.|bbc_entertainment_037.txt|.|3
+film pirates of the caribbean|.|bbc_entertainment_037.txt|.|1
+farina elia|.|bbc_sport_439.txt|.|3
+quit|.|bbc_sport_318.txt|.|3|.|bbc_entertainment_134.txt|.|1
+farina|.|bbc_sport_439.txt|.|3

@@ -1,0 +1,64 @@
+rooms|.|bbc_tech_204.txt|.|2
+bussell|.|bbc_entertainment_022.txt|.|2
+bell said|.|bbc_politics_172.txt|.|2
+fewer|.|bbc_entertainment_022.txt|.|3
+european convention|.|bbc_politics_229.txt|.|2
+british|.|bbc_entertainment_148.txt|.|3|.|bbc_entertainment_253.txt|.|17|.|bbc_entertainment_071.txt|.|3|.|bbc_entertainment_261.txt|.|2|.|bbc_entertainment_075.txt|.|2|.|bbc_politics_286.txt|.|2|.|bbc_entertainment_289.txt|.|5|.|bbc_entertainment_300.txt|.|4|.|bbc_politics_269.txt|.|2|.|bbc_entertainment_038.txt|.|4|.|bbc_business_484.txt|.|5|.|bbc_politics_229.txt|.|4|.|bbc_politics_290.txt|.|12|.|bbc_entertainment_034.txt|.|2|.|bbc_business_437.txt|.|2|.|bbc_entertainment_268.txt|.|2|.|bbc_sport_476.txt|.|2|.|bbc_entertainment_136.txt|.|2|.|bbc_sport_449.txt|.|4|.|bbc_politics_065.txt|.|3|.|bbc_entertainment_383.txt|.|2|.|bbc_entertainment_022.txt|.|5|.|bbc_entertainment_357.txt|.|6|.|bbc_entertainment_323.txt|.|3|.|bbc_tech_204.txt|.|6|.|bbc_entertainment_251.txt|.|3|.|bbc_politics_053.txt|.|6|.|bbc_politics_100.txt|.|6|.|bbc_politics_172.txt|.|3|.|bbc_entertainment_129.txt|.|2|.|bbc_politics_135.txt|.|6|.|bbc_entertainment_354.txt|.|6|.|bbc_entertainment_191.txt|.|6|.|bbc_entertainment_373.txt|.|8|.|bbc_sport_027.txt|.|2|.|bbc_sport_037.txt|.|5|.|bbc_politics_129.txt|.|2|.|bbc_tech_231.txt|.|2|.|bbc_entertainment_303.txt|.|3|.|bbc_politics_125.txt|.|2
+civilians|.|bbc_politics_229.txt|.|2
+officer who|.|bbc_politics_053.txt|.|2
+album title|.|bbc_entertainment_261.txt|.|1|.|bbc_entertainment_129.txt|.|1
+darcey|.|bbc_entertainment_022.txt|.|2
+ballet attendance|.|bbc_entertainment_022.txt|.|1
+accuses|.|bbc_sport_037.txt|.|1
+british sprinters|.|bbc_sport_037.txt|.|3
+criminally|.|bbc_tech_135.txt|.|1|.|bbc_politics_286.txt|.|2|.|bbc_politics_125.txt|.|2
+british society|.|bbc_politics_172.txt|.|2
+british premiere|.|bbc_entertainment_071.txt|.|1
+mr mubanga|.|bbc_politics_100.txt|.|9
+tackle us|.|bbc_entertainment_289.txt|.|2
+vera|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_034.txt|.|2|.|bbc_entertainment_373.txt|.|2|.|bbc_entertainment_075.txt|.|4|.|bbc_entertainment_352.txt|.|9|.|bbc_entertainment_357.txt|.|7
+british ballet|.|bbc_entertainment_022.txt|.|3
+ofsted|.|bbc_politics_172.txt|.|2
+solicitor|.|bbc_politics_065.txt|.|2
+ukip candidate suspended|.|bbc_politics_286.txt|.|1|.|bbc_politics_125.txt|.|1
+film production|.|bbc_entertainment_303.txt|.|3
+reading rooms|.|bbc_tech_204.txt|.|2
+golden rose|.|bbc_entertainment_191.txt|.|3
+kevin spacey|.|bbc_entertainment_071.txt|.|2
+family of an iraqi|.|bbc_politics_229.txt|.|1
+british authorities|.|bbc_politics_053.txt|.|2
+shining|.|bbc_entertainment_354.txt|.|1
+boxing|.|bbc_politics_135.txt|.|2
+independent faith|.|bbc_politics_172.txt|.|2
+evangelical christian|.|bbc_politics_172.txt|.|2
+british independent|.|bbc_entertainment_075.txt|.|2
+direction prize|.|bbc_entertainment_373.txt|.|1
+ballet future|.|bbc_entertainment_022.txt|.|1
+mubanga|.|bbc_politics_100.txt|.|10|.|bbc_politics_065.txt|.|2
+brought|.|bbc_entertainment_354.txt|.|2
+suspended a candidate|.|bbc_politics_286.txt|.|1|.|bbc_politics_125.txt|.|1
+southern iraq|.|bbc_politics_229.txt|.|2
+christmas song|.|bbc_entertainment_136.txt|.|1
+allied targets|.|bbc_politics_065.txt|.|2
+criminally insane|.|bbc_politics_286.txt|.|2|.|bbc_politics_125.txt|.|2
+british acts|.|bbc_entertainment_289.txt|.|2
+leonardo dicaprio|.|bbc_entertainment_354.txt|.|2
+ofsted chief|.|bbc_politics_172.txt|.|2
+evangelical|.|bbc_politics_172.txt|.|2
+red carpet|.|bbc_entertainment_354.txt|.|4|.|bbc_entertainment_064.txt|.|2
+johnson accuses|.|bbc_sport_037.txt|.|1
+direction|.|bbc_entertainment_373.txt|.|1
+convention|.|bbc_politics_229.txt|.|2
+attended|.|bbc_entertainment_192.txt|.|2|.|bbc_entertainment_071.txt|.|2
+visas|.|bbc_entertainment_289.txt|.|3
+live like|.|bbc_politics_053.txt|.|2
+drake will lead|.|bbc_entertainment_323.txt|.|1
+annual income|.|bbc_business_484.txt|.|2
+leonardo|.|bbc_entertainment_354.txt|.|2
+vera drake leads|.|bbc_entertainment_323.txt|.|1
+extensive|.|bbc_tech_204.txt|.|2
+access the internet|.|bbc_tech_204.txt|.|1
+darcey bussell|.|bbc_entertainment_022.txt|.|2
+regulations|.|bbc_entertainment_289.txt|.|2
+attendance|.|bbc_entertainment_022.txt|.|1
+reported views|.|bbc_politics_286.txt|.|2|.|bbc_politics_125.txt|.|2

@@ -1,0 +1,38 @@
+303
+occasion|.|WET1915.txt|.|6
+sinks|.|WET875.txt|.|42|.|WET1799.txt|.|78
+signature collection|.|WET5011.txt|.|14
+tots|.|WET3092.txt|.|25
+hold|.|WET4508.txt|.|67
+special finds|.|WET1915.txt|.|6
+napkins|.|WET3078.txt|.|202
+ball candles|.|WET3746.txt|.|10
+trail|.|WET4720.txt|.|28|.|WET3965.txt|.|33|.|WET2411.txt|.|11|.|WET198.txt|.|17|.|WET1325.txt|.|14|.|WET218.txt|.|30
+finds|.|WET1915.txt|.|6
+eartha kitt|.|WET5654.txt|.|9
+inhabitat|.|WET514.txt|.|42
+scarlett|.|WET337.txt|.|16
+top occasions|.|WET1915.txt|.|6
+rubber|.|WET4415.txt|.|14
+underwear|.|WET2346.txt|.|61
+wedding|.|WET418.txt|.|57|.|WET2593.txt|.|147|.|WET2005.txt|.|236|.|WET4770.txt|.|54|.|WET3267.txt|.|268|.|WET5228.txt|.|34|.|WET2998.txt|.|47|.|WET2548.txt|.|27|.|WET957.txt|.|76|.|WET879.txt|.|7|.|WET1898.txt|.|157|.|WET3268.txt|.|156|.|WET4389.txt|.|20|.|WET3687.txt|.|14|.|WET3651.txt|.|59|.|WET2547.txt|.|135|.|WET2867.txt|.|20|.|WET2973.txt|.|233|.|WET1800.txt|.|46|.|WET1765.txt|.|10|.|WET1815.txt|.|11|.|WET3739.txt|.|62
+catalog search|.|WET1374.txt|.|13
+sympathy|.|WET4673.txt|.|80|.|WET2593.txt|.|60|.|WET935.txt|.|90|.|WET4674.txt|.|50
+gifts by age|.|WET4970.txt|.|22
+business gifts|.|WET6280.txt|.|13
+gifts|.|WET3078.txt|.|144|.|WET5891.txt|.|136|.|WET5654.txt|.|68|.|WET1375.txt|.|40|.|WET2519.txt|.|362|.|WET6280.txt|.|25|.|WET3213.txt|.|20|.|WET1757.txt|.|44|.|WET1786.txt|.|73|.|WET4578.txt|.|22|.|WET875.txt|.|94|.|WET2150.txt|.|107|.|WET2634.txt|.|185|.|WET2876.txt|.|38|.|WET5956.txt|.|19|.|WET2633.txt|.|44|.|WET5806.txt|.|13|.|WET1915.txt|.|104|.|WET1983.txt|.|33|.|WET2593.txt|.|279|.|WET4576.txt|.|22|.|WET5991.txt|.|41|.|WET3092.txt|.|35|.|WET4970.txt|.|82|.|WET920.txt|.|53|.|WET5011.txt|.|97|.|WET6312.txt|.|6|.|WET879.txt|.|35|.|WET3275.txt|.|25|.|WET840.txt|.|22|.|WET4577.txt|.|22|.|WET2219.txt|.|19|.|WET839.txt|.|22|.|WET2594.txt|.|71|.|WET3290.txt|.|23|.|WET5003.txt|.|41|.|WET1374.txt|.|68|.|WET4614.txt|.|110|.|WET5653.txt|.|154|.|WET4971.txt|.|43|.|WET5233.txt|.|27|.|WET4618.txt|.|14|.|WET3272.txt|.|86|.|WET6140.txt|.|14
+hats home|.|WET3275.txt|.|13
+map features|.|WET4618.txt|.|8
+birthday occasion|.|WET1915.txt|.|6
+personalized gifts|.|WET2634.txt|.|36
+kitt|.|WET5654.txt|.|13
+meal time|.|WET4970.txt|.|22
+eartha|.|WET5654.txt|.|19
+unique gifts|.|WET1915.txt|.|13|.|WET5653.txt|.|22
+beauty gifts|.|WET2519.txt|.|12
+unique|.|WET1915.txt|.|13|.|WET5653.txt|.|22
+occasions|.|WET1915.txt|.|6
+wife mom|.|WET1915.txt|.|6
+scentportable refills|.|WET5011.txt|.|14
+glen|.|WET2323.txt|.|28
+track orders|.|WET1915.txt|.|12|.|WET5653.txt|.|22

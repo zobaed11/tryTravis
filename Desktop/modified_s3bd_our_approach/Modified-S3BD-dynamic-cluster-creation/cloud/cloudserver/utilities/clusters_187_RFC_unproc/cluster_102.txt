@@ -1,0 +1,120 @@
+disconnect|.|rfc3576.txt|.|23|.|rfc5176.txt|.|24|.|rfc2661.txt|.|2|.|rfc3145.txt|.|38
+rtp control protocol|.|rfc6128.txt|.|4|.|rfc5968.txt|.|7
+collected|.|rfc4466.txt|.|19
+determination|.|rfc2412.txt|.|59
+network extensions|.|rfc3301.txt|.|19
+atm access|.|rfc3301.txt|.|26
+nntp extensions|.|rfc2980.txt|.|29
+imap enable|.|rfc5161.txt|.|7
+authorization|.|rfc3820.txt|.|43|.|rfc2905.txt|.|184|.|rfc4532.txt|.|26|.|rfc3838.txt|.|13|.|rfc3731.txt|.|28|.|rfc5176.txt|.|128|.|rfc4370.txt|.|39|.|rfc3829.txt|.|34|.|rfc5909.txt|.|35|.|rfc5608.txt|.|27|.|rfc4673.txt|.|90|.|rfc5866.txt|.|159|.|rfc2904.txt|.|141|.|rfc2769.txt|.|71|.|rfc5607.txt|.|43|.|rfc4672.txt|.|79|.|rfc3521.txt|.|70|.|rfc5025.txt|.|80|.|rfc4467.txt|.|52|.|rfc3733.txt|.|18|.|rfc5878.txt|.|132|.|rfc6042.txt|.|21|.|rfc4933.txt|.|18|.|rfc5009.txt|.|29|.|rfc5755.txt|.|71|.|rfc5580.txt|.|33|.|rfc4513.txt|.|71|.|rfc2881.txt|.|22|.|rfc3576.txt|.|53|.|rfc3281.txt|.|21|.|rfc4081.txt|.|26|.|rfc3520.txt|.|72|.|rfc5123.txt|.|74|.|rfc4931.txt|.|28|.|rfc4484.txt|.|84|.|rfc2906.txt|.|144|.|rfc3313.txt|.|70
+ip vendor|.|rfc3025.txt|.|7
+ason march|.|rfc3474.txt|.|24
+multicast extensions|.|rfc5374.txt|.|55
+select and sort extensions|.|rfc3421.txt|.|11
+encryption using kea and skipjack|.|rfc2773.txt|.|9
+nvse|.|rfc3115.txt|.|6
+cvse|.|rfc3115.txt|.|17
+call management|.|rfc4974.txt|.|19
+rtsp extensions|.|rfc6064.txt|.|30
+transport header|.|rfc2207.txt|.|8
+sig rrs|.|rfc2065.txt|.|24
+server hello message|.|rfc5878.txt|.|7
+skipjack|.|rfc2773.txt|.|21|.|rfc2876.txt|.|66
+multiplexing|.|rfc6205.txt|.|5|.|rfc2371.txt|.|27|.|rfc7.txt|.|3|.|rfc4588.txt|.|9|.|rfc5604.txt|.|6|.|rfc2684.txt|.|18|.|rfc4209.txt|.|3|.|rfc5086.txt|.|7|.|rfc5611.txt|.|8|.|rfc2600.txt|.|2|.|rfc3945.txt|.|17|.|rfc3153.txt|.|22|.|rfc5287.txt|.|4|.|rfc5761.txt|.|51|.|rfc38.txt|.|2|.|rfc4328.txt|.|24|.|rfc2382.txt|.|11|.|rfc4553.txt|.|7
+extensions for optical uni signaling|.|rfc3476.txt|.|11
+multiprotocol extensions for bgp|.|rfc4760.txt|.|12
+webdav collections|.|rfc5995.txt|.|15
+enable extension|.|rfc5161.txt|.|9
+delegation extension|.|rfc3779.txt|.|27
+authorization extensions|.|rfc3576.txt|.|30|.|rfc5878.txt|.|31|.|rfc5176.txt|.|35
+extended operation|.|rfc3909.txt|.|5|.|rfc4521.txt|.|10|.|rfc2589.txt|.|6|.|rfc3062.txt|.|11
+extensions for optical uni|.|rfc3476.txt|.|11
+ppp chap extensions|.|rfc2433.txt|.|20
+papadimitriou|.|rfc4328.txt|.|26
+body handling|.|rfc5621.txt|.|20
+schulzrinne informational|.|rfc3960.txt|.|13|.|rfc5582.txt|.|17|.|rfc5687.txt|.|21|.|rfc4485.txt|.|23|.|rfc3487.txt|.|17
+automatic switched|.|rfc3475.txt|.|3
+weis|.|rfc4359.txt|.|15|.|rfc5374.txt|.|43
+coa request|.|rfc5176.txt|.|6
+xmpp extensions|.|rfc4854.txt|.|18
+slp november|.|rfc3421.txt|.|7
+command and extension|.|rfc5797.txt|.|10
+multi class|.|rfc3337.txt|.|8
+article number|.|rfc2980.txt|.|20
+saml|.|rfc5878.txt|.|43
+dynamic directory services|.|rfc2589.txt|.|15
+tunneling mode|.|rfc3186.txt|.|32|.|rfc5454.txt|.|17
+protocol for the internet|.|rfc2004.txt|.|1|.|rfc2545.txt|.|1|.|rfc2019.txt|.|1
+souissi|.|rfc3596.txt|.|3
+ldap extensions|.|rfc4521.txt|.|19
+iua protocol|.|rfc4129.txt|.|15
+collection member|.|rfc5995.txt|.|2
+authenticated encryption|.|rfc5084.txt|.|11|.|rfc5282.txt|.|60|.|rfc5083.txt|.|14|.|rfc5288.txt|.|6|.|rfc5116.txt|.|42
+header compensation|.|rfc5372.txt|.|17
+extensions for ppp|.|rfc3337.txt|.|9
+select and sort|.|rfc3421.txt|.|14
+terminating|.|rfc3603.txt|.|45|.|rfc5503.txt|.|45
+pendarakis|.|rfc3474.txt|.|27
+extensions to ospf|.|rfc3630.txt|.|15|.|rfc5329.txt|.|6
+ftp command and extension registry|.|rfc5797.txt|.|10
+desineni standards|.|rfc5285.txt|.|17
+ospf extensions|.|rfc5392.txt|.|18|.|rfc2676.txt|.|51|.|rfc4203.txt|.|11
+keepalive|.|rfc2641.txt|.|27|.|rfc6263.txt|.|40
+batch smtp media type|.|rfc2442.txt|.|9
+rules|.|rfc6146.txt|.|9|.|rfc83.txt|.|9|.|rfc2252.txt|.|28|.|rfc3642.txt|.|8|.|rfc5014.txt|.|29|.|rfc4521.txt|.|19|.|rfc4586.txt|.|49|.|rfc3693.txt|.|72|.|rfc5894.txt|.|64|.|rfc4913.txt|.|11|.|rfc4792.txt|.|11|.|rfc5872.txt|.|10|.|rfc3641.txt|.|33|.|rfc6280.txt|.|209|.|rfc4745.txt|.|52|.|rfc2715.txt|.|45|.|rfc5575.txt|.|23|.|rfc3698.txt|.|20|.|rfc4910.txt|.|130
+sieve extensions|.|rfc5235.txt|.|6|.|rfc3685.txt|.|5
+translate|.|rfc110.txt|.|47
+xid|.|rfc2353.txt|.|109
+extensions for the web|.|rfc5995.txt|.|2
+extensions for the web distributed|.|rfc5995.txt|.|2
+abnf april|.|rfc4466.txt|.|16
+dns extensions to support|.|rfc3596.txt|.|10
+specific extensions|.|rfc3025.txt|.|13|.|rfc3115.txt|.|14
+loss rle|.|rfc5725.txt|.|44
+ftp extensions|.|rfc2428.txt|.|8|.|rfc5797.txt|.|4
+extensible messaging|.|rfc5122.txt|.|7|.|rfc4854.txt|.|5|.|rfc4979.txt|.|4
+organizationally|.|rfc2153.txt|.|6
+spamtest and virustest extensions|.|rfc5235.txt|.|15|.|rfc3685.txt|.|11
+extensions december|.|rfc4775.txt|.|13
+xmpp standards|.|rfc4854.txt|.|13
+organizationally unique|.|rfc2153.txt|.|6
+asynchronous transfer|.|rfc3337.txt|.|3
+gmpls extensions|.|rfc3946.txt|.|26
+basic socket|.|rfc3493.txt|.|39|.|rfc2553.txt|.|41
+setup using|.|rfc3475.txt|.|4
+socket interface|.|rfc3493.txt|.|49|.|rfc2133.txt|.|42|.|rfc2553.txt|.|51
+sip guidelines|.|rfc4485.txt|.|22
+transfer mode|.|rfc3337.txt|.|3
+jevans|.|rfc5901.txt|.|53
+initiated|.|rfc4974.txt|.|1|.|rfc2976.txt|.|3
+interface extensions|.|rfc3493.txt|.|39|.|rfc2133.txt|.|32|.|rfc2553.txt|.|41
+mib extensions|.|rfc3144.txt|.|31|.|rfc3197.txt|.|30
+spamtest and virustest|.|rfc5235.txt|.|18|.|rfc3685.txt|.|13
+dns mib|.|rfc3197.txt|.|9
+link tlv|.|rfc4203.txt|.|14
+sig|.|rfc2065.txt|.|121|.|rfc3110.txt|.|12|.|rfc2536.txt|.|8|.|rfc2331.txt|.|47
+papadimitriou standards|.|rfc4328.txt|.|23
+extensions to ietf protocols|.|rfc4775.txt|.|8
+dommety|.|rfc5419.txt|.|21|.|rfc3025.txt|.|10
+smtp media type|.|rfc2442.txt|.|9
+booz|.|rfc5857.txt|.|4
+main header|.|rfc5372.txt|.|46
+ppp vendor extensions|.|rfc2153.txt|.|9
+client hello|.|rfc3546.txt|.|38|.|rfc5081.txt|.|6
+support the extensions|.|rfc4366.txt|.|6
+extensions september|.|rfc5968.txt|.|16
+addr|.|rfc3779.txt|.|27
+future extensions|.|rfc4466.txt|.|11
+authorization data|.|rfc5878.txt|.|36|.|rfc6042.txt|.|7
+header sample|.|rfc5372.txt|.|21
+disconnect request|.|rfc3576.txt|.|5|.|rfc5176.txt|.|11
+securing|.|rfc3193.txt|.|31|.|rfc4217.txt|.|36|.|rfc3854.txt|.|15|.|rfc3723.txt|.|71
+extensions for optical|.|rfc3476.txt|.|11
+class extensions for ppp|.|rfc3337.txt|.|9
+sieve implementation|.|rfc5235.txt|.|7|.|rfc3685.txt|.|5
+service name|.|rfc4985.txt|.|13|.|rfc2133.txt|.|9|.|rfc3301.txt|.|16
+user adaptation|.|rfc4129.txt|.|6|.|rfc4166.txt|.|30|.|rfc3807.txt|.|4
+channel parameters|.|rfc5857.txt|.|11
+optical uni|.|rfc3476.txt|.|11
+leung|.|rfc4332.txt|.|14|.|rfc5372.txt|.|29|.|rfc4064.txt|.|14|.|rfc3025.txt|.|10|.|rfc3115.txt|.|11
+engineering june|.|rfc3784.txt|.|12

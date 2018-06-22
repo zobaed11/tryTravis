@@ -1,0 +1,113 @@
+2
+german|.|bbc_business_022.txt|.|3|.|bbc_business_275.txt|.|2|.|bbc_business_316.txt|.|4|.|bbc_business_387.txt|.|4|.|bbc_business_066.txt|.|4|.|bbc_business_279.txt|.|2|.|bbc_business_439.txt|.|2|.|bbc_business_139.txt|.|4|.|bbc_business_098.txt|.|4|.|bbc_business_073.txt|.|3
+slowed|.|bbc_business_046.txt|.|2
+foreigners|.|bbc_business_131.txt|.|5
+budget deficit|.|bbc_business_204.txt|.|2|.|bbc_business_488.txt|.|4
+urged congress|.|bbc_business_041.txt|.|2
+american|.|bbc_business_466.txt|.|4|.|bbc_business_280.txt|.|4|.|bbc_business_437.txt|.|2
+salary|.|bbc_business_238.txt|.|5
+krispy kreme|.|bbc_business_386.txt|.|6
+dr greenspan|.|bbc_business_213.txt|.|6
+lung cancer|.|bbc_business_309.txt|.|2
+alan greenspan|.|bbc_business_273.txt|.|2
+approved|.|bbc_business_305.txt|.|2|.|bbc_business_085.txt|.|1
+russia|.|bbc_business_178.txt|.|4|.|bbc_business_077.txt|.|3|.|bbc_business_091.txt|.|3|.|bbc_business_266.txt|.|4|.|bbc_business_181.txt|.|6|.|bbc_business_127.txt|.|3|.|bbc_business_192.txt|.|4
+virgin|.|bbc_business_474.txt|.|9
+lebedev|.|bbc_business_157.txt|.|4
+palestinian|.|bbc_business_076.txt|.|8
+ten|.|bbc_business_403.txt|.|2
+braking|.|bbc_business_026.txt|.|3
+sister|.|bbc_business_282.txt|.|2
+energy|.|bbc_business_472.txt|.|3|.|bbc_business_096.txt|.|4|.|bbc_business_428.txt|.|2|.|bbc_business_028.txt|.|5|.|bbc_business_080.txt|.|3|.|bbc_business_433.txt|.|2|.|bbc_business_456.txt|.|2|.|bbc_business_181.txt|.|7
+wage|.|bbc_business_404.txt|.|3
+period|.|bbc_business_310.txt|.|3|.|bbc_business_110.txt|.|1|.|bbc_business_459.txt|.|3
+africa|.|bbc_business_473.txt|.|2|.|bbc_business_218.txt|.|2|.|bbc_business_241.txt|.|4|.|bbc_business_408.txt|.|3
+aid agencies|.|bbc_business_353.txt|.|1
+interest rates|.|bbc_business_383.txt|.|3|.|bbc_business_137.txt|.|2|.|bbc_business_438.txt|.|5|.|bbc_business_290.txt|.|4|.|bbc_business_402.txt|.|2|.|bbc_business_151.txt|.|2|.|bbc_business_121.txt|.|3
+newton aycliffe|.|bbc_business_058.txt|.|2
+fao report|.|bbc_business_067.txt|.|2
+investment|.|bbc_business_184.txt|.|2|.|bbc_business_501.txt|.|3|.|bbc_business_068.txt|.|6|.|bbc_business_493.txt|.|2|.|bbc_business_019.txt|.|5|.|bbc_business_231.txt|.|1|.|bbc_business_070.txt|.|2|.|bbc_business_389.txt|.|2|.|bbc_business_263.txt|.|3|.|bbc_business_091.txt|.|3|.|bbc_business_284.txt|.|3|.|bbc_business_286.txt|.|2|.|bbc_business_074.txt|.|4
+ferrari|.|bbc_business_051.txt|.|7
+justice department|.|bbc_business_291.txt|.|2
+reserves|.|bbc_business_142.txt|.|6|.|bbc_business_210.txt|.|3|.|bbc_business_180.txt|.|3|.|bbc_business_419.txt|.|5
+carnival|.|bbc_business_244.txt|.|8
+carriers|.|bbc_business_395.txt|.|2
+zeros|.|bbc_business_257.txt|.|2
+click|.|bbc_business_243.txt|.|2
+boerse told|.|bbc_business_203.txt|.|2
+reform|.|bbc_business_388.txt|.|3|.|bbc_business_305.txt|.|2|.|bbc_business_457.txt|.|3
+than originally|.|bbc_business_235.txt|.|2
+exposure|.|bbc_business_346.txt|.|7
+million|.|bbc_business_185.txt|.|2|.|bbc_business_275.txt|.|6|.|bbc_business_257.txt|.|2|.|bbc_business_410.txt|.|3|.|bbc_business_158.txt|.|3|.|bbc_business_420.txt|.|2|.|bbc_business_139.txt|.|5|.|bbc_business_296.txt|.|3|.|bbc_business_434.txt|.|4|.|bbc_business_009.txt|.|4
+villalba|.|bbc_business_336.txt|.|5
+wine|.|bbc_business_090.txt|.|11|.|bbc_business_321.txt|.|4|.|bbc_business_039.txt|.|6
+right to sell|.|bbc_business_078.txt|.|2
+women|.|bbc_business_043.txt|.|10
+lg card|.|bbc_business_375.txt|.|5|.|bbc_business_349.txt|.|4
+newspaper|.|bbc_business_455.txt|.|4|.|bbc_business_325.txt|.|5
+commodity|.|bbc_business_067.txt|.|2
+independent|.|bbc_business_325.txt|.|7
+defence|.|bbc_business_308.txt|.|2|.|bbc_business_204.txt|.|2|.|bbc_business_087.txt|.|3|.|bbc_business_366.txt|.|2
+former worldcom|.|bbc_business_059.txt|.|2|.|bbc_business_087.txt|.|2
+karachi|.|bbc_business_428.txt|.|3
+tribunal|.|bbc_business_336.txt|.|5
+rejects|.|bbc_business_010.txt|.|1|.|bbc_business_451.txt|.|1
+opposition|.|bbc_business_454.txt|.|5
+retailer said|.|bbc_business_393.txt|.|1
+suppliers to ahold|.|bbc_business_448.txt|.|1
+commission|.|bbc_business_259.txt|.|2|.|bbc_business_468.txt|.|3|.|bbc_business_113.txt|.|8
+lira|.|bbc_business_257.txt|.|11
+policy|.|bbc_business_388.txt|.|2|.|bbc_business_206.txt|.|1
+paper said chinese|.|bbc_business_212.txt|.|1
+largest power producer|.|bbc_business_276.txt|.|2
+sale|.|bbc_business_003.txt|.|3|.|bbc_business_489.txt|.|1|.|bbc_business_267.txt|.|3|.|bbc_business_324.txt|.|5|.|bbc_business_223.txt|.|4|.|bbc_business_475.txt|.|2|.|bbc_business_217.txt|.|1|.|bbc_business_230.txt|.|5|.|bbc_business_365.txt|.|3|.|bbc_business_088.txt|.|1
+chinese police have detained|.|bbc_business_338.txt|.|1
+police|.|bbc_business_266.txt|.|2|.|bbc_business_338.txt|.|3
+blue|.|bbc_business_474.txt|.|8
+pfizer|.|bbc_business_302.txt|.|2
+information|.|bbc_business_475.txt|.|3
+survey has found|.|bbc_business_225.txt|.|1|.|bbc_business_295.txt|.|1
+plasma|.|bbc_business_211.txt|.|6
+britannia|.|bbc_business_237.txt|.|5
+standard|.|bbc_business_220.txt|.|4|.|bbc_business_473.txt|.|6|.|bbc_business_409.txt|.|15|.|bbc_business_206.txt|.|5
+porsche|.|bbc_business_105.txt|.|2
+reports|.|bbc_business_502.txt|.|2|.|bbc_business_455.txt|.|1|.|bbc_business_397.txt|.|11|.|bbc_business_317.txt|.|3
+november|.|bbc_business_306.txt|.|3|.|bbc_business_481.txt|.|2|.|bbc_business_440.txt|.|3
+filed for bankruptcy|.|bbc_business_145.txt|.|1|.|bbc_business_391.txt|.|1
+crossrail|.|bbc_business_166.txt|.|5
+venezuela reviews|.|bbc_business_231.txt|.|1
+southern asia|.|bbc_business_353.txt|.|3
+kerry|.|bbc_business_294.txt|.|5
+lvmh|.|bbc_business_418.txt|.|4|.|bbc_business_510.txt|.|3
+area|.|bbc_business_198.txt|.|4|.|bbc_business_463.txt|.|1
+mr ebbers|.|bbc_business_196.txt|.|6|.|bbc_business_465.txt|.|4|.|bbc_business_087.txt|.|6|.|bbc_business_246.txt|.|10|.|bbc_business_100.txt|.|8|.|bbc_business_114.txt|.|10
+pay|.|bbc_business_400.txt|.|2|.|bbc_business_394.txt|.|2|.|bbc_business_102.txt|.|3|.|bbc_business_419.txt|.|1
+nestle|.|bbc_business_050.txt|.|10
+rivals|.|bbc_business_252.txt|.|3|.|bbc_business_099.txt|.|2
+life expectancy|.|bbc_business_235.txt|.|6
+columbia distributor|.|bbc_business_122.txt|.|2
+botin|.|bbc_business_506.txt|.|6
+murray said|.|bbc_business_367.txt|.|3
+treasury|.|bbc_business_166.txt|.|3
+china three gorges|.|bbc_business_282.txt|.|2
+claims|.|bbc_business_003.txt|.|2|.|bbc_business_346.txt|.|4|.|bbc_business_025.txt|.|1
+chile|.|bbc_business_360.txt|.|2
+child|.|bbc_business_268.txt|.|6
+taxpayers|.|bbc_business_368.txt|.|2
+ferguson|.|bbc_business_385.txt|.|3
+society|.|bbc_business_357.txt|.|1|.|bbc_business_237.txt|.|2|.|bbc_business_153.txt|.|2
+qantas|.|bbc_business_455.txt|.|13|.|bbc_business_128.txt|.|8
+airline|.|bbc_business_466.txt|.|4|.|bbc_business_303.txt|.|4|.|bbc_business_109.txt|.|2|.|bbc_business_186.txt|.|4|.|bbc_business_343.txt|.|2|.|bbc_business_348.txt|.|5|.|bbc_business_468.txt|.|2|.|bbc_business_474.txt|.|3|.|bbc_business_047.txt|.|5|.|bbc_business_445.txt|.|7
+live|.|bbc_business_235.txt|.|3
+irish duo|.|bbc_business_179.txt|.|2
+cochilco|.|bbc_business_360.txt|.|3
+ticket|.|bbc_business_123.txt|.|2
+mobile|.|bbc_business_092.txt|.|3|.|bbc_business_019.txt|.|4|.|bbc_business_038.txt|.|4|.|bbc_business_113.txt|.|8|.|bbc_business_205.txt|.|3|.|bbc_business_074.txt|.|6
+ncci|.|bbc_business_476.txt|.|4
+negotiations|.|bbc_business_421.txt|.|1|.|bbc_business_034.txt|.|2
+china|.|bbc_business_256.txt|.|2|.|bbc_business_340.txt|.|8|.|bbc_business_472.txt|.|7|.|bbc_business_396.txt|.|2|.|bbc_business_269.txt|.|11|.|bbc_business_016.txt|.|3|.|bbc_business_493.txt|.|4|.|bbc_business_499.txt|.|5|.|bbc_business_250.txt|.|4|.|bbc_business_077.txt|.|3|.|bbc_business_039.txt|.|3|.|bbc_business_282.txt|.|3|.|bbc_business_212.txt|.|1|.|bbc_business_437.txt|.|12|.|bbc_business_427.txt|.|4|.|bbc_business_505.txt|.|7|.|bbc_business_371.txt|.|2|.|bbc_business_342.txt|.|6|.|bbc_business_498.txt|.|13|.|bbc_business_286.txt|.|4
+complaint|.|bbc_business_475.txt|.|2
+islamic banking|.|bbc_business_147.txt|.|6
+service|.|bbc_business_263.txt|.|3|.|bbc_business_124.txt|.|2
+cancer|.|bbc_business_309.txt|.|2|.|bbc_business_452.txt|.|2
+rupees a year earlier|.|bbc_business_503.txt|.|2

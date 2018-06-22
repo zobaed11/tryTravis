@@ -1,0 +1,17 @@
+92
+codes used|.|340.txt|.|1|.|049.txt|.|1
+fake sites|.|340.txt|.|2|.|049.txt|.|2
+people sign|.|189.txt|.|2
+bandwidth|.|189.txt|.|1
+search sites|.|213.txt|.|2
+macklin|.|213.txt|.|4
+sites|.|257.txt|.|4|.|270.txt|.|8|.|299.txt|.|8|.|340.txt|.|2|.|364.txt|.|2|.|049.txt|.|2|.|213.txt|.|6|.|189.txt|.|8|.|017.txt|.|2|.|214.txt|.|9
+nations|.|074.txt|.|3|.|361.txt|.|2|.|017.txt|.|3
+remember|.|213.txt|.|1
+lycos|.|159.txt|.|7|.|147.txt|.|7|.|189.txt|.|7|.|214.txt|.|7
+search the web|.|213.txt|.|1
+macklin said|.|213.txt|.|2
+opens door|.|340.txt|.|1
+bills|.|189.txt|.|2
+spam filtering|.|189.txt|.|1
+catalogues|.|213.txt|.|2

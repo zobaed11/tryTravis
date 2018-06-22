@@ -1,0 +1,113 @@
+19
+oil pipeline|.|bbc_business_363.txt|.|2
+production tax|.|bbc_business_307.txt|.|1
+gas from iran|.|bbc_business_420.txt|.|1
+iranian|.|bbc_business_420.txt|.|2
+rebounds|.|bbc_business_381.txt|.|1
+triggered|.|bbc_business_028.txt|.|1
+steel firms|.|bbc_business_140.txt|.|2
+power stations|.|bbc_business_472.txt|.|2
+reach|.|bbc_business_359.txt|.|2
+feta cheese|.|bbc_business_135.txt|.|3
+oil find|.|bbc_business_198.txt|.|1
+gross domestic|.|bbc_business_044.txt|.|2
+two countries|.|bbc_business_340.txt|.|3|.|bbc_business_478.txt|.|2
+competition|.|bbc_business_509.txt|.|2
+opec|.|bbc_business_144.txt|.|4
+rupees|.|bbc_business_095.txt|.|5|.|bbc_business_480.txt|.|3|.|bbc_business_503.txt|.|5
+rossignol|.|bbc_business_373.txt|.|7
+hadi|.|bbc_business_284.txt|.|5
+bdo stoy hayward|.|bbc_business_240.txt|.|2|.|bbc_business_214.txt|.|2
+hurt revenue|.|bbc_business_395.txt|.|1
+cadbury schweppes|.|bbc_business_143.txt|.|2
+freeze|.|bbc_business_491.txt|.|2|.|bbc_business_138.txt|.|1
+closing|.|bbc_business_082.txt|.|1
+scandal|.|bbc_business_499.txt|.|1|.|bbc_business_048.txt|.|2
+aviation oil|.|bbc_business_499.txt|.|3
+children|.|bbc_business_268.txt|.|8|.|bbc_business_443.txt|.|4|.|bbc_business_484.txt|.|3
+review|.|bbc_business_231.txt|.|4
+supplier|.|bbc_business_499.txt|.|2
+weather|.|bbc_business_387.txt|.|2|.|bbc_business_050.txt|.|2|.|bbc_business_381.txt|.|3
+mobile deal|.|bbc_business_074.txt|.|3
+madagascar|.|bbc_business_372.txt|.|2
+wembley stadium|.|bbc_business_062.txt|.|2
+stock markets|.|bbc_business_261.txt|.|4
+oil prices|.|bbc_business_144.txt|.|4|.|bbc_business_381.txt|.|1|.|bbc_business_182.txt|.|3|.|bbc_business_270.txt|.|4|.|bbc_business_152.txt|.|2|.|bbc_business_351.txt|.|2
+rally|.|bbc_business_028.txt|.|2
+seasonally adjusted|.|bbc_business_022.txt|.|2|.|bbc_business_387.txt|.|1
+high oil|.|bbc_business_221.txt|.|2
+president kumaratunga|.|bbc_business_471.txt|.|2
+lending|.|bbc_business_194.txt|.|10|.|bbc_business_085.txt|.|4|.|bbc_business_323.txt|.|5
+natural|.|bbc_business_158.txt|.|2|.|bbc_business_222.txt|.|3|.|bbc_business_420.txt|.|2|.|bbc_business_378.txt|.|2
+makers|.|bbc_business_090.txt|.|3|.|bbc_business_149.txt|.|2|.|bbc_business_424.txt|.|2
+mild|.|bbc_business_351.txt|.|2
+contract|.|bbc_business_334.txt|.|4|.|bbc_business_394.txt|.|2|.|bbc_business_096.txt|.|2|.|bbc_business_307.txt|.|2|.|bbc_business_378.txt|.|2|.|bbc_business_313.txt|.|5
+profitable|.|bbc_business_455.txt|.|3
+tonnes|.|bbc_business_158.txt|.|3|.|bbc_business_120.txt|.|3|.|bbc_business_009.txt|.|5
+cancellations|.|bbc_business_015.txt|.|2
+egypt and israel|.|bbc_business_478.txt|.|3
+cocoa production|.|bbc_business_120.txt|.|2
+columbia|.|bbc_business_122.txt|.|4
+unemployment|.|bbc_business_022.txt|.|5|.|bbc_business_046.txt|.|3|.|bbc_business_275.txt|.|3|.|bbc_business_387.txt|.|3|.|bbc_business_490.txt|.|6|.|bbc_business_253.txt|.|2|.|bbc_business_284.txt|.|2|.|bbc_business_139.txt|.|4|.|bbc_business_182.txt|.|3|.|bbc_business_007.txt|.|2
+force|.|bbc_business_161.txt|.|2
+milder|.|bbc_business_381.txt|.|2
+drivers|.|bbc_business_149.txt|.|3
+crude stocks|.|bbc_business_270.txt|.|2
+china aviation oil|.|bbc_business_499.txt|.|3
+russian companies|.|bbc_business_222.txt|.|1
+ahead|.|bbc_business_363.txt|.|1
+production unit|.|bbc_business_399.txt|.|2
+ports|.|bbc_business_363.txt|.|2
+bp|.|bbc_business_221.txt|.|6
+crude|.|bbc_business_045.txt|.|3|.|bbc_business_399.txt|.|3|.|bbc_business_144.txt|.|2|.|bbc_business_381.txt|.|5|.|bbc_business_138.txt|.|5|.|bbc_business_270.txt|.|6|.|bbc_business_152.txt|.|5|.|bbc_business_351.txt|.|2
+soaring|.|bbc_business_030.txt|.|2
+oil price|.|bbc_business_138.txt|.|2|.|bbc_business_221.txt|.|2
+us oil|.|bbc_business_351.txt|.|2
+receive|.|bbc_business_077.txt|.|1
+rosneft receive|.|bbc_business_077.txt|.|1
+oil supply|.|bbc_business_077.txt|.|2
+balkan|.|bbc_business_363.txt|.|2
+natural gas|.|bbc_business_158.txt|.|2|.|bbc_business_420.txt|.|2|.|bbc_business_378.txt|.|2
+iranian oil|.|bbc_business_420.txt|.|2
+oil fields|.|bbc_business_340.txt|.|2|.|bbc_business_420.txt|.|2
+watchdog|.|bbc_business_028.txt|.|2
+mild winter|.|bbc_business_351.txt|.|2
+oecd|.|bbc_business_030.txt|.|9
+greenspan warned|.|bbc_business_273.txt|.|2
+sign|.|bbc_business_340.txt|.|1
+northern|.|bbc_business_381.txt|.|2
+oecd said|.|bbc_business_030.txt|.|4
+biggest oil|.|bbc_business_399.txt|.|2
+supply deal|.|bbc_business_077.txt|.|2
+alan|.|bbc_business_273.txt|.|2
+fields|.|bbc_business_340.txt|.|2|.|bbc_business_420.txt|.|2
+natural resources|.|bbc_business_222.txt|.|2
+indian oil|.|bbc_business_399.txt|.|2
+winter|.|bbc_business_381.txt|.|3|.|bbc_business_270.txt|.|4|.|bbc_business_351.txt|.|3
+oil|.|bbc_business_340.txt|.|13|.|bbc_business_358.txt|.|2|.|bbc_business_412.txt|.|4|.|bbc_business_307.txt|.|7|.|bbc_business_332.txt|.|4|.|bbc_business_222.txt|.|6|.|bbc_business_138.txt|.|9|.|bbc_business_030.txt|.|7|.|bbc_business_499.txt|.|5|.|bbc_business_192.txt|.|3|.|bbc_business_391.txt|.|3|.|bbc_business_083.txt|.|3|.|bbc_business_096.txt|.|4|.|bbc_business_198.txt|.|5|.|bbc_business_091.txt|.|2|.|bbc_business_318.txt|.|3|.|bbc_business_420.txt|.|8|.|bbc_business_273.txt|.|3|.|bbc_business_221.txt|.|9|.|bbc_business_314.txt|.|4|.|bbc_business_299.txt|.|2|.|bbc_business_399.txt|.|16|.|bbc_business_080.txt|.|2|.|bbc_business_144.txt|.|6|.|bbc_business_164.txt|.|6|.|bbc_business_025.txt|.|2|.|bbc_business_363.txt|.|6|.|bbc_business_270.txt|.|8|.|bbc_business_127.txt|.|2|.|bbc_business_313.txt|.|7|.|bbc_business_077.txt|.|8|.|bbc_business_131.txt|.|5|.|bbc_business_028.txt|.|4|.|bbc_business_266.txt|.|2|.|bbc_business_284.txt|.|3|.|bbc_business_381.txt|.|4|.|bbc_business_182.txt|.|3|.|bbc_business_152.txt|.|7|.|bbc_business_351.txt|.|5
+gas|.|bbc_business_502.txt|.|4|.|bbc_business_158.txt|.|4|.|bbc_business_433.txt|.|4|.|bbc_business_420.txt|.|4|.|bbc_business_314.txt|.|3|.|bbc_business_378.txt|.|10
+prices|.|bbc_business_340.txt|.|2|.|bbc_business_184.txt|.|5|.|bbc_business_057.txt|.|2|.|bbc_business_480.txt|.|1|.|bbc_business_294.txt|.|5|.|bbc_business_370.txt|.|2|.|bbc_business_170.txt|.|4|.|bbc_business_086.txt|.|2|.|bbc_business_493.txt|.|2|.|bbc_business_138.txt|.|10|.|bbc_business_248.txt|.|5|.|bbc_business_099.txt|.|2|.|bbc_business_110.txt|.|2|.|bbc_business_125.txt|.|2|.|bbc_business_140.txt|.|5|.|bbc_business_153.txt|.|8|.|bbc_business_004.txt|.|3|.|bbc_business_252.txt|.|3|.|bbc_business_119.txt|.|3|.|bbc_business_163.txt|.|4|.|bbc_business_323.txt|.|5|.|bbc_business_273.txt|.|2|.|bbc_business_286.txt|.|2|.|bbc_business_466.txt|.|3|.|bbc_business_461.txt|.|2|.|bbc_business_016.txt|.|2|.|bbc_business_012.txt|.|8|.|bbc_business_259.txt|.|2|.|bbc_business_144.txt|.|4|.|bbc_business_415.txt|.|8|.|bbc_business_270.txt|.|6|.|bbc_business_497.txt|.|2|.|bbc_business_406.txt|.|4|.|bbc_business_430.txt|.|2|.|bbc_business_405.txt|.|13|.|bbc_business_263.txt|.|2|.|bbc_business_045.txt|.|5|.|bbc_business_360.txt|.|3|.|bbc_business_028.txt|.|3|.|bbc_business_067.txt|.|2|.|bbc_business_329.txt|.|6|.|bbc_business_381.txt|.|3|.|bbc_business_182.txt|.|3|.|bbc_business_152.txt|.|9|.|bbc_business_351.txt|.|2
+price rises|.|bbc_business_030.txt|.|1
+china aviation|.|bbc_business_499.txt|.|4
+wmc resources|.|bbc_business_366.txt|.|2
+labor department|.|bbc_business_134.txt|.|2|.|bbc_business_253.txt|.|2|.|bbc_business_007.txt|.|2
+alternative|.|bbc_business_071.txt|.|1|.|bbc_business_363.txt|.|2
+raised|.|bbc_business_429.txt|.|1|.|bbc_business_028.txt|.|2|.|bbc_business_019.txt|.|1
+financial stocks|.|bbc_business_031.txt|.|2
+macedonia|.|bbc_business_363.txt|.|3
+venezuelan authorities|.|bbc_business_388.txt|.|2
+honda|.|bbc_business_342.txt|.|3
+control|.|bbc_business_131.txt|.|3|.|bbc_business_343.txt|.|2|.|bbc_business_421.txt|.|3
+technology|.|bbc_business_267.txt|.|2|.|bbc_business_211.txt|.|3|.|bbc_business_365.txt|.|2
+auctioned|.|bbc_business_025.txt|.|1
+aires|.|bbc_business_123.txt|.|2|.|bbc_business_501.txt|.|3
+fuel supplier|.|bbc_business_499.txt|.|2
+former directors|.|bbc_business_414.txt|.|2|.|bbc_business_403.txt|.|3
+fraud charges|.|bbc_business_122.txt|.|2|.|bbc_business_059.txt|.|1
+corporate social|.|bbc_business_397.txt|.|4
+high oil price|.|bbc_business_221.txt|.|2
+annual profits|.|bbc_business_221.txt|.|2
+building societies|.|bbc_business_323.txt|.|2
+compensation|.|bbc_business_263.txt|.|10|.|bbc_business_342.txt|.|2
+consumer spending|.|bbc_business_438.txt|.|2|.|bbc_business_290.txt|.|2|.|bbc_business_175.txt|.|3|.|bbc_business_163.txt|.|2|.|bbc_business_182.txt|.|2|.|bbc_business_044.txt|.|3|.|bbc_business_165.txt|.|5|.|bbc_business_190.txt|.|4
+advertise|.|bbc_business_443.txt|.|1

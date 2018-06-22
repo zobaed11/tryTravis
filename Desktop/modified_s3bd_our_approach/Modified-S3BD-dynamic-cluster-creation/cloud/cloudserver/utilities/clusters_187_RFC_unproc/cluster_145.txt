@@ -1,0 +1,120 @@
+route refresh|.|rfc2918.txt|.|14
+error code|.|rfc5284.txt|.|15|.|rfc4783.txt|.|10|.|rfc5389.txt|.|32|.|rfc5615.txt|.|19|.|rfc630.txt|.|3|.|rfc2661.txt|.|15|.|rfc5710.txt|.|16|.|rfc5793.txt|.|66|.|rfc4261.txt|.|9
+netrjs|.|rfc189.txt|.|65|.|rfc325.txt|.|26|.|rfc589.txt|.|18|.|rfc599.txt|.|47
+point of view|.|rfc3930.txt|.|46
+sockets for api|.|rfc4584.txt|.|24
+physical message|.|rfc58.txt|.|5
+record formats|.|rfc2924.txt|.|47
+chowdhury|.|rfc4280.txt|.|13
+ldap control|.|rfc2696.txt|.|7|.|rfc2649.txt|.|13|.|rfc2891.txt|.|9
+token december|.|rfc5105.txt|.|16
+gcm|.|rfc5084.txt|.|9|.|rfc5282.txt|.|58|.|rfc4705.txt|.|7|.|rfc6239.txt|.|1|.|rfc5288.txt|.|13|.|rfc4106.txt|.|31|.|rfc5487.txt|.|8|.|rfc5647.txt|.|19
+acct client|.|rfc4670.txt|.|22
+gco|.|rfc5557.txt|.|60
+arpa network mailing lists|.|rfc300.txt|.|9
+jones standards|.|rfc4103.txt|.|20
+alternative abr behaviors|.|rfc3509.txt|.|3
+compressed data format|.|rfc1951.txt|.|20|.|rfc1950.txt|.|18
+ethernet frames|.|rfc4719.txt|.|21
+concerning the technical|.|rfc2860.txt|.|3
+persistent|.|rfc5138.txt|.|3|.|rfc3345.txt|.|27
+rsip|.|rfc4097.txt|.|155|.|rfc3104.txt|.|152|.|rfc3105.txt|.|82|.|rfc3103.txt|.|463|.|rfc3102.txt|.|439
+laurel|.|rfc4276.txt|.|270
+phase|.|rfc2371.txt|.|1|.|rfc3654.txt|.|18|.|rfc3928.txt|.|55|.|rfc2162.txt|.|32|.|rfc5047.txt|.|42
+yy|.|rfc2626.txt|.|352
+data tablet|.|rfc199.txt|.|7
+lost message|.|rfc512.txt|.|5|.|rfc534.txt|.|3|.|rfc516.txt|.|3|.|rfc492.txt|.|3
+summarises|.|rfc2031.txt|.|1
+mayrhofer|.|rfc5774.txt|.|35|.|rfc4969.txt|.|10|.|rfc6118.txt|.|75
+graphics loader|.|rfc186.txt|.|26
+use two|.|rfc135.txt|.|1
+destinations|.|rfc5058.txt|.|59|.|rfc4760.txt|.|11
+hardaker|.|rfc6168.txt|.|20|.|rfc5591.txt|.|32
+kalusivalingam|.|rfc4075.txt|.|7|.|rfc3898.txt|.|9
+qos control service|.|rfc2210.txt|.|29
+database updates|.|rfc2726.txt|.|12
+octetstring|.|rfc3780.txt|.|26
+break signal|.|rfc4335.txt|.|11
+re|.|rfc4187.txt|.|5|.|rfc3647.txt|.|4|.|rfc17.txt|.|7|.|rfc5749.txt|.|3|.|rfc4293.txt|.|6|.|rfc17a.txt|.|5|.|rfc4736.txt|.|2|.|rfc4920.txt|.|4|.|rfc39.txt|.|3|.|rfc5407.txt|.|1|.|rfc3846.txt|.|1|.|rfc5169.txt|.|10|.|rfc4186.txt|.|1|.|rfc2243.txt|.|2|.|rfc3374.txt|.|1
+mobility march|.|rfc5980.txt|.|31
+relay agent option|.|rfc3993.txt|.|8
+bgp capabilities|.|rfc2918.txt|.|2
+protocol identifier|.|rfc2896.txt|.|30|.|rfc2895.txt|.|53|.|rfc3395.txt|.|26|.|rfc4567.txt|.|14
+information export|.|rfc5476.txt|.|7|.|rfc5815.txt|.|30|.|rfc5610.txt|.|13|.|rfc5153.txt|.|7
+session key|.|rfc5416.txt|.|26|.|rfc1991.txt|.|22|.|rfc4880.txt|.|67|.|rfc3079.txt|.|30
+periodic|.|rfc5148.txt|.|10|.|rfc3432.txt|.|29
+ppp chap|.|rfc2433.txt|.|21
+surfnet|.|rfc2031.txt|.|2
+attribute april|.|rfc4849.txt|.|8
+ucs transformation|.|rfc2279.txt|.|4
+bv|.|rfc2031.txt|.|2
+notifiedentity|.|rfc3991.txt|.|17
+power|.|rfc5548.txt|.|12|.|rfc6201.txt|.|23|.|rfc5826.txt|.|22|.|rfc4919.txt|.|10|.|rfc3621.txt|.|59
+barber|.|rfc2980.txt|.|31
+alternate ecn semantics|.|rfc4774.txt|.|59
+response header|.|rfc2965.txt|.|27|.|rfc2310.txt|.|10
+removal march|.|rfc4450.txt|.|10
+modeling language|.|rfc3780.txt|.|2|.|rfc6244.txt|.|6|.|rfc3505.txt|.|3|.|rfc6021.txt|.|6
+computer and network|.|rfc153.txt|.|4
+osi connectionless|.|rfc2556.txt|.|3
+gfa|.|rfc4857.txt|.|277
+directives|.|rfc4263.txt|.|15
+assigned numbers|.|rfc3330.txt|.|7|.|rfc3438.txt|.|4|.|rfc2172.txt|.|1|.|rfc2860.txt|.|4|.|rfc3232.txt|.|5
+host software|.|rfc3.txt|.|3|.|rfc84.txt|.|3|.|rfc11.txt|.|23|.|rfc160.txt|.|3|.|rfc30.txt|.|2|.|rfc27.txt|.|2|.|rfc24.txt|.|2|.|rfc1.txt|.|15
+packet system|.|rfc5516.txt|.|5
+notes december|.|rfc82.txt|.|17
+service search|.|rfc2937.txt|.|7
+font|.|rfc3073.txt|.|5
+multiplexed|.|rfc5087.txt|.|5|.|rfc5956.txt|.|2|.|rfc5762.txt|.|8|.|rfc3355.txt|.|2|.|rfc3391.txt|.|13|.|rfc4170.txt|.|47|.|rfc2364.txt|.|6|.|rfc3336.txt|.|9|.|rfc3533.txt|.|8|.|rfc3153.txt|.|29|.|rfc44.txt|.|1|.|rfc6263.txt|.|5|.|rfc2363.txt|.|5
+uniform resource|.|rfc2838.txt|.|4|.|rfc3617.txt|.|5|.|rfc4617.txt|.|8|.|rfc2392.txt|.|4|.|rfc2141.txt|.|4|.|rfc2368.txt|.|5|.|rfc4151.txt|.|3|.|rfc2718.txt|.|3|.|rfc2111.txt|.|4|.|rfc4266.txt|.|4|.|rfc2079.txt|.|8|.|rfc3404.txt|.|12|.|rfc4854.txt|.|5|.|rfc4967.txt|.|2|.|rfc3305.txt|.|12|.|rfc4179.txt|.|3|.|rfc5017.txt|.|8|.|rfc3615.txt|.|3|.|rfc2056.txt|.|3|.|rfc4688.txt|.|4|.|rfc5119.txt|.|5|.|rfc3937.txt|.|4|.|rfc4156.txt|.|4|.|rfc2016.txt|.|28|.|rfc3622.txt|.|3|.|rfc5781.txt|.|2|.|rfc3508.txt|.|3|.|rfc2276.txt|.|33|.|rfc4157.txt|.|4|.|rfc4979.txt|.|6
+technical liaison|.|rfc95.txt|.|7
+name service|.|rfc4174.txt|.|4|.|rfc3650.txt|.|13|.|rfc623.txt|.|2
+internet standards process|.|rfc2026.txt|.|64
+enhancement protocol|.|rfc3093.txt|.|13
+dns servers|.|rfc4241.txt|.|5|.|rfc2182.txt|.|14
+normative|.|rfc4608.txt|.|8|.|rfc4219.txt|.|2|.|rfc5078.txt|.|18|.|rfc3967.txt|.|20|.|rfc4897.txt|.|21
+soliman informational|.|rfc4763.txt|.|46
+textual convention|.|rfc3808.txt|.|6|.|rfc5017.txt|.|2|.|rfc4001.txt|.|29|.|rfc4801.txt|.|1|.|rfc2851.txt|.|11|.|rfc3419.txt|.|20|.|rfc2707.txt|.|14|.|rfc2213.txt|.|1|.|rfc2786.txt|.|9|.|rfc3159.txt|.|25|.|rfc4836.txt|.|13|.|rfc5131.txt|.|8|.|rfc3291.txt|.|27
+create|.|rfc5277.txt|.|8|.|rfc5973.txt|.|157|.|rfc3995.txt|.|42|.|rfc4545.txt|.|6|.|rfc6293.txt|.|10|.|rfc2094.txt|.|28|.|rfc3285.txt|.|23|.|rfc5239.txt|.|28
+sort extensions|.|rfc3421.txt|.|13
+collation|.|rfc5255.txt|.|13|.|rfc3381.txt|.|17|.|rfc5051.txt|.|23|.|rfc4790.txt|.|189
+gser|.|rfc3642.txt|.|54|.|rfc4913.txt|.|31
+mhtml|.|rfc2110.txt|.|22
+replay|.|rfc5277.txt|.|39|.|rfc2406.txt|.|1|.|rfc2617.txt|.|19|.|rfc2085.txt|.|19|.|rfc2069.txt|.|14|.|rfc4030.txt|.|33|.|rfc4303.txt|.|6|.|rfc4251.txt|.|9|.|rfc4302.txt|.|6
+pando|.|rfc5632.txt|.|15
+manet packet|.|rfc5444.txt|.|59
+language machine for data|.|rfc83.txt|.|12
+qpim|.|rfc3644.txt|.|135
+cgas|.|rfc4982.txt|.|36
+gsmp|.|rfc1987.txt|.|81|.|rfc3295.txt|.|149
+gaynor|.|rfc3093.txt|.|13
+data management|.|rfc144.txt|.|35|.|rfc291.txt|.|4|.|rfc316.txt|.|22|.|rfc304.txt|.|10|.|rfc188.txt|.|7|.|rfc173.txt|.|6
+image body|.|rfc2158.txt|.|4
+scale|.|rfc4564.txt|.|4|.|rfc5578.txt|.|55
+allowed sending|.|rfc5348.txt|.|51
+gspd|.|rfc5374.txt|.|37
+leasequery message|.|rfc5007.txt|.|14
+troost|.|rfc2183.txt|.|14
+extension of ospf|.|rfc5614.txt|.|71
+asynchronous|.|rfc3989.txt|.|36|.|rfc3337.txt|.|4|.|rfc5573.txt|.|54
+station|.|rfc2390.txt|.|43|.|rfc303.txt|.|6|.|rfc2604.txt|.|57|.|rfc3580.txt|.|6|.|rfc2636.txt|.|57
+bdat|.|rfc3030.txt|.|40
+dial sequence|.|rfc3601.txt|.|20
+detecting network attachment|.|rfc4135.txt|.|8|.|rfc6059.txt|.|11
+gilchrist|.|rfc2612.txt|.|21
+fragment attack|.|rfc3128.txt|.|9
+proposed graphic display|.|rfc184.txt|.|7
+fpdu|.|rfc5044.txt|.|238
+running application element|.|rfc2564.txt|.|97
+subscriber management|.|rfc4036.txt|.|35
+factors|.|rfc192.txt|.|19|.|rfc5218.txt|.|64
+generalized ttl|.|rfc3682.txt|.|13
+questionnaires|.|rfc459.txt|.|5
+merge capable atm|.|rfc2682.txt|.|11
+fyi|.|rfc2664.txt|.|19
+congestion management system|.|rfc6057.txt|.|58
+xr|.|rfc3611.txt|.|128|.|rfc5093.txt|.|13
+compensation|.|rfc5372.txt|.|18
+bagnulo informational|.|rfc6181.txt|.|17
+message data types|.|rfc42.txt|.|4
+nhrp resolution|.|rfc2332.txt|.|150

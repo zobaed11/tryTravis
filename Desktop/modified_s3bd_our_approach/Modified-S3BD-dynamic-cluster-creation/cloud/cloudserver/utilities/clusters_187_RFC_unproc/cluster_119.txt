@@ -1,0 +1,120 @@
+parent|.|rfc5842.txt|.|9
+connection ltd|.|rfc5017.txt|.|2
+resource evaluation|.|rfc519.txt|.|4
+gudmundsson|.|rfc2538.txt|.|12|.|rfc3658.txt|.|22
+gerhards adiscon gmbh|.|rfc5674.txt|.|2
+evaluators|.|rfc545.txt|.|7
+resource identified|.|rfc2483.txt|.|5|.|rfc2169.txt|.|4
+dusseault standards track|.|rfc4918.txt|.|127
+setquota|.|rfc2087.txt|.|9
+adiscon|.|rfc5674.txt|.|2
+webdav|.|rfc5397.txt|.|18|.|rfc4437.txt|.|37|.|rfc2518.txt|.|160|.|rfc4918.txt|.|233|.|rfc3744.txt|.|111|.|rfc5995.txt|.|37|.|rfc4316.txt|.|23|.|rfc5842.txt|.|71|.|rfc4331.txt|.|16|.|rfc3253.txt|.|155|.|rfc5333.txt|.|6|.|rfc5323.txt|.|76|.|rfc5689.txt|.|26|.|rfc4709.txt|.|44|.|rfc3648.txt|.|42
+priority queueing|.|rfc4412.txt|.|10
+resource record|.|rfc6195.txt|.|6|.|rfc5483.txt|.|9|.|rfc3755.txt|.|9|.|rfc3757.txt|.|6|.|rfc4431.txt|.|13|.|rfc3658.txt|.|23|.|rfc2065.txt|.|19|.|rfc5936.txt|.|34|.|rfc4255.txt|.|8|.|rfc5395.txt|.|7|.|rfc5507.txt|.|85|.|rfc3445.txt|.|16|.|rfc4025.txt|.|16|.|rfc3845.txt|.|7|.|rfc2181.txt|.|14
+webdav redirect|.|rfc4437.txt|.|25
+redirect reference resources|.|rfc4437.txt|.|62
+http resource|.|rfc5989.txt|.|26
+http monitor|.|rfc5989.txt|.|8
+lock|.|rfc4936.txt|.|55|.|rfc5842.txt|.|38|.|rfc2518.txt|.|272|.|rfc4918.txt|.|416|.|rfc6241.txt|.|92|.|rfc2291.txt|.|19|.|rfc5717.txt|.|132|.|rfc3010.txt|.|172
+write|.|rfc4858.txt|.|1|.|rfc5663.txt|.|26|.|rfc2518.txt|.|77|.|rfc5666.txt|.|67
+resolution january|.|rfc2276.txt|.|23
+researchers|.|rfc2413.txt|.|2
+signature method|.|rfc5849.txt|.|17
+compressible flows|.|rfc3006.txt|.|13
+alarms in syslog|.|rfc5674.txt|.|7
+issn urn namespace|.|rfc3044.txt|.|6
+rrsig rr|.|rfc4034.txt|.|22
+management of resource|.|rfc2518.txt|.|2|.|rfc4918.txt|.|2
+cancellation|.|rfc483.txt|.|2
+ieprep sip|.|rfc3487.txt|.|16
+webdav june|.|rfc4918.txt|.|126
+brought|.|rfc2413.txt|.|2
+test groups|.|rfc519.txt|.|3
+defence|.|rfc6288.txt|.|8
+setquota command|.|rfc2087.txt|.|3
+brought together librarians|.|rfc2413.txt|.|2
+quota extension|.|rfc2087.txt|.|3
+sd|.|rfc5674.txt|.|1
+uniform|.|rfc2838.txt|.|4|.|rfc3443.txt|.|16|.|rfc3617.txt|.|5|.|rfc4617.txt|.|8|.|rfc3044.txt|.|13|.|rfc2392.txt|.|4|.|rfc2141.txt|.|4|.|rfc2368.txt|.|5|.|rfc4151.txt|.|3|.|rfc2718.txt|.|4|.|rfc2111.txt|.|4|.|rfc4266.txt|.|4|.|rfc2079.txt|.|8|.|rfc3404.txt|.|12|.|rfc4854.txt|.|5|.|rfc5328.txt|.|6|.|rfc4967.txt|.|2|.|rfc3305.txt|.|12|.|rfc4179.txt|.|3|.|rfc5017.txt|.|8|.|rfc3615.txt|.|3|.|rfc2056.txt|.|3|.|rfc4688.txt|.|4|.|rfc5526.txt|.|2|.|rfc2483.txt|.|11|.|rfc5119.txt|.|6|.|rfc3937.txt|.|5|.|rfc4156.txt|.|4|.|rfc2016.txt|.|29|.|rfc3622.txt|.|3|.|rfc5781.txt|.|2|.|rfc3508.txt|.|3|.|rfc5724.txt|.|9|.|rfc2276.txt|.|33|.|rfc4157.txt|.|4|.|rfc4979.txt|.|6
+resource allocation|.|rfc2990.txt|.|3|.|rfc2749.txt|.|6|.|rfc3006.txt|.|12|.|rfc4872.txt|.|8|.|rfc2753.txt|.|2
+composed|.|rfc519.txt|.|2
+webdav april|.|rfc5842.txt|.|44
+write lock|.|rfc2518.txt|.|29
+resource locators|.|rfc2056.txt|.|3|.|rfc2276.txt|.|4|.|rfc2368.txt|.|5
+gathering efforts|.|rfc464.txt|.|2
+new resource|.|rfc5507.txt|.|26
+url definition|.|rfc3508.txt|.|2
+uniform resource names|.|rfc3305.txt|.|6|.|rfc3044.txt|.|6|.|rfc4854.txt|.|3
+broadcast identifiers|.|rfc2838.txt|.|2
+uniform resource identifiers|.|rfc3617.txt|.|2|.|rfc5526.txt|.|2|.|rfc2483.txt|.|2
+request to the service|.|rfc2904.txt|.|4
+suppress|.|rfc393.txt|.|2|.|rfc5839.txt|.|11|.|rfc559.txt|.|12
+resource owner|.|rfc5849.txt|.|58
+txt|.|rfc5507.txt|.|25
+rsa sigs and keys|.|rfc3110.txt|.|6
+automated|.|rfc4107.txt|.|19|.|rfc504.txt|.|10
+mit mathlab|.|rfc525.txt|.|1|.|rfc578.txt|.|1
+dusseault standards|.|rfc4918.txt|.|127
+willis|.|rfc5839.txt|.|27|.|rfc5875.txt|.|30
+token credentials|.|rfc5849.txt|.|26
+urn namespace|.|rfc3120.txt|.|5|.|rfc3001.txt|.|9|.|rfc5138.txt|.|11|.|rfc3044.txt|.|13|.|rfc4926.txt|.|13|.|rfc5279.txt|.|8|.|rfc3061.txt|.|11|.|rfc3616.txt|.|13|.|rfc3151.txt|.|12|.|rfc3121.txt|.|7|.|rfc2611.txt|.|29|.|rfc3553.txt|.|13|.|rfc3085.txt|.|7|.|rfc3305.txt|.|22|.|rfc4152.txt|.|13|.|rfc4122.txt|.|32|.|rfc4688.txt|.|11|.|rfc4729.txt|.|9|.|rfc5119.txt|.|10|.|rfc4195.txt|.|7|.|rfc3406.txt|.|53|.|rfc3622.txt|.|10|.|rfc3613.txt|.|15|.|rfc3043.txt|.|7|.|rfc2648.txt|.|30
+resource names|.|rfc3305.txt|.|6|.|rfc4179.txt|.|2|.|rfc3044.txt|.|6|.|rfc4729.txt|.|5|.|rfc4854.txt|.|3
+authoring|.|rfc4331.txt|.|4|.|rfc2291.txt|.|37|.|rfc5689.txt|.|3
+quotas|.|rfc4331.txt|.|15
+webdav quotas|.|rfc4331.txt|.|9
+telecommunications council|.|rfc3937.txt|.|5
+resource compression|.|rfc1975.txt|.|8
+iris to uris|.|rfc3987.txt|.|10
+rsa sigs|.|rfc3110.txt|.|6
+quotaroot response|.|rfc2087.txt|.|3
+signature base|.|rfc5849.txt|.|24
+use of sha|.|rfc4509.txt|.|7|.|rfc5702.txt|.|2
+novices|.|rfc519.txt|.|2
+mapping media|.|rfc3524.txt|.|5
+dusseault|.|rfc4918.txt|.|129|.|rfc5789.txt|.|13
+core metadata workshop|.|rfc2413.txt|.|2
+librarians|.|rfc2413.txt|.|2
+choices when expanding|.|rfc5507.txt|.|18
+aiken|.|rfc2768.txt|.|33
+resource|.|rfc2990.txt|.|44|.|rfc5362.txt|.|25|.|rfc4133.txt|.|10|.|rfc3214.txt|.|10|.|rfc4257.txt|.|9|.|rfc3044.txt|.|23|.|rfc3524.txt|.|18|.|rfc2931.txt|.|8|.|rfc2087.txt|.|17|.|rfc5478.txt|.|2|.|rfc2753.txt|.|13|.|rfc2141.txt|.|7|.|rfc464.txt|.|10|.|rfc4859.txt|.|5|.|rfc4883.txt|.|67|.|rfc4151.txt|.|6|.|rfc5115.txt|.|11|.|rfc2291.txt|.|82|.|rfc2079.txt|.|11|.|rfc5849.txt|.|83|.|rfc545.txt|.|11|.|rfc5328.txt|.|9|.|rfc519.txt|.|9|.|rfc4437.txt|.|117|.|rfc3305.txt|.|16|.|rfc2518.txt|.|352|.|rfc2056.txt|.|3|.|rfc5526.txt|.|3|.|rfc5364.txt|.|64|.|rfc2768.txt|.|59|.|rfc6288.txt|.|11|.|rfc5936.txt|.|57|.|rfc268.txt|.|2|.|rfc5842.txt|.|209|.|rfc4331.txt|.|19|.|rfc5702.txt|.|28|.|rfc4662.txt|.|180|.|rfc5781.txt|.|2|.|rfc446.txt|.|3|.|rfc5839.txt|.|78|.|rfc3508.txt|.|3|.|rfc5395.txt|.|12|.|rfc3445.txt|.|19|.|rfc2737.txt|.|2|.|rfc2749.txt|.|7|.|rfc514.txt|.|2|.|rfc3006.txt|.|17|.|rfc3757.txt|.|7|.|rfc4872.txt|.|37|.|rfc4660.txt|.|57|.|rfc2111.txt|.|5|.|rfc3253.txt|.|624|.|rfc4791.txt|.|130|.|rfc3845.txt|.|7|.|rfc2181.txt|.|19|.|rfc4509.txt|.|4|.|rfc5483.txt|.|15|.|rfc3755.txt|.|10|.|rfc5989.txt|.|56|.|rfc5933.txt|.|14|.|rfc4729.txt|.|20|.|rfc5974.txt|.|52|.|rfc578.txt|.|16|.|rfc4255.txt|.|11|.|rfc3110.txt|.|6|.|rfc5724.txt|.|9|.|rfc2702.txt|.|67|.|rfc4622.txt|.|33|.|rfc4157.txt|.|5|.|rfc4979.txt|.|11|.|rfc4923.txt|.|12|.|rfc5711.txt|.|5|.|rfc4825.txt|.|74|.|rfc3541.txt|.|5|.|rfc3169.txt|.|9|.|rfc2169.txt|.|28|.|rfc4078.txt|.|6|.|rfc2037.txt|.|2|.|rfc3487.txt|.|28|.|rfc2718.txt|.|7|.|rfc4266.txt|.|5|.|rfc5495.txt|.|8|.|rfc5134.txt|.|5|.|rfc2904.txt|.|46|.|rfc62.txt|.|30|.|rfc3088.txt|.|10|.|rfc4592.txt|.|14|.|rfc6068.txt|.|7|.|rfc6195.txt|.|11|.|rfc4470.txt|.|3|.|rfc4152.txt|.|4|.|rfc4179.txt|.|7|.|rfc5017.txt|.|8|.|rfc2098.txt|.|21|.|rfc4688.txt|.|9|.|rfc2535.txt|.|44|.|rfc2483.txt|.|41|.|rfc3937.txt|.|8|.|rfc3622.txt|.|4|.|rfc5507.txt|.|115|.|rfc5538.txt|.|5|.|rfc4025.txt|.|19|.|rfc2276.txt|.|63|.|rfc2838.txt|.|4|.|rfc5367.txt|.|39|.|rfc3617.txt|.|5|.|rfc4617.txt|.|13|.|rfc4918.txt|.|477|.|rfc2413.txt|.|40|.|rfc3987.txt|.|82|.|rfc2392.txt|.|5|.|rfc2368.txt|.|8|.|rfc592.txt|.|9|.|rfc4412.txt|.|90|.|rfc2705.txt|.|10|.|rfc4501.txt|.|10|.|rfc3404.txt|.|24|.|rfc4854.txt|.|5|.|rfc5674.txt|.|16|.|rfc4967.txt|.|2|.|rfc3615.txt|.|5|.|rfc483.txt|.|2|.|rfc3920.txt|.|97|.|rfc4431.txt|.|14|.|rfc5119.txt|.|6|.|rfc3658.txt|.|23|.|rfc4156.txt|.|4|.|rfc2016.txt|.|42|.|rfc2065.txt|.|37|.|rfc2396.txt|.|52|.|rfc1945.txt|.|96|.|rfc3073.txt|.|3|.|rfc5817.txt|.|39|.|rfc3312.txt|.|57|.|rfc6272.txt|.|33|.|rfc4826.txt|.|98|.|rfc4034.txt|.|79|.|rfc1975.txt|.|8|.|rfc504.txt|.|18
+pickens|.|rfc574.txt|.|2|.|rfc369.txt|.|11|.|rfc485.txt|.|2|.|rfc545.txt|.|3|.|rfc490.txt|.|6|.|rfc519.txt|.|4|.|rfc398.txt|.|2
+queueing|.|rfc4412.txt|.|16
+created|.|rfc5842.txt|.|25|.|rfc49.txt|.|7|.|rfc4387.txt|.|2|.|rfc3063.txt|.|17
+record type|.|rfc5507.txt|.|41
+resource agents|.|rfc2016.txt|.|21
+history|.|rfc6044.txt|.|10|.|rfc2118.txt|.|23|.|rfc3245.txt|.|12|.|rfc2493.txt|.|23|.|rfc3943.txt|.|47|.|rfc3253.txt|.|199|.|rfc5773.txt|.|54|.|rfc1974.txt|.|118|.|rfc4244.txt|.|138|.|rfc1967.txt|.|89|.|rfc4458.txt|.|9|.|rfc3593.txt|.|27
+goyens|.|rfc3615.txt|.|7
+multi status|.|rfc2518.txt|.|1
+variable resource compression|.|rfc1975.txt|.|8
+metadata workshop series|.|rfc2413.txt|.|2
+efforts|.|rfc464.txt|.|2
+namespace january|.|rfc3044.txt|.|14
+resolver service|.|rfc2276.txt|.|11
+client credentials|.|rfc5849.txt|.|20
+resource name|.|rfc4152.txt|.|2|.|rfc4617.txt|.|4|.|rfc3615.txt|.|3|.|rfc5134.txt|.|3|.|rfc4688.txt|.|2|.|rfc3541.txt|.|2|.|rfc5119.txt|.|2
+target resource|.|rfc4437.txt|.|26
+middleware services|.|rfc2768.txt|.|33
+key rrs|.|rfc3110.txt|.|7
+status type|.|rfc3312.txt|.|21
+financial|.|rfc3615.txt|.|7
+temporary credentials|.|rfc5849.txt|.|27
+resource manager|.|rfc2904.txt|.|22
+national computerization agency|.|rfc4179.txt|.|4
+miniman|.|rfc519.txt|.|4
+base string|.|rfc5849.txt|.|27
+locators|.|rfc2056.txt|.|3|.|rfc2276.txt|.|4|.|rfc2392.txt|.|2|.|rfc2368.txt|.|5
+workshop on middleware|.|rfc2768.txt|.|29
+workshop announcement|.|rfc504.txt|.|5
+chisholm|.|rfc5674.txt|.|10
+middleware|.|rfc3613.txt|.|4|.|rfc2768.txt|.|166
+allocations to that resource|.|rfc4331.txt|.|1
+resource reservation|.|rfc4883.txt|.|59|.|rfc3524.txt|.|18|.|rfc4923.txt|.|10|.|rfc5711.txt|.|5|.|rfc4859.txt|.|5
+online computer|.|rfc2413.txt|.|2
+whitehead|.|rfc4437.txt|.|29
+notebook framework|.|rfc464.txt|.|2
+lock token|.|rfc2518.txt|.|38|.|rfc4918.txt|.|57
+key tag field|.|rfc4034.txt|.|11
+extension for atm|.|rfc2098.txt|.|17
+nfc forum|.|rfc4729.txt|.|35
+getquota command|.|rfc2087.txt|.|3
+resource evaluators|.|rfc545.txt|.|5

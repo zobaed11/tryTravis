@@ -1,0 +1,17 @@
+34
+helping disabled|.|277.txt|.|1
+republic|.|001.txt|.|3
+honeynet|.|357.txt|.|3
+honeynet project|.|357.txt|.|2
+secret|.|120.txt|.|3
+agricultural|.|006.txt|.|3
+post|.|118.txt|.|3|.|387.txt|.|3
+identity|.|131.txt|.|2|.|179.txt|.|2|.|120.txt|.|2
+recruit|.|357.txt|.|1
+security researchers|.|357.txt|.|2
+websites|.|102.txt|.|4|.|156.txt|.|2|.|357.txt|.|4|.|189.txt|.|6|.|120.txt|.|4|.|293.txt|.|2
+hopes|.|189.txt|.|2
+credit|.|164.txt|.|3|.|120.txt|.|5
+filtering|.|189.txt|.|1
+day|.|066.txt|.|2|.|035.txt|.|6|.|381.txt|.|2|.|189.txt|.|3|.|188.txt|.|3
+spam websites|.|189.txt|.|3

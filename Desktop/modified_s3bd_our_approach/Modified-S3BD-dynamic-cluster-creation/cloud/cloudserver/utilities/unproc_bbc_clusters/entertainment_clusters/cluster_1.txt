@@ -1,0 +1,93 @@
+1
+big|.|bbc_entertainment_221.txt|.|6|.|bbc_entertainment_180.txt|.|2|.|bbc_entertainment_353.txt|.|8|.|bbc_entertainment_179.txt|.|2|.|bbc_entertainment_132.txt|.|2|.|bbc_entertainment_187.txt|.|2|.|bbc_entertainment_216.txt|.|2|.|bbc_entertainment_203.txt|.|6|.|bbc_entertainment_225.txt|.|3
+greeted|.|bbc_entertainment_036.txt|.|2
+book chart|.|bbc_entertainment_025.txt|.|2
+expert|.|bbc_entertainment_193.txt|.|1
+dj|.|bbc_entertainment_284.txt|.|3
+songwriting|.|bbc_entertainment_106.txt|.|1
+chart show|.|bbc_entertainment_284.txt|.|4
+official|.|bbc_entertainment_278.txt|.|5
+film took|.|bbc_entertainment_312.txt|.|2
+delayed|.|bbc_entertainment_278.txt|.|2
+top uk singles|.|bbc_entertainment_112.txt|.|1
+office|.|bbc_entertainment_060.txt|.|2|.|bbc_entertainment_100.txt|.|4|.|bbc_entertainment_312.txt|.|2|.|bbc_entertainment_073.txt|.|3|.|bbc_entertainment_364.txt|.|2|.|bbc_entertainment_046.txt|.|2|.|bbc_entertainment_202.txt|.|2|.|bbc_entertainment_363.txt|.|6|.|bbc_entertainment_049.txt|.|3|.|bbc_entertainment_350.txt|.|3|.|bbc_entertainment_088.txt|.|3|.|bbc_entertainment_380.txt|.|3|.|bbc_entertainment_196.txt|.|5|.|bbc_entertainment_072.txt|.|4|.|bbc_entertainment_384.txt|.|2|.|bbc_entertainment_335.txt|.|3|.|bbc_entertainment_066.txt|.|2|.|bbc_entertainment_053.txt|.|6|.|bbc_entertainment_297.txt|.|3|.|bbc_entertainment_338.txt|.|2|.|bbc_entertainment_074.txt|.|3|.|bbc_entertainment_340.txt|.|3|.|bbc_entertainment_076.txt|.|4|.|bbc_entertainment_065.txt|.|2
+number one single|.|bbc_entertainment_240.txt|.|2
+chart at number|.|bbc_entertainment_126.txt|.|3
+revamp|.|bbc_entertainment_284.txt|.|1
+double act|.|bbc_entertainment_284.txt|.|2
+maiden|.|bbc_entertainment_322.txt|.|3
+number|.|bbc_entertainment_233.txt|.|4|.|bbc_entertainment_240.txt|.|5|.|bbc_entertainment_126.txt|.|10|.|bbc_entertainment_234.txt|.|10|.|bbc_entertainment_159.txt|.|4
+snicket|.|bbc_entertainment_060.txt|.|3
+face barriers|.|bbc_entertainment_194.txt|.|2
+benny goodman|.|bbc_entertainment_164.txt|.|2
+motion picture|.|bbc_entertainment_035.txt|.|2
+william|.|bbc_entertainment_221.txt|.|3|.|bbc_entertainment_328.txt|.|5|.|bbc_entertainment_086.txt|.|5|.|bbc_entertainment_333.txt|.|2
+white rose|.|bbc_entertainment_090.txt|.|2
+sequel|.|bbc_entertainment_379.txt|.|2|.|bbc_entertainment_074.txt|.|5|.|bbc_entertainment_088.txt|.|5|.|bbc_entertainment_037.txt|.|2
+joel|.|bbc_entertainment_284.txt|.|3
+sky|.|bbc_entertainment_059.txt|.|11
+revamped|.|bbc_entertainment_284.txt|.|2
+ultimate|.|bbc_entertainment_136.txt|.|2
+double|.|bbc_entertainment_221.txt|.|2|.|bbc_entertainment_187.txt|.|2|.|bbc_entertainment_284.txt|.|2
+elvis is set to top|.|bbc_entertainment_112.txt|.|1
+director|.|bbc_entertainment_377.txt|.|4|.|bbc_entertainment_379.txt|.|2|.|bbc_entertainment_094.txt|.|3|.|bbc_entertainment_062.txt|.|1|.|bbc_entertainment_023.txt|.|3|.|bbc_entertainment_072.txt|.|2|.|bbc_entertainment_042.txt|.|5|.|bbc_entertainment_028.txt|.|2|.|bbc_entertainment_324.txt|.|1|.|bbc_entertainment_280.txt|.|8|.|bbc_entertainment_273.txt|.|3|.|bbc_entertainment_370.txt|.|1|.|bbc_entertainment_383.txt|.|2|.|bbc_entertainment_052.txt|.|2|.|bbc_entertainment_329.txt|.|2
+fry|.|bbc_entertainment_299.txt|.|5
+uk album|.|bbc_entertainment_126.txt|.|2
+peaks|.|bbc_entertainment_089.txt|.|2
+olympic victory|.|bbc_entertainment_189.txt|.|1
+phil|.|bbc_entertainment_149.txt|.|2|.|bbc_entertainment_207.txt|.|2
+separate case|.|bbc_entertainment_258.txt|.|1
+hobbit|.|bbc_entertainment_385.txt|.|2
+download chart|.|bbc_entertainment_127.txt|.|4|.|bbc_entertainment_103.txt|.|4
+download formats|.|bbc_entertainment_278.txt|.|3
+atwood|.|bbc_entertainment_017.txt|.|2
+gerry|.|bbc_entertainment_353.txt|.|3
+films are eligible|.|bbc_entertainment_035.txt|.|1
+singles chart|.|bbc_entertainment_112.txt|.|2|.|bbc_entertainment_278.txt|.|3|.|bbc_entertainment_127.txt|.|3|.|bbc_entertainment_159.txt|.|2|.|bbc_entertainment_103.txt|.|3
+formats|.|bbc_entertainment_278.txt|.|3
+jm|.|bbc_entertainment_316.txt|.|2
+turned|.|bbc_entertainment_003.txt|.|2|.|bbc_entertainment_242.txt|.|1|.|bbc_entertainment_272.txt|.|2
+harry|.|bbc_entertainment_028.txt|.|4|.|bbc_entertainment_033.txt|.|5|.|bbc_entertainment_025.txt|.|8
+weekend|.|bbc_entertainment_384.txt|.|3|.|bbc_entertainment_364.txt|.|2|.|bbc_entertainment_340.txt|.|2
+christmas song|.|bbc_entertainment_136.txt|.|1
+hot|.|bbc_entertainment_127.txt|.|3|.|bbc_entertainment_103.txt|.|3
+lord of the rings|.|bbc_entertainment_385.txt|.|2
+janet jackson|.|bbc_entertainment_171.txt|.|1
+sixth|.|bbc_entertainment_025.txt|.|5
+revamp chart show|.|bbc_entertainment_284.txt|.|1
+fenice theatre|.|bbc_entertainment_023.txt|.|2|.|bbc_entertainment_273.txt|.|2
+office chart|.|bbc_entertainment_060.txt|.|2
+box office chart|.|bbc_entertainment_060.txt|.|2
+unfortunate events|.|bbc_entertainment_060.txt|.|2
+barbara|.|bbc_entertainment_108.txt|.|2
+digital|.|bbc_entertainment_127.txt|.|6|.|bbc_entertainment_220.txt|.|2|.|bbc_entertainment_103.txt|.|6
+titchmarsh|.|bbc_entertainment_055.txt|.|2
+green|.|bbc_entertainment_287.txt|.|2|.|bbc_entertainment_127.txt|.|2|.|bbc_entertainment_267.txt|.|2|.|bbc_entertainment_234.txt|.|2|.|bbc_entertainment_103.txt|.|2
+set|.|bbc_entertainment_155.txt|.|5|.|bbc_entertainment_112.txt|.|2
+living|.|bbc_entertainment_369.txt|.|2
+us singles|.|bbc_entertainment_127.txt|.|2|.|bbc_entertainment_103.txt|.|2
+composer|.|bbc_entertainment_342.txt|.|3
+revamped chart|.|bbc_entertainment_284.txt|.|1
+album chart|.|bbc_entertainment_126.txt|.|2
+deport|.|bbc_entertainment_349.txt|.|1
+ultimate christmas|.|bbc_entertainment_136.txt|.|2
+wilbur|.|bbc_entertainment_302.txt|.|2
+christmas single|.|bbc_entertainment_136.txt|.|2
+places|.|bbc_entertainment_234.txt|.|2
+hide|.|bbc_entertainment_335.txt|.|2|.|bbc_entertainment_049.txt|.|2|.|bbc_entertainment_380.txt|.|2
+singles|.|bbc_entertainment_233.txt|.|1|.|bbc_entertainment_112.txt|.|3|.|bbc_entertainment_285.txt|.|3|.|bbc_entertainment_278.txt|.|4|.|bbc_entertainment_127.txt|.|6|.|bbc_entertainment_234.txt|.|2|.|bbc_entertainment_159.txt|.|2|.|bbc_entertainment_103.txt|.|6
+clark|.|bbc_entertainment_219.txt|.|6
+sports entertainment|.|bbc_entertainment_319.txt|.|2
+branson show|.|bbc_entertainment_178.txt|.|1
+bookmakers|.|bbc_entertainment_328.txt|.|5|.|bbc_entertainment_086.txt|.|5
+presley|.|bbc_entertainment_242.txt|.|7|.|bbc_entertainment_319.txt|.|2|.|bbc_entertainment_152.txt|.|4|.|bbc_entertainment_263.txt|.|2
+us singles chart|.|bbc_entertainment_127.txt|.|2|.|bbc_entertainment_103.txt|.|2
+formula|.|bbc_entertainment_136.txt|.|4
+hans christian|.|bbc_entertainment_002.txt|.|4
+sir joshua|.|bbc_entertainment_020.txt|.|2
+powers|.|bbc_entertainment_305.txt|.|4
+chart|.|bbc_entertainment_060.txt|.|3|.|bbc_entertainment_240.txt|.|2|.|bbc_entertainment_100.txt|.|2|.|bbc_entertainment_126.txt|.|5|.|bbc_entertainment_285.txt|.|3|.|bbc_entertainment_278.txt|.|7|.|bbc_entertainment_127.txt|.|16|.|bbc_entertainment_159.txt|.|2|.|bbc_entertainment_025.txt|.|3|.|bbc_entertainment_103.txt|.|16|.|bbc_entertainment_112.txt|.|3|.|bbc_entertainment_284.txt|.|9|.|bbc_entertainment_136.txt|.|3|.|bbc_entertainment_340.txt|.|2|.|bbc_entertainment_076.txt|.|2
+fun|.|bbc_entertainment_055.txt|.|2
+lemony snicket|.|bbc_entertainment_060.txt|.|2
+promotion|.|bbc_entertainment_173.txt|.|4
+kite told|.|bbc_entertainment_375.txt|.|2

@@ -1,0 +1,17 @@
+73
+gadget fan|.|093.txt|.|1
+charts|.|141.txt|.|2
+like google|.|162.txt|.|2|.|149.txt|.|2
+documents|.|131.txt|.|1|.|179.txt|.|1|.|086.txt|.|9
+football manager|.|144.txt|.|5
+sports interactive|.|144.txt|.|2
+pervasive computing|.|137.txt|.|2
+look|.|093.txt|.|3
+journals|.|162.txt|.|3|.|149.txt|.|3
+rivals|.|056.txt|.|2
+fans|.|245.txt|.|2|.|144.txt|.|3|.|093.txt|.|2|.|266.txt|.|2|.|139.txt|.|3
+mouse|.|353.txt|.|7|.|068.txt|.|2
+competitors|.|162.txt|.|2|.|149.txt|.|2
+cm game|.|144.txt|.|2
+ea sports|.|056.txt|.|2
+ask|.|062.txt|.|9|.|081.txt|.|2|.|393.txt|.|2|.|318.txt|.|9|.|213.txt|.|7

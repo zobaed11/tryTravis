@@ -1,0 +1,120 @@
+main address|.|rfc3626.txt|.|61
+sciences institute|.|rfc2130.txt|.|3
+flow record|.|rfc2722.txt|.|19|.|rfc2063.txt|.|19
+pres|.|rfc3538.txt|.|31|.|rfc3953.txt|.|11|.|rfc3859.txt|.|21
+encoded word|.|rfc2231.txt|.|12|.|rfc2184.txt|.|11
+ukrainian character set|.|rfc2319.txt|.|10
+character set and language|.|rfc5987.txt|.|5
+set of parameters|.|rfc2046.txt|.|1|.|rfc3290.txt|.|4|.|rfc5974.txt|.|1|.|rfc4566.txt|.|2|.|rfc4502.txt|.|4|.|rfc2021.txt|.|4|.|rfc2819.txt|.|5|.|rfc3260.txt|.|2|.|rfc3289.txt|.|2
+diffserv working group|.|rfc3260.txt|.|3
+number mapping|.|rfc5028.txt|.|4
+enhanced error|.|rfc2034.txt|.|8
+hope is an official list|.|rfc289.txt|.|3
+resources are allocated|.|rfc4502.txt|.|5|.|rfc2021.txt|.|5
+sasp|.|rfc4678.txt|.|63
+ldap search|.|rfc2254.txt|.|7|.|rfc1960.txt|.|7
+alternatives were proposed|.|rfc102.txt|.|2
+set of host|.|rfc280.txt|.|3
+hba belongs|.|rfc5535.txt|.|5
+parameter set|.|rfc4323.txt|.|53|.|rfc6090.txt|.|9|.|rfc5975.txt|.|3|.|rfc4540.txt|.|36
+supported values|.|rfc3380.txt|.|1
+netramet|.|rfc2123.txt|.|79
+network information center|.|rfc2053.txt|.|5|.|rfc511.txt|.|3|.|rfc115.txt|.|5|.|rfc363.txt|.|14|.|rfc329.txt|.|14|.|rfc185.txt|.|2
+attributes operation|.|rfc3380.txt|.|12
+mpr|.|rfc3626.txt|.|158|.|rfc5449.txt|.|66
+us ascii|.|rfc2046.txt|.|4|.|rfc2152.txt|.|3|.|rfc2044.txt|.|1|.|rfc2049.txt|.|1|.|rfc2279.txt|.|1
+specified using|.|rfc2622.txt|.|13
+feature expression|.|rfc2938.txt|.|18
+plans|.|rfc149.txt|.|1
+infrastructure enum|.|rfc5067.txt|.|32|.|rfc5526.txt|.|22|.|rfc5527.txt|.|29
+mechanism designers|.|rfc5587.txt|.|2|.|rfc6113.txt|.|9|.|rfc2078.txt|.|1
+level protocols|.|rfc49.txt|.|2|.|rfc162.txt|.|1
+rp set|.|rfc5059.txt|.|1
+usage data|.|rfc2063.txt|.|26
+set printer|.|rfc3380.txt|.|1
+feature set|.|rfc2533.txt|.|64|.|rfc2938.txt|.|70
+set data|.|rfc294.txt|.|10
+privilege|.|rfc3744.txt|.|135|.|rfc5607.txt|.|15
+decnet phase iv|.|rfc2162.txt|.|9
+rule set|.|rfc2123.txt|.|40|.|rfc2722.txt|.|76|.|rfc2063.txt|.|63
+ttable|.|rfc2066.txt|.|6
+audit package|.|rfc3624.txt|.|21
+licensing|.|rfc3905.txt|.|37
+set|.|rfc2965.txt|.|11|.|rfc6265.txt|.|53|.|rfc3290.txt|.|42|.|rfc3133.txt|.|15|.|rfc3108.txt|.|73|.|rfc4362.txt|.|24|.|rfc2070.txt|.|47|.|rfc3744.txt|.|66|.|rfc3824.txt|.|15|.|rfc2044.txt|.|10|.|rfc2184.txt|.|22|.|rfc3435.txt|.|82|.|rfc5061.txt|.|44|.|rfc3840.txt|.|59|.|rfc2319.txt|.|17|.|rfc5311.txt|.|29|.|rfc2231.txt|.|22|.|rfc4566.txt|.|24|.|rfc3380.txt|.|148|.|rfc4540.txt|.|117|.|rfc2938.txt|.|72|.|rfc4661.txt|.|6|.|rfc4012.txt|.|15|.|rfc2123.txt|.|64|.|rfc4042.txt|.|11|.|rfc2280.txt|.|116|.|rfc2152.txt|.|25|.|rfc3716.txt|.|11|.|rfc2277.txt|.|12|.|rfc3076.txt|.|14|.|rfc4630.txt|.|5|.|rfc5842.txt|.|5|.|rfc3538.txt|.|558|.|rfc2894.txt|.|43|.|rfc242.txt|.|21|.|rfc5059.txt|.|54|.|rfc3242.txt|.|22|.|rfc2533.txt|.|88|.|rfc3728.txt|.|19|.|rfc6090.txt|.|23|.|rfc5650.txt|.|107|.|rfc2066.txt|.|71|.|rfc3626.txt|.|262|.|rfc4706.txt|.|83|.|rfc2279.txt|.|14|.|rfc5091.txt|.|41|.|rfc4502.txt|.|90|.|rfc5102.txt|.|98|.|rfc3472.txt|.|60|.|rfc3260.txt|.|13|.|rfc5535.txt|.|85|.|rfc2130.txt|.|112|.|rfc280.txt|.|3|.|rfc4323.txt|.|94|.|rfc5323.txt|.|51|.|rfc2278.txt|.|13|.|rfc2049.txt|.|34|.|rfc2722.txt|.|127|.|rfc320.txt|.|3|.|rfc2819.txt|.|93|.|rfc5470.txt|.|18|.|rfc3521.txt|.|5|.|rfc2640.txt|.|58|.|rfc3360.txt|.|17|.|rfc6113.txt|.|45|.|rfc2063.txt|.|97|.|rfc4678.txt|.|77|.|rfc4936.txt|.|167|.|rfc2046.txt|.|52|.|rfc2622.txt|.|135|.|rfc5013.txt|.|16|.|rfc5974.txt|.|114|.|rfc5987.txt|.|21|.|rfc4598.txt|.|17|.|rfc2109.txt|.|9|.|rfc3471.txt|.|46|.|rfc2051.txt|.|34|.|rfc3741.txt|.|6|.|rfc294.txt|.|11|.|rfc2021.txt|.|84|.|rfc5449.txt|.|114|.|rfc5975.txt|.|83|.|rfc3289.txt|.|49
+lang command|.|rfc2640.txt|.|28
+submissions february|.|rfc3667.txt|.|17
+interface type|.|rfc5449.txt|.|16
+data set|.|rfc242.txt|.|18
+load balancer|.|rfc4678.txt|.|84
+workload|.|rfc4678.txt|.|39
+weight entry|.|rfc4678.txt|.|38
+set name|.|rfc2280.txt|.|15
+composite media|.|rfc2938.txt|.|20
+identifying composite media|.|rfc2938.txt|.|18
+draft set of host names|.|rfc280.txt|.|3
+fabric lock|.|rfc4936.txt|.|15
+set workshop|.|rfc2130.txt|.|31
+supported|.|rfc5323.txt|.|21|.|rfc3758.txt|.|9|.|rfc4358.txt|.|1|.|rfc3380.txt|.|97|.|rfc436.txt|.|2
+curtin proposed|.|rfc2640.txt|.|27
+crozier standards|.|rfc4744.txt|.|10
+set predicates|.|rfc2533.txt|.|7
+observe|.|rfc2123.txt|.|3
+zone set database|.|rfc4936.txt|.|54
+member data|.|rfc4678.txt|.|64
+sets march|.|rfc2533.txt|.|36
+transformation format|.|rfc4042.txt|.|4|.|rfc2044.txt|.|5|.|rfc2279.txt|.|5
+influence|.|rfc4144.txt|.|14
+compact representation|.|rfc6090.txt|.|9
+cloud|.|rfc2844.txt|.|8
+luby|.|rfc5053.txt|.|52
+set member|.|rfc4678.txt|.|21
+media features|.|rfc2534.txt|.|18|.|rfc2938.txt|.|19
+rand imp|.|rfc404.txt|.|2
+mpr selection|.|rfc3626.txt|.|10
+using netramet|.|rfc2123.txt|.|6
+optimized link state|.|rfc3626.txt|.|80
+ucs|.|rfc2640.txt|.|45|.|rfc2279.txt|.|38
+client server|.|rfc2066.txt|.|3
+tag identification|.|rfc2482.txt|.|14
+set objects|.|rfc2622.txt|.|2
+enum record|.|rfc3824.txt|.|12
+xri|.|rfc3380.txt|.|1
+flooding mpr|.|rfc5449.txt|.|1
+high energy|.|rfc588.txt|.|2
+coded|.|rfc2130.txt|.|36|.|rfc5242.txt|.|5
+clarifications for diffserv|.|rfc3260.txt|.|10
+printer attributes|.|rfc3380.txt|.|15
+ucs transformation format|.|rfc2279.txt|.|2
+parameters|.|rfc218.txt|.|1|.|rfc3290.txt|.|37|.|rfc3108.txt|.|88|.|rfc480.txt|.|5|.|rfc4442.txt|.|39|.|rfc3972.txt|.|39|.|rfc4629.txt|.|39|.|rfc4904.txt|.|51|.|rfc4566.txt|.|25|.|rfc3212.txt|.|34|.|rfc4357.txt|.|52|.|rfc2331.txt|.|47|.|rfc5857.txt|.|26|.|rfc5777.txt|.|11|.|rfc2576.txt|.|63|.|rfc2496.txt|.|5|.|rfc2215.txt|.|52|.|rfc3728.txt|.|13|.|rfc5793.txt|.|80|.|rfc5650.txt|.|77|.|rfc2172.txt|.|3|.|rfc5545.txt|.|127|.|rfc4706.txt|.|64|.|rfc3969.txt|.|32|.|rfc5091.txt|.|109|.|rfc4502.txt|.|33|.|rfc5870.txt|.|31|.|rfc3260.txt|.|3|.|rfc4403.txt|.|5|.|rfc6253.txt|.|15|.|rfc4587.txt|.|26|.|rfc5349.txt|.|21|.|rfc4447.txt|.|23|.|rfc3968.txt|.|32|.|rfc3676.txt|.|25|.|rfc5341.txt|.|35|.|rfc2819.txt|.|27|.|rfc4235.txt|.|20|.|rfc3553.txt|.|3|.|rfc5259.txt|.|36|.|rfc3895.txt|.|7|.|rfc6003.txt|.|31|.|rfc3946.txt|.|18|.|rfc4606.txt|.|18|.|rfc2046.txt|.|29|.|rfc5974.txt|.|8|.|rfc4508.txt|.|7|.|rfc5639.txt|.|70|.|rfc3441.txt|.|57|.|rfc2021.txt|.|33|.|rfc5975.txt|.|188|.|rfc4568.txt|.|84|.|rfc3289.txt|.|56
+laboratory for applied|.|rfc2186.txt|.|5
+krawczyk|.|rfc5869.txt|.|18
+values|.|rfc4475.txt|.|33|.|rfc3876.txt|.|49|.|rfc3108.txt|.|156|.|rfc3863.txt|.|27|.|rfc5424.txt|.|24|.|rfc5191.txt|.|27|.|rfc4180.txt|.|6|.|rfc4727.txt|.|35|.|rfc2803.txt|.|27|.|rfc4792.txt|.|5|.|rfc2089.txt|.|12|.|rfc5350.txt|.|34|.|rfc4334.txt|.|11|.|rfc3770.txt|.|9|.|rfc3687.txt|.|106|.|rfc5466.txt|.|5|.|rfc2596.txt|.|20|.|rfc3968.txt|.|28|.|rfc5226.txt|.|54|.|rfc3380.txt|.|164|.|rfc5341.txt|.|19|.|rfc3393.txt|.|26
+flow records|.|rfc5470.txt|.|55|.|rfc3917.txt|.|61
+set pres|.|rfc3538.txt|.|29
+multihoming problem|.|rfc4219.txt|.|2
+show|.|rfc2229.txt|.|39
+link state routing|.|rfc3626.txt|.|80
+kawatsura informational|.|rfc2802.txt|.|29|.|rfc3538.txt|.|56
+path mpr|.|rfc5449.txt|.|3
+curtin|.|rfc2640.txt|.|29
+settable|.|rfc3380.txt|.|43
+result message|.|rfc2894.txt|.|26|.|rfc6045.txt|.|23
+encoding defined|.|rfc5987.txt|.|5
+character set|.|rfc2640.txt|.|43|.|rfc2066.txt|.|51|.|rfc2070.txt|.|33|.|rfc4042.txt|.|8|.|rfc2152.txt|.|14|.|rfc2044.txt|.|4|.|rfc2279.txt|.|7|.|rfc2184.txt|.|22|.|rfc2277.txt|.|9|.|rfc4630.txt|.|4|.|rfc2130.txt|.|95|.|rfc5987.txt|.|21|.|rfc2278.txt|.|7|.|rfc2049.txt|.|23|.|rfc2319.txt|.|17|.|rfc2231.txt|.|22|.|rfc320.txt|.|2
+observations|.|rfc3133.txt|.|2|.|rfc3716.txt|.|8
+successful bof|.|rfc5434.txt|.|13
+sheet|.|rfc3381.txt|.|30
+scope zone|.|rfc4007.txt|.|8|.|rfc5059.txt|.|44|.|rfc2776.txt|.|55
+set to observe|.|rfc2123.txt|.|2
+learned|.|rfc6226.txt|.|27
+zone server|.|rfc4936.txt|.|159
+set initiation|.|rfc3538.txt|.|51
+route set|.|rfc2280.txt|.|13
+des and idea|.|rfc5469.txt|.|4
+security incident|.|rfc3227.txt|.|6|.|rfc2350.txt|.|61|.|rfc3013.txt|.|7
+job attributes|.|rfc3380.txt|.|10
+afternoon|.|rfc149.txt|.|2
+kawatsura|.|rfc2802.txt|.|31|.|rfc3538.txt|.|58
+grant|.|rfc1988.txt|.|8|.|rfc5578.txt|.|14|.|rfc3744.txt|.|16
+set database|.|rfc4936.txt|.|54
+customer|.|rfc3725.txt|.|14|.|rfc5253.txt|.|47|.|rfc4029.txt|.|74|.|rfc4110.txt|.|171|.|rfc4176.txt|.|68|.|rfc4111.txt|.|25|.|rfc4562.txt|.|44|.|rfc4365.txt|.|51|.|rfc4779.txt|.|119

@@ -1,0 +1,120 @@
+mayrhofer standards|.|rfc6118.txt|.|68
+named|.|rfc3296.txt|.|23|.|rfc5466.txt|.|12
+routing march|.|rfc6140.txt|.|34
+uri gen|.|rfc5092.txt|.|1
+trunk group|.|rfc4904.txt|.|103
+trigger consent|.|rfc5360.txt|.|1
+new uri|.|rfc4395.txt|.|25
+mailserver|.|rfc6196.txt|.|10
+uri schemes|.|rfc3305.txt|.|20
+authority component|.|rfc5122.txt|.|17|.|rfc4622.txt|.|17
+reference system|.|rfc5870.txt|.|11
+telnet uri|.|rfc4248.txt|.|5
+scheme october|.|rfc6068.txt|.|16
+translations|.|rfc5360.txt|.|18
+unaware|.|rfc4579.txt|.|4
+tel|.|rfc3966.txt|.|68|.|rfc4415.txt|.|10|.|rfc4904.txt|.|34|.|rfc4715.txt|.|27|.|rfc5341.txt|.|32
+nsap address|.|rfc4548.txt|.|9|.|rfc4715.txt|.|29
+semantics and operations|.|rfc4088.txt|.|2
+neustar|.|rfc4759.txt|.|2
+snmp service uri|.|rfc4088.txt|.|4
+iana uri|.|rfc3969.txt|.|5
+perform translations|.|rfc5360.txt|.|5
+trunk group parameters|.|rfc4904.txt|.|38
+pstn enumservice|.|rfc4769.txt|.|18
+geopriv lbyr|.|rfc5808.txt|.|13
+group parameters|.|rfc4904.txt|.|38
+reserved|.|rfc2346.txt|.|2|.|rfc2948.txt|.|2|.|rfc3541.txt|.|2|.|rfc3167.txt|.|2|.|rfc2947.txt|.|2|.|rfc5398.txt|.|13|.|rfc2468.txt|.|3|.|rfc2336.txt|.|2|.|rfc2240.txt|.|2|.|rfc2291.txt|.|3|.|rfc3505.txt|.|2|.|rfc2973.txt|.|2|.|rfc3849.txt|.|7|.|rfc2397.txt|.|2|.|rfc2540.txt|.|3|.|rfc3462.txt|.|2|.|rfc3271.txt|.|2|.|rfc3429.txt|.|8|.|rfc3268.txt|.|2|.|rfc2441.txt|.|2|.|rfc3348.txt|.|2|.|rfc2293.txt|.|2|.|rfc2467.txt|.|2|.|rfc2754.txt|.|2|.|rfc2245.txt|.|2|.|rfc2339.txt|.|3|.|rfc3109.txt|.|2|.|rfc2410.txt|.|2|.|rfc2838.txt|.|2|.|rfc2359.txt|.|2|.|rfc3502.txt|.|2|.|rfc2384.txt|.|3|.|rfc3359.txt|.|8|.|rfc2872.txt|.|2|.|rfc2325.txt|.|2|.|rfc3180.txt|.|2|.|rfc3368.txt|.|2|.|rfc3616.txt|.|2|.|rfc2270.txt|.|2|.|rfc2385.txt|.|2|.|rfc2862.txt|.|2|.|rfc2375.txt|.|5|.|rfc2536.txt|.|3|.|rfc3986.txt|.|40|.|rfc3129.txt|.|2|.|rfc2526.txt|.|39|.|rfc2556.txt|.|2|.|rfc5453.txt|.|23|.|rfc2416.txt|.|2|.|rfc2984.txt|.|2|.|rfc3360.txt|.|45|.|rfc3152.txt|.|2|.|rfc3232.txt|.|2|.|rfc3277.txt|.|2|.|rfc2539.txt|.|3|.|rfc2606.txt|.|15|.|rfc2857.txt|.|2|.|rfc3632.txt|.|2|.|rfc2321.txt|.|2|.|rfc2347.txt|.|2|.|rfc3008.txt|.|2|.|rfc3166.txt|.|2|.|rfc2237.txt|.|2
+dynamic delegation discovery|.|rfc3401.txt|.|9|.|rfc4848.txt|.|7|.|rfc3403.txt|.|10|.|rfc3404.txt|.|13|.|rfc3405.txt|.|8
+lbyr|.|rfc5808.txt|.|28
+named subordinate|.|rfc3296.txt|.|19
+uri allocation|.|rfc4452.txt|.|11
+temporary gruu|.|rfc5627.txt|.|42
+uri reference|.|rfc3986.txt|.|27
+gml|.|rfc5870.txt|.|29
+johnston|.|rfc5366.txt|.|17|.|rfc4578.txt|.|10
+tel uri|.|rfc3966.txt|.|38|.|rfc4904.txt|.|30|.|rfc4715.txt|.|24|.|rfc5341.txt|.|30
+uri generic syntax|.|rfc3986.txt|.|63
+uri resolution services|.|rfc2483.txt|.|16
+uri syntax|.|rfc4452.txt|.|10
+identifier of an information asset|.|rfc4452.txt|.|5
+gen|.|rfc5092.txt|.|1
+obtaining a sip|.|rfc3486.txt|.|2
+snmp access|.|rfc4088.txt|.|5
+uri used|.|rfc2396.txt|.|3
+coordinate reference system|.|rfc5870.txt|.|5
+uri december|.|rfc3966.txt|.|16
+xmpp uri|.|rfc4622.txt|.|19
+dip indicator|.|rfc4759.txt|.|10
+gopher uri scheme|.|rfc4266.txt|.|7
+uri|.|rfc3486.txt|.|28|.|rfc3761.txt|.|20|.|rfc4575.txt|.|63|.|rfc6167.txt|.|122|.|rfc4353.txt|.|51|.|rfc4355.txt|.|44|.|rfc6117.txt|.|62|.|rfc3859.txt|.|26|.|rfc4151.txt|.|16|.|rfc4769.txt|.|25|.|rfc5002.txt|.|4|.|rfc4266.txt|.|12|.|rfc5363.txt|.|49|.|rfc4452.txt|.|112|.|rfc4240.txt|.|46|.|rfc4002.txt|.|20|.|rfc5850.txt|.|30|.|rfc4904.txt|.|58|.|rfc4088.txt|.|131|.|rfc3981.txt|.|33|.|rfc3841.txt|.|28|.|rfc4566.txt|.|15|.|rfc4248.txt|.|12|.|rfc5222.txt|.|20|.|rfc2566.txt|.|185|.|rfc5318.txt|.|50|.|rfc6068.txt|.|93|.|rfc3305.txt|.|60|.|rfc2518.txt|.|66|.|rfc2848.txt|.|17|.|rfc5364.txt|.|69|.|rfc4483.txt|.|53|.|rfc2483.txt|.|110|.|rfc2818.txt|.|9|.|rfc3966.txt|.|84|.|rfc6140.txt|.|62|.|rfc3953.txt|.|19|.|rfc5781.txt|.|27|.|rfc4387.txt|.|43|.|rfc6118.txt|.|137|.|rfc4975.txt|.|109|.|rfc5365.txt|.|52|.|rfc5538.txt|.|51|.|rfc3860.txt|.|26|.|rfc5808.txt|.|107|.|rfc6196.txt|.|20|.|rfc5367.txt|.|18|.|rfc3969.txt|.|34|.|rfc5366.txt|.|32|.|rfc5368.txt|.|29|.|rfc3368.txt|.|26|.|rfc5870.txt|.|148|.|rfc3455.txt|.|23|.|rfc5092.txt|.|24|.|rfc5438.txt|.|15|.|rfc3296.txt|.|19|.|rfc5985.txt|.|33|.|rfc3075.txt|.|68|.|rfc6270.txt|.|36|.|rfc4694.txt|.|94|.|rfc4579.txt|.|98|.|rfc4501.txt|.|49|.|rfc4244.txt|.|13|.|rfc3986.txt|.|468|.|rfc3404.txt|.|83|.|rfc4287.txt|.|20|.|rfc5341.txt|.|44|.|rfc4475.txt|.|26|.|rfc5025.txt|.|32|.|rfc2543.txt|.|32|.|rfc5628.txt|.|17|.|rfc5785.txt|.|25|.|rfc5627.txt|.|102|.|rfc5360.txt|.|94|.|rfc4759.txt|.|48|.|rfc5989.txt|.|24|.|rfc5411.txt|.|17|.|rfc3470.txt|.|15|.|rfc5630.txt|.|107|.|rfc4156.txt|.|10|.|rfc3275.txt|.|66|.|rfc2396.txt|.|350|.|rfc4826.txt|.|140|.|rfc4508.txt|.|12|.|rfc5724.txt|.|77|.|rfc4622.txt|.|62|.|rfc4715.txt|.|27|.|rfc3263.txt|.|41|.|rfc4157.txt|.|10|.|rfc3529.txt|.|5|.|rfc4395.txt|.|121|.|rfc2910.txt|.|31
+update legacy|.|rfc6118.txt|.|67
+named subordinate references|.|rfc3296.txt|.|17
+rls services|.|rfc4826.txt|.|32
+manor research|.|rfc4759.txt|.|2
+generic syntax|.|rfc2396.txt|.|42|.|rfc3986.txt|.|82
+moving mailserver|.|rfc6196.txt|.|3
+rls|.|rfc4826.txt|.|60
+conferencing|.|rfc4245.txt|.|30|.|rfc4579.txt|.|89|.|rfc4597.txt|.|66|.|rfc4353.txt|.|53|.|rfc5239.txt|.|310
+msg|.|rfc4355.txt|.|15
+copy control|.|rfc6171.txt|.|17|.|rfc5364.txt|.|40
+uri generic|.|rfc3986.txt|.|63
+conference unaware ua|.|rfc4579.txt|.|1
+parameters september|.|rfc5341.txt|.|6
+shockey neustar|.|rfc4759.txt|.|2
+manor|.|rfc4415.txt|.|3|.|rfc4759.txt|.|3|.|rfc4355.txt|.|3
+assets|.|rfc4452.txt|.|21
+xmpp core|.|rfc3923.txt|.|1|.|rfc5122.txt|.|1|.|rfc4622.txt|.|1
+parameter registry|.|rfc3969.txt|.|8|.|rfc3968.txt|.|10|.|rfc6220.txt|.|19|.|rfc5341.txt|.|5
+enum dip|.|rfc4759.txt|.|10
+feature tags|.|rfc4508.txt|.|16
+duerst|.|rfc6068.txt|.|21
+global number|.|rfc3966.txt|.|9
+yevstifeyev|.|rfc6270.txt|.|8
+uri parameters|.|rfc4508.txt|.|4|.|rfc3969.txt|.|19|.|rfc5341.txt|.|20|.|rfc5870.txt|.|7
+interest group|.|rfc3305.txt|.|7
+new uri schemes|.|rfc4395.txt|.|22
+uniform resource identifier|.|rfc5724.txt|.|4
+enhanced mode|.|rfc6270.txt|.|4
+wgs|.|rfc5870.txt|.|42
+sip uris|.|rfc3966.txt|.|6
+interoperability|.|rfc5655.txt|.|8|.|rfc4120.txt|.|22|.|rfc5719.txt|.|5|.|rfc4918.txt|.|13|.|rfc6167.txt|.|7|.|rfc4249.txt|.|5|.|rfc2987.txt|.|4|.|rfc4909.txt|.|4|.|rfc4167.txt|.|4|.|rfc2061.txt|.|3|.|rfc3859.txt|.|13|.|rfc4239.txt|.|11|.|rfc3773.txt|.|28|.|rfc4718.txt|.|5|.|rfc5333.txt|.|5|.|rfc5217.txt|.|33|.|rfc4735.txt|.|5|.|rfc4027.txt|.|6|.|rfc5430.txt|.|10|.|rfc6053.txt|.|26|.|rfc2116.txt|.|56|.|rfc3023.txt|.|16|.|rfc2683.txt|.|15|.|rfc5410.txt|.|4|.|rfc5174.txt|.|2|.|rfc6216.txt|.|11|.|rfc5658.txt|.|8|.|rfc5755.txt|.|6|.|rfc4275.txt|.|11|.|rfc4775.txt|.|18|.|rfc5029.txt|.|2|.|rfc6094.txt|.|8|.|rfc3839.txt|.|6|.|rfc5334.txt|.|10|.|rfc5581.txt|.|2|.|rfc2410.txt|.|3|.|rfc5657.txt|.|32|.|rfc4856.txt|.|20|.|rfc6207.txt|.|10|.|rfc3339.txt|.|12|.|rfc2542.txt|.|23|.|rfc6047.txt|.|8|.|rfc3860.txt|.|9|.|rfc6246.txt|.|10|.|rfc5391.txt|.|7|.|rfc2979.txt|.|3
+obtaining|.|rfc3486.txt|.|2
+registration for presence|.|rfc3953.txt|.|7
+subaddress encoding|.|rfc4715.txt|.|2
+msrp september|.|rfc4975.txt|.|62
+bell laboratories|.|rfc5341.txt|.|2
+target uri|.|rfc5360.txt|.|13
+subaddress|.|rfc2225.txt|.|22|.|rfc4715.txt|.|63|.|rfc5233.txt|.|15
+scheme april|.|rfc6167.txt|.|21
+sips uri|.|rfc3486.txt|.|3|.|rfc5989.txt|.|7|.|rfc5411.txt|.|5|.|rfc5630.txt|.|62
+msrp uri|.|rfc4975.txt|.|22
+namespaces|.|rfc3406.txt|.|39|.|rfc4452.txt|.|38|.|rfc5478.txt|.|30
+scheme june|.|rfc5870.txt|.|22
+cpim august|.|rfc3860.txt|.|12
+legacy enumservice|.|rfc6118.txt|.|72
+legacy|.|rfc3755.txt|.|15|.|rfc5338.txt|.|25|.|rfc6118.txt|.|76|.|rfc6079.txt|.|13
+snmp uri|.|rfc4088.txt|.|38
+register request|.|rfc5627.txt|.|25
+iana registration|.|rfc5333.txt|.|2|.|rfc4002.txt|.|11|.|rfc6117.txt|.|71
+forward the request|.|rfc5630.txt|.|5
+resource identifiers|.|rfc6068.txt|.|3|.|rfc2396.txt|.|8|.|rfc5526.txt|.|2|.|rfc4501.txt|.|3
+lbyr requirements|.|rfc5808.txt|.|13
+geopriv|.|rfc5962.txt|.|9|.|rfc4119.txt|.|46|.|rfc4079.txt|.|50|.|rfc5491.txt|.|52|.|rfc3693.txt|.|75|.|rfc3694.txt|.|57|.|rfc5687.txt|.|33|.|rfc5808.txt|.|17
+percent|.|rfc4516.txt|.|2|.|rfc4144.txt|.|2|.|rfc3986.txt|.|8
+spanring|.|rfc5870.txt|.|26
+audet|.|rfc5630.txt|.|58
+location by reference|.|rfc5808.txt|.|1
+public namespaces|.|rfc4452.txt|.|25
+location configuration|.|rfc3825.txt|.|9|.|rfc5808.txt|.|28
+snmp object|.|rfc4088.txt|.|20
+uri registry|.|rfc6196.txt|.|2
+harold|.|rfc3529.txt|.|21
+sips|.|rfc3486.txt|.|3|.|rfc4028.txt|.|3|.|rfc5989.txt|.|12|.|rfc5411.txt|.|5|.|rfc5630.txt|.|291
+using a location|.|rfc5808.txt|.|3
+scheme definition|.|rfc4395.txt|.|8
+recipient uris|.|rfc5360.txt|.|24
+tel uri parameter|.|rfc4715.txt|.|6
+report requests|.|rfc4975.txt|.|26
+xmpp entity|.|rfc4622.txt|.|8
+imap server|.|rfc2192.txt|.|9|.|rfc5092.txt|.|26|.|rfc4467.txt|.|19|.|rfc4468.txt|.|23|.|rfc5616.txt|.|50

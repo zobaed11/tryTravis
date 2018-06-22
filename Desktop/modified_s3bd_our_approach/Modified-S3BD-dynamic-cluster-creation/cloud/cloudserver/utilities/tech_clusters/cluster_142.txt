@@ -1,0 +1,17 @@
+142
+cause problems|.|275.txt|.|1
+cases|.|286.txt|.|2|.|391.txt|.|2
+positional|.|325.txt|.|2
+like|.|162.txt|.|2|.|137.txt|.|7|.|144.txt|.|6|.|364.txt|.|6|.|056.txt|.|3|.|093.txt|.|2|.|229.txt|.|2|.|149.txt|.|2
+idea|.|124.txt|.|2|.|161.txt|.|2
+backed|.|219.txt|.|1|.|224.txt|.|1
+york times|.|138.txt|.|2
+technology|.|275.txt|.|6|.|105.txt|.|3|.|033.txt|.|3|.|261.txt|.|6|.|325.txt|.|12|.|343.txt|.|9|.|224.txt|.|6|.|187.txt|.|6|.|174.txt|.|4|.|386.txt|.|4|.|072.txt|.|3|.|219.txt|.|6|.|085.txt|.|5|.|307.txt|.|2|.|296.txt|.|3|.|137.txt|.|9|.|005.txt|.|10|.|286.txt|.|7|.|391.txt|.|7|.|319.txt|.|12|.|103.txt|.|4|.|204.txt|.|3|.|388.txt|.|4|.|161.txt|.|11|.|131.txt|.|3|.|179.txt|.|3|.|193.txt|.|3
+stone|.|005.txt|.|3
+search technology|.|085.txt|.|1
+art world|.|005.txt|.|1
+low power|.|343.txt|.|2
+pervasive|.|137.txt|.|4
+consumer technology|.|193.txt|.|2|.|296.txt|.|2
+news website|.|193.txt|.|2|.|296.txt|.|2
+changed|.|137.txt|.|1

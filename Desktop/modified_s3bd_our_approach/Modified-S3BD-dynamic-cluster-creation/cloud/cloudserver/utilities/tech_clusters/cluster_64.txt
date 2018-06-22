@@ -1,0 +1,17 @@
+64
+pro magazine|.|328.txt|.|2|.|021.txt|.|2
+dr nielsen|.|168.txt|.|8
+owen|.|071.txt|.|5
+approval|.|118.txt|.|3|.|387.txt|.|3
+halo|.|139.txt|.|15|.|160.txt|.|4
+interface|.|068.txt|.|4
+blood cholesterol|.|blood.txt|.|5
+food tables|.|blood.txt|.|2
+competitors like|.|162.txt|.|2|.|149.txt|.|2
+net security|.|316.txt|.|5
+labs|.|282.txt|.|11
+serious|.|034.txt|.|3
+well|.|bread.txt|.|5
+phone viruses|.|290.txt|.|2
+live|.|154.txt|.|2|.|160.txt|.|2
+child|.|004.txt|.|4|.|063.txt|.|4

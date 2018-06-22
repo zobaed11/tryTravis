@@ -1,0 +1,17 @@
+135
+tv|.|113.txt|.|7|.|046.txt|.|2|.|059.txt|.|14|.|011.txt|.|9|.|076.txt|.|6|.|394.txt|.|7|.|146.txt|.|8|.|087.txt|.|8|.|349.txt|.|16|.|070.txt|.|3|.|306.txt|.|6|.|371.txt|.|5|.|360.txt|.|10|.|365.txt|.|6|.|322.txt|.|14|.|276.txt|.|4|.|378.txt|.|17|.|158.txt|.|8|.|361.txt|.|7|.|216.txt|.|12|.|240.txt|.|9
+sk telecom|.|378.txt|.|2
+flat panel|.|360.txt|.|3
+search service|.|076.txt|.|2
+lcds|.|360.txt|.|1
+flat|.|360.txt|.|3
+sk|.|378.txt|.|2
+tipped|.|378.txt|.|2
+telecom|.|378.txt|.|2
+environmentally|.|307.txt|.|2
+people watch|.|216.txt|.|1
+mobile users|.|378.txt|.|2
+presidential|.|078.txt|.|2|.|001.txt|.|2
+visitor|.|115.txt|.|2
+video recorders|.|070.txt|.|2|.|216.txt|.|2
+expenses|.|140.txt|.|2

@@ -1,0 +1,17 @@
+83
+game playing|.|311.txt|.|1|.|095.txt|.|1
+play|.|311.txt|.|8|.|283.txt|.|4|.|247.txt|.|3|.|154.txt|.|1|.|157.txt|.|4|.|348.txt|.|2|.|256.txt|.|2|.|121.txt|.|2|.|095.txt|.|8
+crackdown|.|002.txt|.|4
+parcel|.|121.txt|.|1
+follow on monday|.|311.txt|.|2
+fed|.|328.txt|.|3|.|021.txt|.|3
+companion robot|.|121.txt|.|2
+companion|.|121.txt|.|3
+political campaigns|.|157.txt|.|4
+mobile operators|.|311.txt|.|1|.|095.txt|.|1
+used|.|340.txt|.|4|.|329.txt|.|8|.|049.txt|.|4|.|019.txt|.|8
+orchestra project|.|256.txt|.|7
+robots learn|.|121.txt|.|1
+robotiquette|.|121.txt|.|3
+robots|.|356.txt|.|10|.|261.txt|.|1|.|121.txt|.|6
+monday|.|311.txt|.|2

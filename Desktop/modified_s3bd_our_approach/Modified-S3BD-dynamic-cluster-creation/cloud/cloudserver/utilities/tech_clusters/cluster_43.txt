@@ -1,0 +1,17 @@
+43
+beam|.|230.txt|.|2
+connectors|.|360.txt|.|2
+underground stations|.|230.txt|.|2
+pass|.|230.txt|.|3
+provides vital|.|006.txt|.|1
+document|.|086.txt|.|7
+posters are fitted|.|230.txt|.|1
+sensitive|.|086.txt|.|5
+peru|.|006.txt|.|4
+computer centres|.|006.txt|.|2
+help londoners|.|230.txt|.|1
+underground|.|230.txt|.|2
+provides|.|006.txt|.|1
+information|.|360.txt|.|3|.|369.txt|.|4|.|230.txt|.|3|.|398.txt|.|3|.|086.txt|.|10|.|006.txt|.|6|.|227.txt|.|3
+valley|.|006.txt|.|3
+farmers in peru|.|006.txt|.|2

@@ -1,0 +1,38 @@
+230
+dining room|.|WET4957.txt|.|16
+pests|.|WET229.txt|.|132|.|WET3975.txt|.|418
+print starting|.|WET4957.txt|.|148
+klaus perls|.|WET1101.txt|.|10
+fan art|.|WET4704.txt|.|5
+collectibles|.|WET3096.txt|.|250|.|WET2543.txt|.|19|.|WET2101.txt|.|45
+agriculture and natural|.|WET229.txt|.|42
+agriculture|.|WET210.txt|.|13|.|WET229.txt|.|48|.|WET228.txt|.|96|.|WET3975.txt|.|152
+art history|.|WET229.txt|.|86|.|WET3975.txt|.|260
+memorabilia|.|WET6312.txt|.|6
+austin|.|WET290.txt|.|41|.|WET1101.txt|.|118
+iron county|.|WET228.txt|.|32
+department|.|WET245.txt|.|19|.|WET2316.txt|.|28|.|WET186.txt|.|8|.|WET288.txt|.|68|.|WET5727.txt|.|9|.|WET3581.txt|.|38|.|WET210.txt|.|20|.|WET229.txt|.|90|.|WET6058.txt|.|41|.|WET3975.txt|.|221
+art printwidth|.|WET3574.txt|.|12
+museum of art|.|WET1101.txt|.|53
+history department|.|WET229.txt|.|74|.|WET3975.txt|.|221
+exhibited|.|WET4960.txt|.|16
+capa|.|WET3931.txt|.|29
+african architecture|.|WET3975.txt|.|19
+art|.|WET4704.txt|.|8|.|WET6221.txt|.|9|.|WET5671.txt|.|18|.|WET228.txt|.|385|.|WET3574.txt|.|44|.|WET3976.txt|.|185|.|WET3096.txt|.|119|.|WET1502.txt|.|32|.|WET2836.txt|.|241|.|WET5506.txt|.|42|.|WET1930.txt|.|25|.|WET1205.txt|.|43|.|WET1447.txt|.|293|.|WET4960.txt|.|48|.|WET1202.txt|.|326|.|WET1143.txt|.|48|.|WET4958.txt|.|383|.|WET5253.txt|.|26|.|WET4970.txt|.|24|.|WET4957.txt|.|527|.|WET2589.txt|.|11|.|WET985.txt|.|98|.|WET4431.txt|.|10|.|WET6312.txt|.|15|.|WET4161.txt|.|5|.|WET5492.txt|.|65|.|WET229.txt|.|320|.|WET3772.txt|.|39|.|WET1203.txt|.|196|.|WET1101.txt|.|282|.|WET3975.txt|.|654
+confirm password|.|WET1502.txt|.|11
+life art|.|WET5492.txt|.|6
+mugs|.|WET5492.txt|.|17
+klaus|.|WET1101.txt|.|13
+charity gifts|.|WET6312.txt|.|6
+ephemera toys|.|WET6312.txt|.|6
+education designed|.|WET228.txt|.|10
+decorative|.|WET4958.txt|.|21
+harmonica pocket|.|WET1447.txt|.|15
+give us|.|WET1203.txt|.|9
+oxfam unwrapped|.|WET6312.txt|.|6
+yang|.|WET65.txt|.|555|.|WET3030.txt|.|57|.|WET2969.txt|.|37|.|WET3490.txt|.|353|.|WET2223.txt|.|75|.|WET4368.txt|.|118|.|WET259.txt|.|61
+aircraft families|.|WET4881.txt|.|21
+perls|.|WET1101.txt|.|58
+amanti|.|WET3574.txt|.|9
+cape|.|WET1422.txt|.|104
+age|.|WET4617.txt|.|24|.|WET751.txt|.|36|.|WET4970.txt|.|24|.|WET2919.txt|.|131|.|WET1733.txt|.|97|.|WET5728.txt|.|12|.|WET2510.txt|.|23|.|WET1447.txt|.|48|.|WET3446.txt|.|243

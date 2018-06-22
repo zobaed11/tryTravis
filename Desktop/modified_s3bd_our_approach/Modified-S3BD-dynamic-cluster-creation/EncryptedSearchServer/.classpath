@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="dist/EncryptedSearchServer.jar"/>
+	<classpathentry kind="lib" path="/home/c00300901/Downloads/Jama-1.0.3.jar"/>
+	<classpathentry kind="lib" path="/home/c00300901/eclipse-workspace/S3BD-JasonThesis/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/home/c00300901/eclipse-workspace/S3BD-JasonThesis/common-lang3.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>

@@ -1,0 +1,64 @@
+ministries of education|.|bbc_tech_004.txt|.|1|.|bbc_tech_063.txt|.|1
+hp|.|bbc_tech_228.txt|.|6|.|bbc_tech_295.txt|.|6
+historical|.|bbc_tech_115.txt|.|2|.|bbc_entertainment_104.txt|.|2
+appealed|.|bbc_politics_131.txt|.|3|.|bbc_politics_150.txt|.|2
+fiorina|.|bbc_tech_228.txt|.|4|.|bbc_tech_295.txt|.|4
+high definition|.|bbc_tech_013.txt|.|2
+minority|.|bbc_politics_247.txt|.|2|.|bbc_politics_056.txt|.|4|.|bbc_politics_318.txt|.|6|.|bbc_business_422.txt|.|2|.|bbc_politics_143.txt|.|5|.|bbc_entertainment_194.txt|.|5
+greenspan|.|bbc_business_002.txt|.|2|.|bbc_business_041.txt|.|3|.|bbc_business_213.txt|.|7|.|bbc_business_273.txt|.|4
+revolution|.|bbc_tech_336.txt|.|3|.|bbc_tech_228.txt|.|4|.|bbc_tech_295.txt|.|4|.|bbc_entertainment_050.txt|.|3
+space|.|bbc_tech_209.txt|.|2
+chamber|.|bbc_politics_319.txt|.|4|.|bbc_politics_066.txt|.|6|.|bbc_politics_310.txt|.|3|.|bbc_politics_123.txt|.|3
+world summit|.|bbc_tech_033.txt|.|2
+nem|.|bbc_tech_215.txt|.|3|.|bbc_tech_167.txt|.|3
+digital revolution|.|bbc_tech_228.txt|.|3|.|bbc_tech_295.txt|.|3
+opportunities commission|.|bbc_politics_003.txt|.|2
+letting|.|bbc_tech_228.txt|.|1|.|bbc_tech_295.txt|.|1
+swedish|.|bbc_business_058.txt|.|2
+eu funds|.|bbc_politics_138.txt|.|3
+letting people|.|bbc_tech_228.txt|.|1|.|bbc_tech_295.txt|.|1
+commodore computers|.|bbc_tech_374.txt|.|1|.|bbc_tech_128.txt|.|1
+lifestyles|.|bbc_tech_215.txt|.|1|.|bbc_tech_167.txt|.|1
+serge betsen|.|bbc_sport_306.txt|.|2
+travelers|.|bbc_business_088.txt|.|2
+adoption of digital tv|.|bbc_tech_361.txt|.|1
+food and drug|.|bbc_business_191.txt|.|2
+download chart|.|bbc_entertainment_127.txt|.|4|.|bbc_entertainment_103.txt|.|4
+specialist|.|bbc_tech_013.txt|.|2
+publishes|.|bbc_business_325.txt|.|1
+hopman|.|bbc_sport_497.txt|.|3|.|bbc_sport_496.txt|.|3|.|bbc_sport_455.txt|.|2
+serge|.|bbc_sport_306.txt|.|4
+visitor|.|bbc_entertainment_026.txt|.|3|.|bbc_tech_115.txt|.|2
+arthur|.|bbc_entertainment_299.txt|.|2|.|bbc_entertainment_016.txt|.|2|.|bbc_entertainment_055.txt|.|2
+vickery|.|bbc_sport_411.txt|.|3
+children were given laptop|.|bbc_tech_004.txt|.|1|.|bbc_tech_063.txt|.|1
+arrival|.|bbc_business_064.txt|.|3
+said benitez|.|bbc_sport_155.txt|.|2
+ministries|.|bbc_tech_004.txt|.|1|.|bbc_tech_063.txt|.|1
+digital divide|.|bbc_tech_211.txt|.|3|.|bbc_tech_033.txt|.|5|.|bbc_tech_226.txt|.|3
+digital tv|.|bbc_tech_361.txt|.|3|.|bbc_entertainment_220.txt|.|2
+network|.|bbc_tech_013.txt|.|8|.|bbc_tech_107.txt|.|6|.|bbc_business_278.txt|.|2|.|bbc_business_092.txt|.|4|.|bbc_entertainment_205.txt|.|3|.|bbc_tech_344.txt|.|1|.|bbc_tech_368.txt|.|4|.|bbc_entertainment_170.txt|.|2|.|bbc_tech_156.txt|.|5|.|bbc_tech_394.txt|.|2|.|bbc_tech_187.txt|.|4|.|bbc_entertainment_195.txt|.|1|.|bbc_tech_293.txt|.|5|.|bbc_tech_352.txt|.|2|.|bbc_tech_023.txt|.|4
+ambani|.|bbc_business_352.txt|.|2|.|bbc_business_379.txt|.|3|.|bbc_business_486.txt|.|6
+portishead|.|bbc_entertainment_238.txt|.|6
+european commission|.|bbc_tech_215.txt|.|2|.|bbc_tech_167.txt|.|2
+aurelien rougerie|.|bbc_sport_287.txt|.|2
+theme|.|bbc_tech_347.txt|.|3|.|bbc_entertainment_177.txt|.|3
+definition|.|bbc_tech_013.txt|.|2|.|bbc_tech_294.txt|.|1|.|bbc_tech_155.txt|.|1
+digital|.|bbc_tech_228.txt|.|11|.|bbc_tech_347.txt|.|5|.|bbc_tech_215.txt|.|6|.|bbc_entertainment_127.txt|.|6|.|bbc_tech_279.txt|.|3|.|bbc_tech_033.txt|.|7|.|bbc_tech_063.txt|.|4|.|bbc_tech_211.txt|.|8|.|bbc_tech_004.txt|.|4|.|bbc_tech_220.txt|.|4|.|bbc_tech_361.txt|.|16|.|bbc_tech_013.txt|.|13|.|bbc_tech_374.txt|.|2|.|bbc_tech_128.txt|.|2|.|bbc_tech_167.txt|.|6|.|bbc_entertainment_220.txt|.|2|.|bbc_tech_115.txt|.|3|.|bbc_entertainment_103.txt|.|6|.|bbc_tech_332.txt|.|6|.|bbc_tech_295.txt|.|11|.|bbc_tech_040.txt|.|6|.|bbc_tech_371.txt|.|10|.|bbc_tech_226.txt|.|8|.|bbc_tech_278.txt|.|6|.|bbc_tech_302.txt|.|3
+witnessed|.|bbc_sport_140.txt|.|2
+bank report|.|bbc_tech_033.txt|.|2
+stories|.|bbc_tech_228.txt|.|2|.|bbc_tech_031.txt|.|2|.|bbc_tech_295.txt|.|2
+tip the aviator|.|bbc_entertainment_328.txt|.|1|.|bbc_entertainment_086.txt|.|1
+ipod family expands|.|bbc_tech_332.txt|.|1|.|bbc_tech_040.txt|.|1
+visual radio|.|bbc_tech_305.txt|.|9
+final wars|.|bbc_entertainment_093.txt|.|2
+fewer children|.|bbc_entertainment_022.txt|.|2
+trust fund|.|bbc_business_268.txt|.|3
+film council|.|bbc_tech_013.txt|.|2|.|bbc_entertainment_371.txt|.|3|.|bbc_entertainment_351.txt|.|2
+mr jobs|.|bbc_tech_297.txt|.|4|.|bbc_tech_260.txt|.|4
+hots|.|bbc_tech_278.txt|.|1
+european nations|.|bbc_tech_361.txt|.|2
+online|.|bbc_business_011.txt|.|4|.|bbc_tech_401.txt|.|22|.|bbc_tech_162.txt|.|2|.|bbc_tech_232.txt|.|1|.|bbc_tech_046.txt|.|2|.|bbc_tech_191.txt|.|15|.|bbc_tech_035.txt|.|5|.|bbc_tech_221.txt|.|5|.|bbc_tech_114.txt|.|3|.|bbc_tech_324.txt|.|2|.|bbc_tech_348.txt|.|2|.|bbc_tech_392.txt|.|5|.|bbc_tech_031.txt|.|8|.|bbc_tech_265.txt|.|5|.|bbc_tech_205.txt|.|4|.|bbc_tech_044.txt|.|2|.|bbc_tech_150.txt|.|5|.|bbc_tech_149.txt|.|2|.|bbc_entertainment_266.txt|.|2|.|bbc_tech_278.txt|.|6|.|bbc_tech_248.txt|.|2|.|bbc_tech_235.txt|.|15|.|bbc_tech_157.txt|.|3|.|bbc_tech_369.txt|.|4
+pompeii|.|bbc_tech_115.txt|.|3
+hovered|.|bbc_business_374.txt|.|1
+air sahara|.|bbc_business_380.txt|.|2

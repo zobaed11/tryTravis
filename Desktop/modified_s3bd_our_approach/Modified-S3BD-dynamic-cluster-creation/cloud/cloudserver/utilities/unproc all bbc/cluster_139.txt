@@ -1,0 +1,64 @@
+top uk|.|bbc_entertainment_112.txt|.|1
+favourites|.|bbc_sport_221.txt|.|2
+black sabbath top|.|bbc_entertainment_268.txt|.|1
+jailhouse|.|bbc_entertainment_233.txt|.|2|.|bbc_entertainment_242.txt|.|2
+uk singles|.|bbc_entertainment_112.txt|.|2
+top uk singles|.|bbc_entertainment_112.txt|.|1
+role presley played|.|bbc_entertainment_242.txt|.|1
+niro|.|bbc_entertainment_335.txt|.|4|.|bbc_entertainment_049.txt|.|4|.|bbc_entertainment_340.txt|.|2
+national laboratory|.|bbc_tech_173.txt|.|2|.|bbc_tech_141.txt|.|2
+sabbath have topped|.|bbc_entertainment_268.txt|.|1
+work a lot|.|bbc_sport_511.txt|.|1
+lennon|.|bbc_sport_221.txt|.|3|.|bbc_entertainment_116.txt|.|2
+second set|.|bbc_sport_511.txt|.|2
+uk singles chart|.|bbc_entertainment_112.txt|.|2
+presley played|.|bbc_entertainment_242.txt|.|1
+rock album|.|bbc_entertainment_268.txt|.|1
+supply chain|.|bbc_business_397.txt|.|2
+saulnier in final|.|bbc_sport_511.txt|.|1
+role presley|.|bbc_entertainment_242.txt|.|1
+national treasure|.|bbc_entertainment_083.txt|.|3
+bbc two|.|bbc_entertainment_184.txt|.|4
+olympic victory|.|bbc_entertainment_189.txt|.|1
+predicts|.|bbc_tech_045.txt|.|2
+directions|.|bbc_business_397.txt|.|2
+laboratory|.|bbc_tech_173.txt|.|2|.|bbc_tech_141.txt|.|2
+arrests|.|bbc_business_037.txt|.|2
+hispano|.|bbc_business_506.txt|.|2
+saulnier|.|bbc_sport_424.txt|.|3|.|bbc_sport_511.txt|.|4
+insists|.|bbc_sport_423.txt|.|2
+companies reporting|.|bbc_business_397.txt|.|1
+sabbath|.|bbc_entertainment_268.txt|.|4
+set to top the uk|.|bbc_entertainment_112.txt|.|1
+turned|.|bbc_entertainment_003.txt|.|2|.|bbc_entertainment_242.txt|.|1|.|bbc_entertainment_272.txt|.|2|.|bbc_sport_494.txt|.|1
+drama moment|.|bbc_entertainment_189.txt|.|1
+set to top|.|bbc_entertainment_112.txt|.|2
+scores|.|bbc_entertainment_285.txt|.|1
+black sabbath|.|bbc_entertainment_268.txt|.|4
+tv moments|.|bbc_entertainment_189.txt|.|1
+central hispano|.|bbc_business_506.txt|.|2
+gadget lovers|.|bbc_tech_045.txt|.|1|.|bbc_tech_341.txt|.|1
+uk top|.|bbc_business_397.txt|.|2
+ferrero|.|bbc_sport_423.txt|.|8|.|bbc_sport_428.txt|.|2
+top|.|bbc_sport_424.txt|.|2|.|bbc_entertainment_334.txt|.|1|.|bbc_business_506.txt|.|2|.|bbc_tech_070.txt|.|1|.|bbc_entertainment_254.txt|.|3|.|bbc_business_397.txt|.|3|.|bbc_business_484.txt|.|1|.|bbc_entertainment_384.txt|.|2|.|bbc_entertainment_335.txt|.|5|.|bbc_sport_221.txt|.|2|.|bbc_sport_423.txt|.|3|.|bbc_sport_433.txt|.|1|.|bbc_sport_369.txt|.|2|.|bbc_entertainment_083.txt|.|1|.|bbc_entertainment_212.txt|.|2|.|bbc_sport_229.txt|.|1|.|bbc_entertainment_286.txt|.|2|.|bbc_entertainment_060.txt|.|1|.|bbc_sport_499.txt|.|2|.|bbc_entertainment_099.txt|.|1|.|bbc_entertainment_189.txt|.|3|.|bbc_entertainment_049.txt|.|5|.|bbc_sport_511.txt|.|2|.|bbc_tech_141.txt|.|8|.|bbc_sport_425.txt|.|1|.|bbc_politics_409.txt|.|2|.|bbc_politics_130.txt|.|2|.|bbc_tech_045.txt|.|2|.|bbc_politics_301.txt|.|2|.|bbc_entertainment_364.txt|.|1|.|bbc_entertainment_109.txt|.|4|.|bbc_politics_416.txt|.|3|.|bbc_entertainment_380.txt|.|3|.|bbc_entertainment_144.txt|.|4|.|bbc_entertainment_096.txt|.|1|.|bbc_politics_211.txt|.|2|.|bbc_entertainment_053.txt|.|2|.|bbc_entertainment_268.txt|.|4|.|bbc_sport_428.txt|.|2|.|bbc_entertainment_128.txt|.|2|.|bbc_entertainment_234.txt|.|2|.|bbc_entertainment_184.txt|.|8|.|bbc_entertainment_242.txt|.|3|.|bbc_business_385.txt|.|2|.|bbc_entertainment_285.txt|.|6|.|bbc_entertainment_014.txt|.|3|.|bbc_entertainment_112.txt|.|3|.|bbc_sport_037.txt|.|3|.|bbc_sport_261.txt|.|2|.|bbc_sport_452.txt|.|2|.|bbc_business_037.txt|.|3|.|bbc_tech_341.txt|.|2
+toy soldiers|.|bbc_entertainment_144.txt|.|3
+us top|.|bbc_entertainment_083.txt|.|1|.|bbc_entertainment_285.txt|.|2
+elvis|.|bbc_entertainment_233.txt|.|9|.|bbc_entertainment_240.txt|.|2|.|bbc_entertainment_112.txt|.|5|.|bbc_entertainment_242.txt|.|3|.|bbc_entertainment_163.txt|.|2|.|bbc_entertainment_234.txt|.|4|.|bbc_entertainment_144.txt|.|2|.|bbc_entertainment_263.txt|.|2
+executives in japan|.|bbc_business_037.txt|.|2
+new show|.|bbc_entertainment_184.txt|.|2
+earth simulator|.|bbc_tech_173.txt|.|2|.|bbc_tech_141.txt|.|2
+reporting|.|bbc_business_397.txt|.|4
+arrests of top|.|bbc_business_037.txt|.|1
+simulator|.|bbc_tech_173.txt|.|2|.|bbc_tech_141.txt|.|2
+top the uk singles chart|.|bbc_entertainment_112.txt|.|1
+singles in the us top|.|bbc_entertainment_285.txt|.|2
+top executives|.|bbc_business_037.txt|.|2
+british rock|.|bbc_entertainment_268.txt|.|2
+supercomputing chart|.|bbc_tech_141.txt|.|1
+hide|.|bbc_entertainment_335.txt|.|2|.|bbc_politics_155.txt|.|1|.|bbc_entertainment_049.txt|.|2|.|bbc_entertainment_380.txt|.|2
+elvis set|.|bbc_entertainment_112.txt|.|1
+reports on social|.|bbc_business_397.txt|.|1
+lyle|.|bbc_business_385.txt|.|2
+like toy|.|bbc_entertainment_144.txt|.|2
+scored|.|bbc_entertainment_285.txt|.|1|.|bbc_sport_151.txt|.|2
+earth|.|bbc_tech_173.txt|.|3|.|bbc_tech_141.txt|.|2

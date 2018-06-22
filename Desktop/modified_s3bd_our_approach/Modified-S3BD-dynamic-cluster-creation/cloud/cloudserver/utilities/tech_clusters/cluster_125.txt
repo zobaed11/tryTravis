@@ -1,0 +1,17 @@
+125
+spanish|.|090.txt|.|8|.|312.txt|.|8
+decade|.|065.txt|.|2|.|337.txt|.|2
+access|.|226.txt|.|6|.|335.txt|.|3|.|264.txt|.|4|.|150.txt|.|3|.|198.txt|.|5|.|392.txt|.|3|.|032.txt|.|4|.|211.txt|.|6|.|204.txt|.|4
+remains|.|337.txt|.|2
+language|.|251.txt|.|4|.|090.txt|.|3|.|312.txt|.|3
+web helps|.|097.txt|.|1
+sri|.|106.txt|.|5
+making donations|.|097.txt|.|1
+talked|.|394.txt|.|1
+yahoo dominate|.|337.txt|.|1
+web|.|269.txt|.|4|.|065.txt|.|2|.|090.txt|.|4|.|312.txt|.|4|.|151.txt|.|4|.|394.txt|.|3|.|062.txt|.|4|.|232.txt|.|2|.|278.txt|.|2|.|213.txt|.|7|.|267.txt|.|6|.|106.txt|.|3|.|150.txt|.|4|.|392.txt|.|4|.|337.txt|.|5|.|099.txt|.|4|.|318.txt|.|4|.|097.txt|.|3
+aid donations|.|097.txt|.|1
+mr gupta|.|106.txt|.|4
+yahoo remains|.|337.txt|.|2
+helps|.|097.txt|.|1
+portal|.|337.txt|.|5

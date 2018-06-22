@@ -1,0 +1,64 @@
+died aged|.|bbc_politics_400.txt|.|1
+charade|.|bbc_politics_180.txt|.|2
+genuinely|.|bbc_politics_328.txt|.|2
+top judge|.|bbc_politics_211.txt|.|2
+full legal|.|bbc_politics_324.txt|.|2
+woolf|.|bbc_politics_211.txt|.|7|.|bbc_politics_231.txt|.|5
+wife audrey|.|bbc_politics_400.txt|.|2
+lord chancellor|.|bbc_politics_211.txt|.|6|.|bbc_politics_273.txt|.|6|.|bbc_politics_118.txt|.|3
+lord scarman|.|bbc_politics_119.txt|.|6
+butler|.|bbc_sport_078.txt|.|3|.|bbc_politics_027.txt|.|8|.|bbc_sport_083.txt|.|3
+damaging testimony|.|bbc_politics_027.txt|.|2
+judge|.|bbc_politics_211.txt|.|8|.|bbc_entertainment_161.txt|.|2|.|bbc_sport_045.txt|.|3
+giving evidence|.|bbc_politics_118.txt|.|3
+callaghan has died|.|bbc_politics_400.txt|.|1
+televised debate|.|bbc_politics_348.txt|.|3
+wife|.|bbc_politics_400.txt|.|2|.|bbc_entertainment_205.txt|.|3
+holme argued|.|bbc_politics_348.txt|.|2
+inquiries|.|bbc_politics_211.txt|.|3
+clashed with ministers|.|bbc_politics_211.txt|.|1
+testimony|.|bbc_politics_027.txt|.|2
+person|.|bbc_politics_273.txt|.|3
+leslie|.|bbc_politics_273.txt|.|3|.|bbc_politics_391.txt|.|2
+guidelines council|.|bbc_politics_231.txt|.|2
+lord goldsmith|.|bbc_politics_184.txt|.|4|.|bbc_politics_328.txt|.|4|.|bbc_politics_327.txt|.|4
+woolf said|.|bbc_politics_211.txt|.|4
+lighter sentences|.|bbc_politics_231.txt|.|2
+argued|.|bbc_politics_348.txt|.|2
+lord falconer|.|bbc_politics_211.txt|.|2|.|bbc_politics_067.txt|.|3|.|bbc_politics_118.txt|.|4|.|bbc_politics_180.txt|.|4|.|bbc_politics_327.txt|.|3|.|bbc_politics_390.txt|.|3
+lord|.|bbc_politics_067.txt|.|3|.|bbc_politics_266.txt|.|1|.|bbc_entertainment_385.txt|.|2|.|bbc_politics_073.txt|.|8|.|bbc_politics_118.txt|.|7|.|bbc_politics_180.txt|.|5|.|bbc_politics_072.txt|.|2|.|bbc_politics_327.txt|.|12|.|bbc_politics_027.txt|.|13|.|bbc_politics_390.txt|.|3|.|bbc_politics_416.txt|.|2|.|bbc_politics_211.txt|.|22|.|bbc_politics_273.txt|.|10|.|bbc_politics_119.txt|.|13|.|bbc_politics_184.txt|.|8|.|bbc_politics_289.txt|.|4|.|bbc_politics_400.txt|.|12|.|bbc_politics_328.txt|.|11|.|bbc_politics_231.txt|.|5|.|bbc_politics_348.txt|.|6|.|bbc_politics_324.txt|.|12|.|bbc_politics_413.txt|.|3|.|bbc_politics_177.txt|.|2|.|bbc_politics_296.txt|.|7
+sentencing|.|bbc_politics_168.txt|.|3|.|bbc_politics_231.txt|.|2
+mr leslie|.|bbc_politics_273.txt|.|2
+brixton riots|.|bbc_politics_119.txt|.|3
+make the decision|.|bbc_politics_348.txt|.|2
+giving|.|bbc_politics_118.txt|.|3|.|bbc_politics_160.txt|.|2
+accusing|.|bbc_politics_027.txt|.|1
+audrey|.|bbc_politics_400.txt|.|2
+said lord|.|bbc_politics_119.txt|.|2|.|bbc_politics_327.txt|.|3
+damaging|.|bbc_politics_027.txt|.|2
+royal family|.|bbc_politics_073.txt|.|2
+chancellor lord|.|bbc_politics_119.txt|.|1
+televised|.|bbc_politics_348.txt|.|5
+peer|.|bbc_politics_073.txt|.|2|.|bbc_tech_206.txt|.|6|.|bbc_politics_296.txt|.|2
+falconer|.|bbc_politics_211.txt|.|2|.|bbc_politics_067.txt|.|3|.|bbc_politics_118.txt|.|4|.|bbc_politics_180.txt|.|5|.|bbc_politics_327.txt|.|3|.|bbc_politics_390.txt|.|3
+electronically tagged|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+goldsmith|.|bbc_politics_184.txt|.|5|.|bbc_politics_328.txt|.|5|.|bbc_politics_327.txt|.|5
+lord woolf|.|bbc_politics_211.txt|.|7|.|bbc_politics_231.txt|.|4
+brixton|.|bbc_politics_119.txt|.|5|.|bbc_entertainment_276.txt|.|2
+succession|.|bbc_politics_266.txt|.|4|.|bbc_politics_073.txt|.|4
+riots|.|bbc_business_502.txt|.|2|.|bbc_politics_119.txt|.|3
+butler said|.|bbc_politics_027.txt|.|4
+person for the job|.|bbc_politics_273.txt|.|2
+chair|.|bbc_politics_211.txt|.|2|.|bbc_tech_366.txt|.|2
+catholics|.|bbc_politics_073.txt|.|2
+lighter|.|bbc_politics_231.txt|.|2
+peer lord|.|bbc_politics_296.txt|.|2
+harold|.|bbc_politics_400.txt|.|2
+lord callaghan dies|.|bbc_politics_400.txt|.|1
+sands|.|bbc_politics_184.txt|.|2|.|bbc_tech_218.txt|.|2|.|bbc_politics_324.txt|.|4
+holme|.|bbc_politics_348.txt|.|5
+lord dubs|.|bbc_politics_073.txt|.|4
+legality|.|bbc_politics_184.txt|.|2
+magistrates|.|bbc_politics_118.txt|.|2
+public inquiries|.|bbc_politics_211.txt|.|2
+chair an inquiry|.|bbc_politics_211.txt|.|1

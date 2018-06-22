@@ -1,0 +1,64 @@
+schroeder also called|.|bbc_business_457.txt|.|1
+european council|.|bbc_politics_358.txt|.|2
+flight delays|.|bbc_business_015.txt|.|1
+deficit limit|.|bbc_business_413.txt|.|1
+eu and us|.|bbc_business_424.txt|.|3
+development aid|.|bbc_business_065.txt|.|2
+eu fraud|.|bbc_politics_138.txt|.|1
+eu referendum question|.|bbc_politics_142.txt|.|2
+reported fraud|.|bbc_politics_138.txt|.|3
+called a truce|.|bbc_business_413.txt|.|1
+aircraft makers|.|bbc_business_424.txt|.|2
+air passengers|.|bbc_business_015.txt|.|3
+nao|.|bbc_politics_138.txt|.|2
+eu reform|.|bbc_business_457.txt|.|1
+overbooking|.|bbc_business_015.txt|.|4
+town|.|bbc_business_183.txt|.|1|.|bbc_tech_395.txt|.|2
+council summit|.|bbc_politics_358.txt|.|2
+eu referendum|.|bbc_politics_142.txt|.|2
+lifted|.|bbc_politics_058.txt|.|6
+office said|.|bbc_business_446.txt|.|2|.|bbc_politics_138.txt|.|2
+eu rules|.|bbc_business_413.txt|.|1|.|bbc_politics_389.txt|.|2
+eu|.|bbc_tech_258.txt|.|5|.|bbc_business_065.txt|.|6|.|bbc_politics_064.txt|.|6|.|bbc_politics_161.txt|.|8|.|bbc_politics_358.txt|.|8|.|bbc_politics_035.txt|.|6|.|bbc_business_183.txt|.|5|.|bbc_business_285.txt|.|6|.|bbc_tech_342.txt|.|3|.|bbc_tech_330.txt|.|3|.|bbc_business_424.txt|.|6|.|bbc_politics_136.txt|.|5|.|bbc_politics_383.txt|.|10|.|bbc_business_468.txt|.|3|.|bbc_business_446.txt|.|10|.|bbc_politics_216.txt|.|2|.|bbc_tech_048.txt|.|3|.|bbc_politics_142.txt|.|8|.|bbc_tech_030.txt|.|4|.|bbc_business_075.txt|.|4|.|bbc_tech_080.txt|.|5|.|bbc_business_413.txt|.|6|.|bbc_business_015.txt|.|4|.|bbc_politics_222.txt|.|4|.|bbc_business_457.txt|.|5|.|bbc_tech_014.txt|.|3|.|bbc_politics_058.txt|.|8|.|bbc_politics_138.txt|.|12|.|bbc_politics_389.txt|.|3
+fact turkey|.|bbc_politics_064.txt|.|2
+ending|.|bbc_business_424.txt|.|2
+overbooking flights|.|bbc_business_015.txt|.|1
+schroeder said|.|bbc_business_457.txt|.|1
+arms code|.|bbc_politics_136.txt|.|2
+secretary told|.|bbc_politics_358.txt|.|2
+deficit breaches|.|bbc_business_413.txt|.|1
+muslim country|.|bbc_politics_064.txt|.|2
+fact|.|bbc_politics_064.txt|.|2
+stability pact|.|bbc_business_457.txt|.|2
+constitution|.|bbc_politics_391.txt|.|3|.|bbc_politics_142.txt|.|9|.|bbc_politics_222.txt|.|7|.|bbc_politics_383.txt|.|6
+negotiated|.|bbc_business_424.txt|.|1
+new eu|.|bbc_business_015.txt|.|2
+rights watch|.|bbc_politics_136.txt|.|2
+eu membership|.|bbc_politics_064.txt|.|2|.|bbc_politics_161.txt|.|2
+extra costs|.|bbc_business_015.txt|.|1
+member|.|bbc_politics_188.txt|.|2|.|bbc_politics_193.txt|.|2|.|bbc_politics_138.txt|.|8|.|bbc_business_114.txt|.|1
+referendum question|.|bbc_politics_142.txt|.|3
+tariff|.|bbc_business_446.txt|.|1
+breach|.|bbc_business_413.txt|.|1
+us in eu|.|bbc_business_446.txt|.|1
+irregularities|.|bbc_politics_138.txt|.|3
+eu rebate|.|bbc_politics_358.txt|.|2
+consistent basis|.|bbc_politics_138.txt|.|2
+aircraft|.|bbc_business_424.txt|.|5|.|bbc_business_069.txt|.|5
+mandelson said|.|bbc_business_424.txt|.|3
+ending subsidies|.|bbc_business_424.txt|.|2
+jack straw|.|bbc_politics_142.txt|.|2
+eu arms|.|bbc_politics_136.txt|.|2
+consistent|.|bbc_politics_138.txt|.|2
+eu constitution|.|bbc_politics_142.txt|.|2|.|bbc_politics_383.txt|.|2
+blair hails|.|bbc_politics_064.txt|.|1
+mr schroeder|.|bbc_business_457.txt|.|5
+flight cancellations|.|bbc_business_015.txt|.|1
+juri|.|bbc_tech_030.txt|.|2
+eurozone|.|bbc_business_457.txt|.|2
+union customs|.|bbc_business_446.txt|.|1
+treaty|.|bbc_politics_142.txt|.|3
+finance ministers|.|bbc_business_065.txt|.|2|.|bbc_business_241.txt|.|1|.|bbc_business_210.txt|.|2|.|bbc_business_273.txt|.|2
+european constitution|.|bbc_politics_222.txt|.|1
+richest|.|bbc_business_065.txt|.|2
+arms exports|.|bbc_politics_136.txt|.|2

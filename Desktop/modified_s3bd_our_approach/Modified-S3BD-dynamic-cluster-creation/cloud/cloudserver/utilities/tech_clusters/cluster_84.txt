@@ -1,0 +1,17 @@
+84
+packet access|.|335.txt|.|3|.|032.txt|.|4
+expression|.|392.txt|.|1
+education|.|226.txt|.|2|.|004.txt|.|3|.|063.txt|.|3|.|211.txt|.|2
+work|.|023.txt|.|2|.|198.txt|.|2
+deaf|.|251.txt|.|8
+packet|.|335.txt|.|3|.|032.txt|.|4
+virus|.|210.txt|.|12|.|008.txt|.|9|.|272.txt|.|3|.|217.txt|.|3|.|334.txt|.|5|.|252.txt|.|9|.|257.txt|.|2|.|039.txt|.|5|.|117.txt|.|9|.|177.txt|.|1|.|385.txt|.|3|.|281.txt|.|11|.|292.txt|.|1
+miss|.|226.txt|.|3|.|211.txt|.|3
+access the internet|.|204.txt|.|1
+web access|.|150.txt|.|1|.|392.txt|.|1
+reading rooms|.|204.txt|.|2
+offering|.|264.txt|.|2
+online expression|.|392.txt|.|1
+soar|.|264.txt|.|1
+huge|.|384.txt|.|2|.|264.txt|.|2
+internet access|.|226.txt|.|4|.|211.txt|.|4

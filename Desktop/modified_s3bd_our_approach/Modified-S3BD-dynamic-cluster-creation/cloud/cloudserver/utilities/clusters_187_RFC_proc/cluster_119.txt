@@ -1,0 +1,120 @@
+parent
+connection ltd
+resource evaluation
+gudmundsson
+gerhards adiscon gmbh
+evaluators
+resource identified
+dusseault standards track
+setquota
+adiscon
+webdav
+priority queueing
+resource record
+webdav redirect
+redirect reference resources
+http resource
+http monitor
+lock
+write
+resolution january
+researchers
+signature method
+compressible flows
+alarms in syslog
+issn urn namespace
+rrsig rr
+management of resource
+cancellation
+ieprep sip
+webdav june
+brought
+test groups
+defence
+setquota command
+brought together librarians
+quota extension
+sd
+uniform
+resource allocation
+composed
+webdav april
+write lock
+resource locators
+gathering efforts
+new resource
+url definition
+uniform resource names
+broadcast identifiers
+uniform resource identifiers
+request to the service
+suppress
+resource owner
+txt
+rsa sigs and keys
+automated
+mit mathlab
+dusseault standards
+willis
+token credentials
+urn namespace
+resource names
+authoring
+quotas
+webdav quotas
+telecommunications council
+resource compression
+iris to uris
+rsa sigs
+quotaroot response
+signature base
+use of sha
+novices
+mapping media
+dusseault
+core metadata workshop
+librarians
+choices when expanding
+aiken
+resource
+pickens
+queueing
+created
+record type
+resource agents
+history
+goyens
+multi status
+variable resource compression
+metadata workshop series
+efforts
+namespace january
+resolver service
+client credentials
+resource name
+target resource
+middleware services
+key rrs
+status type
+financial
+temporary credentials
+resource manager
+national computerization agency
+miniman
+base string
+locators
+workshop on middleware
+workshop announcement
+chisholm
+middleware
+allocations to that resource
+resource reservation
+online computer
+whitehead
+notebook framework
+lock token
+key tag field
+extension for atm
+nfc forum
+getquota command
+resource evaluators

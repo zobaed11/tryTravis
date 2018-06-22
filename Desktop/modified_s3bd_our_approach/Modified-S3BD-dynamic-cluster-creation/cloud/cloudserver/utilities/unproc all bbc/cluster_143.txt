@@ -1,0 +1,64 @@
+cut debt|.|bbc_business_038.txt|.|1
+bus|.|bbc_politics_305.txt|.|3|.|bbc_tech_181.txt|.|2
+smashed|.|bbc_tech_372.txt|.|1|.|bbc_tech_287.txt|.|1
+everton|.|bbc_sport_193.txt|.|4|.|bbc_sport_184.txt|.|4|.|bbc_sport_175.txt|.|2|.|bbc_sport_095.txt|.|6
+suppliers|.|bbc_business_448.txt|.|4
+downlink|.|bbc_tech_032.txt|.|4|.|bbc_tech_335.txt|.|3
+mobile phones|.|bbc_tech_067.txt|.|2|.|bbc_tech_375.txt|.|2|.|bbc_tech_017.txt|.|6|.|bbc_tech_388.txt|.|1|.|bbc_tech_382.txt|.|2|.|bbc_tech_069.txt|.|2|.|bbc_tech_383.txt|.|6|.|bbc_tech_034.txt|.|2|.|bbc_politics_240.txt|.|1|.|bbc_tech_103.txt|.|1
+powerbook|.|bbc_tech_009.txt|.|2
+express|.|bbc_business_280.txt|.|4|.|bbc_entertainment_036.txt|.|3
+jaslyn|.|bbc_sport_498.txt|.|2
+worst tv import|.|bbc_entertainment_217.txt|.|2
+two songs|.|bbc_entertainment_151.txt|.|2
+indian airline|.|bbc_business_186.txt|.|1
+manufacturing sector|.|bbc_business_108.txt|.|1
+defence documents|.|bbc_business_366.txt|.|2
+ticketing|.|bbc_tech_181.txt|.|1
+said gm|.|bbc_business_149.txt|.|1
+apple powerbook|.|bbc_tech_009.txt|.|2
+da bank|.|bbc_entertainment_231.txt|.|2|.|bbc_entertainment_197.txt|.|3
+booted|.|bbc_sport_414.txt|.|1
+written|.|bbc_entertainment_192.txt|.|2|.|bbc_tech_077.txt|.|5
+passion|.|bbc_entertainment_041.txt|.|2
+fuel costs|.|bbc_business_004.txt|.|2
+than had previously been thought|.|bbc_business_006.txt|.|1
+oracle|.|bbc_business_460.txt|.|7
+intervoice said|.|bbc_tech_069.txt|.|2
+geldof|.|bbc_politics_026.txt|.|2
+yangtze electric|.|bbc_business_174.txt|.|2
+mobile networks|.|bbc_tech_032.txt|.|2|.|bbc_tech_335.txt|.|2
+chronometer|.|bbc_tech_379.txt|.|4|.|bbc_tech_009.txt|.|4
+martyn williams|.|bbc_sport_312.txt|.|3|.|bbc_sport_395.txt|.|2|.|bbc_sport_416.txt|.|3
+mr houston|.|bbc_politics_286.txt|.|6|.|bbc_politics_125.txt|.|6
+told reporters|.|bbc_business_398.txt|.|2
+tube|.|bbc_business_123.txt|.|3|.|bbc_business_341.txt|.|3
+apple laptop|.|bbc_tech_379.txt|.|2|.|bbc_tech_009.txt|.|2
+dumpsite|.|bbc_politics_146.txt|.|3
+band busted|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+england debut|.|bbc_sport_300.txt|.|2
+packet access|.|bbc_tech_032.txt|.|4|.|bbc_tech_335.txt|.|3
+speed downlink|.|bbc_tech_032.txt|.|3|.|bbc_tech_335.txt|.|2
+phones|.|bbc_tech_234.txt|.|6|.|bbc_tech_067.txt|.|3|.|bbc_tech_109.txt|.|4|.|bbc_tech_388.txt|.|13|.|bbc_tech_069.txt|.|7|.|bbc_tech_338.txt|.|7|.|bbc_tech_383.txt|.|6|.|bbc_tech_050.txt|.|6|.|bbc_tech_208.txt|.|7|.|bbc_tech_182.txt|.|5|.|bbc_tech_265.txt|.|5|.|bbc_tech_386.txt|.|4|.|bbc_tech_375.txt|.|7|.|bbc_tech_017.txt|.|11|.|bbc_tech_389.txt|.|6|.|bbc_tech_064.txt|.|7|.|bbc_tech_382.txt|.|3|.|bbc_tech_034.txt|.|3|.|bbc_politics_240.txt|.|1|.|bbc_tech_103.txt|.|13
+generation of mobile|.|bbc_tech_032.txt|.|1|.|bbc_tech_335.txt|.|1
+marine|.|bbc_tech_379.txt|.|4|.|bbc_tech_009.txt|.|4
+address book|.|bbc_tech_069.txt|.|3
+old phones|.|bbc_tech_017.txt|.|2
+greatest|.|bbc_tech_009.txt|.|2
+text record|.|bbc_tech_372.txt|.|1|.|bbc_tech_287.txt|.|1
+smash more records|.|bbc_tech_372.txt|.|1|.|bbc_tech_287.txt|.|1
+portable computing|.|bbc_tech_379.txt|.|1
+marine chronometer|.|bbc_tech_379.txt|.|4|.|bbc_tech_009.txt|.|4
+ticketing system|.|bbc_tech_181.txt|.|1
+remote control|.|bbc_tech_009.txt|.|3
+mobile|.|bbc_tech_054.txt|.|4|.|bbc_tech_109.txt|.|12|.|bbc_tech_372.txt|.|5|.|bbc_tech_338.txt|.|9|.|bbc_business_019.txt|.|4|.|bbc_business_205.txt|.|3|.|bbc_tech_152.txt|.|3|.|bbc_tech_305.txt|.|3|.|bbc_tech_290.txt|.|2|.|bbc_tech_322.txt|.|10|.|bbc_tech_098.txt|.|7|.|bbc_tech_064.txt|.|9|.|bbc_tech_382.txt|.|7|.|bbc_tech_153.txt|.|2|.|bbc_tech_192.txt|.|13|.|bbc_tech_234.txt|.|6|.|bbc_tech_388.txt|.|4|.|bbc_business_092.txt|.|3|.|bbc_tech_069.txt|.|14|.|bbc_tech_009.txt|.|12|.|bbc_tech_265.txt|.|12|.|bbc_tech_093.txt|.|4|.|bbc_tech_375.txt|.|4|.|bbc_tech_389.txt|.|6|.|bbc_tech_376.txt|.|7|.|bbc_tech_185.txt|.|2|.|bbc_business_113.txt|.|8|.|bbc_politics_240.txt|.|2|.|bbc_tech_067.txt|.|7|.|bbc_tech_325.txt|.|11|.|bbc_tech_032.txt|.|17|.|bbc_tech_059.txt|.|10|.|bbc_tech_041.txt|.|7|.|bbc_tech_050.txt|.|8|.|bbc_tech_182.txt|.|5|.|bbc_tech_378.txt|.|22|.|bbc_tech_271.txt|.|1|.|bbc_tech_386.txt|.|6|.|bbc_tech_017.txt|.|12|.|bbc_tech_335.txt|.|17|.|bbc_tech_034.txt|.|2|.|bbc_tech_289.txt|.|7|.|bbc_business_074.txt|.|6|.|bbc_tech_170.txt|.|3|.|bbc_tech_379.txt|.|14|.|bbc_tech_095.txt|.|9|.|bbc_tech_225.txt|.|7|.|bbc_tech_383.txt|.|16|.|bbc_tech_212.txt|.|7|.|bbc_business_038.txt|.|4|.|bbc_tech_208.txt|.|8|.|bbc_tech_311.txt|.|9|.|bbc_tech_230.txt|.|2|.|bbc_tech_287.txt|.|5|.|bbc_tech_116.txt|.|2|.|bbc_tech_103.txt|.|4|.|bbc_tech_181.txt|.|3
+message|.|bbc_tech_372.txt|.|1|.|bbc_tech_287.txt|.|1
+poorer nations|.|bbc_tech_017.txt|.|2
+multimedia|.|bbc_tech_163.txt|.|2|.|bbc_tech_234.txt|.|12|.|bbc_tech_193.txt|.|2|.|bbc_tech_265.txt|.|4|.|bbc_tech_291.txt|.|2|.|bbc_tech_059.txt|.|3|.|bbc_tech_296.txt|.|2|.|bbc_tech_322.txt|.|3|.|bbc_tech_389.txt|.|12|.|bbc_tech_050.txt|.|3
+posters only pass|.|bbc_tech_230.txt|.|1
+siemens|.|bbc_tech_032.txt|.|6|.|bbc_tech_335.txt|.|6
+records with their text messaging|.|bbc_tech_372.txt|.|1|.|bbc_tech_287.txt|.|1
+amit|.|bbc_tech_400.txt|.|2
+instincts|.|bbc_politics_201.txt|.|2
+beam information|.|bbc_tech_230.txt|.|2
+group stages|.|bbc_sport_455.txt|.|2
+role playing|.|bbc_tech_401.txt|.|4

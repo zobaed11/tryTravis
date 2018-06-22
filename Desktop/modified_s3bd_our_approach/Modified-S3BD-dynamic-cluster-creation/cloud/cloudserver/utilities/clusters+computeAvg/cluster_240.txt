@@ -1,0 +1,38 @@
+240
+ace|.|WET4863.txt|.|44|.|WET2057.txt|.|58|.|WET3761.txt|.|20
+deal|.|WET5360.txt|.|72|.|WET255.txt|.|231|.|WET3857.txt|.|6
+miscellaneous|.|WET4702.txt|.|70|.|WET642.txt|.|11
+directory product|.|WET3684.txt|.|16
+part|.|WET1460.txt|.|85|.|WET4629.txt|.|34|.|WET5516.txt|.|50|.|WET2463.txt|.|22|.|WET2597.txt|.|223|.|WET2771.txt|.|98|.|WET452.txt|.|17|.|WET295.txt|.|393
+chart advanced|.|WET3838.txt|.|10
+plan year|.|WET295.txt|.|89
+nutrition hub advertising|.|WET2057.txt|.|22
+dead|.|WET5611.txt|.|13|.|WET2752.txt|.|119|.|WET1894.txt|.|6
+net veteran|.|WET2842.txt|.|63
+exhibiting club membership|.|WET2057.txt|.|22
+medicare part|.|WET295.txt|.|98
+articles workout|.|WET2058.txt|.|18
+background image|.|WET3625.txt|.|10
+school of law|.|WET4317.txt|.|13
+drowned|.|WET4056.txt|.|23
+make text|.|WET1700.txt|.|22|.|WET1699.txt|.|22|.|WET5446.txt|.|22
+speculation|.|WET5344.txt|.|6|.|WET4637.txt|.|2|.|WET1108.txt|.|1|.|WET325.txt|.|3|.|WET3680.txt|.|1|.|WET295.txt|.|2|.|WET4163.txt|.|2|.|WET3023.txt|.|2|.|WET1597.txt|.|6|.|WET5345.txt|.|6|.|WET951.txt|.|1|.|WET3796.txt|.|2|.|WET2545.txt|.|2|.|WET4200.txt|.|2|.|WET1596.txt|.|3|.|WET3404.txt|.|2|.|WET2363.txt|.|2|.|WET12.txt|.|2|.|WET5778.txt|.|2|.|WET1076.txt|.|2|.|WET4309.txt|.|3|.|WET4173.txt|.|2|.|WET5046.txt|.|2|.|WET429.txt|.|1|.|WET5329.txt|.|1|.|WET178.txt|.|2|.|WET853.txt|.|2|.|WET2492.txt|.|1|.|WET3755.txt|.|2|.|WET215.txt|.|2|.|WET809.txt|.|1|.|WET5822.txt|.|2|.|WET4759.txt|.|2|.|WET4395.txt|.|2|.|WET3590.txt|.|2|.|WET2564.txt|.|3
+bbc|.|WET693.txt|.|39|.|WET692.txt|.|111|.|WET4432.txt|.|132
+bbb|.|WET1263.txt|.|200|.|WET1262.txt|.|782|.|WET5015.txt|.|372
+subgraphs|.|WET263.txt|.|1
+drugs|.|WET1132.txt|.|12|.|WET295.txt|.|92
+traded|.|WET2310.txt|.|8
+jobs gen|.|WET5639.txt|.|9
+personal|.|WET2310.txt|.|28|.|WET4463.txt|.|44|.|WET4204.txt|.|20|.|WET2057.txt|.|174|.|WET1018.txt|.|11|.|WET4052.txt|.|14|.|WET5801.txt|.|66|.|WET6085.txt|.|143|.|WET5539.txt|.|47|.|WET295.txt|.|3172|.|WET2340.txt|.|143|.|WET4485.txt|.|23|.|WET2341.txt|.|143|.|WET2058.txt|.|52|.|WET3625.txt|.|10|.|WET3214.txt|.|6|.|WET2134.txt|.|52|.|WET2103.txt|.|42|.|WET4806.txt|.|3|.|WET6084.txt|.|143|.|WET5739.txt|.|9|.|WET5802.txt|.|52|.|WET2088.txt|.|9|.|WET3499.txt|.|6|.|WET2342.txt|.|143|.|WET4317.txt|.|188|.|WET1835.txt|.|8|.|WET6083.txt|.|65|.|WET5351.txt|.|148|.|WET1152.txt|.|2|.|WET3838.txt|.|24|.|WET703.txt|.|6|.|WET4529.txt|.|18
+hepatitis|.|WET6081.txt|.|3|.|WET5535.txt|.|2|.|WET4278.txt|.|3|.|WET3409.txt|.|2|.|WET3853.txt|.|2|.|WET295.txt|.|8|.|WET3048.txt|.|22|.|WET1088.txt|.|2|.|WET417.txt|.|2
+career guide nutrition|.|WET2057.txt|.|22
+todo|.|WET1018.txt|.|6
+fitnessconnect|.|WET2058.txt|.|30|.|WET2057.txt|.|55|.|WET5801.txt|.|55
+associate producer|.|WET3366.txt|.|39
+submitted|.|WET822.txt|.|102|.|WET3051.txt|.|62
+ideafit|.|WET2057.txt|.|22
+star trek|.|WET1656.txt|.|328
+facebookshare to pinterest|.|WET4012.txt|.|41|.|WET462.txt|.|83
+scentportable|.|WET5011.txt|.|20
+medicare|.|WET295.txt|.|410
+workout builder|.|WET2058.txt|.|18

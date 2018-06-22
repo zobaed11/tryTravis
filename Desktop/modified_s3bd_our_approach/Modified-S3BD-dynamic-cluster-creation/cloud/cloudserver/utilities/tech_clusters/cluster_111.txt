@@ -1,0 +1,17 @@
+111
+help the virus spread|.|210.txt|.|1
+subject line|.|008.txt|.|2|.|252.txt|.|2
+crimes|.|281.txt|.|1
+subject|.|008.txt|.|2|.|252.txt|.|2
+investigating|.|039.txt|.|1|.|334.txt|.|1
+turns|.|210.txt|.|1
+spread|.|257.txt|.|3|.|210.txt|.|4
+booms|.|281.txt|.|1
+personally|.|008.txt|.|1|.|252.txt|.|1
+electronic christmas|.|008.txt|.|2|.|252.txt|.|2
+cyber crimes|.|281.txt|.|1
+electronic|.|008.txt|.|2|.|252.txt|.|2
+investigation|.|039.txt|.|1|.|334.txt|.|1
+bureau|.|039.txt|.|2|.|334.txt|.|2
+microsoft outlook|.|117.txt|.|2
+outlook|.|117.txt|.|2

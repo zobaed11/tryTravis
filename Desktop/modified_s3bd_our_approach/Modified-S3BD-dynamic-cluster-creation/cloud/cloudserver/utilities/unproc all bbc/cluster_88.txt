@@ -1,0 +1,64 @@
+combat attacks|.|bbc_tech_368.txt|.|1
+support for a ban|.|bbc_politics_381.txt|.|1
+service game|.|bbc_sport_491.txt|.|4
+secret service|.|bbc_tech_120.txt|.|3
+grid computing|.|bbc_tech_022.txt|.|2|.|bbc_tech_380.txt|.|2
+safer|.|bbc_tech_369.txt|.|2
+arkansas|.|bbc_entertainment_281.txt|.|3
+roddick saves|.|bbc_sport_491.txt|.|4
+aycliffe|.|bbc_business_058.txt|.|2
+net attacks|.|bbc_tech_368.txt|.|2
+tale|.|bbc_entertainment_359.txt|.|4|.|bbc_entertainment_002.txt|.|1
+sun grid|.|bbc_tech_022.txt|.|2|.|bbc_tech_380.txt|.|2
+avoid trouble|.|bbc_tech_034.txt|.|2
+music downloaded|.|bbc_tech_298.txt|.|1|.|bbc_tech_263.txt|.|1
+saves|.|bbc_sport_491.txt|.|7
+net service|.|bbc_tech_368.txt|.|2
+nadal puts|.|bbc_sport_491.txt|.|3
+local authority|.|bbc_politics_204.txt|.|1
+prison|.|bbc_entertainment_366.txt|.|2|.|bbc_politics_224.txt|.|3|.|bbc_politics_204.txt|.|10|.|bbc_politics_296.txt|.|2
+napster offers|.|bbc_tech_298.txt|.|1|.|bbc_tech_263.txt|.|1
+offers|.|bbc_sport_112.txt|.|2|.|bbc_tech_136.txt|.|1|.|bbc_tech_280.txt|.|1|.|bbc_tech_349.txt|.|5|.|bbc_business_252.txt|.|1|.|bbc_tech_298.txt|.|4|.|bbc_business_169.txt|.|1|.|bbc_tech_344.txt|.|1|.|bbc_sport_121.txt|.|2|.|bbc_tech_263.txt|.|4|.|bbc_tech_022.txt|.|1|.|bbc_tech_380.txt|.|1
+service attacks|.|bbc_tech_368.txt|.|2
+roddick holds|.|bbc_sport_491.txt|.|2
+pro|.|bbc_tech_111.txt|.|3|.|bbc_tech_243.txt|.|3|.|bbc_tech_021.txt|.|3|.|bbc_tech_328.txt|.|3
+downloaded|.|bbc_tech_298.txt|.|1|.|bbc_tech_263.txt|.|1
+security problems|.|bbc_tech_034.txt|.|2
+double faults|.|bbc_sport_491.txt|.|1
+key subjects|.|bbc_politics_016.txt|.|2
+network affected|.|bbc_tech_368.txt|.|2
+times faster|.|bbc_tech_205.txt|.|2
+nunez|.|bbc_sport_104.txt|.|3
+millions|.|bbc_politics_042.txt|.|2
+net service firms|.|bbc_tech_368.txt|.|2
+drop|.|bbc_business_329.txt|.|1|.|bbc_sport_284.txt|.|2|.|bbc_politics_204.txt|.|1
+sell their holdings|.|bbc_business_274.txt|.|1
+nadal|.|bbc_sport_491.txt|.|41|.|bbc_sport_429.txt|.|3
+linford|.|bbc_sport_094.txt|.|2
+combat|.|bbc_tech_368.txt|.|1
+uk online|.|bbc_tech_205.txt|.|3
+home computer|.|bbc_tech_034.txt|.|2
+civil service|.|bbc_politics_365.txt|.|4|.|bbc_politics_084.txt|.|4
+satellite radio|.|bbc_tech_066.txt|.|2|.|bbc_tech_381.txt|.|2
+uk charity|.|bbc_entertainment_360.txt|.|2
+alert|.|bbc_tech_034.txt|.|2
+blocking|.|bbc_tech_123.txt|.|8|.|bbc_tech_101.txt|.|6
+computing power|.|bbc_tech_022.txt|.|2|.|bbc_tech_380.txt|.|2
+kidman|.|bbc_entertainment_327.txt|.|5
+correctional agency|.|bbc_politics_204.txt|.|2
+megabit|.|bbc_tech_205.txt|.|1
+liam gallagher|.|bbc_entertainment_154.txt|.|2
+provides vital|.|bbc_tech_006.txt|.|1
+alerts tell|.|bbc_tech_034.txt|.|1
+citizenship lessons|.|bbc_politics_172.txt|.|2
+sensing system|.|bbc_tech_368.txt|.|2
+sun offers|.|bbc_tech_022.txt|.|1|.|bbc_tech_380.txt|.|1
+puts|.|bbc_tech_012.txt|.|1|.|bbc_tech_331.txt|.|1|.|bbc_sport_491.txt|.|3
+tells|.|bbc_entertainment_343.txt|.|1
+alert site|.|bbc_tech_034.txt|.|1
+agassi|.|bbc_sport_475.txt|.|3|.|bbc_sport_427.txt|.|6|.|bbc_sport_507.txt|.|4|.|bbc_sport_468.txt|.|2|.|bbc_sport_480.txt|.|4|.|bbc_sport_509.txt|.|6
+trapp|.|bbc_entertainment_277.txt|.|3
+autolink feature|.|bbc_tech_010.txt|.|3
+songs|.|bbc_entertainment_151.txt|.|2|.|bbc_entertainment_259.txt|.|2|.|bbc_entertainment_248.txt|.|3|.|bbc_tech_298.txt|.|2|.|bbc_tech_148.txt|.|3|.|bbc_entertainment_265.txt|.|2|.|bbc_tech_263.txt|.|2
+service|.|bbc_business_124.txt|.|2|.|bbc_entertainment_202.txt|.|4|.|bbc_tech_076.txt|.|5|.|bbc_politics_390.txt|.|2|.|bbc_tech_368.txt|.|5|.|bbc_politics_042.txt|.|4|.|bbc_politics_204.txt|.|5|.|bbc_politics_018.txt|.|2|.|bbc_tech_378.txt|.|3|.|bbc_tech_149.txt|.|2|.|bbc_tech_298.txt|.|10|.|bbc_tech_267.txt|.|1|.|bbc_tech_021.txt|.|4|.|bbc_tech_352.txt|.|5|.|bbc_tech_034.txt|.|10|.|bbc_politics_365.txt|.|4|.|bbc_tech_263.txt|.|10|.|bbc_politics_294.txt|.|2|.|bbc_tech_369.txt|.|1|.|bbc_politics_067.txt|.|2|.|bbc_politics_210.txt|.|5|.|bbc_tech_162.txt|.|2|.|bbc_tech_087.txt|.|4|.|bbc_tech_022.txt|.|3|.|bbc_tech_221.txt|.|3|.|bbc_tech_120.txt|.|3|.|bbc_business_263.txt|.|3|.|bbc_tech_205.txt|.|13|.|bbc_tech_058.txt|.|1|.|bbc_sport_491.txt|.|6|.|bbc_tech_328.txt|.|4|.|bbc_politics_084.txt|.|4|.|bbc_tech_010.txt|.|3|.|bbc_tech_380.txt|.|3
+safin|.|bbc_sport_503.txt|.|6|.|bbc_sport_489.txt|.|6|.|bbc_sport_422.txt|.|3|.|bbc_sport_490.txt|.|6

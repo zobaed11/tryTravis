@@ -1,0 +1,64 @@
+prices carried|.|bbc_business_138.txt|.|2
+steel firms|.|bbc_business_140.txt|.|2
+surveyors|.|bbc_business_329.txt|.|2
+chartered surveyors|.|bbc_business_329.txt|.|1
+kerry|.|bbc_business_294.txt|.|5
+building|.|bbc_business_237.txt|.|2|.|bbc_business_149.txt|.|1|.|bbc_business_337.txt|.|3|.|bbc_business_323.txt|.|2|.|bbc_business_153.txt|.|2
+indonesians|.|bbc_business_012.txt|.|2
+price rise|.|bbc_business_012.txt|.|2
+former fbi|.|bbc_business_497.txt|.|2
+disappointment|.|bbc_business_466.txt|.|1
+cage|.|bbc_entertainment_083.txt|.|2
+board meeting|.|bbc_business_486.txt|.|2
+mr ghosn|.|bbc_business_216.txt|.|8
+price|.|bbc_business_447.txt|.|2|.|bbc_tech_084.txt|.|3|.|bbc_business_239.txt|.|3|.|bbc_tech_333.txt|.|1|.|bbc_business_175.txt|.|1|.|bbc_business_103.txt|.|1|.|bbc_business_138.txt|.|2|.|bbc_business_030.txt|.|4|.|bbc_entertainment_181.txt|.|1|.|bbc_business_140.txt|.|7|.|bbc_business_499.txt|.|1|.|bbc_tech_037.txt|.|1|.|bbc_business_429.txt|.|1|.|bbc_business_136.txt|.|2|.|bbc_business_322.txt|.|1|.|bbc_business_463.txt|.|1|.|bbc_business_176.txt|.|3|.|bbc_business_163.txt|.|1|.|bbc_business_221.txt|.|6|.|bbc_business_407.txt|.|2|.|bbc_sport_168.txt|.|2|.|bbc_tech_264.txt|.|3|.|bbc_tech_247.txt|.|1|.|bbc_tech_242.txt|.|1|.|bbc_business_186.txt|.|2|.|bbc_business_254.txt|.|2|.|bbc_business_385.txt|.|1|.|bbc_business_402.txt|.|1|.|bbc_business_012.txt|.|2|.|bbc_business_211.txt|.|1|.|bbc_business_121.txt|.|2|.|bbc_business_415.txt|.|6|.|bbc_business_378.txt|.|6|.|bbc_business_244.txt|.|1|.|bbc_business_502.txt|.|1|.|bbc_business_042.txt|.|1|.|bbc_business_210.txt|.|4|.|bbc_entertainment_152.txt|.|3|.|bbc_business_381.txt|.|3|.|bbc_tech_235.txt|.|3
+share prices|.|bbc_business_263.txt|.|2|.|bbc_business_294.txt|.|3
+closure|.|bbc_politics_165.txt|.|4
+confidential|.|bbc_business_497.txt|.|1
+aborted tour|.|bbc_entertainment_247.txt|.|1
+crude oil|.|bbc_business_138.txt|.|2|.|bbc_business_152.txt|.|3
+nasdaq stock|.|bbc_business_267.txt|.|2|.|bbc_business_365.txt|.|2
+google released|.|bbc_tech_108.txt|.|1
+land registry|.|bbc_business_248.txt|.|2
+house prices dipped|.|bbc_business_415.txt|.|1
+crude prices|.|bbc_business_045.txt|.|2|.|bbc_business_381.txt|.|1
+baoshan|.|bbc_business_140.txt|.|3
+conducted|.|bbc_entertainment_023.txt|.|3|.|bbc_entertainment_273.txt|.|3
+gigapixel|.|bbc_tech_201.txt|.|3
+rivals|.|bbc_tech_056.txt|.|2|.|bbc_business_252.txt|.|3|.|bbc_business_099.txt|.|2
+heavy|.|bbc_tech_307.txt|.|2|.|bbc_business_152.txt|.|2
+us crude prices|.|bbc_business_045.txt|.|2
+hey ya|.|bbc_entertainment_153.txt|.|2
+alan|.|bbc_politics_278.txt|.|2|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_006.txt|.|2|.|bbc_sport_105.txt|.|2|.|bbc_politics_102.txt|.|3|.|bbc_business_273.txt|.|2|.|bbc_entertainment_383.txt|.|2|.|bbc_politics_402.txt|.|2|.|bbc_entertainment_275.txt|.|3|.|bbc_entertainment_356.txt|.|2
+bush victory|.|bbc_business_294.txt|.|1
+parking fees|.|bbc_business_461.txt|.|2
+mauresmo|.|bbc_sport_474.txt|.|6
+mock|.|bbc_politics_309.txt|.|5|.|bbc_politics_217.txt|.|6|.|bbc_politics_321.txt|.|6
+uk house|.|bbc_business_405.txt|.|2|.|bbc_business_170.txt|.|2|.|bbc_business_415.txt|.|2
+hayman|.|bbc_politics_198.txt|.|4
+chile|.|bbc_business_360.txt|.|2
+american and southwest|.|bbc_business_466.txt|.|2
+commodity|.|bbc_business_067.txt|.|2
+rising|.|bbc_business_428.txt|.|1|.|bbc_business_061.txt|.|1|.|bbc_business_175.txt|.|2|.|bbc_business_086.txt|.|2|.|bbc_business_283.txt|.|1|.|bbc_business_138.txt|.|3|.|bbc_business_273.txt|.|1|.|bbc_business_168.txt|.|2
+purchasing|.|bbc_business_086.txt|.|2
+national manufacturing|.|bbc_business_370.txt|.|2
+wmc said|.|bbc_business_125.txt|.|2
+jumped|.|bbc_business_045.txt|.|1
+ore costs hit|.|bbc_business_140.txt|.|1
+drop as sales|.|bbc_business_329.txt|.|1
+confidential us|.|bbc_business_497.txt|.|1
+oil prices carried|.|bbc_business_138.txt|.|2
+iron ore|.|bbc_business_140.txt|.|5
+fuel subsidies|.|bbc_business_012.txt|.|2
+barrel|.|bbc_business_138.txt|.|4
+cochilco|.|bbc_business_360.txt|.|3
+ore|.|bbc_business_140.txt|.|8
+equal access for rivals|.|bbc_business_252.txt|.|1
+costs hit|.|bbc_business_140.txt|.|1
+house market|.|bbc_business_323.txt|.|1
+access to rivals|.|bbc_business_252.txt|.|1
+closed higher|.|bbc_business_294.txt|.|2
+fuel prices|.|bbc_business_466.txt|.|3|.|bbc_business_004.txt|.|2|.|bbc_business_012.txt|.|4
+prices fell|.|bbc_business_170.txt|.|1|.|bbc_business_329.txt|.|2
+iron|.|bbc_entertainment_322.txt|.|5|.|bbc_business_140.txt|.|6
+us crude|.|bbc_business_045.txt|.|2|.|bbc_business_138.txt|.|3|.|bbc_business_270.txt|.|2|.|bbc_business_152.txt|.|3

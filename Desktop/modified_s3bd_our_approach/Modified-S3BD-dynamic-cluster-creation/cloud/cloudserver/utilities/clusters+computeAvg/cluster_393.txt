@@ -1,0 +1,19 @@
+393
+violent|.|WET112.txt|.|6
+corba|.|WET2676.txt|.|2
+prostitution|.|WET112.txt|.|6
+user amount|.|WET3382.txt|.|12
+vikings|.|WET501.txt|.|13
+pm more headlines latest|.|WET1601.txt|.|9|.|WET1602.txt|.|8
+schedulelsu|.|WET3101.txt|.|8
+viral reaction|.|WET112.txt|.|6
+crash|.|WET112.txt|.|6
+instruction set|.|WET5349.txt|.|4
+gitti neyim|.|WET3952.txt|.|5
+special check|.|WET1889.txt|.|62
+viral|.|WET112.txt|.|6
+gitti|.|WET3952.txt|.|10
+prostitution charges|.|WET112.txt|.|6
+violent crash|.|WET112.txt|.|6
+pm|.|WET4234.txt|.|37|.|WET2676.txt|.|213|.|WET29.txt|.|30|.|WET540.txt|.|95|.|WET808.txt|.|193|.|WET1889.txt|.|393|.|WET206.txt|.|73|.|WET3234.txt|.|16|.|WET4498.txt|.|25|.|WET186.txt|.|13|.|WET1879.txt|.|100|.|WET380.txt|.|356|.|WET4287.txt|.|1194|.|WET3953.txt|.|116|.|WET2178.txt|.|59|.|WET196.txt|.|100|.|WET1860.txt|.|77|.|WET674.txt|.|65|.|WET6214.txt|.|117|.|WET4147.txt|.|73|.|WET399.txt|.|54|.|WET2600.txt|.|202|.|WET4422.txt|.|46|.|WET958.txt|.|49|.|WET2927.txt|.|308|.|WET3793.txt|.|92|.|WET3382.txt|.|358|.|WET4183.txt|.|25|.|WET1272.txt|.|139|.|WET5573.txt|.|50|.|WET5530.txt|.|51|.|WET146.txt|.|82|.|WET5009.txt|.|108|.|WET6124.txt|.|117|.|WET1602.txt|.|135|.|WET4725.txt|.|48|.|WET6115.txt|.|32|.|WET34.txt|.|103|.|WET3177.txt|.|61|.|WET2655.txt|.|91|.|WET4302.txt|.|39|.|WET2036.txt|.|157|.|WET112.txt|.|127|.|WET5385.txt|.|45|.|WET26.txt|.|36|.|WET682.txt|.|30|.|WET28.txt|.|463|.|WET4131.txt|.|67|.|WET5581.txt|.|42|.|WET4127.txt|.|64|.|WET4209.txt|.|138|.|WET5349.txt|.|150|.|WET3081.txt|.|355|.|WET2667.txt|.|77|.|WET401.txt|.|97|.|WET5578.txt|.|73|.|WET4128.txt|.|78|.|WET150.txt|.|139|.|WET3952.txt|.|242|.|WET5057.txt|.|96|.|WET205.txt|.|59|.|WET4075.txt|.|54|.|WET1049.txt|.|35|.|WET2928.txt|.|396|.|WET5350.txt|.|152|.|WET3381.txt|.|131|.|WET3050.txt|.|9|.|WET373.txt|.|53|.|WET4448.txt|.|35|.|WET5063.txt|.|88|.|WET3101.txt|.|104|.|WET391.txt|.|90|.|WET2914.txt|.|76|.|WET1081.txt|.|31|.|WET1689.txt|.|31|.|WET4158.txt|.|194|.|WET2831.txt|.|66|.|WET2840.txt|.|34|.|WET775.txt|.|10|.|WET561.txt|.|32|.|WET544.txt|.|679|.|WET3575.txt|.|1208|.|WET501.txt|.|82|.|WET969.txt|.|53|.|WET756.txt|.|71|.|WET3451.txt|.|40|.|WET367.txt|.|191|.|WET1614.txt|.|32|.|WET4139.txt|.|47|.|WET4173.txt|.|166|.|WET606.txt|.|295|.|WET5435.txt|.|97|.|WET459.txt|.|20|.|WET2898.txt|.|49|.|WET4348.txt|.|92|.|WET1601.txt|.|164|.|WET3105.txt|.|60|.|WET3577.txt|.|1637
+gaston gazette|.|WET1889.txt|.|20

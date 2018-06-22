@@ -1,0 +1,64 @@
+reach|.|bbc_sport_508.txt|.|1|.|bbc_business_359.txt|.|2|.|bbc_sport_483.txt|.|1
+forced|.|bbc_business_003.txt|.|2|.|bbc_business_382.txt|.|2|.|bbc_sport_428.txt|.|2|.|bbc_sport_506.txt|.|2|.|bbc_sport_055.txt|.|2
+reach the last|.|bbc_sport_508.txt|.|1
+bryan|.|bbc_sport_472.txt|.|6
+bryan twins|.|bbc_sport_472.txt|.|2
+rugby aid|.|bbc_sport_328.txt|.|2|.|bbc_sport_329.txt|.|2
+twins|.|bbc_sport_472.txt|.|2
+henman|.|bbc_sport_492.txt|.|4|.|bbc_sport_476.txt|.|5|.|bbc_sport_500.txt|.|7|.|bbc_sport_421.txt|.|10|.|bbc_sport_434.txt|.|6|.|bbc_sport_468.txt|.|6
+paseo|.|bbc_sport_317.txt|.|2
+anoeta stadium|.|bbc_sport_317.txt|.|2
+australian rugby|.|bbc_sport_402.txt|.|2
+rain|.|bbc_sport_434.txt|.|2
+match points|.|bbc_sport_428.txt|.|2
+nalbandian|.|bbc_sport_483.txt|.|5
+massu|.|bbc_sport_468.txt|.|2
+remaining|.|bbc_sport_247.txt|.|3
+almagro|.|bbc_sport_508.txt|.|2
+captains|.|bbc_sport_339.txt|.|2
+side to match|.|bbc_sport_305.txt|.|1
+nalbandian broke|.|bbc_sport_483.txt|.|2
+pelous|.|bbc_sport_339.txt|.|2
+bath prop|.|bbc_sport_334.txt|.|2
+patrick vieira|.|bbc_sport_137.txt|.|3
+property insurers|.|bbc_business_311.txt|.|2
+anoeta|.|bbc_sport_317.txt|.|2
+southern hemisphere|.|bbc_sport_402.txt|.|2
+match point|.|bbc_sport_421.txt|.|2
+potter film|.|bbc_entertainment_033.txt|.|2
+roche|.|bbc_sport_494.txt|.|5
+charged|.|bbc_sport_234.txt|.|5|.|bbc_business_448.txt|.|2
+chelsea|.|bbc_sport_174.txt|.|2|.|bbc_sport_246.txt|.|8|.|bbc_sport_114.txt|.|2|.|bbc_sport_280.txt|.|3|.|bbc_sport_162.txt|.|2|.|bbc_sport_251.txt|.|3|.|bbc_sport_167.txt|.|3|.|bbc_sport_184.txt|.|3|.|bbc_sport_183.txt|.|3|.|bbc_sport_237.txt|.|2|.|bbc_sport_140.txt|.|4|.|bbc_sport_255.txt|.|3|.|bbc_sport_203.txt|.|2|.|bbc_sport_125.txt|.|4|.|bbc_sport_168.txt|.|7|.|bbc_sport_252.txt|.|3|.|bbc_sport_274.txt|.|2|.|bbc_sport_104.txt|.|7|.|bbc_sport_278.txt|.|5|.|bbc_sport_209.txt|.|4|.|bbc_sport_169.txt|.|3|.|bbc_sport_159.txt|.|4|.|bbc_sport_279.txt|.|2|.|bbc_sport_201.txt|.|4|.|bbc_sport_218.txt|.|5|.|bbc_sport_177.txt|.|5
+semis|.|bbc_sport_483.txt|.|1
+drug tests|.|bbc_sport_082.txt|.|1
+alive|.|bbc_sport_472.txt|.|2
+ink cartridges|.|bbc_tech_333.txt|.|3|.|bbc_tech_037.txt|.|2
+bob bryan|.|bbc_sport_472.txt|.|2
+sentences|.|bbc_politics_168.txt|.|6|.|bbc_politics_231.txt|.|6
+semis and finals|.|bbc_sport_483.txt|.|1
+martinez|.|bbc_sport_504.txt|.|3|.|bbc_sport_439.txt|.|2|.|bbc_sport_440.txt|.|4
+frustrating|.|bbc_sport_434.txt|.|2
+referee paul|.|bbc_sport_166.txt|.|2
+paseo de anoeta stadium|.|bbc_sport_317.txt|.|2
+next play|.|bbc_sport_468.txt|.|1
+graz|.|bbc_sport_145.txt|.|2
+said kirwan|.|bbc_sport_305.txt|.|1
+two sets|.|bbc_sport_483.txt|.|3
+hemisphere|.|bbc_sport_382.txt|.|2|.|bbc_sport_339.txt|.|2|.|bbc_sport_402.txt|.|2
+federer|.|bbc_sport_425.txt|.|6|.|bbc_sport_433.txt|.|6|.|bbc_sport_473.txt|.|4|.|bbc_sport_495.txt|.|6|.|bbc_sport_428.txt|.|4|.|bbc_sport_459.txt|.|4|.|bbc_sport_494.txt|.|5
+probes|.|bbc_business_475.txt|.|1
+umpire|.|bbc_sport_434.txt|.|2
+england have named|.|bbc_sport_334.txt|.|1
+gold reserves|.|bbc_business_210.txt|.|3
+roy keane|.|bbc_sport_137.txt|.|2
+liverpool and millwall|.|bbc_sport_234.txt|.|2
+assistant|.|bbc_sport_208.txt|.|4|.|bbc_entertainment_056.txt|.|3|.|bbc_sport_166.txt|.|2|.|bbc_sport_244.txt|.|1|.|bbc_sport_482.txt|.|2
+paseo de anoeta|.|bbc_sport_317.txt|.|2
+match|.|bbc_sport_174.txt|.|1|.|bbc_sport_305.txt|.|2|.|bbc_sport_343.txt|.|2|.|bbc_sport_504.txt|.|4|.|bbc_sport_483.txt|.|4|.|bbc_sport_446.txt|.|4|.|bbc_sport_247.txt|.|3|.|bbc_sport_334.txt|.|2|.|bbc_sport_468.txt|.|5|.|bbc_sport_508.txt|.|3|.|bbc_sport_498.txt|.|2|.|bbc_sport_234.txt|.|3|.|bbc_sport_433.txt|.|3|.|bbc_sport_145.txt|.|2|.|bbc_sport_472.txt|.|3|.|bbc_sport_317.txt|.|2|.|bbc_sport_183.txt|.|3|.|bbc_sport_428.txt|.|3|.|bbc_sport_140.txt|.|3|.|bbc_sport_339.txt|.|3|.|bbc_sport_166.txt|.|2|.|bbc_sport_402.txt|.|6|.|bbc_sport_298.txt|.|3|.|bbc_sport_136.txt|.|2|.|bbc_sport_346.txt|.|2|.|bbc_sport_367.txt|.|2|.|bbc_sport_392.txt|.|2|.|bbc_sport_329.txt|.|4|.|bbc_sport_421.txt|.|6|.|bbc_sport_435.txt|.|3|.|bbc_sport_137.txt|.|3|.|bbc_sport_328.txt|.|4|.|bbc_sport_425.txt|.|3|.|bbc_sport_434.txt|.|2|.|bbc_sport_134.txt|.|2|.|bbc_sport_190.txt|.|2|.|bbc_sport_456.txt|.|2
+dubai|.|bbc_sport_425.txt|.|2|.|bbc_sport_433.txt|.|2|.|bbc_sport_436.txt|.|2|.|bbc_sport_381.txt|.|3|.|bbc_sport_422.txt|.|2|.|bbc_sport_434.txt|.|2|.|bbc_sport_428.txt|.|2|.|bbc_sport_430.txt|.|2
+pushing|.|bbc_sport_420.txt|.|2|.|bbc_sport_166.txt|.|1
+tour|.|bbc_politics_392.txt|.|2|.|bbc_entertainment_246.txt|.|3|.|bbc_sport_382.txt|.|3|.|bbc_entertainment_138.txt|.|3|.|bbc_entertainment_158.txt|.|3|.|bbc_tech_274.txt|.|8|.|bbc_sport_386.txt|.|7|.|bbc_entertainment_247.txt|.|6|.|bbc_sport_402.txt|.|2|.|bbc_sport_389.txt|.|3|.|bbc_politics_335.txt|.|3
+liverpool have been charged|.|bbc_sport_234.txt|.|1
+kuznetsova|.|bbc_sport_502.txt|.|3|.|bbc_sport_435.txt|.|3|.|bbc_sport_439.txt|.|2
+ended|.|bbc_sport_434.txt|.|1|.|bbc_business_283.txt|.|1
+unseeded|.|bbc_sport_508.txt|.|2

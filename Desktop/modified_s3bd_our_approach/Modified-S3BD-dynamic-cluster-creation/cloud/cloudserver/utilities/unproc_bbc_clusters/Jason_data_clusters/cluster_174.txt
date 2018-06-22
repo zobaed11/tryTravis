@@ -1,0 +1,38 @@
+174
+world clockpersonal|.|WET3106.txt|.|10
+world bank|.|WET4890.txt|.|4|.|WET974.txt|.|36
+world market|.|WET3316.txt|.|96
+heritage sites|.|WET1051.txt|.|220
+world|.|WET2654.txt|.|149|.|WET3306.txt|.|37|.|WET1956.txt|.|5|.|WET3188.txt|.|60|.|WET2591.txt|.|20|.|WET3189.txt|.|62|.|WET974.txt|.|81|.|WET4433.txt|.|31|.|WET4247.txt|.|42|.|WET4327.txt|.|124|.|WET3023.txt|.|36|.|WET1473.txt|.|40|.|WET3316.txt|.|126|.|WET3190.txt|.|63|.|WET2655.txt|.|134|.|WET4748.txt|.|28|.|WET3598.txt|.|34|.|WET5915.txt|.|6|.|WET582.txt|.|75|.|WET4890.txt|.|5|.|WET4617.txt|.|23|.|WET3106.txt|.|50|.|WET1051.txt|.|2207|.|WET4798.txt|.|303|.|WET4711.txt|.|23|.|WET5564.txt|.|11
+floors|.|WET4247.txt|.|16
+act|.|WET5872.txt|.|62|.|WET3598.txt|.|24|.|WET5570.txt|.|35|.|WET5976.txt|.|33
+unesco world|.|WET1051.txt|.|222
+unesco|.|WET1051.txt|.|1055
+steering wheels|.|WET5815.txt|.|4
+teenage mutant|.|WET4617.txt|.|7
+world map|.|WET2591.txt|.|12
+world heritage|.|WET1051.txt|.|2011|.|WET4798.txt|.|274
+time view|.|WET4247.txt|.|38
+month next|.|WET4247.txt|.|20
+world heritage centre|.|WET1051.txt|.|303
+factbook|.|WET3598.txt|.|16
+map cool|.|WET2591.txt|.|12
+liste|.|WET5812.txt|.|41|.|WET4798.txt|.|166
+world heritage sites|.|WET1051.txt|.|204
+centre|.|WET3474.txt|.|17|.|WET1849.txt|.|536|.|WET1051.txt|.|363|.|WET5861.txt|.|13|.|WET2187.txt|.|19|.|WET5585.txt|.|269|.|WET6258.txt|.|13|.|WET4881.txt|.|26
+heritage|.|WET1051.txt|.|2418|.|WET4798.txt|.|350|.|WET5744.txt|.|29|.|WET4033.txt|.|78
+adr|.|WET3181.txt|.|28
+nofear|.|WET3598.txt|.|12
+biographical|.|WET2245.txt|.|12
+hotter world|.|WET974.txt|.|28
+ads|.|WET249.txt|.|40|.|WET2152.txt|.|20|.|WET2682.txt|.|25|.|WET1193.txt|.|7|.|WET9.txt|.|31|.|WET6152.txt|.|44|.|WET5456.txt|.|8|.|WET5905.txt|.|48|.|WET5360.txt|.|101|.|WET2408.txt|.|44|.|WET2235.txt|.|33|.|WET5090.txt|.|22|.|WET4867.txt|.|45|.|WET6151.txt|.|36
+acronym finder|.|WET1117.txt|.|28
+video wsj|.|WET3325.txt|.|20
+creatoradvanced|.|WET3106.txt|.|10
+dictionnaire allemand|.|WET2222.txt|.|8
+orthodox church|.|WET2566.txt|.|11
+heritage centre|.|WET1051.txt|.|303
+mutant|.|WET4617.txt|.|7
+unesco world heritage|.|WET1051.txt|.|218
+legislature|.|WET4247.txt|.|16
+jurassic|.|WET4617.txt|.|7

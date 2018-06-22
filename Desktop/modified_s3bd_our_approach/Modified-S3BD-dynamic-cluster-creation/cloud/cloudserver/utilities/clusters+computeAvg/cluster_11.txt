@@ -1,0 +1,38 @@
+11
+scrubs|.|WET2839.txt|.|323
+denim|.|WET1178.txt|.|51|.|WET4930.txt|.|42|.|WET3063.txt|.|62
+excludes|.|WET3063.txt|.|22
+pants|.|WET1178.txt|.|65|.|WET4904.txt|.|192|.|WET2839.txt|.|178|.|WET1546.txt|.|4|.|WET3063.txt|.|151|.|WET3740.txt|.|48|.|WET4753.txt|.|50|.|WET6182.txt|.|32|.|WET1459.txt|.|30|.|WET1201.txt|.|8|.|WET4930.txt|.|43|.|WET673.txt|.|24|.|WET1780.txt|.|65|.|WET3093.txt|.|25|.|WET1265.txt|.|49|.|WET1153.txt|.|290|.|WET3590.txt|.|40
+koi|.|WET2839.txt|.|105
+tents|.|WET1153.txt|.|52
+odyssey|.|WET1783.txt|.|82
+ski|.|WET4905.txt|.|256|.|WET3147.txt|.|914|.|WET2913.txt|.|27|.|WET2484.txt|.|33|.|WET1153.txt|.|445|.|WET2550.txt|.|199|.|WET2896.txt|.|219
+bookmarklet|.|WET3093.txt|.|11
+tops knits|.|WET1178.txt|.|41|.|WET4930.txt|.|42
+denim suits|.|WET1178.txt|.|41|.|WET4930.txt|.|42
+base material|.|WET297.txt|.|9|.|WET2604.txt|.|5
+privado|.|WET910.txt|.|6
+cartoons mit|.|WET1437.txt|.|4
+tees sweaters|.|WET1178.txt|.|41|.|WET4930.txt|.|42
+oxfam|.|WET6312.txt|.|30
+accessories sale|.|WET4753.txt|.|20|.|WET5886.txt|.|57
+dragon fit|.|WET4103.txt|.|15
+nav|.|WET3063.txt|.|11
+pants kids|.|WET1153.txt|.|14
+please turn|.|WET3063.txt|.|6
+tees|.|WET1178.txt|.|41|.|WET4930.txt|.|42|.|WET1780.txt|.|48|.|WET2145.txt|.|28|.|WET2035.txt|.|74
+excludes early access|.|WET3063.txt|.|22
+tops pants|.|WET2839.txt|.|81
+ipsos|.|WET5850.txt|.|516
+help contact|.|WET1459.txt|.|5
+bmx bikes|.|WET5054.txt|.|14|.|WET1153.txt|.|21
+categories find|.|WET3590.txt|.|14
+ski jackets|.|WET1153.txt|.|65
+xda|.|WET4146.txt|.|118
+main nav skip|.|WET3063.txt|.|11
+argus|.|WET4711.txt|.|32
+etsy|.|WET3093.txt|.|13
+jackets pants|.|WET1178.txt|.|41|.|WET4930.txt|.|42
+chabuca granda|.|WET330.txt|.|27
+performance shirts|.|WET4904.txt|.|24
+utcfull resolution|.|WET4366.txt|.|78

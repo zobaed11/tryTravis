@@ -1,0 +1,64 @@
+mr dein|.|bbc_business_271.txt|.|3
+refused to blame|.|bbc_sport_178.txt|.|1
+blades|.|bbc_sport_163.txt|.|4
+powered|.|bbc_sport_246.txt|.|1
+penalties|.|bbc_sport_284.txt|.|4|.|bbc_sport_163.txt|.|4
+lehmann|.|bbc_sport_194.txt|.|4
+klinsmann|.|bbc_sport_194.txt|.|4
+powered header|.|bbc_sport_246.txt|.|1
+kok|.|bbc_business_146.txt|.|8
+bitter and personal|.|bbc_sport_188.txt|.|2
+sign|.|bbc_business_340.txt|.|1|.|bbc_sport_211.txt|.|4|.|bbc_tech_189.txt|.|2|.|bbc_sport_276.txt|.|1|.|bbc_tech_251.txt|.|4
+jose mourinho|.|bbc_sport_280.txt|.|2
+leaders|.|bbc_politics_126.txt|.|1|.|bbc_business_504.txt|.|3|.|bbc_business_487.txt|.|7|.|bbc_business_482.txt|.|3|.|bbc_sport_205.txt|.|2
+chelsea boss|.|bbc_sport_280.txt|.|2
+gudjohnsen|.|bbc_sport_246.txt|.|7
+routes|.|bbc_business_380.txt|.|3
+call of duty|.|bbc_tech_288.txt|.|6
+butragueno|.|bbc_sport_154.txt|.|2
+wenger steps|.|bbc_sport_235.txt|.|1
+assets|.|bbc_business_399.txt|.|5|.|bbc_business_199.txt|.|1|.|bbc_business_301.txt|.|3
+ashburton|.|bbc_business_271.txt|.|2
+late|.|bbc_sport_157.txt|.|2|.|bbc_entertainment_344.txt|.|2|.|bbc_sport_278.txt|.|2|.|bbc_entertainment_081.txt|.|1|.|bbc_entertainment_231.txt|.|1
+wanted to sign|.|bbc_sport_211.txt|.|2
+bookmaker|.|bbc_entertainment_221.txt|.|3
+late goal|.|bbc_sport_157.txt|.|2
+wenger has signed a new|.|bbc_sport_196.txt|.|1
+england defender|.|bbc_sport_268.txt|.|2
+bad people|.|bbc_sport_154.txt|.|2
+lauren|.|bbc_sport_163.txt|.|3
+food fight|.|bbc_sport_235.txt|.|2
+keeper|.|bbc_sport_173.txt|.|2|.|bbc_sport_242.txt|.|2
+wenger|.|bbc_sport_227.txt|.|6|.|bbc_sport_235.txt|.|11|.|bbc_sport_196.txt|.|5|.|bbc_sport_157.txt|.|5|.|bbc_sport_143.txt|.|2|.|bbc_sport_281.txt|.|4|.|bbc_sport_201.txt|.|3|.|bbc_sport_242.txt|.|7
+like migration|.|bbc_politics_025.txt|.|2
+netherlands|.|bbc_sport_149.txt|.|2
+real|.|bbc_tech_073.txt|.|2|.|bbc_sport_193.txt|.|7|.|bbc_politics_272.txt|.|2|.|bbc_sport_211.txt|.|2|.|bbc_tech_164.txt|.|2|.|bbc_sport_247.txt|.|5|.|bbc_sport_239.txt|.|3|.|bbc_sport_245.txt|.|5|.|bbc_sport_154.txt|.|7|.|bbc_sport_275.txt|.|4|.|bbc_sport_237.txt|.|3|.|bbc_business_463.txt|.|2|.|bbc_sport_266.txt|.|3|.|bbc_sport_151.txt|.|6|.|bbc_tech_198.txt|.|1|.|bbc_politics_019.txt|.|2
+claims ferguson|.|bbc_sport_235.txt|.|1
+excitement|.|bbc_tech_336.txt|.|1
+steps|.|bbc_sport_235.txt|.|1
+brazilian|.|bbc_business_303.txt|.|2|.|bbc_sport_198.txt|.|2|.|bbc_sport_211.txt|.|2|.|bbc_sport_276.txt|.|2|.|bbc_sport_195.txt|.|2|.|bbc_business_272.txt|.|3
+header|.|bbc_sport_106.txt|.|4|.|bbc_sport_246.txt|.|4|.|bbc_sport_105.txt|.|3
+terry|.|bbc_sport_246.txt|.|3|.|bbc_sport_123.txt|.|2
+referees|.|bbc_sport_346.txt|.|4|.|bbc_sport_248.txt|.|4
+arsenal|.|bbc_sport_125.txt|.|5|.|bbc_sport_198.txt|.|1|.|bbc_sport_246.txt|.|11|.|bbc_sport_227.txt|.|4|.|bbc_sport_252.txt|.|2|.|bbc_sport_235.txt|.|7|.|bbc_sport_211.txt|.|2|.|bbc_sport_196.txt|.|3|.|bbc_sport_157.txt|.|4|.|bbc_sport_280.txt|.|3|.|bbc_sport_163.txt|.|12|.|bbc_sport_209.txt|.|3|.|bbc_sport_154.txt|.|5|.|bbc_sport_194.txt|.|2|.|bbc_sport_159.txt|.|1|.|bbc_sport_188.txt|.|2|.|bbc_sport_281.txt|.|2|.|bbc_sport_268.txt|.|8|.|bbc_sport_201.txt|.|1|.|bbc_business_271.txt|.|3|.|bbc_sport_255.txt|.|2|.|bbc_sport_242.txt|.|2
+week|.|bbc_sport_072.txt|.|3|.|bbc_politics_225.txt|.|2|.|bbc_sport_119.txt|.|3|.|bbc_entertainment_109.txt|.|2|.|bbc_politics_358.txt|.|1|.|bbc_tech_187.txt|.|3|.|bbc_tech_119.txt|.|2|.|bbc_politics_259.txt|.|2|.|bbc_politics_171.txt|.|3|.|bbc_sport_450.txt|.|1|.|bbc_entertainment_083.txt|.|2|.|bbc_sport_326.txt|.|3|.|bbc_sport_086.txt|.|1|.|bbc_politics_335.txt|.|1|.|bbc_entertainment_107.txt|.|2|.|bbc_sport_227.txt|.|1|.|bbc_business_011.txt|.|2|.|bbc_business_428.txt|.|1|.|bbc_politics_053.txt|.|3|.|bbc_entertainment_285.txt|.|2|.|bbc_sport_464.txt|.|2|.|bbc_sport_074.txt|.|1|.|bbc_sport_031.txt|.|1|.|bbc_entertainment_359.txt|.|3|.|bbc_sport_431.txt|.|4|.|bbc_business_316.txt|.|4|.|bbc_sport_358.txt|.|3|.|bbc_sport_393.txt|.|1|.|bbc_sport_452.txt|.|1
+fulham|.|bbc_sport_252.txt|.|2|.|bbc_sport_127.txt|.|2|.|bbc_sport_281.txt|.|3|.|bbc_sport_255.txt|.|2
+faith|.|bbc_sport_227.txt|.|4|.|bbc_politics_172.txt|.|3
+wenger signs|.|bbc_sport_196.txt|.|1
+boss jose mourinho|.|bbc_sport_280.txt|.|2
+keeping faith|.|bbc_sport_227.txt|.|1
+shot|.|bbc_entertainment_288.txt|.|1|.|bbc_sport_246.txt|.|6|.|bbc_entertainment_031.txt|.|2|.|bbc_entertainment_282.txt|.|2|.|bbc_sport_268.txt|.|9
+signs|.|bbc_entertainment_028.txt|.|1|.|bbc_sport_196.txt|.|1
+cheats|.|bbc_sport_034.txt|.|2|.|bbc_sport_235.txt|.|1|.|bbc_sport_046.txt|.|2
+rosenborg|.|bbc_sport_227.txt|.|3
+new contract|.|bbc_business_394.txt|.|2|.|bbc_sport_196.txt|.|2|.|bbc_sport_098.txt|.|2
+keeping|.|bbc_sport_354.txt|.|1|.|bbc_sport_227.txt|.|1
+jose|.|bbc_sport_424.txt|.|2|.|bbc_sport_172.txt|.|3|.|bbc_sport_426.txt|.|2|.|bbc_sport_507.txt|.|2|.|bbc_sport_280.txt|.|2|.|bbc_sport_509.txt|.|2
+tonge|.|bbc_sport_163.txt|.|4
+put arsenal|.|bbc_sport_246.txt|.|2
+food|.|bbc_business_191.txt|.|2|.|bbc_sport_235.txt|.|2|.|bbc_business_005.txt|.|2
+lashed|.|bbc_sport_268.txt|.|1
+chelsea boss jose mourinho|.|bbc_sport_280.txt|.|2
+matters|.|bbc_sport_281.txt|.|2
+frontman|.|bbc_entertainment_381.txt|.|2
+tunnel|.|bbc_sport_198.txt|.|2|.|bbc_business_500.txt|.|2

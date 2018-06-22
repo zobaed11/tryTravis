@@ -1,0 +1,91 @@
+9
+computer code|.|bbc_tech_049.txt|.|1|.|bbc_tech_340.txt|.|1
+playlist files|.|bbc_tech_284.txt|.|2
+door|.|bbc_tech_340.txt|.|2
+codes|.|bbc_tech_049.txt|.|2|.|bbc_tech_340.txt|.|2
+help the virus spread|.|bbc_tech_210.txt|.|1
+usage|.|bbc_tech_058.txt|.|2
+numbers|.|bbc_tech_397.txt|.|4|.|bbc_tech_188.txt|.|8
+mac mini|.|bbc_tech_300.txt|.|17|.|bbc_tech_336.txt|.|14|.|bbc_tech_297.txt|.|4|.|bbc_tech_260.txt|.|4|.|bbc_tech_301.txt|.|9
+alphabet|.|bbc_tech_049.txt|.|2|.|bbc_tech_340.txt|.|2
+dialler|.|bbc_tech_397.txt|.|4
+research|.|bbc_tech_085.txt|.|2|.|bbc_tech_234.txt|.|3|.|bbc_tech_081.txt|.|3|.|bbc_tech_389.txt|.|3|.|bbc_tech_165.txt|.|3|.|bbc_tech_146.txt|.|4|.|bbc_tech_166.txt|.|3|.|bbc_tech_393.txt|.|3|.|bbc_tech_158.txt|.|4
+number|.|bbc_tech_262.txt|.|2|.|bbc_tech_010.txt|.|2
+net users|.|bbc_tech_397.txt|.|2|.|bbc_tech_074.txt|.|2|.|bbc_tech_081.txt|.|3|.|bbc_tech_393.txt|.|3|.|bbc_tech_010.txt|.|2
+home entertainment|.|bbc_tech_094.txt|.|3|.|bbc_tech_313.txt|.|3
+california|.|bbc_tech_377.txt|.|4|.|bbc_tech_096.txt|.|4
+links|.|bbc_tech_362.txt|.|1
+wcg|.|bbc_tech_200.txt|.|2
+phishing attacks|.|bbc_tech_217.txt|.|3
+cash|.|bbc_tech_012.txt|.|2|.|bbc_tech_119.txt|.|2|.|bbc_tech_331.txt|.|2|.|bbc_tech_122.txt|.|20|.|bbc_tech_027.txt|.|5|.|bbc_tech_315.txt|.|5
+group|.|bbc_tech_186.txt|.|2|.|bbc_tech_362.txt|.|2
+make free|.|bbc_tech_350.txt|.|2|.|bbc_tech_042.txt|.|2|.|bbc_tech_339.txt|.|2
+direct people|.|bbc_tech_010.txt|.|1
+worm|.|bbc_tech_272.txt|.|7|.|bbc_tech_257.txt|.|5
+blogger action|.|bbc_tech_016.txt|.|2
+nielsen|.|bbc_tech_168.txt|.|10
+thousands|.|bbc_tech_163.txt|.|2|.|bbc_tech_397.txt|.|2|.|bbc_tech_291.txt|.|2|.|bbc_tech_395.txt|.|2
+users|.|bbc_tech_234.txt|.|3|.|bbc_tech_272.txt|.|5|.|bbc_tech_081.txt|.|7|.|bbc_tech_007.txt|.|3|.|bbc_tech_377.txt|.|4|.|bbc_tech_340.txt|.|5|.|bbc_tech_117.txt|.|3|.|bbc_tech_301.txt|.|3|.|bbc_tech_397.txt|.|6|.|bbc_tech_074.txt|.|4|.|bbc_tech_284.txt|.|6|.|bbc_tech_378.txt|.|4|.|bbc_tech_362.txt|.|6|.|bbc_tech_042.txt|.|10|.|bbc_tech_096.txt|.|4|.|bbc_tech_389.txt|.|3|.|bbc_tech_250.txt|.|4|.|bbc_tech_339.txt|.|10|.|bbc_tech_393.txt|.|7|.|bbc_tech_049.txt|.|5|.|bbc_tech_060.txt|.|3|.|bbc_tech_010.txt|.|8
+tetris|.|bbc_tech_272.txt|.|4
+orchestra project|.|bbc_tech_256.txt|.|7
+ethernet|.|bbc_tech_301.txt|.|2
+cellery worm|.|bbc_tech_272.txt|.|2
+port|.|bbc_tech_301.txt|.|4
+fines|.|bbc_tech_377.txt|.|2|.|bbc_tech_096.txt|.|2
+spot|.|bbc_tech_081.txt|.|3|.|bbc_tech_393.txt|.|3
+warned|.|bbc_tech_049.txt|.|1|.|bbc_tech_197.txt|.|1
+name|.|bbc_tech_209.txt|.|4
+opens|.|bbc_tech_134.txt|.|1|.|bbc_tech_340.txt|.|1
+programs|.|bbc_tech_007.txt|.|4|.|bbc_tech_377.txt|.|4|.|bbc_tech_241.txt|.|2|.|bbc_tech_096.txt|.|4|.|bbc_tech_060.txt|.|4|.|bbc_tech_077.txt|.|8
+phone calls|.|bbc_tech_042.txt|.|2|.|bbc_tech_339.txt|.|2
+like device|.|bbc_tech_229.txt|.|1
+sophisticated|.|bbc_tech_081.txt|.|1|.|bbc_tech_393.txt|.|1
+infection|.|bbc_tech_385.txt|.|1|.|bbc_tech_272.txt|.|2|.|bbc_tech_122.txt|.|3
+sustains spam|.|bbc_tech_362.txt|.|1
+new law|.|bbc_tech_377.txt|.|2|.|bbc_tech_096.txt|.|2
+msn search|.|bbc_tech_053.txt|.|3
+spam messages|.|bbc_tech_362.txt|.|2
+isbn|.|bbc_tech_010.txt|.|3
+dialler scams|.|bbc_tech_397.txt|.|2
+update|.|bbc_tech_284.txt|.|1
+hotspots|.|bbc_tech_042.txt|.|4|.|bbc_tech_339.txt|.|4
+products|.|bbc_tech_259.txt|.|3|.|bbc_tech_362.txt|.|2|.|bbc_tech_248.txt|.|3|.|bbc_tech_395.txt|.|3
+skype|.|bbc_tech_042.txt|.|8|.|bbc_tech_339.txt|.|8
+playstation|.|bbc_tech_320.txt|.|6|.|bbc_tech_190.txt|.|4|.|bbc_tech_112.txt|.|3
+playlist|.|bbc_tech_284.txt|.|2
+engine|.|bbc_tech_081.txt|.|4|.|bbc_tech_076.txt|.|2|.|bbc_tech_232.txt|.|2|.|bbc_tech_053.txt|.|7|.|bbc_tech_393.txt|.|4|.|bbc_tech_010.txt|.|2|.|bbc_tech_261.txt|.|4
+pc users|.|bbc_tech_007.txt|.|2|.|bbc_tech_060.txt|.|2|.|bbc_tech_301.txt|.|3
+street|.|bbc_tech_243.txt|.|8
+radicati|.|bbc_tech_362.txt|.|2
+heralds|.|bbc_tech_336.txt|.|1
+free|.|bbc_tech_102.txt|.|2|.|bbc_tech_350.txt|.|4|.|bbc_tech_016.txt|.|4|.|bbc_tech_136.txt|.|4|.|bbc_tech_042.txt|.|5|.|bbc_tech_371.txt|.|1|.|bbc_tech_339.txt|.|5
+make|.|bbc_tech_391.txt|.|3|.|bbc_tech_350.txt|.|5|.|bbc_tech_214.txt|.|5|.|bbc_tech_042.txt|.|4|.|bbc_tech_286.txt|.|3|.|bbc_tech_201.txt|.|2|.|bbc_tech_339.txt|.|4|.|bbc_tech_396.txt|.|4|.|bbc_tech_369.txt|.|4
+net calls|.|bbc_tech_042.txt|.|2|.|bbc_tech_339.txt|.|2
+euros|.|bbc_tech_084.txt|.|2|.|bbc_tech_351.txt|.|1
+infected|.|bbc_tech_210.txt|.|5|.|bbc_tech_272.txt|.|3
+website|.|bbc_tech_385.txt|.|2|.|bbc_tech_193.txt|.|2|.|bbc_tech_168.txt|.|3|.|bbc_tech_296.txt|.|2|.|bbc_tech_027.txt|.|5|.|bbc_tech_049.txt|.|2|.|bbc_tech_101.txt|.|3|.|bbc_tech_340.txt|.|2|.|bbc_tech_315.txt|.|5
+infringed|.|bbc_tech_303.txt|.|1|.|bbc_tech_075.txt|.|1
+users say|.|bbc_tech_081.txt|.|2|.|bbc_tech_393.txt|.|2
+codes used|.|bbc_tech_049.txt|.|1|.|bbc_tech_340.txt|.|1
+curt hopkins|.|bbc_tech_016.txt|.|2
+diallers|.|bbc_tech_397.txt|.|3
+questioned|.|bbc_tech_081.txt|.|4|.|bbc_tech_393.txt|.|4
+links in spam|.|bbc_tech_362.txt|.|1
+isbn number|.|bbc_tech_010.txt|.|2
+internationalised domain|.|bbc_tech_049.txt|.|2|.|bbc_tech_340.txt|.|2
+hotspot users|.|bbc_tech_042.txt|.|1|.|bbc_tech_339.txt|.|1
+toolbar|.|bbc_tech_010.txt|.|3
+lycos|.|bbc_tech_214.txt|.|7|.|bbc_tech_189.txt|.|7|.|bbc_tech_159.txt|.|7|.|bbc_tech_147.txt|.|7
+questioned said|.|bbc_tech_081.txt|.|3|.|bbc_tech_393.txt|.|3
+autolink feature|.|bbc_tech_010.txt|.|3
+calls|.|bbc_tech_136.txt|.|6|.|bbc_tech_042.txt|.|6|.|bbc_tech_339.txt|.|6|.|bbc_tech_251.txt|.|2
+ask|.|bbc_tech_318.txt|.|9|.|bbc_tech_081.txt|.|2|.|bbc_tech_213.txt|.|7|.|bbc_tech_393.txt|.|2|.|bbc_tech_062.txt|.|9
+yang|.|bbc_tech_065.txt|.|3
+duty|.|bbc_tech_288.txt|.|6
+internationalised|.|bbc_tech_049.txt|.|2|.|bbc_tech_340.txt|.|2
+fake|.|bbc_tech_027.txt|.|4|.|bbc_tech_049.txt|.|5|.|bbc_tech_340.txt|.|5|.|bbc_tech_315.txt|.|4
+prize money|.|bbc_tech_274.txt|.|2
+risk|.|bbc_tech_272.txt|.|1
+threat|.|bbc_tech_284.txt|.|2
+engine users|.|bbc_tech_081.txt|.|2|.|bbc_tech_393.txt|.|2
+irish government|.|bbc_tech_282.txt|.|2

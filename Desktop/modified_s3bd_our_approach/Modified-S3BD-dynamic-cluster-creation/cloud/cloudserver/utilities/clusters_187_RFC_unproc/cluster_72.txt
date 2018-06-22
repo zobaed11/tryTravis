@@ -1,0 +1,120 @@
+temporary|.|rfc6140.txt|.|26|.|rfc4941.txt|.|82|.|rfc3041.txt|.|63|.|rfc5627.txt|.|79|.|rfc5849.txt|.|31
+network specifications|.|rfc217.txt|.|2
+resource record type|.|rfc5507.txt|.|41
+year|.|rfc2626.txt|.|480|.|rfc3339.txt|.|29|.|rfc2550.txt|.|65
+ipsec transport|.|rfc3884.txt|.|53
+cuervo|.|rfc2885.txt|.|172
+fddi address|.|rfc2019.txt|.|5
+branch|.|rfc2455.txt|.|52
+udld april|.|rfc5171.txt|.|12
+switch management|.|rfc3293.txt|.|3|.|rfc3295.txt|.|22|.|rfc3294.txt|.|14
+guttman informational|.|rfc2614.txt|.|91
+physical entity|.|rfc4133.txt|.|80|.|rfc2737.txt|.|70
+ticket control|.|rfc3594.txt|.|11
+vemmi terminal|.|rfc2122.txt|.|3
+oscillation|.|rfc3345.txt|.|30
+mesh framework|.|rfc5565.txt|.|36
+understanding|.|rfc2691.txt|.|5
+enumservices|.|rfc5333.txt|.|15|.|rfc6117.txt|.|83
+shortest|.|rfc2102.txt|.|28
+baud|.|rfc415.txt|.|7
+urlfetch|.|rfc5524.txt|.|39
+open geospatial|.|rfc5165.txt|.|6
+kameyama|.|rfc4195.txt|.|9
+datacomputer september|.|rfc219.txt|.|6
+group communication|.|rfc5757.txt|.|7|.|rfc4738.txt|.|9|.|rfc5968.txt|.|6|.|rfc4442.txt|.|3|.|rfc3740.txt|.|4
+imap internationalization|.|rfc5255.txt|.|22
+gmpls signaling procedure for egress|.|rfc4003.txt|.|5
+send request|.|rfc4976.txt|.|19
+workshop october|.|rfc2956.txt|.|15
+lai standards|.|rfc4128.txt|.|25
+serving nhs|.|rfc2520.txt|.|15
+armitage standards|.|rfc2226.txt|.|14
+consider messages|.|rfc297.txt|.|2
+handle system|.|rfc3650.txt|.|120|.|rfc3652.txt|.|82|.|rfc3651.txt|.|171
+information form|.|rfc352.txt|.|4
+zseby|.|rfc5472.txt|.|37
+translation logic|.|rfc5360.txt|.|28
+reported|.|rfc589.txt|.|4
+token card|.|rfc2284.txt|.|10
+stat|.|rfc3886.txt|.|3
+kato ntt|.|rfc4132.txt|.|2
+user identity|.|rfc4372.txt|.|12
+stephan|.|rfc6049.txt|.|33|.|rfc4148.txt|.|16|.|rfc3919.txt|.|10|.|rfc5644.txt|.|61
+uniquely|.|rfc534.txt|.|4|.|rfc533.txt|.|5|.|rfc183.txt|.|2
+ebn|.|rfc2457.txt|.|102
+xpath transform|.|rfc3653.txt|.|9
+snoop datalink|.|rfc3827.txt|.|6
+levine informational|.|rfc5782.txt|.|11
+stac|.|rfc1974.txt|.|45
+abnf october|.|rfc4234.txt|.|15
+ebu|.|rfc5174.txt|.|49
+key rrset|.|rfc3658.txt|.|35
+suites august|.|rfc5288.txt|.|7
+servers july|.|rfc2182.txt|.|11
+conference object|.|rfc5239.txt|.|124
+iab routing workshop|.|rfc2902.txt|.|16
+rousskov informational|.|rfc3914.txt|.|16
+aliases|.|rfc2219.txt|.|15
+ecc|.|rfc5931.txt|.|31|.|rfc5656.txt|.|43|.|rfc5480.txt|.|37|.|rfc6090.txt|.|46|.|rfc5753.txt|.|94
+extension guide|.|rfc5978.txt|.|29
+existence|.|rfc6127.txt|.|1|.|rfc494.txt|.|1
+network management workshop|.|rfc3535.txt|.|21
+intermediate system to intermediate|.|rfc3787.txt|.|8|.|rfc5304.txt|.|4
+protect router control|.|rfc6192.txt|.|24
+ecn|.|rfc3168.txt|.|441|.|rfc4342.txt|.|51|.|rfc3540.txt|.|44|.|rfc4774.txt|.|165|.|rfc2481.txt|.|127|.|rfc6040.txt|.|208|.|rfc5129.txt|.|125|.|rfc5562.txt|.|206
+ecp|.|rfc5114.txt|.|42|.|rfc4753.txt|.|45|.|rfc5903.txt|.|50|.|rfc2420.txt|.|12
+engebretson|.|rfc1956.txt|.|4
+ect|.|rfc3168.txt|.|138
+zone set|.|rfc4936.txt|.|133
+html|.|rfc2731.txt|.|60|.|rfc2110.txt|.|64|.|rfc2854.txt|.|74|.|rfc2659.txt|.|11
+authentication in microsoft|.|rfc4559.txt|.|9
+server hello|.|rfc4366.txt|.|22|.|rfc3546.txt|.|22|.|rfc2246.txt|.|23
+pkcs|.|rfc5272.txt|.|45|.|rfc3852.txt|.|89|.|rfc5652.txt|.|92|.|rfc2313.txt|.|44|.|rfc2312.txt|.|40|.|rfc2898.txt|.|65
+tcp option to denote|.|rfc5841.txt|.|10
+delivery status|.|rfc5337.txt|.|15|.|rfc2034.txt|.|3|.|rfc3885.txt|.|3|.|rfc6009.txt|.|10|.|rfc3464.txt|.|65|.|rfc3886.txt|.|8
+context engineid discovery|.|rfc5343.txt|.|10
+stack mobility|.|rfc4977.txt|.|8
+ietf participant|.|rfc3905.txt|.|4
+edi|.|rfc5402.txt|.|10|.|rfc3335.txt|.|112|.|rfc4130.txt|.|55
+terminology for frame|.|rfc3133.txt|.|25
+eds|.|rfc4188.txt|.|44
+network meeting epilogue|.|rfc37.txt|.|5
+address site|.|rfc293.txt|.|3|.|rfc342.txt|.|3|.|rfc332.txt|.|3
+character streams|.|rfc97.txt|.|2
+route target|.|rfc4364.txt|.|35|.|rfc4684.txt|.|44
+needed|.|rfc3869.txt|.|20|.|rfc415.txt|.|3|.|rfc5320.txt|.|23|.|rfc3177.txt|.|3
+fields december|.|rfc4229.txt|.|52
+satellite transmission|.|rfc346.txt|.|2
+convergence january|.|rfc5715.txt|.|21
+text conversation|.|rfc2793.txt|.|22|.|rfc4103.txt|.|33
+generic voucher language|.|rfc4153.txt|.|21
+packet networks|.|rfc2448.txt|.|5
+requirements for internet|.|rfc3773.txt|.|10|.|rfc4473.txt|.|23
+ees|.|rfc5274.txt|.|6
+interest|.|rfc3305.txt|.|8|.|rfc584.txt|.|2
+tftp multicast option|.|rfc2090.txt|.|6
+international press telecommunications|.|rfc3937.txt|.|5
+retrieval url|.|rfc2056.txt|.|8
+checksum|.|rfc4757.txt|.|28|.|rfc4121.txt|.|36|.|rfc5097.txt|.|30|.|rfc3309.txt|.|46|.|rfc6282.txt|.|25|.|rfc528.txt|.|46|.|rfc3961.txt|.|215|.|rfc1950.txt|.|16
+accounting management|.|rfc2975.txt|.|80
+formation of network measurement group|.|rfc323.txt|.|9
+barber informational|.|rfc2980.txt|.|27
+dhcp|.|rfc5986.txt|.|27|.|rfc3397.txt|.|40|.|rfc4701.txt|.|35|.|rfc3736.txt|.|97|.|rfc3825.txt|.|30|.|rfc2855.txt|.|19|.|rfc4833.txt|.|18|.|rfc2939.txt|.|47|.|rfc3790.txt|.|25|.|rfc3011.txt|.|39|.|rfc2485.txt|.|8|.|rfc5107.txt|.|69|.|rfc4388.txt|.|173|.|rfc5010.txt|.|64|.|rfc5071.txt|.|35|.|rfc3495.txt|.|49|.|rfc5417.txt|.|13|.|rfc4477.txt|.|78|.|rfc4676.txt|.|44|.|rfc3315.txt|.|325|.|rfc3203.txt|.|43|.|rfc2131.txt|.|259|.|rfc2610.txt|.|12|.|rfc2322.txt|.|1|.|rfc3679.txt|.|37|.|rfc4703.txt|.|73|.|rfc4174.txt|.|35|.|rfc2241.txt|.|17|.|rfc2937.txt|.|32|.|rfc6225.txt|.|79|.|rfc2489.txt|.|26|.|rfc2563.txt|.|76|.|rfc4361.txt|.|26|.|rfc3396.txt|.|50|.|rfc2132.txt|.|97|.|rfc4702.txt|.|102|.|rfc3046.txt|.|108|.|rfc4030.txt|.|60|.|rfc4280.txt|.|22|.|rfc5192.txt|.|15|.|rfc6148.txt|.|51|.|rfc4776.txt|.|44|.|rfc3927.txt|.|36|.|rfc3118.txt|.|74
+fairness|.|rfc5290.txt|.|111
+dtp|.|rfc2594.txt|.|29|.|rfc310.txt|.|34|.|rfc238.txt|.|2
+routed lsp|.|rfc4736.txt|.|15
+zhao|.|rfc3421.txt|.|10
+use of http|.|rfc3205.txt|.|9|.|rfc2964.txt|.|11
+lsps september|.|rfc6006.txt|.|32
+computer day|.|rfc255.txt|.|2
+ohba|.|rfc5836.txt|.|24|.|rfc5807.txt|.|11|.|rfc5873.txt|.|12
+infinite monkey|.|rfc2795.txt|.|22
+gandalf|.|rfc1993.txt|.|15
+selection ps|.|rfc5220.txt|.|16
+iotp application|.|rfc3867.txt|.|181
+user privacy|.|rfc5379.txt|.|25
+ftp reply codes|.|rfc640.txt|.|11
+host accounting and administrative procedures|.|rfc136.txt|.|4
+copy line|.|rfc320.txt|.|4
+additional new|.|rfc6268.txt|.|33

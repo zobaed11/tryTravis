@@ -1,0 +1,91 @@
+0
+phone technology|.|bbc_tech_388.txt|.|2|.|bbc_tech_103.txt|.|2
+cheaper|.|bbc_tech_243.txt|.|4|.|bbc_tech_050.txt|.|2
+cabs|.|bbc_tech_375.txt|.|4
+decade|.|bbc_tech_337.txt|.|2|.|bbc_tech_065.txt|.|2
+tabloid|.|bbc_tech_208.txt|.|2
+london|.|bbc_tech_375.txt|.|3|.|bbc_tech_349.txt|.|2|.|bbc_tech_104.txt|.|2
+western europe|.|bbc_tech_064.txt|.|2|.|bbc_tech_338.txt|.|2
+old mobile|.|bbc_tech_017.txt|.|2
+poland|.|bbc_tech_256.txt|.|2
+celebrities|.|bbc_tech_208.txt|.|4
+book of records|.|bbc_tech_253.txt|.|2
+sites|.|bbc_tech_257.txt|.|4|.|bbc_tech_270.txt|.|8|.|bbc_tech_214.txt|.|9|.|bbc_tech_189.txt|.|8|.|bbc_tech_017.txt|.|2|.|bbc_tech_213.txt|.|6|.|bbc_tech_364.txt|.|2|.|bbc_tech_299.txt|.|8|.|bbc_tech_049.txt|.|2|.|bbc_tech_340.txt|.|2
+fair|.|bbc_tech_163.txt|.|2|.|bbc_tech_291.txt|.|2|.|bbc_tech_347.txt|.|3|.|bbc_tech_375.txt|.|2
+last year|.|bbc_tech_057.txt|.|2|.|bbc_tech_064.txt|.|2|.|bbc_tech_338.txt|.|2|.|bbc_tech_011.txt|.|2
+national laboratory|.|bbc_tech_173.txt|.|2|.|bbc_tech_141.txt|.|2
+power consumption|.|bbc_tech_367.txt|.|2
+amount of spam circulating|.|bbc_tech_026.txt|.|1
+lost|.|bbc_tech_069.txt|.|5
+mobiles|.|bbc_tech_265.txt|.|4|.|bbc_tech_347.txt|.|4|.|bbc_tech_372.txt|.|4|.|bbc_tech_098.txt|.|3|.|bbc_tech_388.txt|.|6|.|bbc_tech_344.txt|.|2|.|bbc_tech_287.txt|.|4|.|bbc_tech_289.txt|.|3|.|bbc_tech_103.txt|.|6|.|bbc_tech_181.txt|.|2
+imagery|.|bbc_tech_223.txt|.|2
+revealed|.|bbc_tech_017.txt|.|1
+warning|.|bbc_tech_086.txt|.|1|.|bbc_tech_334.txt|.|2|.|bbc_tech_039.txt|.|2
+modem|.|bbc_tech_184.txt|.|3
+catch|.|bbc_tech_208.txt|.|3|.|bbc_tech_077.txt|.|2
+animals|.|bbc_tech_202.txt|.|6
+wireless network|.|bbc_tech_107.txt|.|2
+portal|.|bbc_tech_337.txt|.|5
+cable modem|.|bbc_tech_184.txt|.|2
+poorer|.|bbc_tech_017.txt|.|2
+sky|.|bbc_tech_124.txt|.|7|.|bbc_tech_070.txt|.|7
+image|.|bbc_tech_201.txt|.|11
+images|.|bbc_tech_240.txt|.|3|.|bbc_tech_388.txt|.|6|.|bbc_tech_103.txt|.|6
+lycos europe|.|bbc_tech_214.txt|.|4|.|bbc_tech_159.txt|.|2|.|bbc_tech_147.txt|.|2
+intervoice said|.|bbc_tech_069.txt|.|2
+megapixel|.|bbc_tech_388.txt|.|2|.|bbc_tech_103.txt|.|2
+newspapers|.|bbc_tech_208.txt|.|2
+landfill sites|.|bbc_tech_017.txt|.|2
+security problems|.|bbc_tech_034.txt|.|2
+browsers|.|bbc_tech_196.txt|.|3
+friends|.|bbc_tech_069.txt|.|2
+immediacy|.|bbc_tech_208.txt|.|3
+fixed line phone|.|bbc_tech_109.txt|.|3
+american life|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+opens door|.|bbc_tech_340.txt|.|1
+mobile gig|.|bbc_tech_182.txt|.|1
+western|.|bbc_tech_074.txt|.|3|.|bbc_tech_064.txt|.|3|.|bbc_tech_338.txt|.|3
+drive|.|bbc_tech_336.txt|.|2|.|bbc_tech_064.txt|.|3|.|bbc_tech_070.txt|.|2|.|bbc_tech_338.txt|.|3|.|bbc_tech_050.txt|.|2|.|bbc_tech_301.txt|.|6
+replacement|.|bbc_tech_064.txt|.|4|.|bbc_tech_015.txt|.|2|.|bbc_tech_338.txt|.|4|.|bbc_tech_194.txt|.|1
+mobile picture|.|bbc_tech_208.txt|.|1
+spam campaign|.|bbc_tech_214.txt|.|1|.|bbc_tech_159.txt|.|1|.|bbc_tech_147.txt|.|1
+continental|.|bbc_tech_234.txt|.|2|.|bbc_tech_389.txt|.|2
+virus spread|.|bbc_tech_210.txt|.|2
+analysts|.|bbc_tech_300.txt|.|2|.|bbc_tech_384.txt|.|2|.|bbc_tech_064.txt|.|2|.|bbc_tech_338.txt|.|2|.|bbc_tech_146.txt|.|3|.|bbc_tech_192.txt|.|3|.|bbc_tech_158.txt|.|3|.|bbc_tech_196.txt|.|1
+sources|.|bbc_tech_324.txt|.|5|.|bbc_tech_044.txt|.|5
+book|.|bbc_tech_253.txt|.|2|.|bbc_tech_069.txt|.|4
+phones|.|bbc_tech_234.txt|.|6|.|bbc_tech_067.txt|.|3|.|bbc_tech_109.txt|.|4|.|bbc_tech_388.txt|.|13|.|bbc_tech_069.txt|.|7|.|bbc_tech_338.txt|.|7|.|bbc_tech_383.txt|.|6|.|bbc_tech_050.txt|.|6|.|bbc_tech_208.txt|.|7|.|bbc_tech_182.txt|.|5|.|bbc_tech_265.txt|.|5|.|bbc_tech_386.txt|.|4|.|bbc_tech_375.txt|.|7|.|bbc_tech_017.txt|.|11|.|bbc_tech_389.txt|.|6|.|bbc_tech_064.txt|.|7|.|bbc_tech_382.txt|.|3|.|bbc_tech_034.txt|.|3|.|bbc_tech_103.txt|.|13
+india|.|bbc_tech_242.txt|.|2|.|bbc_tech_192.txt|.|8
+pictures|.|bbc_tech_234.txt|.|2|.|bbc_tech_099.txt|.|1|.|bbc_tech_389.txt|.|2|.|bbc_tech_243.txt|.|3|.|bbc_tech_278.txt|.|10
+landfill|.|bbc_tech_017.txt|.|2
+cameras|.|bbc_tech_388.txt|.|7|.|bbc_tech_278.txt|.|2|.|bbc_tech_103.txt|.|7
+desktop|.|bbc_tech_108.txt|.|11|.|bbc_tech_269.txt|.|9|.|bbc_tech_237.txt|.|9
+camera phones|.|bbc_tech_234.txt|.|1|.|bbc_tech_388.txt|.|9|.|bbc_tech_389.txt|.|1|.|bbc_tech_208.txt|.|3|.|bbc_tech_103.txt|.|9
+downloads|.|bbc_tech_064.txt|.|2|.|bbc_tech_338.txt|.|2|.|bbc_tech_383.txt|.|4|.|bbc_tech_011.txt|.|2
+address book|.|bbc_tech_069.txt|.|3
+alert|.|bbc_tech_034.txt|.|2
+replacement phones|.|bbc_tech_064.txt|.|2|.|bbc_tech_338.txt|.|2
+arash day|.|bbc_tech_016.txt|.|3
+power cables|.|bbc_tech_015.txt|.|1
+line phone|.|bbc_tech_109.txt|.|3
+trouble|.|bbc_tech_034.txt|.|2
+gartner|.|bbc_tech_234.txt|.|2|.|bbc_tech_388.txt|.|3|.|bbc_tech_389.txt|.|2|.|bbc_tech_064.txt|.|5|.|bbc_tech_338.txt|.|5|.|bbc_tech_103.txt|.|3
+test versions|.|bbc_tech_053.txt|.|1
+laptops|.|bbc_tech_375.txt|.|4|.|bbc_tech_004.txt|.|6|.|bbc_tech_063.txt|.|6
+gartner analyst|.|bbc_tech_234.txt|.|1|.|bbc_tech_389.txt|.|1
+sold|.|bbc_tech_388.txt|.|5|.|bbc_tech_064.txt|.|2|.|bbc_tech_130.txt|.|3|.|bbc_tech_178.txt|.|3|.|bbc_tech_338.txt|.|2|.|bbc_tech_103.txt|.|5
+smash more records|.|bbc_tech_372.txt|.|1|.|bbc_tech_287.txt|.|1
+spanish|.|bbc_tech_312.txt|.|8|.|bbc_tech_090.txt|.|8
+megapixel images|.|bbc_tech_388.txt|.|2|.|bbc_tech_103.txt|.|2
+black|.|bbc_tech_375.txt|.|2
+poorer nations|.|bbc_tech_017.txt|.|2
+old mobile phones|.|bbc_tech_017.txt|.|2
+black cabs|.|bbc_tech_375.txt|.|2
+sending pictures|.|bbc_tech_234.txt|.|1|.|bbc_tech_389.txt|.|1
+continental research|.|bbc_tech_234.txt|.|2|.|bbc_tech_389.txt|.|2
+stolen|.|bbc_tech_069.txt|.|3
+management|.|bbc_tech_055.txt|.|1|.|bbc_tech_314.txt|.|1
+intervoice|.|bbc_tech_069.txt|.|3
+analyst|.|bbc_tech_234.txt|.|1|.|bbc_tech_242.txt|.|1|.|bbc_tech_389.txt|.|1
+gate|.|bbc_tech_345.txt|.|2
+avoid|.|bbc_tech_284.txt|.|2|.|bbc_tech_034.txt|.|2

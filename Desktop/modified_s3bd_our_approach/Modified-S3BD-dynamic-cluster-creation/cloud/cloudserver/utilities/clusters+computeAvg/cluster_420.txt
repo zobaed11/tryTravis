@@ -1,0 +1,38 @@
+420
+rocchio|.|WET1028.txt|.|2
+groups public statements|.|WET4774.txt|.|20
+steakhouse|.|WET2347.txt|.|91
+add a restaurant|.|WET2347.txt|.|22
+popular cities|.|WET6090.txt|.|9
+public statements committees|.|WET4774.txt|.|20
+ways to help|.|WET4775.txt|.|11|.|WET4774.txt|.|10|.|WET1029.txt|.|11|.|WET1030.txt|.|11
+heartland|.|WET777.txt|.|16
+bill moyers|.|WET4776.txt|.|5
+pratai|.|WET35.txt|.|3
+courage|.|WET1029.txt|.|20
+yum|.|WET6090.txt|.|161
+pizza|.|WET2957.txt|.|10|.|WET2347.txt|.|79
+committees leadership vetoes|.|WET4774.txt|.|20
+vote smart|.|WET4775.txt|.|119|.|WET4774.txt|.|106|.|WET1029.txt|.|94|.|WET1030.txt|.|123|.|WET4776.txt|.|50
+defense|.|WET4775.txt|.|20|.|WET4774.txt|.|14|.|WET1030.txt|.|18|.|WET4776.txt|.|30
+positions positions|.|WET4776.txt|.|5
+restaurant guide|.|WET6090.txt|.|23
+leadership|.|WET4774.txt|.|20
+pratai kenlium|.|WET35.txt|.|3
+login forgot|.|WET4776.txt|.|5
+help us|.|WET1029.txt|.|28
+affirmative action|.|WET1029.txt|.|16
+vote|.|WET6242.txt|.|2|.|WET4781.txt|.|2|.|WET5828.txt|.|2|.|WET4455.txt|.|2|.|WET1994.txt|.|2|.|WET885.txt|.|4|.|WET98.txt|.|2|.|WET2171.txt|.|1|.|WET613.txt|.|3|.|WET5909.txt|.|2|.|WET5455.txt|.|2|.|WET1005.txt|.|2|.|WET1277.txt|.|1|.|WET1498.txt|.|2|.|WET4072.txt|.|5|.|WET2155.txt|.|1|.|WET3023.txt|.|2|.|WET557.txt|.|2|.|WET3846.txt|.|3|.|WET5986.txt|.|1|.|WET5544.txt|.|2|.|WET1722.txt|.|2|.|WET982.txt|.|1|.|WET4341.txt|.|2|.|WET4722.txt|.|18|.|WET6287.txt|.|1|.|WET628.txt|.|83|.|WET4834.txt|.|2|.|WET3508.txt|.|3|.|WET4690.txt|.|4|.|WET806.txt|.|2|.|WET1240.txt|.|1|.|WET3291.txt|.|2|.|WET992.txt|.|2|.|WET4783.txt|.|2|.|WET2589.txt|.|2|.|WET5461.txt|.|2|.|WET35.txt|.|10|.|WET2496.txt|.|2|.|WET1524.txt|.|2|.|WET520.txt|.|1|.|WET946.txt|.|56|.|WET5260.txt|.|1|.|WET5720.txt|.|2|.|WET2719.txt|.|2|.|WET741.txt|.|2|.|WET3254.txt|.|3|.|WET687.txt|.|2|.|WET1599.txt|.|2|.|WET1157.txt|.|3|.|WET2674.txt|.|2|.|WET1211.txt|.|2|.|WET1793.txt|.|47|.|WET6090.txt|.|298|.|WET4099.txt|.|2|.|WET895.txt|.|2|.|WET2895.txt|.|2|.|WET4406.txt|.|2|.|WET166.txt|.|2|.|WET3204.txt|.|3|.|WET4204.txt|.|2|.|WET5786.txt|.|3|.|WET172.txt|.|2|.|WET67.txt|.|2|.|WET464.txt|.|2|.|WET1468.txt|.|52|.|WET3476.txt|.|3|.|WET600.txt|.|2|.|WET5602.txt|.|2|.|WET5972.txt|.|2|.|WET2948.txt|.|3|.|WET2777.txt|.|2|.|WET5523.txt|.|2|.|WET1045.txt|.|2|.|WET2929.txt|.|2|.|WET624.txt|.|2|.|WET1833.txt|.|2|.|WET1320.txt|.|3|.|WET3849.txt|.|2|.|WET4400.txt|.|5|.|WET1637.txt|.|2|.|WET1583.txt|.|2|.|WET1028.txt|.|180|.|WET2884.txt|.|2|.|WET5389.txt|.|3|.|WET253.txt|.|1|.|WET138.txt|.|1|.|WET3603.txt|.|2|.|WET2508.txt|.|2|.|WET844.txt|.|2|.|WET3589.txt|.|3|.|WET2199.txt|.|2|.|WET3292.txt|.|2|.|WET5639.txt|.|2|.|WET1355.txt|.|2|.|WET4364.txt|.|2|.|WET5656.txt|.|3|.|WET665.txt|.|1|.|WET3691.txt|.|1|.|WET5171.txt|.|2|.|WET1675.txt|.|2|.|WET1957.txt|.|2|.|WET1865.txt|.|2|.|WET3008.txt|.|5|.|WET1030.txt|.|187|.|WET586.txt|.|3|.|WET4776.txt|.|59|.|WET733.txt|.|1|.|WET3484.txt|.|2|.|WET4923.txt|.|2|.|WET3140.txt|.|2|.|WET4432.txt|.|3|.|WET4162.txt|.|2|.|WET4519.txt|.|22|.|WET2624.txt|.|2|.|WET5251.txt|.|2|.|WET576.txt|.|2|.|WET3764.txt|.|40|.|WET6243.txt|.|2|.|WET4774.txt|.|232|.|WET4782.txt|.|2|.|WET5650.txt|.|2|.|WET4160.txt|.|2|.|WET2527.txt|.|2|.|WET231.txt|.|7|.|WET3839.txt|.|2|.|WET1059.txt|.|2|.|WET3940.txt|.|2|.|WET1016.txt|.|3|.|WET6121.txt|.|3|.|WET1029.txt|.|205|.|WET4308.txt|.|2|.|WET6282.txt|.|2|.|WET5219.txt|.|63|.|WET3381.txt|.|1|.|WET4152.txt|.|3|.|WET1537.txt|.|2|.|WET3780.txt|.|25|.|WET2039.txt|.|1|.|WET4517.txt|.|2|.|WET4042.txt|.|30|.|WET6055.txt|.|2|.|WET1144.txt|.|3|.|WET4441.txt|.|2|.|WET4804.txt|.|2|.|WET341.txt|.|3|.|WET1892.txt|.|3|.|WET2417.txt|.|8|.|WET5441.txt|.|2|.|WET104.txt|.|2|.|WET278.txt|.|2|.|WET715.txt|.|2|.|WET5742.txt|.|2|.|WET1794.txt|.|71|.|WET1866.txt|.|2|.|WET6238.txt|.|2|.|WET2831.txt|.|3|.|WET723.txt|.|1|.|WET4485.txt|.|15|.|WET5469.txt|.|2|.|WET969.txt|.|2|.|WET4664.txt|.|4|.|WET1194.txt|.|3|.|WET4884.txt|.|2|.|WET4672.txt|.|3|.|WET1036.txt|.|2|.|WET4775.txt|.|182|.|WET1369.txt|.|2|.|WET1580.txt|.|3|.|WET5503.txt|.|2|.|WET5490.txt|.|2|.|WET3385.txt|.|1|.|WET2347.txt|.|234|.|WET3901.txt|.|1|.|WET31.txt|.|45|.|WET158.txt|.|3|.|WET3944.txt|.|2|.|WET5915.txt|.|2|.|WET777.txt|.|14|.|WET4788.txt|.|60|.|WET3594.txt|.|2|.|WET1755.txt|.|1|.|WET781.txt|.|2|.|WET4585.txt|.|2|.|WET1834.txt|.|3|.|WET3878.txt|.|3|.|WET4395.txt|.|2|.|WET3060.txt|.|2|.|WET5644.txt|.|4
+speeches speeches|.|WET4776.txt|.|5
+speeches|.|WET4776.txt|.|10
+committees|.|WET4774.txt|.|20
+often|.|WET4775.txt|.|33
+political courage test|.|WET1029.txt|.|20
+reviews write|.|WET2347.txt|.|6
+vetoes|.|WET4774.txt|.|20
+moyers|.|WET4776.txt|.|5
+switch city|.|WET6090.txt|.|9
+yuck|.|WET2347.txt|.|124|.|WET6090.txt|.|153
+kenlium|.|WET35.txt|.|3
+bright light|.|WET4776.txt|.|5
+yuck yum|.|WET6090.txt|.|148

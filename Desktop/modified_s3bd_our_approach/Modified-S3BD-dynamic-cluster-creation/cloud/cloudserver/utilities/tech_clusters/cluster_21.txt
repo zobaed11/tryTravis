@@ -1,0 +1,17 @@
+21
+risks of infection|.|122.txt|.|2
+add|.|119.txt|.|3
+banks start|.|122.txt|.|1
+infection|.|272.txt|.|2|.|122.txt|.|3|.|385.txt|.|1
+concerned|.|122.txt|.|1
+crisis|.|119.txt|.|2
+banks|.|122.txt|.|10|.|031.txt|.|5
+start|.|122.txt|.|2
+cash machines|.|122.txt|.|16
+losses|.|119.txt|.|2
+risks|.|122.txt|.|3
+atms|.|122.txt|.|4
+annual|.|119.txt|.|2|.|088.txt|.|2
+cambridge|.|119.txt|.|1
+cash|.|119.txt|.|2|.|315.txt|.|5|.|122.txt|.|20|.|012.txt|.|2|.|027.txt|.|5|.|331.txt|.|2
+jez|.|119.txt|.|2

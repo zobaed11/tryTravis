@@ -1,0 +1,17 @@
+129
+researchers say|.|104.txt|.|1
+tremor|.|353.txt|.|7
+computer mouse|.|353.txt|.|2
+says prof|.|199.txt|.|2
+tremor condition|.|353.txt|.|2
+foundation|.|353.txt|.|2
+tremor foundation|.|353.txt|.|2
+uk national|.|353.txt|.|2
+shaking|.|353.txt|.|2
+people with hand tremors|.|353.txt|.|2
+hardware and software|.|105.txt|.|2
+computer|.|030.txt|.|3|.|377.txt|.|5|.|105.txt|.|3|.|258.txt|.|1|.|340.txt|.|2|.|100.txt|.|4|.|115.txt|.|4|.|353.txt|.|8|.|165.txt|.|4|.|096.txt|.|5|.|066.txt|.|3|.|166.txt|.|4|.|034.txt|.|5|.|049.txt|.|2|.|381.txt|.|3|.|013.txt|.|2|.|104.txt|.|5|.|006.txt|.|4|.|199.txt|.|5|.|385.txt|.|3
+computer systems|.|105.txt|.|1
+national tremor|.|353.txt|.|2
+hand tremors|.|353.txt|.|2
+centres|.|006.txt|.|2

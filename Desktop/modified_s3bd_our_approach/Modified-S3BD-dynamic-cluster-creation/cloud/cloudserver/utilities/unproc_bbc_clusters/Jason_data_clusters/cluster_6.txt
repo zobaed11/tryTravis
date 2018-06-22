@@ -1,0 +1,38 @@
+6
+credit agricole|.|WET5505.txt|.|13
+bad credit loan|.|WET1236.txt|.|38
+tub|.|WET2994.txt|.|217|.|WET5533.txt|.|27
+money market|.|WET4071.txt|.|27
+free alternative|.|WET3302.txt|.|6
+bonus|.|WET5390.txt|.|31
+appliances|.|WET2844.txt|.|99
+microwavegeneral electric|.|WET390.txt|.|111
+directory book|.|WET2395.txt|.|2
+rock climbing|.|WET2411.txt|.|12|.|WET1673.txt|.|18
+searchesthis page|.|WET4827.txt|.|9|.|WET4826.txt|.|11
+lending club|.|WET3302.txt|.|36
+credit cards|.|WET1671.txt|.|11|.|WET3302.txt|.|48
+equifax|.|WET2762.txt|.|19
+til|.|WET4073.txt|.|94|.|WET587.txt|.|81|.|WET5505.txt|.|57
+ask ubuntu|.|WET63.txt|.|34
+aids|.|WET3047.txt|.|140|.|WET1910.txt|.|103|.|WET4983.txt|.|9|.|WET2441.txt|.|44
+photobucket|.|WET838.txt|.|64|.|WET836.txt|.|72
+jelly|.|WET5170.txt|.|17
+credit|.|WET1671.txt|.|27|.|WET1910.txt|.|120|.|WET5648.txt|.|76|.|WET3627.txt|.|17|.|WET1571.txt|.|113|.|WET5505.txt|.|14|.|WET5390.txt|.|107|.|WET1236.txt|.|77|.|WET1911.txt|.|75|.|WET1063.txt|.|12|.|WET2762.txt|.|20|.|WET2658.txt|.|80|.|WET2844.txt|.|55|.|WET5649.txt|.|72|.|WET239.txt|.|22|.|WET1570.txt|.|73|.|WET3302.txt|.|88
+reporting|.|WET3627.txt|.|13|.|WET1571.txt|.|16
+stati|.|WET5658.txt|.|30
+recibo|.|WET1570.txt|.|22
+saya|.|WET3409.txt|.|434
+chiavette usb|.|WET2372.txt|.|25
+lending|.|WET3302.txt|.|53
+box office|.|WET1358.txt|.|73|.|WET1357.txt|.|80|.|WET5827.txt|.|12|.|WET5110.txt|.|69|.|WET1359.txt|.|69|.|WET5109.txt|.|92|.|WET5111.txt|.|41|.|WET1921.txt|.|30
+heartland institute|.|WET777.txt|.|12
+unsecured loan|.|WET1236.txt|.|2
+business office|.|WET1412.txt|.|4
+shipping eligible|.|WET5390.txt|.|102
+spell checker|.|WET1532.txt|.|11
+premium bonus|.|WET5390.txt|.|27
+goggles|.|WET5390.txt|.|75
+file special pages|.|WET734.txt|.|11
+gift cards gift|.|WET2844.txt|.|22
+starting bid|.|WET5844.txt|.|40

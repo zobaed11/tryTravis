@@ -1,0 +1,38 @@
+37
+acura legend|.|WET5467.txt|.|14
+ratings and reviews|.|WET1725.txt|.|8
+legend|.|WET5467.txt|.|17
+tell us what make|.|WET1725.txt|.|24
+acura|.|WET5467.txt|.|23
+exterior|.|WET168.txt|.|29|.|WET2532.txt|.|16
+tell|.|WET2493.txt|.|12|.|WET1725.txt|.|32|.|WET1724.txt|.|40
+monte carlo|.|WET1428.txt|.|89
+pontiac|.|WET3916.txt|.|56
+tips|.|WET5955.txt|.|34|.|WET2442.txt|.|36|.|WET1118.txt|.|124|.|WET2097.txt|.|22|.|WET5901.txt|.|14|.|WET2902.txt|.|5|.|WET5718.txt|.|6|.|WET1645.txt|.|19|.|WET5900.txt|.|11|.|WET4978.txt|.|32|.|WET3965.txt|.|137|.|WET5467.txt|.|37|.|WET1724.txt|.|45|.|WET3949.txt|.|47|.|WET218.txt|.|122
+miles|.|WET1225.txt|.|56|.|WET4978.txt|.|77|.|WET168.txt|.|96|.|WET3363.txt|.|143|.|WET169.txt|.|72|.|WET3362.txt|.|74|.|WET2113.txt|.|55|.|WET5802.txt|.|48
+incentives|.|WET5467.txt|.|40|.|WET1725.txt|.|29
+true cost|.|WET5468.txt|.|6
+seguir|.|WET910.txt|.|6
+nissan maxima|.|WET5468.txt|.|13
+new cars used cars|.|WET4978.txt|.|17
+consumer reviews|.|WET5468.txt|.|4|.|WET1725.txt|.|21
+consumer|.|WET1263.txt|.|15|.|WET1262.txt|.|30|.|WET5014.txt|.|27|.|WET3627.txt|.|12|.|WET5468.txt|.|12|.|WET5467.txt|.|43|.|WET5136.txt|.|33|.|WET1725.txt|.|54|.|WET2699.txt|.|55
+respond stop|.|WET3916.txt|.|68|.|WET169.txt|.|40
+report learn|.|WET4050.txt|.|55|.|WET3916.txt|.|68|.|WET169.txt|.|40
+tools xtools|.|WET3916.txt|.|68|.|WET169.txt|.|40
+cost|.|WET2453.txt|.|23|.|WET5468.txt|.|6|.|WET4003.txt|.|6|.|WET1724.txt|.|25
+chevrolet monte carlo|.|WET1428.txt|.|79
+cars used cars|.|WET1225.txt|.|14|.|WET1226.txt|.|8
+marketplace user|.|WET3916.txt|.|60
+sands|.|WET3210.txt|.|2|.|WET4482.txt|.|2|.|WET5344.txt|.|2|.|WET265.txt|.|2|.|WET5046.txt|.|2|.|WET4814.txt|.|2|.|WET1329.txt|.|1|.|WET3723.txt|.|2|.|WET1803.txt|.|1|.|WET4100.txt|.|2|.|WET743.txt|.|2|.|WET148.txt|.|2|.|WET4176.txt|.|2|.|WET130.txt|.|4|.|WET4149.txt|.|5|.|WET4021.txt|.|2
+road tests|.|WET5468.txt|.|6
+finder|.|WET1117.txt|.|28|.|WET5467.txt|.|20|.|WET1948.txt|.|11|.|WET1725.txt|.|16|.|WET3260.txt|.|20|.|WET1724.txt|.|32|.|WET3764.txt|.|16|.|WET5830.txt|.|33|.|WET5313.txt|.|30|.|WET6220.txt|.|20
+tyler|.|WET169.txt|.|35
+cheat|.|WET193.txt|.|2|.|WET803.txt|.|1|.|WET3958.txt|.|34|.|WET4917.txt|.|15|.|WET2998.txt|.|2|.|WET195.txt|.|2|.|WET1565.txt|.|1|.|WET1463.txt|.|6|.|WET4950.txt|.|1|.|WET1165.txt|.|28|.|WET1645.txt|.|3|.|WET4565.txt|.|2|.|WET186.txt|.|2|.|WET1225.txt|.|2|.|WET2534.txt|.|2|.|WET5214.txt|.|28|.|WET3941.txt|.|1|.|WET5981.txt|.|1|.|WET12.txt|.|2|.|WET2036.txt|.|4|.|WET2841.txt|.|2|.|WET2430.txt|.|4
+fiero|.|WET3916.txt|.|51
+chevrolet|.|WET5425.txt|.|52|.|WET1428.txt|.|194
+cars new cars|.|WET4978.txt|.|9
+selling|.|WET3635.txt|.|14|.|WET2538.txt|.|90|.|WET5467.txt|.|23|.|WET4892.txt|.|14|.|WET1724.txt|.|25|.|WET5779.txt|.|14
+used cars|.|WET4978.txt|.|38|.|WET4979.txt|.|29|.|WET3915.txt|.|117|.|WET1428.txt|.|91|.|WET5468.txt|.|8|.|WET3916.txt|.|111|.|WET169.txt|.|57|.|WET1725.txt|.|26
+respond|.|WET3916.txt|.|68|.|WET169.txt|.|40
+mini white|.|WET3915.txt|.|8

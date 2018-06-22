@@ -1,0 +1,38 @@
+340
+sunset change location|.|WET4302.txt|.|16
+geographical society|.|WET214.txt|.|49
+agsl digital photo|.|WET3961.txt|.|166
+gear guide|.|WET5683.txt|.|13
+woodruff library|.|WET227.txt|.|135
+digital projection|.|WET2702.txt|.|112
+digital device|.|WET2154.txt|.|24
+woodruff|.|WET227.txt|.|135
+print subscriber|.|WET2154.txt|.|24
+robert|.|WET2779.txt|.|27|.|WET2791.txt|.|40|.|WET227.txt|.|135|.|WET5575.txt|.|27|.|WET5840.txt|.|46|.|WET6100.txt|.|14
+atlanta university|.|WET227.txt|.|214
+cell phones|.|WET5396.txt|.|7
+digital|.|WET2616.txt|.|40|.|WET4030.txt|.|57|.|WET214.txt|.|194|.|WET185.txt|.|70|.|WET1013.txt|.|15|.|WET3933.txt|.|59|.|WET1749.txt|.|24|.|WET576.txt|.|18|.|WET2154.txt|.|84|.|WET1429.txt|.|10|.|WET186.txt|.|5|.|WET4031.txt|.|51|.|WET5112.txt|.|4|.|WET292.txt|.|80|.|WET4739.txt|.|2|.|WET3934.txt|.|10|.|WET3819.txt|.|14|.|WET2245.txt|.|7|.|WET293.txt|.|33|.|WET581.txt|.|48|.|WET5982.txt|.|13|.|WET5394.txt|.|46|.|WET3924.txt|.|46|.|WET178.txt|.|61|.|WET294.txt|.|31|.|WET215.txt|.|17|.|WET5683.txt|.|16|.|WET5395.txt|.|36|.|WET1648.txt|.|29|.|WET4326.txt|.|28|.|WET227.txt|.|431|.|WET502.txt|.|2|.|WET715.txt|.|12|.|WET4370.txt|.|18|.|WET4026.txt|.|54|.|WET228.txt|.|19|.|WET5396.txt|.|25|.|WET4036.txt|.|75|.|WET226.txt|.|62|.|WET3930.txt|.|14|.|WET288.txt|.|21|.|WET3973.txt|.|245|.|WET14.txt|.|26|.|WET2702.txt|.|130|.|WET238.txt|.|19|.|WET1673.txt|.|16|.|WET3974.txt|.|137|.|WET3961.txt|.|272|.|WET5818.txt|.|104|.|WET4161.txt|.|3|.|WET1674.txt|.|26|.|WET5105.txt|.|90|.|WET3932.txt|.|30|.|WET5391.txt|.|127|.|WET4034.txt|.|38|.|WET3962.txt|.|34
+integrable system|.|WET4370.txt|.|2
+projectors|.|WET2702.txt|.|120
+middle ages|.|WET5391.txt|.|40
+dark ages|.|WET5391.txt|.|25
+dt digital trends|.|WET5395.txt|.|22|.|WET1648.txt|.|14|.|WET5396.txt|.|10|.|WET5394.txt|.|22
+scouting|.|WET1202.txt|.|2|.|WET5005.txt|.|2|.|WET468.txt|.|2|.|WET4552.txt|.|2|.|WET1803.txt|.|1|.|WET294.txt|.|2|.|WET4163.txt|.|2|.|WET1064.txt|.|3|.|WET3481.txt|.|2|.|WET4278.txt|.|2|.|WET3796.txt|.|2|.|WET4956.txt|.|3|.|WET813.txt|.|3
+periodicals|.|WET3973.txt|.|61
+journal sentinel|.|WET2154.txt|.|45
+field search|.|WET293.txt|.|11
+portable|.|WET2702.txt|.|9
+lincoln university|.|WET227.txt|.|59
+library digital|.|WET186.txt|.|3|.|WET226.txt|.|8|.|WET215.txt|.|3|.|WET227.txt|.|57|.|WET185.txt|.|37|.|WET3932.txt|.|22|.|WET3934.txt|.|6|.|WET3973.txt|.|33|.|WET3819.txt|.|4|.|WET3962.txt|.|4|.|WET178.txt|.|11
+history project|.|WET3961.txt|.|153
+james ryan ltd|.|WET215.txt|.|46
+cp|.|WET2702.txt|.|2
+collection of robert|.|WET227.txt|.|135
+digital archives|.|WET3973.txt|.|52
+digital photo|.|WET214.txt|.|108|.|WET3961.txt|.|170
+collections to add or remove|.|WET3973.txt|.|14
+lincoln|.|WET227.txt|.|59|.|WET6017.txt|.|27
+digital trends|.|WET5395.txt|.|34|.|WET1648.txt|.|22
+digital photo archive|.|WET214.txt|.|108|.|WET3961.txt|.|170
+california digital|.|WET3930.txt|.|12
+writes|.|WET3748.txt|.|102|.|WET2456.txt|.|8

@@ -1,0 +1,38 @@
+165
+drop|.|WET2193.txt|.|10
+nonprofit|.|WET5178.txt|.|11
+featured|.|WET3815.txt|.|32|.|WET451.txt|.|24|.|WET200.txt|.|51|.|WET5128.txt|.|40|.|WET6154.txt|.|22|.|WET4274.txt|.|2|.|WET584.txt|.|3|.|WET2726.txt|.|94|.|WET2367.txt|.|68|.|WET1627.txt|.|25|.|WET4702.txt|.|48|.|WET268.txt|.|3|.|WET5991.txt|.|26|.|WET1372.txt|.|24|.|WET2368.txt|.|28|.|WET963.txt|.|19|.|WET5178.txt|.|11|.|WET5504.txt|.|9|.|WET5954.txt|.|50|.|WET2410.txt|.|24|.|WET5785.txt|.|7|.|WET5123.txt|.|33|.|WET534.txt|.|6|.|WET1378.txt|.|24|.|WET3127.txt|.|67
+nonprofit partners|.|WET5178.txt|.|11
+keyword to search|.|WET6154.txt|.|3
+adidas|.|WET2916.txt|.|44|.|WET5128.txt|.|25
+chris hemsworth shows|.|WET5900.txt|.|14|.|WET2159.txt|.|13
+homecauseshealthy|.|WET5178.txt|.|11
+wick|.|WET5011.txt|.|132
+nouvelles|.|WET5504.txt|.|6
+high heels low|.|WET5128.txt|.|22
+featured by owner|.|WET451.txt|.|22
+featured productsnew|.|WET5954.txt|.|40
+noir|.|WET3296.txt|.|24|.|WET3297.txt|.|33
+homeabout|.|WET5178.txt|.|11
+featured new|.|WET2368.txt|.|24|.|WET2367.txt|.|55
+trophies|.|WET4535.txt|.|67
+brands sale women|.|WET5128.txt|.|20
+arrivals mikasa|.|WET2368.txt|.|24|.|WET2367.txt|.|55
+top authors top|.|WET4702.txt|.|23
+strainer|.|WET2994.txt|.|32
+public marks|.|WET3871.txt|.|30|.|WET128.txt|.|24
+cape town|.|WET1422.txt|.|92
+cadillac|.|WET5151.txt|.|141
+web application manager|.|WET3706.txt|.|36
+camper van|.|WET4237.txt|.|11
+market|.|WET3815.txt|.|82|.|WET4702.txt|.|65|.|WET3316.txt|.|96|.|WET5132.txt|.|54|.|WET69.txt|.|61|.|WET3583.txt|.|20|.|WET2211.txt|.|5|.|WET963.txt|.|52|.|WET5760.txt|.|27|.|WET4071.txt|.|61|.|WET1647.txt|.|17|.|WET4115.txt|.|13
+pull|.|WET2185.txt|.|17|.|WET5923.txt|.|28
+compare add|.|WET2726.txt|.|96
+postcards regional|.|WET3096.txt|.|277
+opt|.|WET3678.txt|.|266
+subway|.|WET2983.txt|.|25
+patrimoine mondial|.|WET4798.txt|.|823
+special prices|.|WET2726.txt|.|1
+onu|.|WET3187.txt|.|19
+solve|.|WET5881.txt|.|12
+dealer|.|WET1497.txt|.|41|.|WET4978.txt|.|68|.|WET5204.txt|.|11|.|WET3251.txt|.|16|.|WET5467.txt|.|57|.|WET1408.txt|.|27|.|WET200.txt|.|6|.|WET5249.txt|.|24

@@ -1,0 +1,64 @@
+ira bombs|.|bbc_politics_012.txt|.|1
+blair has become the labour|.|bbc_politics_295.txt|.|1
+change at the top|.|bbc_politics_409.txt|.|2
+office|.|bbc_entertainment_100.txt|.|4|.|bbc_business_243.txt|.|4|.|bbc_entertainment_312.txt|.|2|.|bbc_entertainment_364.txt|.|2|.|bbc_entertainment_046.txt|.|2|.|bbc_tech_041.txt|.|7|.|bbc_entertainment_202.txt|.|2|.|bbc_politics_078.txt|.|2|.|bbc_entertainment_363.txt|.|6|.|bbc_entertainment_350.txt|.|3|.|bbc_entertainment_088.txt|.|3|.|bbc_entertainment_380.txt|.|3|.|bbc_politics_042.txt|.|2|.|bbc_business_073.txt|.|2|.|bbc_entertainment_384.txt|.|2|.|bbc_entertainment_335.txt|.|3|.|bbc_entertainment_066.txt|.|2|.|bbc_entertainment_053.txt|.|6|.|bbc_business_357.txt|.|2|.|bbc_politics_370.txt|.|3|.|bbc_entertainment_074.txt|.|3|.|bbc_entertainment_340.txt|.|3|.|bbc_business_446.txt|.|2|.|bbc_entertainment_065.txt|.|2|.|bbc_politics_203.txt|.|2|.|bbc_entertainment_060.txt|.|2|.|bbc_entertainment_073.txt|.|3|.|bbc_entertainment_049.txt|.|3|.|bbc_politics_232.txt|.|3|.|bbc_politics_215.txt|.|6|.|bbc_entertainment_196.txt|.|5|.|bbc_politics_031.txt|.|5|.|bbc_entertainment_072.txt|.|4|.|bbc_entertainment_297.txt|.|3|.|bbc_tech_376.txt|.|7|.|bbc_entertainment_338.txt|.|2|.|bbc_politics_041.txt|.|2|.|bbc_politics_088.txt|.|2|.|bbc_entertainment_076.txt|.|4|.|bbc_politics_002.txt|.|2|.|bbc_politics_138.txt|.|4|.|bbc_politics_177.txt|.|2
+northern|.|bbc_politics_183.txt|.|4|.|bbc_sport_064.txt|.|2|.|bbc_business_381.txt|.|2|.|bbc_sport_402.txt|.|2
+roger|.|bbc_sport_425.txt|.|3|.|bbc_sport_433.txt|.|3
+rupiah|.|bbc_business_411.txt|.|3
+group says|.|bbc_politics_319.txt|.|2
+son|.|bbc_entertainment_163.txt|.|2
+heathrow to jeddah|.|bbc_business_432.txt|.|2
+take a break|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+boynton|.|bbc_business_419.txt|.|2
+mr nevzlin|.|bbc_business_444.txt|.|2
+rich countries|.|bbc_politics_130.txt|.|3
+survey found|.|bbc_tech_346.txt|.|2
+home photo|.|bbc_tech_243.txt|.|2
+viewing habits|.|bbc_tech_146.txt|.|2|.|bbc_tech_158.txt|.|2
+holcim|.|bbc_business_485.txt|.|7
+bnp|.|bbc_politics_074.txt|.|4|.|bbc_politics_145.txt|.|4|.|bbc_politics_201.txt|.|6
+deal worth|.|bbc_business_315.txt|.|2
+downright|.|bbc_politics_387.txt|.|2
+clashed|.|bbc_politics_211.txt|.|1|.|bbc_politics_387.txt|.|1
+exclusive broadcasting|.|bbc_entertainment_059.txt|.|2
+permanently|.|bbc_politics_146.txt|.|2
+bob|.|bbc_entertainment_120.txt|.|8|.|bbc_politics_026.txt|.|2|.|bbc_sport_472.txt|.|2
+middle east|.|bbc_politics_189.txt|.|2
+rewarded|.|bbc_tech_124.txt|.|3
+arnesen|.|bbc_sport_207.txt|.|7
+dozens|.|bbc_business_217.txt|.|2
+service firms|.|bbc_tech_368.txt|.|2
+bot|.|bbc_tech_281.txt|.|5|.|bbc_tech_357.txt|.|9
+local press reports|.|bbc_business_502.txt|.|2
+belgian sports|.|bbc_sport_448.txt|.|2
+mental|.|bbc_politics_068.txt|.|3|.|bbc_politics_214.txt|.|3
+boy|.|bbc_entertainment_130.txt|.|2
+racial|.|bbc_politics_318.txt|.|1
+duran duran|.|bbc_entertainment_208.txt|.|4
+opus dei|.|bbc_politics_055.txt|.|3
+switch|.|bbc_sport_399.txt|.|1
+ballet dancers|.|bbc_entertainment_022.txt|.|2
+murphy|.|bbc_sport_302.txt|.|5|.|bbc_sport_314.txt|.|5|.|bbc_sport_325.txt|.|2|.|bbc_sport_376.txt|.|2
+public debate|.|bbc_tech_191.txt|.|3
+civil service jobs|.|bbc_politics_365.txt|.|3|.|bbc_politics_084.txt|.|3
+mr blair told|.|bbc_politics_195.txt|.|2
+independent view|.|bbc_politics_328.txt|.|2
+blair|.|bbc_politics_021.txt|.|4|.|bbc_politics_314.txt|.|5|.|bbc_politics_225.txt|.|7|.|bbc_politics_102.txt|.|4|.|bbc_politics_277.txt|.|4|.|bbc_politics_064.txt|.|5|.|bbc_politics_161.txt|.|3|.|bbc_politics_022.txt|.|6|.|bbc_politics_189.txt|.|8|.|bbc_politics_260.txt|.|5|.|bbc_politics_305.txt|.|5|.|bbc_politics_012.txt|.|5|.|bbc_politics_356.txt|.|4|.|bbc_politics_276.txt|.|3|.|bbc_politics_197.txt|.|5|.|bbc_business_504.txt|.|3|.|bbc_politics_251.txt|.|5|.|bbc_politics_207.txt|.|2|.|bbc_politics_099.txt|.|8|.|bbc_politics_110.txt|.|3|.|bbc_politics_223.txt|.|6|.|bbc_politics_126.txt|.|5|.|bbc_politics_253.txt|.|10|.|bbc_politics_249.txt|.|5|.|bbc_politics_046.txt|.|4|.|bbc_politics_252.txt|.|6|.|bbc_politics_295.txt|.|9|.|bbc_politics_206.txt|.|3|.|bbc_politics_414.txt|.|5|.|bbc_politics_282.txt|.|8|.|bbc_politics_401.txt|.|5|.|bbc_politics_351.txt|.|7|.|bbc_politics_014.txt|.|5|.|bbc_politics_130.txt|.|3|.|bbc_politics_316.txt|.|9|.|bbc_politics_186.txt|.|4|.|bbc_politics_218.txt|.|10|.|bbc_politics_319.txt|.|2|.|bbc_politics_379.txt|.|4|.|bbc_politics_026.txt|.|4|.|bbc_politics_395.txt|.|3|.|bbc_politics_263.txt|.|3|.|bbc_politics_353.txt|.|8|.|bbc_politics_027.txt|.|4|.|bbc_politics_035.txt|.|3|.|bbc_politics_280.txt|.|9|.|bbc_politics_256.txt|.|10|.|bbc_politics_254.txt|.|4|.|bbc_politics_184.txt|.|6|.|bbc_politics_106.txt|.|3|.|bbc_politics_095.txt|.|6|.|bbc_politics_352.txt|.|7|.|bbc_politics_255.txt|.|10|.|bbc_politics_378.txt|.|5|.|bbc_politics_149.txt|.|9|.|bbc_politics_387.txt|.|3|.|bbc_politics_037.txt|.|3|.|bbc_politics_194.txt|.|2|.|bbc_politics_007.txt|.|7|.|bbc_politics_181.txt|.|3|.|bbc_politics_135.txt|.|5|.|bbc_politics_367.txt|.|3|.|bbc_politics_307.txt|.|4|.|bbc_politics_195.txt|.|4|.|bbc_politics_341.txt|.|6|.|bbc_politics_262.txt|.|9|.|bbc_politics_257.txt|.|9|.|bbc_entertainment_143.txt|.|3
+huaral valley|.|bbc_tech_006.txt|.|1
+kumaratunga|.|bbc_business_471.txt|.|3
+bpi|.|bbc_entertainment_278.txt|.|5
+turns infected|.|bbc_tech_210.txt|.|1
+mr khodorkovsky handed|.|bbc_business_444.txt|.|2
+kostas|.|bbc_sport_054.txt|.|2|.|bbc_sport_082.txt|.|2
+chance|.|bbc_sport_059.txt|.|1|.|bbc_sport_167.txt|.|2|.|bbc_sport_263.txt|.|1
+than men|.|bbc_politics_246.txt|.|2
+nature|.|bbc_tech_107.txt|.|2
+queudrue|.|bbc_sport_106.txt|.|2
+change|.|bbc_politics_409.txt|.|2|.|bbc_politics_198.txt|.|3|.|bbc_politics_090.txt|.|3|.|bbc_politics_197.txt|.|4|.|bbc_politics_124.txt|.|4
+sri|.|bbc_business_345.txt|.|3|.|bbc_business_398.txt|.|4|.|bbc_business_228.txt|.|4|.|bbc_business_434.txt|.|5|.|bbc_business_471.txt|.|9|.|bbc_tech_106.txt|.|5|.|bbc_business_353.txt|.|4
+hails|.|bbc_politics_064.txt|.|1|.|bbc_sport_282.txt|.|1
+drugmakers|.|bbc_business_201.txt|.|1
+world tour|.|bbc_tech_274.txt|.|6
+blair says|.|bbc_politics_099.txt|.|1
+belmarsh prison|.|bbc_politics_224.txt|.|2
+sidelined|.|bbc_sport_114.txt|.|2

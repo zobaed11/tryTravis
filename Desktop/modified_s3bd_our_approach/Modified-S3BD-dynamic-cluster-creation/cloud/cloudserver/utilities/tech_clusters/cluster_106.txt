@@ -1,0 +1,17 @@
+106
+nine|.|176.txt|.|1|.|132.txt|.|1
+nine years|.|176.txt|.|1|.|132.txt|.|1
+law|.|096.txt|.|2|.|342.txt|.|5|.|330.txt|.|5|.|030.txt|.|3|.|377.txt|.|2|.|258.txt|.|5|.|048.txt|.|5|.|014.txt|.|5|.|176.txt|.|3|.|132.txt|.|3|.|399.txt|.|3|.|080.txt|.|7
+issue|.|258.txt|.|3
+ministers|.|080.txt|.|2
+recommended|.|176.txt|.|2|.|132.txt|.|2
+eu|.|342.txt|.|3|.|330.txt|.|3|.|030.txt|.|4|.|258.txt|.|5|.|048.txt|.|3|.|014.txt|.|3|.|080.txt|.|5
+delay|.|080.txt|.|3
+european parliament|.|330.txt|.|3|.|014.txt|.|3
+draft|.|342.txt|.|2|.|048.txt|.|2
+computer implemented inventions|.|030.txt|.|1
+patents|.|330.txt|.|2|.|014.txt|.|2|.|029.txt|.|9|.|268.txt|.|18
+survey|.|328.txt|.|2|.|078.txt|.|6|.|021.txt|.|2|.|375.txt|.|2|.|346.txt|.|4
+telekom austria|.|365.txt|.|3
+fresh|.|080.txt|.|2
+convicted|.|303.txt|.|1|.|075.txt|.|1|.|176.txt|.|2|.|132.txt|.|2

@@ -1,0 +1,120 @@
+message of type|.|rfc4540.txt|.|41
+company classification|.|rfc3114.txt|.|14
+control january|.|rfc2753.txt|.|19|.|rfc2750.txt|.|12
+release|.|rfc4083.txt|.|31|.|rfc4865.txt|.|59|.|rfc343.txt|.|12|.|rfc5814.txt|.|51|.|rfc440.txt|.|2|.|rfc331.txt|.|3
+simco|.|rfc4540.txt|.|192
+undeployed tcp|.|rfc6247.txt|.|4
+stamping|.|rfc3628.txt|.|12
+case insensitive|.|rfc3712.txt|.|8
+proxy chaining and policy|.|rfc2607.txt|.|16
+proxy chaining|.|rfc2607.txt|.|24
+tsa practice|.|rfc3628.txt|.|23
+midcom mib|.|rfc5190.txt|.|95
+rule identifier attribute|.|rfc4540.txt|.|21
+set class|.|rfc4012.txt|.|1
+policy considerations|.|rfc3426.txt|.|25
+urns|.|rfc3188.txt|.|40|.|rfc3613.txt|.|11|.|rfc2611.txt|.|15
+enable|.|rfc3989.txt|.|44|.|rfc5189.txt|.|45|.|rfc5161.txt|.|47
+permissions|.|rfc4745.txt|.|22
+authorization token|.|rfc3521.txt|.|22
+midcomruletable|.|rfc5190.txt|.|73
+action|.|rfc2551.txt|.|25|.|rfc3060.txt|.|78|.|rfc5230.txt|.|10|.|rfc2780.txt|.|21|.|rfc2704.txt|.|44|.|rfc2902.txt|.|33|.|rfc3348.txt|.|2|.|rfc2591.txt|.|30|.|rfc3231.txt|.|33|.|rfc4020.txt|.|8|.|rfc143.txt|.|3
+ffpim|.|rfc4142.txt|.|18
+tsa disclosure statement|.|rfc3628.txt|.|11
+working group jon postel request|.|rfc229.txt|.|3
+extension august|.|rfc4978.txt|.|8
+enabled path computation|.|rfc5394.txt|.|1
+agreement|.|rfc6278.txt|.|11|.|rfc3198.txt|.|8|.|rfc4650.txt|.|21|.|rfc2785.txt|.|15|.|rfc5197.txt|.|18|.|rfc5753.txt|.|41|.|rfc3329.txt|.|57|.|rfc3060.txt|.|2|.|rfc3563.txt|.|15|.|rfc3809.txt|.|7|.|rfc5920.txt|.|4|.|rfc2339.txt|.|21|.|rfc5349.txt|.|7|.|rfc3272.txt|.|4|.|rfc2631.txt|.|22
+policy usage|.|rfc3483.txt|.|11
+middlebox|.|rfc4097.txt|.|60|.|rfc3304.txt|.|42|.|rfc3989.txt|.|347|.|rfc5189.txt|.|349|.|rfc5190.txt|.|129|.|rfc5153.txt|.|41|.|rfc3303.txt|.|221
+security policy token|.|rfc4534.txt|.|39
+processing application|.|rfc5224.txt|.|6
+core information model|.|rfc3060.txt|.|128
+policy action|.|rfc3060.txt|.|20
+auxiliary class|.|rfc3703.txt|.|56
+smtp service extension|.|rfc2197.txt|.|11|.|rfc2034.txt|.|2|.|rfc4954.txt|.|26|.|rfc2852.txt|.|30|.|rfc5336.txt|.|8|.|rfc3885.txt|.|6|.|rfc2554.txt|.|4|.|rfc1985.txt|.|8|.|rfc2920.txt|.|5|.|rfc4405.txt|.|6|.|rfc2487.txt|.|10
+management mib march|.|rfc4011.txt|.|120
+simco header|.|rfc4540.txt|.|52
+element april|.|rfc3520.txt|.|29
+authorization and authentication|.|rfc2769.txt|.|7
+mirror|.|rfc2769.txt|.|36
+validation policy|.|rfc3125.txt|.|23|.|rfc3379.txt|.|34
+tone|.|rfc3960.txt|.|31|.|rfc2833.txt|.|190
+derivative works|.|rfc5378.txt|.|21|.|rfc3667.txt|.|30|.|rfc3978.txt|.|30
+policy related|.|rfc3198.txt|.|1
+tcp urgent|.|rfc6093.txt|.|52
+security loopholes|.|rfc2804.txt|.|2
+login|.|rfc491.txt|.|20|.|rfc3720.txt|.|458|.|rfc431.txt|.|7|.|rfc2138.txt|.|10|.|rfc2058.txt|.|10|.|rfc2865.txt|.|11|.|rfc254.txt|.|24|.|rfc386.txt|.|14|.|rfc399.txt|.|4|.|rfc2449.txt|.|9|.|rfc2221.txt|.|15
+policy data|.|rfc3084.txt|.|17|.|rfc2750.txt|.|9
+group security policy|.|rfc4534.txt|.|39
+conditions and actions|.|rfc3703.txt|.|21
+prid prefix|.|rfc3084.txt|.|8
+character sequence|.|rfc5233.txt|.|5
+policy enforcement interface|.|rfc5431.txt|.|4
+policy element|.|rfc3520.txt|.|96|.|rfc2752.txt|.|37|.|rfc2872.txt|.|12|.|rfc3182.txt|.|38|.|rfc2751.txt|.|20|.|rfc3181.txt|.|22
+model november|.|rfc3644.txt|.|72
+indicates|.|rfc3585.txt|.|75|.|rfc119.txt|.|3|.|rfc4950.txt|.|2|.|rfc2078.txt|.|208|.|rfc4569.txt|.|2
+policy based management|.|rfc4011.txt|.|121
+policy core|.|rfc3060.txt|.|129
+requests a service|.|rfc3838.txt|.|2
+policy usage feedback|.|rfc3483.txt|.|6
+midcom client|.|rfc5190.txt|.|94
+extended string|.|rfc3492.txt|.|21
+flow admission|.|rfc2124.txt|.|25
+deficit|.|rfc4883.txt|.|9
+policy|.|rfc3125.txt|.|195|.|rfc3426.txt|.|29|.|rfc4096.txt|.|17|.|rfc2825.txt|.|2|.|rfc2096.txt|.|17|.|rfc4353.txt|.|65|.|rfc1965.txt|.|4|.|rfc2753.txt|.|135|.|rfc2124.txt|.|55|.|rfc2752.txt|.|77|.|rfc2769.txt|.|53|.|rfc4116.txt|.|7|.|rfc4540.txt|.|299|.|rfc4408.txt|.|60|.|rfc4534.txt|.|119|.|rfc4012.txt|.|41|.|rfc5190.txt|.|273|.|rfc4098.txt|.|28|.|rfc3586.txt|.|66|.|rfc5431.txt|.|17|.|rfc3703.txt|.|339|.|rfc3379.txt|.|61|.|rfc4011.txt|.|410|.|rfc5394.txt|.|212|.|rfc2725.txt|.|65|.|rfc4277.txt|.|15|.|rfc5126.txt|.|98|.|rfc3065.txt|.|6|.|rfc2754.txt|.|5|.|rfc3457.txt|.|43|.|rfc2902.txt|.|17|.|rfc73.txt|.|2|.|rfc6043.txt|.|58|.|rfc5395.txt|.|11|.|rfc3585.txt|.|150|.|rfc3114.txt|.|44|.|rfc5224.txt|.|20|.|rfc2804.txt|.|12|.|rfc5943.txt|.|7|.|rfc3198.txt|.|171|.|rfc5324.txt|.|271|.|rfc5189.txt|.|437|.|rfc3838.txt|.|75|.|rfc2918.txt|.|4|.|rfc2872.txt|.|34|.|rfc5065.txt|.|7|.|rfc3740.txt|.|76|.|rfc2748.txt|.|45|.|rfc3084.txt|.|101|.|rfc2270.txt|.|2|.|rfc4376.txt|.|27|.|rfc3739.txt|.|18|.|rfc2527.txt|.|155|.|rfc3181.txt|.|45|.|rfc2607.txt|.|26|.|rfc3521.txt|.|204|.|rfc3989.txt|.|436|.|rfc3628.txt|.|74|.|rfc3483.txt|.|43|.|rfc3013.txt|.|9|.|rfc3182.txt|.|79|.|rfc3039.txt|.|17|.|rfc2751.txt|.|41|.|rfc3060.txt|.|542|.|rfc4450.txt|.|5|.|rfc3520.txt|.|132|.|rfc5361.txt|.|6|.|rfc3056.txt|.|10|.|rfc5280.txt|.|125|.|rfc4745.txt|.|57|.|rfc3644.txt|.|321|.|rfc2750.txt|.|108
+policy system|.|rfc2769.txt|.|48
+implementing company|.|rfc3114.txt|.|14
+harney standards|.|rfc4534.txt|.|33
+redistributed|.|rfc2769.txt|.|24
+combining|.|rfc5242.txt|.|8|.|rfc4745.txt|.|14
+positive|.|rfc4540.txt|.|79
+harney|.|rfc4534.txt|.|39
+policy core information|.|rfc3060.txt|.|127
+implementing company classification|.|rfc3114.txt|.|14
+pin nodes|.|rfc2750.txt|.|9
+enabled path|.|rfc5394.txt|.|1
+authorizing|.|rfc3520.txt|.|51|.|rfc5981.txt|.|49
+error handling|.|rfc2124.txt|.|18
+policy system replication|.|rfc2769.txt|.|42
+positive reply|.|rfc4540.txt|.|64
+cops pr|.|rfc3084.txt|.|1|.|rfc3535.txt|.|1
+semantics specification|.|rfc3989.txt|.|6
+management server|.|rfc3521.txt|.|47
+policy rule identifier attribute|.|rfc4540.txt|.|21
+policy provisioning|.|rfc3084.txt|.|26
+authorization of services|.|rfc3838.txt|.|3
+asynchronous session|.|rfc3989.txt|.|7
+end host|.|rfc3521.txt|.|58
+preemption priority policy|.|rfc3181.txt|.|16
+lfap march|.|rfc2124.txt|.|20
+vollbrecht informational|.|rfc2607.txt|.|14
+chaining|.|rfc2607.txt|.|24
+priority policy element|.|rfc3181.txt|.|16
+herzog|.|rfc2750.txt|.|18|.|rfc2751.txt|.|17|.|rfc3181.txt|.|19
+combined permission|.|rfc4745.txt|.|4
+core information|.|rfc3060.txt|.|128
+policy elements|.|rfc2750.txt|.|10
+policyrepository|.|rfc3060.txt|.|70
+location or presence|.|rfc4745.txt|.|2
+combining rules|.|rfc4745.txt|.|6
+operating policy|.|rfc2124.txt|.|16
+service level agreement|.|rfc3198.txt|.|7|.|rfc3060.txt|.|2|.|rfc3809.txt|.|4|.|rfc5920.txt|.|3|.|rfc3272.txt|.|2
+policy rule|.|rfc3060.txt|.|99|.|rfc3989.txt|.|263|.|rfc5189.txt|.|264|.|rfc5190.txt|.|155|.|rfc3703.txt|.|80|.|rfc4540.txt|.|209
+chaining and policy|.|rfc2607.txt|.|16
+rule identifier|.|rfc4540.txt|.|52
+policy qos|.|rfc3644.txt|.|72
+import|.|rfc4012.txt|.|3
+trust point|.|rfc3125.txt|.|19|.|rfc5011.txt|.|41
+lifetime change|.|rfc3989.txt|.|17|.|rfc5189.txt|.|18
+policy enable rule|.|rfc3989.txt|.|21|.|rfc5189.txt|.|21
+negotiating|.|rfc3586.txt|.|4
+midcom protocol|.|rfc4097.txt|.|58|.|rfc3989.txt|.|103|.|rfc5189.txt|.|103|.|rfc3303.txt|.|32
+policy enabled|.|rfc5394.txt|.|3
+callout servers|.|rfc3838.txt|.|9|.|rfc3835.txt|.|10|.|rfc3752.txt|.|12
+company classification policy|.|rfc3114.txt|.|14
+management november|.|rfc3198.txt|.|20
+lifetime attribute|.|rfc4540.txt|.|22
+information and control|.|rfc3060.txt|.|2
+rpslng|.|rfc4012.txt|.|17
+based admission|.|rfc3181.txt|.|6

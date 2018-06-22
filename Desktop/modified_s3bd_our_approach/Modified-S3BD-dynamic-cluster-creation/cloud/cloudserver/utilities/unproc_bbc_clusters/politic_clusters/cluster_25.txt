@@ -1,0 +1,104 @@
+25
+increased funds|.|bbc_politics_101.txt|.|1
+held|.|bbc_politics_144.txt|.|2|.|bbc_politics_328.txt|.|2|.|bbc_politics_192.txt|.|3
+sunday times|.|bbc_politics_112.txt|.|2
+backed|.|bbc_politics_086.txt|.|1|.|bbc_politics_198.txt|.|2
+police federation|.|bbc_politics_239.txt|.|2
+migrant|.|bbc_politics_220.txt|.|1
+review|.|bbc_politics_039.txt|.|2
+mr herron|.|bbc_politics_200.txt|.|2
+uk rebate|.|bbc_politics_373.txt|.|1
+bigots|.|bbc_politics_219.txt|.|2
+encouraging|.|bbc_politics_056.txt|.|1
+police searches|.|bbc_politics_105.txt|.|1
+charles kennedy|.|bbc_politics_301.txt|.|2
+hutt said|.|bbc_politics_121.txt|.|3
+simply wrong|.|bbc_politics_040.txt|.|2
+scares|.|bbc_politics_036.txt|.|2
+boothroyd has said|.|bbc_politics_117.txt|.|1|.|bbc_politics_287.txt|.|1
+preparatory work|.|bbc_politics_198.txt|.|2
+force|.|bbc_politics_134.txt|.|3
+stops|.|bbc_politics_105.txt|.|1
+substantially|.|bbc_politics_163.txt|.|1
+age discrimination|.|bbc_politics_132.txt|.|2
+visit to britain|.|bbc_politics_155.txt|.|2
+leak|.|bbc_politics_376.txt|.|1
+tamimi|.|bbc_politics_062.txt|.|3
+protect|.|bbc_politics_162.txt|.|1
+power|.|bbc_politics_165.txt|.|2
+mediation|.|bbc_politics_067.txt|.|3|.|bbc_politics_051.txt|.|2|.|bbc_politics_390.txt|.|3
+service orders|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+exported|.|bbc_politics_058.txt|.|1
+rennard|.|bbc_politics_416.txt|.|2
+immigration policy|.|bbc_politics_237.txt|.|1
+federation has said|.|bbc_politics_239.txt|.|1
+drinking problems|.|bbc_politics_019.txt|.|1
+condemned|.|bbc_politics_002.txt|.|2
+hide|.|bbc_politics_155.txt|.|1
+deleted|.|bbc_politics_002.txt|.|1
+public inquiries|.|bbc_politics_211.txt|.|2
+confrontational|.|bbc_politics_239.txt|.|2
+mr begg|.|bbc_politics_151.txt|.|1
+bell said|.|bbc_politics_172.txt|.|2
+outrage|.|bbc_politics_279.txt|.|2
+quango|.|bbc_politics_039.txt|.|1
+safety whistleblowers|.|bbc_politics_162.txt|.|2
+tremendous|.|bbc_politics_124.txt|.|2
+next general election|.|bbc_politics_107.txt|.|2|.|bbc_politics_342.txt|.|2
+tory tax|.|bbc_politics_344.txt|.|2|.|bbc_politics_275.txt|.|2
+pugh|.|bbc_politics_039.txt|.|2
+legal advice|.|bbc_politics_324.txt|.|4
+milburn has defended|.|bbc_politics_332.txt|.|1
+justice|.|bbc_politics_204.txt|.|6
+criminal|.|bbc_politics_204.txt|.|3
+alcohol focus|.|bbc_politics_019.txt|.|2
+plaid|.|bbc_politics_124.txt|.|2|.|bbc_politics_177.txt|.|7
+officers|.|bbc_politics_165.txt|.|2
+negotiate|.|bbc_politics_373.txt|.|1
+archbishop tutu|.|bbc_politics_205.txt|.|2
+proud|.|bbc_politics_350.txt|.|2
+community service|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+council summit|.|bbc_politics_358.txt|.|2
+loans|.|bbc_politics_246.txt|.|2
+patients|.|bbc_politics_170.txt|.|12|.|bbc_politics_121.txt|.|6
+palestinian reforms|.|bbc_politics_209.txt|.|1
+like migration|.|bbc_politics_025.txt|.|2
+nuisance|.|bbc_politics_092.txt|.|3
+tax|.|bbc_politics_374.txt|.|4|.|bbc_politics_398.txt|.|3|.|bbc_politics_344.txt|.|11|.|bbc_politics_128.txt|.|3|.|bbc_politics_357.txt|.|4|.|bbc_politics_317.txt|.|11|.|bbc_politics_277.txt|.|5|.|bbc_politics_275.txt|.|9|.|bbc_politics_241.txt|.|8|.|bbc_politics_375.txt|.|14|.|bbc_politics_362.txt|.|6|.|bbc_politics_101.txt|.|9|.|bbc_politics_270.txt|.|11|.|bbc_politics_363.txt|.|10|.|bbc_politics_387.txt|.|7
+visa application|.|bbc_politics_112.txt|.|2
+ukip candidate suspended|.|bbc_politics_286.txt|.|1|.|bbc_politics_125.txt|.|1
+core|.|bbc_politics_155.txt|.|2|.|bbc_politics_336.txt|.|2
+inquiries|.|bbc_politics_211.txt|.|3
+efforts|.|bbc_politics_085.txt|.|1
+uk troops|.|bbc_politics_129.txt|.|2
+council|.|bbc_politics_128.txt|.|2|.|bbc_politics_357.txt|.|5|.|bbc_politics_317.txt|.|8|.|bbc_politics_358.txt|.|2|.|bbc_politics_241.txt|.|5|.|bbc_politics_375.txt|.|3|.|bbc_politics_362.txt|.|2|.|bbc_politics_101.txt|.|14|.|bbc_politics_061.txt|.|4|.|bbc_politics_244.txt|.|2|.|bbc_politics_231.txt|.|2|.|bbc_politics_363.txt|.|4|.|bbc_politics_387.txt|.|3
+fraud|.|bbc_politics_138.txt|.|13
+state hospital|.|bbc_politics_174.txt|.|2
+testimony|.|bbc_politics_027.txt|.|2
+pension scheme|.|bbc_politics_042.txt|.|4
+scottish executive|.|bbc_politics_174.txt|.|2
+independent faith|.|bbc_politics_172.txt|.|2
+improve animal|.|bbc_politics_048.txt|.|2
+evangelical christian|.|bbc_politics_172.txt|.|2
+crucial commons|.|bbc_politics_328.txt|.|2
+visiting|.|bbc_politics_155.txt|.|1
+focus scotland|.|bbc_politics_019.txt|.|2
+retirement age could be scrapped|.|bbc_politics_132.txt|.|1
+independent view|.|bbc_politics_328.txt|.|2
+electronically tagged|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+scrapped|.|bbc_politics_132.txt|.|1
+law change|.|bbc_politics_198.txt|.|2
+pay later|.|bbc_politics_364.txt|.|3
+discriminated against roma|.|bbc_politics_370.txt|.|3
+high security|.|bbc_politics_174.txt|.|1
+information laws|.|bbc_politics_002.txt|.|2
+educated|.|bbc_politics_172.txt|.|1
+attempt to sell|.|bbc_politics_006.txt|.|3
+chair an inquiry|.|bbc_politics_211.txt|.|1
+letwin said|.|bbc_politics_374.txt|.|3|.|bbc_politics_360.txt|.|2
+make that decision|.|bbc_politics_174.txt|.|2
+said police|.|bbc_politics_134.txt|.|2
+populist|.|bbc_politics_036.txt|.|2
+stance|.|bbc_politics_405.txt|.|3
+new licensing|.|bbc_politics_165.txt|.|2
+reported views|.|bbc_politics_286.txt|.|2|.|bbc_politics_125.txt|.|2

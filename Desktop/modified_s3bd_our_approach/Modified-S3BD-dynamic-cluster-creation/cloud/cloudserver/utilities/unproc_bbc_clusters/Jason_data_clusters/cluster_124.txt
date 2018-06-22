@@ -1,0 +1,38 @@
+124
+compare arai|.|WET1343.txt|.|9
+reviews compare|.|WET1956.txt|.|14
+compare|.|WET1568.txt|.|345|.|WET5804.txt|.|114|.|WET3270.txt|.|47|.|WET1956.txt|.|53|.|WET5316.txt|.|240|.|WET3574.txt|.|41|.|WET4615.txt|.|33|.|WET1725.txt|.|29|.|WET3260.txt|.|20|.|WET5710.txt|.|9|.|WET1952.txt|.|48|.|WET2838.txt|.|23|.|WET5606.txt|.|45|.|WET3354.txt|.|323|.|WET5663.txt|.|80|.|WET1214.txt|.|19|.|WET5467.txt|.|51|.|WET1796.txt|.|20|.|WET1343.txt|.|50|.|WET1923.txt|.|103|.|WET2726.txt|.|98|.|WET1724.txt|.|35|.|WET5605.txt|.|57
+electric vehicles|.|WET5606.txt|.|8
+qvc price|.|WET2726.txt|.|96
+sterling|.|WET3354.txt|.|147
+artamanti|.|WET3574.txt|.|9
+follow overview|.|WET1956.txt|.|5
+compare amanti|.|WET3574.txt|.|9
+compare side|.|WET5606.txt|.|24|.|WET5605.txt|.|42
+quick look|.|WET1568.txt|.|345|.|WET2851.txt|.|60|.|WET2373.txt|.|20|.|WET5316.txt|.|240
+sterling silver|.|WET3354.txt|.|146
+bulbs|.|WET5663.txt|.|62
+public district|.|WET1956.txt|.|39
+artamanti art|.|WET3574.txt|.|9
+attendance zone|.|WET1956.txt|.|4
+protective gear|.|WET1343.txt|.|5
+featured price|.|WET2726.txt|.|94
+gold silver stainless|.|WET3354.txt|.|33
+stools|.|WET5316.txt|.|61
+pearl|.|WET3354.txt|.|108|.|WET2175.txt|.|10
+compared|.|WET1568.txt|.|345|.|WET5316.txt|.|240
+estimates|.|WET3712.txt|.|52|.|WET5605.txt|.|30
+scraped|.|WET5804.txt|.|46
+amanti artamanti|.|WET3574.txt|.|9
+efficient|.|WET5605.txt|.|14
+look|.|WET1568.txt|.|347|.|WET2851.txt|.|60|.|WET2373.txt|.|22|.|WET5651.txt|.|51|.|WET489.txt|.|6|.|WET5315.txt|.|111|.|WET5940.txt|.|10|.|WET5316.txt|.|244|.|WET5141.txt|.|23
+stainless|.|WET3354.txt|.|41|.|WET2994.txt|.|52|.|WET5477.txt|.|30
+rated|.|WET1568.txt|.|83|.|WET1825.txt|.|12|.|WET3616.txt|.|36|.|WET3079.txt|.|34|.|WET2793.txt|.|6|.|WET1029.txt|.|54|.|WET5316.txt|.|74|.|WET2456.txt|.|31|.|WET5078.txt|.|42|.|WET1327.txt|.|32
+arai|.|WET1343.txt|.|10
+orig|.|WET3354.txt|.|280
+pillows|.|WET5316.txt|.|64
+styles|.|WET3354.txt|.|72|.|WET3554.txt|.|23
+candle holders|.|WET1568.txt|.|46
+collect|.|WET2838.txt|.|25|.|WET2902.txt|.|11
+earrings|.|WET3354.txt|.|154|.|WET1800.txt|.|34
+compare view|.|WET1568.txt|.|345|.|WET5316.txt|.|240

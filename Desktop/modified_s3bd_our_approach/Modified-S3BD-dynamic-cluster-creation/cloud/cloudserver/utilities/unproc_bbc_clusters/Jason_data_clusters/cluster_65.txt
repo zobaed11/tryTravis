@@ -1,0 +1,38 @@
+65
+hewlett packard|.|WET5286.txt|.|1
+data plan|.|WET1688.txt|.|12
+horse racing|.|WET2028.txt|.|73|.|WET5966.txt|.|16|.|WET2029.txt|.|22
+verizon|.|WET1688.txt|.|49|.|WET2649.txt|.|325
+alcatel onetouch|.|WET2650.txt|.|22
+lid sinds|.|WET4850.txt|.|19
+data|.|WET4048.txt|.|5|.|WET4883.txt|.|34|.|WET889.txt|.|56|.|WET5844.txt|.|32|.|WET1048.txt|.|5|.|WET4115.txt|.|55|.|WET1688.txt|.|112|.|WET1849.txt|.|7|.|WET2203.txt|.|35|.|WET3838.txt|.|62|.|WET6077.txt|.|33|.|WET5845.txt|.|114|.|WET4486.txt|.|234
+bekijk profiel|.|WET4850.txt|.|17
+sprint|.|WET1118.txt|.|20|.|WET2649.txt|.|144
+bestellung vom|.|WET3508.txt|.|50
+trek|.|WET5404.txt|.|51|.|WET1656.txt|.|385
+maghreb|.|WET5784.txt|.|7
+zimbabwe all countries|.|WET240.txt|.|30
+onetouch|.|WET2650.txt|.|22
+profiel|.|WET4850.txt|.|17
+alcatel|.|WET2650.txt|.|45
+kerja|.|WET2148.txt|.|27
+bekijk|.|WET4850.txt|.|17
+nokia|.|WET2649.txt|.|601
+norwegian polish portuguese|.|WET704.txt|.|11
+maxis|.|WET3773.txt|.|84
+results found|.|WET923.txt|.|11|.|WET4660.txt|.|10|.|WET2944.txt|.|9
+grub street|.|WET713.txt|.|52
+voor|.|WET1100.txt|.|31
+match centre|.|WET1849.txt|.|536|.|WET5585.txt|.|268
+eol community|.|WET342.txt|.|11
+bike rack|.|WET2730.txt|.|43
+processor|.|WET4000.txt|.|24|.|WET2548.txt|.|10
+hewlett|.|WET5286.txt|.|1
+giant slalom|.|WET3016.txt|.|10
+refers|.|WET3413.txt|.|1|.|WET826.txt|.|1|.|WET5866.txt|.|12|.|WET1516.txt|.|2|.|WET3460.txt|.|2|.|WET3301.txt|.|5|.|WET4643.txt|.|1
+phone|.|WET2616.txt|.|49|.|WET2875.txt|.|12|.|WET4000.txt|.|84|.|WET3773.txt|.|96|.|WET3571.txt|.|25|.|WET2649.txt|.|1279|.|WET2650.txt|.|692|.|WET2944.txt|.|27|.|WET6130.txt|.|21|.|WET3301.txt|.|127|.|WET5286.txt|.|71|.|WET1286.txt|.|70|.|WET1100.txt|.|56|.|WET1688.txt|.|110|.|WET3359.txt|.|32|.|WET3717.txt|.|75|.|WET1170.txt|.|29|.|WET4850.txt|.|32|.|WET3601.txt|.|8
+notebooks|.|WET2617.txt|.|8
+motorola|.|WET1746.txt|.|15|.|WET2649.txt|.|768|.|WET2650.txt|.|375
+toa levacius|.|WET1400.txt|.|16
+soap|.|WET4006.txt|.|68|.|WET1260.txt|.|124
+shutdown|.|WET5262.txt|.|22

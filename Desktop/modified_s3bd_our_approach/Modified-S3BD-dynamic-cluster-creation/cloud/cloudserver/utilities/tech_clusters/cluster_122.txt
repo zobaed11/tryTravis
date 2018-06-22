@@ -1,0 +1,17 @@
+122
+firm cec|.|261.txt|.|2
+browsing|.|085.txt|.|2
+search engines|.|168.txt|.|3|.|081.txt|.|5|.|393.txt|.|5|.|213.txt|.|2|.|267.txt|.|1
+pew research|.|081.txt|.|2|.|393.txt|.|2
+google released|.|108.txt|.|1
+msn search|.|053.txt|.|3
+query|.|076.txt|.|2
+changes|.|062.txt|.|1|.|318.txt|.|1
+impairments|.|261.txt|.|2
+specific queries|.|053.txt|.|2
+amazon|.|168.txt|.|2
+search|.|269.txt|.|12|.|237.txt|.|8|.|076.txt|.|11|.|062.txt|.|5|.|232.txt|.|5|.|081.txt|.|14|.|393.txt|.|14|.|261.txt|.|10|.|213.txt|.|15|.|267.txt|.|16|.|053.txt|.|13|.|010.txt|.|2|.|085.txt|.|6|.|168.txt|.|5|.|318.txt|.|5|.|108.txt|.|19
+search engine users|.|081.txt|.|2|.|393.txt|.|2
+engines|.|168.txt|.|3|.|081.txt|.|6|.|393.txt|.|6|.|213.txt|.|2|.|267.txt|.|1
+test versions|.|053.txt|.|1
+search site|.|053.txt|.|2

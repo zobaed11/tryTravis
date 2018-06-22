@@ -1,0 +1,64 @@
+jet fuel tax|.|bbc_business_075.txt|.|2
+drop the plans|.|bbc_politics_204.txt|.|1
+couple|.|bbc_politics_104.txt|.|3|.|bbc_sport_458.txt|.|2
+increased funds|.|bbc_politics_101.txt|.|1
+prison service|.|bbc_politics_204.txt|.|3
+new initiatives|.|bbc_politics_241.txt|.|2
+reasonable|.|bbc_politics_101.txt|.|5
+shift|.|bbc_politics_270.txt|.|1
+tax pledge|.|bbc_politics_270.txt|.|1
+demise|.|bbc_entertainment_031.txt|.|2
+fuel tax|.|bbc_business_075.txt|.|2
+aston martin|.|bbc_business_105.txt|.|2
+tory tax|.|bbc_politics_344.txt|.|2|.|bbc_politics_275.txt|.|2
+councils should set their taxes|.|bbc_politics_101.txt|.|1
+imanol harinordoquy|.|bbc_sport_287.txt|.|2
+disappointed|.|bbc_business_307.txt|.|1|.|bbc_sport_086.txt|.|2
+eu ministers|.|bbc_business_075.txt|.|2
+councils should set|.|bbc_politics_101.txt|.|1
+pop band busted|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+karachi stocks|.|bbc_business_428.txt|.|1
+finish|.|bbc_sport_042.txt|.|2|.|bbc_sport_183.txt|.|2
+rapper snoop dogg|.|bbc_entertainment_115.txt|.|2
+helped|.|bbc_tech_023.txt|.|2
+morrow|.|bbc_business_234.txt|.|2
+sturgeon said|.|bbc_politics_098.txt|.|2
+rem|.|bbc_entertainment_287.txt|.|3|.|bbc_entertainment_118.txt|.|4
+adb|.|bbc_business_434.txt|.|7
+gifts|.|bbc_business_268.txt|.|8|.|bbc_tech_235.txt|.|1
+italian stock|.|bbc_business_048.txt|.|2
+india and russia|.|bbc_business_181.txt|.|3
+jowell|.|bbc_politics_133.txt|.|5|.|bbc_politics_187.txt|.|2|.|bbc_politics_377.txt|.|2
+current powers|.|bbc_politics_072.txt|.|2
+zambia|.|bbc_sport_215.txt|.|3
+peacefully|.|bbc_politics_119.txt|.|2
+council|.|bbc_tech_013.txt|.|2|.|bbc_politics_128.txt|.|2|.|bbc_politics_357.txt|.|5|.|bbc_politics_317.txt|.|8|.|bbc_politics_358.txt|.|2|.|bbc_politics_241.txt|.|5|.|bbc_entertainment_010.txt|.|2|.|bbc_politics_375.txt|.|3|.|bbc_politics_362.txt|.|2|.|bbc_entertainment_371.txt|.|3|.|bbc_politics_101.txt|.|14|.|bbc_politics_061.txt|.|4|.|bbc_politics_244.txt|.|2|.|bbc_entertainment_351.txt|.|2|.|bbc_politics_231.txt|.|2|.|bbc_politics_363.txt|.|4|.|bbc_politics_387.txt|.|3|.|bbc_entertainment_210.txt|.|3
+tax enforcement|.|bbc_business_266.txt|.|3
+lib dems|.|bbc_politics_301.txt|.|6|.|bbc_politics_403.txt|.|2|.|bbc_politics_272.txt|.|4|.|bbc_politics_102.txt|.|1|.|bbc_politics_396.txt|.|3|.|bbc_politics_213.txt|.|5|.|bbc_politics_085.txt|.|1|.|bbc_politics_269.txt|.|2|.|bbc_politics_300.txt|.|1|.|bbc_politics_141.txt|.|1|.|bbc_politics_340.txt|.|3|.|bbc_politics_339.txt|.|6|.|bbc_politics_387.txt|.|2|.|bbc_politics_361.txt|.|2|.|bbc_politics_398.txt|.|3|.|bbc_politics_223.txt|.|2|.|bbc_politics_070.txt|.|2|.|bbc_politics_338.txt|.|4|.|bbc_politics_235.txt|.|2|.|bbc_politics_014.txt|.|2|.|bbc_politics_341.txt|.|2|.|bbc_politics_182.txt|.|2|.|bbc_politics_417.txt|.|2|.|bbc_politics_054.txt|.|3|.|bbc_politics_283.txt|.|3|.|bbc_politics_002.txt|.|1
+grand jury|.|bbc_entertainment_336.txt|.|3
+tax cuts|.|bbc_politics_374.txt|.|2|.|bbc_politics_344.txt|.|4|.|bbc_business_055.txt|.|3|.|bbc_politics_275.txt|.|5|.|bbc_politics_270.txt|.|6
+income tax|.|bbc_business_055.txt|.|2
+exchange|.|bbc_business_454.txt|.|4|.|bbc_business_220.txt|.|3|.|bbc_business_264.txt|.|3|.|bbc_business_171.txt|.|3|.|bbc_business_269.txt|.|2|.|bbc_business_279.txt|.|4|.|bbc_business_392.txt|.|4|.|bbc_business_260.txt|.|2|.|bbc_business_261.txt|.|2|.|bbc_business_150.txt|.|3|.|bbc_business_048.txt|.|2
+tory mp|.|bbc_politics_410.txt|.|2
+essex|.|bbc_politics_101.txt|.|4
+rifle|.|bbc_tech_202.txt|.|6
+messages sent|.|bbc_tech_152.txt|.|3|.|bbc_tech_273.txt|.|3
+us bankruptcy|.|bbc_business_299.txt|.|2
+tax rises|.|bbc_politics_128.txt|.|2|.|bbc_politics_101.txt|.|2
+fairer|.|bbc_politics_317.txt|.|2
+cebit|.|bbc_tech_347.txt|.|9|.|bbc_tech_395.txt|.|5
+polls|.|bbc_politics_398.txt|.|1|.|bbc_politics_270.txt|.|2|.|bbc_politics_414.txt|.|1
+public|.|bbc_politics_188.txt|.|2|.|bbc_politics_344.txt|.|3|.|bbc_politics_264.txt|.|2|.|bbc_entertainment_121.txt|.|3|.|bbc_politics_234.txt|.|4|.|bbc_politics_042.txt|.|7|.|bbc_tech_236.txt|.|4|.|bbc_politics_211.txt|.|4|.|bbc_politics_233.txt|.|5|.|bbc_politics_069.txt|.|6|.|bbc_politics_099.txt|.|2|.|bbc_politics_175.txt|.|3|.|bbc_politics_387.txt|.|3|.|bbc_politics_294.txt|.|4|.|bbc_politics_242.txt|.|4|.|bbc_entertainment_269.txt|.|2|.|bbc_politics_312.txt|.|6|.|bbc_politics_279.txt|.|3|.|bbc_business_240.txt|.|2|.|bbc_business_267.txt|.|3|.|bbc_sport_040.txt|.|3|.|bbc_tech_191.txt|.|9|.|bbc_politics_414.txt|.|3|.|bbc_politics_122.txt|.|3|.|bbc_business_365.txt|.|3|.|bbc_politics_050.txt|.|7|.|bbc_politics_248.txt|.|2|.|bbc_business_389.txt|.|5|.|bbc_politics_066.txt|.|2|.|bbc_business_214.txt|.|2|.|bbc_business_355.txt|.|2|.|bbc_politics_311.txt|.|6|.|bbc_politics_270.txt|.|2|.|bbc_entertainment_108.txt|.|2|.|bbc_entertainment_020.txt|.|2|.|bbc_politics_404.txt|.|5
+finally be enough to shift|.|bbc_politics_270.txt|.|1
+tory tax cuts|.|bbc_politics_344.txt|.|2
+council tax rises|.|bbc_politics_101.txt|.|2
+reasonable levels|.|bbc_politics_101.txt|.|4
+owner|.|bbc_business_003.txt|.|1|.|bbc_business_318.txt|.|2|.|bbc_business_155.txt|.|2|.|bbc_business_127.txt|.|2
+essex said|.|bbc_politics_101.txt|.|3
+democrats|.|bbc_politics_247.txt|.|1|.|bbc_politics_146.txt|.|2|.|bbc_politics_272.txt|.|4|.|bbc_politics_036.txt|.|2|.|bbc_politics_275.txt|.|2|.|bbc_politics_417.txt|.|2|.|bbc_politics_054.txt|.|3|.|bbc_politics_416.txt|.|4|.|bbc_politics_335.txt|.|3|.|bbc_politics_322.txt|.|2
+authors say|.|bbc_business_266.txt|.|2
+tax rebate|.|bbc_politics_363.txt|.|2
+good deal|.|bbc_politics_101.txt|.|2
+us bankruptcy court|.|bbc_business_299.txt|.|1
+coming|.|bbc_tech_170.txt|.|2|.|bbc_politics_382.txt|.|2|.|bbc_politics_241.txt|.|2|.|bbc_politics_122.txt|.|3
+register|.|bbc_politics_079.txt|.|7|.|bbc_politics_412.txt|.|2|.|bbc_politics_320.txt|.|5

@@ -1,0 +1,17 @@
+94
+continental|.|389.txt|.|2|.|234.txt|.|2
+gartner analyst|.|389.txt|.|1|.|234.txt|.|1
+crystal|.|131.txt|.|3|.|179.txt|.|3
+crystal harmony|.|131.txt|.|2|.|179.txt|.|2
+extras|.|348.txt|.|2
+amplify|.|329.txt|.|3|.|019.txt|.|3
+research|.|389.txt|.|3|.|085.txt|.|2|.|166.txt|.|3|.|234.txt|.|3|.|081.txt|.|3|.|158.txt|.|4|.|393.txt|.|3|.|146.txt|.|4|.|165.txt|.|3
+messaging|.|287.txt|.|2|.|372.txt|.|2
+sending pictures|.|389.txt|.|1|.|234.txt|.|1
+continental research|.|389.txt|.|2|.|234.txt|.|2
+world|.|005.txt|.|3|.|090.txt|.|9|.|283.txt|.|3|.|312.txt|.|9|.|033.txt|.|7|.|107.txt|.|4|.|200.txt|.|4|.|131.txt|.|1|.|179.txt|.|1|.|244.txt|.|5|.|274.txt|.|6|.|236.txt|.|4|.|199.txt|.|4
+library|.|236.txt|.|5|.|279.txt|.|1|.|302.txt|.|1|.|204.txt|.|11
+mobiles|.|181.txt|.|2|.|289.txt|.|3|.|287.txt|.|4|.|344.txt|.|2|.|103.txt|.|6|.|098.txt|.|3|.|388.txt|.|6|.|265.txt|.|4|.|347.txt|.|4|.|372.txt|.|4
+sms|.|142.txt|.|4
+analyst|.|389.txt|.|1|.|234.txt|.|1|.|242.txt|.|1
+sending|.|389.txt|.|3|.|234.txt|.|3

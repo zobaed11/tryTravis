@@ -1,0 +1,17 @@
+119
+dvd formats|.|219.txt|.|1|.|224.txt|.|1
+big|.|319.txt|.|2
+console|.|203.txt|.|2|.|084.txt|.|5|.|238.txt|.|4|.|317.txt|.|3|.|363.txt|.|3|.|025.txt|.|3
+portable computing|.|379.txt|.|1
+formats|.|219.txt|.|1|.|224.txt|.|1
+technology backed|.|219.txt|.|1|.|224.txt|.|1
+sells|.|238.txt|.|1|.|160.txt|.|1
+staff|.|111.txt|.|2
+backs sony|.|219.txt|.|1|.|224.txt|.|1
+sony|.|396.txt|.|2|.|317.txt|.|5|.|111.txt|.|5|.|379.txt|.|5|.|319.txt|.|5|.|025.txt|.|5|.|224.txt|.|5|.|018.txt|.|4|.|341.txt|.|1|.|219.txt|.|5|.|112.txt|.|2|.|238.txt|.|3|.|320.txt|.|1|.|190.txt|.|2|.|045.txt|.|1|.|052.txt|.|3
+places|.|112.txt|.|1
+backs sony dvd technology|.|219.txt|.|1|.|224.txt|.|1
+pc pro awards|.|111.txt|.|1
+prizes|.|046.txt|.|2|.|111.txt|.|1
+disc|.|219.txt|.|2|.|224.txt|.|2
+dominance|.|319.txt|.|3

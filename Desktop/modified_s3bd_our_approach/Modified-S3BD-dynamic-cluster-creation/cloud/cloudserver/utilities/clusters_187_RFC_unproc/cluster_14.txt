@@ -1,0 +1,120 @@
+backup|.|rfc5614.txt|.|140|.|rfc5798.txt|.|50|.|rfc2178.txt|.|115|.|rfc4561.txt|.|34|.|rfc4090.txt|.|163
+tlvs|.|rfc4971.txt|.|10|.|rfc5308.txt|.|9|.|rfc5311.txt|.|24|.|rfc4920.txt|.|60|.|rfc4420.txt|.|22
+crankback information|.|rfc4920.txt|.|47
+establishing|.|rfc3212.txt|.|4
+secondary lsp|.|rfc4872.txt|.|37
+detour lsp|.|rfc4090.txt|.|16
+ippm metrics for measuring|.|rfc2678.txt|.|10
+patherr message|.|rfc5710.txt|.|11
+extended lsps|.|rfc3786.txt|.|28|.|rfc5311.txt|.|33
+lsp set|.|rfc5311.txt|.|20
+diverse lsps|.|rfc5298.txt|.|14
+diverse|.|rfc5298.txt|.|45
+chinese lottery cryptanalysis|.|rfc3607.txt|.|8
+starting router|.|rfc5306.txt|.|21|.|rfc3847.txt|.|21
+restoration lsp|.|rfc4428.txt|.|16
+span recovery|.|rfc4427.txt|.|10
+cpu minutes|.|rfc450.txt|.|1
+explicit route|.|rfc2430.txt|.|17|.|rfc3212.txt|.|26|.|rfc3209.txt|.|43
+facility backup method|.|rfc4090.txt|.|12
+lsp modification|.|rfc3214.txt|.|18
+byte|.|rfc4814.txt|.|16|.|rfc2301.txt|.|68|.|rfc354.txt|.|66|.|rfc1991.txt|.|74|.|rfc176.txt|.|52|.|rfc148.txt|.|2|.|rfc107.txt|.|26|.|rfc4737.txt|.|18|.|rfc22.txt|.|4|.|rfc4828.txt|.|127|.|rfc5285.txt|.|11|.|rfc454.txt|.|68|.|rfc128.txt|.|7|.|rfc3949.txt|.|72|.|rfc493.txt|.|36|.|rfc3408.txt|.|6|.|rfc2144.txt|.|4|.|rfc292.txt|.|14
+inter|.|rfc5152.txt|.|4|.|rfc4216.txt|.|1|.|rfc2740.txt|.|4|.|rfc5773.txt|.|8|.|rfc5623.txt|.|6|.|rfc3221.txt|.|6|.|rfc5340.txt|.|4|.|rfc5457.txt|.|1|.|rfc2519.txt|.|1|.|rfc5151.txt|.|1|.|rfc441.txt|.|1|.|rfc142.txt|.|2|.|rfc5441.txt|.|3|.|rfc5468.txt|.|2|.|rfc4105.txt|.|2|.|rfc4927.txt|.|2|.|rfc413.txt|.|3|.|rfc5302.txt|.|1|.|rfc4674.txt|.|6|.|rfc4726.txt|.|1
+recovery mechanisms|.|rfc3469.txt|.|22|.|rfc4428.txt|.|80
+group jon|.|rfc236.txt|.|2|.|rfc229.txt|.|3
+crankback re|.|rfc4920.txt|.|1
+naylor|.|rfc619.txt|.|16
+rro|.|rfc4561.txt|.|27|.|rfc3209.txt|.|57|.|rfc4420.txt|.|25
+secondary|.|rfc2701.txt|.|14|.|rfc4872.txt|.|80|.|rfc625.txt|.|2|.|rfc2182.txt|.|48
+universite|.|rfc631.txt|.|2
+intec|.|rfc5221.txt|.|4
+service classes|.|rfc5127.txt|.|72
+registration template|.|rfc6117.txt|.|22
+sampling timeout|.|rfc450.txt|.|1
+managers|.|rfc4052.txt|.|8|.|rfc2768.txt|.|18
+bit administrative|.|rfc5130.txt|.|7
+graceful release|.|rfc5814.txt|.|35
+types registration|.|rfc3848.txt|.|4
+lsp mtu|.|rfc3988.txt|.|29
+backup lsp|.|rfc4090.txt|.|21
+border node|.|rfc5151.txt|.|37|.|rfc2457.txt|.|38
+atm pw|.|rfc5605.txt|.|62
+mpls lsp|.|rfc5884.txt|.|24
+ladder network|.|rfc5439.txt|.|13
+stitching|.|rfc5150.txt|.|94
+loosely routed|.|rfc4736.txt|.|29
+resv messages|.|rfc4873.txt|.|14|.|rfc2961.txt|.|10
+local repair|.|rfc4090.txt|.|27
+sub lsp|.|rfc4875.txt|.|1
+detection|.|rfc6290.txt|.|30|.|rfc5265.txt|.|37|.|rfc6213.txt|.|6|.|rfc5227.txt|.|48|.|rfc5885.txt|.|35|.|rfc4766.txt|.|16|.|rfc3409.txt|.|15|.|rfc3522.txt|.|46|.|rfc3067.txt|.|6|.|rfc6045.txt|.|17|.|rfc3917.txt|.|9|.|rfc6274.txt|.|17|.|rfc5393.txt|.|20|.|rfc5209.txt|.|8|.|rfc4765.txt|.|45|.|rfc5884.txt|.|43|.|rfc1971.txt|.|44|.|rfc512.txt|.|2|.|rfc5881.txt|.|11|.|rfc516.txt|.|2|.|rfc635.txt|.|8|.|rfc3883.txt|.|5|.|rfc4030.txt|.|27|.|rfc534.txt|.|3|.|rfc4767.txt|.|19
+lsp control block|.|rfc3215.txt|.|144
+restart|.|rfc3623.txt|.|103|.|rfc5187.txt|.|27|.|rfc3478.txt|.|61|.|rfc3612.txt|.|27|.|rfc4167.txt|.|24|.|rfc5306.txt|.|89|.|rfc4781.txt|.|61|.|rfc5847.txt|.|25|.|rfc5495.txt|.|59|.|rfc4812.txt|.|14|.|rfc3847.txt|.|87|.|rfc5882.txt|.|39|.|rfc4724.txt|.|91
+protected lsp|.|rfc4090.txt|.|99
+lsp lsp|.|rfc5150.txt|.|7
+ldp state machine|.|rfc3215.txt|.|78
+standard functions|.|rfc349.txt|.|2|.|rfc503.txt|.|2
+ldp and atm|.|rfc3035.txt|.|20
+local coordination|.|rfc3259.txt|.|42
+calls|.|rfc5079.txt|.|8|.|rfc4974.txt|.|43|.|rfc15.txt|.|2|.|rfc2806.txt|.|42
+imip|.|rfc6047.txt|.|43|.|rfc2447.txt|.|28
+metasyntactic|.|rfc3092.txt|.|7
+lsp tunnels|.|rfc3210.txt|.|8|.|rfc3209.txt|.|83
+communities|.|rfc4384.txt|.|45|.|rfc4360.txt|.|46|.|rfc1997.txt|.|22|.|rfc5701.txt|.|10
+additional system|.|rfc5311.txt|.|3
+error value|.|rfc5710.txt|.|12|.|rfc3209.txt|.|18
+auto|.|rfc2563.txt|.|4|.|rfc6133.txt|.|16|.|rfc5523.txt|.|1|.|rfc3636.txt|.|1|.|rfc5252.txt|.|1|.|rfc4664.txt|.|3|.|rfc5436.txt|.|1|.|rfc4836.txt|.|8|.|rfc5251.txt|.|3|.|rfc4761.txt|.|3|.|rfc5195.txt|.|1
+capital|.|rfc1947.txt|.|38|.|rfc5892.txt|.|569
+rsvp te|.|rfc5151.txt|.|1|.|rfc3476.txt|.|1|.|rfc4920.txt|.|2|.|rfc3473.txt|.|1
+mtu signalling|.|rfc3988.txt|.|11
+setup delay|.|rfc5814.txt|.|134
+domain border|.|rfc5151.txt|.|63
+hop tlv|.|rfc3212.txt|.|4
+fa lsp|.|rfc5339.txt|.|1|.|rfc4206.txt|.|3
+lsp state|.|rfc5439.txt|.|25
+control block|.|rfc3215.txt|.|233|.|rfc2140.txt|.|14
+scaling techniques|.|rfc5439.txt|.|3
+operation mode|.|rfc3786.txt|.|12
+re routing|.|rfc4920.txt|.|2
+check|.|rfc5170.txt|.|29|.|rfc4720.txt|.|11|.|rfc4621.txt|.|28|.|rfc4555.txt|.|17|.|rfc3505.txt|.|6|.|rfc5245.txt|.|257|.|rfc4644.txt|.|33
+spinellis|.|rfc1947.txt|.|10
+link state pdu|.|rfc5311.txt|.|4
+protection type|.|rfc4205.txt|.|8|.|rfc4872.txt|.|35
+discovery and resource|.|rfc4257.txt|.|2
+bidirectional lsp|.|rfc5467.txt|.|21|.|rfc5814.txt|.|39
+lsp recovery|.|rfc4920.txt|.|14
+cryptographic hash|.|rfc4843.txt|.|21|.|rfc2104.txt|.|11
+handover april|.|rfc5852.txt|.|22
+supposed|.|rfc328.txt|.|2
+lsp setup|.|rfc3213.txt|.|8|.|rfc5814.txt|.|104|.|rfc3475.txt|.|4
+protecting lsp|.|rfc4872.txt|.|114
+contiguous|.|rfc5151.txt|.|31
+multiple unidirectional|.|rfc5814.txt|.|32
+applied|.|rfc2186.txt|.|5
+working lsp|.|rfc5298.txt|.|48|.|rfc4872.txt|.|59
+simplified extension|.|rfc5311.txt|.|12
+lsp|.|rfc4655.txt|.|48|.|rfc3214.txt|.|58|.|rfc4257.txt|.|37|.|rfc5150.txt|.|235|.|rfc4736.txt|.|61|.|rfc4206.txt|.|73|.|rfc4974.txt|.|39|.|rfc5710.txt|.|38|.|rfc3353.txt|.|35|.|rfc3786.txt|.|81|.|rfc5151.txt|.|130|.|rfc4247.txt|.|16|.|rfc4972.txt|.|18|.|rfc4379.txt|.|54|.|rfc4875.txt|.|236|.|rfc3213.txt|.|17|.|rfc5718.txt|.|9|.|rfc5311.txt|.|77|.|rfc4328.txt|.|39|.|rfc4726.txt|.|81|.|rfc5884.txt|.|90|.|rfc4216.txt|.|41|.|rfc3212.txt|.|73|.|rfc5814.txt|.|277|.|rfc5623.txt|.|124|.|rfc4920.txt|.|109|.|rfc5212.txt|.|72|.|rfc5586.txt|.|23|.|rfc6060.txt|.|10|.|rfc4105.txt|.|62|.|rfc5298.txt|.|182|.|rfc4090.txt|.|210|.|rfc3475.txt|.|4|.|rfc4803.txt|.|24|.|rfc5439.txt|.|96|.|rfc5146.txt|.|30|.|rfc4561.txt|.|27|.|rfc5251.txt|.|39|.|rfc4872.txt|.|455|.|rfc5420.txt|.|65|.|rfc5306.txt|.|37|.|rfc3210.txt|.|9|.|rfc5376.txt|.|17|.|rfc5862.txt|.|16|.|rfc3209.txt|.|160|.|rfc3473.txt|.|40|.|rfc5330.txt|.|33|.|rfc5152.txt|.|122|.|rfc5852.txt|.|84|.|rfc5467.txt|.|28|.|rfc5440.txt|.|48|.|rfc4428.txt|.|165|.|rfc4461.txt|.|124|.|rfc5712.txt|.|53|.|rfc3215.txt|.|314|.|rfc4427.txt|.|61|.|rfc5441.txt|.|34|.|rfc4873.txt|.|168|.|rfc5339.txt|.|48|.|rfc3988.txt|.|58|.|rfc3847.txt|.|37|.|rfc5711.txt|.|25
+contiguous lsp|.|rfc5151.txt|.|18
+reroutes|.|rfc5710.txt|.|13
+reconfigure|.|rfc3203.txt|.|7
+handover procedure|.|rfc5852.txt|.|26
+sub group|.|rfc4875.txt|.|5
+ldp state|.|rfc3215.txt|.|79
+cr lsp|.|rfc3212.txt|.|2
+gmpls segment recovery|.|rfc4873.txt|.|25
+lsp stitching|.|rfc5150.txt|.|57
+lsp reroutes|.|rfc5710.txt|.|12
+gmpls recovery mechanisms|.|rfc4428.txt|.|46
+routed|.|rfc2583.txt|.|24|.|rfc4736.txt|.|29|.|rfc2684.txt|.|35
+er hop|.|rfc3212.txt|.|2
+lsp attributes|.|rfc5420.txt|.|15
+lsp segment|.|rfc4873.txt|.|23
+lottery cryptanalysis|.|rfc3607.txt|.|8
+recovery lsp|.|rfc4873.txt|.|67|.|rfc5298.txt|.|46
+intermediate nodes|.|rfc4427.txt|.|6|.|rfc4182.txt|.|3
+auto discovery|.|rfc5523.txt|.|1|.|rfc5252.txt|.|1|.|rfc4664.txt|.|3|.|rfc5251.txt|.|3|.|rfc4761.txt|.|3|.|rfc5195.txt|.|1
+lsps|.|rfc5439.txt|.|223|.|rfc5146.txt|.|28|.|rfc6006.txt|.|49|.|rfc4829.txt|.|133|.|rfc5420.txt|.|26|.|rfc3786.txt|.|56|.|rfc5817.txt|.|10|.|rfc5283.txt|.|31|.|rfc5468.txt|.|33|.|rfc5862.txt|.|16|.|rfc5298.txt|.|63|.|rfc6107.txt|.|27|.|rfc5311.txt|.|50|.|rfc5557.txt|.|66|.|rfc3473.txt|.|20
+path messages|.|rfc4090.txt|.|29
+originating system|.|rfc3786.txt|.|30|.|rfc5311.txt|.|26
+lsp hierarchy|.|rfc4206.txt|.|14
+asymmetric bandwidth|.|rfc5467.txt|.|34
+withdraw|.|rfc3215.txt|.|40|.|rfc4447.txt|.|20

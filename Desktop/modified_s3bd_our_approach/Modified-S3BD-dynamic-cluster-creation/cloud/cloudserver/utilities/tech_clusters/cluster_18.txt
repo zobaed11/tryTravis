@@ -1,0 +1,17 @@
+18
+children were given laptop|.|004.txt|.|1|.|063.txt|.|1
+pacific assault|.|288.txt|.|5
+forehead|.|209.txt|.|3
+ds console|.|238.txt|.|2
+march|.|084.txt|.|2|.|238.txt|.|1|.|317.txt|.|3|.|025.txt|.|3
+foreign|.|384.txt|.|9
+movies|.|183.txt|.|2|.|345.txt|.|5
+announced|.|084.txt|.|2|.|088.txt|.|2|.|345.txt|.|2
+loss|.|207.txt|.|2
+jedi|.|125.txt|.|1
+qrio|.|356.txt|.|4
+new seafarers|.|131.txt|.|1|.|179.txt|.|1
+price|.|264.txt|.|3|.|084.txt|.|3|.|247.txt|.|1|.|235.txt|.|3|.|242.txt|.|1|.|037.txt|.|1|.|333.txt|.|1
+lost|.|069.txt|.|5
+company|.|390.txt|.|4|.|065.txt|.|2|.|084.txt|.|2|.|024.txt|.|3
+word|.|151.txt|.|7|.|086.txt|.|5

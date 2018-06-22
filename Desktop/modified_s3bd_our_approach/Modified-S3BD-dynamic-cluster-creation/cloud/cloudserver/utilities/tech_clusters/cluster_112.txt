@@ -1,0 +1,17 @@
+112
+donated|.|200.txt|.|2
+gaming|.|192.txt|.|6|.|221.txt|.|5|.|317.txt|.|3|.|351.txt|.|2|.|025.txt|.|3|.|359.txt|.|5|.|185.txt|.|5|.|244.txt|.|5|.|274.txt|.|3|.|153.txt|.|5|.|363.txt|.|6|.|054.txt|.|1|.|309.txt|.|4|.|134.txt|.|3
+test results|.|173.txt|.|2
+soviet republics|.|001.txt|.|1
+old|.|354.txt|.|3|.|240.txt|.|2|.|017.txt|.|6
+overcome|.|019.txt|.|2
+entertainment device|.|363.txt|.|2
+tournament|.|274.txt|.|6
+india|.|192.txt|.|8|.|242.txt|.|2
+online gaming|.|221.txt|.|4
+traffic explosion|.|221.txt|.|2
+world tour|.|274.txt|.|6
+austria|.|365.txt|.|4
+thousands of products and tens|.|395.txt|.|1
+brand|.|128.txt|.|5|.|209.txt|.|2|.|374.txt|.|5
+device|.|185.txt|.|5|.|153.txt|.|5|.|229.txt|.|3|.|363.txt|.|5

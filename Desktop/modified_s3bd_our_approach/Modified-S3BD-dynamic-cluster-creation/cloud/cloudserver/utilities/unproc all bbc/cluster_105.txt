@@ -1,0 +1,64 @@
+internet and american|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+music and films|.|bbc_tech_279.txt|.|1|.|bbc_tech_302.txt|.|1
+uk gamers|.|bbc_tech_140.txt|.|2
+painkiller|.|bbc_tech_140.txt|.|9
+american|.|bbc_business_466.txt|.|4|.|bbc_entertainment_053.txt|.|2|.|bbc_tech_047.txt|.|3|.|bbc_entertainment_219.txt|.|4|.|bbc_business_280.txt|.|4|.|bbc_business_437.txt|.|2|.|bbc_sport_446.txt|.|4|.|bbc_tech_327.txt|.|3|.|bbc_entertainment_325.txt|.|4|.|bbc_sport_480.txt|.|2
+wales sport|.|bbc_sport_316.txt|.|2
+ipod|.|bbc_tech_127.txt|.|6|.|bbc_tech_332.txt|.|5|.|bbc_tech_110.txt|.|4|.|bbc_tech_040.txt|.|5|.|bbc_tech_148.txt|.|5|.|bbc_tech_172.txt|.|6
+entropia|.|bbc_tech_249.txt|.|4
+directed harry potter|.|bbc_entertainment_028.txt|.|1
+spanish press|.|bbc_sport_216.txt|.|2
+robots learn|.|bbc_tech_121.txt|.|1
+brings|.|bbc_sport_282.txt|.|1
+speaking|.|bbc_tech_312.txt|.|1|.|bbc_tech_279.txt|.|1|.|bbc_tech_090.txt|.|1|.|bbc_tech_302.txt|.|1|.|bbc_politics_320.txt|.|2
+film oscar|.|bbc_entertainment_035.txt|.|2
+racist chanting|.|bbc_sport_216.txt|.|1
+bbc wales|.|bbc_sport_316.txt|.|2
+reviews foreign|.|bbc_business_231.txt|.|1
+gaudio|.|bbc_sport_463.txt|.|2
+give|.|bbc_tech_279.txt|.|2|.|bbc_tech_302.txt|.|2
+pew|.|bbc_tech_145.txt|.|2|.|bbc_tech_047.txt|.|2|.|bbc_tech_081.txt|.|4|.|bbc_tech_327.txt|.|2|.|bbc_tech_393.txt|.|4
+players|.|bbc_sport_360.txt|.|5|.|bbc_tech_059.txt|.|3|.|bbc_sport_119.txt|.|5|.|bbc_tech_249.txt|.|2|.|bbc_sport_267.txt|.|5|.|bbc_tech_279.txt|.|4|.|bbc_sport_215.txt|.|2|.|bbc_tech_047.txt|.|12|.|bbc_sport_472.txt|.|1|.|bbc_sport_369.txt|.|2|.|bbc_tech_203.txt|.|2|.|bbc_tech_322.txt|.|3|.|bbc_tech_298.txt|.|3|.|bbc_sport_387.txt|.|5|.|bbc_tech_148.txt|.|3|.|bbc_sport_445.txt|.|1|.|bbc_tech_183.txt|.|8|.|bbc_sport_216.txt|.|5|.|bbc_tech_140.txt|.|8|.|bbc_tech_263.txt|.|3|.|bbc_sport_480.txt|.|2|.|bbc_sport_359.txt|.|2|.|bbc_sport_150.txt|.|2|.|bbc_sport_354.txt|.|4|.|bbc_sport_155.txt|.|2|.|bbc_tech_170.txt|.|3|.|bbc_sport_397.txt|.|4|.|bbc_sport_316.txt|.|9|.|bbc_tech_327.txt|.|12|.|bbc_tech_383.txt|.|3|.|bbc_sport_282.txt|.|2|.|bbc_sport_113.txt|.|2|.|bbc_sport_385.txt|.|5|.|bbc_tech_332.txt|.|6|.|bbc_tech_040.txt|.|6|.|bbc_sport_279.txt|.|1|.|bbc_tech_302.txt|.|4|.|bbc_tech_222.txt|.|3
+laporte|.|bbc_sport_287.txt|.|4|.|bbc_sport_340.txt|.|5|.|bbc_sport_296.txt|.|3
+portable|.|bbc_tech_379.txt|.|5|.|bbc_tech_332.txt|.|3|.|bbc_tech_040.txt|.|3|.|bbc_tech_045.txt|.|2|.|bbc_tech_112.txt|.|2|.|bbc_tech_183.txt|.|8|.|bbc_tech_341.txt|.|2|.|bbc_tech_222.txt|.|11
+collection|.|bbc_entertainment_018.txt|.|4
+music players|.|bbc_tech_332.txt|.|4|.|bbc_tech_040.txt|.|4|.|bbc_tech_148.txt|.|3
+take|.|bbc_politics_325.txt|.|3|.|bbc_entertainment_084.txt|.|2|.|bbc_tech_253.txt|.|2|.|bbc_sport_263.txt|.|2|.|bbc_entertainment_105.txt|.|3|.|bbc_entertainment_235.txt|.|3|.|bbc_politics_217.txt|.|4|.|bbc_politics_321.txt|.|4|.|bbc_sport_029.txt|.|2|.|bbc_entertainment_163.txt|.|1|.|bbc_politics_065.txt|.|2|.|bbc_entertainment_152.txt|.|1|.|bbc_politics_348.txt|.|3|.|bbc_tech_140.txt|.|3
+sweet charity|.|bbc_entertainment_343.txt|.|2
+apologises|.|bbc_sport_254.txt|.|1
+squad|.|bbc_sport_300.txt|.|2|.|bbc_sport_383.txt|.|9|.|bbc_sport_090.txt|.|2|.|bbc_sport_128.txt|.|4|.|bbc_sport_348.txt|.|3|.|bbc_sport_295.txt|.|2|.|bbc_sport_123.txt|.|3
+club managers|.|bbc_sport_119.txt|.|2
+huaral|.|bbc_tech_006.txt|.|2
+capacity bill|.|bbc_politics_068.txt|.|3
+travel expenses|.|bbc_tech_140.txt|.|1
+players will only be released|.|bbc_sport_316.txt|.|1
+analysts|.|bbc_business_302.txt|.|2|.|bbc_business_292.txt|.|2|.|bbc_business_300.txt|.|3|.|bbc_tech_338.txt|.|2|.|bbc_business_097.txt|.|3|.|bbc_tech_158.txt|.|3|.|bbc_business_376.txt|.|3|.|bbc_tech_300.txt|.|2|.|bbc_tech_384.txt|.|2|.|bbc_business_416.txt|.|2|.|bbc_business_346.txt|.|2|.|bbc_tech_064.txt|.|2|.|bbc_tech_146.txt|.|3|.|bbc_tech_192.txt|.|3|.|bbc_tech_196.txt|.|1
+boulevard|.|bbc_entertainment_093.txt|.|2
+life project|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+reasons|.|bbc_tech_123.txt|.|2
+traders|.|bbc_business_489.txt|.|2|.|bbc_business_261.txt|.|1|.|bbc_tech_194.txt|.|3|.|bbc_business_167.txt|.|1
+tremendous threat and he brings|.|bbc_sport_282.txt|.|1
+lawsuit|.|bbc_entertainment_113.txt|.|2|.|bbc_business_414.txt|.|2|.|bbc_sport_049.txt|.|3|.|bbc_sport_088.txt|.|3|.|bbc_tech_248.txt|.|4|.|bbc_tech_273.txt|.|5|.|bbc_entertainment_050.txt|.|5
+confident|.|bbc_sport_215.txt|.|2
+professional rugby|.|bbc_sport_360.txt|.|2
+father|.|bbc_entertainment_257.txt|.|2|.|bbc_politics_113.txt|.|2
+update|.|bbc_tech_284.txt|.|1
+win the group|.|bbc_sport_133.txt|.|2
+commerce|.|bbc_business_429.txt|.|2|.|bbc_business_427.txt|.|2|.|bbc_business_440.txt|.|2|.|bbc_business_165.txt|.|2
+radio stations|.|bbc_entertainment_218.txt|.|2
+charity match|.|bbc_sport_402.txt|.|4
+pew internet|.|bbc_tech_145.txt|.|2|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+wonder|.|bbc_entertainment_386.txt|.|5
+american life project|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+friendlies|.|bbc_sport_119.txt|.|4
+portable music|.|bbc_tech_183.txt|.|3
+apple over ipod|.|bbc_tech_148.txt|.|1
+reaction|.|bbc_sport_216.txt|.|3
+humanoid robot|.|bbc_tech_246.txt|.|2|.|bbc_tech_356.txt|.|2
+bad luck|.|bbc_business_244.txt|.|2
+liverpool boss|.|bbc_sport_155.txt|.|2
+eighth|.|bbc_sport_480.txt|.|2
+taxpayer|.|bbc_politics_383.txt|.|2|.|bbc_politics_082.txt|.|2
+internet and american life project|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+ferguson hails|.|bbc_sport_282.txt|.|1
+villa|.|bbc_sport_264.txt|.|6|.|bbc_sport_230.txt|.|2|.|bbc_sport_175.txt|.|2|.|bbc_sport_282.txt|.|2

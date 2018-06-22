@@ -1,0 +1,38 @@
+244
+reputations|.|WET1819.txt|.|1|.|WET3797.txt|.|1|.|WET2698.txt|.|1
+accessories tablet|.|WET2616.txt|.|8
+office furniture|.|WET2538.txt|.|149
+board certified|.|WET5559.txt|.|60
+desks|.|WET2538.txt|.|225|.|WET1924.txt|.|22|.|WET5496.txt|.|15
+lcd monitors|.|WET2616.txt|.|56
+displays|.|WET2616.txt|.|147|.|WET5761.txt|.|33
+office max|.|WET1802.txt|.|8
+tablet|.|WET2616.txt|.|29
+firm|.|WET1825.txt|.|95|.|WET5331.txt|.|5|.|WET2007.txt|.|122
+tables|.|WET2538.txt|.|243|.|WET4840.txt|.|94|.|WET5891.txt|.|8|.|WET2320.txt|.|28
+weekend box|.|WET1359.txt|.|18
+sq ft|.|WET3249.txt|.|122
+genres franchises|.|WET1359.txt|.|22
+bookcase|.|WET1395.txt|.|80
+franchises showdowns|.|WET1359.txt|.|22
+collect deliver|.|WET2838.txt|.|20
+franchises|.|WET1359.txt|.|22
+lighting fixtures|.|WET1924.txt|.|6
+drafting tables|.|WET2538.txt|.|23
+file cabinets|.|WET2538.txt|.|76
+pc gaming|.|WET1323.txt|.|18
+showdowns|.|WET1359.txt|.|22
+displays led|.|WET2616.txt|.|14
+daily box office|.|WET1358.txt|.|23|.|WET5109.txt|.|38
+desk set|.|WET5144.txt|.|18
+imax|.|WET5111.txt|.|8
+priority|.|WET3759.txt|.|21|.|WET1802.txt|.|33
+people|.|WET418.txt|.|85|.|WET998.txt|.|115|.|WET5725.txt|.|61|.|WET1779.txt|.|46|.|WET362.txt|.|21|.|WET4857.txt|.|34|.|WET4973.txt|.|48|.|WET4714.txt|.|49|.|WET1359.txt|.|24|.|WET1324.txt|.|10|.|WET5514.txt|.|49|.|WET1720.txt|.|56|.|WET525.txt|.|28|.|WET1681.txt|.|38|.|WET4047.txt|.|32
+people like|.|WET4047.txt|.|30
+mayline|.|WET2538.txt|.|116
+paper towels|.|WET2721.txt|.|44
+drafting|.|WET2538.txt|.|95
+furniture mayline|.|WET2538.txt|.|54
+office results|.|WET1359.txt|.|7
+locations|.|WET2779.txt|.|20|.|WET3732.txt|.|22|.|WET4047.txt|.|43
+governor|.|WET2698.txt|.|20

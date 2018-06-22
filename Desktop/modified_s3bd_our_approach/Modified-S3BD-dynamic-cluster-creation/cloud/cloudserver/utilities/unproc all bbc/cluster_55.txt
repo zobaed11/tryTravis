@@ -1,0 +1,64 @@
+kluivert|.|bbc_sport_269.txt|.|4
+splits|.|bbc_sport_481.txt|.|1
+grewcock|.|bbc_sport_307.txt|.|9
+quarter than|.|bbc_business_057.txt|.|2
+polling|.|bbc_politics_381.txt|.|1
+referee|.|bbc_sport_343.txt|.|2|.|bbc_sport_404.txt|.|3|.|bbc_sport_231.txt|.|5|.|bbc_sport_147.txt|.|3|.|bbc_sport_166.txt|.|3|.|bbc_sport_283.txt|.|6
+lucy|.|bbc_politics_113.txt|.|4
+dutch|.|bbc_sport_149.txt|.|7|.|bbc_business_111.txt|.|1|.|bbc_entertainment_057.txt|.|6|.|bbc_tech_201.txt|.|4|.|bbc_sport_164.txt|.|3
+copy protection|.|bbc_tech_043.txt|.|3|.|bbc_tech_326.txt|.|3
+campese|.|bbc_sport_330.txt|.|9
+campese has told|.|bbc_sport_330.txt|.|1
+championship|.|bbc_sport_323.txt|.|2|.|bbc_sport_354.txt|.|2|.|bbc_sport_067.txt|.|2|.|bbc_sport_355.txt|.|2
+new coach|.|bbc_sport_482.txt|.|2
+international|.|bbc_business_364.txt|.|3|.|bbc_sport_359.txt|.|3|.|bbc_entertainment_101.txt|.|4|.|bbc_sport_385.txt|.|4|.|bbc_sport_346.txt|.|3|.|bbc_entertainment_309.txt|.|2|.|bbc_sport_369.txt|.|3|.|bbc_sport_064.txt|.|2|.|bbc_sport_099.txt|.|2|.|bbc_sport_387.txt|.|4|.|bbc_politics_372.txt|.|2|.|bbc_politics_150.txt|.|2
+brad gilbert|.|bbc_sport_481.txt|.|2
+mr newton|.|bbc_entertainment_147.txt|.|3
+home tie|.|bbc_sport_192.txt|.|3
+wigley|.|bbc_sport_233.txt|.|3
+mr mcletchie|.|bbc_politics_089.txt|.|10|.|bbc_politics_045.txt|.|6
+difficult|.|bbc_sport_299.txt|.|2|.|bbc_sport_358.txt|.|2
+epic|.|bbc_entertainment_083.txt|.|2
+runners|.|bbc_sport_070.txt|.|2
+billboard|.|bbc_entertainment_150.txt|.|4
+proper exit|.|bbc_politics_093.txt|.|2
+andy|.|bbc_sport_437.txt|.|2|.|bbc_sport_299.txt|.|2|.|bbc_sport_330.txt|.|2|.|bbc_politics_198.txt|.|2|.|bbc_sport_476.txt|.|3|.|bbc_sport_356.txt|.|2|.|bbc_sport_398.txt|.|2|.|bbc_sport_373.txt|.|2|.|bbc_sport_482.txt|.|2|.|bbc_sport_481.txt|.|3
+houllier praises|.|bbc_sport_228.txt|.|1
+duchy|.|bbc_politics_044.txt|.|7
+veteran|.|bbc_entertainment_190.txt|.|2|.|bbc_sport_440.txt|.|2
+nogar|.|bbc_entertainment_163.txt|.|2
+daily|.|bbc_sport_346.txt|.|3|.|bbc_business_437.txt|.|4|.|bbc_business_014.txt|.|3|.|bbc_tech_184.txt|.|5|.|bbc_entertainment_367.txt|.|2|.|bbc_business_325.txt|.|3|.|bbc_entertainment_065.txt|.|2
+ryan jones|.|bbc_sport_310.txt|.|2
+coach|.|bbc_sport_149.txt|.|3|.|bbc_sport_378.txt|.|2|.|bbc_sport_330.txt|.|4|.|bbc_sport_343.txt|.|5|.|bbc_sport_318.txt|.|5|.|bbc_sport_161.txt|.|3|.|bbc_sport_323.txt|.|2|.|bbc_sport_299.txt|.|2|.|bbc_sport_387.txt|.|3|.|bbc_sport_322.txt|.|3|.|bbc_sport_345.txt|.|2|.|bbc_sport_228.txt|.|3|.|bbc_sport_310.txt|.|2|.|bbc_sport_481.txt|.|5|.|bbc_sport_258.txt|.|2|.|bbc_sport_494.txt|.|4|.|bbc_sport_113.txt|.|2|.|bbc_sport_385.txt|.|3|.|bbc_sport_315.txt|.|2|.|bbc_sport_404.txt|.|3|.|bbc_sport_320.txt|.|3|.|bbc_sport_292.txt|.|2|.|bbc_sport_307.txt|.|2|.|bbc_sport_482.txt|.|4|.|bbc_sport_164.txt|.|5|.|bbc_sport_296.txt|.|2|.|bbc_sport_257.txt|.|2
+jimmy|.|bbc_sport_464.txt|.|3|.|bbc_sport_306.txt|.|2
+shaun|.|bbc_sport_113.txt|.|2
+jonathan thomas|.|bbc_sport_310.txt|.|2
+harry|.|bbc_tech_114.txt|.|2|.|bbc_entertainment_028.txt|.|4|.|bbc_entertainment_033.txt|.|5|.|bbc_sport_127.txt|.|2|.|bbc_politics_120.txt|.|8|.|bbc_entertainment_025.txt|.|8
+total football|.|bbc_sport_149.txt|.|2
+two changes|.|bbc_sport_310.txt|.|2
+roddick|.|bbc_sport_486.txt|.|8|.|bbc_sport_424.txt|.|4|.|bbc_sport_476.txt|.|4|.|bbc_sport_511.txt|.|4|.|bbc_sport_470.txt|.|6|.|bbc_sport_491.txt|.|46|.|bbc_sport_507.txt|.|3|.|bbc_sport_482.txt|.|3|.|bbc_sport_481.txt|.|8|.|bbc_sport_469.txt|.|6
+dutch league|.|bbc_sport_164.txt|.|1
+spyware|.|bbc_tech_036.txt|.|3|.|bbc_tech_377.txt|.|8|.|bbc_tech_177.txt|.|6|.|bbc_tech_096.txt|.|8|.|bbc_tech_250.txt|.|9|.|bbc_tech_003.txt|.|3|.|bbc_tech_292.txt|.|6|.|bbc_tech_316.txt|.|3
+criminals|.|bbc_tech_120.txt|.|4|.|bbc_tech_217.txt|.|2|.|bbc_sport_046.txt|.|1
+national tremor|.|bbc_tech_353.txt|.|2
+sound of music|.|bbc_entertainment_277.txt|.|2
+saying|.|bbc_politics_032.txt|.|1|.|bbc_politics_181.txt|.|1|.|bbc_politics_314.txt|.|1|.|bbc_entertainment_349.txt|.|1|.|bbc_politics_124.txt|.|2|.|bbc_sport_409.txt|.|1|.|bbc_politics_275.txt|.|2|.|bbc_tech_333.txt|.|1|.|bbc_tech_037.txt|.|1|.|bbc_business_106.txt|.|2|.|bbc_politics_198.txt|.|2|.|bbc_tech_123.txt|.|2|.|bbc_sport_307.txt|.|1|.|bbc_politics_099.txt|.|2|.|bbc_sport_337.txt|.|1
+sorrell|.|bbc_sport_324.txt|.|2
+major test|.|bbc_sport_299.txt|.|2
+michels|.|bbc_sport_149.txt|.|6
+brad|.|bbc_sport_481.txt|.|2
+dwayne|.|bbc_sport_307.txt|.|2
+close|.|bbc_business_357.txt|.|3|.|bbc_business_093.txt|.|2|.|bbc_entertainment_116.txt|.|2|.|bbc_entertainment_343.txt|.|1|.|bbc_sport_482.txt|.|2|.|bbc_business_034.txt|.|2
+staunton|.|bbc_entertainment_323.txt|.|3|.|bbc_entertainment_352.txt|.|2|.|bbc_entertainment_064.txt|.|2
+private income|.|bbc_politics_044.txt|.|2
+andy robinson|.|bbc_sport_330.txt|.|2
+ranieri took|.|bbc_sport_161.txt|.|1
+who has coached|.|bbc_sport_164.txt|.|1
+england coach|.|bbc_sport_113.txt|.|2|.|bbc_sport_343.txt|.|3|.|bbc_sport_315.txt|.|2
+cesar organisers|.|bbc_entertainment_063.txt|.|2
+argentinas|.|bbc_business_501.txt|.|9
+nomination|.|bbc_entertainment_089.txt|.|2
+ivory coast|.|bbc_politics_129.txt|.|4
+lions|.|bbc_sport_419.txt|.|2|.|bbc_sport_385.txt|.|6|.|bbc_sport_409.txt|.|4|.|bbc_sport_387.txt|.|6|.|bbc_sport_386.txt|.|5|.|bbc_sport_308.txt|.|6|.|bbc_tech_345.txt|.|2|.|bbc_sport_389.txt|.|4|.|bbc_sport_321.txt|.|2
+good coach|.|bbc_sport_228.txt|.|1
+malagasy franc|.|bbc_business_372.txt|.|2

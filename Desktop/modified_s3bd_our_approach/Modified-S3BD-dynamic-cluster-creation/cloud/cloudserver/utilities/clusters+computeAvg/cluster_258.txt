@@ -1,0 +1,38 @@
+258
+applecentral|.|WET406.txt|.|95
+forsyth|.|WET5581.txt|.|36|.|WET4129.txt|.|29
+requests|.|WET4510.txt|.|1|.|WET2245.txt|.|24|.|WET1946.txt|.|26
+storage|.|WET2729.txt|.|191|.|WET4258.txt|.|2|.|WET2730.txt|.|96|.|WET1924.txt|.|40|.|WET5603.txt|.|10|.|WET2728.txt|.|137|.|WET1113.txt|.|155|.|WET2816.txt|.|176|.|WET2817.txt|.|14
+resource allocation|.|WET1946.txt|.|4|.|WET3409.txt|.|2|.|WET3410.txt|.|3
+tongues|.|WET4541.txt|.|13
+engine|.|WET3582.txt|.|13|.|WET5799.txt|.|2|.|WET2829.txt|.|3|.|WET3225.txt|.|2|.|WET5485.txt|.|2|.|WET934.txt|.|2|.|WET1968.txt|.|2|.|WET4400.txt|.|2|.|WET159.txt|.|66|.|WET2596.txt|.|11|.|WET4850.txt|.|3|.|WET4832.txt|.|3|.|WET1138.txt|.|2|.|WET5231.txt|.|2|.|WET4884.txt|.|4|.|WET976.txt|.|2|.|WET101.txt|.|4|.|WET992.txt|.|3|.|WET2885.txt|.|2|.|WET5669.txt|.|3|.|WET3922.txt|.|8|.|WET4720.txt|.|1|.|WET3653.txt|.|3|.|WET2609.txt|.|2|.|WET1335.txt|.|5|.|WET4547.txt|.|2|.|WET3599.txt|.|3|.|WET2674.txt|.|2|.|WET2086.txt|.|2|.|WET2830.txt|.|3|.|WET1025.txt|.|4|.|WET2843.txt|.|5|.|WET5687.txt|.|3|.|WET216.txt|.|4|.|WET4590.txt|.|4
+systems|.|WET2548.txt|.|3|.|WET3998.txt|.|2|.|WET6310.txt|.|12|.|WET2420.txt|.|5|.|WET1061.txt|.|6|.|WET338.txt|.|3|.|WET5625.txt|.|46|.|WET5603.txt|.|12|.|WET465.txt|.|12|.|WET3151.txt|.|2|.|WET2784.txt|.|63|.|WET1122.txt|.|8|.|WET3571.txt|.|5|.|WET3710.txt|.|125|.|WET217.txt|.|12|.|WET4812.txt|.|7|.|WET2070.txt|.|11|.|WET3738.txt|.|9|.|WET334.txt|.|2|.|WET2091.txt|.|15|.|WET5610.txt|.|4|.|WET1865.txt|.|11|.|WET861.txt|.|7|.|WET1488.txt|.|2|.|WET3733.txt|.|23
+present invention|.|WET1946.txt|.|59|.|WET746.txt|.|56
+dynamic|.|WET1792.txt|.|8|.|WET1946.txt|.|14
+playback|.|WET755.txt|.|5|.|WET1946.txt|.|17|.|WET5761.txt|.|33
+return address labels|.|WET1161.txt|.|9
+operating|.|WET4522.txt|.|4|.|WET3781.txt|.|6|.|WET146.txt|.|4|.|WET2548.txt|.|3|.|WET3998.txt|.|2|.|WET6310.txt|.|2|.|WET2420.txt|.|4|.|WET338.txt|.|6|.|WET442.txt|.|2|.|WET4421.txt|.|8|.|WET6256.txt|.|28|.|WET1583.txt|.|4|.|WET2291.txt|.|14|.|WET752.txt|.|4|.|WET5603.txt|.|2|.|WET4832.txt|.|62|.|WET3151.txt|.|2|.|WET930.txt|.|3|.|WET3660.txt|.|2|.|WET1122.txt|.|3|.|WET5669.txt|.|6|.|WET1161.txt|.|16|.|WET334.txt|.|3|.|WET3085.txt|.|2|.|WET2091.txt|.|6|.|WET3411.txt|.|16|.|WET1865.txt|.|3|.|WET5581.txt|.|11|.|WET3410.txt|.|18|.|WET1488.txt|.|2|.|WET4754.txt|.|6|.|WET6030.txt|.|27|.|WET5391.txt|.|2
+brand|.|WET2875.txt|.|45|.|WET2713.txt|.|21|.|WET5493.txt|.|157|.|WET1756.txt|.|186|.|WET1385.txt|.|96|.|WET2885.txt|.|45|.|WET1536.txt|.|41|.|WET3859.txt|.|5|.|WET5286.txt|.|46
+manager|.|WET3706.txt|.|36|.|WET1201.txt|.|48|.|WET539.txt|.|54|.|WET1946.txt|.|121|.|WET1783.txt|.|12|.|WET4955.txt|.|17|.|WET2403.txt|.|2|.|WET3237.txt|.|22|.|WET2951.txt|.|49|.|WET1512.txt|.|10|.|WET2763.txt|.|10
+operating system|.|WET3660.txt|.|2|.|WET3781.txt|.|4|.|WET146.txt|.|4|.|WET5669.txt|.|6|.|WET442.txt|.|2|.|WET1161.txt|.|12|.|WET3085.txt|.|2|.|WET4421.txt|.|4|.|WET6256.txt|.|25|.|WET1583.txt|.|3|.|WET3411.txt|.|8|.|WET2291.txt|.|14|.|WET5581.txt|.|7|.|WET3410.txt|.|9|.|WET4754.txt|.|2|.|WET6030.txt|.|27|.|WET4832.txt|.|53|.|WET5391.txt|.|2|.|WET930.txt|.|3
+resource|.|WET796.txt|.|8|.|WET2453.txt|.|51|.|WET3398.txt|.|12|.|WET2862.txt|.|5|.|WET2403.txt|.|3|.|WET3409.txt|.|8|.|WET4037.txt|.|10|.|WET3738.txt|.|4|.|WET5818.txt|.|37|.|WET1946.txt|.|10|.|WET2481.txt|.|11|.|WET2411.txt|.|10|.|WET2452.txt|.|96|.|WET3410.txt|.|12|.|WET4832.txt|.|45|.|WET3166.txt|.|6|.|WET2975.txt|.|3|.|WET6220.txt|.|10
+english german spanish|.|WET1686.txt|.|10
+bandwidth|.|WET1946.txt|.|274
+batteries|.|WET5485.txt|.|18
+sound system|.|WET2931.txt|.|21
+library affiliate system|.|WET1686.txt|.|10
+mitchell|.|WET462.txt|.|92
+system with dynamic|.|WET1946.txt|.|1
+rf spectrum|.|WET1946.txt|.|3
+environment|.|WET752.txt|.|48
+system|.|WET4522.txt|.|12|.|WET3781.txt|.|5|.|WET146.txt|.|5|.|WET4370.txt|.|9|.|WET442.txt|.|3|.|WET3575.txt|.|48|.|WET4421.txt|.|29|.|WET1946.txt|.|238|.|WET6256.txt|.|30|.|WET1583.txt|.|15|.|WET2291.txt|.|17|.|WET752.txt|.|31|.|WET4832.txt|.|265|.|WET930.txt|.|10|.|WET3660.txt|.|9|.|WET3576.txt|.|67|.|WET1792.txt|.|62|.|WET4541.txt|.|20|.|WET3915.txt|.|33|.|WET3710.txt|.|110|.|WET1686.txt|.|23|.|WET2931.txt|.|36|.|WET5669.txt|.|7|.|WET1161.txt|.|12|.|WET83.txt|.|11|.|WET3085.txt|.|5|.|WET3411.txt|.|32|.|WET5581.txt|.|14|.|WET3410.txt|.|37|.|WET4754.txt|.|19|.|WET6030.txt|.|33|.|WET3618.txt|.|14|.|WET4962.txt|.|19|.|WET5391.txt|.|3
+rf|.|WET1946.txt|.|33
+background check|.|WET3710.txt|.|80
+spectrum|.|WET1946.txt|.|5
+stampers|.|WET1161.txt|.|18
+integration|.|WET3710.txt|.|46|.|WET465.txt|.|6
+omaha steaks|.|WET6280.txt|.|28
+theater system epic|.|WET3576.txt|.|66
+playback of the first video|.|WET1946.txt|.|2
+sound hire|.|WET2931.txt|.|8
+knit|.|WET2144.txt|.|44|.|WET5932.txt|.|47|.|WET5930.txt|.|15|.|WET2193.txt|.|25

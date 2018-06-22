@@ -1,0 +1,64 @@
+royal gurkha|.|bbc_politics_208.txt|.|2
+bombardier|.|bbc_business_304.txt|.|6
+handheld console|.|bbc_tech_084.txt|.|2
+scott sullivan|.|bbc_business_100.txt|.|2
+gurkha|.|bbc_politics_208.txt|.|2
+securities|.|bbc_business_331.txt|.|2|.|bbc_business_338.txt|.|1
+oil ministry|.|bbc_business_313.txt|.|2
+said diageo|.|bbc_business_321.txt|.|1
+russia|.|bbc_business_178.txt|.|4|.|bbc_business_077.txt|.|3|.|bbc_business_091.txt|.|3|.|bbc_business_266.txt|.|4|.|bbc_business_181.txt|.|6|.|bbc_politics_052.txt|.|2|.|bbc_business_127.txt|.|3|.|bbc_business_192.txt|.|4
+members|.|bbc_entertainment_239.txt|.|2|.|bbc_politics_319.txt|.|4|.|bbc_politics_108.txt|.|2|.|bbc_politics_291.txt|.|2|.|bbc_business_237.txt|.|8|.|bbc_entertainment_138.txt|.|2|.|bbc_entertainment_158.txt|.|2|.|bbc_business_151.txt|.|2
+titan|.|bbc_business_102.txt|.|4
+tsunami relief|.|bbc_entertainment_195.txt|.|2|.|bbc_politics_208.txt|.|1
+trek fans|.|bbc_entertainment_183.txt|.|2
+jerry|.|bbc_tech_065.txt|.|2
+van persie|.|bbc_sport_178.txt|.|3
+meeting|.|bbc_business_383.txt|.|3|.|bbc_sport_131.txt|.|2|.|bbc_business_496.txt|.|2|.|bbc_business_065.txt|.|3|.|bbc_sport_009.txt|.|6|.|bbc_politics_199.txt|.|3|.|bbc_sport_064.txt|.|2|.|bbc_entertainment_213.txt|.|2|.|bbc_business_486.txt|.|3|.|bbc_business_075.txt|.|2|.|bbc_business_008.txt|.|4
+agreed to pay|.|bbc_business_400.txt|.|2|.|bbc_business_102.txt|.|2
+mci shares|.|bbc_business_251.txt|.|1
+development|.|bbc_business_065.txt|.|4|.|bbc_business_460.txt|.|2|.|bbc_business_198.txt|.|3|.|bbc_business_211.txt|.|1
+vestey group|.|bbc_business_029.txt|.|3
+hariri|.|bbc_business_167.txt|.|5
+growing demand|.|bbc_business_054.txt|.|2
+began|.|bbc_sport_477.txt|.|2|.|bbc_tech_101.txt|.|2|.|bbc_sport_030.txt|.|2
+settled|.|bbc_business_331.txt|.|1
+loyalty cards|.|bbc_tech_124.txt|.|4
+said connors|.|bbc_sport_464.txt|.|2
+pay|.|bbc_politics_001.txt|.|11|.|bbc_business_400.txt|.|2|.|bbc_business_394.txt|.|2|.|bbc_politics_317.txt|.|2|.|bbc_business_102.txt|.|3|.|bbc_politics_364.txt|.|4|.|bbc_business_419.txt|.|1
+quarter final|.|bbc_sport_436.txt|.|1|.|bbc_sport_430.txt|.|1
+rifles|.|bbc_politics_208.txt|.|2
+remarkable|.|bbc_tech_065.txt|.|2
+ebbers has denied|.|bbc_business_100.txt|.|2
+gurkha rifles|.|bbc_politics_208.txt|.|2
+venezuelan|.|bbc_business_388.txt|.|2|.|bbc_business_029.txt|.|6
+details of the chip|.|bbc_tech_018.txt|.|2
+gurkhas to help|.|bbc_politics_208.txt|.|2
+mittal|.|bbc_business_027.txt|.|8
+slimfast|.|bbc_business_111.txt|.|4
+auditions|.|bbc_tech_024.txt|.|2
+hardie|.|bbc_business_337.txt|.|4
+bribery|.|bbc_business_102.txt|.|2
+asbestos|.|bbc_business_337.txt|.|4
+hyundai|.|bbc_business_054.txt|.|3
+boards|.|bbc_business_111.txt|.|1
+net income|.|bbc_business_479.txt|.|3
+james hardie|.|bbc_business_337.txt|.|2
+healthsouth|.|bbc_business_508.txt|.|3
+largest us|.|bbc_business_251.txt|.|1
+company|.|bbc_tech_024.txt|.|3|.|bbc_business_027.txt|.|3|.|bbc_business_111.txt|.|7|.|bbc_tech_084.txt|.|2|.|bbc_business_251.txt|.|3|.|bbc_business_307.txt|.|6|.|bbc_business_222.txt|.|4|.|bbc_politics_208.txt|.|2|.|bbc_business_337.txt|.|5|.|bbc_business_486.txt|.|4|.|bbc_business_460.txt|.|5|.|bbc_business_188.txt|.|2|.|bbc_business_053.txt|.|2|.|bbc_business_331.txt|.|4|.|bbc_business_379.txt|.|2|.|bbc_entertainment_158.txt|.|2|.|bbc_business_102.txt|.|4|.|bbc_business_349.txt|.|2|.|bbc_business_476.txt|.|1|.|bbc_business_314.txt|.|4|.|bbc_business_167.txt|.|3|.|bbc_business_048.txt|.|3|.|bbc_business_321.txt|.|2|.|bbc_business_508.txt|.|2|.|bbc_business_304.txt|.|3|.|bbc_business_029.txt|.|2|.|bbc_business_479.txt|.|4|.|bbc_business_054.txt|.|4|.|bbc_business_343.txt|.|2|.|bbc_tech_390.txt|.|4|.|bbc_tech_065.txt|.|2|.|bbc_business_313.txt|.|6|.|bbc_business_088.txt|.|2|.|bbc_business_352.txt|.|2|.|bbc_entertainment_161.txt|.|2|.|bbc_business_266.txt|.|3|.|bbc_entertainment_138.txt|.|2|.|bbc_business_325.txt|.|2|.|bbc_business_312.txt|.|5|.|bbc_business_100.txt|.|4
+oil company|.|bbc_business_266.txt|.|2|.|bbc_business_222.txt|.|2|.|bbc_business_313.txt|.|2
+failed to disclose|.|bbc_business_331.txt|.|2
+euros|.|bbc_business_111.txt|.|3|.|bbc_business_109.txt|.|4|.|bbc_tech_084.txt|.|2|.|bbc_business_017.txt|.|5|.|bbc_business_132.txt|.|3|.|bbc_business_468.txt|.|1|.|bbc_tech_351.txt|.|1|.|bbc_business_483.txt|.|2|.|bbc_entertainment_154.txt|.|2|.|bbc_business_312.txt|.|2
+independent news|.|bbc_business_325.txt|.|2
+development and product|.|bbc_business_460.txt|.|1
+celebrates|.|bbc_tech_065.txt|.|1
+bought|.|bbc_business_003.txt|.|2|.|bbc_sport_251.txt|.|2|.|bbc_business_435.txt|.|5|.|bbc_business_314.txt|.|3|.|bbc_business_230.txt|.|2|.|bbc_business_510.txt|.|2
+chief|.|bbc_business_455.txt|.|2|.|bbc_business_304.txt|.|2|.|bbc_business_189.txt|.|5|.|bbc_business_425.txt|.|2|.|bbc_business_385.txt|.|2|.|bbc_business_216.txt|.|4|.|bbc_politics_347.txt|.|4|.|bbc_tech_206.txt|.|2|.|bbc_business_203.txt|.|2|.|bbc_politics_172.txt|.|2|.|bbc_business_475.txt|.|3|.|bbc_business_393.txt|.|3|.|bbc_business_419.txt|.|3|.|bbc_business_196.txt|.|2|.|bbc_tech_378.txt|.|2|.|bbc_politics_198.txt|.|6|.|bbc_politics_315.txt|.|7|.|bbc_sport_118.txt|.|2|.|bbc_business_465.txt|.|2|.|bbc_sport_043.txt|.|2
+company said|.|bbc_business_307.txt|.|2|.|bbc_tech_390.txt|.|2
+groups|.|bbc_business_166.txt|.|3|.|bbc_politics_279.txt|.|4|.|bbc_politics_136.txt|.|2|.|bbc_business_337.txt|.|1|.|bbc_entertainment_289.txt|.|2|.|bbc_tech_223.txt|.|6|.|bbc_politics_216.txt|.|1
+italian|.|bbc_business_052.txt|.|1|.|bbc_business_359.txt|.|2|.|bbc_business_148.txt|.|2|.|bbc_business_468.txt|.|3|.|bbc_sport_440.txt|.|2|.|bbc_business_312.txt|.|4|.|bbc_business_048.txt|.|5
+disclose|.|bbc_business_331.txt|.|3
+admitting|.|bbc_business_102.txt|.|1
+relief effort|.|bbc_politics_208.txt|.|3
+mukesh|.|bbc_business_352.txt|.|2
+traders said|.|bbc_business_167.txt|.|1

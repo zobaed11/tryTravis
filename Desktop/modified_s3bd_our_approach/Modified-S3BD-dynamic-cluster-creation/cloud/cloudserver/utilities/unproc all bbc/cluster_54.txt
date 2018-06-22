@@ -1,0 +1,64 @@
+grant samuel|.|bbc_business_366.txt|.|3
+london|.|bbc_sport_072.txt|.|6|.|bbc_entertainment_270.txt|.|1|.|bbc_business_269.txt|.|9|.|bbc_entertainment_313.txt|.|2|.|bbc_politics_154.txt|.|3|.|bbc_business_421.txt|.|4|.|bbc_entertainment_181.txt|.|2|.|bbc_tech_104.txt|.|2|.|bbc_entertainment_276.txt|.|2|.|bbc_business_454.txt|.|2|.|bbc_sport_294.txt|.|3|.|bbc_sport_065.txt|.|6|.|bbc_business_392.txt|.|4|.|bbc_sport_013.txt|.|3|.|bbc_sport_021.txt|.|3|.|bbc_politics_365.txt|.|2|.|bbc_politics_325.txt|.|2|.|bbc_entertainment_294.txt|.|5|.|bbc_sport_053.txt|.|3|.|bbc_entertainment_018.txt|.|2|.|bbc_politics_288.txt|.|3|.|bbc_tech_349.txt|.|2|.|bbc_politics_232.txt|.|3|.|bbc_business_203.txt|.|2|.|bbc_business_220.txt|.|2|.|bbc_tech_375.txt|.|3|.|bbc_politics_186.txt|.|2|.|bbc_politics_376.txt|.|2|.|bbc_business_232.txt|.|3|.|bbc_sport_019.txt|.|4
+need to look|.|bbc_sport_389.txt|.|2
+sunday telegraph|.|bbc_business_014.txt|.|2|.|bbc_business_421.txt|.|2|.|bbc_business_179.txt|.|2
+euronext|.|bbc_business_454.txt|.|2|.|bbc_business_316.txt|.|7|.|bbc_business_264.txt|.|7|.|bbc_business_319.txt|.|8|.|bbc_business_421.txt|.|4
+bening|.|bbc_entertainment_325.txt|.|11
+barbarians|.|bbc_sport_382.txt|.|5
+marley|.|bbc_entertainment_120.txt|.|3
+marsh executive|.|bbc_business_401.txt|.|2
+mci|.|bbc_business_202.txt|.|10|.|bbc_business_162.txt|.|6|.|bbc_business_251.txt|.|12
+creating value|.|bbc_business_366.txt|.|1
+owns|.|bbc_business_293.txt|.|1
+payment|.|bbc_business_171.txt|.|2|.|bbc_politics_338.txt|.|2
+cragg|.|bbc_sport_062.txt|.|3
+morientes|.|bbc_sport_266.txt|.|3|.|bbc_sport_272.txt|.|5
+join|.|bbc_sport_130.txt|.|1|.|bbc_sport_338.txt|.|1|.|bbc_sport_272.txt|.|1|.|bbc_sport_138.txt|.|1|.|bbc_entertainment_182.txt|.|2
+toure|.|bbc_sport_157.txt|.|2
+rafa|.|bbc_sport_272.txt|.|2
+us phone|.|bbc_business_202.txt|.|2
+profits|.|bbc_business_095.txt|.|4|.|bbc_business_396.txt|.|3|.|bbc_business_132.txt|.|3|.|bbc_business_001.txt|.|5|.|bbc_business_425.txt|.|1|.|bbc_business_125.txt|.|3|.|bbc_business_004.txt|.|3|.|bbc_entertainment_298.txt|.|6|.|bbc_business_467.txt|.|4|.|bbc_business_017.txt|.|1|.|bbc_business_013.txt|.|1|.|bbc_business_176.txt|.|1|.|bbc_business_035.txt|.|4|.|bbc_business_221.txt|.|7|.|bbc_business_115.txt|.|3|.|bbc_business_143.txt|.|3|.|bbc_business_173.txt|.|8|.|bbc_business_038.txt|.|2|.|bbc_business_117.txt|.|7|.|bbc_business_250.txt|.|3|.|bbc_business_174.txt|.|2|.|bbc_business_109.txt|.|2|.|bbc_business_462.txt|.|3|.|bbc_business_126.txt|.|6|.|bbc_business_050.txt|.|1|.|bbc_business_288.txt|.|2|.|bbc_business_206.txt|.|1
+feud|.|bbc_business_352.txt|.|1|.|bbc_entertainment_288.txt|.|3|.|bbc_entertainment_282.txt|.|3
+exchanges merged|.|bbc_business_316.txt|.|1
+electrolux|.|bbc_business_058.txt|.|3
+received|.|bbc_politics_089.txt|.|2|.|bbc_entertainment_093.txt|.|2|.|bbc_sport_191.txt|.|2
+lessing|.|bbc_entertainment_017.txt|.|2
+appointed|.|bbc_politics_057.txt|.|2|.|bbc_business_234.txt|.|1
+sunday|.|bbc_entertainment_240.txt|.|2|.|bbc_business_014.txt|.|2|.|bbc_sport_338.txt|.|2|.|bbc_entertainment_081.txt|.|3|.|bbc_business_203.txt|.|3|.|bbc_business_421.txt|.|2|.|bbc_sport_457.txt|.|2|.|bbc_business_179.txt|.|3|.|bbc_sport_323.txt|.|2|.|bbc_business_166.txt|.|3|.|bbc_entertainment_346.txt|.|2|.|bbc_politics_112.txt|.|3|.|bbc_sport_465.txt|.|2
+last week|.|bbc_sport_431.txt|.|3|.|bbc_business_316.txt|.|4|.|bbc_sport_074.txt|.|1
+rovers|.|bbc_sport_189.txt|.|2
+creating|.|bbc_business_366.txt|.|1
+reid|.|bbc_sport_191.txt|.|4
+condom maker|.|bbc_business_364.txt|.|1
+condom|.|bbc_business_364.txt|.|2
+lse|.|bbc_business_454.txt|.|8|.|bbc_business_220.txt|.|8|.|bbc_business_316.txt|.|7|.|bbc_business_264.txt|.|9|.|bbc_business_319.txt|.|8|.|bbc_business_269.txt|.|6|.|bbc_business_279.txt|.|8|.|bbc_business_392.txt|.|9|.|bbc_business_203.txt|.|2|.|bbc_business_421.txt|.|5
+motorsport|.|bbc_tech_277.txt|.|5
+durex|.|bbc_business_364.txt|.|2
+mci shareholders|.|bbc_business_202.txt|.|2
+maker ssl|.|bbc_business_364.txt|.|2
+telegraph|.|bbc_business_014.txt|.|9|.|bbc_business_421.txt|.|2|.|bbc_business_179.txt|.|2
+billed|.|bbc_tech_395.txt|.|2
+talks|.|bbc_business_178.txt|.|2|.|bbc_business_417.txt|.|2|.|bbc_business_218.txt|.|2|.|bbc_sport_193.txt|.|2|.|bbc_politics_312.txt|.|2|.|bbc_sport_195.txt|.|2|.|bbc_business_181.txt|.|2|.|bbc_sport_206.txt|.|2|.|bbc_politics_035.txt|.|3|.|bbc_business_320.txt|.|3|.|bbc_business_279.txt|.|5|.|bbc_business_424.txt|.|2|.|bbc_politics_015.txt|.|2|.|bbc_politics_311.txt|.|3|.|bbc_politics_069.txt|.|3|.|bbc_sport_482.txt|.|2|.|bbc_sport_203.txt|.|2|.|bbc_business_431.txt|.|2
+who owns|.|bbc_business_293.txt|.|1
+samuel|.|bbc_business_366.txt|.|3
+man|.|bbc_sport_101.txt|.|4|.|bbc_sport_149.txt|.|2|.|bbc_tech_209.txt|.|2|.|bbc_entertainment_135.txt|.|2|.|bbc_sport_300.txt|.|2|.|bbc_entertainment_248.txt|.|4|.|bbc_sport_228.txt|.|2|.|bbc_business_179.txt|.|2|.|bbc_entertainment_077.txt|.|1|.|bbc_business_209.txt|.|3|.|bbc_sport_375.txt|.|2|.|bbc_business_293.txt|.|2|.|bbc_politics_248.txt|.|2|.|bbc_entertainment_305.txt|.|3|.|bbc_tech_271.txt|.|2|.|bbc_entertainment_055.txt|.|2|.|bbc_entertainment_348.txt|.|2|.|bbc_entertainment_058.txt|.|2
+savage|.|bbc_sport_273.txt|.|3
+tottenham|.|bbc_sport_262.txt|.|3|.|bbc_sport_191.txt|.|2|.|bbc_sport_202.txt|.|2
+times reported|.|bbc_business_203.txt|.|2
+rafa benitez|.|bbc_sport_272.txt|.|2
+lse bid|.|bbc_business_203.txt|.|2
+ultraviolet readers|.|bbc_tech_001.txt|.|2
+malcolm|.|bbc_business_293.txt|.|2|.|bbc_business_242.txt|.|3
+merged|.|bbc_business_316.txt|.|3
+genocide|.|bbc_politics_140.txt|.|2
+pearce is keen|.|bbc_sport_244.txt|.|1
+super bowl|.|bbc_entertainment_175.txt|.|4|.|bbc_entertainment_133.txt|.|7|.|bbc_entertainment_145.txt|.|7
+jakob nielsen|.|bbc_tech_168.txt|.|2
+xstrata|.|bbc_business_366.txt|.|9
+deutsche boerse|.|bbc_business_454.txt|.|12|.|bbc_business_220.txt|.|6|.|bbc_business_316.txt|.|3|.|bbc_business_264.txt|.|4|.|bbc_business_319.txt|.|5|.|bbc_business_171.txt|.|7|.|bbc_business_279.txt|.|4|.|bbc_business_392.txt|.|6|.|bbc_business_203.txt|.|3|.|bbc_business_421.txt|.|4
+undervalued|.|bbc_business_316.txt|.|2
+ages|.|bbc_politics_132.txt|.|3
+phone firm|.|bbc_business_202.txt|.|2
+grant|.|bbc_business_366.txt|.|3
+brady|.|bbc_sport_273.txt|.|2
+defender|.|bbc_sport_185.txt|.|2|.|bbc_sport_158.txt|.|2|.|bbc_sport_268.txt|.|2

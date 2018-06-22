@@ -1,0 +1,93 @@
+25
+standard|.|bbc_entertainment_034.txt|.|3
+joins|.|bbc_entertainment_002.txt|.|1
+country|.|bbc_entertainment_119.txt|.|2
+career|.|bbc_entertainment_337.txt|.|3
+book of the year|.|bbc_entertainment_013.txt|.|2
+tv|.|bbc_entertainment_215.txt|.|3|.|bbc_entertainment_207.txt|.|6|.|bbc_entertainment_173.txt|.|2|.|bbc_entertainment_190.txt|.|4|.|bbc_entertainment_211.txt|.|2|.|bbc_entertainment_274.txt|.|1|.|bbc_entertainment_193.txt|.|3|.|bbc_entertainment_166.txt|.|2|.|bbc_entertainment_203.txt|.|3|.|bbc_entertainment_171.txt|.|2|.|bbc_entertainment_226.txt|.|3|.|bbc_entertainment_310.txt|.|2|.|bbc_entertainment_217.txt|.|4|.|bbc_entertainment_375.txt|.|2|.|bbc_entertainment_189.txt|.|3|.|bbc_entertainment_213.txt|.|4|.|bbc_entertainment_367.txt|.|1|.|bbc_entertainment_220.txt|.|4|.|bbc_entertainment_222.txt|.|3|.|bbc_entertainment_168.txt|.|2|.|bbc_entertainment_080.txt|.|4|.|bbc_entertainment_191.txt|.|3|.|bbc_entertainment_219.txt|.|2|.|bbc_entertainment_195.txt|.|2|.|bbc_entertainment_165.txt|.|3|.|bbc_entertainment_206.txt|.|2|.|bbc_entertainment_210.txt|.|2|.|bbc_entertainment_182.txt|.|6
+headline the second|.|bbc_entertainment_283.txt|.|2
+armand|.|bbc_entertainment_015.txt|.|2
+beauty|.|bbc_entertainment_325.txt|.|2
+separate|.|bbc_entertainment_258.txt|.|2
+sunshine|.|bbc_entertainment_355.txt|.|3
+choice award|.|bbc_entertainment_201.txt|.|2
+jury prize|.|bbc_entertainment_336.txt|.|4
+triumphed|.|bbc_entertainment_201.txt|.|1
+winners included|.|bbc_entertainment_034.txt|.|2
+voted|.|bbc_entertainment_187.txt|.|2|.|bbc_entertainment_070.txt|.|2|.|bbc_entertainment_014.txt|.|3|.|bbc_entertainment_128.txt|.|2|.|bbc_entertainment_225.txt|.|1
+uk singles|.|bbc_entertainment_112.txt|.|2
+express|.|bbc_entertainment_036.txt|.|3
+nebraska|.|bbc_entertainment_222.txt|.|2
+worst tv import|.|bbc_entertainment_217.txt|.|2
+two songs|.|bbc_entertainment_151.txt|.|2
+eternal sunshine of the spotless|.|bbc_entertainment_355.txt|.|3
+eternal sunshine|.|bbc_entertainment_355.txt|.|3
+actor award|.|bbc_entertainment_069.txt|.|1
+guild|.|bbc_entertainment_377.txt|.|2|.|bbc_entertainment_051.txt|.|2|.|bbc_entertainment_069.txt|.|2
+leroi|.|bbc_entertainment_015.txt|.|1
+jamaica|.|bbc_entertainment_246.txt|.|2
+actors guild|.|bbc_entertainment_051.txt|.|2|.|bbc_entertainment_069.txt|.|2
+super size|.|bbc_entertainment_361.txt|.|2
+figaro newspaper|.|bbc_entertainment_045.txt|.|2
+da bank|.|bbc_entertainment_231.txt|.|2|.|bbc_entertainment_197.txt|.|3
+matt groening|.|bbc_entertainment_196.txt|.|2
+aids|.|bbc_entertainment_157.txt|.|1
+details|.|bbc_entertainment_137.txt|.|2
+armand marie leroi|.|bbc_entertainment_015.txt|.|1
+actor jamie|.|bbc_entertainment_264.txt|.|2
+evening standard|.|bbc_entertainment_034.txt|.|3
+shrek|.|bbc_entertainment_070.txt|.|2
+matt|.|bbc_entertainment_201.txt|.|3|.|bbc_entertainment_196.txt|.|2
+night takeaway|.|bbc_entertainment_201.txt|.|3
+bridget|.|bbc_entertainment_034.txt|.|2
+tv drama|.|bbc_entertainment_215.txt|.|2
+actors|.|bbc_entertainment_051.txt|.|4|.|bbc_entertainment_069.txt|.|5
+size|.|bbc_entertainment_361.txt|.|2
+month|.|bbc_entertainment_361.txt|.|2
+book award|.|bbc_entertainment_004.txt|.|1
+david walliams|.|bbc_entertainment_201.txt|.|2
+collect the award|.|bbc_entertainment_196.txt|.|1
+cinema award|.|bbc_entertainment_331.txt|.|2|.|bbc_entertainment_079.txt|.|2
+jones|.|bbc_entertainment_264.txt|.|3|.|bbc_entertainment_034.txt|.|2
+little|.|bbc_entertainment_215.txt|.|2|.|bbc_entertainment_191.txt|.|3|.|bbc_entertainment_201.txt|.|5|.|bbc_entertainment_212.txt|.|4
+code|.|bbc_entertainment_009.txt|.|3|.|bbc_entertainment_376.txt|.|5|.|bbc_entertainment_308.txt|.|1|.|bbc_entertainment_068.txt|.|1
+coronation street|.|bbc_entertainment_215.txt|.|2
+film award|.|bbc_entertainment_034.txt|.|1|.|bbc_entertainment_355.txt|.|2
+directors|.|bbc_entertainment_377.txt|.|4
+directors guild|.|bbc_entertainment_377.txt|.|2
+screen actors|.|bbc_entertainment_051.txt|.|2|.|bbc_entertainment_069.txt|.|2
+children voted|.|bbc_entertainment_070.txt|.|1
+film being julia|.|bbc_entertainment_325.txt|.|2
+world|.|bbc_entertainment_017.txt|.|3|.|bbc_entertainment_241.txt|.|3|.|bbc_entertainment_021.txt|.|3|.|bbc_entertainment_331.txt|.|4|.|bbc_entertainment_079.txt|.|4
+special award|.|bbc_entertainment_201.txt|.|2
+julia|.|bbc_entertainment_325.txt|.|2
+oscars show|.|bbc_entertainment_280.txt|.|3
+film followed spurlock|.|bbc_entertainment_361.txt|.|1
+norah jones|.|bbc_entertainment_264.txt|.|2
+david|.|bbc_entertainment_311.txt|.|2|.|bbc_entertainment_201.txt|.|2
+guardian|.|bbc_entertainment_015.txt|.|3
+included|.|bbc_entertainment_034.txt|.|3
+coronation|.|bbc_entertainment_215.txt|.|2
+winners|.|bbc_entertainment_034.txt|.|4|.|bbc_entertainment_371.txt|.|1|.|bbc_entertainment_241.txt|.|4|.|bbc_entertainment_014.txt|.|4
+south bank|.|bbc_entertainment_215.txt|.|4
+mind|.|bbc_entertainment_355.txt|.|3
+little britain has triumphed|.|bbc_entertainment_201.txt|.|1
+spurlock|.|bbc_entertainment_361.txt|.|6
+beating|.|bbc_entertainment_201.txt|.|3
+world cinema award|.|bbc_entertainment_331.txt|.|2|.|bbc_entertainment_079.txt|.|2
+writers|.|bbc_entertainment_361.txt|.|2
+shameless|.|bbc_entertainment_215.txt|.|2
+whitbread novel|.|bbc_entertainment_013.txt|.|2
+takeaway|.|bbc_entertainment_201.txt|.|3
+spotless mind|.|bbc_entertainment_355.txt|.|3
+eternal|.|bbc_entertainment_355.txt|.|3
+century|.|bbc_entertainment_020.txt|.|2|.|bbc_entertainment_067.txt|.|1
+matt lucas|.|bbc_entertainment_201.txt|.|2
+south bank awards|.|bbc_entertainment_215.txt|.|1
+bank awards|.|bbc_entertainment_215.txt|.|1
+bridget jones|.|bbc_entertainment_034.txt|.|2
+spotless|.|bbc_entertainment_355.txt|.|3
+evening|.|bbc_entertainment_034.txt|.|3
+american beauty|.|bbc_entertainment_325.txt|.|2
+whitbread prize|.|bbc_entertainment_007.txt|.|2
+story|.|bbc_entertainment_228.txt|.|2|.|bbc_entertainment_343.txt|.|1

@@ -1,0 +1,91 @@
+15
+compete|.|bbc_sport_089.txt|.|2|.|bbc_sport_092.txt|.|2|.|bbc_sport_065.txt|.|2|.|bbc_sport_010.txt|.|2|.|bbc_sport_063.txt|.|1|.|bbc_sport_484.txt|.|1|.|bbc_sport_068.txt|.|3
+quick|.|bbc_sport_377.txt|.|2|.|bbc_sport_248.txt|.|4
+london|.|bbc_sport_072.txt|.|6|.|bbc_sport_294.txt|.|3|.|bbc_sport_053.txt|.|3|.|bbc_sport_065.txt|.|6|.|bbc_sport_013.txt|.|3|.|bbc_sport_021.txt|.|3|.|bbc_sport_019.txt|.|4
+friendly|.|bbc_sport_277.txt|.|2|.|bbc_sport_128.txt|.|2
+bulgaria|.|bbc_sport_277.txt|.|3
+replace|.|bbc_sport_350.txt|.|1
+souness|.|bbc_sport_156.txt|.|6|.|bbc_sport_144.txt|.|4|.|bbc_sport_279.txt|.|3|.|bbc_sport_138.txt|.|7
+areas|.|bbc_sport_319.txt|.|2
+hip|.|bbc_sport_475.txt|.|3
+dal|.|bbc_sport_350.txt|.|3
+frederic michalak|.|bbc_sport_287.txt|.|2
+donate their prize money|.|bbc_sport_451.txt|.|1
+scotland manager|.|bbc_sport_208.txt|.|2
+mckoy|.|bbc_sport_224.txt|.|2
+west ham|.|bbc_sport_129.txt|.|3|.|bbc_sport_197.txt|.|4
+juninho wants|.|bbc_sport_195.txt|.|1
+join sunderland|.|bbc_sport_130.txt|.|1
+subs not used|.|bbc_sport_214.txt|.|2|.|bbc_sport_225.txt|.|2|.|bbc_sport_224.txt|.|2
+trip|.|bbc_sport_389.txt|.|2
+brings|.|bbc_sport_282.txt|.|1
+ham|.|bbc_sport_129.txt|.|3|.|bbc_sport_197.txt|.|4
+european indoor championships|.|bbc_sport_071.txt|.|2
+scarlets|.|bbc_sport_333.txt|.|4|.|bbc_sport_361.txt|.|5
+clyde|.|bbc_sport_108.txt|.|4
+make her return|.|bbc_sport_443.txt|.|2
+funds|.|bbc_sport_143.txt|.|2
+talk|.|bbc_sport_220.txt|.|2
+lewsey|.|bbc_sport_288.txt|.|4|.|bbc_sport_405.txt|.|3|.|bbc_sport_414.txt|.|4
+insisted hassell|.|bbc_sport_276.txt|.|1
+starts|.|bbc_sport_084.txt|.|1|.|bbc_sport_117.txt|.|1|.|bbc_sport_052.txt|.|1
+radius|.|bbc_sport_411.txt|.|2
+six weeks|.|bbc_sport_162.txt|.|2|.|bbc_sport_114.txt|.|2
+jump|.|bbc_sport_073.txt|.|2|.|bbc_sport_061.txt|.|3|.|bbc_sport_012.txt|.|3|.|bbc_sport_056.txt|.|4|.|bbc_sport_008.txt|.|1|.|bbc_sport_020.txt|.|3
+richard|.|bbc_sport_294.txt|.|1
+hansen|.|bbc_sport_008.txt|.|5
+baros|.|bbc_sport_269.txt|.|6|.|bbc_sport_165.txt|.|5
+charlton|.|bbc_sport_186.txt|.|3|.|bbc_sport_106.txt|.|8|.|bbc_sport_173.txt|.|2|.|bbc_sport_192.txt|.|2|.|bbc_sport_220.txt|.|2
+shock|.|bbc_sport_422.txt|.|2
+doubt|.|bbc_sport_496.txt|.|2
+pacquette|.|bbc_sport_224.txt|.|2
+mike tindall|.|bbc_sport_419.txt|.|2
+next season|.|bbc_sport_204.txt|.|2
+erfurt|.|bbc_sport_064.txt|.|2
+wigglesworth|.|bbc_sport_325.txt|.|2
+triple jumper|.|bbc_sport_008.txt|.|2
+sprinting|.|bbc_sport_028.txt|.|1|.|bbc_sport_008.txt|.|2
+take|.|bbc_sport_029.txt|.|2|.|bbc_sport_263.txt|.|2
+mark carroll|.|bbc_sport_062.txt|.|2
+imanol|.|bbc_sport_287.txt|.|2
+roberts|.|bbc_sport_129.txt|.|4
+philippoussis|.|bbc_sport_457.txt|.|2|.|bbc_sport_496.txt|.|2
+spanish fa|.|bbc_sport_117.txt|.|2
+blame|.|bbc_sport_178.txt|.|4|.|bbc_sport_259.txt|.|3
+forearm|.|bbc_sport_411.txt|.|2
+petrov|.|bbc_sport_108.txt|.|6
+cotonsport|.|bbc_sport_219.txt|.|4
+treatment|.|acne.txt|.|23
+believe it changed|.|bbc_sport_275.txt|.|1
+loan|.|bbc_sport_187.txt|.|2|.|bbc_sport_173.txt|.|4|.|bbc_sport_117.txt|.|2
+ronan|.|bbc_sport_379.txt|.|2
+daniel williams|.|bbc_sport_225.txt|.|2
+mike|.|bbc_sport_419.txt|.|2|.|bbc_sport_394.txt|.|2|.|bbc_sport_316.txt|.|2|.|bbc_sport_393.txt|.|3
+tremendous threat and he brings|.|bbc_sport_282.txt|.|1
+part|.|bbc_sport_029.txt|.|2|.|bbc_sport_019.txt|.|2
+denis|.|bbc_sport_420.txt|.|2
+howard|.|bbc_sport_240.txt|.|4
+arnesen denies|.|bbc_sport_207.txt|.|1
+point|.|bbc_sport_421.txt|.|4|.|bbc_sport_491.txt|.|18|.|bbc_sport_259.txt|.|2
+gmt|.|bbc_sport_171.txt|.|1
+debut|.|bbc_sport_300.txt|.|2|.|bbc_sport_420.txt|.|2|.|bbc_sport_500.txt|.|2|.|bbc_sport_426.txt|.|2
+grass|.|bbc_sport_204.txt|.|3
+victor conte|.|bbc_sport_036.txt|.|1|.|bbc_sport_049.txt|.|2|.|bbc_sport_088.txt|.|2
+hearing|.|bbc_sport_035.txt|.|2|.|bbc_sport_091.txt|.|3|.|bbc_sport_048.txt|.|2|.|bbc_sport_054.txt|.|2
+henson|.|bbc_sport_303.txt|.|3|.|bbc_sport_308.txt|.|4|.|bbc_sport_401.txt|.|8
+personal bests|.|bbc_sport_059.txt|.|2
+morrison|.|bbc_sport_171.txt|.|3
+shane horgan|.|bbc_sport_417.txt|.|2
+kalman|.|bbc_sport_324.txt|.|2
+thursday|.|bbc_sport_264.txt|.|2
+corry|.|bbc_sport_405.txt|.|3|.|bbc_sport_376.txt|.|2|.|bbc_sport_336.txt|.|6
+reverse|.|bbc_sport_013.txt|.|1
+tennis|.|bbc_sport_462.txt|.|2|.|bbc_sport_492.txt|.|2|.|bbc_sport_443.txt|.|2|.|bbc_sport_447.txt|.|4|.|bbc_sport_473.txt|.|4|.|bbc_sport_421.txt|.|2|.|bbc_sport_449.txt|.|4|.|bbc_sport_464.txt|.|2|.|bbc_sport_493.txt|.|8
+jimmy marlu|.|bbc_sport_306.txt|.|2
+dudek|.|bbc_sport_259.txt|.|3
+governing|.|bbc_sport_016.txt|.|2
+kuznetsova|.|bbc_sport_502.txt|.|3|.|bbc_sport_435.txt|.|3|.|bbc_sport_439.txt|.|2
+kieran|.|bbc_sport_379.txt|.|2
+commonwealth|.|bbc_sport_008.txt|.|2
+meldrum|.|bbc_sport_109.txt|.|5
+demands|.|bbc_sport_393.txt|.|2

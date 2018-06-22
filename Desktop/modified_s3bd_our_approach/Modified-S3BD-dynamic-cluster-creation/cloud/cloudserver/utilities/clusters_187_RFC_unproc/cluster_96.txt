@@ -1,0 +1,120 @@
+link for use|.|rfc104.txt|.|1
+number guessing|.|rfc1948.txt|.|5
+use in measurements|.|rfc104.txt|.|1
+socket conventions|.|rfc167.txt|.|4|.|rfc175.txt|.|2
+key and sequence|.|rfc2890.txt|.|10
+terminal endpoint|.|rfc5133.txt|.|5
+ip encapsulating security|.|rfc4303.txt|.|44
+national emergency|.|rfc6061.txt|.|10
+number|.|rfc5133.txt|.|5|.|rfc5087.txt|.|73|.|rfc3761.txt|.|15|.|rfc1982.txt|.|52|.|rfc4905.txt|.|39|.|rfc3824.txt|.|29|.|rfc4303.txt|.|115|.|rfc1974.txt|.|56|.|rfc1948.txt|.|29|.|rfc5028.txt|.|7|.|rfc200.txt|.|14|.|rfc170.txt|.|10|.|rfc4893.txt|.|59|.|rfc121.txt|.|23|.|rfc2806.txt|.|93|.|rfc1990.txt|.|39|.|rfc431.txt|.|12|.|rfc2980.txt|.|25|.|rfc2883.txt|.|12|.|rfc4725.txt|.|50|.|rfc2182.txt|.|29|.|rfc3966.txt|.|64|.|rfc4737.txt|.|70|.|rfc379.txt|.|10|.|rfc433.txt|.|7|.|rfc2341.txt|.|28|.|rfc4120.txt|.|73|.|rfc1987.txt|.|129|.|rfc74.txt|.|9|.|rfc3706.txt|.|24|.|rfc5705.txt|.|2|.|rfc3561.txt|.|119|.|rfc4340.txt|.|286|.|rfc117.txt|.|11|.|rfc5067.txt|.|21|.|rfc3482.txt|.|257|.|rfc2730.txt|.|52|.|rfc2871.txt|.|45|.|rfc4114.txt|.|6|.|rfc2623.txt|.|19|.|rfc2747.txt|.|48|.|rfc2890.txt|.|46|.|rfc2734.txt|.|53|.|rfc4238.txt|.|11|.|rfc399.txt|.|8|.|rfc503.txt|.|10|.|rfc3288.txt|.|14|.|rfc5961.txt|.|60|.|rfc196.txt|.|11|.|rfc76.txt|.|14|.|rfc179.txt|.|2|.|rfc5105.txt|.|13|.|rfc5927.txt|.|50|.|rfc4953.txt|.|41|.|rfc264.txt|.|10|.|rfc4979.txt|.|4|.|rfc4108.txt|.|74|.|rfc3639.txt|.|10|.|rfc5612.txt|.|16|.|rfc1991.txt|.|47|.|rfc6061.txt|.|11|.|rfc3629.txt|.|22|.|rfc4769.txt|.|48|.|rfc104.txt|.|2|.|rfc4815.txt|.|43|.|rfc5398.txt|.|8|.|rfc617.txt|.|13|.|rfc2477.txt|.|17|.|rfc2434.txt|.|12|.|rfc4302.txt|.|76|.|rfc6142.txt|.|33|.|rfc4246.txt|.|7|.|rfc2916.txt|.|35|.|rfc2106.txt|.|16|.|rfc2203.txt|.|47|.|rfc3187.txt|.|12|.|rfc5225.txt|.|81|.|rfc1967.txt|.|48|.|rfc5128.txt|.|20|.|rfc4517.txt|.|56|.|rfc2406.txt|.|39|.|rfc6140.txt|.|53|.|rfc4086.txt|.|80|.|rfc2894.txt|.|60|.|rfc2361.txt|.|105|.|rfc2627.txt|.|19|.|rfc4497.txt|.|148|.|rfc132.txt|.|1|.|rfc5439.txt|.|111|.|rfc167.txt|.|21|.|rfc4969.txt|.|7|.|rfc2889.txt|.|78|.|rfc6236.txt|.|25|.|rfc2748.txt|.|28|.|rfc5403.txt|.|9|.|rfc4694.txt|.|111|.|rfc4623.txt|.|21|.|rfc165.txt|.|8|.|rfc2174.txt|.|25|.|rfc4143.txt|.|5|.|rfc5170.txt|.|52|.|rfc387.txt|.|11|.|rfc4237.txt|.|14|.|rfc4683.txt|.|15
+logout|.|rfc431.txt|.|7|.|rfc399.txt|.|4
+stale|.|rfc4108.txt|.|71|.|rfc5861.txt|.|28
+randomness requirements|.|rfc4086.txt|.|48
+nena registry|.|rfc6061.txt|.|5
+harrington huawei technologies|.|rfc5612.txt|.|2
+datagram congestion control|.|rfc5597.txt|.|6|.|rfc4340.txt|.|134
+yu|.|rfc4694.txt|.|18
+guessing|.|rfc1948.txt|.|6
+international standard audiovisual number|.|rfc4246.txt|.|3
+output port|.|rfc1987.txt|.|46
+number systems|.|rfc387.txt|.|2
+octet sequence|.|rfc3629.txt|.|6
+telephone number|.|rfc3966.txt|.|13|.|rfc4237.txt|.|11|.|rfc4694.txt|.|40|.|rfc5028.txt|.|4|.|rfc4143.txt|.|2|.|rfc4517.txt|.|26|.|rfc4238.txt|.|8
+programmer|.|rfc379.txt|.|2
+document registers|.|rfc3762.txt|.|3|.|rfc4769.txt|.|3
+conventions reconsidered|.|rfc167.txt|.|4|.|rfc175.txt|.|2
+number portability in the gstn|.|rfc3482.txt|.|29
+experience implementing|.|rfc387.txt|.|4
+input port|.|rfc1987.txt|.|77
+ldpc staircase|.|rfc5170.txt|.|35
+port number|.|rfc1987.txt|.|12|.|rfc5128.txt|.|18|.|rfc6142.txt|.|28
+validation entity|.|rfc4725.txt|.|14
+client type|.|rfc2748.txt|.|6|.|rfc3318.txt|.|6
+globally identifiable|.|rfc6140.txt|.|34
+geographical|.|rfc4694.txt|.|44
+yu standards|.|rfc4694.txt|.|15
+yergeau standards|.|rfc3629.txt|.|14
+lgi|.|rfc399.txt|.|8
+anti|.|rfc2406.txt|.|1|.|rfc4303.txt|.|2|.|rfc4302.txt|.|2
+rst|.|rfc5961.txt|.|67|.|rfc561.txt|.|3|.|rfc636.txt|.|9
+number of lsps|.|rfc5439.txt|.|48
+spoofing attacks|.|rfc4953.txt|.|55
+aspect|.|rfc6236.txt|.|24
+identifiable|.|rfc6140.txt|.|34
+ldpc|.|rfc5170.txt|.|45
+wave and avi|.|rfc2361.txt|.|79
+pfautz|.|rfc5067.txt|.|9
+update on smfs|.|rfc431.txt|.|3
+sequence number attacks|.|rfc1948.txt|.|6
+international standard|.|rfc4246.txt|.|3|.|rfc3187.txt|.|8
+specific options|.|rfc4340.txt|.|1
+validation process|.|rfc4725.txt|.|10
+form registration|.|rfc2361.txt|.|105
+number extensions to gre|.|rfc2890.txt|.|7
+messaging directory service|.|rfc4237.txt|.|13
+number association|.|rfc6061.txt|.|10
+adversary|.|rfc4086.txt|.|48|.|rfc5418.txt|.|56
+protocol to negotiate|.|rfc2203.txt|.|1
+enum requirements|.|rfc5067.txt|.|7
+acknowledgement number|.|rfc4340.txt|.|81
+number reservation for documentation|.|rfc5398.txt|.|1
+yasukawa|.|rfc5439.txt|.|49|.|rfc5862.txt|.|16|.|rfc4687.txt|.|19
+beam|.|rfc387.txt|.|6
+system number|.|rfc4893.txt|.|9
+ike peers|.|rfc3706.txt|.|13
+number assignment|.|rfc179.txt|.|1|.|rfc4725.txt|.|15
+literal data packet|.|rfc1991.txt|.|13
+octet as numbers|.|rfc4893.txt|.|22
+freephone|.|rfc4694.txt|.|57
+payload data|.|rfc4303.txt|.|36
+registers|.|rfc3762.txt|.|3|.|rfc4769.txt|.|3
+dlsrap|.|rfc2106.txt|.|18
+dolan|.|rfc4246.txt|.|7
+new port|.|rfc1987.txt|.|18
+record set|.|rfc3824.txt|.|10
+management private|.|rfc5612.txt|.|2
+rpc security|.|rfc2623.txt|.|15
+syn bit|.|rfc5961.txt|.|9
+sequence|.|rfc2341.txt|.|30|.|rfc5087.txt|.|47|.|rfc4905.txt|.|36|.|rfc3706.txt|.|26|.|rfc2625.txt|.|137|.|rfc3561.txt|.|118|.|rfc4303.txt|.|123|.|rfc1974.txt|.|37|.|rfc1948.txt|.|33|.|rfc133.txt|.|2|.|rfc4340.txt|.|290|.|rfc2748.txt|.|25|.|rfc3629.txt|.|28|.|rfc4425.txt|.|64|.|rfc4815.txt|.|40|.|rfc6283.txt|.|64|.|rfc5880.txt|.|77|.|rfc1990.txt|.|48|.|rfc4302.txt|.|86|.|rfc2897.txt|.|36|.|rfc4720.txt|.|11|.|rfc4623.txt|.|21|.|rfc2203.txt|.|38|.|rfc2747.txt|.|59|.|rfc2890.txt|.|56|.|rfc4122.txt|.|30|.|rfc5225.txt|.|33|.|rfc1967.txt|.|27|.|rfc2883.txt|.|30|.|rfc529.txt|.|15|.|rfc5961.txt|.|54|.|rfc640.txt|.|14|.|rfc2406.txt|.|39|.|rfc5476.txt|.|59|.|rfc4737.txt|.|88|.|rfc2894.txt|.|38|.|rfc534.txt|.|4|.|rfc5927.txt|.|21|.|rfc3601.txt|.|24|.|rfc4953.txt|.|39|.|rfc4304.txt|.|12|.|rfc5233.txt|.|5|.|rfc264.txt|.|21
+flavor number|.|rfc2623.txt|.|11
+enterprise number|.|rfc5612.txt|.|15
+private enterprise|.|rfc5612.txt|.|5
+logout commands|.|rfc431.txt|.|1
+serial number arithmetic|.|rfc1982.txt|.|13
+temporary gruus|.|rfc6140.txt|.|18
+evaluating roaming|.|rfc2477.txt|.|12
+sequence number extensions|.|rfc2890.txt|.|7
+digital network|.|rfc5133.txt|.|3
+useful|.|rfc433.txt|.|1
+request number|.|rfc5133.txt|.|4
+lind|.|rfc5067.txt|.|9
+port message|.|rfc1987.txt|.|8
+np|.|rfc4694.txt|.|42
+sip and qsig|.|rfc4497.txt|.|69
+structure of the network|.|rfc5439.txt|.|2
+pseudo random number|.|rfc4086.txt|.|1
+sequence number extensions to gre|.|rfc2890.txt|.|7
+international isbn|.|rfc3187.txt|.|10
+socket conventions reconsidered|.|rfc167.txt|.|4|.|rfc175.txt|.|2
+hardware module|.|rfc4108.txt|.|157
+random number generator|.|rfc5170.txt|.|1
+standard book|.|rfc3187.txt|.|8
+key and sequence number|.|rfc2890.txt|.|10
+bgp support|.|rfc4893.txt|.|10
+reservation for documentation use|.|rfc5398.txt|.|1
+enumservice november|.|rfc4769.txt|.|12
+context creation|.|rfc2203.txt|.|25
+ldpc triangle|.|rfc5170.txt|.|2
+audiovisual|.|rfc4246.txt|.|6
+initial sequence|.|rfc1948.txt|.|9
+fleischman informational|.|rfc2361.txt|.|71
+datagram congestion|.|rfc5597.txt|.|6|.|rfc4340.txt|.|134
+meir|.|rfc387.txt|.|6
+identifiable number|.|rfc6140.txt|.|34
+serial|.|rfc1976.txt|.|12|.|rfc1995.txt|.|17|.|rfc1982.txt|.|47|.|rfc2734.txt|.|31|.|rfc2182.txt|.|32|.|rfc1963.txt|.|15
+dlsrap february|.|rfc2106.txt|.|18
+rst bit|.|rfc5961.txt|.|13
+secret quantities|.|rfc4086.txt|.|4
+eight bits|.|rfc42.txt|.|2|.|rfc74.txt|.|7
+shockey|.|rfc4769.txt|.|17|.|rfc4759.txt|.|2
+reconsidered|.|rfc167.txt|.|4|.|rfc175.txt|.|2

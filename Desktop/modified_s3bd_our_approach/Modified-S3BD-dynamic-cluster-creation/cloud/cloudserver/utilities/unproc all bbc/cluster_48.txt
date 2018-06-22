@@ -1,0 +1,64 @@
+kennedy said|.|bbc_politics_301.txt|.|2|.|bbc_politics_093.txt|.|2|.|bbc_politics_417.txt|.|2
+joins|.|bbc_sport_186.txt|.|2|.|bbc_sport_024.txt|.|2|.|bbc_entertainment_002.txt|.|1|.|bbc_sport_338.txt|.|1|.|bbc_politics_352.txt|.|1
+joint|.|bbc_sport_244.txt|.|2
+vera drake|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_034.txt|.|2|.|bbc_entertainment_373.txt|.|2|.|bbc_entertainment_075.txt|.|4|.|bbc_entertainment_352.txt|.|8|.|bbc_entertainment_357.txt|.|6
+tell|.|bbc_politics_403.txt|.|2|.|bbc_tech_034.txt|.|4
+winners included|.|bbc_entertainment_034.txt|.|2
+taxes|.|bbc_politics_349.txt|.|4|.|bbc_politics_301.txt|.|6|.|bbc_politics_101.txt|.|4|.|bbc_politics_159.txt|.|3|.|bbc_business_041.txt|.|2|.|bbc_politics_077.txt|.|2|.|bbc_business_456.txt|.|1|.|bbc_politics_283.txt|.|4|.|bbc_politics_361.txt|.|2
+adaptation|.|bbc_entertainment_094.txt|.|3
+threshold|.|bbc_politics_054.txt|.|4|.|bbc_politics_361.txt|.|5
+ukip|.|bbc_politics_325.txt|.|6|.|bbc_politics_145.txt|.|3|.|bbc_politics_288.txt|.|8|.|bbc_politics_304.txt|.|5|.|bbc_politics_286.txt|.|7|.|bbc_politics_292.txt|.|10|.|bbc_politics_267.txt|.|9|.|bbc_politics_125.txt|.|7
+maternity|.|bbc_politics_001.txt|.|9|.|bbc_politics_128.txt|.|3|.|bbc_politics_340.txt|.|4|.|bbc_politics_003.txt|.|2
+sunset clause|.|bbc_politics_014.txt|.|5
+ripping|.|bbc_tech_326.txt|.|3
+mg|.|bbc_business_212.txt|.|3
+taxes must be trusted|.|bbc_politics_301.txt|.|1
+dems say|.|bbc_politics_213.txt|.|2
+brand|.|bbc_tech_209.txt|.|2|.|bbc_tech_374.txt|.|5|.|bbc_tech_128.txt|.|5
+promotional|.|bbc_entertainment_360.txt|.|1|.|bbc_entertainment_085.txt|.|2|.|bbc_politics_396.txt|.|2
+gandulla|.|bbc_sport_210.txt|.|2
+test results|.|bbc_tech_173.txt|.|2
+two big|.|bbc_politics_283.txt|.|1
+umbro|.|bbc_business_040.txt|.|7
+terror suspects|.|bbc_politics_014.txt|.|2|.|bbc_politics_182.txt|.|4|.|bbc_politics_384.txt|.|3|.|bbc_politics_070.txt|.|3|.|bbc_politics_160.txt|.|2|.|bbc_politics_216.txt|.|3|.|bbc_politics_097.txt|.|2
+blair rejects|.|bbc_politics_014.txt|.|1|.|bbc_politics_184.txt|.|1
+mathew|.|bbc_sport_308.txt|.|2
+project entropia|.|bbc_tech_249.txt|.|2
+thousands of products and tens|.|bbc_tech_395.txt|.|1
+national team|.|bbc_sport_100.txt|.|2
+us secret|.|bbc_tech_120.txt|.|3
+independent developers|.|bbc_tech_082.txt|.|3
+student|.|bbc_tech_092.txt|.|2|.|bbc_politics_246.txt|.|3|.|bbc_tech_323.txt|.|4|.|bbc_politics_213.txt|.|4|.|bbc_tech_051.txt|.|4
+chambers|.|bbc_sport_092.txt|.|4
+terrorists|.|bbc_politics_290.txt|.|16|.|bbc_politics_379.txt|.|2
+stamp|.|bbc_politics_054.txt|.|4|.|bbc_politics_361.txt|.|8|.|bbc_politics_375.txt|.|2
+mixed|.|bbc_sport_462.txt|.|3
+jarvis|.|bbc_business_341.txt|.|7
+dunne|.|bbc_sport_250.txt|.|3
+alan budd|.|bbc_politics_102.txt|.|2
+police chief|.|bbc_politics_198.txt|.|3
+bello|.|bbc_business_120.txt|.|2
+share|.|bbc_business_111.txt|.|3|.|bbc_business_237.txt|.|5|.|bbc_business_122.txt|.|2|.|bbc_business_294.txt|.|4|.|bbc_business_464.txt|.|3|.|bbc_business_276.txt|.|3|.|bbc_entertainment_179.txt|.|4|.|bbc_business_263.txt|.|3|.|bbc_entertainment_216.txt|.|4|.|bbc_business_462.txt|.|4|.|bbc_business_169.txt|.|2|.|bbc_politics_339.txt|.|6|.|bbc_business_485.txt|.|2|.|bbc_business_271.txt|.|3|.|bbc_tech_196.txt|.|3
+law change|.|bbc_politics_198.txt|.|2
+lecture|.|bbc_business_213.txt|.|4
+christmas card|.|bbc_tech_252.txt|.|2|.|bbc_tech_008.txt|.|2
+roundabout|.|bbc_entertainment_353.txt|.|11
+minimum wage|.|bbc_politics_380.txt|.|43
+email|.|bbc_tech_055.txt|.|7|.|bbc_tech_314.txt|.|7
+mr kennedy|.|bbc_politics_301.txt|.|4|.|bbc_politics_093.txt|.|4|.|bbc_politics_340.txt|.|6|.|bbc_politics_417.txt|.|6|.|bbc_politics_283.txt|.|5|.|bbc_politics_335.txt|.|4
+cross country|.|bbc_sport_076.txt|.|2|.|bbc_sport_025.txt|.|6|.|bbc_sport_024.txt|.|3|.|bbc_sport_078.txt|.|1|.|bbc_sport_087.txt|.|4|.|bbc_sport_013.txt|.|4|.|bbc_sport_021.txt|.|3|.|bbc_sport_074.txt|.|3
+exported|.|bbc_business_441.txt|.|2|.|bbc_politics_058.txt|.|1
+us tv|.|bbc_entertainment_080.txt|.|3|.|bbc_entertainment_182.txt|.|2
+os|.|bbc_tech_336.txt|.|2
+signed charlton|.|bbc_sport_186.txt|.|1
+liberal democrat|.|bbc_politics_247.txt|.|1|.|bbc_politics_091.txt|.|1|.|bbc_politics_213.txt|.|1|.|bbc_politics_324.txt|.|1
+manifesto for women|.|bbc_politics_340.txt|.|1
+families|.|bbc_politics_012.txt|.|6|.|bbc_politics_364.txt|.|2|.|bbc_entertainment_213.txt|.|7
+bombings|.|bbc_entertainment_054.txt|.|2
+information laws|.|bbc_politics_002.txt|.|2
+big parties|.|bbc_politics_334.txt|.|4|.|bbc_politics_283.txt|.|2
+cement|.|bbc_business_485.txt|.|8
+mr tansley|.|bbc_tech_277.txt|.|3
+stamp duty|.|bbc_politics_054.txt|.|4|.|bbc_politics_361.txt|.|8|.|bbc_politics_375.txt|.|2
+big screen|.|bbc_entertainment_353.txt|.|6
+lilly|.|bbc_business_449.txt|.|3

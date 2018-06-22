@@ -1,0 +1,64 @@
+taipei|.|bbc_sport_400.txt|.|2
+sacked by valencia|.|bbc_sport_161.txt|.|1
+rubbers|.|bbc_sport_466.txt|.|1
+defeated|.|bbc_sport_497.txt|.|2|.|bbc_sport_436.txt|.|2|.|bbc_sport_430.txt|.|2
+china and italy|.|bbc_sport_132.txt|.|2
+british team|.|bbc_sport_449.txt|.|2
+juan|.|bbc_sport_423.txt|.|2|.|bbc_sport_472.txt|.|2
+davis cup win|.|bbc_sport_470.txt|.|1|.|bbc_sport_469.txt|.|1
+beating roddick|.|bbc_sport_470.txt|.|1|.|bbc_sport_469.txt|.|1
+captain jeremy|.|bbc_sport_500.txt|.|2
+captained england|.|bbc_sport_367.txt|.|1
+georgia|.|bbc_sport_400.txt|.|2
+jonathan erlich|.|bbc_sport_437.txt|.|2
+cup debut|.|bbc_sport_500.txt|.|2
+stadium|.|bbc_sport_245.txt|.|4|.|bbc_sport_196.txt|.|2|.|bbc_sport_317.txt|.|2|.|bbc_sport_143.txt|.|3|.|bbc_business_062.txt|.|2|.|bbc_business_271.txt|.|5
+blow|.|bbc_sport_171.txt|.|2
+davis cup tennis|.|bbc_sport_449.txt|.|2
+erlich|.|bbc_sport_437.txt|.|2
+davis cup|.|bbc_sport_437.txt|.|2|.|bbc_sport_485.txt|.|2|.|bbc_sport_431.txt|.|3|.|bbc_sport_499.txt|.|5|.|bbc_sport_472.txt|.|2|.|bbc_sport_500.txt|.|10|.|bbc_sport_449.txt|.|4|.|bbc_sport_470.txt|.|5|.|bbc_sport_466.txt|.|4|.|bbc_sport_469.txt|.|5
+irish cup|.|bbc_sport_131.txt|.|2
+end the season|.|bbc_sport_367.txt|.|1
+ranieri sacked|.|bbc_sport_161.txt|.|1
+singles rubbers|.|bbc_sport_466.txt|.|1
+qualifiers|.|bbc_sport_132.txt|.|2
+hong|.|bbc_business_269.txt|.|5|.|bbc_business_260.txt|.|2|.|bbc_sport_400.txt|.|3|.|bbc_sport_374.txt|.|3|.|bbc_sport_456.txt|.|2
+tommy robredo|.|bbc_sport_466.txt|.|2
+parmar|.|bbc_sport_431.txt|.|3
+ranieri|.|bbc_sport_161.txt|.|4
+heineken cup|.|bbc_sport_391.txt|.|3|.|bbc_sport_317.txt|.|2
+cup qualifiers|.|bbc_sport_132.txt|.|2
+captained|.|bbc_sport_367.txt|.|2
+cup|.|bbc_sport_174.txt|.|3|.|bbc_sport_437.txt|.|3|.|bbc_sport_131.txt|.|4|.|bbc_sport_390.txt|.|2|.|bbc_sport_497.txt|.|3|.|bbc_sport_144.txt|.|2|.|bbc_sport_500.txt|.|10|.|bbc_sport_122.txt|.|2|.|bbc_sport_267.txt|.|2|.|bbc_sport_470.txt|.|5|.|bbc_sport_466.txt|.|5|.|bbc_sport_496.txt|.|3|.|bbc_sport_161.txt|.|3|.|bbc_sport_485.txt|.|2|.|bbc_sport_132.txt|.|6|.|bbc_sport_391.txt|.|4|.|bbc_sport_472.txt|.|3|.|bbc_sport_317.txt|.|3|.|bbc_sport_184.txt|.|2|.|bbc_sport_197.txt|.|2|.|bbc_sport_449.txt|.|7|.|bbc_sport_171.txt|.|2|.|bbc_sport_387.txt|.|2|.|bbc_sport_095.txt|.|2|.|bbc_sport_374.txt|.|4|.|bbc_sport_150.txt|.|2|.|bbc_sport_499.txt|.|5|.|bbc_sport_367.txt|.|4|.|bbc_sport_345.txt|.|1|.|bbc_sport_388.txt|.|2|.|bbc_sport_111.txt|.|4|.|bbc_sport_455.txt|.|3|.|bbc_sport_375.txt|.|6|.|bbc_sport_431.txt|.|3|.|bbc_sport_385.txt|.|2|.|bbc_sport_194.txt|.|2|.|bbc_sport_169.txt|.|3|.|bbc_sport_358.txt|.|2|.|bbc_sport_159.txt|.|4|.|bbc_sport_261.txt|.|2|.|bbc_sport_205.txt|.|4|.|bbc_sport_400.txt|.|4|.|bbc_sport_469.txt|.|5
+grand slams|.|bbc_sport_500.txt|.|1
+britain|.|bbc_politics_349.txt|.|4|.|bbc_sport_500.txt|.|6|.|bbc_politics_367.txt|.|9|.|bbc_entertainment_191.txt|.|3|.|bbc_entertainment_201.txt|.|6|.|bbc_politics_237.txt|.|2|.|bbc_entertainment_212.txt|.|4|.|bbc_politics_155.txt|.|3|.|bbc_sport_370.txt|.|3|.|bbc_politics_346.txt|.|3|.|bbc_politics_160.txt|.|3|.|bbc_politics_110.txt|.|9|.|bbc_tech_354.txt|.|3
+year in top|.|bbc_sport_499.txt|.|1
+slams|.|bbc_sport_500.txt|.|1|.|bbc_sport_458.txt|.|2
+johnson has announced|.|bbc_sport_367.txt|.|1
+world cup winning|.|bbc_sport_390.txt|.|1
+cup tennis|.|bbc_sport_449.txt|.|2
+juan carlos|.|bbc_sport_423.txt|.|2|.|bbc_sport_472.txt|.|2
+cup sevens|.|bbc_sport_400.txt|.|2
+austrian|.|bbc_sport_485.txt|.|2|.|bbc_entertainment_277.txt|.|1
+uefa cup|.|bbc_sport_144.txt|.|2|.|bbc_sport_261.txt|.|2|.|bbc_sport_171.txt|.|2|.|bbc_sport_161.txt|.|2
+riot gear|.|bbc_sport_197.txt|.|2
+jeremy bates|.|bbc_sport_500.txt|.|2
+yeading|.|bbc_sport_205.txt|.|4
+valencia|.|bbc_sport_161.txt|.|4
+world cup|.|bbc_sport_390.txt|.|2|.|bbc_sport_132.txt|.|6|.|bbc_sport_385.txt|.|2|.|bbc_sport_367.txt|.|3|.|bbc_sport_194.txt|.|2|.|bbc_sport_387.txt|.|2|.|bbc_sport_345.txt|.|1|.|bbc_sport_400.txt|.|4|.|bbc_sport_374.txt|.|4|.|bbc_sport_375.txt|.|5
+screen daily|.|bbc_entertainment_065.txt|.|2
+british tennis|.|bbc_sport_449.txt|.|1
+riot|.|bbc_sport_197.txt|.|2
+great britain|.|bbc_sport_500.txt|.|2|.|bbc_sport_370.txt|.|2
+clinching|.|bbc_sport_466.txt|.|1
+meeting on wednesday|.|bbc_sport_131.txt|.|1
+june|.|bbc_sport_091.txt|.|2|.|bbc_sport_367.txt|.|3|.|bbc_entertainment_146.txt|.|2
+carling cup|.|bbc_sport_174.txt|.|3|.|bbc_sport_169.txt|.|3|.|bbc_sport_197.txt|.|2|.|bbc_sport_111.txt|.|3
+january|.|bbc_business_225.txt|.|2|.|bbc_entertainment_179.txt|.|4|.|bbc_business_275.txt|.|2|.|bbc_entertainment_216.txt|.|4|.|bbc_sport_274.txt|.|3|.|bbc_business_108.txt|.|3|.|bbc_sport_205.txt|.|2|.|bbc_business_156.txt|.|1|.|bbc_business_163.txt|.|3|.|bbc_business_234.txt|.|2|.|bbc_sport_242.txt|.|2
+playing regularly|.|bbc_sport_194.txt|.|2
+final match|.|bbc_sport_367.txt|.|2
+chinese taipei|.|bbc_sport_400.txt|.|2
+carling cup tie|.|bbc_sport_197.txt|.|2
+jeremy|.|bbc_sport_500.txt|.|3
+tigers|.|bbc_sport_391.txt|.|5|.|bbc_sport_398.txt|.|2
+offer matt|.|bbc_sport_390.txt|.|1

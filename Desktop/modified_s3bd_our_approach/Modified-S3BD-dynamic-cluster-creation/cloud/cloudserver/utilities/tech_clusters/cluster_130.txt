@@ -1,0 +1,17 @@
+130
+employers|.|079.txt|.|4|.|373.txt|.|4
+patenting of software|.|258.txt|.|2
+amount|.|314.txt|.|2|.|026.txt|.|3|.|055.txt|.|2
+using a pc|.|079.txt|.|1|.|373.txt|.|1
+student|.|323.txt|.|4|.|051.txt|.|4|.|092.txt|.|2
+bot|.|357.txt|.|9|.|281.txt|.|5
+firm|.|269.txt|.|4|.|221.txt|.|1|.|024.txt|.|2|.|116.txt|.|2|.|261.txt|.|3|.|122.txt|.|3|.|079.txt|.|2|.|362.txt|.|4|.|373.txt|.|2|.|250.txt|.|2|.|280.txt|.|2|.|148.txt|.|2|.|055.txt|.|4|.|010.txt|.|2|.|276.txt|.|4|.|246.txt|.|1|.|271.txt|.|1|.|314.txt|.|4|.|043.txt|.|2|.|290.txt|.|2|.|268.txt|.|2
+cast|.|024.txt|.|2
+japanese|.|246.txt|.|2|.|054.txt|.|2
+desktop|.|269.txt|.|9|.|237.txt|.|9|.|108.txt|.|11
+intellectual property|.|268.txt|.|3
+management|.|314.txt|.|1|.|055.txt|.|1
+holds|.|024.txt|.|1
+crime|.|079.txt|.|1|.|373.txt|.|1
+ea|.|276.txt|.|9|.|056.txt|.|6
+parents|.|231.txt|.|6

@@ -1,0 +1,38 @@
+266
+admissions consulting|.|WET453.txt|.|5
+chevy|.|WET5667.txt|.|346|.|WET5158.txt|.|37|.|WET5159.txt|.|24|.|WET1409.txt|.|20
+part time mba|.|WET452.txt|.|11
+optimus prep|.|WET4198.txt|.|30
+general conspiracy|.|WET1504.txt|.|17|.|WET5256.txt|.|4
+postsview|.|WET406.txt|.|86|.|WET5618.txt|.|102|.|WET2655.txt|.|92
+tests gmat|.|WET452.txt|.|22
+news weekendcbn|.|WET1445.txt|.|8
+user first name|.|WET3643.txt|.|16
+holiday|.|WET3616.txt|.|30|.|WET5534.txt|.|99|.|WET838.txt|.|24|.|WET1558.txt|.|22|.|WET5810.txt|.|276|.|WET2069.txt|.|56|.|WET108.txt|.|17|.|WET3643.txt|.|110|.|WET4869.txt|.|12
+racquet club|.|WET1549.txt|.|6
+time mba|.|WET4198.txt|.|20|.|WET452.txt|.|22
+verbal gmat books|.|WET452.txt|.|12
+corner|.|WET2655.txt|.|36
+gmat club|.|WET4198.txt|.|75|.|WET453.txt|.|20|.|WET452.txt|.|101
+club conspiracy forums|.|WET5255.txt|.|34|.|WET1504.txt|.|32
+club|.|WET5667.txt|.|190|.|WET2904.txt|.|23|.|WET4781.txt|.|19|.|WET1549.txt|.|19|.|WET2917.txt|.|77|.|WET2057.txt|.|25|.|WET5255.txt|.|56|.|WET5810.txt|.|213|.|WET6269.txt|.|21|.|WET2918.txt|.|124|.|WET5801.txt|.|46|.|WET4197.txt|.|52|.|WET2896.txt|.|35|.|WET4198.txt|.|93|.|WET3201.txt|.|61|.|WET3302.txt|.|36|.|WET3177.txt|.|25|.|WET2523.txt|.|19|.|WET2655.txt|.|79|.|WET5460.txt|.|18|.|WET452.txt|.|123|.|WET5218.txt|.|84|.|WET1350.txt|.|36|.|WET5579.txt|.|146|.|WET1504.txt|.|60|.|WET1414.txt|.|23|.|WET453.txt|.|25|.|WET3643.txt|.|244|.|WET1268.txt|.|24|.|WET4203.txt|.|24|.|WET2069.txt|.|73|.|WET4196.txt|.|33|.|WET5004.txt|.|25|.|WET2166.txt|.|48|.|WET1445.txt|.|72|.|WET5962.txt|.|15
+time mba rankings|.|WET452.txt|.|22
+calendar add|.|WET6269.txt|.|5
+crave magazine|.|WET5218.txt|.|58
+club news|.|WET5579.txt|.|16
+community club conspiracy|.|WET5255.txt|.|7
+gmat verbal section|.|WET452.txt|.|14
+gmat tutor|.|WET453.txt|.|10
+league|.|WET1256.txt|.|232|.|WET3124.txt|.|38|.|WET3306.txt|.|54|.|WET2917.txt|.|131|.|WET2918.txt|.|239|.|WET1572.txt|.|31|.|WET4394.txt|.|74|.|WET3044.txt|.|23|.|WET2580.txt|.|85|.|WET4693.txt|.|81|.|WET2948.txt|.|26|.|WET3898.txt|.|23|.|WET5805.txt|.|8|.|WET1257.txt|.|180|.|WET6318.txt|.|41|.|WET1929.txt|.|118|.|WET700.txt|.|41|.|WET415.txt|.|22|.|WET2919.txt|.|110|.|WET3045.txt|.|42|.|WET3951.txt|.|17|.|WET4441.txt|.|27|.|WET2499.txt|.|57|.|WET5670.txt|.|95
+good bird|.|WET4203.txt|.|14
+crave|.|WET5218.txt|.|58
+truck club|.|WET5667.txt|.|166
+gmat books math|.|WET452.txt|.|11
+tests|.|WET5468.txt|.|6|.|WET452.txt|.|88
+optimus|.|WET4198.txt|.|30
+owners club|.|WET5579.txt|.|72
+vacations|.|WET1496.txt|.|15|.|WET2069.txt|.|9|.|WET3643.txt|.|24|.|WET537.txt|.|9
+converse|.|WET2166.txt|.|41
+club conspiracy|.|WET5255.txt|.|56|.|WET1504.txt|.|60
+user|.|WET2328.txt|.|27|.|WET2582.txt|.|23|.|WET4137.txt|.|50|.|WET4667.txt|.|139|.|WET397.txt|.|62|.|WET5026.txt|.|6|.|WET279.txt|.|8|.|WET2955.txt|.|26|.|WET842.txt|.|2|.|WET3087.txt|.|22|.|WET613.txt|.|2|.|WET845.txt|.|13|.|WET5528.txt|.|135|.|WET5752.txt|.|285|.|WET3903.txt|.|30|.|WET3916.txt|.|60|.|WET1828.txt|.|21|.|WET4668.txt|.|48|.|WET1209.txt|.|4|.|WET3923.txt|.|2|.|WET4223.txt|.|25|.|WET3427.txt|.|50|.|WET3452.txt|.|86|.|WET4147.txt|.|40|.|WET565.txt|.|2|.|WET4580.txt|.|6|.|WET3643.txt|.|24|.|WET416.txt|.|82|.|WET4300.txt|.|2|.|WET5085.txt|.|18|.|WET4157.txt|.|130|.|WET4793.txt|.|12|.|WET5768.txt|.|38|.|WET873.txt|.|20|.|WET2094.txt|.|33|.|WET396.txt|.|16|.|WET3382.txt|.|22|.|WET4021.txt|.|2
+telstra|.|WET2523.txt|.|30

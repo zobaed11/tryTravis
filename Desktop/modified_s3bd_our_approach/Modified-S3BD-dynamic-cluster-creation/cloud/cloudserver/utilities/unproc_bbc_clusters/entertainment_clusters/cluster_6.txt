@@ -1,0 +1,93 @@
+6
+reimburse|.|bbc_entertainment_247.txt|.|1
+attend|.|bbc_entertainment_084.txt|.|2
+def|.|bbc_entertainment_117.txt|.|7
+clean cut|.|bbc_entertainment_381.txt|.|1
+japan|.|bbc_entertainment_087.txt|.|1
+arkansas|.|bbc_entertainment_281.txt|.|3
+replace|.|bbc_entertainment_231.txt|.|2|.|bbc_entertainment_197.txt|.|2
+fatboy|.|bbc_entertainment_122.txt|.|3
+husband|.|bbc_entertainment_146.txt|.|3
+promise|.|bbc_entertainment_252.txt|.|1
+billy elliot|.|bbc_entertainment_292.txt|.|2
+uk film|.|bbc_entertainment_371.txt|.|2|.|bbc_entertainment_351.txt|.|3
+music choice|.|bbc_entertainment_290.txt|.|2
+abba|.|bbc_entertainment_265.txt|.|3
+def jam|.|bbc_entertainment_117.txt|.|4
+major oscars|.|bbc_entertainment_373.txt|.|2
+tale|.|bbc_entertainment_359.txt|.|4|.|bbc_entertainment_002.txt|.|1
+national theatre|.|bbc_entertainment_008.txt|.|2
+daldry|.|bbc_entertainment_292.txt|.|3
+major|.|bbc_entertainment_245.txt|.|2|.|bbc_entertainment_366.txt|.|2|.|bbc_entertainment_373.txt|.|2
+moving castle|.|bbc_entertainment_087.txt|.|4
+beat|.|bbc_entertainment_372.txt|.|2|.|bbc_entertainment_243.txt|.|2
+tip|.|bbc_entertainment_328.txt|.|1|.|bbc_entertainment_086.txt|.|1
+funds|.|bbc_entertainment_130.txt|.|2
+day|.|bbc_entertainment_100.txt|.|4|.|bbc_entertainment_124.txt|.|2|.|bbc_entertainment_127.txt|.|1|.|bbc_entertainment_267.txt|.|3|.|bbc_entertainment_358.txt|.|2|.|bbc_entertainment_369.txt|.|2|.|bbc_entertainment_103.txt|.|1|.|bbc_entertainment_341.txt|.|1|.|bbc_entertainment_214.txt|.|3|.|bbc_entertainment_227.txt|.|2|.|bbc_entertainment_055.txt|.|1|.|bbc_entertainment_322.txt|.|2|.|bbc_entertainment_286.txt|.|4|.|bbc_entertainment_130.txt|.|3|.|bbc_entertainment_076.txt|.|4|.|bbc_entertainment_234.txt|.|2|.|bbc_entertainment_102.txt|.|1
+potential|.|bbc_entertainment_108.txt|.|3
+chicago|.|bbc_entertainment_030.txt|.|2|.|bbc_entertainment_343.txt|.|2
+auctions|.|bbc_entertainment_018.txt|.|1
+group|.|bbc_entertainment_174.txt|.|2|.|bbc_entertainment_107.txt|.|2|.|bbc_entertainment_296.txt|.|3|.|bbc_entertainment_248.txt|.|4|.|bbc_entertainment_279.txt|.|3|.|bbc_entertainment_210.txt|.|2
+oscar|.|bbc_entertainment_059.txt|.|3|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_035.txt|.|4|.|bbc_entertainment_084.txt|.|6|.|bbc_entertainment_328.txt|.|2|.|bbc_entertainment_089.txt|.|3|.|bbc_entertainment_385.txt|.|2|.|bbc_entertainment_073.txt|.|3|.|bbc_entertainment_363.txt|.|3|.|bbc_entertainment_086.txt|.|2|.|bbc_entertainment_350.txt|.|3|.|bbc_entertainment_185.txt|.|3|.|bbc_entertainment_371.txt|.|3|.|bbc_entertainment_373.txt|.|4|.|bbc_entertainment_324.txt|.|3|.|bbc_entertainment_045.txt|.|1|.|bbc_entertainment_087.txt|.|1|.|bbc_entertainment_056.txt|.|2
+repeatedly|.|bbc_entertainment_056.txt|.|2
+da vinci|.|bbc_entertainment_009.txt|.|3|.|bbc_entertainment_376.txt|.|6|.|bbc_entertainment_098.txt|.|2|.|bbc_entertainment_308.txt|.|2|.|bbc_entertainment_068.txt|.|2
+pax|.|bbc_entertainment_029.txt|.|3
+tree|.|bbc_entertainment_001.txt|.|5
+bill|.|bbc_entertainment_280.txt|.|2
+minority ethnic led|.|bbc_entertainment_194.txt|.|4
+barrow told|.|bbc_entertainment_238.txt|.|2
+baby has become the new|.|bbc_entertainment_078.txt|.|1
+fines|.|bbc_entertainment_171.txt|.|5
+william hill|.|bbc_entertainment_221.txt|.|2|.|bbc_entertainment_328.txt|.|5|.|bbc_entertainment_086.txt|.|5|.|bbc_entertainment_333.txt|.|2
+exorcist|.|bbc_entertainment_362.txt|.|2
+state opera|.|bbc_entertainment_023.txt|.|1|.|bbc_entertainment_273.txt|.|1
+branson|.|bbc_entertainment_178.txt|.|1
+csi episode|.|bbc_entertainment_365.txt|.|1
+mumbai bombs|.|bbc_entertainment_054.txt|.|1
+ian curtis|.|bbc_entertainment_228.txt|.|2
+mike|.|bbc_entertainment_373.txt|.|2|.|bbc_entertainment_352.txt|.|4|.|bbc_entertainment_118.txt|.|2
+christmas tree|.|bbc_entertainment_001.txt|.|2
+howard|.|bbc_entertainment_098.txt|.|2
+cited|.|bbc_entertainment_048.txt|.|2
+last film|.|bbc_entertainment_057.txt|.|2
+fuller|.|bbc_entertainment_319.txt|.|8
+television industries|.|bbc_entertainment_194.txt|.|2
+vanity|.|bbc_entertainment_061.txt|.|5
+comedian|.|bbc_entertainment_204.txt|.|3|.|bbc_entertainment_190.txt|.|1|.|bbc_entertainment_185.txt|.|2
+ms craymer|.|bbc_entertainment_346.txt|.|2
+nominees|.|bbc_entertainment_084.txt|.|5|.|bbc_entertainment_377.txt|.|6|.|bbc_entertainment_363.txt|.|5|.|bbc_entertainment_369.txt|.|2
+uk charity|.|bbc_entertainment_360.txt|.|2
+adoption|.|bbc_entertainment_166.txt|.|7
+spark|.|bbc_entertainment_017.txt|.|3
+angels|.|bbc_entertainment_290.txt|.|2
+hotel|.|bbc_entertainment_323.txt|.|2|.|bbc_entertainment_047.txt|.|6|.|bbc_entertainment_247.txt|.|2
+kidman|.|bbc_entertainment_327.txt|.|5
+banned|.|bbc_entertainment_010.txt|.|2
+music studio|.|bbc_entertainment_116.txt|.|2
+race for the oscars entered|.|bbc_entertainment_081.txt|.|1
+boycott|.|bbc_entertainment_281.txt|.|2
+deadline|.|bbc_entertainment_035.txt|.|2
+redford|.|bbc_entertainment_032.txt|.|7
+parental|.|bbc_entertainment_113.txt|.|1
+nelly|.|bbc_entertainment_281.txt|.|3
+nostalgia|.|bbc_entertainment_353.txt|.|7
+drake will lead|.|bbc_entertainment_323.txt|.|1
+charity single|.|bbc_entertainment_130.txt|.|2
+hit factory|.|bbc_entertainment_116.txt|.|2
+clean|.|bbc_entertainment_381.txt|.|1
+performed|.|bbc_entertainment_343.txt|.|1
+seeking|.|bbc_entertainment_247.txt|.|1
+picture|.|bbc_entertainment_035.txt|.|2|.|bbc_entertainment_385.txt|.|2|.|bbc_entertainment_078.txt|.|2
+march|.|bbc_entertainment_362.txt|.|2
+onyx hotel|.|bbc_entertainment_247.txt|.|2
+tells|.|bbc_entertainment_343.txt|.|1
+magic roundabout|.|bbc_entertainment_353.txt|.|9
+june|.|bbc_entertainment_146.txt|.|2
+trapp|.|bbc_entertainment_277.txt|.|3
+film council|.|bbc_entertainment_371.txt|.|3|.|bbc_entertainment_351.txt|.|2
+spector|.|bbc_entertainment_149.txt|.|8
+fellow|.|bbc_entertainment_180.txt|.|2
+fetch|.|bbc_entertainment_164.txt|.|2
+earn|.|bbc_entertainment_351.txt|.|3
+nominated|.|bbc_entertainment_089.txt|.|2|.|bbc_entertainment_073.txt|.|1|.|bbc_entertainment_373.txt|.|3|.|bbc_entertainment_324.txt|.|1|.|bbc_entertainment_082.txt|.|4|.|bbc_entertainment_045.txt|.|1|.|bbc_entertainment_075.txt|.|2|.|bbc_entertainment_350.txt|.|1|.|bbc_entertainment_039.txt|.|4
+choice|.|bbc_entertainment_201.txt|.|2|.|bbc_entertainment_097.txt|.|2|.|bbc_entertainment_290.txt|.|3

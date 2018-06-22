@@ -1,0 +1,38 @@
+23
+cancel|.|WET4793.txt|.|16|.|WET1096.txt|.|46|.|WET1217.txt|.|14|.|WET4845.txt|.|33|.|WET2935.txt|.|16|.|WET112.txt|.|6|.|WET5590.txt|.|53
+role|.|WET3462.txt|.|3|.|WET4642.txt|.|1|.|WET6243.txt|.|12|.|WET3673.txt|.|6|.|WET4042.txt|.|1|.|WET4943.txt|.|7|.|WET153.txt|.|2|.|WET13.txt|.|4|.|WET5104.txt|.|25|.|WET3939.txt|.|1|.|WET1190.txt|.|12|.|WET243.txt|.|2
+turf|.|WET2916.txt|.|10
+unavailable|.|WET4291.txt|.|10
+station info|.|WET2266.txt|.|32
+welcome screen|.|WET3569.txt|.|18
+advocacy program|.|WET2776.txt|.|32
+no ratingslogin|.|WET5376.txt|.|76
+roll|.|WET237.txt|.|12|.|WET5455.txt|.|32
+clinton|.|WET1542.txt|.|20|.|WET5895.txt|.|22
+turn|.|WET1583.txt|.|18|.|WET3063.txt|.|6
+details view|.|WET5846.txt|.|7
+salary|.|WET5860.txt|.|48|.|WET2119.txt|.|19|.|WET3087.txt|.|11|.|WET4672.txt|.|66|.|WET2605.txt|.|96
+turk|.|WET3142.txt|.|35
+guards|.|WET2893.txt|.|9
+gold|.|WET3354.txt|.|171|.|WET5636.txt|.|197|.|WET2793.txt|.|127|.|WET1186.txt|.|49|.|WET591.txt|.|19|.|WET4196.txt|.|53|.|WET5634.txt|.|29|.|WET4939.txt|.|48|.|WET5635.txt|.|226|.|WET3355.txt|.|20|.|WET5657.txt|.|15
+rare diseases|.|WET3514.txt|.|17
+cards fashion blank|.|WET2593.txt|.|11
+pico|.|WET1994.txt|.|16
+photographers|.|WET4883.txt|.|34
+pick|.|WET2072.txt|.|20|.|WET5990.txt|.|59
+firetrap|.|WET5864.txt|.|32
+grade a milk|.|WET210.txt|.|13
+arc cycle|.|WET505.txt|.|1
+pics|.|WET3304.txt|.|27|.|WET2323.txt|.|14|.|WET3958.txt|.|24|.|WET3320.txt|.|54
+vbulletin message take|.|WET2094.txt|.|11
+energy|.|WET1927.txt|.|45|.|WET5757.txt|.|128|.|WET6307.txt|.|1235|.|WET327.txt|.|31|.|WET3058.txt|.|45|.|WET2017.txt|.|162|.|WET5758.txt|.|85|.|WET3190.txt|.|33|.|WET123.txt|.|4|.|WET4072.txt|.|17
+personal training|.|WET2057.txt|.|47
+cda|.|WET2700.txt|.|1|.|WET1105.txt|.|4|.|WET4381.txt|.|2
+antonio|.|WET2442.txt|.|180|.|WET6184.txt|.|370|.|WET6185.txt|.|405|.|WET5765.txt|.|143|.|WET1563.txt|.|20
+sunoco stamp|.|WET1836.txt|.|52
+carriers|.|WET919.txt|.|113|.|WET3445.txt|.|52|.|WET4656.txt|.|90|.|WET3446.txt|.|50
+anonymous said|.|WET803.txt|.|160|.|WET3867.txt|.|187|.|WET3381.txt|.|201|.|WET123.txt|.|142
+add or remove|.|WET226.txt|.|16|.|WET4027.txt|.|10|.|WET177.txt|.|22|.|WET284.txt|.|22|.|WET4034.txt|.|25
+cdt|.|WET3382.txt|.|236|.|WET6247.txt|.|34
+cds|.|WET1988.txt|.|80|.|WET5729.txt|.|89
+protective|.|WET3251.txt|.|32|.|WET1343.txt|.|5|.|WET2950.txt|.|80

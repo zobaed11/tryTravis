@@ -1,0 +1,38 @@
+392
+traffic flowing|.|WET306.txt|.|9
+jd supra|.|WET2133.txt|.|136|.|WET2134.txt|.|82|.|WET5874.txt|.|141
+reasonable|.|WET1355.txt|.|25
+fine art|.|WET5671.txt|.|7|.|WET1930.txt|.|11
+surgeon|.|WET3694.txt|.|22
+sims|.|WET5285.txt|.|23
+policy search|.|WET2869.txt|.|4|.|WET1074.txt|.|4
+link policy|.|WET341.txt|.|2|.|WET2965.txt|.|2|.|WET2127.txt|.|1|.|WET1206.txt|.|2|.|WET5869.txt|.|1
+online privacy policy|.|WET9.txt|.|26
+montgomery scott hikaru|.|WET643.txt|.|14
+reserve|.|WET5133.txt|.|24|.|WET3466.txt|.|84|.|WET3518.txt|.|9
+symptom checker|.|WET1997.txt|.|20
+privacy policy|.|WET1014.txt|.|4|.|WET842.txt|.|5|.|WET1463.txt|.|14|.|WET1217.txt|.|8|.|WET710.txt|.|5|.|WET2243.txt|.|5|.|WET4403.txt|.|6|.|WET1790.txt|.|9|.|WET2935.txt|.|14|.|WET2658.txt|.|13|.|WET5738.txt|.|13|.|WET1820.txt|.|8|.|WET2244.txt|.|4|.|WET964.txt|.|10|.|WET4943.txt|.|7|.|WET1570.txt|.|9|.|WET3120.txt|.|7|.|WET2278.txt|.|10|.|WET2103.txt|.|26|.|WET3694.txt|.|13|.|WET698.txt|.|8|.|WET3802.txt|.|3|.|WET5499.txt|.|14|.|WET976.txt|.|5|.|WET4821.txt|.|16|.|WET5695.txt|.|7|.|WET1351.txt|.|5|.|WET5351.txt|.|44|.|WET1206.txt|.|4|.|WET5922.txt|.|15|.|WET6025.txt|.|9|.|WET2012.txt|.|11|.|WET3254.txt|.|9|.|WET1997.txt|.|22|.|WET5750.txt|.|19|.|WET5285.txt|.|6|.|WET2975.txt|.|5|.|WET5670.txt|.|40|.|WET2875.txt|.|10|.|WET2629.txt|.|15|.|WET502.txt|.|5|.|WET3638.txt|.|8|.|WET5671.txt|.|43|.|WET5874.txt|.|43|.|WET643.txt|.|16|.|WET163.txt|.|4|.|WET3671.txt|.|6|.|WET3948.txt|.|8|.|WET3485.txt|.|27|.|WET3628.txt|.|7|.|WET4655.txt|.|15|.|WET1257.txt|.|9|.|WET2929.txt|.|10|.|WET2133.txt|.|49|.|WET3231.txt|.|9|.|WET1930.txt|.|66|.|WET121.txt|.|6|.|WET3019.txt|.|12|.|WET2999.txt|.|3|.|WET4990.txt|.|25|.|WET3660.txt|.|20|.|WET3288.txt|.|10|.|WET1915.txt|.|7|.|WET5533.txt|.|13|.|WET1690.txt|.|9|.|WET254.txt|.|10|.|WET5282.txt|.|5|.|WET6046.txt|.|7|.|WET827.txt|.|5|.|WET3723.txt|.|8|.|WET237.txt|.|5|.|WET2348.txt|.|5|.|WET3865.txt|.|6|.|WET3529.txt|.|8|.|WET843.txt|.|6|.|WET4555.txt|.|5
+policy about orthodoxwiki|.|WET734.txt|.|11
+search policy|.|WET1152.txt|.|5
+policy|.|WET842.txt|.|8|.|WET1463.txt|.|19|.|WET710.txt|.|5|.|WET2935.txt|.|14|.|WET2658.txt|.|17|.|WET1074.txt|.|7|.|WET2244.txt|.|7|.|WET964.txt|.|10|.|WET4943.txt|.|9|.|WET1570.txt|.|28|.|WET3120.txt|.|18|.|WET3694.txt|.|16|.|WET976.txt|.|7|.|WET4821.txt|.|18|.|WET1351.txt|.|5|.|WET5351.txt|.|47|.|WET1206.txt|.|8|.|WET6025.txt|.|9|.|WET3254.txt|.|11|.|WET5750.txt|.|29|.|WET5869.txt|.|3|.|WET5285.txt|.|17|.|WET2875.txt|.|10|.|WET4891.txt|.|181|.|WET791.txt|.|21|.|WET502.txt|.|11|.|WET3638.txt|.|11|.|WET5671.txt|.|43|.|WET5874.txt|.|101|.|WET643.txt|.|39|.|WET163.txt|.|6|.|WET1257.txt|.|11|.|WET2965.txt|.|24|.|WET2929.txt|.|10|.|WET306.txt|.|117|.|WET3019.txt|.|18|.|WET2999.txt|.|5|.|WET3288.txt|.|11|.|WET1690.txt|.|33|.|WET1355.txt|.|67|.|WET5282.txt|.|8|.|WET827.txt|.|5|.|WET1152.txt|.|14|.|WET3723.txt|.|13|.|WET5259.txt|.|17|.|WET2348.txt|.|5|.|WET5741.txt|.|3|.|WET6162.txt|.|13|.|WET3529.txt|.|19|.|WET2869.txt|.|10|.|WET1014.txt|.|5|.|WET1217.txt|.|8|.|WET2243.txt|.|6|.|WET4403.txt|.|7|.|WET1790.txt|.|11|.|WET5738.txt|.|17|.|WET9.txt|.|58|.|WET1820.txt|.|9|.|WET2278.txt|.|10|.|WET2103.txt|.|40|.|WET698.txt|.|15|.|WET4802.txt|.|12|.|WET3802.txt|.|3|.|WET5499.txt|.|14|.|WET5695.txt|.|9|.|WET5922.txt|.|15|.|WET2012.txt|.|16|.|WET1997.txt|.|29|.|WET6073.txt|.|12|.|WET2975.txt|.|5|.|WET5670.txt|.|40|.|WET341.txt|.|7|.|WET2629.txt|.|17|.|WET5823.txt|.|22|.|WET3671.txt|.|12|.|WET3948.txt|.|8|.|WET3485.txt|.|32|.|WET3628.txt|.|8|.|WET4655.txt|.|28|.|WET2133.txt|.|105|.|WET4346.txt|.|10|.|WET3231.txt|.|9|.|WET1930.txt|.|66|.|WET121.txt|.|11|.|WET4990.txt|.|25|.|WET3660.txt|.|28|.|WET1915.txt|.|7|.|WET3466.txt|.|202|.|WET5533.txt|.|16|.|WET254.txt|.|13|.|WET6046.txt|.|7|.|WET734.txt|.|11|.|WET237.txt|.|10|.|WET3865.txt|.|7|.|WET2127.txt|.|5|.|WET843.txt|.|6|.|WET4555.txt|.|6
+waste|.|WET2127.txt|.|5
+faqsprivacy policy|.|WET4346.txt|.|8
+service level agreements|.|WET306.txt|.|3
+based|.|WET9.txt|.|2
+plastic surgeon|.|WET3694.txt|.|20
+titles and logos|.|WET5259.txt|.|8
+custom event|.|WET2244.txt|.|4
+search personal|.|WET1152.txt|.|2
+link utilization|.|WET306.txt|.|8
+utilization|.|WET306.txt|.|27
+munich|.|WET3466.txt|.|125|.|WET902.txt|.|16
+sharpeners|.|WET4802.txt|.|6
+double tourbillon|.|WET3638.txt|.|7
+usda forest|.|WET2103.txt|.|16
+growth|.|WET3466.txt|.|479
+cq roll|.|WET237.txt|.|10
+shows news|.|WET5259.txt|.|18
+additional support|.|WET2103.txt|.|5
+federal reserve|.|WET3466.txt|.|80|.|WET3518.txt|.|9
+mediator|.|WET265.txt|.|2|.|WET3820.txt|.|1|.|WET4555.txt|.|2
+errors|.|WET306.txt|.|14|.|WET4610.txt|.|20

@@ -1,0 +1,91 @@
+16
+harmony|.|bbc_tech_179.txt|.|2|.|bbc_tech_131.txt|.|2
+developers|.|bbc_tech_309.txt|.|5|.|bbc_tech_082.txt|.|5|.|bbc_tech_052.txt|.|3|.|bbc_tech_243.txt|.|3
+armes|.|bbc_tech_309.txt|.|4
+new products|.|bbc_tech_259.txt|.|2
+ship|.|bbc_tech_179.txt|.|2|.|bbc_tech_131.txt|.|2
+language|.|bbc_tech_312.txt|.|3|.|bbc_tech_251.txt|.|4|.|bbc_tech_090.txt|.|3
+graphics|.|bbc_tech_266.txt|.|2|.|bbc_tech_396.txt|.|2
+ds console|.|bbc_tech_238.txt|.|2
+domain names|.|bbc_tech_239.txt|.|3|.|bbc_tech_387.txt|.|2|.|bbc_tech_118.txt|.|2|.|bbc_tech_049.txt|.|2|.|bbc_tech_340.txt|.|2
+cruises|.|bbc_tech_179.txt|.|1|.|bbc_tech_131.txt|.|1
+dr|.|bbc_tech_168.txt|.|9|.|bbc_tech_366.txt|.|8|.|bbc_tech_019.txt|.|6|.|bbc_tech_225.txt|.|6|.|bbc_tech_212.txt|.|6|.|bbc_tech_329.txt|.|6
+dvds|.|bbc_tech_043.txt|.|5|.|bbc_tech_094.txt|.|8|.|bbc_tech_326.txt|.|4|.|bbc_tech_313.txt|.|8
+ds|.|bbc_tech_247.txt|.|7|.|bbc_tech_084.txt|.|9|.|bbc_tech_185.txt|.|6|.|bbc_tech_153.txt|.|6|.|bbc_tech_363.txt|.|2|.|bbc_tech_351.txt|.|11|.|bbc_tech_238.txt|.|3
+identity documents|.|bbc_tech_179.txt|.|1|.|bbc_tech_131.txt|.|1
+vulnerable|.|bbc_tech_290.txt|.|2|.|bbc_tech_116.txt|.|2
+copy protection|.|bbc_tech_043.txt|.|3|.|bbc_tech_326.txt|.|3
+post|.|bbc_tech_387.txt|.|3|.|bbc_tech_118.txt|.|3
+huge|.|bbc_tech_264.txt|.|2|.|bbc_tech_384.txt|.|2
+biometric|.|bbc_tech_179.txt|.|3|.|bbc_tech_131.txt|.|3
+pirate dvds|.|bbc_tech_043.txt|.|1|.|bbc_tech_326.txt|.|1
+generation|.|bbc_tech_306.txt|.|3|.|bbc_tech_366.txt|.|2|.|bbc_tech_294.txt|.|5|.|bbc_tech_032.txt|.|1|.|bbc_tech_309.txt|.|2|.|bbc_tech_335.txt|.|1|.|bbc_tech_052.txt|.|3|.|bbc_tech_219.txt|.|2|.|bbc_tech_155.txt|.|5|.|bbc_tech_396.txt|.|5|.|bbc_tech_224.txt|.|2
+new|.|bbc_tech_067.txt|.|7|.|bbc_tech_377.txt|.|2|.|bbc_tech_309.txt|.|10|.|bbc_tech_020.txt|.|6|.|bbc_tech_011.txt|.|2|.|bbc_tech_156.txt|.|4|.|bbc_tech_085.txt|.|3|.|bbc_tech_348.txt|.|3|.|bbc_tech_259.txt|.|2|.|bbc_tech_152.txt|.|4|.|bbc_tech_290.txt|.|4|.|bbc_tech_179.txt|.|3|.|bbc_tech_293.txt|.|4|.|bbc_tech_382.txt|.|7|.|bbc_tech_326.txt|.|7|.|bbc_tech_118.txt|.|5|.|bbc_tech_131.txt|.|3|.|bbc_tech_366.txt|.|3|.|bbc_tech_239.txt|.|5|.|bbc_tech_013.txt|.|2|.|bbc_tech_387.txt|.|5|.|bbc_tech_043.txt|.|6|.|bbc_tech_268.txt|.|3|.|bbc_tech_238.txt|.|4|.|bbc_tech_396.txt|.|7|.|bbc_tech_384.txt|.|5|.|bbc_tech_096.txt|.|2|.|bbc_tech_116.txt|.|4
+viruses|.|bbc_tech_290.txt|.|3|.|bbc_tech_077.txt|.|6
+swap|.|bbc_tech_293.txt|.|2|.|bbc_tech_156.txt|.|2
+domains|.|bbc_tech_387.txt|.|9|.|bbc_tech_118.txt|.|9
+new rules|.|bbc_tech_067.txt|.|3|.|bbc_tech_382.txt|.|3
+tiger|.|bbc_tech_259.txt|.|3
+former|.|bbc_tech_001.txt|.|2
+people swap|.|bbc_tech_293.txt|.|2|.|bbc_tech_156.txt|.|2
+new domain|.|bbc_tech_239.txt|.|2|.|bbc_tech_387.txt|.|1|.|bbc_tech_118.txt|.|1
+new machines|.|bbc_tech_309.txt|.|7
+electronic christmas|.|bbc_tech_252.txt|.|2|.|bbc_tech_008.txt|.|2
+new seafarers|.|bbc_tech_179.txt|.|1|.|bbc_tech_131.txt|.|1
+vulnerable phone|.|bbc_tech_290.txt|.|2|.|bbc_tech_116.txt|.|2
+broadband|.|bbc_tech_175.txt|.|10|.|bbc_tech_264.txt|.|16|.|bbc_tech_349.txt|.|15|.|bbc_tech_262.txt|.|7|.|bbc_tech_184.txt|.|11|.|bbc_tech_158.txt|.|8|.|bbc_tech_394.txt|.|4|.|bbc_tech_392.txt|.|10|.|bbc_tech_205.txt|.|7|.|bbc_tech_254.txt|.|8|.|bbc_tech_150.txt|.|10|.|bbc_tech_136.txt|.|9|.|bbc_tech_058.txt|.|8|.|bbc_tech_129.txt|.|10|.|bbc_tech_146.txt|.|8
+vacations|.|bbc_tech_232.txt|.|1
+domain|.|bbc_tech_239.txt|.|7|.|bbc_tech_387.txt|.|7|.|bbc_tech_118.txt|.|7|.|bbc_tech_049.txt|.|8|.|bbc_tech_340.txt|.|8
+allard|.|bbc_tech_348.txt|.|6
+legal attacks|.|bbc_tech_293.txt|.|2|.|bbc_tech_156.txt|.|2
+allard said|.|bbc_tech_348.txt|.|2
+messages sent|.|bbc_tech_152.txt|.|3|.|bbc_tech_273.txt|.|3
+next|.|bbc_tech_163.txt|.|4|.|bbc_tech_306.txt|.|5|.|bbc_tech_366.txt|.|4|.|bbc_tech_294.txt|.|6|.|bbc_tech_291.txt|.|4|.|bbc_tech_309.txt|.|5|.|bbc_tech_052.txt|.|5|.|bbc_tech_219.txt|.|2|.|bbc_tech_155.txt|.|6|.|bbc_tech_396.txt|.|8|.|bbc_tech_224.txt|.|2
+pirate|.|bbc_tech_043.txt|.|1|.|bbc_tech_326.txt|.|1
+mr armes|.|bbc_tech_309.txt|.|3
+two new|.|bbc_tech_239.txt|.|2
+scheme|.|bbc_tech_194.txt|.|3
+homeland|.|bbc_tech_400.txt|.|4
+broadband speeds|.|bbc_tech_058.txt|.|2
+protection|.|bbc_tech_043.txt|.|3|.|bbc_tech_326.txt|.|3|.|bbc_tech_390.txt|.|2
+consume|.|bbc_tech_384.txt|.|2
+strains|.|bbc_tech_290.txt|.|3|.|bbc_tech_116.txt|.|3
+virus|.|bbc_tech_385.txt|.|3|.|bbc_tech_210.txt|.|12|.|bbc_tech_272.txt|.|3|.|bbc_tech_217.txt|.|3|.|bbc_tech_334.txt|.|5|.|bbc_tech_177.txt|.|1|.|bbc_tech_281.txt|.|11|.|bbc_tech_039.txt|.|5|.|bbc_tech_292.txt|.|1|.|bbc_tech_117.txt|.|9|.|bbc_tech_252.txt|.|9|.|bbc_tech_257.txt|.|2|.|bbc_tech_008.txt|.|9
+foreign|.|bbc_tech_384.txt|.|9
+online play|.|bbc_tech_348.txt|.|1
+bt|.|bbc_tech_175.txt|.|10|.|bbc_tech_397.txt|.|7|.|bbc_tech_254.txt|.|5|.|bbc_tech_136.txt|.|14|.|bbc_tech_349.txt|.|4|.|bbc_tech_129.txt|.|10|.|bbc_tech_352.txt|.|5
+search|.|bbc_tech_081.txt|.|14|.|bbc_tech_269.txt|.|12|.|bbc_tech_076.txt|.|11|.|bbc_tech_232.txt|.|5|.|bbc_tech_085.txt|.|6|.|bbc_tech_318.txt|.|5|.|bbc_tech_168.txt|.|5|.|bbc_tech_108.txt|.|19|.|bbc_tech_213.txt|.|15|.|bbc_tech_237.txt|.|8|.|bbc_tech_267.txt|.|16|.|bbc_tech_053.txt|.|13|.|bbc_tech_393.txt|.|14|.|bbc_tech_010.txt|.|2|.|bbc_tech_062.txt|.|5|.|bbc_tech_261.txt|.|10
+current dvd|.|bbc_tech_043.txt|.|2|.|bbc_tech_326.txt|.|2
+systems|.|bbc_tech_055.txt|.|4|.|bbc_tech_105.txt|.|2|.|bbc_tech_285.txt|.|10|.|bbc_tech_304.txt|.|10|.|bbc_tech_314.txt|.|4
+identity|.|bbc_tech_120.txt|.|2|.|bbc_tech_179.txt|.|2|.|bbc_tech_131.txt|.|2
+taken|.|bbc_tech_259.txt|.|2
+ripe|.|bbc_tech_384.txt|.|2
+consoles|.|bbc_tech_309.txt|.|5|.|bbc_tech_238.txt|.|2|.|bbc_tech_396.txt|.|6
+national|.|bbc_tech_173.txt|.|2|.|bbc_tech_046.txt|.|2|.|bbc_tech_353.txt|.|3|.|bbc_tech_141.txt|.|2
+customers|.|bbc_tech_058.txt|.|7
+poses|.|bbc_tech_252.txt|.|2|.|bbc_tech_008.txt|.|2
+amit yoran|.|bbc_tech_400.txt|.|2
+early|.|bbc_tech_387.txt|.|2|.|bbc_tech_118.txt|.|2|.|bbc_tech_101.txt|.|2|.|bbc_tech_181.txt|.|2
+dvd ripping|.|bbc_tech_326.txt|.|2
+tremor|.|bbc_tech_353.txt|.|7
+video gaming|.|bbc_tech_309.txt|.|2
+midnight|.|bbc_tech_152.txt|.|2
+using a pc|.|bbc_tech_373.txt|.|1|.|bbc_tech_079.txt|.|1
+approval|.|bbc_tech_387.txt|.|3|.|bbc_tech_118.txt|.|3
+fastest|.|bbc_tech_253.txt|.|3|.|bbc_tech_356.txt|.|2
+jobs|.|bbc_tech_239.txt|.|3|.|bbc_tech_297.txt|.|7|.|bbc_tech_260.txt|.|7
+dvd copy|.|bbc_tech_043.txt|.|2|.|bbc_tech_326.txt|.|2
+new media|.|bbc_tech_384.txt|.|3
+mac os x|.|bbc_tech_336.txt|.|2
+mail messages|.|bbc_tech_210.txt|.|1
+consoles by march|.|bbc_tech_238.txt|.|2
+new xbox|.|bbc_tech_348.txt|.|2
+icann|.|bbc_tech_239.txt|.|2
+apple has taken|.|bbc_tech_259.txt|.|2
+new domain names|.|bbc_tech_239.txt|.|2
+series|.|bbc_tech_290.txt|.|2|.|bbc_tech_135.txt|.|2|.|bbc_tech_116.txt|.|2
+ultraviolet|.|bbc_tech_001.txt|.|3
+buy extras|.|bbc_tech_348.txt|.|2
+growth|.|bbc_tech_366.txt|.|5|.|bbc_tech_072.txt|.|2|.|bbc_tech_384.txt|.|2
+travel|.|bbc_tech_387.txt|.|4|.|bbc_tech_118.txt|.|4|.|bbc_tech_140.txt|.|1
+foreign investment|.|bbc_tech_384.txt|.|3

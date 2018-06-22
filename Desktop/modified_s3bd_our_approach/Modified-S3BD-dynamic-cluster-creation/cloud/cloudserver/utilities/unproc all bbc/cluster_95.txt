@@ -1,0 +1,64 @@
+khan said|.|bbc_politics_279.txt|.|4
+radcliffe faces|.|bbc_sport_040.txt|.|1
+prepared|.|bbc_politics_233.txt|.|1
+outrage|.|bbc_politics_279.txt|.|2
+talks aimed|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+egyptian government|.|bbc_business_389.txt|.|2
+public banks|.|bbc_business_389.txt|.|2
+information act|.|bbc_politics_233.txt|.|2|.|bbc_politics_242.txt|.|2
+public library|.|bbc_tech_236.txt|.|2
+pages|.|bbc_tech_236.txt|.|2
+scanned|.|bbc_tech_236.txt|.|3
+radcliffe|.|bbc_sport_011.txt|.|5|.|bbc_sport_042.txt|.|7|.|bbc_sport_066.txt|.|5|.|bbc_sport_065.txt|.|5|.|bbc_sport_040.txt|.|10|.|bbc_sport_046.txt|.|2
+public service|.|bbc_politics_042.txt|.|3
+freedom of information act|.|bbc_politics_242.txt|.|2
+avert|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+public service workers|.|bbc_politics_042.txt|.|2
+sector|.|bbc_business_057.txt|.|2|.|bbc_politics_312.txt|.|4|.|bbc_politics_023.txt|.|2|.|bbc_business_227.txt|.|2|.|bbc_business_068.txt|.|3|.|bbc_business_108.txt|.|2|.|bbc_politics_311.txt|.|4|.|bbc_politics_069.txt|.|4|.|bbc_business_063.txt|.|2|.|bbc_business_231.txt|.|1|.|bbc_politics_294.txt|.|2
+pension age|.|bbc_politics_311.txt|.|2|.|bbc_politics_069.txt|.|2
+aimed at averting|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+marathon|.|bbc_sport_072.txt|.|6|.|bbc_sport_042.txt|.|2|.|bbc_sport_053.txt|.|3|.|bbc_sport_038.txt|.|2|.|bbc_sport_013.txt|.|3|.|bbc_sport_040.txt|.|9|.|bbc_sport_019.txt|.|1
+millions of public|.|bbc_politics_042.txt|.|2
+aimed|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+next month|.|bbc_politics_233.txt|.|2
+pension strike|.|bbc_politics_312.txt|.|1|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+thing in public|.|bbc_politics_248.txt|.|1
+omai|.|bbc_entertainment_020.txt|.|2
+public listing|.|bbc_business_267.txt|.|1|.|bbc_business_365.txt|.|1
+pension scheme|.|bbc_politics_042.txt|.|4
+powerful indictment|.|bbc_politics_279.txt|.|2
+potential jurors|.|bbc_entertainment_108.txt|.|3
+rallying|.|bbc_politics_175.txt|.|1
+service workers|.|bbc_politics_042.txt|.|2
+scan|.|bbc_tech_236.txt|.|2
+alexandria|.|bbc_business_389.txt|.|3
+indictment|.|bbc_politics_279.txt|.|2
+cabinet office|.|bbc_politics_002.txt|.|2|.|bbc_politics_042.txt|.|2
+bank of alexandria|.|bbc_business_389.txt|.|3
+talks aim to avert|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+pop|.|bbc_entertainment_269.txt|.|3|.|bbc_entertainment_239.txt|.|1|.|bbc_politics_259.txt|.|2|.|bbc_entertainment_319.txt|.|3|.|bbc_entertainment_146.txt|.|2|.|bbc_entertainment_286.txt|.|2|.|bbc_entertainment_027.txt|.|2|.|bbc_entertainment_105.txt|.|4|.|bbc_entertainment_235.txt|.|4|.|bbc_entertainment_260.txt|.|4|.|bbc_entertainment_184.txt|.|2|.|bbc_entertainment_263.txt|.|2
+public outrage|.|bbc_politics_279.txt|.|2
+shredding|.|bbc_politics_242.txt|.|3
+freedom|.|bbc_politics_233.txt|.|4|.|bbc_politics_242.txt|.|4
+public places|.|bbc_politics_050.txt|.|4
+ready|.|bbc_politics_397.txt|.|2|.|bbc_politics_233.txt|.|3|.|bbc_tech_112.txt|.|2
+averting|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+lebanese|.|bbc_business_167.txt|.|2
+profit rise|.|bbc_business_143.txt|.|1
+federal agencies|.|bbc_business_064.txt|.|2
+big public banks|.|bbc_business_389.txt|.|2
+unions|.|bbc_politics_108.txt|.|4|.|bbc_politics_312.txt|.|5|.|bbc_politics_291.txt|.|4|.|bbc_politics_311.txt|.|5|.|bbc_politics_069.txt|.|5|.|bbc_politics_294.txt|.|6
+disclosure|.|bbc_business_331.txt|.|2
+freedom of information|.|bbc_politics_233.txt|.|4|.|bbc_politics_242.txt|.|4
+joshua reynolds|.|bbc_entertainment_020.txt|.|2
+michigan|.|bbc_tech_236.txt|.|3
+strike|.|bbc_business_123.txt|.|3|.|bbc_politics_312.txt|.|1|.|bbc_politics_210.txt|.|7|.|bbc_politics_053.txt|.|4|.|bbc_politics_311.txt|.|2|.|bbc_politics_052.txt|.|2|.|bbc_politics_069.txt|.|2|.|bbc_politics_042.txt|.|5|.|bbc_politics_294.txt|.|3
+negotiations|.|bbc_politics_312.txt|.|1|.|bbc_politics_311.txt|.|1|.|bbc_business_421.txt|.|1|.|bbc_politics_069.txt|.|1|.|bbc_business_034.txt|.|2
+comprehensive ban|.|bbc_politics_050.txt|.|2
+scanned pages|.|bbc_tech_236.txt|.|1
+superior|.|bbc_entertainment_108.txt|.|2
+powerful|.|bbc_politics_279.txt|.|2
+google to scan|.|bbc_tech_236.txt|.|2
+york|.|bbc_tech_138.txt|.|2|.|bbc_entertainment_018.txt|.|3|.|bbc_business_465.txt|.|2|.|bbc_business_103.txt|.|2|.|bbc_sport_040.txt|.|7|.|bbc_entertainment_291.txt|.|1|.|bbc_entertainment_012.txt|.|1|.|bbc_business_497.txt|.|2|.|bbc_business_114.txt|.|2|.|bbc_tech_236.txt|.|3
+richards says|.|bbc_sport_040.txt|.|2
+sir joshua|.|bbc_entertainment_020.txt|.|2

@@ -1,0 +1,64 @@
+gambling bill|.|bbc_politics_187.txt|.|2
+espn|.|bbc_tech_056.txt|.|12
+speeding fines|.|bbc_politics_115.txt|.|2
+euthanasia|.|bbc_politics_068.txt|.|6
+mps said|.|bbc_politics_048.txt|.|2|.|bbc_politics_051.txt|.|2
+casinos|.|bbc_politics_187.txt|.|10|.|bbc_politics_377.txt|.|3
+law on euthanasia|.|bbc_politics_068.txt|.|1
+welfare|.|bbc_politics_048.txt|.|5
+danger|.|bbc_tech_164.txt|.|3|.|bbc_politics_414.txt|.|2
+changes to the bill|.|bbc_politics_180.txt|.|3
+darlington|.|bbc_politics_061.txt|.|4
+cards bill|.|bbc_politics_227.txt|.|2
+cable modem|.|bbc_tech_184.txt|.|2
+select committee|.|bbc_politics_048.txt|.|2|.|bbc_politics_023.txt|.|2
+sprinter|.|bbc_sport_035.txt|.|2|.|bbc_sport_047.txt|.|2
+sociedad|.|bbc_sport_117.txt|.|5
+suicide|.|bbc_politics_068.txt|.|2|.|bbc_politics_214.txt|.|2
+tax bill|.|bbc_business_299.txt|.|2
+bill|.|bbc_politics_115.txt|.|3|.|bbc_politics_081.txt|.|3|.|bbc_politics_319.txt|.|3|.|bbc_politics_048.txt|.|10|.|bbc_tech_164.txt|.|2|.|bbc_politics_299.txt|.|3|.|bbc_tech_184.txt|.|2|.|bbc_politics_180.txt|.|11|.|bbc_tech_187.txt|.|2|.|bbc_politics_068.txt|.|10|.|bbc_politics_133.txt|.|5|.|bbc_politics_187.txt|.|5|.|bbc_tech_330.txt|.|9|.|bbc_tech_307.txt|.|2|.|bbc_entertainment_280.txt|.|2|.|bbc_politics_063.txt|.|2|.|bbc_tech_358.txt|.|2|.|bbc_tech_014.txt|.|9|.|bbc_tech_399.txt|.|2|.|bbc_politics_227.txt|.|6|.|bbc_tech_198.txt|.|2|.|bbc_business_299.txt|.|2
+humiliating retreat|.|bbc_politics_187.txt|.|2
+drink|.|bbc_politics_115.txt|.|2
+retreat|.|bbc_politics_187.txt|.|2
+driving|.|bbc_politics_115.txt|.|1|.|bbc_business_071.txt|.|1
+mps|.|bbc_politics_048.txt|.|4|.|bbc_politics_051.txt|.|4|.|bbc_politics_225.txt|.|4|.|bbc_entertainment_202.txt|.|2|.|bbc_business_092.txt|.|2|.|bbc_politics_310.txt|.|3|.|bbc_politics_072.txt|.|3|.|bbc_politics_243.txt|.|3|.|bbc_politics_258.txt|.|4|.|bbc_politics_096.txt|.|6|.|bbc_politics_044.txt|.|2|.|bbc_politics_256.txt|.|3|.|bbc_politics_260.txt|.|4|.|bbc_politics_168.txt|.|5|.|bbc_politics_345.txt|.|2|.|bbc_politics_193.txt|.|2|.|bbc_politics_214.txt|.|3|.|bbc_politics_071.txt|.|2|.|bbc_politics_372.txt|.|2|.|bbc_politics_008.txt|.|7|.|bbc_politics_123.txt|.|3
+lost money|.|bbc_business_458.txt|.|2
+improve|.|bbc_politics_048.txt|.|2
+right man|.|bbc_sport_228.txt|.|1
+animal|.|bbc_politics_032.txt|.|1|.|bbc_politics_048.txt|.|9|.|bbc_politics_250.txt|.|2
+hand tremors|.|bbc_tech_353.txt|.|2
+humiliating|.|bbc_politics_187.txt|.|2
+pacific assault|.|bbc_tech_288.txt|.|5
+wonderful life|.|bbc_entertainment_003.txt|.|2|.|bbc_entertainment_272.txt|.|2
+speeding|.|bbc_politics_115.txt|.|2
+cards|.|bbc_entertainment_137.txt|.|3|.|bbc_politics_081.txt|.|7|.|bbc_tech_124.txt|.|6|.|bbc_politics_299.txt|.|7|.|bbc_politics_049.txt|.|9|.|bbc_tech_179.txt|.|6|.|bbc_politics_300.txt|.|10|.|bbc_politics_141.txt|.|10|.|bbc_business_362.txt|.|6|.|bbc_politics_227.txt|.|9|.|bbc_tech_131.txt|.|6|.|bbc_tech_369.txt|.|2|.|bbc_tech_181.txt|.|1
+algeria|.|bbc_business_502.txt|.|2
+jackie stallone|.|bbc_entertainment_203.txt|.|2
+us said|.|bbc_business_178.txt|.|1
+rejected|.|bbc_tech_330.txt|.|2|.|bbc_sport_189.txt|.|3|.|bbc_tech_014.txt|.|2|.|bbc_sport_191.txt|.|2|.|bbc_politics_201.txt|.|3
+legalising|.|bbc_politics_068.txt|.|1
+spanish football|.|bbc_sport_170.txt|.|2
+changes|.|bbc_tech_318.txt|.|1|.|bbc_politics_180.txt|.|5|.|bbc_sport_310.txt|.|2|.|bbc_tech_062.txt|.|1
+osbournes|.|bbc_entertainment_206.txt|.|6
+road safety|.|bbc_politics_115.txt|.|4
+living wills|.|bbc_politics_068.txt|.|2
+assisted suicide|.|bbc_politics_068.txt|.|2
+lingus|.|bbc_business_445.txt|.|9
+bill thompson|.|bbc_tech_187.txt|.|2|.|bbc_tech_307.txt|.|2|.|bbc_tech_164.txt|.|2|.|bbc_tech_184.txt|.|2|.|bbc_tech_358.txt|.|2|.|bbc_tech_399.txt|.|2|.|bbc_tech_198.txt|.|2
+joint assistant|.|bbc_sport_244.txt|.|1
+bjorn ulvaeus|.|bbc_entertainment_265.txt|.|2
+insurers|.|bbc_business_311.txt|.|2
+decisions|.|bbc_politics_068.txt|.|6|.|bbc_business_236.txt|.|4|.|bbc_business_087.txt|.|1|.|bbc_sport_298.txt|.|4
+software patents|.|bbc_tech_029.txt|.|4|.|bbc_tech_330.txt|.|2|.|bbc_tech_268.txt|.|3|.|bbc_tech_014.txt|.|2
+performances|.|bbc_entertainment_292.txt|.|3
+limits|.|bbc_politics_115.txt|.|3
+wills|.|bbc_politics_068.txt|.|2
+spruce|.|bbc_entertainment_001.txt|.|2
+spokesman|.|bbc_politics_318.txt|.|3|.|bbc_politics_081.txt|.|2|.|bbc_politics_332.txt|.|3|.|bbc_politics_355.txt|.|2|.|bbc_politics_299.txt|.|2|.|bbc_politics_207.txt|.|2|.|bbc_sport_136.txt|.|2
+recently|.|bbc_entertainment_224.txt|.|2|.|bbc_entertainment_185.txt|.|2
+eerdekens said|.|bbc_sport_448.txt|.|3
+britney|.|bbc_entertainment_345.txt|.|3
+identity cards|.|bbc_politics_227.txt|.|2
+environment|.|bbc_politics_048.txt|.|2
+culture|.|bbc_politics_187.txt|.|2|.|bbc_entertainment_211.txt|.|2|.|bbc_politics_414.txt|.|2
+safety bill|.|bbc_politics_115.txt|.|2

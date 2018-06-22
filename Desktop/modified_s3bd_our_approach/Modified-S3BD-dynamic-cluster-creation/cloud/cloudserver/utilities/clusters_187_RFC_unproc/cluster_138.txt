@@ -1,0 +1,120 @@
+author domain|.|rfc5617.txt|.|59
+recommendations for chinese|.|rfc4713.txt|.|9
+identity november|.|rfc3324.txt|.|10
+domain names|.|rfc5992.txt|.|9|.|rfc3696.txt|.|25|.|rfc6055.txt|.|21|.|rfc2825.txt|.|28|.|rfc3597.txt|.|15|.|rfc3675.txt|.|27|.|rfc4969.txt|.|2|.|rfc3861.txt|.|5|.|rfc2517.txt|.|4|.|rfc3225.txt|.|2|.|rfc2671.txt|.|1|.|rfc3491.txt|.|14|.|rfc4690.txt|.|25|.|rfc3071.txt|.|4|.|rfc2345.txt|.|15|.|rfc5242.txt|.|8|.|rfc3361.txt|.|9|.|rfc5891.txt|.|22|.|rfc2146.txt|.|25|.|rfc5564.txt|.|33|.|rfc2352.txt|.|17|.|rfc4713.txt|.|24
+identity assessor|.|rfc5672.txt|.|9
+idna march|.|rfc3490.txt|.|21
+relationships|.|rfc5217.txt|.|46
+host objects|.|rfc4931.txt|.|18|.|rfc3731.txt|.|18|.|rfc5731.txt|.|19
+internet registry information|.|rfc5144.txt|.|7
+false assumptions|.|rfc4367.txt|.|13
+sdid|.|rfc5672.txt|.|23
+convention for using legal|.|rfc2352.txt|.|8
+registry information|.|rfc3983.txt|.|3|.|rfc5144.txt|.|7
+curve domain|.|rfc5639.txt|.|14
+domain object|.|rfc4931.txt|.|82|.|rfc3731.txt|.|82|.|rfc5731.txt|.|79
+tessman|.|rfc4198.txt|.|10
+level domain|.|rfc1956.txt|.|4|.|rfc4185.txt|.|7
+vpws|.|rfc6136.txt|.|146
+based names|.|rfc5178.txt|.|1
+dlv domain|.|rfc5074.txt|.|32
+deployment scenario|.|rfc4093.txt|.|8
+standard curves|.|rfc5639.txt|.|28
+intra domain|.|rfc4611.txt|.|2|.|rfc5773.txt|.|5|.|rfc5977.txt|.|20
+sender policy framework|.|rfc4408.txt|.|50
+traditional chinese|.|rfc4713.txt|.|13
+vpws oam|.|rfc6136.txt|.|50
+map characters|.|rfc5895.txt|.|2
+tlds|.|rfc3071.txt|.|17
+government internet|.|rfc2146.txt|.|13
+grace period|.|rfc3915.txt|.|63
+vpn domain|.|rfc4093.txt|.|11
+domain|.|rfc3397.txt|.|38|.|rfc6265.txt|.|51|.|rfc3761.txt|.|16|.|rfc2230.txt|.|22|.|rfc5346.txt|.|23|.|rfc2931.txt|.|4|.|rfc3913.txt|.|66|.|rfc2700.txt|.|26|.|rfc4151.txt|.|19|.|rfc2832.txt|.|224|.|rfc3743.txt|.|45|.|rfc5151.txt|.|131|.|rfc1956.txt|.|18|.|rfc4690.txt|.|47|.|rfc2240.txt|.|24|.|rfc4611.txt|.|20|.|rfc5468.txt|.|23|.|rfc5893.txt|.|36|.|rfc6125.txt|.|161|.|rfc3735.txt|.|8|.|rfc3832.txt|.|30|.|rfc2540.txt|.|7|.|rfc5672.txt|.|56|.|rfc4085.txt|.|14|.|rfc4577.txt|.|102|.|rfc5585.txt|.|46|.|rfc4216.txt|.|9|.|rfc5089.txt|.|14|.|rfc6011.txt|.|79|.|rfc2870.txt|.|6|.|rfc4725.txt|.|45|.|rfc5936.txt|.|20|.|rfc2915.txt|.|27|.|rfc2909.txt|.|207|.|rfc5242.txt|.|8|.|rfc5891.txt|.|35|.|rfc4931.txt|.|201|.|rfc4958.txt|.|56|.|rfc5395.txt|.|15|.|rfc2529.txt|.|14|.|rfc5598.txt|.|30|.|rfc5298.txt|.|116|.|rfc4674.txt|.|16|.|rfc3324.txt|.|52|.|rfc5617.txt|.|147|.|rfc3757.txt|.|3|.|rfc4375.txt|.|32|.|rfc3731.txt|.|213|.|rfc3597.txt|.|21|.|rfc5773.txt|.|45|.|rfc4870.txt|.|110|.|rfc2519.txt|.|3|.|rfc4985.txt|.|20|.|rfc3164.txt|.|10|.|rfc2137.txt|.|8|.|rfc5349.txt|.|20|.|rfc3490.txt|.|102|.|rfc3172.txt|.|52|.|rfc2536.txt|.|9|.|rfc4198.txt|.|6|.|rfc2845.txt|.|12|.|rfc3845.txt|.|14|.|rfc5553.txt|.|10|.|rfc2181.txt|.|15|.|rfc5470.txt|.|29|.|rfc4114.txt|.|35|.|rfc5895.txt|.|15|.|rfc5483.txt|.|51|.|rfc5152.txt|.|44|.|rfc4093.txt|.|15|.|rfc4703.txt|.|11|.|rfc3123.txt|.|8|.|rfc3467.txt|.|57|.|rfc5178.txt|.|26|.|rfc4857.txt|.|54|.|rfc2538.txt|.|19|.|rfc3915.txt|.|79|.|rfc4095.txt|.|23|.|rfc5639.txt|.|50|.|rfc3110.txt|.|9|.|rfc5090.txt|.|1|.|rfc3183.txt|.|193|.|rfc2800.txt|.|26|.|rfc3008.txt|.|7|.|rfc5564.txt|.|41|.|rfc2352.txt|.|30|.|rfc2053.txt|.|20|.|rfc4701.txt|.|12|.|rfc5876.txt|.|32|.|rfc2825.txt|.|36|.|rfc5922.txt|.|79|.|rfc4310.txt|.|39|.|rfc2673.txt|.|14|.|rfc3221.txt|.|24|.|rfc2671.txt|.|5|.|rfc5452.txt|.|25|.|rfc4398.txt|.|21|.|rfc3071.txt|.|24|.|rfc2345.txt|.|25|.|rfc3363.txt|.|4|.|rfc3663.txt|.|70|.|rfc5088.txt|.|16|.|rfc4027.txt|.|13|.|rfc3319.txt|.|32|.|rfc4185.txt|.|50|.|rfc5302.txt|.|20|.|rfc6116.txt|.|35|.|rfc4408.txt|.|148|.|rfc4726.txt|.|107|.|rfc4592.txt|.|88|.|rfc6195.txt|.|14|.|rfc3696.txt|.|50|.|rfc2916.txt|.|12|.|rfc4343.txt|.|25|.|rfc2929.txt|.|12|.|rfc6055.txt|.|37|.|rfc3254.txt|.|5|.|rfc5890.txt|.|48|.|rfc3861.txt|.|24|.|rfc3619.txt|.|10|.|rfc2535.txt|.|45|.|rfc4848.txt|.|14|.|rfc3403.txt|.|23|.|rfc2517.txt|.|12|.|rfc3225.txt|.|4|.|rfc5678.txt|.|24|.|rfc2600.txt|.|26|.|rfc6136.txt|.|157|.|rfc5144.txt|.|61|.|rfc4183.txt|.|34|.|rfc2975.txt|.|47|.|rfc5910.txt|.|46|.|rfc5625.txt|.|10|.|rfc5074.txt|.|34|.|rfc5986.txt|.|91|.|rfc2219.txt|.|20|.|rfc2537.txt|.|8|.|rfc2163.txt|.|60|.|rfc5731.txt|.|198|.|rfc4969.txt|.|5|.|rfc5969.txt|.|44|.|rfc3325.txt|.|37|.|rfc3007.txt|.|11|.|rfc4171.txt|.|116|.|rfc3491.txt|.|20|.|rfc5217.txt|.|150|.|rfc4704.txt|.|42|.|rfc4501.txt|.|13|.|rfc5518.txt|.|53|.|rfc2146.txt|.|86|.|rfc4713.txt|.|39|.|rfc4367.txt|.|56|.|rfc5977.txt|.|169|.|rfc2977.txt|.|91|.|rfc5992.txt|.|13|.|rfc2874.txt|.|21|.|rfc3675.txt|.|69|.|rfc3662.txt|.|16|.|rfc5894.txt|.|70|.|rfc2539.txt|.|7|.|rfc6050.txt|.|21|.|rfc2377.txt|.|29|.|rfc5559.txt|.|22|.|rfc3419.txt|.|43|.|rfc4702.txt|.|44|.|rfc5441.txt|.|33|.|rfc3361.txt|.|18|.|rfc3707.txt|.|70|.|rfc4414.txt|.|61|.|rfc2242.txt|.|16|.|rfc4034.txt|.|24|.|rfc5179.txt|.|7|.|rfc3086.txt|.|106|.|rfc2966.txt|.|20|.|rfc2475.txt|.|141
+domain certs|.|rfc5922.txt|.|16
+names october|.|rfc4185.txt|.|18
+dnsnet|.|rfc4183.txt|.|8
+ethernet automatic protection|.|rfc3619.txt|.|4
+assumptions february|.|rfc4367.txt|.|16
+masc domain|.|rfc2909.txt|.|46
+process of standardizing|.|rfc3363.txt|.|1
+internationalized domain names|.|rfc4690.txt|.|11|.|rfc5891.txt|.|12|.|rfc5890.txt|.|12|.|rfc5893.txt|.|5|.|rfc5894.txt|.|17
+dod nic|.|rfc1956.txt|.|5
+using legal names as domain|.|rfc2352.txt|.|8
+federal networking council|.|rfc2146.txt|.|19
+curve domain parameters|.|rfc5639.txt|.|13
+initially derived|.|rfc3324.txt|.|2
+domain administrative|.|rfc3663.txt|.|23
+federal|.|rfc2146.txt|.|32
+name allocation|.|rfc2240.txt|.|8
+brainpool standard|.|rfc5639.txt|.|28
+jet guidelines|.|rfc3743.txt|.|33
+second level|.|rfc1956.txt|.|5|.|rfc3467.txt|.|1
+sex considered|.|rfc3675.txt|.|22
+synthesis|.|rfc4267.txt|.|6|.|rfc4592.txt|.|31
+provisioning protocol|.|rfc3915.txt|.|6
+auid|.|rfc5672.txt|.|18
+gustafsson standards|.|rfc3597.txt|.|8
+legal names|.|rfc2352.txt|.|11
+internet domain|.|rfc2146.txt|.|14
+domain assurance council|.|rfc5518.txt|.|4
+service names|.|rfc5178.txt|.|8
+certs|.|rfc5697.txt|.|7|.|rfc5922.txt|.|16
+domain based|.|rfc5178.txt|.|2|.|rfc5179.txt|.|1
+reflections on the dns|.|rfc3071.txt|.|10
+tld dit|.|rfc3663.txt|.|16
+federal networking|.|rfc2146.txt|.|19
+use of arabic|.|rfc5564.txt|.|4
+recursing nameservers|.|rfc5452.txt|.|2
+viagenie|.|rfc3491.txt|.|2
+assessor|.|rfc5672.txt|.|16
+labels in the domain name|.|rfc2673.txt|.|7
+desired services|.|rfc3832.txt|.|9
+srivastava informational|.|rfc2832.txt|.|39
+legal|.|rfc5769.txt|.|2|.|rfc2240.txt|.|10|.|rfc5940.txt|.|2|.|rfc2352.txt|.|21|.|rfc5966.txt|.|2
+dnsnet september|.|rfc4183.txt|.|8
+administrative data|.|rfc3663.txt|.|23
+extreme|.|rfc3619.txt|.|12
+nameprep march|.|rfc3491.txt|.|6
+network asserted identity|.|rfc3324.txt|.|54
+recommendations for chinese domain|.|rfc4713.txt|.|9
+intra|.|rfc4611.txt|.|2|.|rfc5185.txt|.|1|.|rfc5773.txt|.|8|.|rfc4105.txt|.|1|.|rfc413.txt|.|3|.|rfc2032.txt|.|1|.|rfc5977.txt|.|20
+domain registry|.|rfc3707.txt|.|8
+dnssec aware|.|rfc3225.txt|.|2
+using legal|.|rfc2352.txt|.|8
+domain framework|.|rfc4958.txt|.|17
+chinese characters|.|rfc4713.txt|.|11
+internet registry information service|.|rfc5144.txt|.|7
+ace prefix|.|rfc3490.txt|.|23
+multi domain|.|rfc5217.txt|.|1|.|rfc5298.txt|.|1
+considered dangerous|.|rfc3675.txt|.|22
+ddds application|.|rfc4848.txt|.|12
+provider oam|.|rfc6136.txt|.|21
+single administrative domain|.|rfc4375.txt|.|5|.|rfc4958.txt|.|8
+signing domain|.|rfc5672.txt|.|12
+oam domain|.|rfc6136.txt|.|115
+terminal naptr|.|rfc5483.txt|.|6|.|rfc6116.txt|.|2
+trust relationships|.|rfc5217.txt|.|26
+registrar protocol|.|rfc2832.txt|.|42|.|rfc3632.txt|.|5
+blanchet viagenie|.|rfc3491.txt|.|2
+configuration request|.|rfc6011.txt|.|21
+srivastava|.|rfc2832.txt|.|41
+domain parameters|.|rfc5349.txt|.|20|.|rfc5639.txt|.|45
+full copyright|.|rfc2240.txt|.|2
+domain administrative data|.|rfc3663.txt|.|23
+trust authority|.|rfc5217.txt|.|31
+exchange delegation record|.|rfc2230.txt|.|11
+class keyword|.|rfc4095.txt|.|20
+networking council|.|rfc2146.txt|.|19
+names february|.|rfc3696.txt|.|15
+idna rationale august|.|rfc5894.txt|.|42
+domain to be local|.|rfc3913.txt|.|2
+domain name allocation|.|rfc2240.txt|.|8
+recommendations for chinese domain names|.|rfc4713.txt|.|9
+adsp august|.|rfc5617.txt|.|20
+contextual rules|.|rfc5894.txt|.|11
+plzak|.|rfc1956.txt|.|4
+sigs|.|rfc2537.txt|.|7|.|rfc3110.txt|.|10|.|rfc2536.txt|.|2
+message error|.|rfc4271.txt|.|20|.|rfc2909.txt|.|43
+initially|.|rfc3324.txt|.|3
+toascii|.|rfc3490.txt|.|42
+resolver support of dnssec|.|rfc3225.txt|.|6

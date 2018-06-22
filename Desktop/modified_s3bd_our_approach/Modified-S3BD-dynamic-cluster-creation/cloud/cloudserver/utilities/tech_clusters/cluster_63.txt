@@ -1,0 +1,17 @@
+63
+hogan|.|281.txt|.|6
+bot nets|.|357.txt|.|7|.|281.txt|.|4
+interactive tv|.|046.txt|.|2
+virus writers|.|281.txt|.|5
+harry|.|114.txt|.|2
+ntl|.|280.txt|.|6
+irish|.|282.txt|.|2|.|127.txt|.|7|.|172.txt|.|7
+fever|.|395.txt|.|2
+writers|.|281.txt|.|6
+bridges|.|023.txt|.|3
+cellery|.|272.txt|.|5
+grid|.|380.txt|.|6|.|022.txt|.|6|.|200.txt|.|5
+laser bridges|.|023.txt|.|3
+accounts|.|180.txt|.|1|.|195.txt|.|6|.|164.txt|.|4|.|133.txt|.|1
+mr hogan|.|281.txt|.|5
+levels|.|blood.txt|.|3|.|acne.txt|.|2

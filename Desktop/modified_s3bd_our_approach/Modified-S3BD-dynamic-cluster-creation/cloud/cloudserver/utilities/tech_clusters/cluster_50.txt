@@ -1,0 +1,17 @@
+50
+mr raskin|.|068.txt|.|6
+laws|.|390.txt|.|3|.|273.txt|.|3
+queen|.|180.txt|.|3|.|133.txt|.|3
+supreme|.|092.txt|.|2|.|370.txt|.|5
+disabled people|.|277.txt|.|2
+confirmed|.|180.txt|.|2|.|133.txt|.|2
+suspended|.|180.txt|.|3|.|102.txt|.|4|.|133.txt|.|3
+put|.|399.txt|.|2
+creative|.|005.txt|.|12
+lot|.|093.txt|.|3|.|110.txt|.|2
+premium|.|397.txt|.|5|.|188.txt|.|11
+attorney general|.|273.txt|.|3
+bids|.|209.txt|.|1
+state|.|273.txt|.|2|.|176.txt|.|4|.|132.txt|.|4
+airline|.|180.txt|.|6|.|102.txt|.|6|.|133.txt|.|6
+open source movement|.|029.txt|.|3

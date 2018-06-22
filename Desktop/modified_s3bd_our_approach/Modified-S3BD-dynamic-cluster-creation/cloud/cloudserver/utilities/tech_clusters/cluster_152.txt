@@ -1,0 +1,17 @@
+152
+natural|.|151.txt|.|2
+sell|.|304.txt|.|2|.|300.txt|.|1|.|247.txt|.|1|.|285.txt|.|2|.|160.txt|.|1
+said dr|.|329.txt|.|2|.|168.txt|.|3|.|019.txt|.|2|.|212.txt|.|2|.|225.txt|.|2
+silicon being used|.|329.txt|.|1|.|019.txt|.|1
+vacations throughout the year|.|232.txt|.|1
+core|.|023.txt|.|2
+microsoft has launched|.|194.txt|.|2
+massachusetts institute|.|282.txt|.|2
+sridharan|.|023.txt|.|2
+updates automatically|.|083.txt|.|1|.|308.txt|.|1
+said mr|.|270.txt|.|5|.|023.txt|.|3|.|299.txt|.|5|.|283.txt|.|5|.|127.txt|.|6|.|172.txt|.|6|.|281.txt|.|4
+scams|.|397.txt|.|3|.|188.txt|.|6
+ask jeeves said|.|062.txt|.|1|.|318.txt|.|1
+space on his forehead|.|209.txt|.|1
+seeking bankruptcy|.|390.txt|.|1
+said|.|270.txt|.|17|.|105.txt|.|5|.|033.txt|.|7|.|369.txt|.|4|.|254.txt|.|2|.|393.txt|.|8|.|172.txt|.|6|.|023.txt|.|9|.|350.txt|.|6|.|015.txt|.|6|.|299.txt|.|17|.|209.txt|.|4|.|081.txt|.|8|.|213.txt|.|11|.|004.txt|.|3|.|064.txt|.|10|.|212.txt|.|12|.|127.txt|.|6|.|285.txt|.|17|.|318.txt|.|10|.|348.txt|.|6|.|225.txt|.|12|.|082.txt|.|12|.|304.txt|.|17|.|186.txt|.|6|.|071.txt|.|8|.|283.txt|.|11|.|011.txt|.|7|.|151.txt|.|5|.|062.txt|.|10|.|356.txt|.|4|.|020.txt|.|3|.|338.txt|.|10|.|012.txt|.|3|.|072.txt|.|3|.|390.txt|.|5|.|329.txt|.|7|.|168.txt|.|12|.|320.txt|.|7|.|019.txt|.|6|.|063.txt|.|3|.|160.txt|.|2|.|134.txt|.|4|.|221.txt|.|5|.|170.txt|.|5|.|031.txt|.|6|.|250.txt|.|5|.|281.txt|.|10|.|331.txt|.|3|.|069.txt|.|5

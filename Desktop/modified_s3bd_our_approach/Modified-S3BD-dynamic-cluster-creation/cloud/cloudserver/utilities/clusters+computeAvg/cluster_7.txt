@@ -1,0 +1,38 @@
+7
+insurance|.|WET3042.txt|.|40|.|WET2081.txt|.|19|.|WET2171.txt|.|36|.|WET3963.txt|.|36|.|WET1098.txt|.|36|.|WET5382.txt|.|85|.|WET2806.txt|.|12
+southwest|.|WET5445.txt|.|27|.|WET1701.txt|.|25|.|WET3321.txt|.|11
+roster news|.|WET3342.txt|.|20|.|WET4109.txt|.|36|.|WET2259.txt|.|30|.|WET1973.txt|.|72|.|WET2541.txt|.|37
+perele|.|WET6192.txt|.|64
+laminate|.|WET5155.txt|.|33|.|WET1406.txt|.|12
+spencer|.|WET4100.txt|.|8
+prix|.|WET5517.txt|.|271|.|WET1781.txt|.|363|.|WET701.txt|.|40|.|WET1782.txt|.|45|.|WET6149.txt|.|27|.|WET2405.txt|.|63
+lid|.|WET4850.txt|.|19
+source|.|WET2807.txt|.|16|.|WET4475.txt|.|14|.|WET1055.txt|.|7|.|WET6305.txt|.|11|.|WET772.txt|.|10|.|WET734.txt|.|8
+smell|.|WET1274.txt|.|70|.|WET4696.txt|.|16
+lil|.|WET1791.txt|.|52|.|WET2736.txt|.|11
+pediatric|.|WET5789.txt|.|53
+lis|.|WET4380.txt|.|47
+fume|.|WET4363.txt|.|51
+dogs|.|WET4050.txt|.|110|.|WET1666.txt|.|95|.|WET2639.txt|.|38|.|WET307.txt|.|124
+car finder|.|WET1725.txt|.|16
+studies|.|WET5520.txt|.|22|.|WET1786.txt|.|44|.|WET4867.txt|.|20
+homes|.|WET2748.txt|.|285|.|WET3342.txt|.|52|.|WET1455.txt|.|35|.|WET172.txt|.|15|.|WET502.txt|.|26|.|WET5760.txt|.|122|.|WET2760.txt|.|38|.|WET2020.txt|.|78|.|WET2749.txt|.|81|.|WET2244.txt|.|13|.|WET4395.txt|.|47|.|WET2019.txt|.|158|.|WET5696.txt|.|21|.|WET5592.txt|.|71|.|WET1856.txt|.|30
+create value|.|WET2504.txt|.|2
+make|.|WET3869.txt|.|43|.|WET1700.txt|.|42|.|WET3901.txt|.|12|.|WET1786.txt|.|15|.|WET1552.txt|.|29|.|WET1725.txt|.|44|.|WET1699.txt|.|37|.|WET3764.txt|.|19|.|WET5446.txt|.|29|.|WET221.txt|.|11|.|WET5445.txt|.|30|.|WET5841.txt|.|2|.|WET4795.txt|.|29|.|WET2504.txt|.|9|.|WET5467.txt|.|47|.|WET4071.txt|.|43|.|WET1724.txt|.|66
+rent textbooks|.|WET5927.txt|.|24
+decision|.|WET3869.txt|.|17|.|WET3901.txt|.|4|.|WET5309.txt|.|2|.|WET4071.txt|.|4|.|WET3110.txt|.|2|.|WET1786.txt|.|7|.|WET4566.txt|.|2
+zines|.|WET4795.txt|.|48
+juros|.|WET3931.txt|.|74|.|WET4334.txt|.|103
+verbal|.|WET452.txt|.|65
+merit|.|WET4384.txt|.|54
+house take|.|WET3226.txt|.|10
+nurses|.|WET372.txt|.|31
+smaller make text|.|WET5445.txt|.|11|.|WET1552.txt|.|11
+find a dealer|.|WET5467.txt|.|18
+comisiones|.|WET4602.txt|.|18
+mousses|.|WET6142.txt|.|10
+district|.|WET2587.txt|.|37|.|WET4030.txt|.|35|.|WET287.txt|.|35|.|WET1956.txt|.|50|.|WET4757.txt|.|42|.|WET3747.txt|.|14
+discuss the finer points|.|WET3411.txt|.|72
+clan|.|WET3327.txt|.|22
+cars selling tips|.|WET5467.txt|.|18|.|WET1724.txt|.|20
+fashion|.|WET5655.txt|.|17|.|WET2593.txt|.|35|.|WET1347.txt|.|13|.|WET4831.txt|.|229

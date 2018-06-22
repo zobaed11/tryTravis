@@ -1,0 +1,17 @@
+42
+star|.|125.txt|.|5|.|313.txt|.|5|.|094.txt|.|5
+japan|.|112.txt|.|3|.|238.txt|.|3|.|317.txt|.|2|.|141.txt|.|1|.|025.txt|.|2
+association|.|blood.txt|.|2
+apple has won|.|355.txt|.|2
+places to four|.|112.txt|.|1
+list|.|341.txt|.|4|.|045.txt|.|4
+psp|.|341.txt|.|2|.|112.txt|.|3|.|238.txt|.|3|.|317.txt|.|2|.|025.txt|.|2|.|045.txt|.|2|.|345.txt|.|5
+umd|.|345.txt|.|5
+dominate|.|341.txt|.|2|.|242.txt|.|2|.|337.txt|.|1|.|045.txt|.|2
+predicts|.|045.txt|.|2
+gran turismo|.|112.txt|.|2
+top|.|341.txt|.|2|.|141.txt|.|8|.|070.txt|.|1|.|045.txt|.|2
+lions|.|345.txt|.|2
+villagers|.|365.txt|.|3
+umd format|.|345.txt|.|2
+mix|.|bread.txt|.|5

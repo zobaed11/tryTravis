@@ -1,0 +1,17 @@
+77
+cyber security|.|400.txt|.|5
+told|.|114.txt|.|4|.|102.txt|.|3|.|193.txt|.|3|.|296.txt|.|3
+bbc sport|.|028.txt|.|2
+rugby|.|028.txt|.|2
+fictional|.|180.txt|.|3|.|102.txt|.|3|.|133.txt|.|3
+ship|.|131.txt|.|2|.|179.txt|.|2
+wales|.|028.txt|.|3
+bbc news|.|114.txt|.|3|.|102.txt|.|2|.|354.txt|.|3|.|193.txt|.|2|.|296.txt|.|2
+specific|.|053.txt|.|3
+tvs|.|193.txt|.|2|.|296.txt|.|2|.|216.txt|.|2
+top of supercomputing|.|141.txt|.|1
+ms simonetti|.|180.txt|.|6|.|102.txt|.|9|.|133.txt|.|6
+perspective|.|028.txt|.|2
+parliamentary|.|001.txt|.|3
+sport|.|028.txt|.|4
+republics|.|001.txt|.|1

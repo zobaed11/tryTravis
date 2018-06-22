@@ -1,0 +1,38 @@
+395
+archive web|.|WET1933.txt|.|2|.|WET6031.txt|.|2|.|WET175.txt|.|4|.|WET2311.txt|.|2|.|WET3921.txt|.|6|.|WET3922.txt|.|8
+server|.|WET5290.txt|.|41|.|WET864.txt|.|20|.|WET863.txt|.|70|.|WET4164.txt|.|81|.|WET4601.txt|.|99|.|WET1042.txt|.|34|.|WET2955.txt|.|42|.|WET905.txt|.|49|.|WET906.txt|.|61
+sparkpeople|.|WET4639.txt|.|18|.|WET3536.txt|.|20
+semantic web|.|WET3240.txt|.|27|.|WET2901.txt|.|2
+dictionnaire espagnol|.|WET2222.txt|.|6
+added|.|WET1179.txt|.|11|.|WET4465.txt|.|3|.|WET4496.txt|.|6|.|WET4806.txt|.|3|.|WET3320.txt|.|8|.|WET2402.txt|.|3|.|WET4607.txt|.|5
+spotlight spotlight|.|WET3733.txt|.|7
+kendo|.|WET5451.txt|.|61
+blogs book reviews|.|WET5320.txt|.|12
+forums read quick links view|.|WET3922.txt|.|8
+games blogs book|.|WET5320.txt|.|12
+hacking|.|WET5669.txt|.|10
+added the listing|.|WET4496.txt|.|1
+cw games blogs|.|WET5320.txt|.|12
+web|.|WET5242.txt|.|4|.|WET1862.txt|.|8|.|WET1102.txt|.|15|.|WET859.txt|.|4|.|WET4844.txt|.|10|.|WET4976.txt|.|4|.|WET5684.txt|.|92|.|WET1801.txt|.|3|.|WET1933.txt|.|11|.|WET646.txt|.|12|.|WET1104.txt|.|15|.|WET6031.txt|.|11|.|WET3120.txt|.|22|.|WET3536.txt|.|5|.|WET5058.txt|.|3|.|WET5676.txt|.|286|.|WET628.txt|.|11|.|WET3240.txt|.|54|.|WET4496.txt|.|12|.|WET1572.txt|.|105|.|WET3842.txt|.|5|.|WET2437.txt|.|10|.|WET331.txt|.|7|.|WET5335.txt|.|16|.|WET153.txt|.|3|.|WET1095.txt|.|14|.|WET3939.txt|.|5|.|WET1621.txt|.|10|.|WET4787.txt|.|48|.|WET2621.txt|.|5|.|WET6256.txt|.|5|.|WET5451.txt|.|5|.|WET3796.txt|.|11|.|WET1955.txt|.|7|.|WET2523.txt|.|5|.|WET2222.txt|.|4|.|WET2311.txt|.|4|.|WET3921.txt|.|7|.|WET131.txt|.|28|.|WET2237.txt|.|13|.|WET1041.txt|.|66|.|WET2598.txt|.|11|.|WET2937.txt|.|9|.|WET6186.txt|.|3|.|WET5669.txt|.|15|.|WET5368.txt|.|7|.|WET3418.txt|.|3|.|WET3706.txt|.|42|.|WET1263.txt|.|3|.|WET3454.txt|.|21|.|WET4789.txt|.|9|.|WET4432.txt|.|4|.|WET3845.txt|.|10|.|WET4667.txt|.|19|.|WET3810.txt|.|5|.|WET4543.txt|.|4|.|WET159.txt|.|28|.|WET4908.txt|.|19|.|WET1235.txt|.|3|.|WET3809.txt|.|4|.|WET4258.txt|.|15|.|WET4847.txt|.|5|.|WET5320.txt|.|108|.|WET1606.txt|.|99|.|WET4987.txt|.|15|.|WET1223.txt|.|15|.|WET5150.txt|.|2|.|WET5487.txt|.|1|.|WET853.txt|.|5|.|WET3922.txt|.|11|.|WET1868.txt|.|3|.|WET864.txt|.|9|.|WET2042.txt|.|2|.|WET4639.txt|.|4|.|WET2901.txt|.|29|.|WET3733.txt|.|55|.|WET3207.txt|.|2|.|WET4529.txt|.|21|.|WET5047.txt|.|100|.|WET4975.txt|.|10|.|WET900.txt|.|5|.|WET4387.txt|.|12|.|WET6255.txt|.|10|.|WET2494.txt|.|5|.|WET3831.txt|.|14|.|WET2522.txt|.|7|.|WET1221.txt|.|7|.|WET3494.txt|.|8|.|WET756.txt|.|22|.|WET2701.txt|.|47|.|WET2637.txt|.|10|.|WET1620.txt|.|9|.|WET3419.txt|.|18|.|WET1262.txt|.|8|.|WET3398.txt|.|34|.|WET3067.txt|.|3|.|WET3355.txt|.|6|.|WET5454.txt|.|3|.|WET175.txt|.|6|.|WET5369.txt|.|6
+predictions cw games|.|WET5320.txt|.|12
+freelance|.|WET2701.txt|.|15
+german missions|.|WET1223.txt|.|5
+human|.|WET2545.txt|.|143|.|WET1223.txt|.|32
+vnc web services|.|WET3733.txt|.|23
+vnc|.|WET3733.txt|.|23
+menswear|.|WET5692.txt|.|16
+web search|.|WET1868.txt|.|2|.|WET900.txt|.|2|.|WET159.txt|.|3|.|WET1862.txt|.|4|.|WET4639.txt|.|2|.|WET2937.txt|.|9|.|WET3536.txt|.|2|.|WET6186.txt|.|3|.|WET2494.txt|.|2
+ethical|.|WET5669.txt|.|9
+browser and web|.|WET3845.txt|.|1
+application|.|WET3706.txt|.|41|.|WET5451.txt|.|2|.|WET4789.txt|.|47
+directions|.|WET5426.txt|.|20|.|WET1406.txt|.|4
+channels music|.|WET5284.txt|.|11
+book reviews games|.|WET5320.txt|.|12
+background|.|WET3737.txt|.|19|.|WET450.txt|.|4|.|WET3625.txt|.|10|.|WET3710.txt|.|110|.|WET2769.txt|.|714|.|WET4280.txt|.|1|.|WET4263.txt|.|1|.|WET4195.txt|.|4|.|WET535.txt|.|1
+abcdefghijklmnopqrstuvwxyz|.|WET1104.txt|.|22|.|WET1347.txt|.|20
+fantasy cricket predictions|.|WET5320.txt|.|12
+net general|.|WET2701.txt|.|20
+programming help|.|WET756.txt|.|28|.|WET4497.txt|.|34
+image search|.|WET4667.txt|.|2|.|WET159.txt|.|1
+recommended systems|.|WET3733.txt|.|10
+spotlight|.|WET5827.txt|.|4|.|WET3733.txt|.|24

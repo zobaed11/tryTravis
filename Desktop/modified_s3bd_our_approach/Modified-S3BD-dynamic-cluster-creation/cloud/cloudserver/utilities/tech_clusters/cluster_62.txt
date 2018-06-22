@@ -1,0 +1,17 @@
+62
+obtained illegally|.|195.txt|.|1
+solid|.|244.txt|.|2
+proved more popular|.|203.txt|.|1
+spent|.|203.txt|.|2
+officially released|.|195.txt|.|2
+agencies|.|097.txt|.|3
+title|.|244.txt|.|4
+figures released|.|203.txt|.|1
+accounts valve|.|195.txt|.|1
+working|.|244.txt|.|2
+dating|.|386.txt|.|12
+valve|.|195.txt|.|7
+released|.|203.txt|.|4|.|244.txt|.|6|.|195.txt|.|3|.|190.txt|.|3|.|018.txt|.|2|.|108.txt|.|2|.|268.txt|.|2
+san francisco|.|018.txt|.|2|.|346.txt|.|3
+laptops|.|004.txt|.|6|.|063.txt|.|6|.|375.txt|.|4
+fails|.|245.txt|.|2

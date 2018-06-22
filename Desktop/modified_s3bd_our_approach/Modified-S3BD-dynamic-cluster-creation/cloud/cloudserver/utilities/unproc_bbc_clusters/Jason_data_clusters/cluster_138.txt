@@ -1,0 +1,38 @@
+138
+law firm|.|WET1825.txt|.|68|.|WET5331.txt|.|5|.|WET2007.txt|.|95
+federal judges|.|WET6290.txt|.|12
+law school|.|WET2229.txt|.|22
+login|.|WET6217.txt|.|11|.|WET960.txt|.|50|.|WET1501.txt|.|11|.|WET5212.txt|.|11|.|WET279.txt|.|13|.|WET2663.txt|.|6|.|WET5519.txt|.|29|.|WET5730.txt|.|20|.|WET490.txt|.|17|.|WET5314.txt|.|25|.|WET5141.txt|.|66|.|WET219.txt|.|9|.|WET3150.txt|.|12|.|WET5375.txt|.|39|.|WET4389.txt|.|34|.|WET964.txt|.|25|.|WET5969.txt|.|27|.|WET5001.txt|.|16|.|WET5058.txt|.|28|.|WET1103.txt|.|22|.|WET248.txt|.|30|.|WET1364.txt|.|19|.|WET4775.txt|.|44|.|WET4059.txt|.|12|.|WET4740.txt|.|16|.|WET2902.txt|.|6|.|WET542.txt|.|38|.|WET5219.txt|.|55|.|WET3517.txt|.|22|.|WET3613.txt|.|85|.|WET2682.txt|.|42|.|WET2232.txt|.|39|.|WET5961.txt|.|22|.|WET3431.txt|.|60|.|WET3534.txt|.|32|.|WET207.txt|.|10|.|WET1594.txt|.|8|.|WET3581.txt|.|58|.|WET5064.txt|.|25|.|WET1030.txt|.|40|.|WET4776.txt|.|23|.|WET3484.txt|.|32|.|WET1391.txt|.|66
+thrift shops|.|WET5790.txt|.|4
+dimming|.|WET5169.txt|.|2|.|WET3657.txt|.|2
+legal forms|.|WET5968.txt|.|10|.|WET2231.txt|.|11
+bayan|.|WET5497.txt|.|47
+legal|.|WET5973.txt|.|23|.|WET4204.txt|.|27|.|WET5968.txt|.|71|.|WET170.txt|.|34|.|WET5427.txt|.|22|.|WET1102.txt|.|28|.|WET2235.txt|.|23|.|WET2231.txt|.|77
+login register|.|WET5969.txt|.|8|.|WET2663.txt|.|3|.|WET2232.txt|.|18
+certified|.|WET5467.txt|.|23|.|WET5559.txt|.|63|.|WET1126.txt|.|107|.|WET4556.txt|.|38|.|WET200.txt|.|50
+promoter|.|WET3582.txt|.|12|.|WET809.txt|.|36|.|WET3581.txt|.|48|.|WET4690.txt|.|3|.|WET1213.txt|.|2|.|WET1618.txt|.|1|.|WET4370.txt|.|2|.|WET6238.txt|.|1|.|WET961.txt|.|1|.|WET1156.txt|.|1
+crossfit east|.|WET5878.txt|.|8
+disclaimer|.|WET636.txt|.|11|.|WET2241.txt|.|4|.|WET4375.txt|.|11
+family law|.|WET3657.txt|.|26
+mar feb|.|WET4932.txt|.|83
+law|.|WET5331.txt|.|11|.|WET3748.txt|.|35|.|WET2237.txt|.|63|.|WET4317.txt|.|59|.|WET5968.txt|.|134|.|WET5559.txt|.|236|.|WET2578.txt|.|18|.|WET2007.txt|.|289|.|WET4500.txt|.|8|.|WET760.txt|.|11|.|WET4403.txt|.|37|.|WET2232.txt|.|94|.|WET5967.txt|.|81|.|WET1825.txt|.|219|.|WET6290.txt|.|48|.|WET5969.txt|.|53|.|WET2109.txt|.|9|.|WET2229.txt|.|291|.|WET3477.txt|.|116|.|WET4501.txt|.|2|.|WET2231.txt|.|186|.|WET3657.txt|.|145|.|WET575.txt|.|77
+election|.|WET5823.txt|.|33|.|WET5112.txt|.|155|.|WET4403.txt|.|17|.|WET3259.txt|.|6
+dictionaries law|.|WET6290.txt|.|8
+student life|.|WET3477.txt|.|9
+obj fbx|.|WET3153.txt|.|115
+keywords match|.|WET2231.txt|.|3
+review write|.|WET5969.txt|.|14
+ellipsis|.|WET2628.txt|.|15|.|WET4492.txt|.|20|.|WET751.txt|.|55
+social explorer|.|WET3712.txt|.|10
+saudi|.|WET4947.txt|.|38
+trucker|.|WET4992.txt|.|12
+attorneys|.|WET3624.txt|.|16|.|WET5559.txt|.|103|.|WET5382.txt|.|83
+law review|.|WET5969.txt|.|14
+innovating|.|WET4355.txt|.|2|.|WET1967.txt|.|2|.|WET615.txt|.|2
+consultation|.|WET5559.txt|.|56|.|WET3693.txt|.|19
+archives and web|.|WET2237.txt|.|2
+judges|.|WET6290.txt|.|12
+tropes media|.|WET4731.txt|.|18
+board|.|WET6242.txt|.|40|.|WET1795.txt|.|61|.|WET2345.txt|.|72|.|WET5162.txt|.|15|.|WET2095.txt|.|22|.|WET1251.txt|.|45|.|WET5530.txt|.|28|.|WET1307.txt|.|31|.|WET6243.txt|.|16|.|WET2701.txt|.|21|.|WET5837.txt|.|23|.|WET5001.txt|.|24|.|WET3036.txt|.|30|.|WET2724.txt|.|22|.|WET233.txt|.|28|.|WET5559.txt|.|186|.|WET1907.txt|.|73|.|WET1165.txt|.|10|.|WET5063.txt|.|25|.|WET821.txt|.|330|.|WET5838.txt|.|18|.|WET2094.txt|.|33|.|WET374.txt|.|32|.|WET216.txt|.|13|.|WET5021.txt|.|7
+kunsthaus|.|WET5943.txt|.|45|.|WET5942.txt|.|54|.|WET2206.txt|.|59|.|WET2207.txt|.|45
+nurtsch|.|WET4082.txt|.|8

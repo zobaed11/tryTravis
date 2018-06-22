@@ -1,0 +1,38 @@
+203
+user regular|.|WET3452.txt|.|77
+allis|.|WET3345.txt|.|41
+espn|.|WET352.txt|.|25
+booke|.|WET3479.txt|.|8
+scanning|.|WET4233.txt|.|85
+creates overall value|.|WET1878.txt|.|1
+good news|.|WET5782.txt|.|22|.|WET2039.txt|.|20
+famous poets|.|WET2674.txt|.|125
+slave|.|WET4033.txt|.|202
+details dennis bialek|.|WET5336.txt|.|16
+aug jul jun|.|WET1180.txt|.|54
+catawba|.|WET171.txt|.|1067
+installation|.|WET2072.txt|.|76|.|WET4164.txt|.|29|.|WET5136.txt|.|164|.|WET746.txt|.|53|.|WET1406.txt|.|4
+writing|.|WET4108.txt|.|24|.|WET4823.txt|.|124
+new jersey|.|WET478.txt|.|6
+blue dragon|.|WET1739.txt|.|14
+berto|.|WET1808.txt|.|128|.|WET5540.txt|.|96
+slate|.|WET2898.txt|.|92
+academy|.|WET4860.txt|.|48
+mpc|.|WET4650.txt|.|34
+gaiam|.|WET5614.txt|.|88
+carolina|.|WET1430.txt|.|58|.|WET5182.txt|.|81|.|WET4835.txt|.|129|.|WET303.txt|.|18|.|WET3319.txt|.|52|.|WET982.txt|.|15|.|WET4032.txt|.|383|.|WET1432.txt|.|31|.|WET2470.txt|.|61|.|WET4233.txt|.|36
+mph|.|WET3260.txt|.|159
+mpg|.|WET5605.txt|.|91
+quality jobs|.|WET5617.txt|.|5
+trainings|.|WET2057.txt|.|33
+black label|.|WET3597.txt|.|56
+britney|.|WET6026.txt|.|15
+adventure|.|WET5618.txt|.|72|.|WET1879.txt|.|95|.|WET4482.txt|.|75|.|WET2481.txt|.|22|.|WET622.txt|.|16|.|WET1190.txt|.|18|.|WET6220.txt|.|20
+nano labs|.|WET2452.txt|.|9
+multiplex|.|WET1503.txt|.|6|.|WET5253.txt|.|2|.|WET4221.txt|.|2
+money|.|WET1581.txt|.|25|.|WET3079.txt|.|104|.|WET2477.txt|.|7|.|WET4071.txt|.|161
+trina turk|.|WET3142.txt|.|27
+antal varer|.|WET5055.txt|.|12
+gorge|.|WET147.txt|.|29
+health and fitness|.|WET2452.txt|.|19
+message exceeded|.|WET2336.txt|.|61

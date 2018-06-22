@@ -1,0 +1,38 @@
+214
+junction|.|WET1920.txt|.|75|.|WET5659.txt|.|109
+flint grand rapids|.|WET3856.txt|.|19
+sponsor motogp|.|WET6149.txt|.|3
+ann arbor news|.|WET2376.txt|.|30
+jeep tech tech|.|WET2136.txt|.|11|.|WET5876.txt|.|7|.|WET5875.txt|.|7
+tasting room|.|WET6220.txt|.|30
+gp tyres|.|WET1781.txt|.|16
+screenshots|.|WET5705.txt|.|45
+prix team|.|WET5517.txt|.|66
+member product reviews|.|WET2136.txt|.|22|.|WET2137.txt|.|20|.|WET2135.txt|.|19
+grand junction|.|WET1920.txt|.|71|.|WET5659.txt|.|103
+browse by username|.|WET2135.txt|.|10|.|WET5875.txt|.|7
+drivers and teams|.|WET5517.txt|.|12
+grand rapids jackson|.|WET6122.txt|.|34|.|WET2376.txt|.|39
+statistics essentials|.|WET1781.txt|.|16
+modified|.|WET2137.txt|.|10|.|WET5875.txt|.|7
+rapids jackson kalamazoo|.|WET6122.txt|.|34|.|WET2376.txt|.|38
+jackson kalamazoo lansing|.|WET2376.txt|.|43
+tyres|.|WET1781.txt|.|32
+browse most commented|.|WET2137.txt|.|10
+rookies|.|WET6149.txt|.|12
+barn quilt|.|WET6123.txt|.|10
+motogp buzz|.|WET6149.txt|.|12
+jeep garage|.|WET2136.txt|.|55|.|WET2137.txt|.|52|.|WET5876.txt|.|39
+top ten|.|WET5517.txt|.|78
+recently|.|WET2137.txt|.|20|.|WET5875.txt|.|14|.|WET3320.txt|.|16
+ann arbor bay|.|WET3856.txt|.|19
+grand|.|WET2226.txt|.|17|.|WET2137.txt|.|201|.|WET5239.txt|.|16|.|WET29.txt|.|16|.|WET6123.txt|.|50|.|WET1781.txt|.|363|.|WET5875.txt|.|130|.|WET1782.txt|.|45|.|WET5611.txt|.|16|.|WET1972.txt|.|29|.|WET1920.txt|.|75|.|WET2481.txt|.|22|.|WET2376.txt|.|143|.|WET5876.txt|.|154|.|WET5185.txt|.|25|.|WET5705.txt|.|34|.|WET4205.txt|.|42|.|WET5659.txt|.|105|.|WET2377.txt|.|102|.|WET2135.txt|.|188|.|WET4206.txt|.|10|.|WET3470.txt|.|19|.|WET2405.txt|.|82|.|WET479.txt|.|42|.|WET6122.txt|.|104|.|WET2136.txt|.|220|.|WET5517.txt|.|271|.|WET6149.txt|.|29|.|WET3856.txt|.|46|.|WET6220.txt|.|20
+ann arbor|.|WET2377.txt|.|81|.|WET6123.txt|.|30
+city detroit flint|.|WET2376.txt|.|43|.|WET3856.txt|.|19
+chinese grand|.|WET5517.txt|.|66
+arbor bay city|.|WET3856.txt|.|19
+cigars international|.|WET5239.txt|.|19
+en course|.|WET2405.txt|.|8
+theft auto|.|WET5705.txt|.|34
+saginaw|.|WET2377.txt|.|94|.|WET6122.txt|.|92|.|WET2376.txt|.|118|.|WET3856.txt|.|42
+recently modified browse|.|WET2137.txt|.|10|.|WET5875.txt|.|7

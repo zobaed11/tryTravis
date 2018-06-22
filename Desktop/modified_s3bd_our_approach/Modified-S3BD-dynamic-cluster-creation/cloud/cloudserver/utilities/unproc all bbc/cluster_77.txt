@@ -1,0 +1,64 @@
+porsche|.|bbc_business_105.txt|.|2
+second round|.|bbc_sport_440.txt|.|2
+tim henman|.|bbc_sport_476.txt|.|2
+source|.|bbc_tech_029.txt|.|10
+sets to beat|.|bbc_sport_440.txt|.|1
+wrist|.|bbc_sport_479.txt|.|3|.|bbc_sport_478.txt|.|3
+drug|.|bbc_business_327.txt|.|5|.|bbc_sport_035.txt|.|2|.|bbc_business_191.txt|.|7|.|bbc_business_309.txt|.|7|.|bbc_business_201.txt|.|1|.|bbc_business_300.txt|.|2|.|bbc_business_449.txt|.|3|.|bbc_business_150.txt|.|3|.|bbc_sport_082.txt|.|1|.|bbc_business_233.txt|.|2
+claiming|.|bbc_sport_492.txt|.|1
+hyderabad|.|bbc_sport_510.txt|.|2
+split|.|bbc_sport_481.txt|.|2
+safin said|.|bbc_sport_489.txt|.|2|.|bbc_sport_490.txt|.|2
+australian open|.|bbc_sport_467.txt|.|2|.|bbc_sport_486.txt|.|2|.|bbc_sport_478.txt|.|2|.|bbc_sport_475.txt|.|3|.|bbc_sport_489.txt|.|3|.|bbc_sport_477.txt|.|2|.|bbc_sport_490.txt|.|3|.|bbc_sport_496.txt|.|3|.|bbc_sport_450.txt|.|3|.|bbc_sport_479.txt|.|2|.|bbc_sport_447.txt|.|2|.|bbc_sport_476.txt|.|4|.|bbc_sport_471.txt|.|3
+source movement|.|bbc_tech_029.txt|.|3
+splits from coach|.|bbc_sport_481.txt|.|1
+tim|.|bbc_sport_476.txt|.|2
+french open|.|bbc_sport_495.txt|.|4
+melbourne|.|bbc_sport_467.txt|.|2|.|bbc_sport_486.txt|.|2|.|bbc_sport_487.txt|.|3
+like|.|bbc_sport_198.txt|.|2|.|bbc_politics_253.txt|.|3|.|bbc_tech_056.txt|.|3|.|bbc_tech_162.txt|.|2|.|bbc_sport_489.txt|.|3|.|bbc_tech_137.txt|.|7|.|bbc_politics_053.txt|.|2|.|bbc_sport_254.txt|.|5|.|bbc_tech_364.txt|.|6|.|bbc_sport_490.txt|.|3|.|bbc_entertainment_144.txt|.|2|.|bbc_politics_025.txt|.|3|.|bbc_sport_498.txt|.|2|.|bbc_entertainment_066.txt|.|2|.|bbc_tech_144.txt|.|6|.|bbc_sport_444.txt|.|2|.|bbc_tech_229.txt|.|2|.|bbc_tech_093.txt|.|2|.|bbc_tech_149.txt|.|2|.|bbc_politics_289.txt|.|2|.|bbc_sport_275.txt|.|2|.|bbc_sport_458.txt|.|2|.|bbc_entertainment_206.txt|.|2|.|bbc_politics_218.txt|.|3
+briton|.|bbc_sport_042.txt|.|2|.|bbc_sport_492.txt|.|2
+fourth round|.|bbc_sport_480.txt|.|2
+patent lawsuits|.|bbc_tech_029.txt|.|2
+minar|.|bbc_sport_450.txt|.|3
+kazakh|.|bbc_business_357.txt|.|2
+melbourne crowd|.|bbc_sport_486.txt|.|2
+accuse|.|bbc_business_449.txt|.|1
+wild card|.|bbc_sport_478.txt|.|2
+keys|.|bbc_entertainment_150.txt|.|3|.|bbc_entertainment_264.txt|.|4|.|bbc_entertainment_259.txt|.|2|.|bbc_entertainment_175.txt|.|4
+indian woman|.|bbc_sport_447.txt|.|3
+australian|.|bbc_sport_467.txt|.|2|.|bbc_sport_486.txt|.|5|.|bbc_business_455.txt|.|3|.|bbc_sport_478.txt|.|2|.|bbc_sport_475.txt|.|3|.|bbc_sport_489.txt|.|3|.|bbc_sport_477.txt|.|2|.|bbc_sport_453.txt|.|2|.|bbc_sport_490.txt|.|3|.|bbc_business_125.txt|.|4|.|bbc_sport_496.txt|.|5|.|bbc_sport_440.txt|.|2|.|bbc_sport_494.txt|.|3|.|bbc_sport_450.txt|.|4|.|bbc_sport_479.txt|.|2|.|bbc_sport_447.txt|.|2|.|bbc_sport_487.txt|.|3|.|bbc_sport_476.txt|.|5|.|bbc_sport_471.txt|.|3|.|bbc_sport_458.txt|.|2|.|bbc_entertainment_286.txt|.|3|.|bbc_sport_402.txt|.|2|.|bbc_business_128.txt|.|2
+atp title|.|bbc_sport_429.txt|.|2
+open source|.|bbc_tech_029.txt|.|10
+hyderabad open|.|bbc_sport_510.txt|.|2
+british number|.|bbc_sport_476.txt|.|2
+acapulco|.|bbc_sport_429.txt|.|2
+home crowd|.|bbc_sport_510.txt|.|2
+lindsay davenport|.|bbc_sport_476.txt|.|2
+alleges|.|bbc_entertainment_113.txt|.|2
+kazakhstan|.|bbc_business_357.txt|.|3
+denied by james|.|bbc_sport_139.txt|.|1
+headingley|.|bbc_sport_324.txt|.|2
+keanu|.|bbc_entertainment_339.txt|.|2
+headline|.|bbc_entertainment_283.txt|.|2
+lira|.|bbc_business_257.txt|.|11
+sexist|.|bbc_politics_008.txt|.|5
+us open|.|bbc_sport_492.txt|.|2|.|bbc_sport_495.txt|.|4|.|bbc_sport_481.txt|.|2
+michael portillo|.|bbc_politics_320.txt|.|2
+ginepri|.|bbc_sport_426.txt|.|4
+breaks|.|bbc_sport_070.txt|.|1|.|bbc_sport_480.txt|.|2
+fights|.|bbc_business_449.txt|.|1
+alicia keys is to open|.|bbc_entertainment_175.txt|.|1
+slam titles|.|bbc_sport_489.txt|.|1|.|bbc_sport_490.txt|.|1
+keys to open|.|bbc_entertainment_175.txt|.|1
+titles|.|bbc_tech_170.txt|.|6|.|bbc_tech_056.txt|.|3|.|bbc_tech_203.txt|.|5|.|bbc_sport_489.txt|.|1|.|bbc_sport_490.txt|.|1
+airport plans|.|bbc_politics_033.txt|.|2
+printing|.|bbc_business_014.txt|.|3
+soviet|.|bbc_tech_001.txt|.|2
+slam|.|bbc_sport_352.txt|.|3|.|bbc_sport_473.txt|.|1|.|bbc_sport_489.txt|.|3|.|bbc_sport_395.txt|.|1|.|bbc_sport_403.txt|.|6|.|bbc_sport_291.txt|.|2|.|bbc_sport_490.txt|.|3|.|bbc_sport_405.txt|.|2|.|bbc_sport_396.txt|.|2|.|bbc_sport_412.txt|.|3|.|bbc_sport_447.txt|.|3|.|bbc_sport_495.txt|.|3|.|bbc_sport_292.txt|.|2|.|bbc_sport_445.txt|.|2
+americans|.|bbc_tech_262.txt|.|2
+lawsuits|.|bbc_tech_029.txt|.|2
+eli lilly|.|bbc_business_449.txt|.|2
+henman to face|.|bbc_sport_476.txt|.|1
+sania|.|bbc_sport_447.txt|.|2
+wild|.|bbc_sport_478.txt|.|2|.|bbc_politics_113.txt|.|2
+open|.|bbc_sport_492.txt|.|4|.|bbc_sport_467.txt|.|2|.|bbc_tech_029.txt|.|10|.|bbc_sport_475.txt|.|3|.|bbc_sport_489.txt|.|6|.|bbc_sport_446.txt|.|2|.|bbc_sport_429.txt|.|3|.|bbc_sport_496.txt|.|4|.|bbc_sport_440.txt|.|2|.|bbc_sport_468.txt|.|2|.|bbc_business_357.txt|.|2|.|bbc_sport_450.txt|.|3|.|bbc_sport_479.txt|.|5|.|bbc_sport_463.txt|.|2|.|bbc_sport_436.txt|.|3|.|bbc_sport_476.txt|.|11|.|bbc_sport_471.txt|.|3|.|bbc_sport_480.txt|.|2|.|bbc_business_130.txt|.|2|.|bbc_sport_486.txt|.|2|.|bbc_sport_510.txt|.|3|.|bbc_sport_478.txt|.|5|.|bbc_entertainment_175.txt|.|2|.|bbc_sport_473.txt|.|1|.|bbc_sport_477.txt|.|5|.|bbc_business_449.txt|.|2|.|bbc_sport_490.txt|.|6|.|bbc_sport_481.txt|.|3|.|bbc_sport_447.txt|.|2|.|bbc_sport_495.txt|.|11|.|bbc_sport_426.txt|.|2|.|bbc_sport_430.txt|.|3

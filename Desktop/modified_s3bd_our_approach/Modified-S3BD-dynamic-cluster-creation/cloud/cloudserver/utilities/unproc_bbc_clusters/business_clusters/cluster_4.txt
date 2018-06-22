@@ -1,0 +1,113 @@
+4
+settlements|.|bbc_business_122.txt|.|3
+romeo|.|bbc_business_148.txt|.|4
+electronics|.|bbc_business_211.txt|.|3
+verizon|.|bbc_business_162.txt|.|5
+contracted|.|bbc_business_507.txt|.|1
+trade gap narrows|.|bbc_business_441.txt|.|1
+greyhound|.|bbc_business_223.txt|.|2
+parliament|.|bbc_business_412.txt|.|4|.|bbc_business_074.txt|.|2
+supply|.|bbc_business_077.txt|.|2|.|bbc_business_397.txt|.|4
+trio|.|bbc_business_445.txt|.|3
+golden|.|bbc_business_154.txt|.|5|.|bbc_business_106.txt|.|2|.|bbc_business_195.txt|.|4
+imports rose|.|bbc_business_441.txt|.|2
+savings|.|bbc_business_255.txt|.|2
+prime|.|bbc_business_052.txt|.|2|.|bbc_business_133.txt|.|4|.|bbc_business_170.txt|.|2
+deputy|.|bbc_business_170.txt|.|2
+fined|.|bbc_business_400.txt|.|1
+milk|.|bbc_business_338.txt|.|4
+venture|.|bbc_business_315.txt|.|5|.|bbc_business_205.txt|.|2
+senior|.|bbc_business_326.txt|.|4|.|bbc_business_445.txt|.|2
+bank of england|.|bbc_business_507.txt|.|1|.|bbc_business_137.txt|.|3|.|bbc_business_085.txt|.|2|.|bbc_business_119.txt|.|2
+action plan|.|bbc_business_052.txt|.|2
+top|.|bbc_business_506.txt|.|2|.|bbc_business_385.txt|.|2|.|bbc_business_397.txt|.|3|.|bbc_business_037.txt|.|3|.|bbc_business_484.txt|.|1
+hotel|.|bbc_business_470.txt|.|2
+gaming|.|bbc_business_223.txt|.|7
+chain|.|bbc_business_397.txt|.|2
+debt moratorium|.|bbc_business_491.txt|.|2
+uk exported|.|bbc_business_441.txt|.|2
+retailer|.|bbc_business_070.txt|.|3|.|bbc_business_448.txt|.|2|.|bbc_business_361.txt|.|1|.|bbc_business_393.txt|.|2|.|bbc_business_390.txt|.|2
+right|.|bbc_business_078.txt|.|2
+paul tucker|.|bbc_business_151.txt|.|2
+march|.|bbc_business_412.txt|.|2|.|bbc_business_295.txt|.|4
+us gaming|.|bbc_business_223.txt|.|4
+reports on social|.|bbc_business_397.txt|.|1
+meet|.|bbc_business_196.txt|.|2|.|bbc_business_359.txt|.|1
+afghanistan|.|bbc_business_320.txt|.|2
+profit share|.|bbc_business_237.txt|.|3
+put up rates|.|bbc_business_137.txt|.|1
+rose|.|bbc_business_405.txt|.|2|.|bbc_business_275.txt|.|2|.|bbc_business_441.txt|.|4|.|bbc_business_387.txt|.|3|.|bbc_business_132.txt|.|2|.|bbc_business_370.txt|.|2|.|bbc_business_450.txt|.|2|.|bbc_business_170.txt|.|2|.|bbc_business_163.txt|.|2|.|bbc_business_153.txt|.|2
+paul|.|bbc_business_151.txt|.|2
+richest|.|bbc_business_065.txt|.|2
+rates are set|.|bbc_business_137.txt|.|1
+replica|.|bbc_business_040.txt|.|3
+southcorp|.|bbc_business_435.txt|.|6|.|bbc_business_451.txt|.|9
+murray|.|bbc_business_367.txt|.|7
+dip|.|bbc_business_415.txt|.|1
+krivorizhstal|.|bbc_business_197.txt|.|3
+aycliffe|.|bbc_business_058.txt|.|2
+said prices|.|bbc_business_405.txt|.|3
+biggest|.|bbc_business_405.txt|.|2|.|bbc_business_201.txt|.|2|.|bbc_business_473.txt|.|2|.|bbc_business_026.txt|.|2|.|bbc_business_399.txt|.|2|.|bbc_business_126.txt|.|2|.|bbc_business_116.txt|.|1
+major|.|bbc_business_343.txt|.|1|.|bbc_business_289.txt|.|3
+british children|.|bbc_business_484.txt|.|2
+serious|.|bbc_business_289.txt|.|2
+talk|.|bbc_business_417.txt|.|2
+former enron|.|bbc_business_414.txt|.|2
+chartered|.|bbc_business_329.txt|.|2|.|bbc_business_409.txt|.|13
+imports|.|bbc_business_441.txt|.|3
+home furnishing|.|bbc_business_393.txt|.|1
+zeros off lira|.|bbc_business_257.txt|.|1
+reported by consumers|.|bbc_business_079.txt|.|1
+sandoz|.|bbc_business_201.txt|.|4
+pleaded|.|bbc_business_401.txt|.|2|.|bbc_business_060.txt|.|1
+japan airlines|.|bbc_business_335.txt|.|5
+illegal|.|bbc_business_197.txt|.|2
+gw pharma|.|bbc_business_327.txt|.|5
+eu rules|.|bbc_business_413.txt|.|1
+mines|.|bbc_business_042.txt|.|3
+ms druyun|.|bbc_business_161.txt|.|6
+parking fees|.|bbc_business_461.txt|.|2
+final|.|bbc_business_238.txt|.|4
+mail on sunday|.|bbc_business_166.txt|.|1
+uk house|.|bbc_business_405.txt|.|2|.|bbc_business_170.txt|.|2|.|bbc_business_415.txt|.|2
+alfa romeo|.|bbc_business_148.txt|.|4
+lose jobs|.|bbc_business_442.txt|.|1
+ease|.|bbc_business_496.txt|.|2
+heart attack|.|bbc_business_191.txt|.|2
+shares in gw|.|bbc_business_327.txt|.|2
+purchasing|.|bbc_business_086.txt|.|2
+exports|.|bbc_business_441.txt|.|6|.|bbc_business_439.txt|.|2|.|bbc_business_427.txt|.|3|.|bbc_business_505.txt|.|1|.|bbc_business_355.txt|.|2|.|bbc_business_289.txt|.|3|.|bbc_business_440.txt|.|4|.|bbc_business_024.txt|.|3|.|bbc_business_089.txt|.|4
+andhra pradesh|.|bbc_business_377.txt|.|2
+part|.|bbc_business_081.txt|.|3
+smith lecture|.|bbc_business_213.txt|.|2
+house|.|bbc_business_405.txt|.|11|.|bbc_business_170.txt|.|5|.|bbc_business_329.txt|.|2|.|bbc_business_415.txt|.|9|.|bbc_business_323.txt|.|1|.|bbc_business_248.txt|.|6|.|bbc_business_153.txt|.|5
+banking|.|bbc_business_417.txt|.|4|.|bbc_business_489.txt|.|2|.|bbc_business_147.txt|.|7|.|bbc_business_409.txt|.|5|.|bbc_business_032.txt|.|1|.|bbc_business_088.txt|.|2
+states|.|bbc_business_146.txt|.|2|.|bbc_business_273.txt|.|2
+uk economy|.|bbc_business_507.txt|.|4|.|bbc_business_289.txt|.|2|.|bbc_business_459.txt|.|3
+lufthansa said|.|bbc_business_064.txt|.|2
+september|.|bbc_business_295.txt|.|3
+financial support|.|bbc_business_469.txt|.|2
+contraction|.|bbc_business_156.txt|.|2
+relief|.|bbc_business_241.txt|.|4|.|bbc_business_210.txt|.|4
+bond sale|.|bbc_business_475.txt|.|2
+ba to suspend|.|bbc_business_432.txt|.|1
+nuclear|.|bbc_business_456.txt|.|3
+poorest countries|.|bbc_business_241.txt|.|3
+says|.|bbc_business_507.txt|.|2|.|bbc_business_285.txt|.|2
+euro on friday|.|bbc_business_374.txt|.|2
+prince|.|bbc_business_043.txt|.|3|.|bbc_business_470.txt|.|2
+sold|.|bbc_business_197.txt|.|3|.|bbc_business_160.txt|.|2|.|bbc_business_318.txt|.|2
+billions|.|bbc_business_238.txt|.|2
+approval|.|bbc_business_327.txt|.|5
+deccan|.|bbc_business_339.txt|.|4|.|bbc_business_407.txt|.|5
+tracks|.|bbc_business_223.txt|.|4
+prosecutors|.|bbc_business_458.txt|.|4
+existing|.|bbc_business_231.txt|.|2
+economics|.|bbc_business_491.txt|.|2
+gap narrows|.|bbc_business_441.txt|.|1
+merrill lynch|.|bbc_business_336.txt|.|3
+ufj|.|bbc_business_032.txt|.|7
+iron|.|bbc_business_140.txt|.|6
+cooper|.|bbc_business_059.txt|.|4
+account|.|bbc_business_185.txt|.|3|.|bbc_business_330.txt|.|2|.|bbc_business_097.txt|.|3
+vodafone|.|bbc_business_234.txt|.|6

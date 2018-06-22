@@ -1,0 +1,93 @@
+4
+mamma|.|bbc_entertainment_346.txt|.|2
+aspiring|.|bbc_entertainment_027.txt|.|3
+agent|.|bbc_entertainment_260.txt|.|2
+dogg|.|bbc_entertainment_115.txt|.|4
+claimed|.|bbc_entertainment_115.txt|.|2
+numbers|.|bbc_entertainment_026.txt|.|4
+ice|.|bbc_entertainment_188.txt|.|9
+nicole|.|bbc_entertainment_327.txt|.|2
+anna|.|bbc_entertainment_198.txt|.|2
+stabbing|.|bbc_entertainment_135.txt|.|2
+brit award|.|bbc_entertainment_121.txt|.|2
+dre|.|bbc_entertainment_135.txt|.|2
+leicester|.|bbc_entertainment_036.txt|.|2
+host|.|bbc_entertainment_192.txt|.|2|.|bbc_entertainment_219.txt|.|3|.|bbc_entertainment_185.txt|.|2|.|bbc_entertainment_274.txt|.|3|.|bbc_entertainment_038.txt|.|1|.|bbc_entertainment_222.txt|.|1
+wood|.|bbc_entertainment_311.txt|.|2
+bedside table|.|bbc_entertainment_141.txt|.|2
+dame alicia|.|bbc_entertainment_021.txt|.|3
+thoday|.|bbc_entertainment_003.txt|.|3|.|bbc_entertainment_272.txt|.|3
+surprise|.|bbc_entertainment_221.txt|.|2|.|bbc_entertainment_187.txt|.|3
+crane|.|bbc_entertainment_014.txt|.|2
+marlon|.|bbc_entertainment_048.txt|.|2
+mr johnson|.|bbc_entertainment_135.txt|.|2
+created|.|bbc_entertainment_165.txt|.|2
+osbourne said|.|bbc_entertainment_141.txt|.|2|.|bbc_entertainment_206.txt|.|1
+who claimed|.|bbc_entertainment_115.txt|.|2
+collection|.|bbc_entertainment_018.txt|.|4
+dame alicia markova|.|bbc_entertainment_021.txt|.|2
+sebastian|.|bbc_entertainment_121.txt|.|2
+finding|.|bbc_entertainment_355.txt|.|3|.|bbc_entertainment_316.txt|.|2
+martin clunes in doc|.|bbc_entertainment_198.txt|.|1
+friends|.|bbc_entertainment_176.txt|.|6
+adventure|.|bbc_entertainment_330.txt|.|3|.|bbc_entertainment_014.txt|.|2
+square|.|bbc_entertainment_213.txt|.|4|.|bbc_entertainment_036.txt|.|3
+mamma mia|.|bbc_entertainment_346.txt|.|2
+fellow housemates|.|bbc_entertainment_180.txt|.|2
+sweet charity|.|bbc_entertainment_343.txt|.|2
+man who was stabbed|.|bbc_entertainment_135.txt|.|1
+beastie|.|bbc_entertainment_147.txt|.|6
+melcher dies|.|bbc_entertainment_124.txt|.|1
+doc|.|bbc_entertainment_198.txt|.|1
+campaign|.|bbc_entertainment_266.txt|.|2
+oscar host|.|bbc_entertainment_185.txt|.|2
+wedding ring|.|bbc_entertainment_141.txt|.|1
+cards|.|bbc_entertainment_137.txt|.|3
+lawsuit|.|bbc_entertainment_113.txt|.|2|.|bbc_entertainment_050.txt|.|5
+father|.|bbc_entertainment_257.txt|.|2
+lord|.|bbc_entertainment_385.txt|.|2
+recording|.|bbc_entertainment_344.txt|.|2
+comic book|.|bbc_entertainment_374.txt|.|2
+house|.|bbc_entertainment_257.txt|.|4|.|bbc_entertainment_187.txt|.|2|.|bbc_entertainment_141.txt|.|3|.|bbc_entertainment_344.txt|.|2
+confirmed|.|bbc_entertainment_137.txt|.|2
+auction|.|bbc_entertainment_270.txt|.|2|.|bbc_entertainment_164.txt|.|5|.|bbc_entertainment_163.txt|.|2|.|bbc_entertainment_152.txt|.|4
+scottish acts|.|bbc_entertainment_121.txt|.|2
+radio stations|.|bbc_entertainment_218.txt|.|2
+radio station|.|bbc_entertainment_134.txt|.|2
+brit|.|bbc_entertainment_251.txt|.|2|.|bbc_entertainment_121.txt|.|3|.|bbc_entertainment_256.txt|.|4
+bjorn ulvaeus|.|bbc_entertainment_265.txt|.|2
+osbourne|.|bbc_entertainment_268.txt|.|7|.|bbc_entertainment_141.txt|.|4|.|bbc_entertainment_206.txt|.|4
+sitcom|.|bbc_entertainment_167.txt|.|3|.|bbc_entertainment_176.txt|.|2|.|bbc_entertainment_165.txt|.|2
+doris day|.|bbc_entertainment_124.txt|.|2
+wedding|.|bbc_entertainment_141.txt|.|3|.|bbc_entertainment_061.txt|.|2|.|bbc_entertainment_342.txt|.|2
+wonder|.|bbc_entertainment_386.txt|.|5
+performances|.|bbc_entertainment_292.txt|.|3
+fergus crane|.|bbc_entertainment_014.txt|.|2
+sandino moreno|.|bbc_entertainment_324.txt|.|2
+lopez|.|bbc_entertainment_360.txt|.|5|.|bbc_entertainment_146.txt|.|2
+recently|.|bbc_entertainment_224.txt|.|2|.|bbc_entertainment_185.txt|.|2
+mars|.|bbc_entertainment_252.txt|.|5
+intruder|.|bbc_entertainment_141.txt|.|2
+bedside|.|bbc_entertainment_141.txt|.|2
+dogg has been sued|.|bbc_entertainment_115.txt|.|1
+leicester square|.|bbc_entertainment_036.txt|.|2
+who played|.|bbc_entertainment_176.txt|.|2
+producers|.|bbc_entertainment_362.txt|.|3|.|bbc_entertainment_082.txt|.|8|.|bbc_entertainment_039.txt|.|8
+oscars|.|bbc_entertainment_041.txt|.|2|.|bbc_entertainment_082.txt|.|2|.|bbc_entertainment_081.txt|.|4|.|bbc_entertainment_326.txt|.|3|.|bbc_entertainment_092.txt|.|2|.|bbc_entertainment_369.txt|.|1|.|bbc_entertainment_062.txt|.|3|.|bbc_entertainment_040.txt|.|2|.|bbc_entertainment_373.txt|.|3|.|bbc_entertainment_337.txt|.|1|.|bbc_entertainment_280.txt|.|5|.|bbc_entertainment_368.txt|.|3|.|bbc_entertainment_039.txt|.|2|.|bbc_entertainment_065.txt|.|1|.|bbc_entertainment_078.txt|.|4
+wrote ring|.|bbc_entertainment_119.txt|.|2
+guitar|.|bbc_entertainment_270.txt|.|3
+police|.|bbc_entertainment_141.txt|.|7
+simon|.|bbc_entertainment_116.txt|.|1
+starring in a friends|.|bbc_entertainment_176.txt|.|1
+texts|.|bbc_entertainment_001.txt|.|1
+facing legal|.|bbc_entertainment_149.txt|.|1
+celebrations|.|bbc_entertainment_233.txt|.|1
+series|.|bbc_entertainment_174.txt|.|6|.|bbc_entertainment_207.txt|.|2|.|bbc_entertainment_310.txt|.|4|.|bbc_entertainment_176.txt|.|3|.|bbc_entertainment_170.txt|.|2|.|bbc_entertainment_210.txt|.|5|.|bbc_entertainment_025.txt|.|2
+beach|.|bbc_entertainment_124.txt|.|3
+stan|.|bbc_entertainment_305.txt|.|9
+khan|.|bbc_entertainment_349.txt|.|5
+jason|.|bbc_entertainment_311.txt|.|2
+glastonbury|.|bbc_entertainment_137.txt|.|2
+open|.|bbc_entertainment_175.txt|.|2
+mark|.|bbc_entertainment_161.txt|.|4
+gimme|.|bbc_entertainment_198.txt|.|3

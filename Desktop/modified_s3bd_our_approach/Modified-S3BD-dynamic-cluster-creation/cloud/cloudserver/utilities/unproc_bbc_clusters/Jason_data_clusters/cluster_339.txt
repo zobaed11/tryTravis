@@ -1,0 +1,38 @@
+339
+find list|.|WET128.txt|.|8
+public media|.|WET4256.txt|.|71
+applied|.|WET2334.txt|.|12|.|WET4501.txt|.|7
+sports columns preps local|.|WET1892.txt|.|22
+weekly|.|WET4271.txt|.|15|.|WET4256.txt|.|50|.|WET1110.txt|.|20
+offline re|.|WET4879.txt|.|73
+moment|.|WET4256.txt|.|60|.|WET4168.txt|.|10
+royals|.|WET1473.txt|.|34
+aikiweb aikido forums|.|WET1134.txt|.|13|.|WET4879.txt|.|22
+overstock|.|WET128.txt|.|8
+public health|.|WET149.txt|.|6
+notice|.|WET2421.txt|.|9
+weekly special|.|WET4256.txt|.|46
+report this review|.|WET1956.txt|.|9
+global public|.|WET149.txt|.|6
+creating your community|.|WET4028.txt|.|92
+full story latest|.|WET5171.txt|.|14
+transport|.|WET1056.txt|.|8
+public television|.|WET4256.txt|.|48
+aikiweb|.|WET1134.txt|.|69|.|WET4879.txt|.|50
+applied mathematics science|.|WET2334.txt|.|12
+track posts|.|WET2386.txt|.|112
+public administration|.|WET1465.txt|.|7
+eats|.|WET1833.txt|.|15|.|WET4064.txt|.|4|.|WET4256.txt|.|42
+profile find more posts|.|WET2096.txt|.|60
+wtiu public|.|WET4256.txt|.|48
+public transport|.|WET1056.txt|.|7
+science|.|WET1581.txt|.|65|.|WET2334.txt|.|53|.|WET5504.txt|.|56|.|WET1580.txt|.|45|.|WET185.txt|.|16|.|WET4256.txt|.|65|.|WET4501.txt|.|23|.|WET5329.txt|.|63
+feedback find|.|WET2609.txt|.|54|.|WET2610.txt|.|127
+ponchos|.|WET2145.txt|.|36|.|WET5885.txt|.|55
+help company info|.|WET1778.txt|.|11
+visual arts|.|WET2143.txt|.|18|.|WET5721.txt|.|7|.|WET1700.txt|.|11|.|WET2200.txt|.|2|.|WET4256.txt|.|20|.|WET511.txt|.|8|.|WET1195.txt|.|2|.|WET1699.txt|.|11|.|WET5446.txt|.|11|.|WET1220.txt|.|2|.|WET5445.txt|.|11|.|WET288.txt|.|15|.|WET3077.txt|.|4|.|WET4714.txt|.|1|.|WET4031.txt|.|13|.|WET3927.txt|.|2|.|WET1701.txt|.|7|.|WET3254.txt|.|3|.|WET23.txt|.|2|.|WET5391.txt|.|5|.|WET5447.txt|.|2
+embassy|.|WET4180.txt|.|5
+indiana public media|.|WET4256.txt|.|71
+wtiu|.|WET4256.txt|.|100
+public profile visit|.|WET4879.txt|.|20
+indiana newsdesk|.|WET4256.txt|.|39

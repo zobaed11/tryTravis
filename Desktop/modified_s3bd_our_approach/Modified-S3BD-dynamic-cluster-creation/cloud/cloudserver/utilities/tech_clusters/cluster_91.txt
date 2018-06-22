@@ -1,0 +1,17 @@
+91
+pirate|.|326.txt|.|1|.|043.txt|.|1
+cell processor|.|320.txt|.|2|.|319.txt|.|3|.|018.txt|.|3
+dvd copy|.|326.txt|.|2|.|043.txt|.|2
+dvds|.|326.txt|.|4|.|313.txt|.|8|.|043.txt|.|5|.|094.txt|.|8
+current|.|326.txt|.|3|.|043.txt|.|3
+dvd|.|155.txt|.|8|.|294.txt|.|8|.|219.txt|.|6|.|326.txt|.|10|.|313.txt|.|11|.|301.txt|.|6|.|224.txt|.|6|.|043.txt|.|11|.|094.txt|.|11
+copy protection|.|326.txt|.|3|.|043.txt|.|3
+trillions|.|190.txt|.|1
+current dvd|.|326.txt|.|2|.|043.txt|.|2
+home video|.|313.txt|.|2|.|094.txt|.|2
+home entertainment|.|313.txt|.|3|.|094.txt|.|3
+ripping|.|326.txt|.|3
+written|.|077.txt|.|5
+backs|.|219.txt|.|1|.|224.txt|.|1
+dvd ripping|.|326.txt|.|2
+pirate dvds|.|326.txt|.|1|.|043.txt|.|1

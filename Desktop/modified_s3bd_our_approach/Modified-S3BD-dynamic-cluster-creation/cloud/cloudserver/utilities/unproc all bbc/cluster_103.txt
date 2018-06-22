@@ -1,0 +1,64 @@
+slowed|.|bbc_business_046.txt|.|2
+job creation|.|bbc_business_022.txt|.|3|.|bbc_business_416.txt|.|2|.|bbc_business_292.txt|.|2
+french consumer|.|bbc_business_175.txt|.|2
+driven by consumer spending|.|bbc_business_190.txt|.|2
+gm engines|.|bbc_business_148.txt|.|1
+period last year|.|bbc_business_310.txt|.|2
+borrowing costs|.|bbc_business_436.txt|.|2|.|bbc_business_402.txt|.|2
+estimate|.|bbc_business_098.txt|.|2
+main concerns|.|bbc_business_416.txt|.|2|.|bbc_business_292.txt|.|2
+fire|.|bbc_tech_015.txt|.|2|.|bbc_entertainment_119.txt|.|4
+umd format|.|bbc_tech_345.txt|.|2
+found dead|.|bbc_entertainment_044.txt|.|3
+top spot|.|bbc_entertainment_144.txt|.|2
+pentagon|.|bbc_business_161.txt|.|5
+sectors|.|bbc_business_108.txt|.|2
+period|.|bbc_business_310.txt|.|3|.|bbc_politics_404.txt|.|3|.|bbc_business_110.txt|.|1|.|bbc_business_459.txt|.|3
+central banks|.|bbc_business_180.txt|.|2
+palace theatre|.|bbc_entertainment_358.txt|.|2
+minority ethnic|.|bbc_entertainment_194.txt|.|5
+banks aggressively|.|bbc_politics_338.txt|.|1
+euro zone|.|bbc_business_172.txt|.|2|.|bbc_politics_389.txt|.|2
+tiger|.|bbc_tech_259.txt|.|3
+driven by consumer|.|bbc_business_190.txt|.|2
+gran turismo|.|bbc_tech_112.txt|.|2
+physical damage|.|bbc_business_471.txt|.|2
+qpr|.|bbc_sport_173.txt|.|2
+online journalists|.|bbc_tech_324.txt|.|2|.|bbc_tech_044.txt|.|2|.|bbc_tech_035.txt|.|2
+sayeed|.|bbc_politics_410.txt|.|9
+economic commission|.|bbc_business_259.txt|.|2
+funeral|.|bbc_entertainment_290.txt|.|2
+german business|.|bbc_business_066.txt|.|2
+athletic|.|bbc_business_310.txt|.|2
+german growth|.|bbc_business_098.txt|.|2
+central european|.|bbc_business_172.txt|.|2
+said growth|.|bbc_business_073.txt|.|2
+said that the ifo|.|bbc_business_066.txt|.|1
+technical|.|bbc_business_006.txt|.|2
+growth estimate|.|bbc_business_098.txt|.|2
+irish shares|.|bbc_business_031.txt|.|2
+job growth|.|bbc_business_416.txt|.|2|.|bbc_business_292.txt|.|2
+knocked|.|bbc_entertainment_380.txt|.|2
+unece forecasts|.|bbc_business_172.txt|.|1
+singapore growth|.|bbc_business_256.txt|.|1|.|bbc_business_371.txt|.|1
+ronan mccormack|.|bbc_sport_379.txt|.|2
+physical|.|bbc_business_471.txt|.|2
+department|.|bbc_business_429.txt|.|2|.|bbc_business_134.txt|.|2|.|bbc_business_291.txt|.|2|.|bbc_tech_400.txt|.|3|.|bbc_business_253.txt|.|2|.|bbc_business_440.txt|.|2|.|bbc_business_155.txt|.|5|.|bbc_business_165.txt|.|2|.|bbc_business_007.txt|.|2|.|bbc_politics_203.txt|.|4
+analysts said|.|bbc_business_416.txt|.|2|.|bbc_business_292.txt|.|2|.|bbc_business_346.txt|.|2|.|bbc_business_300.txt|.|2
+broadband telecoms|.|bbc_business_112.txt|.|1
+lowest level|.|bbc_business_253.txt|.|2|.|bbc_business_007.txt|.|2
+spammer|.|bbc_tech_390.txt|.|2
+fourth quarter|.|bbc_business_466.txt|.|2|.|bbc_business_256.txt|.|3|.|bbc_business_118.txt|.|2|.|bbc_business_001.txt|.|3|.|bbc_business_479.txt|.|4|.|bbc_business_371.txt|.|3|.|bbc_business_288.txt|.|2|.|bbc_business_190.txt|.|3|.|bbc_business_073.txt|.|2
+financial stocks|.|bbc_business_031.txt|.|2
+unece|.|bbc_business_172.txt|.|5
+us industrial|.|bbc_business_453.txt|.|2
+writers|.|bbc_tech_281.txt|.|6|.|bbc_entertainment_361.txt|.|2
+hernia|.|bbc_sport_171.txt|.|2
+growth forecast|.|bbc_business_031.txt|.|1
+extraordinary|.|bbc_entertainment_305.txt|.|2
+brand name|.|bbc_tech_209.txt|.|2
+riggott|.|bbc_sport_106.txt|.|3
+growth|.|bbc_business_256.txt|.|5|.|bbc_business_310.txt|.|3|.|bbc_business_108.txt|.|4|.|bbc_business_006.txt|.|3|.|bbc_business_175.txt|.|3|.|bbc_business_493.txt|.|4|.|bbc_business_434.txt|.|2|.|bbc_business_110.txt|.|5|.|bbc_business_471.txt|.|4|.|bbc_business_073.txt|.|3|.|bbc_tech_072.txt|.|2|.|bbc_business_416.txt|.|6|.|bbc_business_172.txt|.|13|.|bbc_business_053.txt|.|1|.|bbc_business_371.txt|.|5|.|bbc_business_031.txt|.|7|.|bbc_business_459.txt|.|6|.|bbc_business_286.txt|.|4|.|bbc_business_046.txt|.|2|.|bbc_tech_366.txt|.|5|.|bbc_business_436.txt|.|4|.|bbc_business_453.txt|.|3|.|bbc_business_292.txt|.|6|.|bbc_business_253.txt|.|4|.|bbc_business_259.txt|.|2|.|bbc_business_190.txt|.|8|.|bbc_business_112.txt|.|3|.|bbc_tech_384.txt|.|2|.|bbc_business_147.txt|.|2|.|bbc_business_427.txt|.|2|.|bbc_business_055.txt|.|2|.|bbc_business_355.txt|.|2|.|bbc_business_098.txt|.|4|.|bbc_business_165.txt|.|8|.|bbc_business_288.txt|.|4|.|bbc_business_007.txt|.|4|.|bbc_politics_389.txt|.|4
+writer|.|bbc_entertainment_378.txt|.|2
+otis|.|bbc_politics_066.txt|.|2
+independent tribunal|.|bbc_sport_048.txt|.|3

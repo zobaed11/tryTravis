@@ -1,0 +1,91 @@
+14
+internet and american|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+nine|.|bbc_tech_132.txt|.|1|.|bbc_tech_176.txt|.|1
+boundaries between tv|.|bbc_tech_087.txt|.|2
+musicians are embracing|.|bbc_tech_145.txt|.|2
+million phishing|.|bbc_tech_217.txt|.|2
+use|.|bbc_tech_012.txt|.|4|.|bbc_tech_074.txt|.|7|.|bbc_tech_331.txt|.|4|.|bbc_tech_334.txt|.|2|.|bbc_tech_039.txt|.|2|.|bbc_tech_077.txt|.|4
+state law|.|bbc_tech_132.txt|.|3|.|bbc_tech_176.txt|.|3
+political blogs|.|bbc_tech_078.txt|.|2
+help virus|.|bbc_tech_210.txt|.|1
+blog readership|.|bbc_tech_078.txt|.|2
+bbc news|.|bbc_tech_114.txt|.|3|.|bbc_tech_102.txt|.|2|.|bbc_tech_193.txt|.|2|.|bbc_tech_296.txt|.|2|.|bbc_tech_354.txt|.|3
+commodore|.|bbc_tech_374.txt|.|12|.|bbc_tech_128.txt|.|12
+years|.|bbc_tech_132.txt|.|3|.|bbc_tech_098.txt|.|4|.|bbc_tech_176.txt|.|3|.|bbc_tech_289.txt|.|4
+us customs|.|bbc_tech_354.txt|.|3
+professional|.|bbc_tech_274.txt|.|2
+using satellite|.|bbc_tech_223.txt|.|1
+sun grid|.|bbc_tech_022.txt|.|2|.|bbc_tech_380.txt|.|2
+companies|.|bbc_tech_080.txt|.|3|.|bbc_tech_188.txt|.|12|.|bbc_tech_041.txt|.|1|.|bbc_tech_376.txt|.|1
+top of the supercomputing chart|.|bbc_tech_141.txt|.|1
+reading blogs|.|bbc_tech_078.txt|.|1
+copies|.|bbc_tech_203.txt|.|4|.|bbc_tech_160.txt|.|2
+pages|.|bbc_tech_236.txt|.|2
+shown|.|bbc_tech_267.txt|.|2|.|bbc_tech_165.txt|.|2|.|bbc_tech_166.txt|.|2
+download speeds|.|bbc_tech_058.txt|.|2
+software pirates|.|bbc_tech_354.txt|.|1
+customs|.|bbc_tech_354.txt|.|4
+mozilla browsers|.|bbc_tech_196.txt|.|2
+market share|.|bbc_tech_196.txt|.|2
+implemented|.|bbc_tech_030.txt|.|2
+boundaries|.|bbc_tech_087.txt|.|2
+state|.|bbc_tech_132.txt|.|4|.|bbc_tech_176.txt|.|4|.|bbc_tech_273.txt|.|2
+bureau|.|bbc_tech_334.txt|.|2|.|bbc_tech_039.txt|.|2
+including|.|bbc_tech_196.txt|.|3
+successful artists|.|bbc_tech_145.txt|.|3
+bbc sport|.|bbc_tech_028.txt|.|2
+mozilla|.|bbc_tech_196.txt|.|5
+fictional|.|bbc_tech_102.txt|.|3|.|bbc_tech_133.txt|.|3|.|bbc_tech_180.txt|.|3
+touch|.|bbc_tech_185.txt|.|3|.|bbc_tech_153.txt|.|3
+real|.|bbc_tech_073.txt|.|2|.|bbc_tech_164.txt|.|2|.|bbc_tech_198.txt|.|1
+gigapixel|.|bbc_tech_201.txt|.|3
+benefit|.|bbc_tech_145.txt|.|2
+us presidential|.|bbc_tech_078.txt|.|2
+visitors|.|bbc_tech_204.txt|.|5|.|bbc_tech_395.txt|.|2
+readership|.|bbc_tech_078.txt|.|2
+bureau of investigation|.|bbc_tech_334.txt|.|1|.|bbc_tech_039.txt|.|1
+explorer|.|bbc_tech_138.txt|.|5|.|bbc_tech_020.txt|.|5|.|bbc_tech_369.txt|.|4|.|bbc_tech_196.txt|.|3
+tsunami aid|.|bbc_tech_027.txt|.|2|.|bbc_tech_315.txt|.|2
+virginia|.|bbc_tech_132.txt|.|3|.|bbc_tech_176.txt|.|3
+credit card|.|bbc_tech_120.txt|.|3|.|bbc_tech_164.txt|.|2
+internet|.|bbc_tech_334.txt|.|3|.|bbc_tech_020.txt|.|5|.|bbc_tech_394.txt|.|3|.|bbc_tech_211.txt|.|4|.|bbc_tech_047.txt|.|2|.|bbc_tech_335.txt|.|3|.|bbc_tech_267.txt|.|3|.|bbc_tech_021.txt|.|3|.|bbc_tech_118.txt|.|2|.|bbc_tech_369.txt|.|4|.|bbc_tech_196.txt|.|3|.|bbc_tech_204.txt|.|3|.|bbc_tech_145.txt|.|8|.|bbc_tech_132.txt|.|3|.|bbc_tech_269.txt|.|3|.|bbc_tech_387.txt|.|2|.|bbc_tech_039.txt|.|3|.|bbc_tech_327.txt|.|2|.|bbc_tech_087.txt|.|10|.|bbc_tech_078.txt|.|4|.|bbc_tech_138.txt|.|6|.|bbc_tech_337.txt|.|7|.|bbc_tech_058.txt|.|2|.|bbc_tech_176.txt|.|3|.|bbc_tech_226.txt|.|4|.|bbc_tech_328.txt|.|3|.|bbc_tech_354.txt|.|8
+benefit musicians|.|bbc_tech_145.txt|.|2
+internet use|.|bbc_tech_334.txt|.|2|.|bbc_tech_039.txt|.|2
+life project|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+nine years|.|bbc_tech_132.txt|.|1|.|bbc_tech_176.txt|.|1
+britain|.|bbc_tech_354.txt|.|3
+presidential campaign|.|bbc_tech_078.txt|.|2
+internet service|.|bbc_tech_058.txt|.|1|.|bbc_tech_021.txt|.|2|.|bbc_tech_087.txt|.|4|.|bbc_tech_328.txt|.|2
+financial|.|bbc_tech_164.txt|.|4
+industry|.|bbc_tech_367.txt|.|3|.|bbc_tech_211.txt|.|2|.|bbc_tech_145.txt|.|6|.|bbc_tech_092.txt|.|6|.|bbc_tech_307.txt|.|3|.|bbc_tech_241.txt|.|4|.|bbc_tech_231.txt|.|6|.|bbc_tech_087.txt|.|2|.|bbc_tech_226.txt|.|2|.|bbc_tech_100.txt|.|5|.|bbc_tech_038.txt|.|2
+media|.|bbc_tech_151.txt|.|2|.|bbc_tech_247.txt|.|6|.|bbc_tech_113.txt|.|5|.|bbc_tech_325.txt|.|2|.|bbc_tech_059.txt|.|2|.|bbc_tech_099.txt|.|6|.|bbc_tech_215.txt|.|4|.|bbc_tech_279.txt|.|5|.|bbc_tech_167.txt|.|4|.|bbc_tech_384.txt|.|14|.|bbc_tech_282.txt|.|3|.|bbc_tech_322.txt|.|2|.|bbc_tech_183.txt|.|2|.|bbc_tech_302.txt|.|5|.|bbc_tech_222.txt|.|11
+speed|.|bbc_tech_175.txt|.|1|.|bbc_tech_253.txt|.|6|.|bbc_tech_032.txt|.|3|.|bbc_tech_335.txt|.|2|.|bbc_tech_129.txt|.|1|.|bbc_tech_173.txt|.|6
+emergency committee|.|bbc_tech_027.txt|.|2|.|bbc_tech_315.txt|.|2
+browser|.|bbc_tech_138.txt|.|8|.|bbc_tech_310.txt|.|6|.|bbc_tech_020.txt|.|10|.|bbc_tech_089.txt|.|6|.|bbc_tech_196.txt|.|8
+google has shown|.|bbc_tech_267.txt|.|2
+old bailey|.|bbc_tech_354.txt|.|2
+infected machines|.|bbc_tech_210.txt|.|3
+computing power|.|bbc_tech_022.txt|.|2|.|bbc_tech_380.txt|.|2
+parliamentary|.|bbc_tech_001.txt|.|3
+share|.|bbc_tech_196.txt|.|3
+mini revolution|.|bbc_tech_336.txt|.|1
+pew internet|.|bbc_tech_145.txt|.|2|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+american life project|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2
+republics|.|bbc_tech_001.txt|.|1
+firefox browser|.|bbc_tech_138.txt|.|2
+high speed|.|bbc_tech_253.txt|.|2|.|bbc_tech_032.txt|.|3|.|bbc_tech_335.txt|.|2
+portable media|.|bbc_tech_222.txt|.|8
+net content|.|bbc_tech_087.txt|.|2
+specific|.|bbc_tech_053.txt|.|3
+including firefox|.|bbc_tech_196.txt|.|2
+top of supercomputing|.|bbc_tech_141.txt|.|1
+extensive|.|bbc_tech_204.txt|.|2
+usage allowances|.|bbc_tech_058.txt|.|2
+regulation of net|.|bbc_tech_087.txt|.|1
+risks|.|bbc_tech_122.txt|.|3
+tv content|.|bbc_tech_087.txt|.|4
+regulation|.|bbc_tech_087.txt|.|9
+access the internet|.|bbc_tech_204.txt|.|1
+tuned|.|bbc_tech_159.txt|.|2|.|bbc_tech_147.txt|.|2
+net industry|.|bbc_tech_087.txt|.|2
+musicians are embracing the internet|.|bbc_tech_145.txt|.|2

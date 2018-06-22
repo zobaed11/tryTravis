@@ -1,0 +1,120 @@
+augmentation research center|.|rfc191.txt|.|2
+resynchronization|.|rfc489.txt|.|2|.|rfc4811.txt|.|32|.|rfc4226.txt|.|16|.|rfc467.txt|.|20
+proposed file|.|rfc520.txt|.|9
+persistent route oscillation|.|rfc3345.txt|.|24
+suggested addition to file transfer|.|rfc281.txt|.|8
+accessing|.|rfc535.txt|.|2
+time when processing|.|rfc5661.txt|.|1|.|rfc3530.txt|.|1|.|rfc3010.txt|.|1
+jsys|.|rfc576.txt|.|4
+lambda|.|rfc6205.txt|.|17
+preemption policies|.|rfc4829.txt|.|23
+additional snoop datalink|.|rfc3827.txt|.|4
+transaction sequence|.|rfc133.txt|.|2
+tip users|.|rfc352.txt|.|2|.|rfc386.txt|.|9
+execution of programs|.|rfc114.txt|.|5
+etftp august|.|rfc1986.txt|.|20
+network time|.|rfc4075.txt|.|6
+transfer server|.|rfc501.txt|.|13
+see ref|.|rfc310.txt|.|10
+registrations|.|rfc4047.txt|.|24|.|rfc4613.txt|.|6|.|rfc3745.txt|.|14|.|rfc3839.txt|.|8|.|rfc4839.txt|.|5|.|rfc6118.txt|.|80|.|rfc4393.txt|.|7|.|rfc4355.txt|.|21|.|rfc4979.txt|.|2
+look at data|.|rfc310.txt|.|7
+edit|.|rfc191.txt|.|2
+text file|.|rfc627.txt|.|2
+uni signaling|.|rfc3476.txt|.|18
+op code|.|rfc122.txt|.|13
+rjor|.|rfc113.txt|.|2
+internet kermit service|.|rfc2839.txt|.|32
+file delivery|.|rfc3926.txt|.|68
+automaton|.|rfc614.txt|.|2|.|rfc430.txt|.|8
+comments on file|.|rfc535.txt|.|4|.|rfc430.txt|.|8
+job entry|.|rfc368.txt|.|2|.|rfc325.txt|.|9|.|rfc360.txt|.|20|.|rfc307.txt|.|6|.|rfc599.txt|.|3
+command response|.|rfc122.txt|.|9
+jake feinler|.|rfc627.txt|.|2
+official hostnames|.|rfc627.txt|.|2
+odette ftp|.|rfc5024.txt|.|138
+ssh public|.|rfc4716.txt|.|21
+rje server|.|rfc407.txt|.|1|.|rfc360.txt|.|2
+remotely|.|rfc535.txt|.|3
+two solutions|.|rfc505.txt|.|4
+telling|.|rfc506.txt|.|2
+conference|.|rfc4245.txt|.|129|.|rfc4575.txt|.|272|.|rfc4579.txt|.|253|.|rfc234.txt|.|2|.|rfc4376.txt|.|63|.|rfc4597.txt|.|163|.|rfc5370.txt|.|22|.|rfc5366.txt|.|62|.|rfc4353.txt|.|256|.|rfc5239.txt|.|708|.|rfc371.txt|.|5|.|rfc5369.txt|.|16
+activity|.|rfc5901.txt|.|26|.|rfc4358.txt|.|2
+terminates the command|.|rfc412.txt|.|1
+response codes|.|rfc5530.txt|.|19
+view of the datacomputer|.|rfc219.txt|.|8
+exchange buffer|.|rfc5024.txt|.|75
+sunberg|.|rfc133.txt|.|5
+special logic|.|rfc5024.txt|.|29
+hethmon|.|rfc3659.txt|.|66|.|rfc2389.txt|.|13
+xpath|.|rfc3653.txt|.|84|.|rfc6241.txt|.|33
+ftp server|.|rfc607.txt|.|2|.|rfc573.txt|.|1|.|rfc624.txt|.|2|.|rfc487.txt|.|3|.|rfc2577.txt|.|9|.|rfc438.txt|.|5
+nls file|.|rfc543.txt|.|4
+telnet control connection|.|rfc614.txt|.|5
+sshfp|.|rfc4255.txt|.|31
+hashes june|.|rfc6249.txt|.|20
+extensible authentication protocol|.|rfc5749.txt|.|5|.|rfc5998.txt|.|16|.|rfc4739.txt|.|3
+ostermann informational|.|rfc2577.txt|.|8
+phb march|.|rfc3246.txt|.|15
+encryption using kea|.|rfc2773.txt|.|9
+ietf secretariat|.|rfc5485.txt|.|36
+ftp documentation|.|rfc412.txt|.|10
+additional snoop|.|rfc3827.txt|.|4
+augmentation research|.|rfc191.txt|.|2
+dependent ftp|.|rfc480.txt|.|1
+file access|.|rfc520.txt|.|15|.|rfc535.txt|.|8
+current filehandle|.|rfc3530.txt|.|84
+allocated to the file|.|rfc122.txt|.|2
+naming conventions|.|rfc180.txt|.|3
+files in ftp|.|rfc448.txt|.|5
+logic|.|rfc5360.txt|.|31|.|rfc5024.txt|.|39
+content encoding|.|rfc3926.txt|.|16
+bay networks|.|rfc2415.txt|.|3
+print files in ftp|.|rfc448.txt|.|5
+ftp security considerations|.|rfc2577.txt|.|8
+current tenex|.|rfc571.txt|.|2
+telling the server|.|rfc506.txt|.|2
+downloaded from multiple|.|rfc6249.txt|.|2
+tenex ftp user|.|rfc571.txt|.|1
+user ftp|.|rfc412.txt|.|13
+data copies|.|rfc5532.txt|.|11
+using ipfix files|.|rfc5655.txt|.|10
+user ftp process|.|rfc412.txt|.|1
+filehandle|.|rfc5661.txt|.|511|.|rfc2055.txt|.|49|.|rfc2224.txt|.|50|.|rfc3530.txt|.|315|.|rfc3010.txt|.|263
+audio visual|.|rfc4337.txt|.|3
+connection established|.|rfc163.txt|.|1
+flute october|.|rfc3926.txt|.|34
+copies|.|rfc5532.txt|.|15
+control transactions|.|rfc265.txt|.|8
+noise words|.|rfc412.txt|.|4
+nvfs|.|rfc3659.txt|.|20
+ascii text|.|rfc627.txt|.|2
+protocol rfc|.|rfc265.txt|.|11
+file systems|.|rfc114.txt|.|5|.|rfc5716.txt|.|26
+downloaded|.|rfc6249.txt|.|6
+viewing display|.|rfc191.txt|.|1
+file viewing|.|rfc191.txt|.|1
+file transfer workshop notes|.|rfc327.txt|.|5
+input stream|.|rfc122.txt|.|26
+virtual file|.|rfc5024.txt|.|83
+file name|.|rfc412.txt|.|15
+revision of the mail box|.|rfc278.txt|.|5
+print file|.|rfc448.txt|.|11|.|rfc385.txt|.|4
+ftp march|.|rfc3659.txt|.|60
+augmentation|.|rfc191.txt|.|2
+haefner|.|rfc141.txt|.|3|.|rfc10.txt|.|3
+output stream|.|rfc122.txt|.|12
+file writer|.|rfc5655.txt|.|47
+definitions for talking|.|rfc3254.txt|.|11
+storage device|.|rfc5661.txt|.|82|.|rfc3179.txt|.|4|.|rfc5664.txt|.|16|.|rfc2790.txt|.|11
+op|.|rfc122.txt|.|17
+keyboard|.|rfc296.txt|.|17|.|rfc216.txt|.|16
+file sender|.|rfc5547.txt|.|74
+describe the file|.|rfc5547.txt|.|4
+formatted documents|.|rfc3778.txt|.|3
+packaging|.|rfc163.txt|.|3
+solutions to a file|.|rfc505.txt|.|3
+internet kermit|.|rfc2839.txt|.|33
+flute|.|rfc3926.txt|.|88
+listed|.|rfc3659.txt|.|30|.|rfc6014.txt|.|6
+odette file transfer|.|rfc2204.txt|.|80
+stable|.|rfc5661.txt|.|77|.|rfc4136.txt|.|5

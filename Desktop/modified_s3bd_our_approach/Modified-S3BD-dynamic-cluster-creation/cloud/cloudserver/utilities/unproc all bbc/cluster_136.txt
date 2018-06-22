@@ -1,0 +1,64 @@
+greeted|.|bbc_entertainment_036.txt|.|2
+summer move|.|bbc_sport_156.txt|.|2
+keaveney|.|bbc_entertainment_198.txt|.|3
+ajax|.|bbc_sport_164.txt|.|7
+ajax refuse|.|bbc_sport_164.txt|.|1
+stabbing|.|bbc_entertainment_135.txt|.|2
+bayer leverkusen|.|bbc_sport_237.txt|.|2
+data recovery|.|bbc_tech_207.txt|.|2
+gimme gimme|.|bbc_entertainment_198.txt|.|2
+rare|.|bbc_entertainment_324.txt|.|1
+host|.|bbc_entertainment_192.txt|.|2|.|bbc_entertainment_219.txt|.|3|.|bbc_sport_402.txt|.|2|.|bbc_entertainment_185.txt|.|2|.|bbc_entertainment_274.txt|.|3|.|bbc_politics_281.txt|.|2|.|bbc_entertainment_038.txt|.|1|.|bbc_entertainment_222.txt|.|1
+dame alicia|.|bbc_entertainment_021.txt|.|3
+bedside table|.|bbc_entertainment_141.txt|.|2
+stabbed|.|bbc_entertainment_135.txt|.|2
+beach boys|.|bbc_entertainment_124.txt|.|2
+healey|.|bbc_sport_391.txt|.|10
+who claimed|.|bbc_entertainment_115.txt|.|2
+agree|.|bbc_business_394.txt|.|1|.|bbc_sport_262.txt|.|1
+dame alicia markova|.|bbc_entertainment_021.txt|.|2
+sebastian|.|bbc_entertainment_121.txt|.|2
+southampton manager|.|bbc_sport_270.txt|.|3
+martin clunes in doc|.|bbc_entertainment_198.txt|.|1
+hunger|.|bbc_politics_053.txt|.|4
+sprinting|.|bbc_sport_028.txt|.|1|.|bbc_sport_008.txt|.|2
+man who was stabbed|.|bbc_entertainment_135.txt|.|1
+malfunctioning|.|bbc_tech_207.txt|.|1
+doc|.|bbc_entertainment_198.txt|.|1
+programs|.|bbc_tech_007.txt|.|4|.|bbc_tech_377.txt|.|4|.|bbc_tech_241.txt|.|2|.|bbc_tech_096.txt|.|4|.|bbc_tech_060.txt|.|4|.|bbc_tech_077.txt|.|8
+shevardnadze|.|bbc_business_199.txt|.|4
+who|.|bbc_entertainment_121.txt|.|5|.|bbc_politics_412.txt|.|2|.|bbc_politics_390.txt|.|2|.|bbc_entertainment_198.txt|.|2|.|bbc_tech_241.txt|.|4|.|bbc_sport_237.txt|.|2|.|bbc_tech_207.txt|.|3|.|bbc_entertainment_115.txt|.|2|.|bbc_sport_112.txt|.|7|.|bbc_sport_028.txt|.|4|.|bbc_entertainment_374.txt|.|2|.|bbc_entertainment_036.txt|.|3|.|bbc_sport_270.txt|.|3|.|bbc_politics_332.txt|.|6|.|bbc_entertainment_324.txt|.|3|.|bbc_sport_156.txt|.|3|.|bbc_entertainment_165.txt|.|3|.|bbc_business_199.txt|.|3|.|bbc_tech_092.txt|.|3|.|bbc_entertainment_135.txt|.|3|.|bbc_sport_241.txt|.|2|.|bbc_entertainment_185.txt|.|2|.|bbc_sport_098.txt|.|2|.|bbc_sport_162.txt|.|2|.|bbc_politics_230.txt|.|4|.|bbc_sport_391.txt|.|3|.|bbc_entertainment_176.txt|.|3|.|bbc_entertainment_141.txt|.|7|.|bbc_entertainment_039.txt|.|5|.|bbc_entertainment_137.txt|.|2|.|bbc_politics_067.txt|.|2|.|bbc_sport_036.txt|.|2|.|bbc_politics_274.txt|.|2|.|bbc_entertainment_082.txt|.|5|.|bbc_entertainment_124.txt|.|2|.|bbc_politics_117.txt|.|3|.|bbc_sport_435.txt|.|2|.|bbc_politics_053.txt|.|5|.|bbc_entertainment_021.txt|.|4|.|bbc_entertainment_014.txt|.|3|.|bbc_politics_371.txt|.|2|.|bbc_business_293.txt|.|3|.|bbc_sport_385.txt|.|2|.|bbc_sport_262.txt|.|2|.|bbc_politics_287.txt|.|3|.|bbc_sport_465.txt|.|2|.|bbc_sport_006.txt|.|2|.|bbc_sport_121.txt|.|7|.|bbc_sport_164.txt|.|3|.|bbc_tech_354.txt|.|7
+coached|.|bbc_sport_164.txt|.|1
+wedding ring|.|bbc_entertainment_141.txt|.|1
+hidden|.|bbc_business_199.txt|.|2
+people who|.|bbc_tech_241.txt|.|3|.|bbc_business_199.txt|.|3
+said she believed|.|bbc_politics_117.txt|.|2|.|bbc_politics_287.txt|.|2
+sandino|.|bbc_entertainment_324.txt|.|2
+comic book|.|bbc_entertainment_374.txt|.|2
+polar express|.|bbc_entertainment_036.txt|.|3
+bayern|.|bbc_sport_157.txt|.|3|.|bbc_sport_237.txt|.|3|.|bbc_sport_136.txt|.|2
+summer|.|bbc_sport_156.txt|.|4|.|bbc_sport_143.txt|.|3|.|bbc_sport_297.txt|.|2|.|bbc_sport_409.txt|.|2|.|bbc_sport_266.txt|.|2
+dollar|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_328.txt|.|2|.|bbc_business_383.txt|.|4|.|bbc_business_496.txt|.|5|.|bbc_business_143.txt|.|2|.|bbc_entertainment_095.txt|.|3|.|bbc_entertainment_051.txt|.|3|.|bbc_business_374.txt|.|7|.|bbc_entertainment_086.txt|.|2|.|bbc_business_097.txt|.|8|.|bbc_business_350.txt|.|7|.|bbc_entertainment_064.txt|.|2|.|bbc_business_376.txt|.|6|.|bbc_business_142.txt|.|7|.|bbc_business_344.txt|.|8|.|bbc_business_002.txt|.|6|.|bbc_entertainment_298.txt|.|1|.|bbc_business_053.txt|.|2|.|bbc_entertainment_069.txt|.|3|.|bbc_business_180.txt|.|10|.|bbc_business_089.txt|.|7|.|bbc_entertainment_078.txt|.|5
+man who|.|bbc_entertainment_135.txt|.|2
+birmingham|.|bbc_sport_187.txt|.|2|.|bbc_sport_029.txt|.|3|.|bbc_sport_273.txt|.|4|.|bbc_politics_148.txt|.|4|.|bbc_sport_032.txt|.|2|.|bbc_sport_006.txt|.|2|.|bbc_entertainment_237.txt|.|2
+bayer|.|bbc_sport_237.txt|.|2
+creations|.|bbc_entertainment_374.txt|.|1
+sitcom|.|bbc_entertainment_167.txt|.|3|.|bbc_entertainment_176.txt|.|2|.|bbc_entertainment_165.txt|.|2
+producers who|.|bbc_entertainment_082.txt|.|2|.|bbc_entertainment_039.txt|.|2
+retired|.|bbc_sport_241.txt|.|1
+wedding|.|bbc_politics_379.txt|.|2|.|bbc_entertainment_141.txt|.|3|.|bbc_entertainment_061.txt|.|2|.|bbc_entertainment_342.txt|.|2
+fergus crane|.|bbc_entertainment_014.txt|.|2
+praised by police|.|bbc_entertainment_141.txt|.|1
+sandino moreno|.|bbc_entertainment_324.txt|.|2
+intruder|.|bbc_entertainment_141.txt|.|2
+clunes|.|bbc_entertainment_198.txt|.|1
+clear|.|bbc_politics_036.txt|.|2|.|bbc_sport_080.txt|.|1|.|bbc_sport_006.txt|.|1
+bedside|.|bbc_entertainment_141.txt|.|2
+markova|.|bbc_entertainment_021.txt|.|4
+bruvik|.|bbc_tech_092.txt|.|4
+actresses|.|bbc_entertainment_324.txt|.|2
+bayern munich|.|bbc_sport_237.txt|.|3
+trade|.|bbc_business_256.txt|.|1|.|bbc_politics_385.txt|.|3|.|bbc_business_347.txt|.|5|.|bbc_business_464.txt|.|2|.|bbc_business_296.txt|.|7|.|bbc_business_008.txt|.|2|.|bbc_entertainment_276.txt|.|1|.|bbc_business_429.txt|.|6|.|bbc_business_478.txt|.|3|.|bbc_business_382.txt|.|2|.|bbc_business_441.txt|.|2|.|bbc_business_320.txt|.|4|.|bbc_business_427.txt|.|4|.|bbc_business_505.txt|.|8|.|bbc_business_371.txt|.|1|.|bbc_business_176.txt|.|2|.|bbc_business_440.txt|.|4|.|bbc_business_301.txt|.|2|.|bbc_business_024.txt|.|4|.|bbc_business_446.txt|.|8
+vibe awards|.|bbc_entertainment_135.txt|.|2
+comic|.|bbc_entertainment_305.txt|.|5|.|bbc_entertainment_374.txt|.|2|.|bbc_entertainment_190.txt|.|2
+dr dre|.|bbc_entertainment_135.txt|.|2

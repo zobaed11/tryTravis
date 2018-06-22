@@ -1,0 +1,64 @@
+parking|.|bbc_business_461.txt|.|6
+studio|.|bbc_entertainment_083.txt|.|1|.|bbc_entertainment_344.txt|.|3|.|bbc_entertainment_116.txt|.|8
+kenteris has denied|.|bbc_sport_047.txt|.|1
+book chart|.|bbc_entertainment_025.txt|.|2
+hockney|.|bbc_politics_325.txt|.|3|.|bbc_politics_288.txt|.|5
+show in london|.|bbc_entertainment_294.txt|.|2
+interactive|.|bbc_tech_144.txt|.|2|.|bbc_tech_230.txt|.|1|.|bbc_tech_046.txt|.|9|.|bbc_entertainment_220.txt|.|6
+celebrities|.|bbc_entertainment_200.txt|.|2|.|bbc_tech_208.txt|.|4
+hockney said|.|bbc_politics_288.txt|.|2
+independence|.|bbc_politics_288.txt|.|2|.|bbc_politics_157.txt|.|2|.|bbc_entertainment_213.txt|.|3|.|bbc_politics_281.txt|.|2
+london stock exchange|.|bbc_business_454.txt|.|2
+marathon training|.|bbc_sport_072.txt|.|2
+london stock|.|bbc_business_454.txt|.|2|.|bbc_business_269.txt|.|2
+radcliffe will compete|.|bbc_sport_065.txt|.|2
+west|.|bbc_entertainment_264.txt|.|3|.|bbc_entertainment_294.txt|.|2|.|bbc_politics_318.txt|.|2|.|bbc_sport_192.txt|.|3|.|bbc_sport_129.txt|.|6|.|bbc_entertainment_259.txt|.|10|.|bbc_entertainment_295.txt|.|2|.|bbc_sport_197.txt|.|4|.|bbc_entertainment_008.txt|.|2
+prettejohn|.|bbc_business_232.txt|.|3
+runner|.|bbc_sport_013.txt|.|1
+new ukip|.|bbc_politics_288.txt|.|1
+london assembly|.|bbc_politics_288.txt|.|2
+chepkemei|.|bbc_sport_042.txt|.|3|.|bbc_sport_024.txt|.|3|.|bbc_sport_021.txt|.|4|.|bbc_sport_019.txt|.|4
+eurosceptic|.|bbc_politics_288.txt|.|2
+hong kong|.|bbc_business_269.txt|.|5|.|bbc_business_260.txt|.|2|.|bbc_sport_400.txt|.|3|.|bbc_sport_374.txt|.|3|.|bbc_sport_456.txt|.|1
+shareholder|.|bbc_business_220.txt|.|3|.|bbc_business_431.txt|.|2
+stall|.|bbc_entertainment_181.txt|.|3
+camp guard|.|bbc_politics_186.txt|.|2|.|bbc_politics_154.txt|.|3
+ak|.|bbc_sport_013.txt|.|5
+rings musical|.|bbc_entertainment_294.txt|.|2
+birkett|.|bbc_sport_294.txt|.|2
+rings|.|bbc_entertainment_294.txt|.|2|.|bbc_entertainment_385.txt|.|2
+concentration camp|.|bbc_politics_186.txt|.|2|.|bbc_politics_154.txt|.|3
+london mayor|.|bbc_politics_186.txt|.|2
+van gisbergen|.|bbc_sport_294.txt|.|2
+brokers|.|bbc_business_232.txt|.|7
+booked|.|bbc_entertainment_294.txt|.|1
+auctions in new|.|bbc_entertainment_018.txt|.|1
+toronto|.|bbc_entertainment_294.txt|.|2
+guard|.|bbc_entertainment_293.txt|.|2|.|bbc_politics_186.txt|.|2|.|bbc_politics_154.txt|.|3
+leaked|.|bbc_politics_376.txt|.|3
+insurance market|.|bbc_business_232.txt|.|2
+hendrix|.|bbc_entertainment_257.txt|.|8|.|bbc_entertainment_270.txt|.|6
+guarded|.|bbc_politics_232.txt|.|1
+leak|.|bbc_politics_376.txt|.|1
+ken|.|bbc_politics_075.txt|.|5|.|bbc_politics_186.txt|.|2|.|bbc_politics_232.txt|.|3
+mr livingstone|.|bbc_politics_075.txt|.|3|.|bbc_politics_186.txt|.|7|.|bbc_politics_154.txt|.|3
+stratocaster|.|bbc_entertainment_270.txt|.|2
+retract a nazi|.|bbc_politics_154.txt|.|1
+refused|.|bbc_politics_154.txt|.|2|.|bbc_sport_178.txt|.|1
+london race|.|bbc_sport_019.txt|.|1
+cross|.|bbc_sport_076.txt|.|2|.|bbc_sport_025.txt|.|6|.|bbc_sport_077.txt|.|1|.|bbc_sport_024.txt|.|3|.|bbc_sport_078.txt|.|2|.|bbc_sport_087.txt|.|4|.|bbc_sport_013.txt|.|4|.|bbc_sport_021.txt|.|3|.|bbc_sport_074.txt|.|3|.|bbc_sport_083.txt|.|2
+concentration|.|bbc_politics_186.txt|.|2|.|bbc_politics_154.txt|.|3
+london newspaper|.|bbc_politics_376.txt|.|2
+evans said|.|bbc_entertainment_181.txt|.|2
+probe|.|bbc_politics_232.txt|.|2
+guitar|.|bbc_entertainment_270.txt|.|3
+black cabs|.|bbc_tech_375.txt|.|2
+budget leak|.|bbc_politics_376.txt|.|1
+voyce|.|bbc_sport_294.txt|.|2
+stake in sun|.|bbc_business_369.txt|.|2
+silicon|.|bbc_tech_019.txt|.|10|.|bbc_tech_329.txt|.|10
+retract|.|bbc_politics_154.txt|.|2
+kiplagat|.|bbc_sport_013.txt|.|1
+investigation|.|bbc_business_489.txt|.|3|.|bbc_business_333.txt|.|2|.|bbc_tech_334.txt|.|1|.|bbc_business_265.txt|.|2|.|bbc_tech_039.txt|.|1|.|bbc_politics_232.txt|.|2|.|bbc_business_060.txt|.|3
+fender stratocaster|.|bbc_entertainment_270.txt|.|2
+women mps|.|bbc_politics_008.txt|.|3

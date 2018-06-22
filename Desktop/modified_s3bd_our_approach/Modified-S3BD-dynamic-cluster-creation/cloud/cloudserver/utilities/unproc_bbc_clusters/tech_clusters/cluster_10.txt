@@ -1,0 +1,91 @@
+10
+report said|.|bbc_tech_033.txt|.|3
+ministries of education|.|bbc_tech_004.txt|.|1|.|bbc_tech_063.txt|.|1
+education|.|bbc_tech_211.txt|.|2|.|bbc_tech_004.txt|.|3|.|bbc_tech_226.txt|.|2|.|bbc_tech_063.txt|.|3
+projects|.|bbc_tech_215.txt|.|1|.|bbc_tech_167.txt|.|1
+tulip computers|.|bbc_tech_374.txt|.|2|.|bbc_tech_128.txt|.|2
+hp|.|bbc_tech_228.txt|.|6|.|bbc_tech_295.txt|.|6
+historical|.|bbc_tech_115.txt|.|2
+developing|.|bbc_tech_033.txt|.|3
+political|.|bbc_tech_157.txt|.|11|.|bbc_tech_078.txt|.|2
+digital terrestrial|.|bbc_tech_371.txt|.|6
+office|.|bbc_tech_041.txt|.|7|.|bbc_tech_376.txt|.|7
+high definition|.|bbc_tech_013.txt|.|2
+fiorina|.|bbc_tech_228.txt|.|4|.|bbc_tech_295.txt|.|4
+revolution|.|bbc_tech_336.txt|.|3|.|bbc_tech_228.txt|.|4|.|bbc_tech_295.txt|.|4
+photos|.|bbc_tech_278.txt|.|6
+high|.|bbc_tech_253.txt|.|2|.|bbc_tech_013.txt|.|2|.|bbc_tech_032.txt|.|4|.|bbc_tech_360.txt|.|2|.|bbc_tech_335.txt|.|3|.|bbc_tech_243.txt|.|8
+terrestrial|.|bbc_tech_371.txt|.|6
+world summit|.|bbc_tech_033.txt|.|2
+orchestra|.|bbc_tech_256.txt|.|8
+nem|.|bbc_tech_215.txt|.|3|.|bbc_tech_167.txt|.|3
+digital revolution|.|bbc_tech_228.txt|.|3|.|bbc_tech_295.txt|.|3
+computer implemented inventions|.|bbc_tech_030.txt|.|1
+france|.|bbc_tech_371.txt|.|6
+letting|.|bbc_tech_228.txt|.|1|.|bbc_tech_295.txt|.|1
+cinema|.|bbc_tech_013.txt|.|6
+survey found|.|bbc_tech_346.txt|.|2
+home photo|.|bbc_tech_243.txt|.|2
+digital terrestrial tv will launch|.|bbc_tech_371.txt|.|1
+tech fair|.|bbc_tech_347.txt|.|1
+grow|.|bbc_tech_220.txt|.|2
+negroponte|.|bbc_tech_004.txt|.|5|.|bbc_tech_063.txt|.|5
+ms|.|bbc_tech_102.txt|.|10|.|bbc_tech_133.txt|.|7|.|bbc_tech_180.txt|.|7
+letting people|.|bbc_tech_228.txt|.|1|.|bbc_tech_295.txt|.|1
+guinness|.|bbc_tech_253.txt|.|4
+viruses written|.|bbc_tech_077.txt|.|2
+commodore computers|.|bbc_tech_374.txt|.|1|.|bbc_tech_128.txt|.|1
+lifestyles|.|bbc_tech_215.txt|.|1|.|bbc_tech_167.txt|.|1
+technologies|.|bbc_tech_220.txt|.|1
+cultural|.|bbc_tech_115.txt|.|2
+market|.|bbc_tech_332.txt|.|6|.|bbc_tech_040.txt|.|6|.|bbc_tech_185.txt|.|5|.|bbc_tech_153.txt|.|5|.|bbc_tech_351.txt|.|2|.|bbc_tech_183.txt|.|6|.|bbc_tech_192.txt|.|7|.|bbc_tech_196.txt|.|5
+adoption of digital tv|.|bbc_tech_361.txt|.|1
+digital home|.|bbc_tech_347.txt|.|3
+legal fight|.|bbc_tech_390.txt|.|1|.|bbc_tech_355.txt|.|2
+terrestrial tv|.|bbc_tech_371.txt|.|3
+rewarded|.|bbc_tech_124.txt|.|3
+browser firefox|.|bbc_tech_196.txt|.|1
+lions gate|.|bbc_tech_345.txt|.|2
+survey|.|bbc_tech_375.txt|.|2|.|bbc_tech_021.txt|.|2|.|bbc_tech_346.txt|.|4|.|bbc_tech_328.txt|.|2|.|bbc_tech_078.txt|.|6
+lead users|.|bbc_tech_049.txt|.|2|.|bbc_tech_340.txt|.|2
+narrowing|.|bbc_tech_033.txt|.|2
+internet access|.|bbc_tech_211.txt|.|4|.|bbc_tech_226.txt|.|4
+children were given laptop|.|bbc_tech_004.txt|.|1|.|bbc_tech_063.txt|.|1
+digitally obese|.|bbc_tech_220.txt|.|2
+theme at the show|.|bbc_tech_347.txt|.|2
+code|.|bbc_tech_049.txt|.|1|.|bbc_tech_340.txt|.|1
+power to the people|.|bbc_tech_228.txt|.|2|.|bbc_tech_295.txt|.|2
+world bank|.|bbc_tech_033.txt|.|3
+ministries|.|bbc_tech_004.txt|.|1|.|bbc_tech_063.txt|.|1
+digital divide|.|bbc_tech_211.txt|.|3|.|bbc_tech_033.txt|.|5|.|bbc_tech_226.txt|.|3
+digital tv|.|bbc_tech_361.txt|.|3
+tournament|.|bbc_tech_274.txt|.|6
+summit|.|bbc_tech_033.txt|.|2
+amplify|.|bbc_tech_019.txt|.|3|.|bbc_tech_329.txt|.|3
+miss|.|bbc_tech_211.txt|.|3|.|bbc_tech_226.txt|.|3
+digitally|.|bbc_tech_220.txt|.|3
+public debate|.|bbc_tech_191.txt|.|3
+total|.|bbc_tech_372.txt|.|4|.|bbc_tech_287.txt|.|4
+adoption|.|bbc_tech_361.txt|.|2
+library|.|bbc_tech_204.txt|.|11|.|bbc_tech_279.txt|.|1|.|bbc_tech_302.txt|.|1|.|bbc_tech_236.txt|.|5
+european commission|.|bbc_tech_215.txt|.|2|.|bbc_tech_167.txt|.|2
+ippr|.|bbc_tech_191.txt|.|4
+theme|.|bbc_tech_347.txt|.|3
+definition|.|bbc_tech_013.txt|.|2|.|bbc_tech_294.txt|.|1|.|bbc_tech_155.txt|.|1
+divide|.|bbc_tech_211.txt|.|5|.|bbc_tech_033.txt|.|6|.|bbc_tech_226.txt|.|5
+convicted|.|bbc_tech_132.txt|.|2|.|bbc_tech_176.txt|.|2|.|bbc_tech_303.txt|.|1|.|bbc_tech_075.txt|.|1
+mr negroponte|.|bbc_tech_004.txt|.|4|.|bbc_tech_063.txt|.|4
+digital data|.|bbc_tech_220.txt|.|2
+digital|.|bbc_tech_361.txt|.|16|.|bbc_tech_228.txt|.|11|.|bbc_tech_013.txt|.|13|.|bbc_tech_347.txt|.|5|.|bbc_tech_215.txt|.|6|.|bbc_tech_374.txt|.|2|.|bbc_tech_128.txt|.|2|.|bbc_tech_279.txt|.|3|.|bbc_tech_033.txt|.|7|.|bbc_tech_167.txt|.|6|.|bbc_tech_115.txt|.|3|.|bbc_tech_063.txt|.|4|.|bbc_tech_211.txt|.|8|.|bbc_tech_332.txt|.|6|.|bbc_tech_295.txt|.|11|.|bbc_tech_004.txt|.|4|.|bbc_tech_040.txt|.|6|.|bbc_tech_371.txt|.|10|.|bbc_tech_226.txt|.|8|.|bbc_tech_278.txt|.|6|.|bbc_tech_302.txt|.|3|.|bbc_tech_220.txt|.|4
+ipod family expands|.|bbc_tech_332.txt|.|1|.|bbc_tech_040.txt|.|1
+specialist films|.|bbc_tech_013.txt|.|2
+wrongful termination|.|bbc_tech_133.txt|.|2|.|bbc_tech_180.txt|.|2
+digital music|.|bbc_tech_332.txt|.|6|.|bbc_tech_374.txt|.|2|.|bbc_tech_040.txt|.|6|.|bbc_tech_128.txt|.|2|.|bbc_tech_279.txt|.|2|.|bbc_tech_302.txt|.|2
+avatar|.|bbc_tech_143.txt|.|1
+nice|.|bbc_tech_215.txt|.|2|.|bbc_tech_167.txt|.|2
+scanned pages|.|bbc_tech_236.txt|.|1
+digital cinema|.|bbc_tech_013.txt|.|2
+european nations|.|bbc_tech_361.txt|.|2
+report|.|bbc_tech_074.txt|.|2|.|bbc_tech_242.txt|.|4|.|bbc_tech_017.txt|.|4|.|bbc_tech_033.txt|.|5|.|bbc_tech_011.txt|.|3
+pompeii|.|bbc_tech_115.txt|.|3
+tourists|.|bbc_tech_115.txt|.|2

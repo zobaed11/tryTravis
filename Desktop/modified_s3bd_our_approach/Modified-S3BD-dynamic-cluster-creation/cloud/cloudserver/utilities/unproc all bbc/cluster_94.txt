@@ -1,0 +1,64 @@
+fair|.|bbc_politics_103.txt|.|2|.|bbc_tech_163.txt|.|2|.|bbc_tech_291.txt|.|2|.|bbc_tech_347.txt|.|3|.|bbc_tech_375.txt|.|2|.|bbc_politics_380.txt|.|6|.|bbc_entertainment_061.txt|.|4
+output|.|bbc_business_046.txt|.|3|.|bbc_business_453.txt|.|6|.|bbc_business_156.txt|.|3|.|bbc_business_168.txt|.|3
+work hard|.|bbc_politics_380.txt|.|2
+discrimination|.|bbc_business_382.txt|.|3|.|bbc_politics_132.txt|.|2
+replacements|.|bbc_sport_325.txt|.|2
+moving|.|bbc_entertainment_087.txt|.|4
+arthur hailey|.|bbc_entertainment_016.txt|.|2
+reserve bank|.|bbc_business_101.txt|.|2
+neeson said|.|bbc_entertainment_012.txt|.|2
+poised|.|bbc_sport_233.txt|.|2|.|bbc_sport_130.txt|.|2
+mayor|.|bbc_politics_186.txt|.|4|.|bbc_politics_154.txt|.|7|.|bbc_politics_232.txt|.|5
+remained|.|bbc_business_436.txt|.|2
+originally|.|bbc_business_235.txt|.|2
+custody|.|bbc_politics_214.txt|.|6
+social science|.|bbc_politics_016.txt|.|4
+mansfield|.|bbc_sport_214.txt|.|4
+rise in the minimum wage|.|bbc_politics_380.txt|.|2
+michalak|.|bbc_sport_287.txt|.|3
+employment tribunal|.|bbc_business_336.txt|.|2
+science|.|bbc_entertainment_193.txt|.|10|.|bbc_tech_139.txt|.|2|.|bbc_politics_016.txt|.|5|.|bbc_politics_413.txt|.|1
+wage increases|.|bbc_politics_380.txt|.|3
+factory output|.|bbc_business_453.txt|.|1
+monthly|.|bbc_politics_121.txt|.|2|.|bbc_tech_372.txt|.|2|.|bbc_business_490.txt|.|2|.|bbc_tech_287.txt|.|2
+universal rule|.|bbc_entertainment_077.txt|.|2
+shocks|.|bbc_politics_214.txt|.|1
+stoy|.|bbc_business_240.txt|.|2|.|bbc_business_214.txt|.|2
+rises|.|bbc_politics_128.txt|.|2|.|bbc_business_240.txt|.|2|.|bbc_politics_101.txt|.|5|.|bbc_business_214.txt|.|2|.|bbc_business_030.txt|.|1
+average|.|bbc_business_387.txt|.|3|.|bbc_business_490.txt|.|3|.|bbc_business_415.txt|.|3
+interest rate|.|bbc_business_436.txt|.|2|.|bbc_business_240.txt|.|2|.|bbc_business_305.txt|.|1|.|bbc_business_214.txt|.|2|.|bbc_business_119.txt|.|2|.|bbc_business_101.txt|.|1
+marion jones|.|bbc_sport_049.txt|.|4|.|bbc_sport_088.txt|.|4
+last month|.|bbc_business_061.txt|.|1
+hansard|.|bbc_politics_348.txt|.|3|.|bbc_politics_217.txt|.|3|.|bbc_politics_321.txt|.|3
+no plans|.|bbc_entertainment_310.txt|.|2|.|bbc_politics_405.txt|.|2
+death rate|.|bbc_politics_214.txt|.|2
+new jobs|.|bbc_business_253.txt|.|2|.|bbc_business_007.txt|.|2
+matrix|.|bbc_entertainment_339.txt|.|2
+fell|.|bbc_business_046.txt|.|2|.|bbc_business_095.txt|.|3|.|bbc_business_066.txt|.|2|.|bbc_business_062.txt|.|2|.|bbc_business_170.txt|.|2|.|bbc_business_329.txt|.|3|.|bbc_business_044.txt|.|3|.|bbc_business_323.txt|.|5|.|bbc_entertainment_303.txt|.|2|.|bbc_business_165.txt|.|2
+alcohol problems|.|bbc_politics_214.txt|.|2
+premium|.|bbc_tech_397.txt|.|5|.|bbc_tech_188.txt|.|11
+refuse|.|bbc_entertainment_166.txt|.|1|.|bbc_tech_188.txt|.|3|.|bbc_sport_164.txt|.|1
+jamaican|.|bbc_entertainment_120.txt|.|1
+rate|.|bbc_business_129.txt|.|1|.|bbc_business_439.txt|.|2|.|bbc_business_306.txt|.|1|.|bbc_business_493.txt|.|2|.|bbc_business_110.txt|.|2|.|bbc_business_168.txt|.|2|.|bbc_business_153.txt|.|3|.|bbc_business_066.txt|.|2|.|bbc_business_106.txt|.|4|.|bbc_business_305.txt|.|1|.|bbc_business_490.txt|.|6|.|bbc_business_290.txt|.|3|.|bbc_business_061.txt|.|2|.|bbc_business_119.txt|.|4|.|bbc_business_481.txt|.|1|.|bbc_business_286.txt|.|2|.|bbc_business_436.txt|.|3|.|bbc_tech_188.txt|.|6|.|bbc_business_453.txt|.|3|.|bbc_business_240.txt|.|2|.|bbc_business_016.txt|.|2|.|bbc_politics_380.txt|.|7|.|bbc_business_253.txt|.|3|.|bbc_business_402.txt|.|2|.|bbc_business_415.txt|.|4|.|bbc_business_101.txt|.|4|.|bbc_business_008.txt|.|2|.|bbc_politics_103.txt|.|2|.|bbc_tech_397.txt|.|5|.|bbc_business_094.txt|.|4|.|bbc_business_214.txt|.|2|.|bbc_politics_214.txt|.|2|.|bbc_business_139.txt|.|4|.|bbc_business_165.txt|.|5|.|bbc_business_007.txt|.|3
+continues|.|bbc_business_453.txt|.|1
+medal|.|bbc_sport_059.txt|.|4|.|bbc_entertainment_189.txt|.|2|.|bbc_sport_001.txt|.|4|.|bbc_sport_086.txt|.|2|.|bbc_tech_288.txt|.|3|.|bbc_sport_030.txt|.|2
+bdo stoy|.|bbc_business_240.txt|.|2|.|bbc_business_214.txt|.|2
+leave rates on hold|.|bbc_business_119.txt|.|2
+uk jobless total|.|bbc_business_061.txt|.|1
+coverage|.|bbc_business_129.txt|.|2
+aides|.|bbc_business_106.txt|.|1|.|bbc_politics_044.txt|.|2
+hodge said|.|bbc_politics_103.txt|.|2
+druyun|.|bbc_business_161.txt|.|7
+carers|.|bbc_politics_103.txt|.|9
+predictions|.|bbc_politics_323.txt|.|1
+consoles by march|.|bbc_tech_238.txt|.|2
+industrial|.|bbc_business_046.txt|.|3|.|bbc_business_453.txt|.|3|.|bbc_business_370.txt|.|2|.|bbc_business_108.txt|.|1|.|bbc_business_156.txt|.|3
+ifo|.|bbc_business_066.txt|.|5
+ossie davis found|.|bbc_entertainment_044.txt|.|1
+leave rates|.|bbc_business_119.txt|.|2
+rate rise|.|bbc_business_106.txt|.|3
+holds|.|bbc_tech_024.txt|.|1|.|bbc_business_436.txt|.|1|.|bbc_business_290.txt|.|1|.|bbc_sport_491.txt|.|7
+debates|.|bbc_politics_310.txt|.|2|.|bbc_politics_123.txt|.|2
+seven years|.|bbc_business_168.txt|.|2|.|bbc_sport_361.txt|.|2
+sweet|.|bbc_entertainment_343.txt|.|2
+fishing industry|.|bbc_politics_243.txt|.|2

@@ -1,0 +1,93 @@
+24
+play|.|bbc_entertainment_232.txt|.|1|.|bbc_entertainment_006.txt|.|3|.|bbc_entertainment_139.txt|.|3|.|bbc_entertainment_019.txt|.|1|.|bbc_entertainment_010.txt|.|6
+diamonds|.|bbc_entertainment_330.txt|.|1
+charities|.|bbc_entertainment_295.txt|.|1
+rowlands|.|bbc_entertainment_307.txt|.|6
+told|.|bbc_entertainment_167.txt|.|2|.|bbc_entertainment_375.txt|.|6|.|bbc_entertainment_134.txt|.|2|.|bbc_entertainment_056.txt|.|2|.|bbc_entertainment_238.txt|.|2|.|bbc_entertainment_382.txt|.|2
+godfather role|.|bbc_entertainment_056.txt|.|2
+schulberg told|.|bbc_entertainment_056.txt|.|2
+percy|.|bbc_entertainment_291.txt|.|2
+bangkok international film|.|bbc_entertainment_309.txt|.|2
+marley|.|bbc_entertainment_120.txt|.|3
+springsteen|.|bbc_entertainment_291.txt|.|3
+golden globe awards|.|bbc_entertainment_095.txt|.|1
+artists including|.|bbc_entertainment_117.txt|.|1
+million dollar|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_328.txt|.|2|.|bbc_entertainment_095.txt|.|3|.|bbc_entertainment_051.txt|.|3|.|bbc_entertainment_086.txt|.|2|.|bbc_entertainment_069.txt|.|3|.|bbc_entertainment_078.txt|.|5|.|bbc_entertainment_064.txt|.|2
+trek|.|bbc_entertainment_183.txt|.|10
+star trek fans|.|bbc_entertainment_183.txt|.|2
+japanese|.|bbc_entertainment_065.txt|.|2
+appeared|.|bbc_entertainment_198.txt|.|2|.|bbc_entertainment_282.txt|.|2
+attacks|.|bbc_entertainment_345.txt|.|1
+four|.|bbc_entertainment_385.txt|.|2|.|bbc_entertainment_040.txt|.|3|.|bbc_entertainment_200.txt|.|2
+globe awards|.|bbc_entertainment_095.txt|.|1
+odds|.|bbc_entertainment_223.txt|.|2
+jam|.|bbc_entertainment_117.txt|.|4
+buddy guy|.|bbc_entertainment_291.txt|.|2
+trek fans|.|bbc_entertainment_183.txt|.|2
+amelie|.|bbc_entertainment_308.txt|.|2|.|bbc_entertainment_068.txt|.|2
+star wars|.|bbc_entertainment_382.txt|.|4
+los angeles|.|bbc_entertainment_183.txt|.|2|.|bbc_entertainment_344.txt|.|2
+french|.|bbc_entertainment_376.txt|.|3|.|bbc_entertainment_368.txt|.|4|.|bbc_entertainment_308.txt|.|2|.|bbc_entertainment_068.txt|.|2|.|bbc_entertainment_383.txt|.|3|.|bbc_entertainment_063.txt|.|9
+glass menagerie|.|bbc_entertainment_019.txt|.|2
+rap|.|bbc_entertainment_282.txt|.|3|.|bbc_entertainment_110.txt|.|2|.|bbc_entertainment_117.txt|.|2
+palace|.|bbc_entertainment_358.txt|.|3
+angeles|.|bbc_entertainment_183.txt|.|2|.|bbc_entertainment_344.txt|.|2
+slater|.|bbc_entertainment_019.txt|.|5
+dame julie|.|bbc_entertainment_295.txt|.|5
+received|.|bbc_entertainment_093.txt|.|2
+blackground records|.|bbc_entertainment_230.txt|.|2
+percy sledge|.|bbc_entertainment_291.txt|.|2
+tautou|.|bbc_entertainment_308.txt|.|5|.|bbc_entertainment_068.txt|.|5|.|bbc_entertainment_063.txt|.|3
+globe|.|bbc_entertainment_095.txt|.|4|.|bbc_entertainment_092.txt|.|2|.|bbc_entertainment_355.txt|.|2|.|bbc_entertainment_038.txt|.|2
+star trek|.|bbc_entertainment_183.txt|.|9
+simpson|.|bbc_entertainment_358.txt|.|2
+farrell|.|bbc_entertainment_224.txt|.|3
+carry|.|bbc_entertainment_307.txt|.|10
+wars|.|bbc_entertainment_093.txt|.|2|.|bbc_entertainment_382.txt|.|4
+mr lush|.|bbc_entertainment_223.txt|.|2
+godzilla received|.|bbc_entertainment_093.txt|.|1
+fame|.|bbc_entertainment_339.txt|.|2|.|bbc_entertainment_291.txt|.|2|.|bbc_entertainment_093.txt|.|2
+boulevard|.|bbc_entertainment_093.txt|.|2
+deal|.|bbc_entertainment_304.txt|.|2|.|bbc_entertainment_319.txt|.|3
+blackground|.|bbc_entertainment_230.txt|.|2
+enterprise|.|bbc_entertainment_183.txt|.|4
+schulberg|.|bbc_entertainment_056.txt|.|2
+aaliyah|.|bbc_entertainment_230.txt|.|3
+prophet|.|bbc_entertainment_260.txt|.|2
+sheila|.|bbc_entertainment_223.txt|.|2
+carry on films|.|bbc_entertainment_307.txt|.|3
+jr|.|bbc_entertainment_232.txt|.|2|.|bbc_entertainment_119.txt|.|2
+hollywood boulevard|.|bbc_entertainment_093.txt|.|2
+extras|.|bbc_entertainment_055.txt|.|2
+matrix|.|bbc_entertainment_339.txt|.|2
+polar express|.|bbc_entertainment_036.txt|.|3
+menagerie|.|bbc_entertainment_019.txt|.|2
+fox|.|bbc_entertainment_226.txt|.|5|.|bbc_entertainment_358.txt|.|5
+remember|.|bbc_entertainment_120.txt|.|1
+los|.|bbc_entertainment_183.txt|.|2|.|bbc_entertainment_344.txt|.|2
+julie|.|bbc_entertainment_295.txt|.|5
+clive owen|.|bbc_entertainment_064.txt|.|2
+jamaican|.|bbc_entertainment_120.txt|.|1
+film star|.|bbc_entertainment_056.txt|.|2|.|bbc_entertainment_358.txt|.|1
+byrds|.|bbc_entertainment_124.txt|.|3
+contestant|.|bbc_entertainment_180.txt|.|1|.|bbc_entertainment_223.txt|.|1
+hanks|.|bbc_entertainment_376.txt|.|2|.|bbc_entertainment_098.txt|.|5|.|bbc_entertainment_036.txt|.|6
+douglas|.|bbc_entertainment_330.txt|.|3
+buddy|.|bbc_entertainment_291.txt|.|2
+polar|.|bbc_entertainment_036.txt|.|3
+creator|.|bbc_entertainment_298.txt|.|2|.|bbc_entertainment_386.txt|.|2|.|bbc_entertainment_211.txt|.|1
+revenge|.|bbc_entertainment_382.txt|.|2
+star|.|bbc_entertainment_232.txt|.|2|.|bbc_entertainment_339.txt|.|4|.|bbc_entertainment_151.txt|.|3|.|bbc_entertainment_308.txt|.|3|.|bbc_entertainment_068.txt|.|3|.|bbc_entertainment_291.txt|.|1|.|bbc_entertainment_012.txt|.|2|.|bbc_entertainment_317.txt|.|2|.|bbc_entertainment_237.txt|.|2|.|bbc_entertainment_038.txt|.|2|.|bbc_entertainment_335.txt|.|1|.|bbc_entertainment_120.txt|.|2|.|bbc_entertainment_040.txt|.|1|.|bbc_entertainment_295.txt|.|1|.|bbc_entertainment_176.txt|.|2|.|bbc_entertainment_282.txt|.|2|.|bbc_entertainment_212.txt|.|2|.|bbc_entertainment_230.txt|.|2|.|bbc_entertainment_056.txt|.|2|.|bbc_entertainment_095.txt|.|4|.|bbc_entertainment_183.txt|.|9|.|bbc_entertainment_345.txt|.|2|.|bbc_entertainment_049.txt|.|1|.|bbc_entertainment_358.txt|.|2|.|bbc_entertainment_036.txt|.|2|.|bbc_entertainment_382.txt|.|4|.|bbc_entertainment_064.txt|.|2|.|bbc_entertainment_214.txt|.|4|.|bbc_entertainment_330.txt|.|3|.|bbc_entertainment_098.txt|.|1|.|bbc_entertainment_019.txt|.|2|.|bbc_entertainment_307.txt|.|2|.|bbc_entertainment_093.txt|.|5|.|bbc_entertainment_117.txt|.|1|.|bbc_entertainment_223.txt|.|2
+assistant|.|bbc_entertainment_056.txt|.|3
+black album|.|bbc_entertainment_117.txt|.|2
+brando|.|bbc_entertainment_056.txt|.|6
+rap star|.|bbc_entertainment_117.txt|.|1
+killed|.|bbc_entertainment_230.txt|.|2
+final wars|.|bbc_entertainment_093.txt|.|2
+fans|.|bbc_entertainment_233.txt|.|3|.|bbc_entertainment_137.txt|.|3|.|bbc_entertainment_287.txt|.|3|.|bbc_entertainment_183.txt|.|4
+french actress|.|bbc_entertainment_308.txt|.|2|.|bbc_entertainment_068.txt|.|2
+actor|.|bbc_entertainment_264.txt|.|2|.|bbc_entertainment_089.txt|.|4|.|bbc_entertainment_232.txt|.|2|.|bbc_entertainment_167.txt|.|2|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_339.txt|.|4|.|bbc_entertainment_224.txt|.|2|.|bbc_entertainment_092.txt|.|2|.|bbc_entertainment_358.txt|.|1|.|bbc_entertainment_356.txt|.|2|.|bbc_entertainment_091.txt|.|3|.|bbc_entertainment_330.txt|.|2|.|bbc_entertainment_006.txt|.|3|.|bbc_entertainment_337.txt|.|3|.|bbc_entertainment_045.txt|.|4|.|bbc_entertainment_044.txt|.|4|.|bbc_entertainment_019.txt|.|2|.|bbc_entertainment_333.txt|.|6|.|bbc_entertainment_069.txt|.|2|.|bbc_entertainment_093.txt|.|2|.|bbc_entertainment_169.txt|.|3
+hall of fame|.|bbc_entertainment_291.txt|.|2
+snoop dogg|.|bbc_entertainment_115.txt|.|4
+da|.|bbc_entertainment_009.txt|.|3|.|bbc_entertainment_376.txt|.|6|.|bbc_entertainment_098.txt|.|2|.|bbc_entertainment_231.txt|.|2|.|bbc_entertainment_308.txt|.|2|.|bbc_entertainment_068.txt|.|2|.|bbc_entertainment_197.txt|.|3
+alicia markova|.|bbc_entertainment_021.txt|.|4

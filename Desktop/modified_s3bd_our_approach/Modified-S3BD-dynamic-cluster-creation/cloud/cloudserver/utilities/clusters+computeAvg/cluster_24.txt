@@ -1,0 +1,38 @@
+24
+medical|.|WET6081.txt|.|58|.|WET1310.txt|.|49|.|WET2713.txt|.|56|.|WET2336.txt|.|65|.|WET4796.txt|.|66|.|WET2645.txt|.|144|.|WET3816.txt|.|45|.|WET304.txt|.|106|.|WET571.txt|.|127|.|WET5437.txt|.|20|.|WET1995.txt|.|34|.|WET3205.txt|.|257|.|WET73.txt|.|67|.|WET2657.txt|.|46|.|WET1047.txt|.|126|.|WET4047.txt|.|82|.|WET6073.txt|.|53
+credit union|.|WET239.txt|.|14
+happy|.|WET1235.txt|.|86|.|WET5090.txt|.|22
+professional medical|.|WET4796.txt|.|4
+medical emergency|.|WET2336.txt|.|23
+evidence and research|.|WET4849.txt|.|25
+emergency|.|WET2336.txt|.|23
+carepages classes|.|WET3205.txt|.|12
+health information|.|WET3205.txt|.|45
+newsmedicine|.|WET1310.txt|.|10
+multi|.|WET2139.txt|.|76
+visitor guides|.|WET3205.txt|.|12
+carepages|.|WET3205.txt|.|12
+large j hook|.|WET2730.txt|.|1
+medicine dr|.|WET4047.txt|.|89
+patient|.|WET304.txt|.|63|.|WET1996.txt|.|62|.|WET4796.txt|.|42|.|WET5736.txt|.|68|.|WET73.txt|.|27|.|WET2645.txt|.|50|.|WET3816.txt|.|23|.|WET5737.txt|.|41|.|WET6073.txt|.|29|.|WET1048.txt|.|51
+professional medical advice|.|WET2713.txt|.|18
+tinh|.|WET4767.txt|.|31
+tina|.|WET6228.txt|.|65
+linksbiology newsmedicine|.|WET1310.txt|.|7
+american center|.|WET3205.txt|.|12
+donate greeting|.|WET3205.txt|.|12
+bracelet|.|WET5867.txt|.|12|.|WET2657.txt|.|36
+black politics|.|WET3072.txt|.|6
+services view|.|WET304.txt|.|14
+bookmark|.|WET3665.txt|.|158
+replacement parts|.|WET5693.txt|.|24|.|WET6049.txt|.|48
+american pharoah|.|WET2029.txt|.|48
+wikimedia|.|WET3559.txt|.|20|.|WET3416.txt|.|18|.|WET3497.txt|.|13
+infant car|.|WET1995.txt|.|14
+mico|.|WET1995.txt|.|17
+submit cancel|.|WET5590.txt|.|53
+use chic points|.|WET5220.txt|.|11
+visitor|.|WET3205.txt|.|12
+center uw|.|WET3205.txt|.|12
+office locations|.|WET4047.txt|.|22
+dictionarymedicine dictionaryhome|.|WET1310.txt|.|7

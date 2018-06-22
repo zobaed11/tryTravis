@@ -1,0 +1,64 @@
+software|.|bbc_tech_258.txt|.|4|.|bbc_tech_029.txt|.|5|.|bbc_tech_398.txt|.|5|.|bbc_tech_177.txt|.|8|.|bbc_tech_292.txt|.|8|.|bbc_tech_316.txt|.|2|.|bbc_tech_342.txt|.|3|.|bbc_tech_012.txt|.|6|.|bbc_tech_091.txt|.|3|.|bbc_tech_330.txt|.|5|.|bbc_tech_003.txt|.|6|.|bbc_tech_308.txt|.|9|.|bbc_tech_105.txt|.|2|.|bbc_tech_399.txt|.|10|.|bbc_tech_051.txt|.|7|.|bbc_tech_048.txt|.|3|.|bbc_tech_331.txt|.|6|.|bbc_tech_323.txt|.|7|.|bbc_tech_268.txt|.|8|.|bbc_tech_370.txt|.|4|.|bbc_tech_036.txt|.|6|.|bbc_tech_080.txt|.|5|.|bbc_tech_227.txt|.|5|.|bbc_tech_108.txt|.|10|.|bbc_tech_257.txt|.|2|.|bbc_tech_083.txt|.|9|.|bbc_tech_014.txt|.|5|.|bbc_tech_354.txt|.|12
+movie|.|bbc_entertainment_347.txt|.|3|.|bbc_entertainment_054.txt|.|2|.|bbc_entertainment_046.txt|.|2|.|bbc_entertainment_071.txt|.|2|.|bbc_entertainment_363.txt|.|2|.|bbc_entertainment_384.txt|.|4|.|bbc_tech_091.txt|.|7|.|bbc_tech_241.txt|.|3|.|bbc_entertainment_338.txt|.|2|.|bbc_entertainment_314.txt|.|1|.|bbc_entertainment_050.txt|.|2|.|bbc_entertainment_357.txt|.|2|.|bbc_tech_038.txt|.|2
+developed software|.|bbc_tech_323.txt|.|1|.|bbc_tech_051.txt|.|1
+balfour beatty|.|bbc_politics_178.txt|.|3
+rib|.|bbc_sport_506.txt|.|1
+program|.|bbc_tech_036.txt|.|6|.|bbc_tech_138.txt|.|5|.|bbc_tech_257.txt|.|5|.|bbc_tech_237.txt|.|3|.|bbc_tech_003.txt|.|6|.|bbc_tech_197.txt|.|10
+clijsters|.|bbc_sport_443.txt|.|3|.|bbc_sport_479.txt|.|4|.|bbc_sport_478.txt|.|4
+faulty|.|bbc_business_081.txt|.|5
+developed|.|bbc_tech_323.txt|.|2|.|bbc_tech_051.txt|.|2
+us customs|.|bbc_tech_354.txt|.|3
+dual code|.|bbc_sport_370.txt|.|2
+intel unveils|.|bbc_tech_019.txt|.|1
+spyware tool|.|bbc_tech_036.txt|.|1|.|bbc_tech_003.txt|.|1
+odds|.|bbc_entertainment_223.txt|.|2
+market share|.|bbc_tech_196.txt|.|2
+use linux|.|bbc_tech_012.txt|.|1|.|bbc_tech_331.txt|.|1
+criminal investigation|.|bbc_business_489.txt|.|2
+attempts|.|bbc_tech_036.txt|.|2|.|bbc_tech_003.txt|.|2
+read|.|bbc_tech_323.txt|.|3|.|bbc_entertainment_027.txt|.|2|.|bbc_tech_051.txt|.|3
+blind student|.|bbc_tech_323.txt|.|2|.|bbc_tech_051.txt|.|2
+negroponte|.|bbc_tech_004.txt|.|5|.|bbc_tech_063.txt|.|5
+security tools|.|bbc_tech_177.txt|.|2|.|bbc_tech_292.txt|.|2
+mr wong|.|bbc_tech_323.txt|.|6|.|bbc_tech_051.txt|.|6
+swiss|.|bbc_business_201.txt|.|2|.|bbc_business_346.txt|.|4|.|bbc_business_050.txt|.|4|.|bbc_sport_459.txt|.|2|.|bbc_business_311.txt|.|3|.|bbc_business_485.txt|.|2|.|bbc_sport_494.txt|.|2
+trojan|.|bbc_tech_036.txt|.|3|.|bbc_tech_003.txt|.|3
+khodorkovsky|.|bbc_business_318.txt|.|3|.|bbc_business_157.txt|.|6|.|bbc_business_444.txt|.|7
+read colour|.|bbc_tech_323.txt|.|1|.|bbc_tech_051.txt|.|1
+journals|.|bbc_tech_149.txt|.|3|.|bbc_tech_162.txt|.|3
+tool|.|bbc_tech_036.txt|.|2|.|bbc_tech_108.txt|.|3|.|bbc_tech_177.txt|.|2|.|bbc_tech_237.txt|.|4|.|bbc_tech_003.txt|.|2|.|bbc_tech_267.txt|.|2|.|bbc_tech_292.txt|.|2|.|bbc_tech_028.txt|.|2
+push|.|bbc_tech_012.txt|.|2|.|bbc_tech_331.txt|.|2
+new era|.|bbc_tech_268.txt|.|2
+directive could put|.|bbc_tech_399.txt|.|1
+program attempts|.|bbc_tech_036.txt|.|1|.|bbc_tech_003.txt|.|1
+colours|.|bbc_tech_323.txt|.|3|.|bbc_tech_051.txt|.|3
+open source movement|.|bbc_tech_029.txt|.|3
+blind|.|bbc_tech_323.txt|.|5|.|bbc_tech_051.txt|.|5
+release patents|.|bbc_tech_268.txt|.|1
+sites searching|.|bbc_tech_257.txt|.|1
+patent|.|bbc_tech_048.txt|.|4|.|bbc_tech_029.txt|.|4|.|bbc_tech_030.txt|.|4|.|bbc_tech_342.txt|.|4
+piracy|.|bbc_entertainment_148.txt|.|3|.|bbc_entertainment_271.txt|.|5|.|bbc_tech_083.txt|.|3|.|bbc_tech_043.txt|.|1|.|bbc_tech_308.txt|.|3|.|bbc_tech_326.txt|.|1|.|bbc_tech_195.txt|.|3
+automatically|.|bbc_tech_083.txt|.|1|.|bbc_tech_308.txt|.|1
+updates|.|bbc_tech_083.txt|.|3|.|bbc_tech_308.txt|.|3
+malicious program|.|bbc_tech_257.txt|.|3|.|bbc_tech_197.txt|.|2
+tools|.|bbc_tech_177.txt|.|3|.|bbc_tech_292.txt|.|3
+colours into musical|.|bbc_tech_323.txt|.|1|.|bbc_tech_051.txt|.|1
+running pirated|.|bbc_tech_083.txt|.|2|.|bbc_tech_308.txt|.|2
+releasing|.|bbc_tech_247.txt|.|1|.|bbc_tech_177.txt|.|2|.|bbc_tech_292.txt|.|2
+era|.|bbc_tech_268.txt|.|2
+search software|.|bbc_tech_108.txt|.|5
+frees|.|bbc_tech_268.txt|.|1
+phpbb software|.|bbc_tech_257.txt|.|2
+patents|.|bbc_tech_029.txt|.|9|.|bbc_tech_330.txt|.|2|.|bbc_tech_268.txt|.|18|.|bbc_tech_014.txt|.|2
+hearing|.|bbc_sport_035.txt|.|2|.|bbc_sport_091.txt|.|3|.|bbc_sport_048.txt|.|2|.|bbc_sport_054.txt|.|2|.|bbc_tech_370.txt|.|2
+operating|.|bbc_business_117.txt|.|3|.|bbc_tech_259.txt|.|2|.|bbc_tech_083.txt|.|3|.|bbc_tech_308.txt|.|3|.|bbc_tech_194.txt|.|2
+microsoft is releasing|.|bbc_tech_177.txt|.|1|.|bbc_tech_292.txt|.|1
+ibm said|.|bbc_tech_012.txt|.|3|.|bbc_tech_331.txt|.|3
+held responsible|.|bbc_tech_370.txt|.|3
+operating system|.|bbc_tech_259.txt|.|1|.|bbc_tech_083.txt|.|3|.|bbc_tech_308.txt|.|3|.|bbc_tech_194.txt|.|2
+windows genuine|.|bbc_tech_083.txt|.|2|.|bbc_tech_308.txt|.|2
+home computers|.|bbc_tech_177.txt|.|1|.|bbc_tech_374.txt|.|1|.|bbc_tech_292.txt|.|1|.|bbc_tech_128.txt|.|1
+windows|.|bbc_tech_210.txt|.|4|.|bbc_tech_086.txt|.|3|.|bbc_tech_272.txt|.|3|.|bbc_tech_007.txt|.|3|.|bbc_tech_083.txt|.|10|.|bbc_tech_122.txt|.|9|.|bbc_tech_237.txt|.|3|.|bbc_tech_250.txt|.|5|.|bbc_tech_308.txt|.|10|.|bbc_tech_060.txt|.|3|.|bbc_tech_194.txt|.|7
+updates automatically|.|bbc_tech_083.txt|.|1|.|bbc_tech_308.txt|.|1
+spam|.|bbc_tech_227.txt|.|10|.|bbc_tech_398.txt|.|10|.|bbc_tech_132.txt|.|3|.|bbc_tech_362.txt|.|13|.|bbc_tech_214.txt|.|5|.|bbc_tech_189.txt|.|11|.|bbc_tech_176.txt|.|3|.|bbc_tech_159.txt|.|3|.|bbc_tech_026.txt|.|6|.|bbc_tech_390.txt|.|2|.|bbc_tech_147.txt|.|3
+desktop pcs|.|bbc_tech_108.txt|.|2

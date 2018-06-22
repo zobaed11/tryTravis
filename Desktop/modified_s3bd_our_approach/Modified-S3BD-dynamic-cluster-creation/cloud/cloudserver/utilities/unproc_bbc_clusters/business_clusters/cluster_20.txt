@@ -1,0 +1,113 @@
+20
+sunderland fc|.|bbc_business_367.txt|.|2
+sporting goods companies|.|bbc_business_373.txt|.|2
+plan|.|bbc_business_219.txt|.|2|.|bbc_business_052.txt|.|2|.|bbc_business_395.txt|.|2
+share offers|.|bbc_business_169.txt|.|1
+corporation|.|bbc_business_422.txt|.|1
+allied domecq|.|bbc_business_005.txt|.|3
+sporting|.|bbc_business_373.txt|.|2
+google|.|bbc_business_274.txt|.|4
+mr murray|.|bbc_business_367.txt|.|6
+development area|.|bbc_business_198.txt|.|2
+google shares|.|bbc_business_274.txt|.|2
+tube lines|.|bbc_business_341.txt|.|2
+restriction|.|bbc_business_274.txt|.|1
+elan|.|bbc_business_150.txt|.|4
+rosemount|.|bbc_business_451.txt|.|2
+allow foreigners|.|bbc_business_131.txt|.|2
+sell their holdings|.|bbc_business_274.txt|.|1
+broadcast|.|bbc_business_367.txt|.|1
+spain|.|bbc_business_341.txt|.|1
+brokers|.|bbc_business_232.txt|.|7
+winemaker|.|bbc_business_435.txt|.|4|.|bbc_business_451.txt|.|2
+entertainment|.|bbc_business_422.txt|.|3|.|bbc_business_208.txt|.|2
+operates|.|bbc_business_042.txt|.|1
+irish|.|bbc_business_031.txt|.|6|.|bbc_business_179.txt|.|3|.|bbc_business_313.txt|.|2
+direct|.|bbc_business_019.txt|.|2
+reinsurers|.|bbc_business_262.txt|.|3
+labour|.|bbc_business_139.txt|.|2
+gain|.|bbc_business_078.txt|.|2
+shares|.|bbc_business_417.txt|.|3|.|bbc_business_082.txt|.|3|.|bbc_business_269.txt|.|3|.|bbc_business_251.txt|.|3|.|bbc_business_307.txt|.|5|.|bbc_business_367.txt|.|4|.|bbc_business_116.txt|.|3|.|bbc_business_404.txt|.|2|.|bbc_business_327.txt|.|2|.|bbc_business_274.txt|.|9|.|bbc_business_341.txt|.|2|.|bbc_business_198.txt|.|5|.|bbc_business_188.txt|.|3|.|bbc_business_451.txt|.|3|.|bbc_business_031.txt|.|5|.|bbc_business_476.txt|.|5|.|bbc_business_005.txt|.|3|.|bbc_business_078.txt|.|1|.|bbc_business_150.txt|.|4|.|bbc_business_167.txt|.|3|.|bbc_business_048.txt|.|3|.|bbc_business_262.txt|.|8|.|bbc_business_186.txt|.|3|.|bbc_business_304.txt|.|2|.|bbc_business_386.txt|.|3|.|bbc_business_062.txt|.|2|.|bbc_business_283.txt|.|2|.|bbc_business_313.txt|.|2|.|bbc_business_207.txt|.|3|.|bbc_business_352.txt|.|2|.|bbc_business_250.txt|.|2|.|bbc_business_395.txt|.|2|.|bbc_business_435.txt|.|3|.|bbc_business_422.txt|.|6|.|bbc_business_042.txt|.|2|.|bbc_business_280.txt|.|2|.|bbc_business_131.txt|.|3|.|bbc_business_373.txt|.|2|.|bbc_business_169.txt|.|3|.|bbc_business_474.txt|.|4|.|bbc_business_483.txt|.|2|.|bbc_business_288.txt|.|2
+arabia|.|bbc_business_476.txt|.|3|.|bbc_business_432.txt|.|4
+ferrovial|.|bbc_business_341.txt|.|2
+nath|.|bbc_business_068.txt|.|3
+us government|.|bbc_business_010.txt|.|2
+budget airline|.|bbc_business_474.txt|.|2|.|bbc_business_047.txt|.|2
+gazprom control|.|bbc_business_131.txt|.|1
+wef|.|bbc_business_482.txt|.|3
+probes|.|bbc_business_475.txt|.|1
+american tobacco|.|bbc_business_437.txt|.|2
+tube stake|.|bbc_business_341.txt|.|1
+gold reserves|.|bbc_business_210.txt|.|3
+reliance|.|bbc_business_352.txt|.|2|.|bbc_business_379.txt|.|6|.|bbc_business_486.txt|.|7
+bonus rates|.|bbc_business_281.txt|.|2|.|bbc_business_206.txt|.|4
+astrazeneca|.|bbc_business_309.txt|.|2
+investing in new|.|bbc_business_014.txt|.|1
+deal with peugeot|.|bbc_business_013.txt|.|2
+soros|.|bbc_business_357.txt|.|4
+sunderland|.|bbc_business_367.txt|.|6
+spin|.|bbc_business_280.txt|.|1
+skis rossignol|.|bbc_business_373.txt|.|1
+barclays shares|.|bbc_business_417.txt|.|2
+biogen|.|bbc_business_150.txt|.|5
+munich re|.|bbc_business_262.txt|.|2|.|bbc_business_346.txt|.|2
+luck|.|bbc_business_244.txt|.|2
+fed|.|bbc_business_383.txt|.|5|.|bbc_business_463.txt|.|2
+bidding|.|bbc_business_082.txt|.|1|.|bbc_business_070.txt|.|1|.|bbc_business_188.txt|.|2
+goods|.|bbc_business_373.txt|.|2
+run|.|bbc_business_404.txt|.|2
+minority|.|bbc_business_422.txt|.|2
+retirement|.|bbc_business_255.txt|.|4|.|bbc_business_382.txt|.|6
+fosters|.|bbc_business_435.txt|.|10
+annual bonus|.|bbc_business_281.txt|.|2|.|bbc_business_206.txt|.|2
+gazprom shares|.|bbc_business_131.txt|.|2
+takeover offer|.|bbc_business_070.txt|.|2|.|bbc_business_451.txt|.|2
+revenue|.|bbc_business_395.txt|.|1
+looks|.|bbc_business_244.txt|.|1
+protocol|.|bbc_business_478.txt|.|3
+european shares|.|bbc_business_262.txt|.|2
+find|.|bbc_business_198.txt|.|1
+jet|.|bbc_business_065.txt|.|2|.|bbc_business_186.txt|.|5|.|bbc_business_169.txt|.|4|.|bbc_business_075.txt|.|5|.|bbc_business_499.txt|.|2
+offers|.|bbc_business_252.txt|.|1|.|bbc_business_169.txt|.|1
+speculation|.|bbc_business_417.txt|.|2|.|bbc_business_212.txt|.|2|.|bbc_business_264.txt|.|3|.|bbc_business_319.txt|.|2|.|bbc_business_106.txt|.|2
+adam|.|bbc_business_213.txt|.|4
+fiat will meet|.|bbc_business_359.txt|.|1
+stake to spain|.|bbc_business_341.txt|.|1
+uk banking|.|bbc_business_417.txt|.|2
+growing demand|.|bbc_business_054.txt|.|2
+survival|.|bbc_business_395.txt|.|2
+snapped|.|bbc_business_169.txt|.|1
+important|.|bbc_business_105.txt|.|2
+shanghai automotive|.|bbc_business_212.txt|.|2
+overhaul|.|bbc_business_255.txt|.|2
+skis|.|bbc_business_373.txt|.|2
+daily|.|bbc_business_437.txt|.|4|.|bbc_business_014.txt|.|3|.|bbc_business_325.txt|.|3
+peoplesoft|.|bbc_business_460.txt|.|9
+soar|.|bbc_business_476.txt|.|1
+uk property market|.|bbc_business_177.txt|.|2
+cruise|.|bbc_business_244.txt|.|5
+fox entertainment|.|bbc_business_422.txt|.|3
+mortgage market|.|bbc_business_177.txt|.|3
+selling|.|bbc_business_280.txt|.|2
+uk housing|.|bbc_business_177.txt|.|2
+run out of cash|.|bbc_business_404.txt|.|2
+automotive|.|bbc_business_212.txt|.|2
+who|.|bbc_business_293.txt|.|3|.|bbc_business_199.txt|.|3
+standard life|.|bbc_business_220.txt|.|4|.|bbc_business_206.txt|.|5
+sponsor|.|bbc_business_226.txt|.|2
+chief executive|.|bbc_business_455.txt|.|2|.|bbc_business_189.txt|.|4|.|bbc_business_385.txt|.|2|.|bbc_business_216.txt|.|3|.|bbc_business_203.txt|.|2|.|bbc_business_475.txt|.|2|.|bbc_business_393.txt|.|2
+unveil|.|bbc_business_021.txt|.|1
+drinks|.|bbc_business_071.txt|.|2|.|bbc_business_005.txt|.|2|.|bbc_business_443.txt|.|1
+continental said|.|bbc_business_404.txt|.|1
+cairn shares|.|bbc_business_198.txt|.|1|.|bbc_business_307.txt|.|1
+fares|.|bbc_business_395.txt|.|4
+holding|.|bbc_business_274.txt|.|1|.|bbc_business_485.txt|.|2
+crossrail link|.|bbc_business_166.txt|.|2
+lines|.|bbc_business_341.txt|.|3
+domecq|.|bbc_business_005.txt|.|4
+cannabis|.|bbc_business_327.txt|.|5
+war|.|bbc_business_188.txt|.|2
+target|.|bbc_business_005.txt|.|2|.|bbc_business_125.txt|.|2
+new offer|.|bbc_business_188.txt|.|2
+daiwa|.|bbc_business_116.txt|.|4
+fox entertainment group|.|bbc_business_422.txt|.|2

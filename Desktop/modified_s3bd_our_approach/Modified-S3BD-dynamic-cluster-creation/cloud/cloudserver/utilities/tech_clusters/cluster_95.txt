@@ -1,0 +1,17 @@
+95
+specialist films|.|013.txt|.|2
+panda population|.|107.txt|.|2
+wolong|.|107.txt|.|4
+high definition|.|013.txt|.|2
+network|.|023.txt|.|4|.|394.txt|.|2|.|156.txt|.|5|.|352.txt|.|2|.|368.txt|.|4|.|344.txt|.|1|.|013.txt|.|8|.|187.txt|.|4|.|107.txt|.|6|.|293.txt|.|5
+interactive bafta|.|046.txt|.|2
+lasers have helped|.|023.txt|.|1
+digital cinema|.|013.txt|.|2
+film council|.|013.txt|.|2
+uses lasers|.|023.txt|.|1
+specialist|.|013.txt|.|2
+helped|.|023.txt|.|2
+uses|.|023.txt|.|1|.|006.txt|.|1
+core network|.|023.txt|.|2
+cinema|.|013.txt|.|6
+bridges work|.|023.txt|.|2

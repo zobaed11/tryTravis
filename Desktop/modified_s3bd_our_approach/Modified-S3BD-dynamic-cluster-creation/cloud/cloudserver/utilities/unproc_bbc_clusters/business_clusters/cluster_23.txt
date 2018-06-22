@@ -1,0 +1,113 @@
+23
+swiss cement|.|bbc_business_485.txt|.|2
+concession|.|bbc_business_501.txt|.|2
+stake in sina|.|bbc_business_208.txt|.|3
+accounting errors|.|bbc_business_386.txt|.|2
+voted|.|bbc_business_151.txt|.|3|.|bbc_business_074.txt|.|1
+bargain|.|bbc_business_124.txt|.|2
+deutsche post|.|bbc_business_082.txt|.|2
+der|.|bbc_business_419.txt|.|2
+firm|.|bbc_business_027.txt|.|3|.|bbc_business_095.txt|.|2|.|bbc_business_124.txt|.|4|.|bbc_business_302.txt|.|3|.|bbc_business_132.txt|.|2|.|bbc_business_265.txt|.|2|.|bbc_business_125.txt|.|2|.|bbc_business_327.txt|.|2|.|bbc_business_096.txt|.|3|.|bbc_business_335.txt|.|2|.|bbc_business_017.txt|.|2|.|bbc_business_318.txt|.|3|.|bbc_business_433.txt|.|2|.|bbc_business_150.txt|.|3|.|bbc_business_299.txt|.|3|.|bbc_business_485.txt|.|4|.|bbc_business_364.txt|.|3|.|bbc_business_334.txt|.|2|.|bbc_business_508.txt|.|2|.|bbc_business_029.txt|.|2|.|bbc_business_092.txt|.|2|.|bbc_business_062.txt|.|4|.|bbc_business_127.txt|.|2|.|bbc_business_114.txt|.|2|.|bbc_business_034.txt|.|2|.|bbc_business_131.txt|.|3|.|bbc_business_333.txt|.|2|.|bbc_business_223.txt|.|2|.|bbc_business_401.txt|.|1|.|bbc_business_082.txt|.|4|.|bbc_business_375.txt|.|4|.|bbc_business_501.txt|.|5|.|bbc_business_162.txt|.|2|.|bbc_business_307.txt|.|3|.|bbc_business_324.txt|.|4|.|bbc_business_099.txt|.|1|.|bbc_business_510.txt|.|2|.|bbc_business_083.txt|.|4|.|bbc_business_198.txt|.|2|.|bbc_business_349.txt|.|5|.|bbc_business_208.txt|.|4|.|bbc_business_074.txt|.|2|.|bbc_business_366.txt|.|2|.|bbc_business_202.txt|.|3|.|bbc_business_011.txt|.|1|.|bbc_business_386.txt|.|5|.|bbc_business_399.txt|.|4|.|bbc_business_300.txt|.|2|.|bbc_business_164.txt|.|4|.|bbc_business_038.txt|.|1|.|bbc_business_419.txt|.|5|.|bbc_business_233.txt|.|4|.|bbc_business_418.txt|.|3|.|bbc_business_312.txt|.|2
+argentine state|.|bbc_business_501.txt|.|2
+bat|.|bbc_business_233.txt|.|3
+protein|.|bbc_business_233.txt|.|2
+giant|.|bbc_business_369.txt|.|2|.|bbc_business_082.txt|.|2|.|bbc_business_335.txt|.|2|.|bbc_business_456.txt|.|3|.|bbc_business_181.txt|.|2|.|bbc_business_475.txt|.|2|.|bbc_business_035.txt|.|2|.|bbc_business_444.txt|.|2
+us phone|.|bbc_business_202.txt|.|2
+based|.|bbc_business_366.txt|.|1
+van|.|bbc_business_419.txt|.|3
+bbc|.|bbc_business_034.txt|.|2
+energy firm burren|.|bbc_business_096.txt|.|1
+planning|.|bbc_business_501.txt|.|2
+plant|.|bbc_business_377.txt|.|3|.|bbc_business_302.txt|.|2|.|bbc_business_148.txt|.|2|.|bbc_business_054.txt|.|4
+creating|.|bbc_business_366.txt|.|1
+widened|.|bbc_business_124.txt|.|1|.|bbc_business_440.txt|.|1
+condom maker|.|bbc_business_364.txt|.|1
+card|.|bbc_business_375.txt|.|7|.|bbc_business_349.txt|.|8|.|bbc_business_236.txt|.|6|.|bbc_business_072.txt|.|7
+deal|.|bbc_business_339.txt|.|2|.|bbc_business_315.txt|.|3|.|bbc_business_302.txt|.|3|.|bbc_business_162.txt|.|3|.|bbc_business_093.txt|.|2|.|bbc_business_080.txt|.|8|.|bbc_business_300.txt|.|2|.|bbc_business_421.txt|.|2|.|bbc_business_047.txt|.|2|.|bbc_business_155.txt|.|7|.|bbc_business_034.txt|.|2|.|bbc_business_250.txt|.|2|.|bbc_business_077.txt|.|6|.|bbc_business_158.txt|.|4|.|bbc_business_013.txt|.|4|.|bbc_business_420.txt|.|4|.|bbc_business_078.txt|.|3|.|bbc_business_407.txt|.|2|.|bbc_business_074.txt|.|4
+takeover|.|bbc_business_082.txt|.|2|.|bbc_business_162.txt|.|2|.|bbc_business_278.txt|.|3|.|bbc_business_251.txt|.|2|.|bbc_business_454.txt|.|5|.|bbc_business_070.txt|.|2|.|bbc_business_460.txt|.|4|.|bbc_business_435.txt|.|4|.|bbc_business_319.txt|.|3|.|bbc_business_451.txt|.|3|.|bbc_business_392.txt|.|2|.|bbc_business_005.txt|.|2|.|bbc_business_485.txt|.|1
+australian|.|bbc_business_455.txt|.|3|.|bbc_business_125.txt|.|4|.|bbc_business_128.txt|.|2
+ssl international|.|bbc_business_364.txt|.|2
+wmc|.|bbc_business_125.txt|.|6|.|bbc_business_366.txt|.|12
+internet portal|.|bbc_business_208.txt|.|2
+sec|.|bbc_business_122.txt|.|9|.|bbc_business_215.txt|.|5|.|bbc_business_333.txt|.|2|.|bbc_business_265.txt|.|2|.|bbc_business_036.txt|.|4|.|bbc_business_494.txt|.|5
+maker ssl|.|bbc_business_364.txt|.|2
+rescued|.|bbc_business_375.txt|.|1
+van der|.|bbc_business_419.txt|.|2
+stent|.|bbc_business_300.txt|.|1
+buenos aires|.|bbc_business_123.txt|.|2|.|bbc_business_501.txt|.|3
+annual investment|.|bbc_business_501.txt|.|2
+insurance broker|.|bbc_business_333.txt|.|2|.|bbc_business_265.txt|.|2
+shareholders|.|bbc_business_202.txt|.|3|.|bbc_business_414.txt|.|2|.|bbc_business_037.txt|.|2
+awarded|.|bbc_business_096.txt|.|3
+pulled|.|bbc_business_334.txt|.|1
+couture|.|bbc_business_510.txt|.|2
+argentinas|.|bbc_business_501.txt|.|9
+broker|.|bbc_business_333.txt|.|2|.|bbc_business_265.txt|.|2
+transportation|.|bbc_business_334.txt|.|2
+holding firm|.|bbc_business_485.txt|.|1
+multiplex|.|bbc_business_062.txt|.|4
+shares in krispy kreme|.|bbc_business_386.txt|.|2
+vijver|.|bbc_business_419.txt|.|2
+phone firm|.|bbc_business_202.txt|.|2
+guidant|.|bbc_business_300.txt|.|4
+documents|.|bbc_business_267.txt|.|1|.|bbc_business_365.txt|.|1|.|bbc_business_366.txt|.|2
+sources close|.|bbc_business_034.txt|.|1
+exploration contract|.|bbc_business_096.txt|.|1
+softbank has widened losses|.|bbc_business_124.txt|.|1
+kreme said|.|bbc_business_386.txt|.|2
+uk property|.|bbc_business_177.txt|.|2
+dr|.|bbc_business_095.txt|.|6|.|bbc_business_213.txt|.|6
+portal firm|.|bbc_business_208.txt|.|2
+cairn energy|.|bbc_business_433.txt|.|2
+japanese|.|bbc_business_046.txt|.|2|.|bbc_business_124.txt|.|2|.|bbc_business_013.txt|.|3|.|bbc_business_505.txt|.|2|.|bbc_business_283.txt|.|3|.|bbc_business_295.txt|.|4|.|bbc_business_037.txt|.|4|.|bbc_business_044.txt|.|2|.|bbc_business_110.txt|.|2|.|bbc_business_032.txt|.|4|.|bbc_business_287.txt|.|6
+krispy|.|bbc_business_386.txt|.|6
+post|.|bbc_business_082.txt|.|2
+seals|.|bbc_business_162.txt|.|1
+firm said|.|bbc_business_062.txt|.|2|.|bbc_business_419.txt|.|1
+creating value|.|bbc_business_366.txt|.|1
+accounted|.|bbc_business_505.txt|.|2
+firm if its debt|.|bbc_business_375.txt|.|1
+woo|.|bbc_business_392.txt|.|2
+won|.|bbc_business_375.txt|.|2|.|bbc_business_342.txt|.|3
+firm by a chinese|.|bbc_business_034.txt|.|1
+manuel said|.|bbc_business_055.txt|.|2
+international|.|bbc_business_364.txt|.|3
+ec|.|bbc_business_413.txt|.|6
+bondi|.|bbc_business_017.txt|.|2
+gorges|.|bbc_business_472.txt|.|3|.|bbc_business_282.txt|.|7|.|bbc_business_174.txt|.|3
+andhra|.|bbc_business_377.txt|.|2
+swiss cement firm|.|bbc_business_485.txt|.|2
+el|.|bbc_business_502.txt|.|2
+card firm|.|bbc_business_375.txt|.|2|.|bbc_business_349.txt|.|1
+cement firm|.|bbc_business_485.txt|.|2
+air force|.|bbc_business_161.txt|.|2
+ambuja cement|.|bbc_business_485.txt|.|2
+exel|.|bbc_business_082.txt|.|5
+turkish|.|bbc_business_092.txt|.|1
+falic group|.|bbc_business_510.txt|.|3
+regulator|.|bbc_business_333.txt|.|1|.|bbc_business_265.txt|.|1
+slimming|.|bbc_business_302.txt|.|2
+credit card|.|bbc_business_375.txt|.|2|.|bbc_business_349.txt|.|3|.|bbc_business_072.txt|.|2
+said analyst|.|bbc_business_302.txt|.|1
+condom|.|bbc_business_364.txt|.|2
+option|.|bbc_business_335.txt|.|2
+oil exploration|.|bbc_business_096.txt|.|2
+distance|.|bbc_business_162.txt|.|1
+long distance|.|bbc_business_162.txt|.|1
+durex|.|bbc_business_364.txt|.|2
+water firm|.|bbc_business_501.txt|.|2
+mci shareholders|.|bbc_business_202.txt|.|2
+wembley|.|bbc_business_062.txt|.|7|.|bbc_business_223.txt|.|8
+troubled|.|bbc_business_333.txt|.|2|.|bbc_business_265.txt|.|2
+planning minister|.|bbc_business_501.txt|.|2
+profit|.|bbc_business_118.txt|.|3|.|bbc_business_480.txt|.|2|.|bbc_business_143.txt|.|1|.|bbc_business_237.txt|.|3|.|bbc_business_384.txt|.|1|.|bbc_business_503.txt|.|4|.|bbc_business_464.txt|.|2|.|bbc_business_040.txt|.|2|.|bbc_business_062.txt|.|5|.|bbc_business_207.txt|.|2|.|bbc_business_088.txt|.|2
+ms boynton|.|bbc_business_419.txt|.|1
+said he planned|.|bbc_business_510.txt|.|1
+us firm|.|bbc_business_418.txt|.|2
+kreme|.|bbc_business_386.txt|.|6
+softbank has widened|.|bbc_business_124.txt|.|1
+pleaded guilty|.|bbc_business_401.txt|.|2
+investigation|.|bbc_business_489.txt|.|3|.|bbc_business_333.txt|.|2|.|bbc_business_265.txt|.|2|.|bbc_business_060.txt|.|3
+internet portal firm|.|bbc_business_208.txt|.|2
+shares in krispy|.|bbc_business_386.txt|.|2
+softbank|.|bbc_business_124.txt|.|3

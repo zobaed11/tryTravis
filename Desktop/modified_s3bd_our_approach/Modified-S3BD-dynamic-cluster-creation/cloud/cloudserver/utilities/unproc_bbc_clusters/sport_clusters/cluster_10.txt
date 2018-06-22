@@ -1,0 +1,91 @@
+10
+play|.|bbc_sport_462.txt|.|2|.|bbc_sport_497.txt|.|2|.|bbc_sport_187.txt|.|3|.|bbc_sport_489.txt|.|4|.|bbc_sport_182.txt|.|4|.|bbc_sport_446.txt|.|3|.|bbc_sport_152.txt|.|6|.|bbc_sport_247.txt|.|4|.|bbc_sport_468.txt|.|3|.|bbc_sport_280.txt|.|2|.|bbc_sport_221.txt|.|1|.|bbc_sport_503.txt|.|3|.|bbc_sport_366.txt|.|3|.|bbc_sport_479.txt|.|2|.|bbc_sport_167.txt|.|1|.|bbc_sport_463.txt|.|2|.|bbc_sport_229.txt|.|2|.|bbc_sport_127.txt|.|2|.|bbc_sport_309.txt|.|1|.|bbc_sport_198.txt|.|3|.|bbc_sport_249.txt|.|1|.|bbc_sport_103.txt|.|5|.|bbc_sport_427.txt|.|2|.|bbc_sport_141.txt|.|2|.|bbc_sport_345.txt|.|3|.|bbc_sport_286.txt|.|3|.|bbc_sport_490.txt|.|4|.|bbc_sport_487.txt|.|1|.|bbc_sport_181.txt|.|4
+second round|.|bbc_sport_440.txt|.|2
+defeated|.|bbc_sport_497.txt|.|2|.|bbc_sport_436.txt|.|2|.|bbc_sport_430.txt|.|2
+bad|.|bbc_sport_154.txt|.|2
+fought|.|bbc_sport_486.txt|.|2
+football federation|.|bbc_sport_170.txt|.|2
+sania mirza|.|bbc_sport_447.txt|.|1
+voted|.|bbc_sport_027.txt|.|2
+stripped|.|bbc_sport_039.txt|.|3
+british|.|bbc_sport_027.txt|.|2|.|bbc_sport_037.txt|.|5|.|bbc_sport_476.txt|.|2|.|bbc_sport_449.txt|.|4
+tim henman|.|bbc_sport_476.txt|.|2
+clijsters|.|bbc_sport_443.txt|.|3|.|bbc_sport_479.txt|.|4|.|bbc_sport_478.txt|.|4
+mexican|.|bbc_sport_276.txt|.|1|.|bbc_sport_429.txt|.|2
+sets to beat|.|bbc_sport_440.txt|.|1
+appointing|.|bbc_sport_208.txt|.|1
+wrist|.|bbc_sport_479.txt|.|3|.|bbc_sport_478.txt|.|3
+bowen said|.|bbc_sport_213.txt|.|2
+losing|.|bbc_sport_489.txt|.|2|.|bbc_sport_456.txt|.|2
+bell in front|.|bbc_sport_022.txt|.|1
+suffer|.|bbc_sport_353.txt|.|1
+hyderabad|.|bbc_sport_510.txt|.|2
+lindsay|.|bbc_sport_488.txt|.|2|.|bbc_sport_476.txt|.|2|.|bbc_sport_399.txt|.|6
+henman|.|bbc_sport_492.txt|.|4|.|bbc_sport_476.txt|.|5|.|bbc_sport_500.txt|.|7|.|bbc_sport_421.txt|.|10|.|bbc_sport_434.txt|.|6|.|bbc_sport_468.txt|.|6
+slam tennis|.|bbc_sport_447.txt|.|2
+australian open|.|bbc_sport_467.txt|.|2|.|bbc_sport_486.txt|.|2|.|bbc_sport_478.txt|.|2|.|bbc_sport_475.txt|.|3|.|bbc_sport_489.txt|.|3|.|bbc_sport_477.txt|.|2|.|bbc_sport_490.txt|.|3|.|bbc_sport_496.txt|.|3|.|bbc_sport_450.txt|.|3|.|bbc_sport_479.txt|.|2|.|bbc_sport_447.txt|.|2|.|bbc_sport_476.txt|.|4|.|bbc_sport_471.txt|.|3
+splits from coach|.|bbc_sport_481.txt|.|1
+tim|.|bbc_sport_476.txt|.|2
+hantuchova|.|bbc_sport_497.txt|.|2|.|bbc_sport_436.txt|.|3|.|bbc_sport_430.txt|.|3
+atp|.|bbc_sport_429.txt|.|2
+french open|.|bbc_sport_495.txt|.|4
+melbourne|.|bbc_sport_467.txt|.|2|.|bbc_sport_486.txt|.|2|.|bbc_sport_487.txt|.|3
+gaudio|.|bbc_sport_463.txt|.|2
+winning wimbledon|.|bbc_sport_489.txt|.|1|.|bbc_sport_490.txt|.|1
+russian|.|bbc_sport_503.txt|.|2|.|bbc_sport_422.txt|.|2|.|bbc_sport_495.txt|.|2
+began|.|bbc_sport_477.txt|.|2|.|bbc_sport_030.txt|.|2
+quarter final|.|bbc_sport_436.txt|.|1|.|bbc_sport_430.txt|.|1
+hewitt fought|.|bbc_sport_486.txt|.|2
+history|.|bbc_sport_510.txt|.|2
+wimbledon|.|bbc_sport_432.txt|.|4|.|bbc_sport_438.txt|.|4|.|bbc_sport_489.txt|.|3|.|bbc_sport_490.txt|.|3|.|bbc_sport_494.txt|.|2
+dominated|.|bbc_sport_473.txt|.|1
+veteran|.|bbc_sport_440.txt|.|2
+andy roddick|.|bbc_sport_476.txt|.|3
+hip injury|.|bbc_sport_475.txt|.|2
+card|.|bbc_sport_478.txt|.|2
+melbourne crowd|.|bbc_sport_486.txt|.|2
+australian|.|bbc_sport_467.txt|.|2|.|bbc_sport_486.txt|.|5|.|bbc_sport_478.txt|.|2|.|bbc_sport_475.txt|.|3|.|bbc_sport_489.txt|.|3|.|bbc_sport_477.txt|.|2|.|bbc_sport_453.txt|.|2|.|bbc_sport_490.txt|.|3|.|bbc_sport_496.txt|.|5|.|bbc_sport_440.txt|.|2|.|bbc_sport_494.txt|.|3|.|bbc_sport_450.txt|.|4|.|bbc_sport_479.txt|.|2|.|bbc_sport_447.txt|.|2|.|bbc_sport_487.txt|.|3|.|bbc_sport_476.txt|.|5|.|bbc_sport_471.txt|.|3|.|bbc_sport_458.txt|.|2|.|bbc_sport_402.txt|.|2
+atp title|.|bbc_sport_429.txt|.|2
+elia|.|bbc_sport_439.txt|.|3
+qualifying|.|bbc_sport_450.txt|.|2|.|bbc_sport_061.txt|.|7
+british number|.|bbc_sport_476.txt|.|2
+roddick|.|bbc_sport_486.txt|.|8|.|bbc_sport_424.txt|.|4|.|bbc_sport_476.txt|.|4|.|bbc_sport_511.txt|.|4|.|bbc_sport_470.txt|.|6|.|bbc_sport_491.txt|.|46|.|bbc_sport_507.txt|.|3|.|bbc_sport_482.txt|.|3|.|bbc_sport_481.txt|.|8|.|bbc_sport_469.txt|.|6
+houston|.|bbc_sport_473.txt|.|2
+acapulco|.|bbc_sport_429.txt|.|2
+home crowd|.|bbc_sport_510.txt|.|2
+dialogue|.|bbc_sport_189.txt|.|2
+lindsay davenport|.|bbc_sport_476.txt|.|2
+ranked|.|bbc_sport_479.txt|.|1|.|bbc_sport_478.txt|.|1|.|bbc_sport_062.txt|.|1
+hopes|.|bbc_sport_490.txt|.|1|.|bbc_sport_493.txt|.|2
+end|.|bbc_sport_367.txt|.|3|.|bbc_sport_475.txt|.|2
+us open|.|bbc_sport_492.txt|.|2|.|bbc_sport_495.txt|.|4|.|bbc_sport_481.txt|.|2
+san|.|bbc_sport_424.txt|.|2|.|bbc_sport_426.txt|.|2|.|bbc_sport_507.txt|.|2|.|bbc_sport_509.txt|.|2
+ginepri|.|bbc_sport_426.txt|.|4
+move|.|bbc_sport_193.txt|.|3|.|bbc_sport_187.txt|.|3|.|bbc_sport_130.txt|.|2|.|bbc_sport_265.txt|.|3|.|bbc_sport_156.txt|.|2|.|bbc_sport_202.txt|.|1
+harley|.|bbc_sport_163.txt|.|4
+winning|.|bbc_sport_042.txt|.|1|.|bbc_sport_390.txt|.|1|.|bbc_sport_225.txt|.|1|.|bbc_sport_489.txt|.|4|.|bbc_sport_490.txt|.|4|.|bbc_sport_005.txt|.|2|.|bbc_sport_221.txt|.|2|.|bbc_sport_084.txt|.|1|.|bbc_sport_073.txt|.|1|.|bbc_sport_052.txt|.|1|.|bbc_sport_022.txt|.|2|.|bbc_sport_038.txt|.|2|.|bbc_sport_281.txt|.|1
+breaks|.|bbc_sport_070.txt|.|1|.|bbc_sport_480.txt|.|2
+cross country champion|.|bbc_sport_024.txt|.|2
+reid rejected|.|bbc_sport_191.txt|.|2
+eighth|.|bbc_sport_480.txt|.|2
+iceland|.|bbc_sport_262.txt|.|2
+italian|.|bbc_sport_440.txt|.|2
+slam titles|.|bbc_sport_489.txt|.|1|.|bbc_sport_490.txt|.|1
+titles|.|bbc_sport_489.txt|.|1|.|bbc_sport_490.txt|.|1
+grand|.|bbc_sport_352.txt|.|3|.|bbc_sport_473.txt|.|3|.|bbc_sport_500.txt|.|2|.|bbc_sport_489.txt|.|5|.|bbc_sport_395.txt|.|2|.|bbc_sport_403.txt|.|6|.|bbc_sport_291.txt|.|2|.|bbc_sport_490.txt|.|5|.|bbc_sport_405.txt|.|2|.|bbc_sport_396.txt|.|2|.|bbc_sport_412.txt|.|3|.|bbc_sport_447.txt|.|3|.|bbc_sport_495.txt|.|5|.|bbc_sport_292.txt|.|2|.|bbc_sport_445.txt|.|2
+nice|.|bbc_sport_473.txt|.|3
+slam|.|bbc_sport_352.txt|.|3|.|bbc_sport_473.txt|.|1|.|bbc_sport_489.txt|.|3|.|bbc_sport_395.txt|.|1|.|bbc_sport_403.txt|.|6|.|bbc_sport_291.txt|.|2|.|bbc_sport_490.txt|.|3|.|bbc_sport_405.txt|.|2|.|bbc_sport_396.txt|.|2|.|bbc_sport_412.txt|.|3|.|bbc_sport_447.txt|.|3|.|bbc_sport_495.txt|.|3|.|bbc_sport_292.txt|.|2|.|bbc_sport_445.txt|.|2
+voyce|.|bbc_sport_294.txt|.|2
+round|.|bbc_sport_240.txt|.|2|.|bbc_sport_422.txt|.|2|.|bbc_sport_439.txt|.|1|.|bbc_sport_440.txt|.|2|.|bbc_sport_480.txt|.|2
+bondarenko|.|bbc_sport_510.txt|.|4
+matters|.|bbc_sport_281.txt|.|2
+serena|.|bbc_sport_447.txt|.|2|.|bbc_sport_436.txt|.|2|.|bbc_sport_445.txt|.|6|.|bbc_sport_430.txt|.|2|.|bbc_sport_441.txt|.|2
+henman to face|.|bbc_sport_476.txt|.|1
+sania|.|bbc_sport_447.txt|.|2
+mexican open|.|bbc_sport_429.txt|.|2
+front|.|bbc_sport_022.txt|.|3|.|bbc_sport_337.txt|.|3
+job and i feel|.|bbc_sport_172.txt|.|1
+denied|.|bbc_sport_047.txt|.|1|.|bbc_sport_165.txt|.|2|.|bbc_sport_139.txt|.|2
+open|.|bbc_sport_492.txt|.|4|.|bbc_sport_467.txt|.|2|.|bbc_sport_475.txt|.|3|.|bbc_sport_489.txt|.|6|.|bbc_sport_446.txt|.|2|.|bbc_sport_429.txt|.|3|.|bbc_sport_496.txt|.|4|.|bbc_sport_440.txt|.|2|.|bbc_sport_468.txt|.|2|.|bbc_sport_450.txt|.|3|.|bbc_sport_479.txt|.|5|.|bbc_sport_463.txt|.|2|.|bbc_sport_436.txt|.|3|.|bbc_sport_476.txt|.|11|.|bbc_sport_471.txt|.|3|.|bbc_sport_480.txt|.|2|.|bbc_sport_486.txt|.|2|.|bbc_sport_510.txt|.|3|.|bbc_sport_478.txt|.|5|.|bbc_sport_473.txt|.|1|.|bbc_sport_477.txt|.|5|.|bbc_sport_490.txt|.|6|.|bbc_sport_481.txt|.|3|.|bbc_sport_447.txt|.|2|.|bbc_sport_495.txt|.|11|.|bbc_sport_426.txt|.|2|.|bbc_sport_430.txt|.|3
+indian|.|bbc_sport_510.txt|.|4|.|bbc_sport_447.txt|.|5|.|bbc_sport_435.txt|.|2
+quarter|.|bbc_sport_436.txt|.|1|.|bbc_sport_476.txt|.|2|.|bbc_sport_430.txt|.|1

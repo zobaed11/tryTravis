@@ -1,0 +1,38 @@
+196
+kansas business|.|WET566.txt|.|6
+nbc new|.|WET2467.txt|.|12
+reinstate|.|WET566.txt|.|12
+information statement|.|WET1039.txt|.|42
+text alerts|.|WET566.txt|.|35
+news your local|.|WET3259.txt|.|6
+aerial|.|WET3484.txt|.|18
+news business|.|WET3259.txt|.|6
+pages|.|WET5086.txt|.|65|.|WET1334.txt|.|88|.|WET4474.txt|.|62|.|WET4131.txt|.|20|.|WET1054.txt|.|24|.|WET1055.txt|.|29|.|WET2794.txt|.|67|.|WET392.txt|.|16|.|WET1156.txt|.|10|.|WET734.txt|.|41
+bureau of labor statistics|.|WET294.txt|.|4|.|WET4003.txt|.|16|.|WET260.txt|.|3|.|WET1647.txt|.|2|.|WET5087.txt|.|5|.|WET4103.txt|.|12|.|WET259.txt|.|4
+south america|.|WET3261.txt|.|7
+weather weather|.|WET3307.txt|.|9
+rationalizes|.|WET2772.txt|.|4
+national weather service|.|WET388.txt|.|27|.|WET4127.txt|.|35
+ions|.|WET4833.txt|.|7
+ksnt|.|WET4309.txt|.|56|.|WET566.txt|.|66
+small animal|.|WET2635.txt|.|18
+highest score|.|WET3985.txt|.|111
+patrol|.|WET3259.txt|.|12
+took|.|WET6013.txt|.|46|.|WET2859.txt|.|36
+weather glossary climate|.|WET3260.txt|.|20
+glossary climate calculators|.|WET3260.txt|.|20
+news weather|.|WET566.txt|.|7
+reinstate income|.|WET566.txt|.|12
+nibsdesk pen|.|WET5879.txt|.|10
+auction occurs one time|.|WET3303.txt|.|27
+blue ridge|.|WET4046.txt|.|23
+revista|.|WET6187.txt|.|88
+weather reference weather|.|WET3260.txt|.|20
+climate|.|WET3261.txt|.|30|.|WET3260.txt|.|35
+news organization|.|WET4126.txt|.|9|.|WET387.txt|.|8|.|WET3159.txt|.|2|.|WET388.txt|.|6|.|WET4127.txt|.|8
+glossary|.|WET3260.txt|.|22
+latin american|.|WET6140.txt|.|61
+organization|.|WET4126.txt|.|9|.|WET387.txt|.|8|.|WET3159.txt|.|3|.|WET3010.txt|.|37|.|WET388.txt|.|8|.|WET4127.txt|.|8
+calculators|.|WET6081.txt|.|12|.|WET3260.txt|.|20
+pm sunset change|.|WET4302.txt|.|16
+detailed forecast|.|WET3303.txt|.|16

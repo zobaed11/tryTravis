@@ -1,0 +1,93 @@
+21
+oasis|.|bbc_entertainment_154.txt|.|2
+evidence|.|bbc_entertainment_204.txt|.|2
+thackeray|.|bbc_entertainment_061.txt|.|2
+lawsuit said|.|bbc_entertainment_050.txt|.|3
+shooting|.|bbc_entertainment_237.txt|.|1
+star on the rap|.|bbc_entertainment_282.txt|.|1
+mtv spokeswoman|.|bbc_entertainment_168.txt|.|1
+pirates of the caribbean|.|bbc_entertainment_037.txt|.|2
+fair|.|bbc_entertainment_061.txt|.|4
+retirement|.|bbc_entertainment_269.txt|.|2
+revolution|.|bbc_entertainment_050.txt|.|3
+lush said|.|bbc_entertainment_225.txt|.|2
+interviews|.|bbc_entertainment_208.txt|.|2
+reese|.|bbc_entertainment_061.txt|.|3
+caribbean|.|bbc_entertainment_037.txt|.|3
+campaigns|.|bbc_entertainment_041.txt|.|1
+lucas said|.|bbc_entertainment_382.txt|.|1
+children|.|bbc_entertainment_166.txt|.|2|.|bbc_entertainment_070.txt|.|2|.|bbc_entertainment_022.txt|.|6|.|bbc_entertainment_382.txt|.|2
+injury|.|bbc_entertainment_050.txt|.|3
+written|.|bbc_entertainment_192.txt|.|2
+passion|.|bbc_entertainment_041.txt|.|2
+beverly hillbillies|.|bbc_entertainment_177.txt|.|2
+feud|.|bbc_entertainment_288.txt|.|3|.|bbc_entertainment_282.txt|.|3
+praised|.|bbc_entertainment_141.txt|.|1
+neeson said|.|bbc_entertainment_012.txt|.|2
+studios|.|bbc_entertainment_050.txt|.|3
+fined|.|bbc_entertainment_154.txt|.|2
+chris evans|.|bbc_entertainment_181.txt|.|2
+footage|.|bbc_entertainment_208.txt|.|2
+beverly|.|bbc_entertainment_177.txt|.|3
+protege|.|bbc_entertainment_288.txt|.|2
+stall|.|bbc_entertainment_181.txt|.|3
+regarding|.|bbc_entertainment_204.txt|.|1
+authorities|.|bbc_entertainment_204.txt|.|2
+cent appeared|.|bbc_entertainment_282.txt|.|2
+charges|.|bbc_entertainment_114.txt|.|1|.|bbc_entertainment_204.txt|.|2
+haunted|.|bbc_entertainment_237.txt|.|3
+monsoon wedding|.|bbc_entertainment_061.txt|.|2
+trying|.|bbc_entertainment_208.txt|.|3
+vanity fair|.|bbc_entertainment_061.txt|.|4
+johnny|.|bbc_entertainment_186.txt|.|2|.|bbc_entertainment_320.txt|.|2|.|bbc_entertainment_303.txt|.|2|.|bbc_entertainment_316.txt|.|2|.|bbc_entertainment_222.txt|.|2
+cosby|.|bbc_entertainment_204.txt|.|6
+selling|.|bbc_entertainment_160.txt|.|1|.|bbc_entertainment_181.txt|.|2
+mr neeson|.|bbc_entertainment_012.txt|.|2
+feud with his protege|.|bbc_entertainment_288.txt|.|1
+passport to paradise|.|bbc_entertainment_186.txt|.|2
+brawl|.|bbc_entertainment_154.txt|.|2
+reality tv|.|bbc_entertainment_226.txt|.|2|.|bbc_entertainment_203.txt|.|2
+said michael|.|bbc_entertainment_269.txt|.|1
+monitors|.|bbc_entertainment_168.txt|.|1
+bon|.|bbc_entertainment_208.txt|.|2
+no|.|bbc_entertainment_310.txt|.|2
+shop|.|bbc_entertainment_181.txt|.|2
+fenice|.|bbc_entertainment_023.txt|.|6|.|bbc_entertainment_273.txt|.|6
+duran duran|.|bbc_entertainment_208.txt|.|4
+life|.|bbc_entertainment_269.txt|.|3|.|bbc_entertainment_096.txt|.|4|.|bbc_entertainment_003.txt|.|2|.|bbc_entertainment_334.txt|.|4|.|bbc_entertainment_021.txt|.|2|.|bbc_entertainment_272.txt|.|2|.|bbc_entertainment_329.txt|.|2
+shot|.|bbc_entertainment_288.txt|.|1|.|bbc_entertainment_031.txt|.|2|.|bbc_entertainment_282.txt|.|2
+freeview|.|bbc_entertainment_202.txt|.|7
+debut|.|bbc_entertainment_282.txt|.|3
+birmingham|.|bbc_entertainment_237.txt|.|2
+ends|.|bbc_entertainment_288.txt|.|1
+hard|.|bbc_entertainment_208.txt|.|1
+liam|.|bbc_entertainment_154.txt|.|2|.|bbc_entertainment_012.txt|.|2
+bon said|.|bbc_entertainment_208.txt|.|1
+reese witherspoon|.|bbc_entertainment_061.txt|.|2
+knight said|.|bbc_entertainment_237.txt|.|2
+lawyer|.|bbc_entertainment_114.txt|.|2|.|bbc_entertainment_204.txt|.|2
+table|.|bbc_entertainment_141.txt|.|2
+fight|.|bbc_entertainment_154.txt|.|4|.|bbc_entertainment_276.txt|.|2
+ozzy|.|bbc_entertainment_206.txt|.|4
+violence|.|bbc_entertainment_168.txt|.|2
+medical expenses|.|bbc_entertainment_050.txt|.|2
+euros|.|bbc_entertainment_154.txt|.|2
+pirates|.|bbc_entertainment_037.txt|.|3
+scoggins dies|.|bbc_entertainment_177.txt|.|1
+campaigners|.|bbc_entertainment_168.txt|.|2
+trying too hard|.|bbc_entertainment_208.txt|.|1
+praised by police|.|bbc_entertainment_141.txt|.|1
+liam gallagher|.|bbc_entertainment_154.txt|.|2
+sex|.|bbc_entertainment_168.txt|.|5
+ballymena|.|bbc_entertainment_012.txt|.|1
+allegations regarding|.|bbc_entertainment_204.txt|.|1
+evans said|.|bbc_entertainment_181.txt|.|2
+cent ends|.|bbc_entertainment_288.txt|.|1
+sharp|.|bbc_entertainment_061.txt|.|6
+film pirates of the caribbean|.|bbc_entertainment_037.txt|.|1
+cannibals|.|bbc_entertainment_037.txt|.|3
+bbc said|.|bbc_entertainment_310.txt|.|1
+becky|.|bbc_entertainment_061.txt|.|6
+tv show|.|bbc_entertainment_193.txt|.|2|.|bbc_entertainment_207.txt|.|2|.|bbc_entertainment_203.txt|.|2|.|bbc_entertainment_213.txt|.|2
+sleaze|.|bbc_entertainment_168.txt|.|2
+liam neeson|.|bbc_entertainment_012.txt|.|2

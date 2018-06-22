@@ -1,0 +1,91 @@
+24
+uk video game|.|bbc_tech_082.txt|.|2
+news site|.|bbc_tech_186.txt|.|2
+intel unveils|.|bbc_tech_019.txt|.|1
+group said|.|bbc_tech_186.txt|.|1
+call of duty|.|bbc_tech_288.txt|.|6
+yoran|.|bbc_tech_400.txt|.|7
+uses lasers|.|bbc_tech_023.txt|.|1
+children|.|bbc_tech_004.txt|.|3|.|bbc_tech_063.txt|.|3
+control systems|.|bbc_tech_285.txt|.|3|.|bbc_tech_304.txt|.|3
+space on his forehead|.|bbc_tech_209.txt|.|1
+giant|.|bbc_tech_250.txt|.|2
+helped|.|bbc_tech_023.txt|.|2
+criminal|.|bbc_tech_077.txt|.|3
+auctions|.|bbc_tech_209.txt|.|1
+uk video|.|bbc_tech_082.txt|.|2
+pc pro|.|bbc_tech_111.txt|.|3|.|bbc_tech_243.txt|.|3|.|bbc_tech_021.txt|.|3|.|bbc_tech_328.txt|.|3
+ad|.|bbc_tech_209.txt|.|1
+natural|.|bbc_tech_151.txt|.|2
+individual|.|bbc_tech_248.txt|.|3
+makers|.|bbc_tech_348.txt|.|3|.|bbc_tech_246.txt|.|1|.|bbc_tech_195.txt|.|3
+filed|.|bbc_tech_273.txt|.|3
+york times|.|bbc_tech_138.txt|.|2
+turismo|.|bbc_tech_112.txt|.|2
+excitement|.|bbc_tech_336.txt|.|1
+lovers|.|bbc_tech_045.txt|.|1|.|bbc_tech_341.txt|.|1
+push|.|bbc_tech_012.txt|.|2|.|bbc_tech_331.txt|.|2
+silicon being used|.|bbc_tech_019.txt|.|1|.|bbc_tech_329.txt|.|1
+amazon|.|bbc_tech_168.txt|.|2
+intel researchers|.|bbc_tech_019.txt|.|2|.|bbc_tech_329.txt|.|2
+core|.|bbc_tech_023.txt|.|2
+lasers have helped|.|bbc_tech_023.txt|.|1
+preventative|.|bbc_tech_015.txt|.|2
+website addresses|.|bbc_tech_049.txt|.|1|.|bbc_tech_340.txt|.|1
+fraud|.|bbc_tech_120.txt|.|5|.|bbc_tech_188.txt|.|4
+council|.|bbc_tech_013.txt|.|2
+seeking bankruptcy|.|bbc_tech_390.txt|.|1
+bids|.|bbc_tech_209.txt|.|1
+napster|.|bbc_tech_298.txt|.|5|.|bbc_tech_263.txt|.|5
+files|.|bbc_tech_284.txt|.|2|.|bbc_tech_091.txt|.|5|.|bbc_tech_092.txt|.|3|.|bbc_tech_237.txt|.|2|.|bbc_tech_207.txt|.|3
+environmentally|.|bbc_tech_307.txt|.|2
+presidential|.|bbc_tech_001.txt|.|2|.|bbc_tech_078.txt|.|2
+visitor|.|bbc_tech_115.txt|.|2
+bridges work|.|bbc_tech_023.txt|.|2
+illegal copying|.|bbc_tech_285.txt|.|2|.|bbc_tech_304.txt|.|2
+expenses|.|bbc_tech_140.txt|.|2
+contacted|.|bbc_tech_027.txt|.|3|.|bbc_tech_315.txt|.|3
+search engines|.|bbc_tech_168.txt|.|3|.|bbc_tech_081.txt|.|5|.|bbc_tech_213.txt|.|2|.|bbc_tech_267.txt|.|1|.|bbc_tech_393.txt|.|5
+independent developers|.|bbc_tech_082.txt|.|3
+week|.|bbc_tech_187.txt|.|3|.|bbc_tech_119.txt|.|2
+increased speeds|.|bbc_tech_058.txt|.|1
+google news site|.|bbc_tech_186.txt|.|1
+rejected|.|bbc_tech_330.txt|.|2|.|bbc_tech_014.txt|.|2
+phone companies|.|bbc_tech_188.txt|.|10
+blocked outside us|.|bbc_tech_101.txt|.|1
+overcome|.|bbc_tech_019.txt|.|2
+faster than|.|bbc_tech_205.txt|.|2|.|bbc_tech_023.txt|.|2
+changes|.|bbc_tech_318.txt|.|1|.|bbc_tech_062.txt|.|1
+musicians|.|bbc_tech_145.txt|.|13
+web logs|.|bbc_tech_151.txt|.|2|.|bbc_tech_106.txt|.|2
+bankruptcy|.|bbc_tech_390.txt|.|2
+said dr|.|bbc_tech_168.txt|.|3|.|bbc_tech_019.txt|.|2|.|bbc_tech_225.txt|.|2|.|bbc_tech_212.txt|.|2|.|bbc_tech_329.txt|.|2
+content control|.|bbc_tech_285.txt|.|3|.|bbc_tech_304.txt|.|3
+bank accounts|.|bbc_tech_164.txt|.|2
+power cables for its xbox|.|bbc_tech_015.txt|.|1
+security|.|bbc_tech_398.txt|.|4|.|bbc_tech_007.txt|.|5|.|bbc_tech_334.txt|.|2|.|bbc_tech_177.txt|.|4|.|bbc_tech_281.txt|.|3|.|bbc_tech_039.txt|.|2|.|bbc_tech_357.txt|.|3|.|bbc_tech_292.txt|.|4|.|bbc_tech_346.txt|.|8|.|bbc_tech_316.txt|.|10|.|bbc_tech_020.txt|.|7|.|bbc_tech_373.txt|.|2|.|bbc_tech_079.txt|.|2|.|bbc_tech_031.txt|.|13|.|bbc_tech_227.txt|.|4|.|bbc_tech_284.txt|.|3|.|bbc_tech_362.txt|.|5|.|bbc_tech_400.txt|.|8|.|bbc_tech_123.txt|.|2|.|bbc_tech_358.txt|.|8|.|bbc_tech_034.txt|.|9|.|bbc_tech_060.txt|.|6
+cap|.|bbc_tech_165.txt|.|5|.|bbc_tech_166.txt|.|5
+servers|.|bbc_tech_013.txt|.|1|.|bbc_tech_026.txt|.|3
+award|.|bbc_tech_174.txt|.|3|.|bbc_tech_057.txt|.|5|.|bbc_tech_111.txt|.|6
+said mr|.|bbc_tech_283.txt|.|5|.|bbc_tech_127.txt|.|6|.|bbc_tech_270.txt|.|5|.|bbc_tech_281.txt|.|4|.|bbc_tech_299.txt|.|5|.|bbc_tech_172.txt|.|6|.|bbc_tech_023.txt|.|3
+car|.|bbc_tech_246.txt|.|1|.|bbc_tech_307.txt|.|3
+ready|.|bbc_tech_112.txt|.|2
+cafes|.|bbc_tech_002.txt|.|11
+online games|.|bbc_tech_157.txt|.|2
+bank report|.|bbc_tech_033.txt|.|2
+changes to bloglines|.|bbc_tech_318.txt|.|1|.|bbc_tech_062.txt|.|1
+firms said|.|bbc_tech_285.txt|.|2|.|bbc_tech_304.txt|.|2
+fastest robot|.|bbc_tech_356.txt|.|2
+jakob|.|bbc_tech_168.txt|.|2
+teach|.|bbc_tech_283.txt|.|4
+sell|.|bbc_tech_300.txt|.|1|.|bbc_tech_247.txt|.|1|.|bbc_tech_160.txt|.|1|.|bbc_tech_285.txt|.|2|.|bbc_tech_304.txt|.|2
+speculate|.|bbc_tech_151.txt|.|1
+puts|.|bbc_tech_012.txt|.|1|.|bbc_tech_331.txt|.|1
+help|.|bbc_tech_283.txt|.|6|.|bbc_tech_210.txt|.|3|.|bbc_tech_107.txt|.|2|.|bbc_tech_230.txt|.|1|.|bbc_tech_200.txt|.|4|.|bbc_tech_213.txt|.|2|.|bbc_tech_293.txt|.|3|.|bbc_tech_275.txt|.|3|.|bbc_tech_156.txt|.|3
+jakob nielsen|.|bbc_tech_168.txt|.|2
+sridharan|.|bbc_tech_023.txt|.|2
+editions|.|bbc_tech_186.txt|.|1
+bloglines|.|bbc_tech_318.txt|.|8|.|bbc_tech_062.txt|.|8
+ask jeeves said|.|bbc_tech_318.txt|.|1|.|bbc_tech_062.txt|.|1
+said microsoft|.|bbc_tech_369.txt|.|2
+games firms|.|bbc_tech_082.txt|.|1

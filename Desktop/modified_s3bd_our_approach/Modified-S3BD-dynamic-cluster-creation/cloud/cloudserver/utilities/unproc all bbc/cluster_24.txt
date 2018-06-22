@@ -1,0 +1,64 @@
+voice|.|bbc_entertainment_299.txt|.|3|.|bbc_tech_310.txt|.|7|.|bbc_tech_279.txt|.|5|.|bbc_tech_251.txt|.|3|.|bbc_tech_089.txt|.|7|.|bbc_tech_302.txt|.|5|.|bbc_entertainment_302.txt|.|4
+recalls|.|bbc_business_026.txt|.|1
+communicate|.|bbc_tech_251.txt|.|2
+flout rules|.|bbc_tech_067.txt|.|1|.|bbc_tech_382.txt|.|1
+office minister|.|bbc_politics_177.txt|.|2
+relay services|.|bbc_tech_251.txt|.|2
+average jobless|.|bbc_business_387.txt|.|2
+glyndwr|.|bbc_politics_177.txt|.|4
+modest|.|bbc_business_143.txt|.|2
+quoted|.|bbc_politics_404.txt|.|2
+latest role|.|bbc_entertainment_316.txt|.|2
+download|.|bbc_tech_059.txt|.|4|.|bbc_tech_095.txt|.|1|.|bbc_tech_322.txt|.|4|.|bbc_tech_058.txt|.|2|.|bbc_tech_298.txt|.|3|.|bbc_entertainment_278.txt|.|5|.|bbc_entertainment_127.txt|.|7|.|bbc_tech_206.txt|.|1|.|bbc_entertainment_266.txt|.|5|.|bbc_tech_263.txt|.|3|.|bbc_tech_011.txt|.|5|.|bbc_entertainment_103.txt|.|7
+phone conversations|.|bbc_tech_251.txt|.|2
+flout|.|bbc_tech_067.txt|.|1|.|bbc_tech_382.txt|.|1
+initiatives|.|bbc_politics_241.txt|.|2
+rebel billionaire|.|bbc_entertainment_178.txt|.|3
+plaid|.|bbc_politics_124.txt|.|2|.|bbc_politics_177.txt|.|7
+nokia|.|bbc_tech_305.txt|.|4|.|bbc_tech_383.txt|.|3
+rest used|.|bbc_politics_271.txt|.|1
+similar|.|bbc_tech_280.txt|.|3
+lousy history|.|bbc_entertainment_009.txt|.|2
+pole vault|.|bbc_sport_029.txt|.|2
+big speech|.|bbc_politics_264.txt|.|2
+travellers|.|bbc_business_339.txt|.|1|.|bbc_politics_176.txt|.|6
+cartridges|.|bbc_tech_333.txt|.|5|.|bbc_tech_037.txt|.|5
+government borrowing|.|bbc_politics_271.txt|.|2
+rich list|.|bbc_entertainment_346.txt|.|3
+video relay|.|bbc_tech_251.txt|.|3
+period of creative|.|bbc_politics_404.txt|.|3
+broadcasting|.|bbc_entertainment_059.txt|.|2|.|bbc_tech_059.txt|.|6|.|bbc_entertainment_218.txt|.|2|.|bbc_tech_322.txt|.|6
+similar services|.|bbc_tech_280.txt|.|1
+lord roberts|.|bbc_politics_177.txt|.|2
+frontline|.|bbc_politics_271.txt|.|3
+roberts|.|bbc_sport_129.txt|.|4|.|bbc_entertainment_302.txt|.|3|.|bbc_politics_177.txt|.|3
+preventative|.|bbc_tech_015.txt|.|2
+farms|.|bbc_business_388.txt|.|3|.|bbc_politics_090.txt|.|2
+aloud|.|bbc_entertainment_027.txt|.|2
+download services|.|bbc_tech_059.txt|.|4|.|bbc_tech_322.txt|.|4
+wartime|.|bbc_tech_288.txt|.|4
+coming years|.|bbc_politics_241.txt|.|1
+tackling|.|bbc_politics_271.txt|.|2
+bt retail|.|bbc_tech_352.txt|.|2
+like device|.|bbc_tech_229.txt|.|1
+imaginary breasts|.|bbc_politics_008.txt|.|2
+creative destruction|.|bbc_politics_404.txt|.|3
+welsh office|.|bbc_politics_177.txt|.|1
+media|.|bbc_tech_151.txt|.|2|.|bbc_tech_247.txt|.|6|.|bbc_politics_306.txt|.|2|.|bbc_tech_113.txt|.|5|.|bbc_tech_325.txt|.|2|.|bbc_tech_059.txt|.|2|.|bbc_tech_099.txt|.|6|.|bbc_tech_215.txt|.|4|.|bbc_politics_196.txt|.|2|.|bbc_tech_279.txt|.|5|.|bbc_business_475.txt|.|2|.|bbc_tech_167.txt|.|4|.|bbc_entertainment_211.txt|.|2|.|bbc_politics_297.txt|.|2|.|bbc_entertainment_010.txt|.|2|.|bbc_politics_133.txt|.|2|.|bbc_tech_384.txt|.|14|.|bbc_tech_282.txt|.|3|.|bbc_tech_322.txt|.|2|.|bbc_tech_183.txt|.|2|.|bbc_tech_302.txt|.|5|.|bbc_business_325.txt|.|2|.|bbc_tech_222.txt|.|11
+bbc scotland|.|bbc_politics_241.txt|.|2
+conversations|.|bbc_tech_251.txt|.|2
+public services|.|bbc_politics_344.txt|.|3|.|bbc_politics_264.txt|.|2|.|bbc_politics_270.txt|.|2|.|bbc_politics_404.txt|.|5|.|bbc_politics_099.txt|.|2|.|bbc_politics_387.txt|.|2
+music download|.|bbc_tech_059.txt|.|3|.|bbc_tech_322.txt|.|3|.|bbc_entertainment_127.txt|.|2|.|bbc_tech_206.txt|.|1|.|bbc_entertainment_103.txt|.|2
+destruction|.|bbc_politics_404.txt|.|3
+meibion|.|bbc_politics_177.txt|.|3
+handsets|.|bbc_tech_311.txt|.|4|.|bbc_tech_059.txt|.|5|.|bbc_tech_095.txt|.|4|.|bbc_tech_322.txt|.|5
+maintain services|.|bbc_politics_241.txt|.|3
+llwyd|.|bbc_politics_177.txt|.|4
+ringtone|.|bbc_tech_067.txt|.|2|.|bbc_tech_382.txt|.|2
+tv broadcasting|.|bbc_tech_059.txt|.|2|.|bbc_tech_322.txt|.|2
+services|.|bbc_tech_239.txt|.|2|.|bbc_politics_344.txt|.|3|.|bbc_tech_067.txt|.|6|.|bbc_tech_059.txt|.|13|.|bbc_politics_264.txt|.|3|.|bbc_tech_280.txt|.|3|.|bbc_tech_251.txt|.|5|.|bbc_business_021.txt|.|2|.|bbc_politics_241.txt|.|8|.|bbc_politics_265.txt|.|2|.|bbc_politics_271.txt|.|4|.|bbc_tech_386.txt|.|7|.|bbc_tech_322.txt|.|13|.|bbc_tech_382.txt|.|6|.|bbc_tech_352.txt|.|5|.|bbc_tech_358.txt|.|2|.|bbc_politics_270.txt|.|2|.|bbc_politics_404.txt|.|5|.|bbc_politics_099.txt|.|2|.|bbc_tech_198.txt|.|5|.|bbc_politics_387.txt|.|2|.|bbc_politics_177.txt|.|7
+ariary|.|bbc_business_372.txt|.|3
+frontline services|.|bbc_politics_271.txt|.|2
+meibion glyndwr|.|bbc_politics_177.txt|.|3
+new domain names|.|bbc_tech_239.txt|.|2
+blinx|.|bbc_tech_266.txt|.|4

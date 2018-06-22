@@ -1,0 +1,38 @@
+91
+online auction|.|WET555.txt|.|2|.|WET3303.txt|.|4|.|WET4299.txt|.|4
+basic living|.|WET4824.txt|.|5
+congress|.|WET4906.txt|.|15|.|WET195.txt|.|32
+calendarmoviestvtickets|.|WET1337.txt|.|16
+canadian|.|WET1416.txt|.|76
+delayed|.|WET3838.txt|.|31
+million years|.|WET5725.txt|.|3
+birthstone jewelry|.|WET1898.txt|.|130|.|WET5636.txt|.|104
+perfect gift|.|WET5125.txt|.|33
+personality|.|WET4160.txt|.|12
+morgan|.|WET4299.txt|.|7
+william|.|WET2791.txt|.|33|.|WET2099.txt|.|92|.|WET3553.txt|.|11
+och|.|WET4651.txt|.|75|.|WET3542.txt|.|73|.|WET2978.txt|.|17
+teachers|.|WET6195.txt|.|31|.|WET778.txt|.|26|.|WET4021.txt|.|32
+oak|.|WET5152.txt|.|370|.|WET6266.txt|.|123|.|WET2531.txt|.|75|.|WET6181.txt|.|40
+class|.|WET5133.txt|.|24|.|WET3304.txt|.|18|.|WET306.txt|.|78|.|WET2996.txt|.|13|.|WET302.txt|.|41|.|WET224.txt|.|8|.|WET3735.txt|.|32|.|WET4046.txt|.|8
+previa|.|WET708.txt|.|57
+worry|.|WET4824.txt|.|11
+pubs|.|WET3918.txt|.|17
+issue|.|WET1988.txt|.|49|.|WET4059.txt|.|15
+dependency|.|WET5992.txt|.|3|.|WET5968.txt|.|2|.|WET2956.txt|.|2|.|WET6109.txt|.|2|.|WET5309.txt|.|2|.|WET5358.txt|.|2|.|WET1720.txt|.|3|.|WET2060.txt|.|2|.|WET403.txt|.|1
+portuguese romanian russian|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET907.txt|.|11
+metal|.|WET4577.txt|.|11|.|WET6098.txt|.|72|.|WET5126.txt|.|78|.|WET6099.txt|.|73|.|WET2752.txt|.|14|.|WET2355.txt|.|165|.|WET2885.txt|.|71|.|WET1613.txt|.|36|.|WET4869.txt|.|48
+wagering|.|WET2028.txt|.|44|.|WET5770.txt|.|24|.|WET5769.txt|.|32|.|WET5966.txt|.|7|.|WET3917.txt|.|16|.|WET5140.txt|.|2
+kerr|.|WET2319.txt|.|34
+vera|.|WET3213.txt|.|44
+land title|.|WET4902.txt|.|19
+metai|.|WET2164.txt|.|17
+state park|.|WET3455.txt|.|264|.|WET439.txt|.|194
+project runway|.|WET3870.txt|.|52
+drivers ed|.|WET598.txt|.|4
+mrs|.|WET3200.txt|.|39
+roseville|.|WET5204.txt|.|42
+clark|.|WET5686.txt|.|4|.|WET115.txt|.|9|.|WET4763.txt|.|57
+bradley|.|WET740.txt|.|281
+brother|.|WET4188.txt|.|5|.|WET1337.txt|.|16|.|WET5417.txt|.|7
+homepage|.|WET5733.txt|.|9|.|WET2540.txt|.|244

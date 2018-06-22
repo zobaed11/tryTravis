@@ -1,0 +1,113 @@
+17
+big|.|bbc_business_117.txt|.|2|.|bbc_business_389.txt|.|3|.|bbc_business_498.txt|.|3
+record lows|.|bbc_business_374.txt|.|2
+congress|.|bbc_business_249.txt|.|4|.|bbc_business_041.txt|.|3|.|bbc_business_368.txt|.|3
+sunday times|.|bbc_business_203.txt|.|3
+football club|.|bbc_business_219.txt|.|2|.|bbc_business_224.txt|.|1|.|bbc_business_193.txt|.|2
+leave aer|.|bbc_business_445.txt|.|2
+industrial output|.|bbc_business_046.txt|.|3|.|bbc_business_453.txt|.|2|.|bbc_business_156.txt|.|2
+nations|.|bbc_business_442.txt|.|2|.|bbc_business_008.txt|.|6
+london stock exchange|.|bbc_business_454.txt|.|2
+america|.|bbc_business_185.txt|.|2|.|bbc_business_122.txt|.|3|.|bbc_business_492.txt|.|2|.|bbc_business_259.txt|.|3
+output|.|bbc_business_046.txt|.|3|.|bbc_business_453.txt|.|6|.|bbc_business_156.txt|.|3|.|bbc_business_168.txt|.|3
+big four|.|bbc_business_498.txt|.|2
+bank|.|bbc_business_358.txt|.|8|.|bbc_business_184.txt|.|2|.|bbc_business_137.txt|.|5|.|bbc_business_396.txt|.|3|.|bbc_business_477.txt|.|7|.|bbc_business_506.txt|.|3|.|bbc_business_438.txt|.|6|.|bbc_business_023.txt|.|2|.|bbc_business_116.txt|.|1|.|bbc_business_185.txt|.|7|.|bbc_business_473.txt|.|7|.|bbc_business_083.txt|.|4|.|bbc_business_290.txt|.|7|.|bbc_business_119.txt|.|3|.|bbc_business_301.txt|.|2|.|bbc_business_498.txt|.|14|.|bbc_business_230.txt|.|3|.|bbc_business_423.txt|.|5|.|bbc_business_076.txt|.|5|.|bbc_business_122.txt|.|3|.|bbc_business_372.txt|.|1|.|bbc_business_084.txt|.|6|.|bbc_business_101.txt|.|6|.|bbc_business_032.txt|.|6|.|bbc_business_350.txt|.|2|.|bbc_business_507.txt|.|2|.|bbc_business_389.txt|.|6|.|bbc_business_492.txt|.|6|.|bbc_business_330.txt|.|3|.|bbc_business_147.txt|.|5|.|bbc_business_187.txt|.|7|.|bbc_business_085.txt|.|2|.|bbc_business_126.txt|.|8|.|bbc_business_297.txt|.|7|.|bbc_business_072.txt|.|4
+boeing has unveiled its new|.|bbc_business_069.txt|.|1
+four|.|bbc_business_076.txt|.|2|.|bbc_business_164.txt|.|3|.|bbc_business_498.txt|.|3|.|bbc_business_101.txt|.|2
+slavery|.|bbc_business_477.txt|.|6
+officials|.|bbc_business_461.txt|.|1|.|bbc_business_357.txt|.|2|.|bbc_business_212.txt|.|2|.|bbc_business_468.txt|.|1|.|bbc_business_498.txt|.|2
+film unit|.|bbc_business_021.txt|.|2
+nigerian banks|.|bbc_business_473.txt|.|2
+abn amro|.|bbc_business_297.txt|.|3
+completed|.|bbc_business_372.txt|.|1
+holds interest rate|.|bbc_business_290.txt|.|1
+concealing|.|bbc_business_187.txt|.|1
+illegally concealed|.|bbc_business_187.txt|.|1
+completes|.|bbc_business_372.txt|.|1
+central bank|.|bbc_business_147.txt|.|3|.|bbc_business_301.txt|.|2|.|bbc_business_072.txt|.|3
+mortgages|.|bbc_business_085.txt|.|1
+bank of america|.|bbc_business_185.txt|.|2|.|bbc_business_492.txt|.|2
+trading share|.|bbc_business_122.txt|.|1
+nigerian|.|bbc_business_473.txt|.|3
+bank of israel|.|bbc_business_423.txt|.|2
+settlements with the sec|.|bbc_business_122.txt|.|1
+slavery links|.|bbc_business_477.txt|.|1
+franc|.|bbc_business_372.txt|.|3
+barred|.|bbc_business_492.txt|.|2
+canal|.|bbc_business_477.txt|.|4
+set|.|bbc_business_137.txt|.|2|.|bbc_business_146.txt|.|2
+japanese banking|.|bbc_business_032.txt|.|1
+palestinian economy|.|bbc_business_076.txt|.|2
+abn|.|bbc_business_297.txt|.|4
+distributor|.|bbc_business_122.txt|.|3
+battle|.|bbc_business_413.txt|.|2|.|bbc_business_032.txt|.|2
+varley|.|bbc_business_126.txt|.|3
+mexico|.|bbc_business_084.txt|.|1
+profits jump|.|bbc_business_396.txt|.|1
+collateral|.|bbc_business_477.txt|.|2
+malagasy franc|.|bbc_business_372.txt|.|2
+citizens|.|bbc_business_477.txt|.|4
+sharon|.|bbc_business_423.txt|.|2
+fischer|.|bbc_business_423.txt|.|5
+riggs|.|bbc_business_187.txt|.|3
+previously frozen|.|bbc_business_301.txt|.|1
+mexican|.|bbc_business_084.txt|.|5
+four years|.|bbc_business_076.txt|.|2
+links|.|bbc_business_477.txt|.|2
+england|.|bbc_business_507.txt|.|1|.|bbc_business_057.txt|.|2|.|bbc_business_137.txt|.|3|.|bbc_business_040.txt|.|2|.|bbc_business_085.txt|.|2|.|bbc_business_119.txt|.|2
+bank of china|.|bbc_business_498.txt|.|6
+citizens bank and canal|.|bbc_business_477.txt|.|2
+large companies|.|bbc_business_509.txt|.|2
+list|.|bbc_business_498.txt|.|3
+smfg|.|bbc_business_116.txt|.|4
+mitsubishi tokyo|.|bbc_business_032.txt|.|2
+trillion yen|.|bbc_business_032.txt|.|2
+senate|.|bbc_business_185.txt|.|3
+wpp|.|bbc_business_035.txt|.|5
+currency rating|.|bbc_business_018.txt|.|2
+debt|.|bbc_business_491.txt|.|7|.|bbc_business_375.txt|.|4|.|bbc_business_093.txt|.|7|.|bbc_business_438.txt|.|2|.|bbc_business_241.txt|.|7|.|bbc_business_290.txt|.|2|.|bbc_business_210.txt|.|4|.|bbc_business_038.txt|.|3|.|bbc_business_072.txt|.|2
+deep|.|bbc_business_042.txt|.|2
+fosters bought|.|bbc_business_435.txt|.|2
+sources|.|bbc_business_034.txt|.|1
+ufj holdings|.|bbc_business_032.txt|.|2
+world bank|.|bbc_business_076.txt|.|2
+irish shares|.|bbc_business_031.txt|.|2
+suing|.|bbc_business_492.txt|.|2
+riyadh|.|bbc_business_432.txt|.|2
+malaysia|.|bbc_business_147.txt|.|4
+regulators|.|bbc_business_191.txt|.|2|.|bbc_business_326.txt|.|1
+bank of alexandria|.|bbc_business_389.txt|.|3
+fox|.|bbc_business_422.txt|.|10
+riggs bank|.|bbc_business_187.txt|.|2
+central|.|bbc_business_172.txt|.|2|.|bbc_business_147.txt|.|3|.|bbc_business_506.txt|.|2|.|bbc_business_301.txt|.|3|.|bbc_business_072.txt|.|3|.|bbc_business_180.txt|.|4
+personality|.|bbc_business_243.txt|.|2
+own currency|.|bbc_business_372.txt|.|1
+banking units|.|bbc_business_147.txt|.|1
+banned|.|bbc_business_492.txt|.|2
+chinese milk|.|bbc_business_338.txt|.|2
+concealed|.|bbc_business_187.txt|.|1
+reporting|.|bbc_business_397.txt|.|4
+fairmont said|.|bbc_business_470.txt|.|1
+yen|.|bbc_business_032.txt|.|2
+living|.|bbc_business_084.txt|.|1
+six|.|bbc_business_257.txt|.|2|.|bbc_business_128.txt|.|2
+merged|.|bbc_business_316.txt|.|3
+icbc|.|bbc_business_396.txt|.|3
+stroke|.|bbc_business_191.txt|.|3
+varley said|.|bbc_business_126.txt|.|2
+panke|.|bbc_business_141.txt|.|5
+loan collateral|.|bbc_business_477.txt|.|1
+tokyo|.|bbc_business_032.txt|.|2
+gw|.|bbc_business_327.txt|.|7
+top executives|.|bbc_business_037.txt|.|2
+barred bank|.|bbc_business_492.txt|.|1
+management|.|bbc_business_203.txt|.|3
+biggest bank|.|bbc_business_473.txt|.|1|.|bbc_business_126.txt|.|1
+government lawyers|.|bbc_business_104.txt|.|2
+kronor|.|bbc_business_118.txt|.|8
+standard trust bank|.|bbc_business_473.txt|.|1
+largest bank|.|bbc_business_297.txt|.|1
+bid|.|bbc_business_364.txt|.|2|.|bbc_business_202.txt|.|2|.|bbc_business_162.txt|.|2|.|bbc_business_264.txt|.|6|.|bbc_business_171.txt|.|3|.|bbc_business_203.txt|.|5|.|bbc_business_242.txt|.|7|.|bbc_business_421.txt|.|6|.|bbc_business_125.txt|.|5|.|bbc_business_179.txt|.|5|.|bbc_business_293.txt|.|5|.|bbc_business_316.txt|.|6|.|bbc_business_319.txt|.|3|.|bbc_business_279.txt|.|5|.|bbc_business_392.txt|.|3|.|bbc_business_230.txt|.|2|.|bbc_business_366.txt|.|5
+fresh|.|bbc_business_330.txt|.|3
+merger|.|bbc_business_417.txt|.|2
+identity theft|.|bbc_business_185.txt|.|2

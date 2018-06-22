@@ -1,0 +1,38 @@
+317
+website directory|.|WET2395.txt|.|2
+voice|.|WET1218.txt|.|23
+stock image|.|WET1108.txt|.|7
+palm|.|WET3445.txt|.|50|.|WET5831.txt|.|5
+book|.|WET1218.txt|.|189|.|WET2030.txt|.|38|.|WET1926.txt|.|82|.|WET5280.txt|.|31|.|WET5294.txt|.|32|.|WET1544.txt|.|55|.|WET2718.txt|.|18|.|WET621.txt|.|3|.|WET1145.txt|.|27|.|WET1108.txt|.|26|.|WET6221.txt|.|49|.|WET5892.txt|.|119|.|WET5141.txt|.|22|.|WET5989.txt|.|49|.|WET3446.txt|.|50|.|WET2247.txt|.|123|.|WET4655.txt|.|30|.|WET1465.txt|.|12|.|WET3214.txt|.|28|.|WET541.txt|.|45|.|WET5214.txt|.|8|.|WET4694.txt|.|36|.|WET2032.txt|.|13|.|WET1324.txt|.|30|.|WET3841.txt|.|401|.|WET1350.txt|.|89|.|WET785.txt|.|141|.|WET3940.txt|.|21|.|WET1716.txt|.|46|.|WET5279.txt|.|72|.|WET5320.txt|.|15|.|WET3585.txt|.|41|.|WET364.txt|.|43|.|WET810.txt|.|118|.|WET5165.txt|.|36|.|WET2033.txt|.|55|.|WET4245.txt|.|23|.|WET5661.txt|.|29|.|WET2395.txt|.|3|.|WET2521.txt|.|20|.|WET5984.txt|.|67|.|WET1530.txt|.|43|.|WET2386.txt|.|70|.|WET1529.txt|.|55|.|WET586.txt|.|24|.|WET3445.txt|.|56|.|WET3979.txt|.|46|.|WET2631.txt|.|14
+books add|.|WET2247.txt|.|4
+comic book|.|WET1544.txt|.|36|.|WET3979.txt|.|45
+kerry|.|WET510.txt|.|107
+demelants|.|WET6142.txt|.|10
+bk bookstore|.|WET1324.txt|.|3
+bookstore|.|WET1324.txt|.|3
+shaina|.|WET5661.txt|.|18
+middle eastern|.|WET5165.txt|.|18
+energy efficiency|.|WET6307.txt|.|121
+solid motion|.|WET541.txt|.|13
+dark|.|WET1478.txt|.|114|.|WET5230.txt|.|63|.|WET1477.txt|.|198|.|WET5279.txt|.|73|.|WET1530.txt|.|40|.|WET5228.txt|.|201|.|WET5622.txt|.|42|.|WET1883.txt|.|72|.|WET4592.txt|.|2|.|WET5391.txt|.|26|.|WET2750.txt|.|32
+national weather|.|WET388.txt|.|27|.|WET4127.txt|.|35
+forums cheat|.|WET5214.txt|.|6
+tools tasting|.|WET621.txt|.|3
+vocabularies|.|WET4245.txt|.|2|.|WET3630.txt|.|2
+peter block|.|WET1324.txt|.|11
+dhawan and alia|.|WET5661.txt|.|18
+send inquiry|.|WET2631.txt|.|16
+nienburg|.|WET2077.txt|.|22
+nietzsche|.|WET5984.txt|.|19
+book buy|.|WET4245.txt|.|13
+cheap|.|WET1210.txt|.|35|.|WET3445.txt|.|101|.|WET3446.txt|.|48
+sell textbooks|.|WET4245.txt|.|6
+authority|.|WET4245.txt|.|8
+animes|.|WET586.txt|.|2
+logic|.|WET2270.txt|.|14|.|WET1716.txt|.|3
+cheat book|.|WET5214.txt|.|6
+book club|.|WET1350.txt|.|35
+gaston author|.|WET1108.txt|.|7
+programming logic|.|WET1716.txt|.|1
+community link|.|WET1544.txt|.|2
+liberal|.|WET2618.txt|.|22

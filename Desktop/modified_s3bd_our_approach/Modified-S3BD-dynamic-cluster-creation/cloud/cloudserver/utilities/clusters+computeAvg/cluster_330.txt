@@ -1,0 +1,38 @@
+330
+interviews festivals|.|WET5827.txt|.|4
+peter bogdanovich|.|WET5827.txt|.|4
+festivals|.|WET5827.txt|.|4
+brewing company|.|WET1274.txt|.|17
+reviews mac|.|WET4920.txt|.|4
+car rentals|.|WET3653.txt|.|34|.|WET5465.txt|.|170
+rental reviews|.|WET5465.txt|.|255
+kerry|.|WET510.txt|.|107
+mailaots|.|WET1873.txt|.|11
+demelants|.|WET6142.txt|.|10
+reviews|.|WET2137.txt|.|20|.|WET1684.txt|.|32|.|WET5827.txt|.|14|.|WET2456.txt|.|73|.|WET822.txt|.|90|.|WET1873.txt|.|42|.|WET2135.txt|.|19|.|WET3906.txt|.|49|.|WET5015.txt|.|65|.|WET5320.txt|.|18|.|WET1173.txt|.|25|.|WET4148.txt|.|12|.|WET301.txt|.|11|.|WET1788.txt|.|183|.|WET823.txt|.|66|.|WET2390.txt|.|13|.|WET2136.txt|.|22|.|WET1225.txt|.|54|.|WET6098.txt|.|33|.|WET2521.txt|.|31|.|WET1530.txt|.|39|.|WET2419.txt|.|10|.|WET1683.txt|.|29|.|WET1956.txt|.|36|.|WET5026.txt|.|30|.|WET6132.txt|.|42|.|WET5280.txt|.|32|.|WET5468.txt|.|17|.|WET1290.txt|.|106|.|WET4591.txt|.|11|.|WET4920.txt|.|12|.|WET2053.txt|.|4|.|WET2389.txt|.|39|.|WET1274.txt|.|41|.|WET1010.txt|.|11|.|WET6133.txt|.|15|.|WET2062.txt|.|134|.|WET1434.txt|.|38|.|WET1921.txt|.|25|.|WET5325.txt|.|34|.|WET1262.txt|.|157|.|WET5465.txt|.|353|.|WET2347.txt|.|40|.|WET5041.txt|.|82|.|WET1725.txt|.|58|.|WET5818.txt|.|34|.|WET1263.txt|.|51|.|WET5467.txt|.|57|.|WET6131.txt|.|34|.|WET6162.txt|.|70|.|WET3025.txt|.|66|.|WET3220.txt|.|12|.|WET5449.txt|.|77
+economy car rentals|.|WET5465.txt|.|87
+npr visit npr|.|WET6254.txt|.|11|.|WET2521.txt|.|11
+energy efficiency|.|WET6307.txt|.|121
+winesbest|.|WET2456.txt|.|42
+smalltrue|.|WET822.txt|.|15
+objectives and reviews|.|WET301.txt|.|10
+national weather|.|WET388.txt|.|27|.|WET4127.txt|.|35
+criticwire|.|WET5827.txt|.|9
+oracle audit|.|WET301.txt|.|24
+anime online|.|WET1174.txt|.|15|.|WET1173.txt|.|21
+sundance|.|WET5827.txt|.|4
+criticwire sundance|.|WET5827.txt|.|4
+movie reviews|.|WET5041.txt|.|57|.|WET1290.txt|.|76|.|WET6162.txt|.|69|.|WET2419.txt|.|10|.|WET1921.txt|.|17
+writes about wine|.|WET2456.txt|.|8
+news reviews|.|WET5827.txt|.|4
+garage|.|WET2136.txt|.|121|.|WET2137.txt|.|112|.|WET2135.txt|.|109|.|WET397.txt|.|9|.|WET5876.txt|.|83|.|WET4136.txt|.|2|.|WET2730.txt|.|22
+nienburg|.|WET2077.txt|.|22
+specialsreserve|.|WET1184.txt|.|72|.|WET4937.txt|.|82
+rentals|.|WET3653.txt|.|34|.|WET5465.txt|.|170|.|WET119.txt|.|22|.|WET3950.txt|.|34|.|WET816.txt|.|43|.|WET5592.txt|.|28|.|WET2631.txt|.|50|.|WET1856.txt|.|13|.|WET2763.txt|.|8
+home reviews community looks|.|WET3025.txt|.|7
+recenzji|.|WET3509.txt|.|41
+issues and global warming|.|WET2773.txt|.|364
+awards spotlight|.|WET5827.txt|.|4
+bogdanovich|.|WET5827.txt|.|4
+theaters movies|.|WET6162.txt|.|9
+gpus mobile|.|WET4920.txt|.|6

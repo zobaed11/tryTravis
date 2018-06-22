@@ -1,0 +1,38 @@
+371
+frais de service|.|WET2252.txt|.|15
+firstprice|.|WET923.txt|.|33
+top players|.|WET5948.txt|.|9
+boston celtics|.|WET2024.txt|.|6
+corporate creative|.|WET963.txt|.|33
+shawl scarf|.|WET1706.txt|.|30
+top searches|.|WET2614.txt|.|10
+summer|.|WET5601.txt|.|45|.|WET3827.txt|.|14|.|WET5017.txt|.|42|.|WET2490.txt|.|26|.|WET3275.txt|.|24|.|WET6034.txt|.|27
+lineups|.|WET5765.txt|.|22
+piano|.|WET2909.txt|.|24|.|WET2654.txt|.|848|.|WET6175.txt|.|104|.|WET29.txt|.|18|.|WET2433.txt|.|59|.|WET2655.txt|.|623|.|WET2866.txt|.|277|.|WET2867.txt|.|73
+top|.|WET3189.txt|.|50|.|WET1853.txt|.|30|.|WET2260.txt|.|225|.|WET5712.txt|.|7|.|WET1684.txt|.|30|.|WET5128.txt|.|47|.|WET6022.txt|.|35|.|WET4658.txt|.|55|.|WET1413.txt|.|196|.|WET4359.txt|.|84|.|WET620.txt|.|58|.|WET2456.txt|.|23|.|WET5765.txt|.|371|.|WET1568.txt|.|89|.|WET179.txt|.|14|.|WET390.txt|.|131|.|WET1377.txt|.|46|.|WET4011.txt|.|17|.|WET1508.txt|.|8|.|WET2368.txt|.|38|.|WET963.txt|.|52|.|WET5316.txt|.|83|.|WET2024.txt|.|200|.|WET5524.txt|.|185|.|WET3076.txt|.|31|.|WET5063.txt|.|84|.|WET535.txt|.|20|.|WET3101.txt|.|34|.|WET5260.txt|.|30|.|WET5948.txt|.|30|.|WET5017.txt|.|54|.|WET4517.txt|.|23|.|WET1780.txt|.|46|.|WET517.txt|.|13|.|WET6030.txt|.|23|.|WET2356.txt|.|44|.|WET2614.txt|.|23|.|WET534.txt|.|14|.|WET1378.txt|.|21|.|WET1789.txt|.|193|.|WET5789.txt|.|106|.|WET1964.txt|.|12|.|WET4858.txt|.|34|.|WET3815.txt|.|83|.|WET6132.txt|.|33|.|WET4280.txt|.|22|.|WET260.txt|.|7|.|WET2866.txt|.|126|.|WET1249.txt|.|126|.|WET4329.txt|.|18|.|WET3079.txt|.|70|.|WET6027.txt|.|22|.|WET3190.txt|.|63|.|WET439.txt|.|16|.|WET4010.txt|.|18|.|WET1620.txt|.|97|.|WET1019.txt|.|17|.|WET4867.txt|.|19|.|WET112.txt|.|25|.|WET1915.txt|.|17|.|WET4702.txt|.|64|.|WET5164.txt|.|129|.|WET3121.txt|.|19|.|WET5546.txt|.|62|.|WET5783.txt|.|36|.|WET5766.txt|.|106|.|WET2872.txt|.|70|.|WET1072.txt|.|55|.|WET450.txt|.|7|.|WET5517.txt|.|89|.|WET2793.txt|.|23|.|WET1706.txt|.|85|.|WET4610.txt|.|46|.|WET6034.txt|.|169|.|WET4683.txt|.|58
+top gear|.|WET3121.txt|.|6
+top in pg position|.|WET2024.txt|.|12
+top seller|.|WET2368.txt|.|28
+counter top microwavegeneral|.|WET390.txt|.|108
+orlando magic|.|WET2024.txt|.|6
+orlando|.|WET2024.txt|.|7
+nike air|.|WET475.txt|.|12
+standings division standings|.|WET5765.txt|.|11
+lineups top benches|.|WET5765.txt|.|22
+fantasy basketball|.|WET2024.txt|.|6
+ats|.|WET4858.txt|.|113|.|WET1109.txt|.|74
+rocket league|.|WET5805.txt|.|7
+item|.|WET5721.txt|.|21|.|WET1781.txt|.|43|.|WET3217.txt|.|81|.|WET4273.txt|.|155|.|WET4329.txt|.|110|.|WET3429.txt|.|27|.|WET5663.txt|.|95|.|WET6120.txt|.|47|.|WET4088.txt|.|22|.|WET4274.txt|.|44|.|WET439.txt|.|88|.|WET584.txt|.|140|.|WET4185.txt|.|220|.|WET2592.txt|.|83|.|WET4194.txt|.|154|.|WET268.txt|.|208|.|WET4186.txt|.|176|.|WET1292.txt|.|89|.|WET4262.txt|.|154|.|WET440.txt|.|242|.|WET4279.txt|.|242|.|WET585.txt|.|176|.|WET4907.txt|.|32|.|WET4195.txt|.|154|.|WET449.txt|.|111|.|WET4330.txt|.|133|.|WET517.txt|.|110|.|WET529.txt|.|177|.|WET1259.txt|.|299|.|WET4263.txt|.|67|.|WET534.txt|.|132|.|WET1923.txt|.|109
+package|.|WET4076.txt|.|17
+celtics|.|WET2024.txt|.|6
+benches|.|WET5765.txt|.|22
+heels|.|WET4914.txt|.|442|.|WET3606.txt|.|15|.|WET5128.txt|.|44|.|WET1432.txt|.|18
+counter|.|WET390.txt|.|110
+inregister|.|WET3101.txt|.|24
+phoenix|.|WET3509.txt|.|116|.|WET2024.txt|.|9|.|WET5765.txt|.|138
+hobos|.|WET1378.txt|.|18
+wikimedia foundation|.|WET3559.txt|.|13
+transfer|.|WET6308.txt|.|11|.|WET3694.txt|.|38
+kings san|.|WET2024.txt|.|6
+nba standings|.|WET5765.txt|.|22
+spas|.|WET5789.txt|.|57

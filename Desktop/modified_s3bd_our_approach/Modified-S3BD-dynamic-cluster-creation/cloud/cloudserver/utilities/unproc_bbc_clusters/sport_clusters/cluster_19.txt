@@ -1,0 +1,91 @@
+19
+iranian|.|bbc_sport_136.txt|.|2
+tour new|.|bbc_sport_402.txt|.|1
+forced|.|bbc_sport_428.txt|.|2|.|bbc_sport_506.txt|.|2|.|bbc_sport_055.txt|.|2
+south africa|.|bbc_sport_377.txt|.|3|.|bbc_sport_369.txt|.|1|.|bbc_sport_190.txt|.|3
+adelaide|.|bbc_sport_498.txt|.|2|.|bbc_sport_458.txt|.|2|.|bbc_sport_453.txt|.|2
+reach the last|.|bbc_sport_508.txt|.|1
+assistant referee|.|bbc_sport_166.txt|.|1
+rugby aid|.|bbc_sport_328.txt|.|2|.|bbc_sport_329.txt|.|2
+bryan twins|.|bbc_sport_472.txt|.|2
+twins|.|bbc_sport_472.txt|.|2
+number|.|bbc_sport_425.txt|.|2|.|bbc_sport_433.txt|.|2|.|bbc_sport_476.txt|.|3|.|bbc_sport_428.txt|.|3|.|bbc_sport_368.txt|.|2|.|bbc_sport_506.txt|.|2|.|bbc_sport_464.txt|.|2|.|bbc_sport_441.txt|.|3
+pushing referee|.|bbc_sport_166.txt|.|1
+paseo|.|bbc_sport_317.txt|.|2
+charity|.|bbc_sport_402.txt|.|4
+host|.|bbc_sport_402.txt|.|2
+officials|.|bbc_sport_406.txt|.|1|.|bbc_sport_289.txt|.|1|.|bbc_sport_298.txt|.|5
+downing|.|bbc_sport_145.txt|.|2
+anoeta stadium|.|bbc_sport_317.txt|.|2
+starace|.|bbc_sport_508.txt|.|2
+australian rugby|.|bbc_sport_402.txt|.|2
+groenefeld|.|bbc_sport_504.txt|.|2
+mauritius|.|bbc_sport_190.txt|.|5
+rain|.|bbc_sport_434.txt|.|2
+broke|.|bbc_sport_444.txt|.|2|.|bbc_sport_483.txt|.|2|.|bbc_sport_458.txt|.|2|.|bbc_sport_511.txt|.|2
+millwall|.|bbc_sport_234.txt|.|5
+hashemian|.|bbc_sport_136.txt|.|2
+iran|.|bbc_sport_136.txt|.|2
+judo|.|bbc_sport_136.txt|.|2
+nalbandian|.|bbc_sport_483.txt|.|5
+seychelles|.|bbc_sport_190.txt|.|6
+match points|.|bbc_sport_428.txt|.|2
+troncon|.|bbc_sport_305.txt|.|2
+bafana bafana|.|bbc_sport_190.txt|.|2
+ljubicic|.|bbc_sport_425.txt|.|4|.|bbc_sport_433.txt|.|4|.|bbc_sport_434.txt|.|2
+captains|.|bbc_sport_339.txt|.|2
+almagro|.|bbc_sport_508.txt|.|2
+side to match|.|bbc_sport_305.txt|.|1
+bernabeu stadium|.|bbc_sport_245.txt|.|2
+spaniard|.|bbc_sport_459.txt|.|2
+nalbandian broke|.|bbc_sport_483.txt|.|2
+pelous|.|bbc_sport_339.txt|.|2
+bath prop|.|bbc_sport_334.txt|.|2
+patrick vieira|.|bbc_sport_137.txt|.|3
+southern hemisphere|.|bbc_sport_402.txt|.|2
+anoeta|.|bbc_sport_317.txt|.|2
+match point|.|bbc_sport_421.txt|.|2
+switched|.|bbc_sport_317.txt|.|2
+last eight|.|bbc_sport_508.txt|.|2
+liverpool fans|.|bbc_sport_234.txt|.|1
+play the final|.|bbc_sport_247.txt|.|2
+charged|.|bbc_sport_234.txt|.|5
+aid|.|bbc_sport_328.txt|.|2|.|bbc_sport_331.txt|.|2|.|bbc_sport_329.txt|.|2|.|bbc_sport_339.txt|.|2
+rfu|.|bbc_sport_343.txt|.|5
+southern|.|bbc_sport_402.txt|.|3
+semis|.|bbc_sport_483.txt|.|1
+feels|.|bbc_sport_504.txt|.|2|.|bbc_sport_389.txt|.|1
+time remaining|.|bbc_sport_247.txt|.|2
+spokesman said|.|bbc_sport_136.txt|.|2
+bob bryan|.|bbc_sport_472.txt|.|2
+semis and finals|.|bbc_sport_483.txt|.|1
+facing|.|bbc_sport_343.txt|.|1
+paseo de anoeta stadium|.|bbc_sport_317.txt|.|2
+sydney to host|.|bbc_sport_402.txt|.|1
+next play|.|bbc_sport_468.txt|.|1
+graz|.|bbc_sport_145.txt|.|2
+said kirwan|.|bbc_sport_305.txt|.|1
+two sets|.|bbc_sport_483.txt|.|3
+trouble|.|bbc_sport_234.txt|.|3
+hemisphere|.|bbc_sport_382.txt|.|2|.|bbc_sport_339.txt|.|2|.|bbc_sport_402.txt|.|2
+charity match|.|bbc_sport_402.txt|.|4
+decisions|.|bbc_sport_298.txt|.|4
+roy|.|bbc_sport_137.txt|.|2|.|bbc_sport_282.txt|.|2
+hamstring|.|bbc_sport_418.txt|.|2|.|bbc_sport_145.txt|.|2|.|bbc_sport_055.txt|.|4
+umpire|.|bbc_sport_434.txt|.|2
+aid match|.|bbc_sport_328.txt|.|2|.|bbc_sport_329.txt|.|2|.|bbc_sport_339.txt|.|2
+england have named|.|bbc_sport_334.txt|.|1
+spanish|.|bbc_sport_508.txt|.|2|.|bbc_sport_117.txt|.|2|.|bbc_sport_170.txt|.|5|.|bbc_sport_216.txt|.|10
+spokesman|.|bbc_sport_136.txt|.|2
+boro|.|bbc_sport_145.txt|.|2|.|bbc_sport_222.txt|.|3
+looked|.|bbc_sport_425.txt|.|1|.|bbc_sport_433.txt|.|1|.|bbc_sport_488.txt|.|3
+roy keane|.|bbc_sport_137.txt|.|2
+paseo de anoeta|.|bbc_sport_317.txt|.|2
+pushing|.|bbc_sport_420.txt|.|2|.|bbc_sport_166.txt|.|1
+dubai|.|bbc_sport_425.txt|.|2|.|bbc_sport_433.txt|.|2|.|bbc_sport_436.txt|.|2|.|bbc_sport_381.txt|.|3|.|bbc_sport_422.txt|.|2|.|bbc_sport_434.txt|.|2|.|bbc_sport_428.txt|.|2|.|bbc_sport_430.txt|.|2
+june|.|bbc_sport_091.txt|.|2|.|bbc_sport_367.txt|.|3
+israel|.|bbc_sport_437.txt|.|2|.|bbc_sport_136.txt|.|3
+unseeded|.|bbc_sport_508.txt|.|2
+travel|.|bbc_sport_136.txt|.|2
+paul|.|bbc_sport_062.txt|.|2|.|bbc_sport_166.txt|.|2
+stevens|.|bbc_sport_334.txt|.|5

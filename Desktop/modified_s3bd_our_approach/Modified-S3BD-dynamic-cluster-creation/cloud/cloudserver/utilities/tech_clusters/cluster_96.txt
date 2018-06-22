@@ -1,0 +1,17 @@
+96
+direct people|.|010.txt|.|1
+michigan|.|236.txt|.|3
+isbn|.|010.txt|.|3
+scan|.|236.txt|.|2
+direct|.|010.txt|.|1
+google|.|257.txt|.|6|.|269.txt|.|2|.|186.txt|.|10|.|162.txt|.|2|.|010.txt|.|9|.|076.txt|.|8|.|236.txt|.|9|.|108.txt|.|5|.|149.txt|.|2|.|267.txt|.|5
+google has launched|.|076.txt|.|1
+search query|.|076.txt|.|2
+isbn number|.|010.txt|.|2
+toolbar|.|010.txt|.|3
+pages|.|236.txt|.|2
+autolink feature|.|010.txt|.|3
+york public|.|236.txt|.|2
+scanned|.|236.txt|.|3
+google to scan|.|236.txt|.|2
+spaces|.|162.txt|.|2|.|149.txt|.|2

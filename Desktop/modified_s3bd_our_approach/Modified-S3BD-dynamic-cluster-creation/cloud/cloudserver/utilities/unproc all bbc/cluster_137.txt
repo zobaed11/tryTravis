@@ -1,0 +1,64 @@
+cyril fletcher|.|bbc_entertainment_190.txt|.|2
+connectors|.|bbc_tech_360.txt|.|2
+tv|.|bbc_entertainment_173.txt|.|2|.|bbc_tech_240.txt|.|9|.|bbc_entertainment_190.txt|.|4|.|bbc_tech_070.txt|.|3|.|bbc_tech_046.txt|.|2|.|bbc_entertainment_211.txt|.|2|.|bbc_tech_011.txt|.|9|.|bbc_entertainment_166.txt|.|2|.|bbc_tech_322.txt|.|14|.|bbc_entertainment_203.txt|.|3|.|bbc_tech_216.txt|.|12|.|bbc_entertainment_171.txt|.|2|.|bbc_tech_365.txt|.|6|.|bbc_tech_276.txt|.|4|.|bbc_tech_361.txt|.|7|.|bbc_entertainment_226.txt|.|3|.|bbc_entertainment_310.txt|.|2|.|bbc_politics_249.txt|.|2|.|bbc_entertainment_189.txt|.|3|.|bbc_entertainment_213.txt|.|4|.|bbc_tech_087.txt|.|8|.|bbc_entertainment_367.txt|.|1|.|bbc_entertainment_220.txt|.|4|.|bbc_entertainment_195.txt|.|2|.|bbc_entertainment_165.txt|.|3|.|bbc_sport_283.txt|.|2|.|bbc_entertainment_182.txt|.|6|.|bbc_entertainment_215.txt|.|3|.|bbc_entertainment_207.txt|.|6|.|bbc_tech_113.txt|.|7|.|bbc_tech_059.txt|.|14|.|bbc_tech_076.txt|.|6|.|bbc_entertainment_274.txt|.|1|.|bbc_tech_394.txt|.|7|.|bbc_entertainment_193.txt|.|3|.|bbc_tech_378.txt|.|17|.|bbc_tech_360.txt|.|10|.|bbc_tech_306.txt|.|6|.|bbc_entertainment_217.txt|.|4|.|bbc_tech_349.txt|.|16|.|bbc_entertainment_375.txt|.|2|.|bbc_tech_158.txt|.|8|.|bbc_entertainment_222.txt|.|3|.|bbc_entertainment_168.txt|.|2|.|bbc_entertainment_080.txt|.|4|.|bbc_entertainment_191.txt|.|3|.|bbc_entertainment_219.txt|.|2|.|bbc_tech_371.txt|.|5|.|bbc_entertainment_206.txt|.|2|.|bbc_tech_146.txt|.|8|.|bbc_entertainment_210.txt|.|2
+burke|.|bbc_tech_349.txt|.|4
+habits|.|bbc_tech_146.txt|.|2|.|bbc_tech_158.txt|.|2
+research suggests|.|bbc_tech_146.txt|.|1|.|bbc_tech_158.txt|.|1
+tv over broadband|.|bbc_tech_349.txt|.|3
+bring|.|bbc_tech_059.txt|.|2|.|bbc_tech_322.txt|.|2|.|bbc_tech_115.txt|.|2
+said the report|.|bbc_tech_011.txt|.|2
+challenging|.|bbc_tech_158.txt|.|1
+bring music|.|bbc_tech_059.txt|.|1|.|bbc_tech_322.txt|.|1
+protests|.|bbc_business_123.txt|.|1|.|bbc_entertainment_166.txt|.|1
+view|.|bbc_entertainment_193.txt|.|3|.|bbc_politics_328.txt|.|2
+worlds based|.|bbc_tech_113.txt|.|1
+brass eye|.|bbc_entertainment_165.txt|.|3
+options|.|bbc_tech_240.txt|.|2|.|bbc_business_047.txt|.|1
+us television network|.|bbc_entertainment_195.txt|.|1
+george clooney|.|bbc_entertainment_182.txt|.|2
+mobile users|.|bbc_tech_378.txt|.|2
+sharpness|.|bbc_tech_240.txt|.|1
+people watch|.|bbc_tech_216.txt|.|1
+digital terrestrial tv will launch|.|bbc_tech_371.txt|.|1
+flat panel|.|bbc_tech_360.txt|.|3
+andrew|.|bbc_tech_349.txt|.|2
+tv shows|.|bbc_entertainment_190.txt|.|1
+television network|.|bbc_entertainment_195.txt|.|1
+villagers|.|bbc_tech_365.txt|.|3
+berman said|.|bbc_entertainment_226.txt|.|4
+allowing audiences|.|bbc_tech_113.txt|.|1
+austria|.|bbc_tech_365.txt|.|4
+confusion|.|bbc_tech_360.txt|.|2
+germaine greer|.|bbc_entertainment_203.txt|.|2
+lets people|.|bbc_tech_202.txt|.|3|.|bbc_tech_076.txt|.|2
+abuse|.|bbc_entertainment_375.txt|.|3
+sk telecom|.|bbc_tech_378.txt|.|2
+tv set|.|bbc_tech_360.txt|.|2
+media worlds|.|bbc_tech_113.txt|.|1
+gold medal|.|bbc_entertainment_189.txt|.|2
+jupiter|.|bbc_tech_361.txt|.|3|.|bbc_tech_146.txt|.|3|.|bbc_tech_158.txt|.|3
+robbed|.|bbc_sport_283.txt|.|2
+downloads of tv|.|bbc_tech_011.txt|.|1
+moments|.|bbc_entertainment_189.txt|.|2
+sk|.|bbc_tech_378.txt|.|2
+new episodes|.|bbc_tech_011.txt|.|2
+cyril fletcher has died|.|bbc_entertainment_190.txt|.|1
+set|.|bbc_tech_199.txt|.|2|.|bbc_entertainment_155.txt|.|5|.|bbc_sport_028.txt|.|2|.|bbc_entertainment_112.txt|.|2|.|bbc_business_137.txt|.|2|.|bbc_business_146.txt|.|2|.|bbc_politics_101.txt|.|2|.|bbc_tech_124.txt|.|1|.|bbc_tech_360.txt|.|4|.|bbc_sport_511.txt|.|2|.|bbc_politics_085.txt|.|5
+tv channel|.|bbc_entertainment_173.txt|.|2
+sex|.|bbc_entertainment_168.txt|.|5
+allowing|.|bbc_tech_113.txt|.|2
+challenge sky plus|.|bbc_tech_070.txt|.|2
+show american|.|bbc_entertainment_219.txt|.|2
+editing|.|bbc_tech_113.txt|.|3
+byrne|.|bbc_sport_107.txt|.|3
+battle|.|bbc_politics_305.txt|.|4|.|bbc_business_413.txt|.|2|.|bbc_entertainment_147.txt|.|2|.|bbc_business_032.txt|.|2|.|bbc_entertainment_220.txt|.|2|.|bbc_tech_288.txt|.|2
+lcds|.|bbc_tech_360.txt|.|1
+tv import|.|bbc_entertainment_217.txt|.|2
+singles place|.|bbc_sport_431.txt|.|2
+andrew burke|.|bbc_tech_349.txt|.|2
+sympathetically|.|bbc_politics_296.txt|.|2
+snooker hall|.|bbc_politics_190.txt|.|3
+tipped|.|bbc_tech_378.txt|.|2
+tv programmes|.|bbc_tech_070.txt|.|2|.|bbc_tech_011.txt|.|5
+alicia markova|.|bbc_entertainment_021.txt|.|4
+kite|.|bbc_entertainment_375.txt|.|8

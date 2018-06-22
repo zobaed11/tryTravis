@@ -1,0 +1,91 @@
+18
+podcasting|.|bbc_tech_110.txt|.|8
+mr irish|.|bbc_tech_127.txt|.|6|.|bbc_tech_172.txt|.|6
+purushotma|.|bbc_tech_283.txt|.|8
+helping|.|bbc_tech_277.txt|.|1
+ipod|.|bbc_tech_127.txt|.|6|.|bbc_tech_332.txt|.|5|.|bbc_tech_110.txt|.|4|.|bbc_tech_040.txt|.|5|.|bbc_tech_148.txt|.|5|.|bbc_tech_172.txt|.|6
+mr senanayake|.|bbc_tech_142.txt|.|2
+gates said|.|bbc_tech_134.txt|.|2
+mouse|.|bbc_tech_068.txt|.|2|.|bbc_tech_353.txt|.|7
+molyneux|.|bbc_tech_100.txt|.|5
+faster|.|bbc_tech_205.txt|.|2|.|bbc_tech_023.txt|.|2
+xml|.|bbc_tech_110.txt|.|2
+visiting the website|.|bbc_tech_385.txt|.|2
+mr gates|.|bbc_tech_134.txt|.|5
+ravi|.|bbc_tech_283.txt|.|2
+mr gupta|.|bbc_tech_106.txt|.|4
+club|.|bbc_tech_277.txt|.|2
+computer infection|.|bbc_tech_385.txt|.|1
+logs|.|bbc_tech_151.txt|.|2|.|bbc_tech_106.txt|.|2
+lionhead studios|.|bbc_tech_100.txt|.|2
+games help|.|bbc_tech_283.txt|.|1
+helping disabled|.|bbc_tech_277.txt|.|1
+adam|.|bbc_tech_110.txt|.|3
+months|.|bbc_tech_093.txt|.|2|.|bbc_tech_281.txt|.|2
+virus writers|.|bbc_tech_281.txt|.|5
+crimes|.|bbc_tech_281.txt|.|1
+text messages|.|bbc_tech_152.txt|.|4|.|bbc_tech_106.txt|.|1|.|bbc_tech_142.txt|.|5
+jacobsen|.|bbc_tech_271.txt|.|5
+signals|.|bbc_tech_142.txt|.|1
+cyber crimes|.|bbc_tech_281.txt|.|1
+raskin|.|bbc_tech_068.txt|.|7
+october|.|bbc_tech_271.txt|.|2
+core network|.|bbc_tech_023.txt|.|2
+mr sigarchi|.|bbc_tech_035.txt|.|4
+employees|.|bbc_tech_068.txt|.|1
+gadget show|.|bbc_tech_127.txt|.|2|.|bbc_tech_172.txt|.|2
+gear|.|bbc_tech_277.txt|.|4
+trading|.|bbc_tech_385.txt|.|1
+motorsport|.|bbc_tech_277.txt|.|5
+mr raskin|.|bbc_tech_068.txt|.|6
+arrested|.|bbc_tech_271.txt|.|1
+visiting|.|bbc_tech_385.txt|.|2
+bot|.|bbc_tech_281.txt|.|5|.|bbc_tech_357.txt|.|9
+mass|.|bbc_tech_297.txt|.|1|.|bbc_tech_260.txt|.|1
+blogger|.|bbc_tech_016.txt|.|5|.|bbc_tech_106.txt|.|4
+show|.|bbc_tech_127.txt|.|3|.|bbc_tech_347.txt|.|12|.|bbc_tech_172.txt|.|3
+irish|.|bbc_tech_127.txt|.|7|.|bbc_tech_282.txt|.|2|.|bbc_tech_172.txt|.|7
+lankan|.|bbc_tech_106.txt|.|2
+phone signals|.|bbc_tech_142.txt|.|1
+believe|.|bbc_tech_283.txt|.|1
+died|.|bbc_tech_068.txt|.|2
+interface|.|bbc_tech_068.txt|.|4
+cell phone|.|bbc_tech_142.txt|.|2
+disabled people|.|bbc_tech_277.txt|.|2
+minis|.|bbc_tech_127.txt|.|2|.|bbc_tech_172.txt|.|2
+gupta|.|bbc_tech_106.txt|.|5
+disaster|.|bbc_tech_106.txt|.|2|.|bbc_tech_142.txt|.|4
+jailed|.|bbc_tech_035.txt|.|1
+gates|.|bbc_tech_134.txt|.|7
+believes|.|bbc_tech_283.txt|.|5
+learn and play|.|bbc_tech_283.txt|.|1
+sms|.|bbc_tech_142.txt|.|4
+gates opens|.|bbc_tech_134.txt|.|1
+website mentioned|.|bbc_tech_385.txt|.|1
+endeavour|.|bbc_tech_277.txt|.|3
+disabled|.|bbc_tech_277.txt|.|5
+man|.|bbc_tech_209.txt|.|2|.|bbc_tech_271.txt|.|2
+mentioned|.|bbc_tech_385.txt|.|1
+mr hogan|.|bbc_tech_281.txt|.|5
+honour|.|bbc_tech_100.txt|.|4
+senanayake|.|bbc_tech_142.txt|.|3
+learn|.|bbc_tech_283.txt|.|3|.|bbc_tech_121.txt|.|2
+purushotma believes|.|bbc_tech_283.txt|.|3
+motorsport endeavour|.|bbc_tech_277.txt|.|3
+asia|.|bbc_tech_106.txt|.|2
+mr curry|.|bbc_tech_110.txt|.|5
+lionhead|.|bbc_tech_100.txt|.|3
+sri|.|bbc_tech_106.txt|.|5
+mr jacobsen|.|bbc_tech_271.txt|.|4
+macworld|.|bbc_tech_297.txt|.|2|.|bbc_tech_248.txt|.|2|.|bbc_tech_260.txt|.|2
+using sms|.|bbc_tech_142.txt|.|1
+booms|.|bbc_tech_281.txt|.|1
+tansley|.|bbc_tech_277.txt|.|4
+hacker|.|bbc_tech_271.txt|.|2
+mr jobs|.|bbc_tech_297.txt|.|4|.|bbc_tech_260.txt|.|4
+ipod minis|.|bbc_tech_127.txt|.|2|.|bbc_tech_172.txt|.|2
+sri lankan|.|bbc_tech_106.txt|.|2
+uses|.|bbc_tech_006.txt|.|1|.|bbc_tech_023.txt|.|1
+apple has unveiled|.|bbc_tech_297.txt|.|1|.|bbc_tech_260.txt|.|1
+ravi purushotma|.|bbc_tech_283.txt|.|2
+mr purushotma|.|bbc_tech_283.txt|.|6

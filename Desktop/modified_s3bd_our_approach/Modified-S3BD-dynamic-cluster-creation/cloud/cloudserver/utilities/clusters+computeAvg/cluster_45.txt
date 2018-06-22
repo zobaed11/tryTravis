@@ -1,0 +1,38 @@
+45
+square cushion|.|WET5896.txt|.|12
+map collection cuban|.|WET4385.txt|.|23
+dispatch|.|WET5402.txt|.|51
+country fencing|.|WET3171.txt|.|27
+cat center|.|WET2635.txt|.|18
+dailytech|.|WET5350.txt|.|23|.|WET1600.txt|.|29
+denver municipal facts|.|WET284.txt|.|25
+textbooks|.|WET5216.txt|.|53|.|WET1465.txt|.|51|.|WET5927.txt|.|55|.|WET4245.txt|.|18
+building|.|WET284.txt|.|12|.|WET204.txt|.|5
+denver building permits|.|WET284.txt|.|11
+miami|.|WET3113.txt|.|26|.|WET4385.txt|.|249|.|WET360.txt|.|67|.|WET3114.txt|.|25
+goose hunting|.|WET1695.txt|.|35
+subscribe to distribution|.|WET3487.txt|.|11
+solve puzzle|.|WET5881.txt|.|5
+bulls|.|WET4612.txt|.|78
+dimension|.|WET246.txt|.|11
+new cookbooks|.|WET4997.txt|.|10
+gcpd|.|WET1889.txt|.|199
+refillsink erasersnovelty|.|WET5879.txt|.|20
+forum topic|.|WET1736.txt|.|48
+counter top|.|WET390.txt|.|110
+marco|.|WET4192.txt|.|25
+postcards cuban|.|WET4385.txt|.|23
+active|.|WET1676.txt|.|22|.|WET5127.txt|.|7|.|WET4865.txt|.|81|.|WET71.txt|.|35|.|WET5541.txt|.|30|.|WET5709.txt|.|7|.|WET5614.txt|.|44|.|WET5162.txt|.|5|.|WET1875.txt|.|36|.|WET4015.txt|.|5|.|WET5615.txt|.|12|.|WET2220.txt|.|56
+rpgfan|.|WET2796.txt|.|47
+court|.|WET3418.txt|.|25|.|WET1014.txt|.|29|.|WET3703.txt|.|72|.|WET4757.txt|.|44|.|WET6267.txt|.|24|.|WET170.txt|.|102|.|WET320.txt|.|12|.|WET650.txt|.|68|.|WET3273.txt|.|14
+chalmers|.|WET3345.txt|.|30
+black hawk|.|WET2065.txt|.|8
+neighborhood b barnum|.|WET284.txt|.|11
+permits|.|WET284.txt|.|11
+cuban|.|WET4385.txt|.|165|.|WET4386.txt|.|29|.|WET645.txt|.|144
+defaults|.|WET1009.txt|.|44
+historical photographs|.|WET4385.txt|.|230|.|WET645.txt|.|173|.|WET3976.txt|.|71
+firmy|.|WET5476.txt|.|28
+arms|.|WET5126.txt|.|73|.|WET3933.txt|.|54|.|WET5496.txt|.|10|.|WET3934.txt|.|10
+new mexico|.|WET6242.txt|.|25|.|WET3636.txt|.|9|.|WET323.txt|.|342
+find results|.|WET293.txt|.|11

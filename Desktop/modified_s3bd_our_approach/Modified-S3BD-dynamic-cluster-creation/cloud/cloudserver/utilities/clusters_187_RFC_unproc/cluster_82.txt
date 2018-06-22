@@ -1,0 +1,120 @@
+resource managers|.|rfc2768.txt|.|17
+differentiated|.|rfc2990.txt|.|21|.|rfc2430.txt|.|32|.|rfc3747.txt|.|72|.|rfc2638.txt|.|48|.|rfc5865.txt|.|9|.|rfc3662.txt|.|10|.|rfc3754.txt|.|27|.|rfc2475.txt|.|75|.|rfc2474.txt|.|67|.|rfc3289.txt|.|193
+insensitive|.|rfc3712.txt|.|8
+popp|.|rfc2972.txt|.|13
+infrastructure device|.|rfc4778.txt|.|19
+services monitoring mib|.|rfc2788.txt|.|32|.|rfc2248.txt|.|6
+transcoding services|.|rfc3351.txt|.|16|.|rfc5370.txt|.|10|.|rfc5369.txt|.|19
+mos|.|rfc5677.txt|.|67
+rousskov|.|rfc3914.txt|.|20
+impaired|.|rfc3351.txt|.|18
+internet fax gateways|.|rfc4161.txt|.|13
+opsec practices january|.|rfc4778.txt|.|36
+optional services for internet fax|.|rfc4161.txt|.|12
+mobility server|.|rfc5677.txt|.|50
+baker|.|rfc2214.txt|.|12|.|rfc6296.txt|.|36|.|rfc2096.txt|.|25|.|rfc6180.txt|.|25|.|rfc3236.txt|.|11|.|rfc3289.txt|.|123
+network services monitoring mib|.|rfc2788.txt|.|32
+request uri|.|rfc2543.txt|.|1|.|rfc4240.txt|.|18
+nrs|.|rfc3754.txt|.|27
+architecture for differentiated|.|rfc2475.txt|.|36
+hearing and speech impaired|.|rfc3351.txt|.|16
+voice activated|.|rfc3351.txt|.|2
+metro|.|rfc6005.txt|.|7
+handelman|.|rfc2724.txt|.|21
+consideration|.|rfc4902.txt|.|18|.|rfc5016.txt|.|28|.|rfc3835.txt|.|21|.|rfc6194.txt|.|6|.|rfc2846.txt|.|16
+pint mib|.|rfc3055.txt|.|24
+opes processor|.|rfc3838.txt|.|11|.|rfc3836.txt|.|49|.|rfc3897.txt|.|14|.|rfc4496.txt|.|18|.|rfc4236.txt|.|53
+media server|.|rfc4463.txt|.|51|.|rfc4240.txt|.|88|.|rfc5707.txt|.|345|.|rfc5022.txt|.|211|.|rfc5616.txt|.|128|.|rfc5167.txt|.|23|.|rfc4722.txt|.|210|.|rfc5552.txt|.|94|.|rfc5567.txt|.|67
+location information|.|rfc4119.txt|.|40|.|rfc5986.txt|.|20|.|rfc6280.txt|.|128|.|rfc5491.txt|.|33|.|rfc3693.txt|.|78|.|rfc5808.txt|.|44|.|rfc5580.txt|.|122
+list services|.|rfc5363.txt|.|1
+netconf client|.|rfc6243.txt|.|13|.|rfc5381.txt|.|25
+scram|.|rfc5802.txt|.|112|.|rfc5803.txt|.|25
+mcdonald|.|rfc3808.txt|.|18|.|rfc3712.txt|.|36
+interface to voicexml|.|rfc5552.txt|.|39
+integrated services mappings low|.|rfc2688.txt|.|15
+building block|.|rfc3450.txt|.|73|.|rfc5775.txt|.|56|.|rfc5401.txt|.|45|.|rfc3452.txt|.|34|.|rfc3269.txt|.|53
+callout connections|.|rfc3836.txt|.|14
+fred|.|rfc389.txt|.|3
+printer services|.|rfc3712.txt|.|34
+idxp|.|rfc4767.txt|.|151
+implementing|.|rfc387.txt|.|6|.|rfc3114.txt|.|14|.|rfc5381.txt|.|25
+maker|.|rfc3693.txt|.|28|.|rfc3694.txt|.|29
+boundary node|.|rfc3754.txt|.|21
+hard of hearing|.|rfc3351.txt|.|50
+tpm|.|rfc3577.txt|.|35
+indicating resolver support|.|rfc3225.txt|.|6
+service urn|.|rfc5031.txt|.|30
+consideration section|.|rfc2846.txt|.|16
+user services|.|rfc423.txt|.|2|.|rfc389.txt|.|2
+cisco systems netflow|.|rfc3954.txt|.|36
+performance metrics|.|rfc6248.txt|.|8|.|rfc2330.txt|.|46|.|rfc4148.txt|.|25|.|rfc6076.txt|.|32|.|rfc3763.txt|.|3
+realnames|.|rfc2972.txt|.|4
+authentication technologies|.|rfc5068.txt|.|3
+sip media services|.|rfc4240.txt|.|23
+dos attacks|.|rfc3882.txt|.|7|.|rfc3837.txt|.|6
+absolute true and false|.|rfc4526.txt|.|11
+services performed|.|rfc3752.txt|.|8
+email message|.|rfc4496.txt|.|12
+open pluggable edge|.|rfc3837.txt|.|6|.|rfc4496.txt|.|8|.|rfc4902.txt|.|11|.|rfc3914.txt|.|7
+msfd december|.|rfc5677.txt|.|24
+transcoding model|.|rfc5370.txt|.|13|.|rfc5369.txt|.|7
+opes august|.|rfc3837.txt|.|13
+sip interface|.|rfc5552.txt|.|38
+enhanced security services|.|rfc2634.txt|.|58
+pint services|.|rfc3055.txt|.|13
+services field|.|rfc5483.txt|.|23|.|rfc2474.txt|.|25
+operators of email|.|rfc5068.txt|.|1
+internet registries|.|rfc3707.txt|.|31
+davie cisco|.|rfc2688.txt|.|2
+fax gateways|.|rfc4161.txt|.|13
+www servers|.|rfc2039.txt|.|19
+experiences|.|rfc5483.txt|.|33|.|rfc5632.txt|.|13
+mobility services transport|.|rfc5164.txt|.|16
+regexp field|.|rfc5483.txt|.|24
+netconf messages|.|rfc5381.txt|.|11
+kaeo|.|rfc4778.txt|.|39
+systems netflow|.|rfc3954.txt|.|36
+speech services|.|rfc4313.txt|.|21
+edge services|.|rfc4496.txt|.|8|.|rfc4902.txt|.|11
+smtp dialog|.|rfc4496.txt|.|10
+enum experiences|.|rfc5483.txt|.|29
+tip user|.|rfc567.txt|.|1
+schulzrinne standards|.|rfc3966.txt|.|17|.|rfc5031.txt|.|15|.|rfc2733.txt|.|26|.|rfc4776.txt|.|19|.|rfc3263.txt|.|17
+security practices|.|rfc4778.txt|.|16
+handlespace|.|rfc5351.txt|.|14|.|rfc5353.txt|.|105|.|rfc5355.txt|.|10
+network services monitoring|.|rfc2788.txt|.|32|.|rfc2248.txt|.|6
+nrs problem|.|rfc3754.txt|.|27
+book|.|rfc6133.txt|.|5|.|rfc2972.txt|.|6|.|rfc3187.txt|.|12|.|rfc3017.txt|.|76|.|rfc2477.txt|.|36|.|rfc2194.txt|.|70
+netlink|.|rfc3549.txt|.|97
+service identifiers|.|rfc5031.txt|.|5|.|rfc3639.txt|.|9
+scheduler|.|rfc3317.txt|.|107|.|rfc3670.txt|.|94|.|rfc3289.txt|.|96
+opes service|.|rfc3838.txt|.|21|.|rfc3752.txt|.|15
+multiple mechanisms|.|rfc2084.txt|.|5
+tso|.|rfc377.txt|.|26|.|rfc390.txt|.|6|.|rfc379.txt|.|39
+mappings low|.|rfc2688.txt|.|15
+pluggable edge|.|rfc4496.txt|.|8|.|rfc4902.txt|.|11|.|rfc3752.txt|.|6
+uri list services|.|rfc5363.txt|.|1
+request contained lists|.|rfc5363.txt|.|1
+row|.|rfc3781.txt|.|85|.|rfc2578.txt|.|51|.|rfc3289.txt|.|118
+hard|.|rfc5218.txt|.|11|.|rfc3351.txt|.|51|.|rfc5461.txt|.|13|.|rfc320.txt|.|4
+evaluation of arpanet services|.|rfc369.txt|.|11
+mibs|.|rfc2039.txt|.|31
+ebrahimi|.|rfc389.txt|.|2
+netlink message|.|rfc3549.txt|.|19
+differentiated services|.|rfc3747.txt|.|72|.|rfc5865.txt|.|8|.|rfc3662.txt|.|10|.|rfc3754.txt|.|27|.|rfc2475.txt|.|71|.|rfc2474.txt|.|57|.|rfc3289.txt|.|192
+speechsc framework|.|rfc4313.txt|.|46
+services mappings low speed|.|rfc2688.txt|.|15
+application mib|.|rfc2039.txt|.|13
+nomenclator|.|rfc2258.txt|.|82
+mih messages|.|rfc5677.txt|.|11
+name services|.|rfc2937.txt|.|9
+user part|.|rfc4240.txt|.|18
+report of a workshop|.|rfc2768.txt|.|30
+open pluggable edge services|.|rfc4496.txt|.|8|.|rfc4902.txt|.|11
+probe|.|rfc5534.txt|.|114|.|rfc4149.txt|.|25|.|rfc2925.txt|.|52|.|rfc4502.txt|.|168|.|rfc2021.txt|.|167
+resolution services|.|rfc2972.txt|.|15|.|rfc2483.txt|.|16
+kaeo informational|.|rfc4778.txt|.|37
+metro ethernet forum|.|rfc6005.txt|.|7
+network equipment|.|rfc5381.txt|.|40
+fleming|.|rfc3712.txt|.|37
+cantor|.|rfc565.txt|.|5

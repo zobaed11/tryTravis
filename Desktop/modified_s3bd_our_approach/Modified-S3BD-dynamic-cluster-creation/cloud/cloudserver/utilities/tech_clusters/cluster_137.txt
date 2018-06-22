@@ -1,0 +1,17 @@
+137
+protect pcs|.|316.txt|.|1
+malicious hackers|.|400.txt|.|2
+addresses|.|117.txt|.|2|.|340.txt|.|2|.|049.txt|.|2
+panda|.|107.txt|.|5
+alleged spammers|.|273.txt|.|2
+privacy|.|079.txt|.|3|.|373.txt|.|3|.|321.txt|.|2|.|161.txt|.|2
+poll|.|031.txt|.|2
+suggest|.|400.txt|.|1|.|178.txt|.|2|.|130.txt|.|2
+overseas|.|123.txt|.|5
+spokesperson confirmed|.|180.txt|.|1|.|133.txt|.|1
+site|.|186.txt|.|5|.|053.txt|.|4|.|088.txt|.|3|.|315.txt|.|14|.|034.txt|.|3|.|101.txt|.|9|.|159.txt|.|4|.|027.txt|.|14|.|255.txt|.|8|.|147.txt|.|4|.|123.txt|.|18
+purchased|.|358.txt|.|1
+amit|.|400.txt|.|2
+avoid|.|034.txt|.|2|.|284.txt|.|2
+amit yoran|.|400.txt|.|2
+online security|.|031.txt|.|2

@@ -1,0 +1,64 @@
+francisco|.|bbc_entertainment_293.txt|.|3|.|bbc_tech_018.txt|.|2|.|bbc_tech_346.txt|.|3
+practice|.|bbc_politics_174.txt|.|3
+containing security details|.|bbc_politics_188.txt|.|1
+homeland security|.|bbc_tech_400.txt|.|3
+division|.|bbc_entertainment_245.txt|.|2|.|bbc_entertainment_228.txt|.|4|.|bbc_tech_400.txt|.|7|.|bbc_business_223.txt|.|2
+singer ian|.|bbc_entertainment_293.txt|.|2
+windows programs|.|bbc_tech_007.txt|.|2|.|bbc_tech_060.txt|.|2
+yoran|.|bbc_tech_400.txt|.|7
+net security|.|bbc_tech_316.txt|.|5
+hackers|.|bbc_tech_284.txt|.|1|.|bbc_tech_400.txt|.|2|.|bbc_tech_357.txt|.|3
+security firm|.|bbc_tech_373.txt|.|2|.|bbc_tech_079.txt|.|2|.|bbc_tech_362.txt|.|4
+hardware|.|bbc_tech_105.txt|.|2|.|bbc_tech_358.txt|.|6
+online security|.|bbc_tech_031.txt|.|2
+protecting|.|bbc_tech_316.txt|.|2
+protect pcs|.|bbc_tech_316.txt|.|1
+reports suggest|.|bbc_tech_400.txt|.|1
+fixes for flaws|.|bbc_tech_007.txt|.|1
+containing|.|bbc_politics_188.txt|.|1
+crimes|.|bbc_tech_281.txt|.|1
+security details|.|bbc_politics_188.txt|.|1
+patches|.|bbc_tech_007.txt|.|2|.|bbc_tech_060.txt|.|2
+honeynet project|.|bbc_tech_357.txt|.|2
+michael ferguson|.|bbc_politics_174.txt|.|2
+alerts|.|bbc_tech_034.txt|.|7
+purchased|.|bbc_tech_358.txt|.|1|.|bbc_business_208.txt|.|1
+cyber crimes|.|bbc_tech_281.txt|.|1
+elfyn|.|bbc_politics_177.txt|.|2
+recruit|.|bbc_tech_357.txt|.|1
+state hospital|.|bbc_politics_174.txt|.|2
+older people|.|bbc_tech_316.txt|.|2
+basic|.|bbc_tech_346.txt|.|3
+report ordered|.|bbc_politics_174.txt|.|1
+homeland|.|bbc_tech_400.txt|.|4
+version of internet|.|bbc_tech_020.txt|.|1
+trusted platform|.|bbc_tech_358.txt|.|1
+honeynet|.|bbc_tech_357.txt|.|3
+fixes|.|bbc_tech_007.txt|.|4
+alerting|.|bbc_tech_034.txt|.|4
+security|.|bbc_politics_188.txt|.|3|.|bbc_tech_398.txt|.|4|.|bbc_tech_007.txt|.|5|.|bbc_tech_334.txt|.|2|.|bbc_tech_177.txt|.|4|.|bbc_tech_292.txt|.|4|.|bbc_tech_346.txt|.|8|.|bbc_politics_174.txt|.|1|.|bbc_tech_316.txt|.|10|.|bbc_tech_020.txt|.|7|.|bbc_tech_373.txt|.|2|.|bbc_tech_284.txt|.|3|.|bbc_politics_326.txt|.|2|.|bbc_tech_123.txt|.|2|.|bbc_tech_034.txt|.|9|.|bbc_tech_060.txt|.|6|.|bbc_tech_281.txt|.|3|.|bbc_tech_039.txt|.|2|.|bbc_tech_357.txt|.|3|.|bbc_tech_079.txt|.|2|.|bbc_tech_031.txt|.|13|.|bbc_tech_227.txt|.|4|.|bbc_tech_362.txt|.|5|.|bbc_entertainment_293.txt|.|2|.|bbc_tech_400.txt|.|8|.|bbc_tech_358.txt|.|8|.|bbc_politics_177.txt|.|7
+playlist|.|bbc_tech_284.txt|.|2
+security researchers|.|bbc_tech_357.txt|.|2
+security software|.|bbc_tech_316.txt|.|2
+trouble|.|bbc_sport_234.txt|.|3|.|bbc_tech_034.txt|.|2
+older|.|bbc_politics_001.txt|.|2|.|bbc_tech_316.txt|.|3
+basic security|.|bbc_tech_346.txt|.|2
+mr hogan|.|bbc_tech_281.txt|.|5
+escape|.|bbc_politics_174.txt|.|2
+san francisco|.|bbc_entertainment_293.txt|.|3|.|bbc_tech_018.txt|.|2|.|bbc_tech_346.txt|.|3
+personal information|.|bbc_tech_227.txt|.|2|.|bbc_tech_398.txt|.|2|.|bbc_tech_369.txt|.|2
+pcs|.|bbc_tech_108.txt|.|2|.|bbc_tech_377.txt|.|2|.|bbc_tech_096.txt|.|2|.|bbc_tech_316.txt|.|3|.|bbc_tech_077.txt|.|2
+cyber security|.|bbc_tech_400.txt|.|5
+security division|.|bbc_tech_400.txt|.|3
+alerting service|.|bbc_tech_034.txt|.|4
+ian brown|.|bbc_entertainment_293.txt|.|2
+filters|.|bbc_tech_362.txt|.|2
+rsa security|.|bbc_tech_346.txt|.|2
+releases|.|bbc_tech_007.txt|.|2|.|bbc_tech_060.txt|.|2
+high security|.|bbc_politics_174.txt|.|1
+new version|.|bbc_tech_020.txt|.|3
+booms|.|bbc_tech_281.txt|.|1
+cyber|.|bbc_tech_217.txt|.|2|.|bbc_tech_281.txt|.|2|.|bbc_tech_400.txt|.|7
+trusted computing|.|bbc_tech_358.txt|.|7
+roses|.|bbc_entertainment_293.txt|.|2
+tell people|.|bbc_tech_034.txt|.|3

@@ -1,0 +1,38 @@
+332
+search text|.|WET3786.txt|.|3
+facebook twitter|.|WET3786.txt|.|7|.|WET3923.txt|.|33|.|WET2239.txt|.|11|.|WET4374.txt|.|72|.|WET2718.txt|.|3|.|WET4435.txt|.|26|.|WET4442.txt|.|5|.|WET5790.txt|.|4|.|WET457.txt|.|4|.|WET4259.txt|.|13|.|WET4649.txt|.|8|.|WET5741.txt|.|43|.|WET1776.txt|.|24|.|WET4352.txt|.|6
+keyword will search|.|WET4442.txt|.|1
+gabe newell|.|WET1535.txt|.|5
+half life|.|WET1535.txt|.|1
+schedule head|.|WET4374.txt|.|72
+twitter terms|.|WET4649.txt|.|8
+us on instagram follow|.|WET4938.txt|.|18
+marie claire|.|WET366.txt|.|8
+using email|.|WET4792.txt|.|22
+help user|.|WET3923.txt|.|2
+scope|.|WET3923.txt|.|2
+facebook youtube|.|WET2536.txt|.|9
+marie|.|WET2791.txt|.|48|.|WET366.txt|.|13
+pinterest follow us|.|WET2625.txt|.|8|.|WET4938.txt|.|18
+knight|.|WET3095.txt|.|4|.|WET5279.txt|.|29|.|WET603.txt|.|8
+thrift|.|WET5790.txt|.|5
+twitter facebook|.|WET4504.txt|.|20|.|WET5673.txt|.|100|.|WET2536.txt|.|9
+linking policy|.|WET5741.txt|.|1
+linking|.|WET5741.txt|.|1
+facebook using twitter|.|WET4792.txt|.|22
+consignment stores|.|WET5790.txt|.|4
+rush|.|WET4374.txt|.|10
+privacy contact|.|WET4649.txt|.|8
+gabe|.|WET1535.txt|.|5
+google signing|.|WET4259.txt|.|4
+instagram masslive|.|WET6062.txt|.|16
+browse previous|.|WET122.txt|.|20
+facebook twitter pinterest|.|WET1820.txt|.|5
+claire twitter|.|WET366.txt|.|4
+preparing|.|WET3326.txt|.|14
+white house|.|WET4519.txt|.|31|.|WET933.txt|.|8
+ceyda|.|WET4082.txt|.|8
+news home|.|WET4504.txt|.|4
+blog facebook|.|WET4649.txt|.|8
+newell|.|WET1535.txt|.|6
+sellers|.|WET5145.txt|.|2|.|WET6285.txt|.|4|.|WET3005.txt|.|2|.|WET5828.txt|.|2|.|WET583.txt|.|3|.|WET1994.txt|.|2|.|WET1392.txt|.|4|.|WET4163.txt|.|3|.|WET875.txt|.|4|.|WET1112.txt|.|2|.|WET5528.txt|.|2|.|WET107.txt|.|1|.|WET2900.txt|.|2|.|WET1120.txt|.|16|.|WET1704.txt|.|5|.|WET3120.txt|.|4|.|WET5625.txt|.|40|.|WET2880.txt|.|2|.|WET3739.txt|.|2|.|WET1394.txt|.|2|.|WET2097.txt|.|2|.|WET4613.txt|.|6|.|WET5919.txt|.|2|.|WET2559.txt|.|2|.|WET3173.txt|.|2|.|WET2483.txt|.|25|.|WET6232.txt|.|2|.|WET2712.txt|.|31|.|WET4895.txt|.|2|.|WET498.txt|.|1|.|WET5948.txt|.|2|.|WET5017.txt|.|30|.|WET5095.txt|.|2|.|WET2419.txt|.|2|.|WET5696.txt|.|2|.|WET1432.txt|.|2|.|WET2882.txt|.|3|.|WET473.txt|.|2|.|WET2442.txt|.|2|.|WET2549.txt|.|3|.|WET5654.txt|.|2|.|WET2000.txt|.|2|.|WET2450.txt|.|2|.|WET3175.txt|.|2|.|WET2476.txt|.|2|.|WET2913.txt|.|2|.|WET1515.txt|.|6|.|WET2459.txt|.|2|.|WET2009.txt|.|16|.|WET5697.txt|.|2|.|WET4701.txt|.|3|.|WET5451.txt|.|12|.|WET5214.txt|.|2|.|WET5893.txt|.|4|.|WET2320.txt|.|2|.|WET4328.txt|.|3|.|WET6181.txt|.|2|.|WET4210.txt|.|2|.|WET5991.txt|.|30|.|WET874.txt|.|2|.|WET1229.txt|.|2|.|WET2598.txt|.|4|.|WET4678.txt|.|2|.|WET2788.txt|.|2|.|WET4554.txt|.|2|.|WET3736.txt|.|2|.|WET2100.txt|.|2|.|WET996.txt|.|1|.|WET2211.txt|.|2|.|WET5609.txt|.|2|.|WET5436.txt|.|33|.|WET5449.txt|.|2|.|WET2696.txt|.|2|.|WET6034.txt|.|4|.|WET1705.txt|.|7|.|WET2977.txt|.|4|.|WET4799.txt|.|2|.|WET3616.txt|.|2|.|WET639.txt|.|3|.|WET1375.txt|.|2|.|WET3667.txt|.|3|.|WET4861.txt|.|2|.|WET5197.txt|.|2|.|WET1985.txt|.|3|.|WET5790.txt|.|2|.|WET1180.txt|.|2|.|WET5472.txt|.|2|.|WET5509.txt|.|4|.|WET939.txt|.|3|.|WET2164.txt|.|2|.|WET3075.txt|.|2|.|WET2482.txt|.|25|.|WET1713.txt|.|5|.|WET2138.txt|.|2|.|WET5748.txt|.|1|.|WET5126.txt|.|8|.|WET5266.txt|.|7|.|WET5695.txt|.|2|.|WET920.txt|.|19|.|WET6258.txt|.|4|.|WET6061.txt|.|2|.|WET1268.txt|.|3|.|WET4657.txt|.|4|.|WET3428.txt|.|2|.|WET4614.txt|.|2|.|WET5476.txt|.|1|.|WET871.txt|.|2|.|WET1132.txt|.|2|.|WET5548.txt|.|3|.|WET5493.txt|.|226|.|WET5557.txt|.|3|.|WET1345.txt|.|2|.|WET6280.txt|.|1|.|WET2866.txt|.|99|.|WET1142.txt|.|2|.|WET3628.txt|.|3|.|WET2486.txt|.|2|.|WET4414.txt|.|2|.|WET1202.txt|.|8|.|WET3600.txt|.|2|.|WET57.txt|.|2|.|WET1292.txt|.|1|.|WET2703.txt|.|2|.|WET2364.txt|.|3|.|WET3630.txt|.|2|.|WET4617.txt|.|44|.|WET2793.txt|.|4|.|WET5042.txt|.|2|.|WET5437.txt|.|2|.|WET1691.txt|.|2|.|WET2530.txt|.|2|.|WET4192.txt|.|2|.|WET5687.txt|.|2|.|WET3711.txt|.|4

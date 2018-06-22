@@ -1,0 +1,17 @@
+25
+sold|.|178.txt|.|3|.|130.txt|.|3|.|064.txt|.|2|.|103.txt|.|5|.|338.txt|.|2|.|388.txt|.|5
+eff|.|324.txt|.|5|.|044.txt|.|5
+ink|.|037.txt|.|4|.|001.txt|.|23|.|333.txt|.|5
+platform|.|358.txt|.|3|.|266.txt|.|3
+kyrgyz|.|001.txt|.|4
+billed|.|395.txt|.|2
+stolen|.|069.txt|.|3
+camera phones|.|208.txt|.|3|.|389.txt|.|1|.|234.txt|.|1|.|103.txt|.|9|.|388.txt|.|9
+public|.|191.txt|.|9|.|236.txt|.|4
+nuclear material|.|105.txt|.|2
+spend|.|235.txt|.|4
+line phone|.|109.txt|.|3
+san andreas|.|178.txt|.|5|.|130.txt|.|5|.|135.txt|.|6
+unveiled|.|053.txt|.|3|.|260.txt|.|2|.|320.txt|.|2|.|356.txt|.|2|.|297.txt|.|2|.|052.txt|.|3
+endeavour|.|277.txt|.|3
+replacement|.|064.txt|.|4|.|194.txt|.|1|.|338.txt|.|4|.|015.txt|.|2

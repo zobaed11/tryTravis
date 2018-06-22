@@ -1,0 +1,33 @@
+422
+raptor|.|WET1842.txt|.|9
+forum new|.|WET3322.txt|.|12
+arkansas|.|WET3321.txt|.|11
+forum colorado jeep|.|WET3321.txt|.|11
+added browse recently|.|WET3320.txt|.|8
+chatroom|.|WET5406.txt|.|20
+forum midwest regional|.|WET3321.txt|.|11
+jeep wrangler forum|.|WET3320.txt|.|56
+harvester|.|WET405.txt|.|1
+ford excursion forum|.|WET1842.txt|.|9
+abbey|.|WET5026.txt|.|6
+jeep forum alabama|.|WET3321.txt|.|11
+predict|.|WET5529.txt|.|2
+jeep forum alaska|.|WET3321.txt|.|11
+midwest|.|WET3321.txt|.|11
+excursion|.|WET1842.txt|.|10
+stuff announcements|.|WET2558.txt|.|11
+articles avs forum|.|WET1234.txt|.|22
+flyff|.|WET5582.txt|.|8
+diy chatroom home|.|WET5406.txt|.|14
+gymnastics|.|WET3004.txt|.|12
+tech forum jk|.|WET3321.txt|.|11
+ford focus forum|.|WET1842.txt|.|9
+jeep forum arkansas|.|WET3321.txt|.|11
+forum|.|WET4242.txt|.|635|.|WET494.txt|.|474|.|WET1791.txt|.|29|.|WET1968.txt|.|109|.|WET2951.txt|.|255|.|WET4986.txt|.|44|.|WET1880.txt|.|22|.|WET2579.txt|.|47|.|WET5139.txt|.|105|.|WET1542.txt|.|158|.|WET5732.txt|.|304|.|WET5291.txt|.|78|.|WET3321.txt|.|1089|.|WET1305.txt|.|28|.|WET2737.txt|.|91|.|WET1611.txt|.|16|.|WET5387.txt|.|44|.|WET5026.txt|.|88|.|WET5442.txt|.|121|.|WET34.txt|.|160|.|WET5876.txt|.|89|.|WET5929.txt|.|101|.|WET4850.txt|.|32|.|WET4142.txt|.|179|.|WET5159.txt|.|53|.|WET404.txt|.|35|.|WET2311.txt|.|37|.|WET1771.txt|.|44|.|WET144.txt|.|123|.|WET4347.txt|.|32|.|WET3783.txt|.|99|.|WET2297.txt|.|22|.|WET6126.txt|.|53|.|WET4842.txt|.|60|.|WET2954.txt|.|51|.|WET2382.txt|.|27|.|WET4703.txt|.|18|.|WET3136.txt|.|105|.|WET4161.txt|.|62|.|WET776.txt|.|75|.|WET1276.txt|.|104|.|WET5406.txt|.|94|.|WET2021.txt|.|24|.|WET2802.txt|.|19|.|WET3888.txt|.|145|.|WET2888.txt|.|78|.|WET5268.txt|.|43|.|WET1217.txt|.|22|.|WET2693.txt|.|46|.|WET401.txt|.|134|.|WET4138.txt|.|74|.|WET4685.txt|.|64|.|WET2959.txt|.|20|.|WET5292.txt|.|39|.|WET5057.txt|.|70|.|WET4146.txt|.|75|.|WET1227.txt|.|100|.|WET5160.txt|.|66|.|WET398.txt|.|72|.|WET1261.txt|.|36|.|WET2510.txt|.|59|.|WET1695.txt|.|229|.|WET6177.txt|.|22|.|WET411.txt|.|106|.|WET5839.txt|.|340|.|WET2292.txt|.|52|.|WET3126.txt|.|52|.|WET2738.txt|.|48|.|WET5733.txt|.|50|.|WET2136.txt|.|55|.|WET3004.txt|.|60|.|WET2581.txt|.|176|.|WET3322.txt|.|312|.|WET6055.txt|.|63|.|WET5237.txt|.|77|.|WET5365.txt|.|63|.|WET1388.txt|.|81|.|WET2654.txt|.|146|.|WET5734.txt|.|98|.|WET5158.txt|.|79|.|WET5476.txt|.|42|.|WET1904.txt|.|31|.|WET5582.txt|.|171|.|WET2095.txt|.|286|.|WET405.txt|.|74|.|WET1736.txt|.|112|.|WET2379.txt|.|67|.|WET5221.txt|.|17|.|WET412.txt|.|88|.|WET2558.txt|.|66|.|WET4389.txt|.|29|.|WET3451.txt|.|65|.|WET4156.txt|.|63|.|WET606.txt|.|33|.|WET5928.txt|.|175|.|WET2381.txt|.|197|.|WET1072.txt|.|66|.|WET416.txt|.|172|.|WET5902.txt|.|233|.|WET1847.txt|.|27|.|WET3145.txt|.|14|.|WET1846.txt|.|209|.|WET1234.txt|.|148|.|WET4163.txt|.|155|.|WET4198.txt|.|87|.|WET3889.txt|.|120|.|WET6244.txt|.|39|.|WET603.txt|.|15|.|WET712.txt|.|18|.|WET399.txt|.|34|.|WET1572.txt|.|68|.|WET2708.txt|.|210|.|WET6011.txt|.|26|.|WET3076.txt|.|31|.|WET5206.txt|.|47|.|WET1842.txt|.|293|.|WET4119.txt|.|31|.|WET5838.txt|.|160|.|WET1610.txt|.|29|.|WET4945.txt|.|180|.|WET1242.txt|.|172|.|WET1793.txt|.|88|.|WET2557.txt|.|66|.|WET2256.txt|.|28|.|WET413.txt|.|113|.|WET5709.txt|.|91|.|WET421.txt|.|66|.|WET5718.txt|.|69|.|WET6124.txt|.|85|.|WET5052.txt|.|62|.|WET392.txt|.|46|.|WET3680.txt|.|31|.|WET1963.txt|.|22|.|WET1389.txt|.|88|.|WET94.txt|.|16|.|WET4345.txt|.|17|.|WET2380.txt|.|163|.|WET2190.txt|.|140|.|WET1938.txt|.|34|.|WET5222.txt|.|141|.|WET5931.txt|.|31|.|WET5385.txt|.|51|.|WET4898.txt|.|19|.|WET1991.txt|.|243|.|WET6260.txt|.|12|.|WET1609.txt|.|34|.|WET2094.txt|.|517|.|WET402.txt|.|203|.|WET2667.txt|.|34|.|WET4197.txt|.|26|.|WET4243.txt|.|295|.|WET6286.txt|.|25|.|WET2128.txt|.|61|.|WET4154.txt|.|117|.|WET6243.txt|.|100|.|WET5837.txt|.|245|.|WET495.txt|.|502|.|WET2707.txt|.|75|.|WET5507.txt|.|44|.|WET5652.txt|.|24|.|WET4820.txt|.|26|.|WET1640.txt|.|22|.|WET1174.txt|.|32|.|WET2914.txt|.|53|.|WET2639.txt|.|57|.|WET5703.txt|.|28|.|WET5936.txt|.|52|.|WET5875.txt|.|46|.|WET5256.txt|.|33|.|WET1794.txt|.|88|.|WET4946.txt|.|81|.|WET1409.txt|.|41|.|WET2193.txt|.|22|.|WET5050.txt|.|48|.|WET262.txt|.|29|.|WET4371.txt|.|42|.|WET668.txt|.|17|.|WET3320.txt|.|713|.|WET5027.txt|.|221|.|WET6125.txt|.|214|.|WET642.txt|.|25|.|WET1275.txt|.|289|.|WET5529.txt|.|106|.|WET5151.txt|.|55|.|WET2584.txt|.|15|.|WET4143.txt|.|130|.|WET3564.txt|.|22|.|WET2161.txt|.|315|.|WET2556.txt|.|38|.|WET5768.txt|.|95|.|WET1091.txt|.|322|.|WET145.txt|.|39|.|WET1411.txt|.|43|.|WET2746.txt|.|52|.|WET1962.txt|.|22
+drexel|.|WET4371.txt|.|22
+international harvester|.|WET405.txt|.|1
+ford forum news|.|WET1842.txt|.|18
+forum ford mustang|.|WET1842.txt|.|9
+regional forum southwest|.|WET3321.txt|.|11
+aquatic|.|WET4946.txt|.|12
+news and racing|.|WET1842.txt|.|13

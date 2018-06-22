@@ -1,0 +1,38 @@
+319
+move forward|.|WET616.txt|.|3
+emery|.|WET1721.txt|.|51
+emery county|.|WET1721.txt|.|45
+photos by dee|.|WET2782.txt|.|28
+economic development|.|WET1339.txt|.|27
+bowling green|.|WET1431.txt|.|30
+council meeting|.|WET1339.txt|.|27
+chapel hill|.|WET303.txt|.|12
+columnspublic|.|WET5090.txt|.|11
+visions catering|.|WET4129.txt|.|4
+county cricket|.|WET5499.txt|.|17
+plata|.|WET1701.txt|.|46|.|WET5447.txt|.|18
+fillmore|.|WET1339.txt|.|54|.|WET5090.txt|.|66
+wake|.|WET3304.txt|.|7
+visions|.|WET4129.txt|.|4
+caroline county|.|WET5183.txt|.|56|.|WET1431.txt|.|48
+specialsbluff|.|WET5090.txt|.|11
+announcement|.|WET2533.txt|.|30
+map fulton county|.|WET2782.txt|.|14
+inspection|.|WET3304.txt|.|24
+storm pics|.|WET3304.txt|.|6
+move|.|WET616.txt|.|3
+local news obituaries|.|WET2782.txt|.|28
+manitou|.|WET2782.txt|.|57
+sprgs|.|WET2792.txt|.|21
+public inspection file|.|WET3304.txt|.|24
+happy ads submit|.|WET5090.txt|.|11
+morning class|.|WET3304.txt|.|6
+city council|.|WET1339.txt|.|27
+content home|.|WET178.txt|.|8
+manitou views early|.|WET2782.txt|.|14
+eugene robinson|.|WET5146.txt|.|7
+bluff|.|WET5090.txt|.|66
+email this story|.|WET4129.txt|.|8
+fillmore county|.|WET1339.txt|.|54|.|WET5090.txt|.|66
+eugene|.|WET5146.txt|.|8
+news chatfield|.|WET5090.txt|.|11

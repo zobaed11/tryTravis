@@ -1,0 +1,38 @@
+22
+star hotels|.|WET5775.txt|.|14
+london hotels|.|WET6010.txt|.|16
+fairfield inn|.|WET6056.txt|.|31
+marriott hotels|.|WET6056.txt|.|18
+hualuxe|.|WET2069.txt|.|9
+stone circle|.|WET6186.txt|.|3
+innovate|.|WET122.txt|.|1|.|WET3620.txt|.|2
+alistair guy alistair guy|.|WET6010.txt|.|22
+trailspace|.|WET3727.txt|.|14
+towneplace|.|WET6056.txt|.|15
+bros|.|WET1249.txt|.|21
+swiss bike hotels|.|WET2444.txt|.|18
+staybridge suites|.|WET2069.txt|.|6
+hualuxe hotels|.|WET2069.txt|.|9
+inn club|.|WET2069.txt|.|9
+suites|.|WET6056.txt|.|63|.|WET2069.txt|.|21
+united kingdom|.|WET3620.txt|.|6
+alistair guy|.|WET6010.txt|.|23
+switzerland|.|WET2444.txt|.|52
+carriers fly|.|WET3445.txt|.|19
+swiss|.|WET2444.txt|.|70
+sheraton|.|WET2964.txt|.|66
+hotels swiss|.|WET2444.txt|.|42
+spg|.|WET2964.txt|.|101
+trademarks|.|WET5775.txt|.|30
+renaissance hotels|.|WET6056.txt|.|14
+packages hotels|.|WET3727.txt|.|12
+flights cheap|.|WET3445.txt|.|30
+join trailspace|.|WET3727.txt|.|6
+staybridge|.|WET2069.txt|.|6
+hotels|.|WET6056.txt|.|402|.|WET5775.txt|.|95|.|WET2964.txt|.|150|.|WET147.txt|.|59|.|WET3134.txt|.|12|.|WET5678.txt|.|16|.|WET6186.txt|.|77|.|WET3727.txt|.|304|.|WET2444.txt|.|156|.|WET1249.txt|.|181|.|WET5356.txt|.|105|.|WET2069.txt|.|161|.|WET3639.txt|.|172|.|WET488.txt|.|54|.|WET6010.txt|.|63|.|WET3620.txt|.|53|.|WET3445.txt|.|153
+marriott hotels and resorts|.|WET6056.txt|.|16
+nights|.|WET5775.txt|.|64|.|WET883.txt|.|39|.|WET1558.txt|.|21
+travel deals|.|WET3727.txt|.|15
+bang bros|.|WET1249.txt|.|21
+club vacations|.|WET2069.txt|.|9
+circle|.|WET6186.txt|.|4

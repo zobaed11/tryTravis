@@ -1,0 +1,17 @@
+60
+sophisticated|.|081.txt|.|1|.|393.txt|.|1
+pew|.|047.txt|.|2|.|327.txt|.|2|.|081.txt|.|4|.|393.txt|.|4|.|145.txt|.|2
+users say|.|081.txt|.|2|.|393.txt|.|2
+enquiries|.|232.txt|.|2
+search engine|.|053.txt|.|6|.|010.txt|.|2|.|076.txt|.|2|.|232.txt|.|2|.|261.txt|.|4
+questioned|.|081.txt|.|4|.|393.txt|.|4
+feel|.|261.txt|.|2
+msn|.|162.txt|.|3|.|053.txt|.|3|.|149.txt|.|3
+queries|.|053.txt|.|4|.|232.txt|.|2
+strange|.|232.txt|.|2
+visual impairments|.|261.txt|.|2
+speech technology|.|261.txt|.|3
+questioned said|.|081.txt|.|3|.|393.txt|.|3
+versions|.|053.txt|.|1
+net users|.|010.txt|.|2|.|074.txt|.|2|.|081.txt|.|3|.|393.txt|.|3|.|397.txt|.|2
+lets people|.|202.txt|.|3|.|076.txt|.|2

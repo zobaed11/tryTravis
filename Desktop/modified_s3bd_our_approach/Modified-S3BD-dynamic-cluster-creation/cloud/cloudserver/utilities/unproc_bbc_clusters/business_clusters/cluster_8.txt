@@ -1,0 +1,113 @@
+8
+economic reforms|.|bbc_business_285.txt|.|1
+foods|.|bbc_business_448.txt|.|6
+told|.|bbc_business_398.txt|.|2|.|bbc_business_426.txt|.|3|.|bbc_business_203.txt|.|3|.|bbc_business_157.txt|.|2
+business groups|.|bbc_business_166.txt|.|3
+governments|.|bbc_business_135.txt|.|2|.|bbc_business_002.txt|.|2|.|bbc_business_345.txt|.|2
+alfa|.|bbc_business_369.txt|.|1|.|bbc_business_148.txt|.|5
+hope|.|bbc_business_330.txt|.|2
+unemployment rose|.|bbc_business_387.txt|.|2
+dortmund|.|bbc_business_219.txt|.|5|.|bbc_business_193.txt|.|6
+johnson|.|bbc_business_300.txt|.|6
+merrill|.|bbc_business_336.txt|.|5
+years|.|bbc_business_076.txt|.|3|.|bbc_business_387.txt|.|3|.|bbc_business_277.txt|.|4|.|bbc_business_168.txt|.|3
+cheese|.|bbc_business_135.txt|.|8
+insurer said|.|bbc_business_103.txt|.|2
+gref told kommersant|.|bbc_business_426.txt|.|1
+latin america|.|bbc_business_259.txt|.|3
+adviser|.|bbc_business_426.txt|.|2
+latin|.|bbc_business_259.txt|.|6
+poverty|.|bbc_business_159.txt|.|4|.|bbc_business_434.txt|.|6
+resort|.|bbc_business_504.txt|.|2
+growth slowed|.|bbc_business_046.txt|.|2
+fully|.|bbc_business_458.txt|.|2
+cuba|.|bbc_business_200.txt|.|11
+land institute|.|bbc_business_388.txt|.|2
+told kommersant|.|bbc_business_426.txt|.|1
+impact|.|bbc_business_345.txt|.|3|.|bbc_business_067.txt|.|2|.|bbc_business_260.txt|.|2|.|bbc_business_354.txt|.|2
+expected|.|bbc_business_134.txt|.|2|.|bbc_business_278.txt|.|1|.|bbc_business_094.txt|.|2|.|bbc_business_306.txt|.|2|.|bbc_business_402.txt|.|2|.|bbc_business_156.txt|.|2|.|bbc_business_063.txt|.|2|.|bbc_business_038.txt|.|1
+countries|.|bbc_business_130.txt|.|2|.|bbc_business_340.txt|.|3|.|bbc_business_478.txt|.|2|.|bbc_business_058.txt|.|2|.|bbc_business_241.txt|.|10|.|bbc_business_482.txt|.|3|.|bbc_business_296.txt|.|9|.|bbc_business_495.txt|.|9|.|bbc_business_285.txt|.|2
+eu countries|.|bbc_business_285.txt|.|2
+wanted|.|bbc_business_129.txt|.|1
+slow|.|bbc_business_052.txt|.|2|.|bbc_business_329.txt|.|1|.|bbc_business_285.txt|.|2
+turkey|.|bbc_business_257.txt|.|4|.|bbc_business_277.txt|.|10|.|bbc_business_469.txt|.|9
+letter|.|bbc_business_449.txt|.|3
+alternatives|.|bbc_business_071.txt|.|2
+corruption|.|bbc_business_133.txt|.|2|.|bbc_business_217.txt|.|2
+complexity|.|bbc_business_255.txt|.|1
+accuse|.|bbc_business_449.txt|.|1
+hit by losses|.|bbc_business_467.txt|.|1
+us dollars|.|bbc_business_200.txt|.|1
+enterprise|.|bbc_business_200.txt|.|2
+dollars|.|bbc_business_200.txt|.|3
+worth|.|bbc_business_315.txt|.|2|.|bbc_business_237.txt|.|2|.|bbc_business_335.txt|.|2|.|bbc_business_471.txt|.|2
+tourist|.|bbc_business_354.txt|.|3
+said it expects|.|bbc_business_278.txt|.|1
+pockets|.|bbc_business_403.txt|.|2
+people in asia|.|bbc_business_434.txt|.|1
+dividend|.|bbc_business_109.txt|.|2|.|bbc_business_171.txt|.|3
+phytopharm|.|bbc_business_302.txt|.|6
+centres|.|bbc_business_020.txt|.|12
+world leaders|.|bbc_business_487.txt|.|2
+agency|.|bbc_business_345.txt|.|1
+forecasting|.|bbc_business_046.txt|.|1|.|bbc_business_057.txt|.|1|.|bbc_business_344.txt|.|1|.|bbc_business_172.txt|.|1|.|bbc_business_459.txt|.|1
+asian|.|bbc_business_142.txt|.|2|.|bbc_business_345.txt|.|3|.|bbc_business_273.txt|.|3
+reforms|.|bbc_business_285.txt|.|1
+aston|.|bbc_business_105.txt|.|6
+call|.|bbc_business_020.txt|.|19
+economic forum|.|bbc_business_482.txt|.|2
+ask|.|bbc_business_011.txt|.|4
+emerge|.|bbc_business_345.txt|.|1
+profits warning|.|bbc_business_013.txt|.|1
+knocking six|.|bbc_business_257.txt|.|1
+report says|.|bbc_business_285.txt|.|2
+bank account|.|bbc_business_330.txt|.|2
+silva|.|bbc_business_272.txt|.|4
+strength|.|bbc_business_376.txt|.|3
+fresh hope|.|bbc_business_330.txt|.|2
+world economic|.|bbc_business_482.txt|.|2
+poll|.|bbc_business_495.txt|.|6
+national economy|.|bbc_business_495.txt|.|2
+adb|.|bbc_business_434.txt|.|7
+indian government|.|bbc_business_347.txt|.|2
+record highs|.|bbc_business_260.txt|.|1|.|bbc_business_354.txt|.|1
+gref told|.|bbc_business_426.txt|.|2
+hybrid|.|bbc_business_430.txt|.|11
+monthly|.|bbc_business_490.txt|.|2
+iraq and afghanistan|.|bbc_business_320.txt|.|2
+october|.|bbc_business_046.txt|.|3
+schweppes|.|bbc_business_143.txt|.|2
+private|.|bbc_business_057.txt|.|2|.|bbc_business_070.txt|.|3|.|bbc_business_200.txt|.|2|.|bbc_business_239.txt|.|3
+trying to buy|.|bbc_business_171.txt|.|2
+business leaders|.|bbc_business_482.txt|.|2
+worst hit|.|bbc_business_345.txt|.|2
+dividend payment|.|bbc_business_171.txt|.|2
+fiscal year|.|bbc_business_322.txt|.|2
+da silva|.|bbc_business_272.txt|.|4
+contracts|.|bbc_business_161.txt|.|6|.|bbc_business_096.txt|.|4|.|bbc_business_231.txt|.|3
+economic adviser|.|bbc_business_426.txt|.|2
+disaster|.|bbc_business_434.txt|.|3|.|bbc_business_354.txt|.|3
+telegraph|.|bbc_business_014.txt|.|9|.|bbc_business_421.txt|.|2|.|bbc_business_179.txt|.|2
+full listing|.|bbc_business_271.txt|.|2
+construction|.|bbc_business_282.txt|.|5|.|bbc_business_068.txt|.|7|.|bbc_business_258.txt|.|3|.|bbc_business_356.txt|.|3
+end|.|bbc_business_459.txt|.|4
+advertise all its products|.|bbc_business_443.txt|.|1
+pesos|.|bbc_business_033.txt|.|2
+kommersant|.|bbc_business_426.txt|.|2
+national land|.|bbc_business_388.txt|.|2
+egypt|.|bbc_business_478.txt|.|6|.|bbc_business_389.txt|.|3|.|bbc_business_096.txt|.|3
+employment|.|bbc_business_336.txt|.|2
+private investment|.|bbc_business_070.txt|.|2
+letwin|.|bbc_business_154.txt|.|2
+forum|.|bbc_business_487.txt|.|4|.|bbc_business_482.txt|.|2
+bondholders|.|bbc_business_093.txt|.|5
+risks|.|bbc_business_289.txt|.|2|.|bbc_business_074.txt|.|1
+defence spending|.|bbc_business_204.txt|.|1
+application|.|bbc_business_320.txt|.|3
+equity stake|.|bbc_business_315.txt|.|2
+martin|.|bbc_business_105.txt|.|2
+decades|.|bbc_business_272.txt|.|1
+borrowing|.|bbc_business_436.txt|.|2|.|bbc_business_402.txt|.|2
+highs|.|bbc_business_260.txt|.|1|.|bbc_business_144.txt|.|2|.|bbc_business_354.txt|.|2
+collapse|.|bbc_business_458.txt|.|4
+aol|.|bbc_business_001.txt|.|5

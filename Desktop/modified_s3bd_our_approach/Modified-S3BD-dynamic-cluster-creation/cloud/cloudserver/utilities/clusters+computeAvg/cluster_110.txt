@@ -1,0 +1,38 @@
+110
+check availability|.|WET1952.txt|.|61|.|WET5773.txt|.|192
+vacuum cleaner accessories|.|WET6298.txt|.|20
+uncle|.|WET367.txt|.|14
+pending|.|WET1886.txt|.|64|.|WET5625.txt|.|40
+circulator|.|WET1952.txt|.|123
+hollister|.|WET475.txt|.|12
+homesettext|.|WET2540.txt|.|72
+geleden|.|WET4445.txt|.|87
+blues|.|WET2704.txt|.|18
+instant|.|WET2596.txt|.|33|.|WET3417.txt|.|4|.|WET4882.txt|.|116
+annica thomas|.|WET1085.txt|.|6
+invalid zip code|.|WET1952.txt|.|22
+ugg|.|WET475.txt|.|16
+oakley|.|WET475.txt|.|12
+longchamp|.|WET475.txt|.|12
+mops|.|WET6298.txt|.|51
+dog center|.|WET2635.txt|.|18
+taylor swift|.|WET483.txt|.|87
+yolanda|.|WET938.txt|.|17
+kayak|.|WET3653.txt|.|32|.|WET5171.txt|.|46
+air circulator|.|WET1952.txt|.|123
+zip|.|WET479.txt|.|8|.|WET1952.txt|.|44|.|WET2731.txt|.|1|.|WET4853.txt|.|22
+free picks|.|WET5770.txt|.|68|.|WET2029.txt|.|102
+pat|.|WET1085.txt|.|6
+types|.|WET5170.txt|.|21|.|WET3153.txt|.|11
+allocation|.|WET1946.txt|.|192|.|WET3409.txt|.|2|.|WET3410.txt|.|3
+sink|.|WET2994.txt|.|175|.|WET4615.txt|.|9
+lowest price|.|WET5599.txt|.|99
+adaptors|.|WET1886.txt|.|64
+championshipscontinental|.|WET3315.txt|.|42
+productsnew arrivalsstaff|.|WET5954.txt|.|40
+regular price|.|WET5599.txt|.|99
+bandwidth allocation|.|WET1946.txt|.|138
+hauschka|.|WET2398.txt|.|22
+headlines|.|WET1383.txt|.|48|.|WET4504.txt|.|36|.|WET2794.txt|.|181|.|WET1601.txt|.|22|.|WET1602.txt|.|22|.|WET2406.txt|.|92
+floor cleaner|.|WET6298.txt|.|21
+dairy|.|WET2014.txt|.|35

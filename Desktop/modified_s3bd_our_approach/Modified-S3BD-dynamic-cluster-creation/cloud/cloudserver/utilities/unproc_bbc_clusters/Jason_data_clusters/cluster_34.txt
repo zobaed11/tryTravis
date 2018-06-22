@@ -1,0 +1,38 @@
+34
+celebrity movie|.|WET2436.txt|.|4
+joints|.|WET2067.txt|.|88|.|WET5808.txt|.|89
+panels|.|WET5778.txt|.|4
+soccer equipment|.|WET4631.txt|.|28|.|WET892.txt|.|17
+info date|.|WET3415.txt|.|183
+guide soccer|.|WET4631.txt|.|30
+soccer shoes turf|.|WET2916.txt|.|7
+wine club|.|WET5218.txt|.|58
+kick a soccer|.|WET4631.txt|.|10
+liberty|.|WET931.txt|.|62
+faq soccer|.|WET4631.txt|.|20
+british english|.|WET280.txt|.|17
+userview applause|.|WET2582.txt|.|19
+markdown|.|WET3774.txt|.|23
+pm anonymous said|.|WET3381.txt|.|117
+tailgating|.|WET4631.txt|.|10
+barrow youth soccer|.|WET5004.txt|.|70
+meeting|.|WET6056.txt|.|26|.|WET1339.txt|.|90|.|WET5504.txt|.|18|.|WET4962.txt|.|24|.|WET246.txt|.|19|.|WET1208.txt|.|29
+shelters|.|WET4631.txt|.|10
+conversation|.|WET5741.txt|.|43|.|WET3579.txt|.|288
+sapphire|.|WET5635.txt|.|192
+soccer|.|WET2917.txt|.|183|.|WET3170.txt|.|39|.|WET4374.txt|.|18|.|WET5690.txt|.|21|.|WET3381.txt|.|121|.|WET5688.txt|.|36|.|WET4641.txt|.|329|.|WET4632.txt|.|113|.|WET892.txt|.|175|.|WET6122.txt|.|20|.|WET5677.txt|.|18|.|WET2916.txt|.|324|.|WET891.txt|.|386|.|WET1973.txt|.|6|.|WET5004.txt|.|74|.|WET4631.txt|.|311|.|WET4750.txt|.|362|.|WET3579.txt|.|218
+cricket score sheet|.|WET1672.txt|.|8
+soccer shoes indoor|.|WET2916.txt|.|7
+soccer shoes|.|WET2917.txt|.|23|.|WET2916.txt|.|45
+pendidikan|.|WET3749.txt|.|168
+tailgating team shelters|.|WET4631.txt|.|10
+youth soccer|.|WET5004.txt|.|70
+bamboo|.|WET6247.txt|.|7
+game sportswear|.|WET891.txt|.|35
+kick|.|WET4631.txt|.|10
+closeout|.|WET4632.txt|.|8
+soccer coaching|.|WET892.txt|.|5
+stanford|.|WET5689.txt|.|55|.|WET3169.txt|.|32
+soccer ball|.|WET4631.txt|.|30
+craftsvictorian more home|.|WET1520.txt|.|11|.|WET5271.txt|.|11
+free standard shipping details|.|WET4750.txt|.|135

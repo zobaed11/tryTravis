@@ -1,0 +1,120 @@
+renumbering guide|.|rfc2072.txt|.|49
+cga generation|.|rfc3972.txt|.|11|.|rfc4982.txt|.|8
+stateless address autoconfiguration|.|rfc4941.txt|.|11
+use of addresses|.|rfc4990.txt|.|32
+global ids|.|rfc4193.txt|.|16
+internet protocol version|.|rfc3363.txt|.|2
+ford informational|.|rfc5684.txt|.|26
+advertising|.|rfc5786.txt|.|10|.|rfc4971.txt|.|12|.|rfc3098.txt|.|60|.|rfc5549.txt|.|12
+autoconfiguration january|.|rfc3041.txt|.|16
+transformation of names|.|rfc3696.txt|.|16
+probability of failure|.|rfc3363.txt|.|2
+ivi translation|.|rfc6219.txt|.|31
+autoconf september|.|rfc4941.txt|.|22
+cgas july|.|rfc4982.txt|.|8
+network mailbox|.|rfc510.txt|.|2
+addresses considered|.|rfc4085.txt|.|10
+addresses used|.|rfc4555.txt|.|4
+site local addresses|.|rfc3879.txt|.|26
+router renumbering|.|rfc2894.txt|.|71|.|rfc2072.txt|.|60
+dns blacklists|.|rfc5782.txt|.|11
+multihomed site|.|rfc5902.txt|.|5
+generated addresses|.|rfc3972.txt|.|24|.|rfc5535.txt|.|9|.|rfc4581.txt|.|2
+input|.|rfc1987.txt|.|144|.|rfc340.txt|.|3|.|rfc2139.txt|.|3|.|rfc5022.txt|.|45|.|rfc336.txt|.|15|.|rfc4465.txt|.|127|.|rfc435.txt|.|10|.|rfc71.txt|.|3|.|rfc4730.txt|.|56|.|rfc390.txt|.|5|.|rfc206.txt|.|9|.|rfc283.txt|.|7|.|rfc4722.txt|.|45|.|rfc178.txt|.|35|.|rfc466.txt|.|15|.|rfc5895.txt|.|17|.|rfc122.txt|.|28|.|rfc3653.txt|.|41|.|rfc360.txt|.|55|.|rfc3805.txt|.|124|.|rfc410.txt|.|2|.|rfc2059.txt|.|3|.|rfc4480.txt|.|11|.|rfc4843.txt|.|26|.|rfc407.txt|.|59|.|rfc5051.txt|.|13
+fast handover|.|rfc5949.txt|.|52|.|rfc5271.txt|.|43|.|rfc5184.txt|.|38|.|rfc4260.txt|.|21
+internationalized addresses|.|rfc4952.txt|.|6
+subnet is needed|.|rfc3177.txt|.|2
+nat january|.|rfc3027.txt|.|19|.|rfc3022.txt|.|15
+privacy addresses|.|rfc5157.txt|.|8
+configuration of ip addresses|.|rfc5889.txt|.|3
+research task|.|rfc5782.txt|.|4|.|rfc6255.txt|.|3|.|rfc6227.txt|.|3
+bergstrom informational|.|rfc3792.txt|.|25
+addresses september|.|rfc3177.txt|.|9
+townsley informational|.|rfc6127.txt|.|20|.|rfc4965.txt|.|10
+transport area|.|rfc3794.txt|.|32
+duid|.|rfc3315.txt|.|94
+today february|.|rfc2101.txt|.|12
+source addresses|.|rfc3376.txt|.|26|.|rfc4570.txt|.|16
+special use|.|rfc3330.txt|.|1|.|rfc5735.txt|.|13|.|rfc6154.txt|.|12
+ietf security|.|rfc3792.txt|.|26
+advanced snmp|.|rfc2962.txt|.|23
+using dkim|.|rfc5863.txt|.|4
+berkowitz informational|.|rfc2071.txt|.|14|.|rfc2072.txt|.|48
+ii informational|.|rfc3791.txt|.|14
+ipsec sas|.|rfc4555.txt|.|33
+deprecating site local|.|rfc3879.txt|.|10
+email addresses|.|rfc3696.txt|.|11|.|rfc5983.txt|.|8|.|rfc4952.txt|.|28
+key generation|.|rfc3957.txt|.|84|.|rfc2523.txt|.|1
+canonical order|.|rfc2469.txt|.|4
+cain standards|.|rfc4607.txt|.|19
+hba addresses|.|rfc5535.txt|.|7
+arts|.|rfc2150.txt|.|91
+addresses considered harmful|.|rfc4085.txt|.|10
+complications|.|rfc3027.txt|.|22
+temporary addresses|.|rfc4941.txt|.|50
+processing software|.|rfc526.txt|.|11
+checking and transformation|.|rfc3696.txt|.|16
+exported are anonymized|.|rfc6235.txt|.|8
+area june|.|rfc3792.txt|.|24|.|rfc3791.txt|.|14
+router renumbering guide|.|rfc2072.txt|.|49
+university college|.|rfc3793.txt|.|2
+autoconfiguration|.|rfc1971.txt|.|90|.|rfc2462.txt|.|93|.|rfc3736.txt|.|4|.|rfc4941.txt|.|13|.|rfc4429.txt|.|8|.|rfc3041.txt|.|29|.|rfc4862.txt|.|75|.|rfc5072.txt|.|14|.|rfc4968.txt|.|11|.|rfc4076.txt|.|9
+undetermined|.|rfc5889.txt|.|11
+textual representation|.|rfc5954.txt|.|11|.|rfc5396.txt|.|5
+basic snmp|.|rfc2962.txt|.|20
+privacy extensions|.|rfc4941.txt|.|23
+systems interconnection|.|rfc4048.txt|.|3
+monkey protocol suite|.|rfc2795.txt|.|22
+reverse lookups|.|rfc3681.txt|.|2
+deployed ietf|.|rfc3789.txt|.|8|.|rfc3791.txt|.|10
+addresses|.|rfc4193.txt|.|110|.|rfc3053.txt|.|14|.|rfc3787.txt|.|9|.|rfc510.txt|.|2|.|rfc4982.txt|.|12|.|rfc5206.txt|.|97|.|rfc6052.txt|.|70|.|rfc3972.txt|.|48|.|rfc4541.txt|.|24|.|rfc5786.txt|.|33|.|rfc3904.txt|.|16|.|rfc3363.txt|.|14|.|rfc3177.txt|.|13|.|rfc4159.txt|.|3|.|rfc2469.txt|.|17|.|rfc5735.txt|.|41|.|rfc3291.txt|.|67|.|rfc3795.txt|.|116|.|rfc3027.txt|.|46|.|rfc3681.txt|.|3|.|rfc4990.txt|.|69|.|rfc4085.txt|.|47|.|rfc3696.txt|.|19|.|rfc5157.txt|.|54|.|rfc3793.txt|.|11|.|rfc5954.txt|.|17|.|rfc2072.txt|.|127|.|rfc5887.txt|.|88|.|rfc3794.txt|.|52|.|rfc5569.txt|.|18|.|rfc3764.txt|.|4|.|rfc3513.txt|.|131|.|rfc5156.txt|.|46|.|rfc2851.txt|.|55|.|rfc3046.txt|.|15|.|rfc2771.txt|.|36|.|rfc4944.txt|.|50|.|rfc5983.txt|.|32|.|rfc2962.txt|.|48|.|rfc4639.txt|.|43|.|rfc4581.txt|.|3|.|rfc4339.txt|.|87|.|rfc3789.txt|.|18|.|rfc4038.txt|.|80|.|rfc623.txt|.|1|.|rfc5782.txt|.|33|.|rfc5006.txt|.|34|.|rfc5889.txt|.|29|.|rfc3376.txt|.|44|.|rfc3138.txt|.|5|.|rfc4570.txt|.|34|.|rfc2740.txt|.|58|.|rfc590.txt|.|1|.|rfc4952.txt|.|59|.|rfc3307.txt|.|47|.|rfc3111.txt|.|18|.|rfc3171.txt|.|28|.|rfc5684.txt|.|64|.|rfc3024.txt|.|35|.|rfc5340.txt|.|67|.|rfc3790.txt|.|102|.|rfc2368.txt|.|3|.|rfc4048.txt|.|9|.|rfc3792.txt|.|40|.|rfc5535.txt|.|101|.|rfc3455.txt|.|15|.|rfc5942.txt|.|18|.|rfc2730.txt|.|73|.|rfc3041.txt|.|98|.|rfc2375.txt|.|12|.|rfc3791.txt|.|28|.|rfc6235.txt|.|59|.|rfc3315.txt|.|254|.|rfc4607.txt|.|54|.|rfc2526.txt|.|45|.|rfc3330.txt|.|34|.|rfc6127.txt|.|25|.|rfc4941.txt|.|129|.|rfc5902.txt|.|30|.|rfc3879.txt|.|73|.|rfc5072.txt|.|23|.|rfc4489.txt|.|30|.|rfc3419.txt|.|50|.|rfc2732.txt|.|13|.|rfc5338.txt|.|37|.|rfc6219.txt|.|61|.|rfc4843.txt|.|12|.|rfc4555.txt|.|119|.|rfc3601.txt|.|17|.|rfc5233.txt|.|7|.|rfc2101.txt|.|42
+unicast addresses|.|rfc4193.txt|.|33|.|rfc5072.txt|.|10|.|rfc3513.txt|.|32
+addresses in urls|.|rfc3111.txt|.|4
+masinter|.|rfc2718.txt|.|13|.|rfc2388.txt|.|12|.|rfc2542.txt|.|22|.|rfc2397.txt|.|8
+tools september|.|rfc3904.txt|.|18
+anycast address|.|rfc2373.txt|.|19|.|rfc3068.txt|.|12|.|rfc3513.txt|.|20
+draft standards|.|rfc3794.txt|.|8
+internet network addresses|.|rfc2851.txt|.|16|.|rfc3291.txt|.|20
+connectivity properties|.|rfc5889.txt|.|7
+vegoda|.|rfc5735.txt|.|15
+communication on a link|.|rfc3315.txt|.|1
+subnet anycast addresses|.|rfc2526.txt|.|23
+korn|.|rfc3284.txt|.|35
+autoconf|.|rfc4941.txt|.|22
+keyword|.|rfc5788.txt|.|84|.|rfc3503.txt|.|29|.|rfc4095.txt|.|22|.|rfc3848.txt|.|7|.|rfc3381.txt|.|18|.|rfc5550.txt|.|23
+address behavior|.|rfc2101.txt|.|12
+area|.|rfc83.txt|.|9|.|rfc2418.txt|.|72|.|rfc2091.txt|.|3|.|rfc603.txt|.|6|.|rfc2740.txt|.|152|.|rfc3710.txt|.|26|.|rfc3740.txt|.|22|.|rfc3154.txt|.|25|.|rfc5727.txt|.|26|.|rfc5340.txt|.|179|.|rfc5329.txt|.|3|.|rfc2167.txt|.|169|.|rfc4858.txt|.|60|.|rfc3792.txt|.|26|.|rfc177.txt|.|31|.|rfc4041.txt|.|7|.|rfc2969.txt|.|19|.|rfc5283.txt|.|26|.|rfc191.txt|.|31|.|rfc4633.txt|.|2|.|rfc5185.txt|.|30|.|rfc5832.txt|.|5|.|rfc3637.txt|.|3|.|rfc3791.txt|.|24|.|rfc5302.txt|.|18|.|rfc3101.txt|.|120|.|rfc2009.txt|.|62|.|rfc3793.txt|.|7|.|rfc4696.txt|.|4|.|rfc5152.txt|.|20|.|rfc3509.txt|.|56|.|rfc4915.txt|.|37|.|rfc181.txt|.|16|.|rfc3794.txt|.|32|.|rfc291.txt|.|2|.|rfc2357.txt|.|12|.|rfc5963.txt|.|4|.|rfc3821.txt|.|7|.|rfc4444.txt|.|33|.|rfc4105.txt|.|46|.|rfc4927.txt|.|41|.|rfc3789.txt|.|22|.|rfc2966.txt|.|16
+tenex bandwidth|.|rfc415.txt|.|2
+batch|.|rfc90.txt|.|17|.|rfc105.txt|.|4|.|rfc2442.txt|.|25|.|rfc338.txt|.|4|.|rfc390.txt|.|3|.|rfc379.txt|.|4
+sofia|.|rfc3795.txt|.|52
+addresses assigned|.|rfc3315.txt|.|12
+scanning march|.|rfc5157.txt|.|12
+link scoped|.|rfc4489.txt|.|1
+address mapping|.|rfc6219.txt|.|14
+using hip|.|rfc5338.txt|.|17
+connect to the network|.|rfc5887.txt|.|1
+addresses are generated|.|rfc4941.txt|.|3|.|rfc3041.txt|.|4
+ietf security area|.|rfc3792.txt|.|26
+connection address|.|rfc4570.txt|.|2
+mobike|.|rfc5266.txt|.|24|.|rfc4621.txt|.|161|.|rfc4555.txt|.|100
+deprecating site local addresses|.|rfc3879.txt|.|10
+ip addresses|.|rfc4085.txt|.|36|.|rfc5782.txt|.|17|.|rfc5954.txt|.|9|.|rfc2072.txt|.|32|.|rfc5887.txt|.|25|.|rfc5206.txt|.|29|.|rfc3046.txt|.|13|.|rfc5338.txt|.|30|.|rfc2962.txt|.|38|.|rfc3027.txt|.|26|.|rfc2101.txt|.|9|.|rfc6235.txt|.|25|.|rfc4038.txt|.|21
+undetermined connectivity|.|rfc5889.txt|.|9
+today|.|rfc2101.txt|.|14
+nesser ii|.|rfc3793.txt|.|10|.|rfc3791.txt|.|24
+routable cryptographic|.|rfc4843.txt|.|5
+abstract api|.|rfc2771.txt|.|13
+internet registry|.|rfc3330.txt|.|6|.|rfc2050.txt|.|16|.|rfc5144.txt|.|7
+tcs|.|rfc2514.txt|.|19|.|rfc2851.txt|.|15|.|rfc3291.txt|.|20
+abstract api for multicast address|.|rfc2771.txt|.|11
+api for multicast|.|rfc2771.txt|.|12
+bitstring|.|rfc4843.txt|.|19
+olvera|.|rfc3791.txt|.|18
+cernet ivi|.|rfc6219.txt|.|23
+network addresses|.|rfc2851.txt|.|16|.|rfc3291.txt|.|20
+special|.|rfc135.txt|.|5|.|rfc3330.txt|.|1|.|rfc5347.txt|.|35|.|rfc4773.txt|.|17|.|rfc5735.txt|.|19|.|rfc5736.txt|.|24|.|rfc6154.txt|.|20|.|rfc5024.txt|.|32|.|rfc5156.txt|.|4
+multiple hash support|.|rfc4982.txt|.|8
+cernet|.|rfc6219.txt|.|44
+site local|.|rfc3879.txt|.|34
+blacklists and whitelists|.|rfc5782.txt|.|15
+addresses in currently deployed|.|rfc3789.txt|.|8|.|rfc3791.txt|.|9

@@ -1,0 +1,91 @@
+22
+scored another goal|.|bbc_sport_151.txt|.|1
+blades|.|bbc_sport_163.txt|.|4
+indoor meeting|.|bbc_sport_064.txt|.|2
+hoadley|.|bbc_sport_294.txt|.|2
+number one side|.|bbc_sport_368.txt|.|2
+lamont|.|bbc_sport_407.txt|.|2
+apologise|.|bbc_sport_502.txt|.|2
+nations|.|bbc_sport_360.txt|.|2|.|bbc_sport_335.txt|.|3|.|bbc_sport_289.txt|.|3|.|bbc_sport_327.txt|.|3|.|bbc_sport_356.txt|.|2|.|bbc_sport_395.txt|.|2|.|bbc_sport_410.txt|.|4|.|bbc_sport_403.txt|.|4|.|bbc_sport_351.txt|.|2|.|bbc_sport_364.txt|.|3|.|bbc_sport_406.txt|.|3|.|bbc_sport_383.txt|.|2|.|bbc_sport_285.txt|.|5|.|bbc_sport_387.txt|.|2|.|bbc_sport_344.txt|.|2|.|bbc_sport_313.txt|.|4|.|bbc_sport_415.txt|.|2|.|bbc_sport_322.txt|.|2|.|bbc_sport_311.txt|.|2|.|bbc_sport_413.txt|.|5|.|bbc_sport_345.txt|.|2|.|bbc_sport_332.txt|.|2|.|bbc_sport_291.txt|.|2|.|bbc_sport_295.txt|.|2|.|bbc_sport_372.txt|.|2|.|bbc_sport_412.txt|.|3|.|bbc_sport_385.txt|.|2|.|bbc_sport_408.txt|.|3|.|bbc_sport_342.txt|.|4|.|bbc_sport_363.txt|.|2|.|bbc_sport_292.txt|.|2|.|bbc_sport_296.txt|.|2
+cross country title|.|bbc_sport_087.txt|.|2
+gudjohnsen|.|bbc_sport_246.txt|.|7
+bremen|.|bbc_sport_237.txt|.|1
+encounters|.|bbc_sport_188.txt|.|1
+scandal|.|bbc_sport_026.txt|.|2
+claim|.|bbc_sport_058.txt|.|3
+two games|.|bbc_sport_342.txt|.|3|.|bbc_sport_320.txt|.|2
+injury|.|bbc_sport_360.txt|.|3|.|bbc_sport_467.txt|.|2|.|bbc_sport_114.txt|.|4|.|bbc_sport_488.txt|.|3|.|bbc_sport_475.txt|.|2|.|bbc_sport_356.txt|.|2|.|bbc_sport_055.txt|.|2|.|bbc_sport_496.txt|.|5|.|bbc_sport_162.txt|.|2|.|bbc_sport_304.txt|.|3|.|bbc_sport_353.txt|.|2|.|bbc_sport_419.txt|.|2|.|bbc_sport_479.txt|.|2|.|bbc_sport_471.txt|.|2|.|bbc_sport_171.txt|.|2|.|bbc_sport_008.txt|.|2|.|bbc_sport_411.txt|.|3|.|bbc_sport_096.txt|.|3|.|bbc_sport_418.txt|.|2|.|bbc_sport_443.txt|.|2|.|bbc_sport_117.txt|.|3|.|bbc_sport_478.txt|.|2|.|bbc_sport_260.txt|.|3|.|bbc_sport_103.txt|.|3|.|bbc_sport_345.txt|.|3|.|bbc_sport_388.txt|.|3|.|bbc_sport_457.txt|.|3|.|bbc_sport_315.txt|.|3|.|bbc_sport_129.txt|.|2|.|bbc_sport_380.txt|.|1|.|bbc_sport_417.txt|.|2
+special permission|.|bbc_sport_117.txt|.|2
+gandulla|.|bbc_sport_210.txt|.|2
+chepkemei|.|bbc_sport_042.txt|.|3|.|bbc_sport_024.txt|.|3|.|bbc_sport_021.txt|.|4|.|bbc_sport_019.txt|.|4
+wta title|.|bbc_sport_501.txt|.|2
+stevie|.|bbc_sport_107.txt|.|2
+drug testing|.|bbc_sport_035.txt|.|1
+contract extension|.|bbc_sport_206.txt|.|1
+contest|.|bbc_sport_335.txt|.|3|.|bbc_sport_408.txt|.|3
+failed a drugs test|.|bbc_sport_199.txt|.|2
+pass|.|bbc_sport_407.txt|.|2
+side in the world|.|bbc_sport_368.txt|.|2
+holland|.|bbc_sport_106.txt|.|4
+old|.|bbc_sport_227.txt|.|1|.|bbc_sport_146.txt|.|3|.|bbc_sport_158.txt|.|2|.|bbc_sport_188.txt|.|1|.|bbc_sport_040.txt|.|1|.|bbc_sport_253.txt|.|2
+midfielder|.|bbc_sport_117.txt|.|2|.|bbc_sport_189.txt|.|2
+euan murray|.|bbc_sport_295.txt|.|2
+six minutes|.|bbc_sport_106.txt|.|2
+phil|.|bbc_sport_411.txt|.|3
+daniel|.|bbc_sport_225.txt|.|2
+six points|.|bbc_sport_151.txt|.|2
+danny|.|bbc_sport_106.txt|.|2
+felt like|.|bbc_sport_444.txt|.|2|.|bbc_sport_458.txt|.|2
+grabbing|.|bbc_sport_293.txt|.|1
+canberra|.|bbc_sport_501.txt|.|2
+arnesen|.|bbc_sport_207.txt|.|7
+trevor|.|bbc_sport_321.txt|.|2
+saulnier|.|bbc_sport_424.txt|.|3|.|bbc_sport_511.txt|.|4
+vickery|.|bbc_sport_411.txt|.|3
+entertaining|.|bbc_sport_368.txt|.|2
+chambers|.|bbc_sport_092.txt|.|4
+ollie|.|bbc_sport_285.txt|.|1
+tannadice|.|bbc_sport_126.txt|.|2
+heymans|.|bbc_sport_344.txt|.|2|.|bbc_sport_332.txt|.|2
+mixed|.|bbc_sport_462.txt|.|3
+sella|.|bbc_sport_327.txt|.|9
+tennis event|.|bbc_sport_447.txt|.|2
+dunne|.|bbc_sport_250.txt|.|3
+welsh legend|.|bbc_sport_395.txt|.|2
+boss jose mourinho|.|bbc_sport_280.txt|.|2
+kicking|.|bbc_sport_286.txt|.|2|.|bbc_sport_415.txt|.|2
+head|.|bbc_sport_200.txt|.|2
+livid|.|bbc_sport_406.txt|.|2|.|bbc_sport_289.txt|.|2
+cole has refused|.|bbc_sport_178.txt|.|1
+masi|.|bbc_sport_407.txt|.|3
+paterson slotted|.|bbc_sport_407.txt|.|1
+paterson penalty|.|bbc_sport_407.txt|.|2
+savage|.|bbc_sport_273.txt|.|3
+arm|.|bbc_sport_411.txt|.|3
+jonny|.|bbc_sport_342.txt|.|2|.|bbc_sport_345.txt|.|2|.|bbc_sport_373.txt|.|3|.|bbc_sport_415.txt|.|4
+belief|.|bbc_sport_368.txt|.|2
+fight|.|bbc_sport_235.txt|.|2|.|bbc_sport_183.txt|.|2|.|bbc_sport_004.txt|.|3
+friendlies|.|bbc_sport_119.txt|.|4
+broken|.|bbc_sport_114.txt|.|3|.|bbc_sport_093.txt|.|2|.|bbc_sport_411.txt|.|2
+months later|.|bbc_sport_065.txt|.|2
+six|.|bbc_sport_360.txt|.|2|.|bbc_sport_335.txt|.|3|.|bbc_sport_106.txt|.|3|.|bbc_sport_407.txt|.|2|.|bbc_sport_114.txt|.|3|.|bbc_sport_343.txt|.|1|.|bbc_sport_289.txt|.|4|.|bbc_sport_327.txt|.|3|.|bbc_sport_300.txt|.|2|.|bbc_sport_356.txt|.|2|.|bbc_sport_395.txt|.|2|.|bbc_sport_410.txt|.|4|.|bbc_sport_319.txt|.|1|.|bbc_sport_403.txt|.|4|.|bbc_sport_351.txt|.|2|.|bbc_sport_364.txt|.|3|.|bbc_sport_162.txt|.|2|.|bbc_sport_406.txt|.|4|.|bbc_sport_383.txt|.|3|.|bbc_sport_285.txt|.|5|.|bbc_sport_387.txt|.|2|.|bbc_sport_344.txt|.|2|.|bbc_sport_313.txt|.|4|.|bbc_sport_411.txt|.|3|.|bbc_sport_415.txt|.|3|.|bbc_sport_322.txt|.|2|.|bbc_sport_311.txt|.|2|.|bbc_sport_413.txt|.|5|.|bbc_sport_117.txt|.|2|.|bbc_sport_368.txt|.|8|.|bbc_sport_345.txt|.|3|.|bbc_sport_332.txt|.|2|.|bbc_sport_286.txt|.|2|.|bbc_sport_291.txt|.|3|.|bbc_sport_295.txt|.|2|.|bbc_sport_372.txt|.|2|.|bbc_sport_412.txt|.|2|.|bbc_sport_385.txt|.|2|.|bbc_sport_408.txt|.|3|.|bbc_sport_358.txt|.|3|.|bbc_sport_342.txt|.|4|.|bbc_sport_363.txt|.|2|.|bbc_sport_292.txt|.|2|.|bbc_sport_151.txt|.|2|.|bbc_sport_296.txt|.|2
+chance|.|bbc_sport_059.txt|.|1|.|bbc_sport_167.txt|.|2|.|bbc_sport_263.txt|.|1
+recover|.|bbc_sport_127.txt|.|2
+starts in six|.|bbc_sport_117.txt|.|1
+queudrue|.|bbc_sport_106.txt|.|2
+forward|.|bbc_sport_407.txt|.|3
+signed charlton|.|bbc_sport_186.txt|.|1
+february return|.|bbc_sport_443.txt|.|1
+permission|.|bbc_sport_117.txt|.|2
+brennan|.|bbc_sport_321.txt|.|4
+betis|.|bbc_sport_151.txt|.|2
+euan|.|bbc_sport_295.txt|.|2
+gunners|.|bbc_sport_125.txt|.|2|.|bbc_sport_188.txt|.|2
+autumn series|.|bbc_sport_368.txt|.|2
+series|.|bbc_sport_099.txt|.|3|.|bbc_sport_368.txt|.|2
+scored|.|bbc_sport_151.txt|.|2
+awards|.|bbc_sport_041.txt|.|4
+riggott|.|bbc_sport_106.txt|.|3
+bartlett|.|bbc_sport_106.txt|.|4
+sidelined|.|bbc_sport_114.txt|.|2
+backs|.|bbc_sport_359.txt|.|1|.|bbc_sport_412.txt|.|2|.|bbc_sport_337.txt|.|4

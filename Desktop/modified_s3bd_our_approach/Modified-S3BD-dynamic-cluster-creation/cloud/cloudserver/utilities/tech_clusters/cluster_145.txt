@@ -1,0 +1,17 @@
+145
+studios|.|100.txt|.|3
+mr|.|270.txt|.|6|.|071.txt|.|4|.|283.txt|.|7|.|100.txt|.|4|.|068.txt|.|8|.|297.txt|.|4|.|172.txt|.|6|.|023.txt|.|2|.|142.txt|.|7|.|271.txt|.|6|.|350.txt|.|2|.|063.txt|.|4|.|385.txt|.|2|.|134.txt|.|5|.|137.txt|.|9|.|299.txt|.|6|.|323.txt|.|6|.|396.txt|.|9|.|035.txt|.|7|.|051.txt|.|6|.|161.txt|.|3|.|106.txt|.|6|.|004.txt|.|4|.|260.txt|.|4|.|127.txt|.|6|.|277.txt|.|5|.|110.txt|.|7|.|281.txt|.|6|.|309.txt|.|6
+teach|.|283.txt|.|4
+patients|.|acne.txt|.|38
+endeavour club|.|277.txt|.|2
+mobile phone firm|.|271.txt|.|1
+web logs|.|106.txt|.|2|.|151.txt|.|2
+mr beckham|.|385.txt|.|2
+turismo|.|112.txt|.|2
+excitement|.|336.txt|.|1
+sent|.|273.txt|.|4|.|152.txt|.|4
+mr senanayake|.|142.txt|.|2
+jailed|.|035.txt|.|1
+mr tansley|.|277.txt|.|3
+revolutionary|.|035.txt|.|2
+ravi|.|283.txt|.|2

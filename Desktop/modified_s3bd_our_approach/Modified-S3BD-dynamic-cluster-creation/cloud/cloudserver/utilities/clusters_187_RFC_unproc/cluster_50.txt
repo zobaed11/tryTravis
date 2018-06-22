@@ -1,0 +1,120 @@
+servers option|.|rfc4075.txt|.|6
+salt lake|.|rfc403.txt|.|3
+time schedule|.|rfc403.txt|.|3
+internet protocols|.|rfc4270.txt|.|11|.|rfc2825.txt|.|9|.|rfc1958.txt|.|2|.|rfc3339.txt|.|10|.|rfc5051.txt|.|1
+advanced|.|rfc5297.txt|.|2|.|rfc5930.txt|.|5|.|rfc299.txt|.|3|.|rfc3602.txt|.|5|.|rfc249.txt|.|3|.|rfc537.txt|.|2|.|rfc5584.txt|.|19|.|rfc5126.txt|.|151|.|rfc3853.txt|.|5|.|rfc4584.txt|.|27|.|rfc2292.txt|.|72|.|rfc81.txt|.|2|.|rfc2962.txt|.|23|.|rfc4772.txt|.|3|.|rfc4060.txt|.|13|.|rfc2897.txt|.|39
+teletype|.|rfc41.txt|.|2|.|rfc206.txt|.|18|.|rfc56.txt|.|10
+time value|.|rfc5497.txt|.|2
+icalendar september|.|rfc5545.txt|.|167
+chimento standards|.|rfc3393.txt|.|21
+controlling|.|rfc5450.txt|.|2
+direct time|.|rfc5776.txt|.|66
+message release|.|rfc4865.txt|.|46
+comp|.|rfc4791.txt|.|6
+time synchronization|.|rfc5776.txt|.|102|.|rfc4442.txt|.|11
+tsuchiya|.|rfc2767.txt|.|15
+date and time|.|rfc3339.txt|.|32
+dearlove|.|rfc5497.txt|.|17
+clocks|.|rfc3393.txt|.|22
+date and index|.|rfc5260.txt|.|15
+refresh time|.|rfc4242.txt|.|27
+service boundary|.|rfc5964.txt|.|20
+digitally sign|.|rfc6254.txt|.|3
+power interruption|.|rfc6201.txt|.|11
+fec grouping|.|rfc5956.txt|.|29
+scheduling mib|.|rfc2591.txt|.|27
+synchronized clocks|.|rfc3393.txt|.|5
+controlling the copyright|.|rfc5450.txt|.|2
+key chain|.|rfc5776.txt|.|104
+archive time|.|rfc6283.txt|.|11
+city|.|rfc403.txt|.|4
+stamp|.|rfc5126.txt|.|2|.|rfc3126.txt|.|33|.|rfc6283.txt|.|13|.|rfc3628.txt|.|11|.|rfc3161.txt|.|5|.|rfc5544.txt|.|3
+recommend|.|rfc237.txt|.|2|.|rfc135.txt|.|5|.|rfc6238.txt|.|5
+bootstrap|.|rfc5776.txt|.|60|.|rfc4108.txt|.|63|.|rfc5240.txt|.|11|.|rfc5059.txt|.|170
+freed standards|.|rfc5260.txt|.|13|.|rfc5230.txt|.|16
+date time|.|rfc5260.txt|.|1|.|rfc5545.txt|.|3
+guttman|.|rfc2610.txt|.|10|.|rfc2614.txt|.|95|.|rfc3111.txt|.|18|.|rfc2504.txt|.|35
+long|.|rfc4810.txt|.|4|.|rfc5126.txt|.|92|.|rfc568.txt|.|4|.|rfc2581.txt|.|6|.|rfc6202.txt|.|71|.|rfc2757.txt|.|68|.|rfc1955.txt|.|12
+calendar object|.|rfc4791.txt|.|152
+variation november|.|rfc3393.txt|.|20
+taylor standards|.|rfc2886.txt|.|21
+chimento|.|rfc3393.txt|.|23
+proxy authorization control|.|rfc4370.txt|.|11
+leap|.|rfc3339.txt|.|32
+computers|.|rfc631.txt|.|2|.|rfc254.txt|.|21
+information refresh time option|.|rfc4242.txt|.|13
+iquery|.|rfc3425.txt|.|21
+busy time|.|rfc5546.txt|.|52|.|rfc2739.txt|.|8
+certificates and revocation|.|rfc3126.txt|.|13
+representing|.|rfc6019.txt|.|4|.|rfc2293.txt|.|7
+property value|.|rfc5545.txt|.|72|.|rfc5546.txt|.|54|.|rfc2446.txt|.|55
+ipfix mediator|.|rfc5982.txt|.|55
+time streaming protocol|.|rfc2326.txt|.|93
+component|.|rfc2755.txt|.|2|.|rfc5545.txt|.|311|.|rfc2055.txt|.|6|.|rfc5122.txt|.|45|.|rfc5664.txt|.|50|.|rfc2446.txt|.|196|.|rfc3727.txt|.|14|.|rfc2105.txt|.|22|.|rfc5629.txt|.|66|.|rfc5546.txt|.|220|.|rfc3687.txt|.|327|.|rfc2445.txt|.|295|.|rfc2224.txt|.|6|.|rfc4153.txt|.|40|.|rfc4622.txt|.|44|.|rfc4791.txt|.|93|.|rfc4220.txt|.|73
+date test|.|rfc5260.txt|.|12
+alc and norm|.|rfc5776.txt|.|68
+accounts|.|rfc2179.txt|.|14|.|rfc350.txt|.|4|.|rfc518.txt|.|53
+lease|.|rfc2730.txt|.|210|.|rfc6148.txt|.|31|.|rfc3103.txt|.|69
+options for dhcp|.|rfc4833.txt|.|10
+date and index extensions|.|rfc5260.txt|.|14
+sieve date|.|rfc5260.txt|.|12
+core memory|.|rfc434.txt|.|2|.|rfc34.txt|.|3
+synchronized|.|rfc4536.txt|.|8|.|rfc3393.txt|.|7
+tschofenig standards|.|rfc5433.txt|.|38|.|rfc4589.txt|.|12|.|rfc4442.txt|.|18|.|rfc4279.txt|.|15
+time stamp|.|rfc5126.txt|.|1|.|rfc3126.txt|.|24|.|rfc6283.txt|.|13|.|rfc3628.txt|.|11|.|rfc3161.txt|.|5|.|rfc5544.txt|.|3
+property parameters|.|rfc5545.txt|.|112
+time step|.|rfc6238.txt|.|13
+daboo|.|rfc5235.txt|.|16|.|rfc5397.txt|.|7|.|rfc5546.txt|.|135|.|rfc5257.txt|.|44|.|rfc4466.txt|.|19|.|rfc5689.txt|.|15|.|rfc6186.txt|.|11|.|rfc3685.txt|.|13
+datatypes|.|rfc5935.txt|.|55
+boschi|.|rfc5473.txt|.|30|.|rfc5103.txt|.|29
+scsi|.|rfc3347.txt|.|97|.|rfc5048.txt|.|89|.|rfc4455.txt|.|698|.|rfc3783.txt|.|94|.|rfc5047.txt|.|118
+notes on the arc|.|rfc34.txt|.|2
+egress control|.|rfc4003.txt|.|14
+object resources|.|rfc4791.txt|.|75
+scheduling|.|rfc3283.txt|.|23|.|rfc406.txt|.|1|.|rfc5545.txt|.|51|.|rfc2309.txt|.|11|.|rfc2739.txt|.|11|.|rfc2591.txt|.|46|.|rfc2445.txt|.|60|.|rfc622.txt|.|4
+scsp|.|rfc2443.txt|.|51|.|rfc2335.txt|.|26|.|rfc2334.txt|.|113
+record syntax|.|rfc6283.txt|.|14
+signing time|.|rfc6019.txt|.|5|.|rfc4049.txt|.|5
+time transition|.|rfc2591.txt|.|6|.|rfc3231.txt|.|4
+time stamp token|.|rfc3628.txt|.|5|.|rfc5544.txt|.|2
+stamping services|.|rfc3628.txt|.|4
+future message|.|rfc4865.txt|.|45
+time protocol|.|rfc2783.txt|.|3|.|rfc4075.txt|.|6
+bibliographic|.|rfc3044.txt|.|21|.|rfc2288.txt|.|18
+duration mime|.|rfc3803.txt|.|6
+asati|.|rfc5918.txt|.|13|.|rfc6201.txt|.|20|.|rfc5462.txt|.|11
+binary signing|.|rfc6019.txt|.|2
+real time streaming|.|rfc2326.txt|.|93
+collection|.|rfc4073.txt|.|17|.|rfc2041.txt|.|19|.|rfc3227.txt|.|33|.|rfc4384.txt|.|23|.|rfc2562.txt|.|64|.|rfc5995.txt|.|25|.|rfc3382.txt|.|259|.|rfc4791.txt|.|109
+time sharing|.|rfc61.txt|.|3|.|rfc62.txt|.|1|.|rfc15.txt|.|5
+computer network|.|rfc61.txt|.|26
+message tlv|.|rfc5497.txt|.|15
+lake|.|rfc403.txt|.|3
+arc clock|.|rfc34.txt|.|3
+exec|.|rfc403.txt|.|3|.|rfc390.txt|.|4
+singer standards|.|rfc5484.txt|.|13
+represent date|.|rfc6019.txt|.|2|.|rfc4049.txt|.|2
+tsa|.|rfc3628.txt|.|224|.|rfc3161.txt|.|87
+itip december|.|rfc5546.txt|.|132
+scheduled|.|rfc406.txt|.|5|.|rfc2707.txt|.|4|.|rfc2591.txt|.|23|.|rfc440.txt|.|6|.|rfc3231.txt|.|24|.|rfc622.txt|.|3
+timezone|.|rfc4833.txt|.|44|.|rfc4791.txt|.|7
+transmission time|.|rfc5450.txt|.|15
+locating a calendar|.|rfc2739.txt|.|15
+tsu|.|rfc3628.txt|.|48
+icalendar|.|rfc3283.txt|.|21|.|rfc5545.txt|.|337|.|rfc5546.txt|.|99|.|rfc2445.txt|.|304|.|rfc2446.txt|.|72|.|rfc6047.txt|.|42|.|rfc2447.txt|.|36
+timezone property|.|rfc4791.txt|.|1
+friday|.|rfc621.txt|.|2|.|rfc416.txt|.|2|.|rfc2591.txt|.|10
+calendar component|.|rfc5545.txt|.|215|.|rfc5546.txt|.|147|.|rfc2445.txt|.|224|.|rfc2446.txt|.|150|.|rfc4791.txt|.|29
+icalendar object|.|rfc5546.txt|.|68|.|rfc2446.txt|.|52|.|rfc6047.txt|.|22|.|rfc2447.txt|.|19
+time collection|.|rfc2562.txt|.|16
+stamp token|.|rfc3628.txt|.|5|.|rfc5544.txt|.|2
+calendar user|.|rfc2739.txt|.|16
+dhcp april|.|rfc4833.txt|.|9
+lake city|.|rfc403.txt|.|3
+schedule|.|rfc633.txt|.|6|.|rfc111.txt|.|3|.|rfc447.txt|.|6|.|rfc593.txt|.|4|.|rfc334.txt|.|1|.|rfc434.txt|.|5|.|rfc445.txt|.|4|.|rfc207.txt|.|1|.|rfc2591.txt|.|37|.|rfc4009.txt|.|4|.|rfc5078.txt|.|10|.|rfc4011.txt|.|59|.|rfc416.txt|.|2|.|rfc403.txt|.|7|.|rfc3998.txt|.|2|.|rfc223.txt|.|3|.|rfc3231.txt|.|63|.|rfc476.txt|.|6|.|rfc638.txt|.|6
+scheduled action|.|rfc2591.txt|.|11|.|rfc3231.txt|.|12
+pulse|.|rfc3802.txt|.|6|.|rfc2783.txt|.|8
+synchronization|.|rfc5776.txt|.|111|.|rfc6138.txt|.|8|.|rfc4533.txt|.|102|.|rfc4442.txt|.|16|.|rfc4549.txt|.|70|.|rfc5443.txt|.|7|.|rfc4197.txt|.|16
+desruisseaux|.|rfc5545.txt|.|171
+desruisseaux standards|.|rfc5545.txt|.|168
+time offset|.|rfc4833.txt|.|8

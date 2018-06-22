@@ -1,0 +1,104 @@
+14
+forsyth|.|bbc_politics_290.txt|.|31
+hassan|.|bbc_politics_150.txt|.|5
+projects|.|bbc_politics_076.txt|.|8
+bad|.|bbc_politics_160.txt|.|2
+announce a deal|.|bbc_politics_017.txt|.|1
+proper exit strategy|.|bbc_politics_093.txt|.|2
+taxes|.|bbc_politics_349.txt|.|4|.|bbc_politics_301.txt|.|6|.|bbc_politics_101.txt|.|4|.|bbc_politics_159.txt|.|3|.|bbc_politics_077.txt|.|2|.|bbc_politics_283.txt|.|4|.|bbc_politics_361.txt|.|2
+south africa|.|bbc_politics_407.txt|.|3
+aid donor|.|bbc_politics_127.txt|.|1
+kashmir|.|bbc_politics_139.txt|.|3
+smile on voters|.|bbc_politics_360.txt|.|1
+ban|.|bbc_politics_050.txt|.|11|.|bbc_politics_152.txt|.|3|.|bbc_politics_032.txt|.|6|.|bbc_politics_134.txt|.|4|.|bbc_politics_066.txt|.|4|.|bbc_politics_381.txt|.|7|.|bbc_politics_377.txt|.|2|.|bbc_politics_179.txt|.|8|.|bbc_politics_058.txt|.|5|.|bbc_politics_137.txt|.|4
+nazi|.|bbc_politics_154.txt|.|2
+stability and growth pact|.|bbc_politics_389.txt|.|2
+ban compared|.|bbc_politics_381.txt|.|2
+general elections|.|bbc_politics_313.txt|.|1|.|bbc_politics_043.txt|.|1
+muslim community|.|bbc_politics_185.txt|.|3
+westminster|.|bbc_politics_393.txt|.|2|.|bbc_politics_010.txt|.|3
+digby jones|.|bbc_politics_359.txt|.|2|.|bbc_politics_005.txt|.|2
+pledges|.|bbc_politics_385.txt|.|1
+spending spree|.|bbc_politics_359.txt|.|2|.|bbc_politics_005.txt|.|2
+debt relief|.|bbc_politics_392.txt|.|3
+frozen|.|bbc_politics_158.txt|.|2
+forecast|.|bbc_politics_128.txt|.|1|.|bbc_politics_375.txt|.|2
+euro zone|.|bbc_politics_389.txt|.|2
+economy|.|bbc_politics_350.txt|.|3|.|bbc_politics_394.txt|.|2|.|bbc_politics_021.txt|.|3|.|bbc_politics_356.txt|.|3|.|bbc_politics_355.txt|.|2|.|bbc_politics_084.txt|.|3|.|bbc_politics_389.txt|.|2|.|bbc_politics_361.txt|.|5|.|bbc_politics_375.txt|.|3
+thousands|.|bbc_politics_365.txt|.|2
+aid|.|bbc_politics_127.txt|.|8|.|bbc_politics_366.txt|.|4|.|bbc_politics_130.txt|.|8|.|bbc_politics_195.txt|.|3|.|bbc_politics_251.txt|.|5|.|bbc_politics_191.txt|.|2|.|bbc_politics_135.txt|.|4|.|bbc_politics_150.txt|.|2
+robin cook|.|bbc_politics_276.txt|.|2
+chancellor said|.|bbc_politics_128.txt|.|2|.|bbc_politics_175.txt|.|2|.|bbc_politics_389.txt|.|2
+next year|.|bbc_politics_127.txt|.|2
+means|.|bbc_politics_349.txt|.|1|.|bbc_politics_099.txt|.|1
+parliamentary labour|.|bbc_politics_257.txt|.|3
+forecasting|.|bbc_politics_021.txt|.|1|.|bbc_politics_356.txt|.|1
+mr brown|.|bbc_politics_349.txt|.|2|.|bbc_politics_128.txt|.|7|.|bbc_politics_366.txt|.|6|.|bbc_politics_021.txt|.|4|.|bbc_politics_158.txt|.|2|.|bbc_politics_005.txt|.|3|.|bbc_politics_360.txt|.|4|.|bbc_politics_256.txt|.|7|.|bbc_politics_375.txt|.|9|.|bbc_politics_127.txt|.|4|.|bbc_politics_260.txt|.|6|.|bbc_politics_392.txt|.|4|.|bbc_politics_356.txt|.|4|.|bbc_politics_276.txt|.|2|.|bbc_politics_251.txt|.|3|.|bbc_politics_077.txt|.|1|.|bbc_politics_095.txt|.|4|.|bbc_politics_406.txt|.|13|.|bbc_politics_365.txt|.|3|.|bbc_politics_255.txt|.|6|.|bbc_politics_017.txt|.|2|.|bbc_politics_099.txt|.|7|.|bbc_politics_175.txt|.|2|.|bbc_politics_402.txt|.|3|.|bbc_politics_361.txt|.|1|.|bbc_politics_253.txt|.|6|.|bbc_politics_385.txt|.|4|.|bbc_politics_274.txt|.|1|.|bbc_politics_024.txt|.|2|.|bbc_politics_355.txt|.|5|.|bbc_politics_354.txt|.|1|.|bbc_politics_359.txt|.|3|.|bbc_politics_218.txt|.|6|.|bbc_politics_257.txt|.|10|.|bbc_politics_389.txt|.|4
+immunisation|.|bbc_politics_385.txt|.|5
+tour|.|bbc_politics_392.txt|.|2|.|bbc_politics_335.txt|.|3
+economic|.|bbc_politics_153.txt|.|4|.|bbc_politics_021.txt|.|3|.|bbc_politics_356.txt|.|3|.|bbc_politics_389.txt|.|4
+brown said|.|bbc_politics_392.txt|.|2|.|bbc_politics_366.txt|.|3|.|bbc_politics_365.txt|.|2
+slum|.|bbc_politics_024.txt|.|1
+mr balls|.|bbc_politics_359.txt|.|5|.|bbc_politics_005.txt|.|5
+smile|.|bbc_politics_360.txt|.|1
+brown has visited|.|bbc_politics_024.txt|.|1
+hit|.|bbc_politics_017.txt|.|1
+zone|.|bbc_politics_389.txt|.|2
+leave|.|bbc_politics_128.txt|.|4|.|bbc_politics_003.txt|.|3
+spree|.|bbc_politics_359.txt|.|3|.|bbc_politics_005.txt|.|3
+speculation|.|bbc_politics_254.txt|.|3|.|bbc_politics_253.txt|.|2|.|bbc_politics_207.txt|.|3|.|bbc_politics_252.txt|.|2|.|bbc_politics_255.txt|.|2|.|bbc_politics_218.txt|.|2|.|bbc_politics_099.txt|.|2
+mr cable|.|bbc_politics_355.txt|.|5
+boosting|.|bbc_politics_366.txt|.|2
+brown calls|.|bbc_politics_366.txt|.|1
+wind farms|.|bbc_politics_090.txt|.|2
+eu rules|.|bbc_politics_389.txt|.|2
+prosperity means|.|bbc_politics_099.txt|.|1
+stability and growth|.|bbc_politics_389.txt|.|2
+keep|.|bbc_politics_357.txt|.|3
+support agency|.|bbc_politics_156.txt|.|2
+daughter|.|bbc_politics_113.txt|.|2
+galloway|.|bbc_politics_302.txt|.|9|.|bbc_politics_150.txt|.|4
+sums|.|bbc_politics_098.txt|.|3
+forecasts|.|bbc_politics_362.txt|.|3|.|bbc_politics_021.txt|.|1|.|bbc_politics_356.txt|.|1|.|bbc_politics_364.txt|.|2|.|bbc_politics_360.txt|.|2
+who|.|bbc_politics_230.txt|.|4|.|bbc_politics_067.txt|.|2|.|bbc_politics_332.txt|.|6|.|bbc_politics_274.txt|.|2|.|bbc_politics_117.txt|.|3|.|bbc_politics_053.txt|.|5|.|bbc_politics_412.txt|.|2|.|bbc_politics_287.txt|.|3|.|bbc_politics_390.txt|.|2|.|bbc_politics_371.txt|.|2
+supreme court|.|bbc_politics_194.txt|.|2
+game|.|bbc_politics_199.txt|.|5
+people about their voting|.|bbc_politics_088.txt|.|1
+chief executive|.|bbc_politics_315.txt|.|5
+financial|.|bbc_politics_158.txt|.|2
+drinks|.|bbc_politics_094.txt|.|4
+majority voting|.|bbc_politics_193.txt|.|2
+faith|.|bbc_politics_172.txt|.|3
+remark|.|bbc_politics_094.txt|.|2
+pop idol|.|bbc_politics_259.txt|.|2
+show of unity|.|bbc_politics_260.txt|.|2
+unity|.|bbc_politics_260.txt|.|2|.|bbc_politics_256.txt|.|2
+visits|.|bbc_politics_024.txt|.|1
+higher taxes|.|bbc_politics_349.txt|.|2|.|bbc_politics_361.txt|.|2
+candidate|.|bbc_politics_145.txt|.|2|.|bbc_politics_286.txt|.|4|.|bbc_politics_125.txt|.|4
+donor|.|bbc_politics_127.txt|.|2|.|bbc_politics_276.txt|.|2
+reject|.|bbc_politics_222.txt|.|3
+duty would be frozen|.|bbc_politics_158.txt|.|1
+wants|.|bbc_politics_024.txt|.|2
+parliamentary|.|bbc_politics_257.txt|.|3
+presidencies|.|bbc_politics_127.txt|.|1
+move|.|bbc_politics_139.txt|.|1|.|bbc_politics_238.txt|.|3
+said reopening|.|bbc_politics_038.txt|.|2
+economic cycle|.|bbc_politics_389.txt|.|2
+rebate|.|bbc_politics_358.txt|.|4|.|bbc_politics_363.txt|.|2|.|bbc_politics_373.txt|.|12
+rates|.|bbc_politics_361.txt|.|2
+say|.|bbc_politics_265.txt|.|2|.|bbc_politics_075.txt|.|3|.|bbc_politics_226.txt|.|2|.|bbc_politics_028.txt|.|4|.|bbc_politics_213.txt|.|4|.|bbc_politics_388.txt|.|4
+target|.|bbc_politics_127.txt|.|3|.|bbc_politics_121.txt|.|8
+recommended|.|bbc_politics_240.txt|.|2
+economic forecasts|.|bbc_politics_021.txt|.|1|.|bbc_politics_356.txt|.|1
+new book|.|bbc_politics_260.txt|.|4|.|bbc_politics_225.txt|.|3|.|bbc_politics_324.txt|.|2|.|bbc_politics_257.txt|.|2|.|bbc_politics_256.txt|.|2
+trade|.|bbc_politics_385.txt|.|3
+relief effort|.|bbc_politics_208.txt|.|3
+sir digby|.|bbc_politics_359.txt|.|3|.|bbc_politics_005.txt|.|3
+visited|.|bbc_politics_024.txt|.|1
+duty|.|bbc_politics_158.txt|.|6|.|bbc_politics_054.txt|.|4|.|bbc_politics_361.txt|.|10|.|bbc_politics_375.txt|.|3
+investigation|.|bbc_politics_232.txt|.|2
+growth|.|bbc_politics_389.txt|.|4
+vaccination and immunisation|.|bbc_politics_385.txt|.|1
+visit|.|bbc_politics_188.txt|.|4|.|bbc_politics_155.txt|.|4
+simply|.|bbc_politics_040.txt|.|2

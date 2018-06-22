@@ -1,0 +1,64 @@
+scot|.|bbc_politics_164.txt|.|1
+macdonell said|.|bbc_politics_019.txt|.|3
+hogan|.|bbc_tech_281.txt|.|6
+cheaper|.|bbc_tech_243.txt|.|4|.|bbc_tech_050.txt|.|2
+benny|.|bbc_entertainment_164.txt|.|2
+search sites|.|bbc_tech_213.txt|.|2
+ofcom|.|bbc_business_252.txt|.|8
+focus|.|bbc_politics_394.txt|.|2|.|bbc_politics_019.txt|.|3
+appointing|.|bbc_sport_208.txt|.|1
+encampments|.|bbc_politics_176.txt|.|3
+dal|.|bbc_sport_350.txt|.|3
+scotland|.|bbc_sport_208.txt|.|6|.|bbc_sport_335.txt|.|3|.|bbc_politics_164.txt|.|5|.|bbc_sport_418.txt|.|3|.|bbc_sport_410.txt|.|4|.|bbc_sport_189.txt|.|2|.|bbc_sport_403.txt|.|4|.|bbc_sport_128.txt|.|2|.|bbc_politics_243.txt|.|2|.|bbc_politics_094.txt|.|1|.|bbc_politics_241.txt|.|5|.|bbc_politics_204.txt|.|1|.|bbc_sport_295.txt|.|2|.|bbc_politics_050.txt|.|5|.|bbc_sport_353.txt|.|2|.|bbc_sport_408.txt|.|3|.|bbc_sport_212.txt|.|6|.|bbc_politics_047.txt|.|7|.|bbc_sport_350.txt|.|2|.|bbc_sport_298.txt|.|3|.|bbc_sport_322.txt|.|4|.|bbc_politics_019.txt|.|3
+theatre|.|bbc_entertainment_023.txt|.|3|.|bbc_entertainment_294.txt|.|5|.|bbc_entertainment_273.txt|.|3|.|bbc_entertainment_008.txt|.|4|.|bbc_entertainment_315.txt|.|2|.|bbc_entertainment_358.txt|.|10|.|bbc_entertainment_012.txt|.|6
+scotland manager|.|bbc_sport_208.txt|.|2
+dal maso|.|bbc_sport_350.txt|.|3
+black friday|.|bbc_entertainment_054.txt|.|2
+universities|.|bbc_politics_047.txt|.|5
+paper said|.|bbc_business_212.txt|.|3
+williams|.|bbc_sport_407.txt|.|2|.|bbc_sport_365.txt|.|3|.|bbc_sport_392.txt|.|6|.|bbc_entertainment_253.txt|.|13|.|bbc_sport_318.txt|.|4|.|bbc_sport_225.txt|.|3|.|bbc_sport_488.txt|.|8|.|bbc_sport_395.txt|.|3|.|bbc_sport_416.txt|.|10|.|bbc_sport_396.txt|.|5|.|bbc_sport_312.txt|.|10|.|bbc_sport_129.txt|.|2|.|bbc_sport_355.txt|.|6|.|bbc_sport_436.txt|.|4|.|bbc_sport_474.txt|.|3|.|bbc_sport_439.txt|.|2|.|bbc_sport_445.txt|.|2|.|bbc_sport_430.txt|.|4|.|bbc_sport_298.txt|.|5|.|bbc_entertainment_119.txt|.|2|.|bbc_entertainment_037.txt|.|3|.|bbc_sport_456.txt|.|4|.|bbc_sport_441.txt|.|2|.|bbc_sport_322.txt|.|3
+stradey|.|bbc_sport_361.txt|.|3
+contest|.|bbc_sport_335.txt|.|3|.|bbc_sport_408.txt|.|3|.|bbc_entertainment_172.txt|.|4|.|bbc_politics_333.txt|.|2
+football association|.|bbc_sport_208.txt|.|2|.|bbc_sport_235.txt|.|2
+friends|.|bbc_entertainment_176.txt|.|6|.|bbc_tech_069.txt|.|2
+opener|.|bbc_sport_353.txt|.|1
+believe the executive|.|bbc_politics_010.txt|.|1
+vanity fair|.|bbc_entertainment_061.txt|.|4
+councils|.|bbc_politics_176.txt|.|9|.|bbc_politics_101.txt|.|6|.|bbc_politics_241.txt|.|10
+hanover|.|bbc_tech_395.txt|.|2
+problems|.|bbc_politics_214.txt|.|4|.|bbc_tech_034.txt|.|2|.|bbc_business_087.txt|.|2|.|bbc_tech_275.txt|.|2|.|bbc_politics_019.txt|.|3
+bobby darin|.|bbc_entertainment_071.txt|.|4
+real issues|.|bbc_politics_019.txt|.|2
+arrested|.|bbc_politics_074.txt|.|9|.|bbc_tech_271.txt|.|1|.|bbc_entertainment_110.txt|.|4|.|bbc_business_037.txt|.|2
+maso|.|bbc_sport_350.txt|.|3
+ban on smoking|.|bbc_politics_050.txt|.|4
+young|.|bbc_politics_056.txt|.|4|.|bbc_sport_446.txt|.|2|.|bbc_politics_309.txt|.|4|.|bbc_entertainment_014.txt|.|2|.|bbc_sport_426.txt|.|3|.|bbc_politics_094.txt|.|2|.|bbc_entertainment_369.txt|.|3|.|bbc_politics_019.txt|.|6
+borders|.|bbc_sport_384.txt|.|7|.|bbc_politics_038.txt|.|12
+santander|.|bbc_business_506.txt|.|6
+remark|.|bbc_politics_094.txt|.|2
+bad name|.|bbc_politics_160.txt|.|2
+wave|.|bbc_politics_164.txt|.|2
+mcconnell|.|bbc_politics_050.txt|.|5|.|bbc_politics_164.txt|.|5|.|bbc_politics_094.txt|.|8|.|bbc_politics_019.txt|.|5
+universities scotland|.|bbc_politics_047.txt|.|1
+gray|.|bbc_sport_353.txt|.|2|.|bbc_sport_232.txt|.|3
+free kick|.|bbc_sport_109.txt|.|2
+smoking|.|bbc_politics_050.txt|.|9|.|bbc_business_291.txt|.|3
+place bets|.|bbc_entertainment_221.txt|.|2
+philip french|.|bbc_entertainment_368.txt|.|3
+cell chip|.|bbc_tech_190.txt|.|2
+griffen|.|bbc_sport_350.txt|.|2
+blake|.|bbc_entertainment_169.txt|.|4
+tommy burns|.|bbc_sport_208.txt|.|2
+tommy|.|bbc_sport_208.txt|.|2|.|bbc_sport_466.txt|.|2
+smoke|.|bbc_politics_050.txt|.|4
+mr wallace|.|bbc_politics_047.txt|.|3
+drinking problems|.|bbc_politics_019.txt|.|1
+fallow patch|.|bbc_entertainment_122.txt|.|2
+knee|.|bbc_sport_353.txt|.|2|.|bbc_sport_249.txt|.|2|.|bbc_sport_200.txt|.|2
+places|.|bbc_politics_050.txt|.|4|.|bbc_tech_112.txt|.|1|.|bbc_entertainment_234.txt|.|2|.|bbc_sport_441.txt|.|2
+cyril|.|bbc_entertainment_190.txt|.|3
+trusted|.|bbc_politics_301.txt|.|1|.|bbc_tech_358.txt|.|14|.|bbc_politics_175.txt|.|2
+puzzle|.|bbc_sport_288.txt|.|1
+school pupils|.|bbc_politics_094.txt|.|1
+state pension|.|bbc_business_255.txt|.|2
+darfur|.|bbc_tech_223.txt|.|3

@@ -1,0 +1,17 @@
+117
+games awards|.|126.txt|.|1|.|171.txt|.|1
+voters|.|088.txt|.|2
+year|.|264.txt|.|5|.|105.txt|.|1|.|011.txt|.|3|.|126.txt|.|3|.|151.txt|.|5|.|232.txt|.|2|.|291.txt|.|6|.|170.txt|.|2|.|338.txt|.|4|.|163.txt|.|6|.|057.txt|.|3|.|064.txt|.|4|.|088.txt|.|6|.|171.txt|.|3|.|218.txt|.|1
+showcasing|.|291.txt|.|2|.|163.txt|.|2
+ultimate game|.|126.txt|.|2|.|171.txt|.|2
+annual bloggies|.|088.txt|.|2
+public library|.|236.txt|.|2
+said the panel|.|170.txt|.|1
+vacations|.|232.txt|.|1
+replacement phones|.|064.txt|.|2|.|338.txt|.|2
+awards|.|126.txt|.|4|.|088.txt|.|2|.|111.txt|.|4|.|171.txt|.|4|.|057.txt|.|6
+report|.|011.txt|.|3|.|033.txt|.|5|.|074.txt|.|2|.|242.txt|.|4|.|017.txt|.|4
+sands of time|.|218.txt|.|2
+western|.|064.txt|.|3|.|074.txt|.|3|.|338.txt|.|3
+weblog|.|088.txt|.|2
+episodes|.|011.txt|.|4

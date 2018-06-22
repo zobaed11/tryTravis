@@ -1,0 +1,120 @@
+end congestion control|.|rfc4336.txt|.|2
+dropped|.|rfc2884.txt|.|13
+empirical|.|rfc6049.txt|.|7|.|rfc3148.txt|.|18
+concerns regarding congestion|.|rfc3714.txt|.|32
+standard tcp|.|rfc6297.txt|.|31|.|rfc3649.txt|.|64
+control principles|.|rfc2914.txt|.|19
+control september|.|rfc5681.txt|.|17
+links with errors|.|rfc3155.txt|.|16
+concealing marked|.|rfc3540.txt|.|2
+tcp january|.|rfc2001.txt|.|5
+issues in internet|.|rfc6077.txt|.|51
+application limited|.|rfc2861.txt|.|2
+dtls connection|.|rfc5238.txt|.|10
+forwarding delay|.|rfc4689.txt|.|60
+norm protocol november|.|rfc3940.txt|.|79
+slow start|.|rfc5681.txt|.|23|.|rfc3742.txt|.|2|.|rfc5984.txt|.|1|.|rfc2001.txt|.|22|.|rfc2861.txt|.|1|.|rfc3155.txt|.|13
+vector expected|.|rfc4689.txt|.|24
+control mechanisms|.|rfc4336.txt|.|11|.|rfc5166.txt|.|30|.|rfc4689.txt|.|40|.|rfc505.txt|.|2
+congestion avoidance|.|rfc5681.txt|.|23|.|rfc2309.txt|.|17|.|rfc2001.txt|.|17|.|rfc3155.txt|.|14
+concealing|.|rfc3540.txt|.|3
+multiple rate|.|rfc5775.txt|.|26
+metrics march|.|rfc5166.txt|.|22
+udp usage guidelines|.|rfc5405.txt|.|29
+modified algorithm|.|rfc3465.txt|.|4
+rate congestion|.|rfc5775.txt|.|26
+addition of ecn to ip|.|rfc3168.txt|.|62
+document proposes|.|rfc3465.txt|.|4
+control rfcs|.|rfc5783.txt|.|28
+congestion control march|.|rfc3714.txt|.|31
+idle period|.|rfc2581.txt|.|7
+scheduling algorithms|.|rfc2309.txt|.|8
+principles september|.|rfc2914.txt|.|16
+infrastructure july|.|rfc5594.txt|.|27
+datagrams|.|rfc2333.txt|.|4|.|rfc2002.txt|.|74|.|rfc4293.txt|.|161|.|rfc6282.txt|.|27|.|rfc2098.txt|.|24|.|rfc6214.txt|.|5|.|rfc2734.txt|.|32|.|rfc2013.txt|.|6|.|rfc2171.txt|.|2|.|rfc5405.txt|.|25|.|rfc4336.txt|.|13|.|rfc4113.txt|.|25|.|rfc4840.txt|.|7|.|rfc2075.txt|.|11
+delay based|.|rfc6297.txt|.|1
+tracker|.|rfc5594.txt|.|14
+december|.|rfc5397.txt|.|5|.|rfc2478.txt|.|19|.|rfc4230.txt|.|49|.|rfc3451.txt|.|31|.|rfc5095.txt|.|8|.|rfc3621.txt|.|22|.|rfc3656.txt|.|19|.|rfc3186.txt|.|14|.|rfc2735.txt|.|12|.|rfc3417.txt|.|25|.|rfc4743.txt|.|21|.|rfc3204.txt|.|10|.|rfc5070.txt|.|93|.|rfc5743.txt|.|12|.|rfc4786.txt|.|24|.|rfc3336.txt|.|18|.|rfc4240.txt|.|26|.|rfc5717.txt|.|25|.|rfc3222.txt|.|15|.|rfc2062.txt|.|8|.|rfc3646.txt|.|7|.|rfc4768.txt|.|12|.|rfc5679.txt|.|12|.|rfc3208.txt|.|111|.|rfc4755.txt|.|13|.|rfc4229.txt|.|55|.|rfc3666.txt|.|121|.|rfc5729.txt|.|12|.|rfc3433.txt|.|21|.|rfc5745.txt|.|7|.|rfc3966.txt|.|17|.|rfc3431.txt|.|8|.|rfc3427.txt|.|12|.|rfc3021.txt|.|11|.|rfc433.txt|.|5|.|rfc5131.txt|.|7|.|rfc4741.txt|.|96|.|rfc3648.txt|.|30|.|rfc4313.txt|.|21|.|rfc3960.txt|.|14|.|rfc2252.txt|.|35|.|rfc4757.txt|.|18|.|rfc5722.txt|.|7|.|rfc409.txt|.|8|.|rfc2465.txt|.|41|.|rfc4332.txt|.|11|.|rfc5677.txt|.|29|.|rfc3439.txt|.|30|.|rfc3969.txt|.|7|.|rfc4279.txt|.|16|.|rfc82.txt|.|18|.|rfc2472.txt|.|17|.|rfc2474.txt|.|22|.|rfc5316.txt|.|21|.|rfc91.txt|.|12|.|rfc84.txt|.|10|.|rfc6075.txt|.|7|.|rfc4306.txt|.|106|.|rfc3226.txt|.|7|.|rfc443.txt|.|5|.|rfc4296.txt|.|23|.|rfc612.txt|.|8|.|rfc3951.txt|.|195|.|rfc5393.txt|.|20|.|rfc3633.txt|.|21|.|rfc2393.txt|.|11|.|rfc4261.txt|.|14|.|rfc3661.txt|.|25|.|rfc3454.txt|.|91|.|rfc601.txt|.|5|.|rfc2476.txt|.|15|.|rfc2463.txt|.|20|.|rfc80.txt|.|9|.|rfc4317.txt|.|25|.|rfc5073.txt|.|16|.|rfc2450.txt|.|15|.|rfc5656.txt|.|20|.|rfc2732.txt|.|5|.|rfc3326.txt|.|8|.|rfc2254.txt|.|10|.|rfc4298.txt|.|14|.|rfc5105.txt|.|18|.|rfc6047.txt|.|23|.|rfc4304.txt|.|7|.|rfc3631.txt|.|22|.|rfc4750.txt|.|125|.|rfc4744.txt|.|11|.|rfc3965.txt|.|14|.|rfc3418.txt|.|30|.|rfc4290.txt|.|28|.|rfc4282.txt|.|16|.|rfc5388.txt|.|77|.|rfc3002.txt|.|47|.|rfc3398.txt|.|72|.|rfc2061.txt|.|3|.|rfc5396.txt|.|3|.|rfc3671.txt|.|14|.|rfc5398.txt|.|3|.|rfc287.txt|.|5|.|rfc2256.txt|.|21|.|rfc3388.txt|.|21|.|rfc3663.txt|.|24|.|rfc5071.txt|.|14|.|rfc2469.txt|.|9|.|rfc4231.txt|.|9|.|rfc422.txt|.|4|.|rfc2726.txt|.|12|.|rfc3434.txt|.|27|.|rfc597.txt|.|8|.|rfc2467.txt|.|15|.|rfc3017.txt|.|33|.|rfc4262.txt|.|5|.|rfc432.txt|.|2|.|rfc3649.txt|.|35|.|rfc3020.txt|.|36|.|rfc2470.txt|.|15|.|rfc4742.txt|.|11|.|rfc3967.txt|.|6|.|rfc2738.txt|.|5|.|rfc4314.txt|.|28|.|rfc5076.txt|.|24|.|rfc5394.txt|.|37|.|rfc3450.txt|.|37|.|rfc4325.txt|.|8|.|rfc5094.txt|.|7|.|rfc4309.txt|.|16|.|rfc3665.txt|.|95|.|rfc3428.txt|.|18|.|rfc4772.txt|.|31|.|rfc3211.txt|.|17|.|rfc610.txt|.|89|.|rfc4289.txt|.|12|.|rfc4324.txt|.|132|.|rfc5049.txt|.|22|.|rfc3677.txt|.|7|.|rfc5375.txt|.|37|.|rfc6031.txt|.|30|.|rfc4307.txt|.|7|.|rfc6057.txt|.|34|.|rfc2731.txt|.|23|.|rfc4286.txt|.|19|.|rfc4723.txt|.|10|.|rfc4333.txt|.|10|.|rfc6065.txt|.|23|.|rfc4243.txt|.|7|.|rfc4316.txt|.|11|.|rfc3643.txt|.|23|.|rfc3952.txt|.|14|.|rfc6067.txt|.|9|.|rfc604.txt|.|2|.|rfc2253.txt|.|12|.|rfc4783.txt|.|19|.|rfc4269.txt|.|16|.|rfc4226.txt|.|37|.|rfc3203.txt|.|6|.|rfc6033.txt|.|6|.|rfc4297.txt|.|25|.|rfc3440.txt|.|39|.|rfc3216.txt|.|33|.|rfc4241.txt|.|16|.|rfc419.txt|.|2|.|rfc3662.txt|.|19|.|rfc5390.txt|.|15|.|rfc594.txt|.|3|.|rfc3327.txt|.|17|.|rfc5407.txt|.|60|.|rfc3449.txt|.|41|.|rfc3419.txt|.|21|.|rfc4794.txt|.|4|.|rfc2729.txt|.|27|.|rfc4775.txt|.|15|.|rfc282.txt|.|8|.|rfc5546.txt|.|133|.|rfc3944.txt|.|30|.|rfc3453.txt|.|19|.|rfc2733.txt|.|26|.|rfc3410.txt|.|36|.|rfc3436.txt|.|9|.|rfc2475.txt|.|37
+metrics july|.|rfc3148.txt|.|15
+manager june|.|rfc3124.txt|.|21
+recommendations april|.|rfc2309.txt|.|16
+congestion manager|.|rfc3124.txt|.|25
+dccp connection|.|rfc5238.txt|.|10
+control algorithms|.|rfc5033.txt|.|14
+defining|.|rfc3233.txt|.|5|.|rfc3148.txt|.|16|.|rfc5719.txt|.|4|.|rfc2489.txt|.|8
+floyd informational|.|rfc3426.txt|.|23|.|rfc5166.txt|.|23
+eddy informational|.|rfc5783.txt|.|28
+unicast udp|.|rfc5405.txt|.|29
+active queue management|.|rfc2481.txt|.|13
+paul|.|rfc10.txt|.|3
+isp congestion|.|rfc6057.txt|.|28
+congestion|.|rfc4222.txt|.|23|.|rfc5426.txt|.|7|.|rfc3168.txt|.|339|.|rfc3540.txt|.|38|.|rfc5290.txt|.|59|.|rfc3451.txt|.|77|.|rfc4336.txt|.|162|.|rfc5681.txt|.|83|.|rfc3124.txt|.|109|.|rfc5690.txt|.|259|.|rfc2001.txt|.|38|.|rfc4689.txt|.|53|.|rfc2884.txt|.|95|.|rfc3941.txt|.|26|.|rfc2581.txt|.|62|.|rfc4614.txt|.|62|.|rfc5238.txt|.|24|.|rfc3649.txt|.|155|.|rfc5459.txt|.|4|.|rfc5033.txt|.|68|.|rfc5762.txt|.|30|.|rfc3450.txt|.|78|.|rfc5775.txt|.|51|.|rfc2582.txt|.|18|.|rfc3940.txt|.|134|.|rfc5401.txt|.|30|.|rfc2309.txt|.|52|.|rfc5622.txt|.|35|.|rfc2914.txt|.|195|.|rfc5696.txt|.|9|.|rfc6012.txt|.|13|.|rfc2960.txt|.|61|.|rfc2481.txt|.|148|.|rfc6057.txt|.|141|.|rfc4015.txt|.|25|.|rfc3465.txt|.|39|.|rfc5405.txt|.|81|.|rfc3714.txt|.|143|.|rfc4340.txt|.|306|.|rfc3448.txt|.|37|.|rfc4342.txt|.|50|.|rfc3048.txt|.|25|.|rfc5740.txt|.|152|.|rfc5597.txt|.|6|.|rfc5651.txt|.|80|.|rfc6040.txt|.|110|.|rfc5783.txt|.|249|.|rfc5129.txt|.|54|.|rfc5562.txt|.|76|.|rfc4341.txt|.|108|.|rfc3155.txt|.|57|.|rfc2887.txt|.|31|.|rfc6297.txt|.|82|.|rfc3742.txt|.|44|.|rfc4653.txt|.|34|.|rfc3042.txt|.|28|.|rfc2861.txt|.|101|.|rfc3738.txt|.|54|.|rfc5559.txt|.|27|.|rfc5595.txt|.|7|.|rfc3148.txt|.|44|.|rfc2003.txt|.|8|.|rfc2702.txt|.|20|.|rfc5166.txt|.|74|.|rfc5594.txt|.|60|.|rfc6077.txt|.|313
+ratio|.|rfc5690.txt|.|143|.|rfc4692.txt|.|18|.|rfc4341.txt|.|53|.|rfc3194.txt|.|24
+ecn nonce|.|rfc4342.txt|.|34|.|rfc3540.txt|.|2
+control march|.|rfc3714.txt|.|31|.|rfc5168.txt|.|9
+added|.|rfc5235.txt|.|6
+glitch cleaning|.|rfc102.txt|.|4|.|rfc107.txt|.|2
+job progress|.|rfc3381.txt|.|25
+block october|.|rfc5651.txt|.|33
+start and congestion|.|rfc3155.txt|.|4
+metzger|.|rfc2841.txt|.|11
+lbe transport|.|rfc6297.txt|.|22
+service differentiation|.|rfc4689.txt|.|9
+red|.|rfc5326.txt|.|27|.|rfc2884.txt|.|32
+rfcs|.|rfc2629.txt|.|34|.|rfc5783.txt|.|48|.|rfc3789.txt|.|28|.|rfc2555.txt|.|77|.|rfc2525.txt|.|22
+congestion control principles|.|rfc2914.txt|.|19
+open issues in internet|.|rfc6077.txt|.|50
+building block october|.|rfc5651.txt|.|33
+ospf packets|.|rfc4222.txt|.|16
+adding|.|rfc3604.txt|.|18
+cm api|.|rfc3124.txt|.|18
+congestion notification|.|rfc6040.txt|.|19|.|rfc2309.txt|.|10|.|rfc5696.txt|.|7
+drop rate|.|rfc4828.txt|.|102|.|rfc3649.txt|.|34|.|rfc3714.txt|.|57
+mechanisms|.|rfc3469.txt|.|36|.|rfc3612.txt|.|21|.|rfc505.txt|.|3|.|rfc4422.txt|.|79|.|rfc5554.txt|.|7|.|rfc3329.txt|.|40|.|rfc2671.txt|.|8|.|rfc4336.txt|.|25|.|rfc2084.txt|.|8|.|rfc4947.txt|.|54|.|rfc2676.txt|.|63|.|rfc592.txt|.|3|.|rfc4213.txt|.|47|.|rfc4689.txt|.|44|.|rfc4341.txt|.|8|.|rfc3720.txt|.|23|.|rfc2755.txt|.|29|.|rfc3386.txt|.|43|.|rfc4428.txt|.|110|.|rfc6113.txt|.|102|.|rfc5355.txt|.|12|.|rfc3406.txt|.|32|.|rfc3312.txt|.|3|.|rfc2695.txt|.|29|.|rfc5166.txt|.|34|.|rfc3568.txt|.|30|.|rfc3631.txt|.|52|.|rfc5882.txt|.|16
+instantiation|.|rfc3450.txt|.|39|.|rfc3269.txt|.|23
+midi manufacturers|.|rfc4723.txt|.|10
+tcp congestion control|.|rfc2581.txt|.|17|.|rfc2582.txt|.|3|.|rfc3465.txt|.|12|.|rfc2861.txt|.|3
+change september|.|rfc3309.txt|.|16
+proposes|.|rfc3465.txt|.|4
+rate congestion control|.|rfc5775.txt|.|25
+message disposition notification|.|rfc3798.txt|.|36|.|rfc4130.txt|.|15
+forwarding congestion|.|rfc4689.txt|.|21
+senders and receivers|.|rfc5740.txt|.|12|.|rfc3940.txt|.|11
+regarding|.|rfc143.txt|.|4|.|rfc3714.txt|.|35
+transfer encodings|.|rfc4236.txt|.|10
+ethernet|.|rfc4719.txt|.|128|.|rfc5332.txt|.|18|.|rfc3638.txt|.|3|.|rfc5154.txt|.|44|.|rfc3621.txt|.|39|.|rfc4638.txt|.|17|.|rfc4448.txt|.|121|.|rfc5828.txt|.|130|.|rfc2358.txt|.|65|.|rfc1972.txt|.|26|.|rfc6005.txt|.|46|.|rfc2464.txt|.|32|.|rfc3637.txt|.|57|.|rfc5994.txt|.|21|.|rfc4562.txt|.|22|.|rfc5603.txt|.|46|.|rfc2819.txt|.|49|.|rfc3378.txt|.|23|.|rfc6003.txt|.|93|.|rfc4878.txt|.|126|.|rfc2666.txt|.|63|.|rfc5556.txt|.|40|.|rfc3619.txt|.|16|.|rfc5342.txt|.|27|.|rfc3635.txt|.|36|.|rfc2665.txt|.|27|.|rfc5692.txt|.|100|.|rfc4762.txt|.|54|.|rfc6060.txt|.|61|.|rfc2516.txt|.|43|.|rfc6246.txt|.|32
+active queue|.|rfc2309.txt|.|21
+registration authority|.|rfc5119.txt|.|8
+signaling june|.|rfc3540.txt|.|12
+liaison statement|.|rfc4053.txt|.|96|.|rfc4052.txt|.|14
+large congestion windows|.|rfc3742.txt|.|13
+trustees|.|rfc2135.txt|.|67|.|rfc2134.txt|.|12
+window validation|.|rfc2861.txt|.|18
+system december|.|rfc6057.txt|.|28
+errors|.|rfc5284.txt|.|17|.|rfc5461.txt|.|49|.|rfc3432.txt|.|11|.|rfc3155.txt|.|32|.|rfc4963.txt|.|12
+peer selection|.|rfc5693.txt|.|6|.|rfc5594.txt|.|17
+repair|.|rfc5170.txt|.|34|.|rfc5714.txt|.|68|.|rfc3941.txt|.|124|.|rfc5715.txt|.|25|.|rfc3940.txt|.|202|.|rfc6015.txt|.|132|.|rfc5401.txt|.|135|.|rfc5956.txt|.|83|.|rfc5725.txt|.|9|.|rfc4090.txt|.|30|.|rfc2354.txt|.|39
+ahmed|.|rfc2884.txt|.|20
+differentiation|.|rfc4689.txt|.|9
+end systems|.|rfc2884.txt|.|9
+process port|.|rfc167.txt|.|3
+identification and security guidelines|.|rfc2323.txt|.|5
+indirect method|.|rfc3128.txt|.|6
+regarding congestion control|.|rfc3714.txt|.|32
+traffic control mechanisms|.|rfc4689.txt|.|39
+papers|.|rfc116.txt|.|3|.|rfc5594.txt|.|7
+interpretation november|.|rfc2407.txt|.|31
+protocol instantiation december|.|rfc3450.txt|.|33
+networks july|.|rfc2884.txt|.|17
+unmanaged network|.|rfc3750.txt|.|40
+internet congestion control|.|rfc6077.txt|.|59
+control building|.|rfc5775.txt|.|26
+senders|.|rfc5740.txt|.|107|.|rfc3940.txt|.|86|.|rfc577.txt|.|1|.|rfc6054.txt|.|10
+newreno|.|rfc2582.txt|.|45|.|rfc3782.txt|.|65
+long idle|.|rfc2581.txt|.|4
+offered vector|.|rfc4689.txt|.|34
+limited|.|rfc3742.txt|.|25|.|rfc4653.txt|.|49|.|rfc5348.txt|.|48|.|rfc3042.txt|.|20|.|rfc2861.txt|.|7
+blocks|.|rfc4348.txt|.|4|.|rfc3611.txt|.|89|.|rfc3941.txt|.|62|.|rfc3048.txt|.|51|.|rfc4692.txt|.|6|.|rfc3983.txt|.|3|.|rfc3269.txt|.|48|.|rfc3267.txt|.|6|.|rfc4867.txt|.|7|.|rfc5737.txt|.|12
+congestion control mechanism|.|rfc5690.txt|.|12|.|rfc3448.txt|.|8
+congestion window|.|rfc2481.txt|.|28|.|rfc3742.txt|.|19|.|rfc3042.txt|.|11|.|rfc3649.txt|.|65|.|rfc2861.txt|.|89
+lct building block|.|rfc3450.txt|.|14|.|rfc3451.txt|.|29

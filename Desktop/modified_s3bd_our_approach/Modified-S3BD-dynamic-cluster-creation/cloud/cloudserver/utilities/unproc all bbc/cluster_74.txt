@@ -1,0 +1,64 @@
+mobiles with cameras|.|bbc_tech_388.txt|.|1|.|bbc_tech_103.txt|.|1
+atmosphere|.|bbc_tech_307.txt|.|2
+phone technology|.|bbc_tech_388.txt|.|2|.|bbc_tech_103.txt|.|2
+harmony|.|bbc_tech_179.txt|.|2|.|bbc_tech_131.txt|.|2
+televisions|.|bbc_business_211.txt|.|3
+usb|.|bbc_tech_343.txt|.|3
+cell processor|.|bbc_tech_320.txt|.|2|.|bbc_tech_018.txt|.|3|.|bbc_tech_319.txt|.|3
+iaea|.|bbc_tech_105.txt|.|5
+heavy metals|.|bbc_tech_307.txt|.|2
+regulate|.|bbc_tech_275.txt|.|1
+ideas based|.|bbc_tech_161.txt|.|1
+wireless usb|.|bbc_tech_343.txt|.|3
+cruises|.|bbc_tech_179.txt|.|1|.|bbc_tech_131.txt|.|1
+artgarden|.|bbc_tech_085.txt|.|3
+ultra|.|bbc_tech_343.txt|.|2
+visual impairments|.|bbc_tech_261.txt|.|2
+identity documents|.|bbc_tech_179.txt|.|1|.|bbc_tech_131.txt|.|1
+search technology|.|bbc_tech_085.txt|.|1
+sony|.|bbc_tech_317.txt|.|5|.|bbc_tech_379.txt|.|5|.|bbc_tech_320.txt|.|1|.|bbc_tech_018.txt|.|4|.|bbc_tech_052.txt|.|3|.|bbc_tech_111.txt|.|5|.|bbc_tech_219.txt|.|5|.|bbc_tech_238.txt|.|3|.|bbc_tech_396.txt|.|2|.|bbc_tech_045.txt|.|1|.|bbc_tech_190.txt|.|2|.|bbc_tech_112.txt|.|2|.|bbc_tech_319.txt|.|5|.|bbc_tech_341.txt|.|1|.|bbc_tech_224.txt|.|5|.|bbc_tech_025.txt|.|5
+major|.|bbc_tech_187.txt|.|4|.|bbc_entertainment_245.txt|.|2|.|bbc_sport_299.txt|.|2|.|bbc_entertainment_366.txt|.|2|.|bbc_entertainment_373.txt|.|2|.|bbc_business_343.txt|.|1|.|bbc_business_289.txt|.|3|.|bbc_sport_001.txt|.|2
+backs sony dvd technology|.|bbc_tech_219.txt|.|1|.|bbc_tech_224.txt|.|1
+browsing|.|bbc_tech_085.txt|.|2
+filing documents|.|bbc_business_267.txt|.|1|.|bbc_business_365.txt|.|1
+search engine|.|bbc_tech_076.txt|.|2|.|bbc_tech_232.txt|.|2|.|bbc_tech_053.txt|.|6|.|bbc_tech_010.txt|.|2|.|bbc_tech_261.txt|.|4
+megapixel|.|bbc_tech_388.txt|.|2|.|bbc_tech_103.txt|.|2
+creative industries|.|bbc_tech_005.txt|.|3
+rendering|.|bbc_tech_005.txt|.|3
+ideas|.|bbc_tech_161.txt|.|2
+processor|.|bbc_tech_320.txt|.|6|.|bbc_tech_018.txt|.|3|.|bbc_tech_319.txt|.|6
+dvd technology|.|bbc_tech_219.txt|.|2|.|bbc_tech_224.txt|.|2
+legal cases|.|bbc_tech_391.txt|.|2|.|bbc_tech_286.txt|.|2
+new seafarers|.|bbc_tech_179.txt|.|1|.|bbc_tech_131.txt|.|1
+computer systems|.|bbc_tech_105.txt|.|1
+art but know|.|bbc_tech_085.txt|.|1
+low power|.|bbc_tech_343.txt|.|2
+disc|.|bbc_tech_219.txt|.|2|.|bbc_tech_224.txt|.|2
+positional|.|bbc_tech_325.txt|.|2
+technology backed|.|bbc_tech_219.txt|.|1|.|bbc_tech_224.txt|.|1
+crystal harmony|.|bbc_tech_179.txt|.|2|.|bbc_tech_131.txt|.|2
+cause|.|bbc_tech_207.txt|.|2|.|bbc_tech_275.txt|.|1
+backs sony|.|bbc_tech_219.txt|.|1|.|bbc_tech_224.txt|.|1
+file|.|bbc_tech_391.txt|.|3|.|bbc_tech_259.txt|.|2|.|bbc_business_104.txt|.|1|.|bbc_tech_286.txt|.|3|.|bbc_tech_293.txt|.|2|.|bbc_tech_038.txt|.|1|.|bbc_tech_156.txt|.|2
+new search|.|bbc_tech_085.txt|.|1
+firm cec|.|bbc_tech_261.txt|.|2
+cause problems|.|bbc_tech_275.txt|.|1
+sold|.|bbc_entertainment_270.txt|.|3|.|bbc_business_197.txt|.|3|.|bbc_business_160.txt|.|2|.|bbc_tech_388.txt|.|5|.|bbc_tech_064.txt|.|2|.|bbc_business_318.txt|.|2|.|bbc_tech_130.txt|.|3|.|bbc_tech_178.txt|.|3|.|bbc_tech_338.txt|.|2|.|bbc_entertainment_140.txt|.|3|.|bbc_entertainment_152.txt|.|2|.|bbc_tech_103.txt|.|5
+dvd formats|.|bbc_tech_219.txt|.|1|.|bbc_tech_224.txt|.|1
+using wireless|.|bbc_tech_343.txt|.|1
+cases|.|bbc_tech_391.txt|.|2|.|bbc_tech_286.txt|.|2
+agency|.|bbc_politics_156.txt|.|3|.|bbc_sport_448.txt|.|2|.|bbc_tech_002.txt|.|2|.|bbc_business_345.txt|.|1|.|bbc_politics_315.txt|.|4|.|bbc_tech_105.txt|.|2|.|bbc_politics_204.txt|.|3
+megapixel images|.|bbc_tech_388.txt|.|2|.|bbc_tech_103.txt|.|2
+technology|.|bbc_tech_325.txt|.|12|.|bbc_tech_296.txt|.|3|.|bbc_tech_219.txt|.|6|.|bbc_tech_033.txt|.|3|.|bbc_tech_275.txt|.|6|.|bbc_tech_085.txt|.|5|.|bbc_tech_187.txt|.|6|.|bbc_tech_343.txt|.|9|.|bbc_tech_072.txt|.|3|.|bbc_tech_179.txt|.|3|.|bbc_tech_386.txt|.|4|.|bbc_tech_174.txt|.|4|.|bbc_tech_161.txt|.|11|.|bbc_tech_105.txt|.|3|.|bbc_tech_131.txt|.|3|.|bbc_tech_224.txt|.|6|.|bbc_tech_204.txt|.|3|.|bbc_tech_391.txt|.|7|.|bbc_tech_005.txt|.|10|.|bbc_business_267.txt|.|2|.|bbc_tech_137.txt|.|9|.|bbc_tech_388.txt|.|4|.|bbc_tech_286.txt|.|7|.|bbc_business_211.txt|.|3|.|bbc_business_365.txt|.|2|.|bbc_tech_193.txt|.|3|.|bbc_tech_307.txt|.|2|.|bbc_tech_319.txt|.|12|.|bbc_tech_261.txt|.|6|.|bbc_tech_103.txt|.|4
+impairments|.|bbc_tech_261.txt|.|2
+pearson|.|bbc_tech_161.txt|.|4
+material|.|bbc_entertainment_173.txt|.|3|.|bbc_entertainment_085.txt|.|2|.|bbc_tech_105.txt|.|2
+mr pearson|.|bbc_tech_161.txt|.|3
+nuclear material|.|bbc_tech_105.txt|.|2
+art world|.|bbc_tech_005.txt|.|1
+industries|.|bbc_entertainment_016.txt|.|1|.|bbc_tech_005.txt|.|4|.|bbc_entertainment_321.txt|.|1|.|bbc_entertainment_194.txt|.|3
+dominance|.|bbc_tech_319.txt|.|3
+uwb makes|.|bbc_tech_275.txt|.|1
+audio on a mobile|.|bbc_tech_325.txt|.|1
+make money|.|bbc_tech_391.txt|.|2|.|bbc_tech_286.txt|.|2
+congestion|.|bbc_politics_114.txt|.|3

@@ -1,0 +1,17 @@
+97
+communicate|.|251.txt|.|2
+relay services|.|251.txt|.|2
+work in real|.|198.txt|.|1
+bring|.|322.txt|.|2|.|059.txt|.|2|.|115.txt|.|2
+services|.|251.txt|.|5|.|239.txt|.|2|.|322.txt|.|13|.|358.txt|.|2|.|059.txt|.|13|.|198.txt|.|5|.|352.txt|.|5|.|382.txt|.|6|.|067.txt|.|6|.|280.txt|.|3|.|386.txt|.|7
+new rules|.|382.txt|.|3|.|067.txt|.|3
+video phone|.|251.txt|.|2
+conversations|.|251.txt|.|2
+demand|.|280.txt|.|1
+bring music|.|322.txt|.|1|.|059.txt|.|1
+similar services|.|280.txt|.|1
+icann|.|239.txt|.|2
+download|.|322.txt|.|4|.|058.txt|.|2|.|059.txt|.|4|.|011.txt|.|5|.|263.txt|.|3|.|298.txt|.|3|.|206.txt|.|1|.|095.txt|.|1
+music download|.|322.txt|.|3|.|059.txt|.|3|.|206.txt|.|1
+download services|.|322.txt|.|4|.|059.txt|.|4
+voice calls|.|251.txt|.|2

@@ -1,0 +1,17 @@
+90
+england|.|028.txt|.|3
+supreme court|.|092.txt|.|2|.|370.txt|.|5
+chief executive|.|378.txt|.|2|.|206.txt|.|2
+city|.|201.txt|.|3
+lead additives|.|307.txt|.|2
+make a gigapixel|.|201.txt|.|1
+bowl|.|bread.txt|.|9
+resolution|.|201.txt|.|2
+gigapixel|.|201.txt|.|3
+make online|.|369.txt|.|2
+viewers|.|113.txt|.|6|.|124.txt|.|6|.|011.txt|.|2|.|216.txt|.|3
+additives|.|307.txt|.|2
+address book|.|069.txt|.|3
+telephony|.|350.txt|.|3
+daily|.|184.txt|.|5
+make|.|396.txt|.|4|.|286.txt|.|3|.|339.txt|.|4|.|369.txt|.|4|.|391.txt|.|3|.|350.txt|.|5|.|201.txt|.|2|.|042.txt|.|4|.|214.txt|.|5

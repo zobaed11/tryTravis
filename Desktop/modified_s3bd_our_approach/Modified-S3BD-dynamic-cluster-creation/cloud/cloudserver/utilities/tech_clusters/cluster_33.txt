@@ -1,0 +1,17 @@
+33
+internet use|.|039.txt|.|2|.|334.txt|.|2
+ministries of education|.|004.txt|.|1|.|063.txt|.|1
+report says|.|074.txt|.|1
+similar|.|280.txt|.|3
+copyright|.|303.txt|.|4|.|075.txt|.|4
+mapping|.|223.txt|.|3
+negroponte|.|004.txt|.|5|.|063.txt|.|5
+use|.|077.txt|.|4|.|039.txt|.|2|.|074.txt|.|7|.|012.txt|.|4|.|331.txt|.|4|.|334.txt|.|2
+years|.|289.txt|.|4|.|176.txt|.|3|.|098.txt|.|4|.|132.txt|.|3
+yeast|.|bread.txt|.|10
+bureau of investigation|.|039.txt|.|1|.|334.txt|.|1
+linux|.|012.txt|.|8|.|331.txt|.|8|.|029.txt|.|3
+casual|.|170.txt|.|8
+chinese people|.|074.txt|.|4
+jerry|.|065.txt|.|2
+hitachi said|.|356.txt|.|2

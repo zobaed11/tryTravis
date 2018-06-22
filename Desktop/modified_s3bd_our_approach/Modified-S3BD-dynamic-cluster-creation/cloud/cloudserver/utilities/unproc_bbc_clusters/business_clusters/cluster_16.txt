@@ -1,0 +1,113 @@
+16
+limiting payments|.|bbc_business_305.txt|.|1
+dixon|.|bbc_business_455.txt|.|3
+consumer electronic|.|bbc_business_211.txt|.|1
+projects|.|bbc_business_282.txt|.|5|.|bbc_business_195.txt|.|1
+thought|.|bbc_business_006.txt|.|2
+south africa|.|bbc_business_218.txt|.|2|.|bbc_business_408.txt|.|3
+boerse|.|bbc_business_454.txt|.|12|.|bbc_business_220.txt|.|6|.|bbc_business_316.txt|.|4|.|bbc_business_264.txt|.|4|.|bbc_business_319.txt|.|5|.|bbc_business_171.txt|.|7|.|bbc_business_279.txt|.|5|.|bbc_business_392.txt|.|6|.|bbc_business_203.txt|.|3|.|bbc_business_421.txt|.|4
+debts owed|.|bbc_business_210.txt|.|2
+equity|.|bbc_business_315.txt|.|2
+ban|.|bbc_business_437.txt|.|2
+offer|.|bbc_business_340.txt|.|2|.|bbc_business_070.txt|.|2|.|bbc_business_224.txt|.|5|.|bbc_business_188.txt|.|6|.|bbc_business_451.txt|.|8|.|bbc_business_367.txt|.|4|.|bbc_business_169.txt|.|2|.|bbc_business_421.txt|.|5
+period last year|.|bbc_business_310.txt|.|2
+draft|.|bbc_business_469.txt|.|2
+manufacturing|.|bbc_business_058.txt|.|2|.|bbc_business_370.txt|.|5|.|bbc_business_227.txt|.|4|.|bbc_business_108.txt|.|3|.|bbc_business_086.txt|.|5
+rank|.|bbc_business_021.txt|.|5
+pension|.|bbc_business_255.txt|.|4|.|bbc_business_238.txt|.|3|.|bbc_business_235.txt|.|5
+exporters|.|bbc_business_427.txt|.|1
+promoting|.|bbc_business_448.txt|.|1|.|bbc_business_226.txt|.|1
+employers|.|bbc_business_382.txt|.|4|.|bbc_business_238.txt|.|6
+posted a record loss|.|bbc_business_219.txt|.|1
+previously been thought|.|bbc_business_006.txt|.|1
+wipro|.|bbc_business_480.txt|.|6
+disasters|.|bbc_business_346.txt|.|3|.|bbc_business_261.txt|.|5|.|bbc_business_311.txt|.|4
+textile|.|bbc_business_442.txt|.|5
+euro zone|.|bbc_business_172.txt|.|2
+lowest|.|bbc_business_253.txt|.|2|.|bbc_business_007.txt|.|2
+saudi|.|bbc_business_043.txt|.|6|.|bbc_business_476.txt|.|5|.|bbc_business_432.txt|.|6|.|bbc_business_470.txt|.|2
+driven by consumer|.|bbc_business_190.txt|.|2
+ncci shares|.|bbc_business_476.txt|.|1
+physical damage|.|bbc_business_471.txt|.|2
+plastic|.|bbc_business_362.txt|.|7
+plans|.|bbc_business_267.txt|.|2|.|bbc_business_365.txt|.|2
+broadband|.|bbc_business_112.txt|.|2|.|bbc_business_252.txt|.|5
+peace|.|bbc_business_347.txt|.|2
+factory output|.|bbc_business_453.txt|.|1
+ukraine|.|bbc_business_136.txt|.|6|.|bbc_business_197.txt|.|2|.|bbc_business_217.txt|.|9
+german growth|.|bbc_business_098.txt|.|2
+hurt|.|bbc_business_395.txt|.|1
+ba|.|bbc_business_432.txt|.|5
+deficit breaches|.|bbc_business_413.txt|.|1
+central european|.|bbc_business_172.txt|.|2
+damage|.|bbc_business_471.txt|.|4|.|bbc_business_353.txt|.|6
+said growth|.|bbc_business_073.txt|.|2
+strong|.|bbc_business_310.txt|.|3|.|bbc_business_112.txt|.|2|.|bbc_business_439.txt|.|2|.|bbc_business_450.txt|.|3|.|bbc_business_031.txt|.|3|.|bbc_business_259.txt|.|4|.|bbc_business_097.txt|.|2|.|bbc_business_038.txt|.|2|.|bbc_business_247.txt|.|3
+retail decisions|.|bbc_business_236.txt|.|4
+last month|.|bbc_business_061.txt|.|1
+economic growth|.|bbc_business_436.txt|.|2|.|bbc_business_172.txt|.|4|.|bbc_business_055.txt|.|2|.|bbc_business_175.txt|.|2|.|bbc_business_434.txt|.|2|.|bbc_business_471.txt|.|2|.|bbc_business_190.txt|.|4|.|bbc_business_459.txt|.|2
+vantage|.|bbc_business_105.txt|.|6
+ministers|.|bbc_business_065.txt|.|3|.|bbc_business_241.txt|.|4|.|bbc_business_210.txt|.|3|.|bbc_business_273.txt|.|2|.|bbc_business_075.txt|.|4|.|bbc_business_089.txt|.|3
+reais|.|bbc_business_303.txt|.|2
+unece forecasts|.|bbc_business_172.txt|.|1
+search|.|bbc_business_274.txt|.|3
+responsibility|.|bbc_business_397.txt|.|4
+insurer|.|bbc_business_103.txt|.|4|.|bbc_business_206.txt|.|3
+singapore growth|.|bbc_business_256.txt|.|1|.|bbc_business_371.txt|.|1
+customers|.|bbc_business_112.txt|.|2|.|bbc_business_185.txt|.|2|.|bbc_business_234.txt|.|3|.|bbc_business_020.txt|.|9
+panel|.|bbc_business_191.txt|.|2|.|bbc_business_243.txt|.|2
+strong growth|.|bbc_business_112.txt|.|2|.|bbc_business_031.txt|.|3
+novartis|.|bbc_business_201.txt|.|7
+pernod|.|bbc_business_005.txt|.|8
+nike|.|bbc_business_310.txt|.|3
+founder|.|bbc_business_458.txt|.|2|.|bbc_business_205.txt|.|3
+jobs|.|bbc_business_442.txt|.|3|.|bbc_business_027.txt|.|3|.|bbc_business_076.txt|.|3|.|bbc_business_278.txt|.|1|.|bbc_business_253.txt|.|9|.|bbc_business_356.txt|.|2|.|bbc_business_296.txt|.|6|.|bbc_business_047.txt|.|2|.|bbc_business_034.txt|.|3|.|bbc_business_460.txt|.|2|.|bbc_business_134.txt|.|9|.|bbc_business_227.txt|.|2|.|bbc_business_258.txt|.|2|.|bbc_business_297.txt|.|5|.|bbc_business_007.txt|.|9
+work and home|.|bbc_business_243.txt|.|1
+food|.|bbc_business_191.txt|.|2|.|bbc_business_005.txt|.|2
+singapore|.|bbc_business_256.txt|.|3|.|bbc_business_371.txt|.|3
+growth forecast|.|bbc_business_031.txt|.|1
+fly|.|bbc_business_380.txt|.|2|.|bbc_business_128.txt|.|2
+knocking six zeros|.|bbc_business_257.txt|.|1
+partner|.|bbc_business_505.txt|.|2
+exporters totalling|.|bbc_business_427.txt|.|1
+executive geoff|.|bbc_business_455.txt|.|2
+german economy|.|bbc_business_098.txt|.|2
+decent wages|.|bbc_business_227.txt|.|2
+river|.|bbc_business_470.txt|.|2
+da|.|bbc_business_272.txt|.|4
+economic|.|bbc_business_154.txt|.|4|.|bbc_business_200.txt|.|7|.|bbc_business_345.txt|.|4|.|bbc_business_426.txt|.|4|.|bbc_business_175.txt|.|3|.|bbc_business_434.txt|.|3|.|bbc_business_471.txt|.|2|.|bbc_business_285.txt|.|4|.|bbc_business_354.txt|.|8|.|bbc_business_272.txt|.|5|.|bbc_business_322.txt|.|2|.|bbc_business_172.txt|.|7|.|bbc_business_277.txt|.|7|.|bbc_business_459.txt|.|6|.|bbc_business_046.txt|.|3|.|bbc_business_436.txt|.|2|.|bbc_business_347.txt|.|2|.|bbc_business_259.txt|.|3|.|bbc_business_482.txt|.|2|.|bbc_business_283.txt|.|2|.|bbc_business_495.txt|.|5|.|bbc_business_190.txt|.|4|.|bbc_business_376.txt|.|3|.|bbc_business_330.txt|.|2|.|bbc_business_055.txt|.|3
+statistics|.|bbc_business_057.txt|.|2|.|bbc_business_441.txt|.|2|.|bbc_business_073.txt|.|2
+jobless|.|bbc_business_275.txt|.|3|.|bbc_business_387.txt|.|5|.|bbc_business_490.txt|.|2|.|bbc_business_061.txt|.|3|.|bbc_business_139.txt|.|3
+zone|.|bbc_business_172.txt|.|2
+totalling|.|bbc_business_427.txt|.|1
+newest|.|bbc_business_172.txt|.|2
+sectors|.|bbc_business_108.txt|.|2
+statistics office|.|bbc_business_073.txt|.|2
+than in january|.|bbc_business_108.txt|.|2
+market|.|bbc_business_447.txt|.|2|.|bbc_business_264.txt|.|5|.|bbc_business_294.txt|.|2|.|bbc_business_226.txt|.|2|.|bbc_business_438.txt|.|4|.|bbc_business_036.txt|.|1|.|bbc_business_019.txt|.|5|.|bbc_business_153.txt|.|5|.|bbc_business_272.txt|.|3|.|bbc_business_149.txt|.|5|.|bbc_business_319.txt|.|3|.|bbc_business_031.txt|.|3|.|bbc_business_290.txt|.|4|.|bbc_business_260.txt|.|1|.|bbc_business_494.txt|.|5|.|bbc_business_323.txt|.|7|.|bbc_business_035.txt|.|2|.|bbc_business_141.txt|.|5|.|bbc_business_459.txt|.|3|.|bbc_business_215.txt|.|5|.|bbc_business_254.txt|.|3|.|bbc_business_194.txt|.|2|.|bbc_business_283.txt|.|1|.|bbc_business_233.txt|.|2|.|bbc_business_220.txt|.|3|.|bbc_business_244.txt|.|3|.|bbc_business_177.txt|.|10|.|bbc_business_051.txt|.|3|.|bbc_business_113.txt|.|3|.|bbc_business_232.txt|.|3
+job|.|bbc_business_022.txt|.|5|.|bbc_business_416.txt|.|4|.|bbc_business_292.txt|.|4
+technical|.|bbc_business_006.txt|.|2
+growth estimate|.|bbc_business_098.txt|.|2
+job growth|.|bbc_business_416.txt|.|2|.|bbc_business_292.txt|.|2
+niesr|.|bbc_business_195.txt|.|7
+peugeot|.|bbc_business_013.txt|.|4|.|bbc_business_431.txt|.|2
+net profits|.|bbc_business_288.txt|.|1
+kazakhstan|.|bbc_business_357.txt|.|3
+physical|.|bbc_business_471.txt|.|2
+analysts said|.|bbc_business_416.txt|.|2|.|bbc_business_292.txt|.|2|.|bbc_business_346.txt|.|2|.|bbc_business_300.txt|.|2
+breach|.|bbc_business_413.txt|.|1
+annual income|.|bbc_business_484.txt|.|2
+electric|.|bbc_business_174.txt|.|2
+unece|.|bbc_business_172.txt|.|5
+us industrial|.|bbc_business_453.txt|.|2
+chairman of the federal reserve|.|bbc_business_213.txt|.|1
+fargo|.|bbc_business_417.txt|.|4
+lyle|.|bbc_business_385.txt|.|2
+sbc|.|bbc_business_278.txt|.|6
+african|.|bbc_business_055.txt|.|4
+ticket machines|.|bbc_business_123.txt|.|2
+growth|.|bbc_business_256.txt|.|5|.|bbc_business_310.txt|.|3|.|bbc_business_108.txt|.|4|.|bbc_business_006.txt|.|3|.|bbc_business_175.txt|.|3|.|bbc_business_493.txt|.|4|.|bbc_business_434.txt|.|2|.|bbc_business_110.txt|.|5|.|bbc_business_471.txt|.|4|.|bbc_business_073.txt|.|3|.|bbc_business_416.txt|.|6|.|bbc_business_172.txt|.|13|.|bbc_business_053.txt|.|1|.|bbc_business_371.txt|.|5|.|bbc_business_031.txt|.|7|.|bbc_business_459.txt|.|6|.|bbc_business_286.txt|.|4|.|bbc_business_046.txt|.|2|.|bbc_business_436.txt|.|4|.|bbc_business_453.txt|.|3|.|bbc_business_292.txt|.|6|.|bbc_business_253.txt|.|4|.|bbc_business_259.txt|.|2|.|bbc_business_190.txt|.|8|.|bbc_business_112.txt|.|3|.|bbc_business_147.txt|.|2|.|bbc_business_427.txt|.|2|.|bbc_business_055.txt|.|2|.|bbc_business_355.txt|.|2|.|bbc_business_098.txt|.|4|.|bbc_business_165.txt|.|8|.|bbc_business_288.txt|.|4|.|bbc_business_007.txt|.|4
+flights|.|bbc_business_015.txt|.|6|.|bbc_business_432.txt|.|6
+borussia|.|bbc_business_219.txt|.|6|.|bbc_business_193.txt|.|7
+ism survey|.|bbc_business_108.txt|.|1
+mobile market|.|bbc_business_019.txt|.|3

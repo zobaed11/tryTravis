@@ -1,0 +1,38 @@
+134
+resistance training|.|WET1476.txt|.|7
+fulton|.|WET2782.txt|.|130
+hair care|.|WET5438.txt|.|14|.|WET2895.txt|.|79
+featured brands|.|WET1627.txt|.|8|.|WET1378.txt|.|24
+browns shoes|.|WET1378.txt|.|19
+upvote|.|WET527.txt|.|62|.|WET444.txt|.|34|.|WET4445.txt|.|66
+yahoo finance|.|WET374.txt|.|49
+shoulder bags|.|WET1378.txt|.|18
+julianc|.|WET3619.txt|.|2
+loss|.|WET941.txt|.|4|.|WET34.txt|.|27|.|WET5809.txt|.|81|.|WET4983.txt|.|12|.|WET2067.txt|.|99|.|WET2937.txt|.|20|.|WET2277.txt|.|22|.|WET5808.txt|.|103
+sale internet|.|WET5164.txt|.|102|.|WET1413.txt|.|187
+hobos crossbody|.|WET1378.txt|.|18
+dolce|.|WET2273.txt|.|52
+xml|.|WET3616.txt|.|2|.|WET1587.txt|.|2|.|WET532.txt|.|20|.|WET6293.txt|.|2|.|WET6269.txt|.|2|.|WET1430.txt|.|2|.|WET3481.txt|.|5|.|WET5714.txt|.|2|.|WET345.txt|.|7|.|WET1040.txt|.|2|.|WET5473.txt|.|2|.|WET1588.txt|.|2|.|WET1960.txt|.|2|.|WET21.txt|.|1|.|WET523.txt|.|1|.|WET5049.txt|.|3|.|WET4449.txt|.|1|.|WET3414.txt|.|3|.|WET4533.txt|.|2|.|WET195.txt|.|1|.|WET4410.txt|.|2|.|WET4785.txt|.|4|.|WET4741.txt|.|3|.|WET4008.txt|.|1|.|WET1843.txt|.|2|.|WET2577.txt|.|2|.|WET601.txt|.|1|.|WET180.txt|.|3|.|WET2718.txt|.|2|.|WET5742.txt|.|2|.|WET3602.txt|.|2|.|WET4052.txt|.|2|.|WET3044.txt|.|3|.|WET4548.txt|.|2|.|WET732.txt|.|1|.|WET5831.txt|.|3|.|WET4583.txt|.|2|.|WET6302.txt|.|2|.|WET209.txt|.|2|.|WET624.txt|.|2|.|WET3478.txt|.|3|.|WET4019.txt|.|16|.|WET5213.txt|.|2|.|WET42.txt|.|2|.|WET1796.txt|.|1|.|WET4592.txt|.|2|.|WET4646.txt|.|1|.|WET1928.txt|.|4|.|WET2199.txt|.|2|.|WET238.txt|.|31|.|WET3122.txt|.|2|.|WET4788.txt|.|1|.|WET2537.txt|.|2|.|WET4114.txt|.|3|.|WET1822.txt|.|2|.|WET530.txt|.|2|.|WET2127.txt|.|2|.|WET5687.txt|.|2|.|WET4127.txt|.|2
+new arrivals most popular featured|.|WET3127.txt|.|66
+rendezvous|.|WET1220.txt|.|2|.|WET2933.txt|.|4|.|WET5685.txt|.|3
+top brands|.|WET5164.txt|.|104|.|WET1413.txt|.|176|.|WET2872.txt|.|35|.|WET6022.txt|.|9
+gran cru|.|WET5239.txt|.|6
+write|.|WET1435.txt|.|59|.|WET3133.txt|.|17|.|WET2347.txt|.|10|.|WET5969.txt|.|20|.|WET4907.txt|.|34
+products shop|.|WET1413.txt|.|187
+torii|.|WET5362.txt|.|8
+brands|.|WET1627.txt|.|24|.|WET2309.txt|.|15|.|WET5809.txt|.|109|.|WET5164.txt|.|121|.|WET5239.txt|.|25|.|WET1928.txt|.|30|.|WET1853.txt|.|56|.|WET2872.txt|.|61|.|WET4416.txt|.|31|.|WET3405.txt|.|17|.|WET5128.txt|.|63|.|WET2273.txt|.|38|.|WET6022.txt|.|25|.|WET3619.txt|.|45|.|WET2989.txt|.|47|.|WET1435.txt|.|60|.|WET1413.txt|.|181|.|WET3147.txt|.|148|.|WET2884.txt|.|75|.|WET2895.txt|.|47|.|WET1378.txt|.|38|.|WET5434.txt|.|50|.|WET3127.txt|.|66
+care regimen|.|WET2895.txt|.|77
+chaos|.|WET1057.txt|.|3|.|WET2417.txt|.|2|.|WET4692.txt|.|2|.|WET6000.txt|.|2|.|WET2200.txt|.|3|.|WET4743.txt|.|2|.|WET5823.txt|.|2|.|WET3442.txt|.|2|.|WET4920.txt|.|2|.|WET4314.txt|.|2|.|WET5234.txt|.|1|.|WET3943.txt|.|2|.|WET156.txt|.|2|.|WET130.txt|.|2|.|WET5071.txt|.|2|.|WET4477.txt|.|2|.|WET4709.txt|.|2|.|WET2036.txt|.|2|.|WET3062.txt|.|2|.|WET5088.txt|.|2|.|WET959.txt|.|2|.|WET4589.txt|.|2|.|WET649.txt|.|2|.|WET5621.txt|.|5|.|WET3046.txt|.|2|.|WET786.txt|.|2|.|WET4171.txt|.|2|.|WET5719.txt|.|2|.|WET1679.txt|.|2|.|WET4423.txt|.|2|.|WET1211.txt|.|2|.|WET4873.txt|.|2|.|WET361.txt|.|2|.|WET813.txt|.|2
+outlet brands|.|WET5434.txt|.|16
+new sale|.|WET5434.txt|.|40
+ski bindings|.|WET3147.txt|.|243
+weight loss|.|WET5809.txt|.|81|.|WET2937.txt|.|20|.|WET2277.txt|.|22
+specials request|.|WET5239.txt|.|6
+rifles|.|WET1139.txt|.|50|.|WET4885.txt|.|191|.|WET1138.txt|.|197
+input|.|WET2463.txt|.|9
+return my rental|.|WET5927.txt|.|16
+sql server blog|.|WET905.txt|.|33
+indoor|.|WET1413.txt|.|48|.|WET2916.txt|.|10
+fresh|.|WET1413.txt|.|63|.|WET5599.txt|.|36|.|WET5990.txt|.|60
+kao ti|.|WET4684.txt|.|5
+powell|.|WET3744.txt|.|9

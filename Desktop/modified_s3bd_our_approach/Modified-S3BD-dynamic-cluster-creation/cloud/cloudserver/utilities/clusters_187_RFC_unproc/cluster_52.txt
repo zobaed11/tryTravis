@@ -1,0 +1,120 @@
+preamble|.|rfc4050.txt|.|5
+mkcol for webdav|.|rfc5689.txt|.|11
+use of xml|.|rfc3470.txt|.|15
+semantic web|.|rfc3870.txt|.|2
+filter criteria|.|rfc4661.txt|.|17
+processors|.|rfc3914.txt|.|14|.|rfc3023.txt|.|37
+epp contact|.|rfc5733.txt|.|43
+pending additions|.|rfc5362.txt|.|29
+hollenbeck standards|.|rfc5733.txt|.|41|.|rfc4114.txt|.|17|.|rfc5734.txt|.|13|.|rfc3732.txt|.|28|.|rfc5732.txt|.|29|.|rfc4930.txt|.|72|.|rfc4933.txt|.|43
+character|.|rfc2070.txt|.|106|.|rfc2044.txt|.|24|.|rfc2184.txt|.|31|.|rfc4329.txt|.|34|.|rfc3629.txt|.|66|.|rfc3743.txt|.|71|.|rfc3718.txt|.|19|.|rfc97.txt|.|26|.|rfc1947.txt|.|14|.|rfc2319.txt|.|24|.|rfc2231.txt|.|31|.|rfc4042.txt|.|20|.|rfc2152.txt|.|58|.|rfc2277.txt|.|16|.|rfc4630.txt|.|6|.|rfc429.txt|.|5|.|rfc560.txt|.|46|.|rfc5242.txt|.|59|.|rfc86.txt|.|13|.|rfc318.txt|.|35|.|rfc493.txt|.|16|.|rfc2066.txt|.|87|.|rfc205.txt|.|29|.|rfc5147.txt|.|65|.|rfc2279.txt|.|34|.|rfc2978.txt|.|21|.|rfc3641.txt|.|26|.|rfc2130.txt|.|189|.|rfc3862.txt|.|29|.|rfc2278.txt|.|19|.|rfc2049.txt|.|45|.|rfc2482.txt|.|38|.|rfc320.txt|.|9|.|rfc4765.txt|.|36|.|rfc5259.txt|.|6|.|rfc2640.txt|.|95|.|rfc373.txt|.|40|.|rfc20.txt|.|40|.|rfc5894.txt|.|99|.|rfc3470.txt|.|38|.|rfc615.txt|.|9|.|rfc357.txt|.|43|.|rfc5228.txt|.|23|.|rfc2046.txt|.|51|.|rfc2781.txt|.|51|.|rfc5987.txt|.|42|.|rfc110.txt|.|28|.|rfc2237.txt|.|19|.|rfc5233.txt|.|6
+xml|.|rfc6230.txt|.|21|.|rfc5362.txt|.|34|.|rfc5388.txt|.|53|.|rfc4930.txt|.|77|.|rfc4825.txt|.|135|.|rfc4310.txt|.|27|.|rfc2807.txt|.|77|.|rfc4991.txt|.|42|.|rfc2629.txt|.|83|.|rfc5717.txt|.|13|.|rfc3981.txt|.|76|.|rfc5689.txt|.|35|.|rfc5875.txt|.|39|.|rfc3858.txt|.|18|.|rfc3354.txt|.|10|.|rfc4661.txt|.|107|.|rfc5733.txt|.|27|.|rfc4992.txt|.|68|.|rfc2518.txt|.|274|.|rfc3733.txt|.|28|.|rfc3653.txt|.|28|.|rfc3017.txt|.|53|.|rfc5364.txt|.|49|.|rfc5874.txt|.|55|.|rfc5076.txt|.|27|.|rfc3076.txt|.|173|.|rfc3923.txt|.|36|.|rfc5842.txt|.|17|.|rfc4374.txt|.|12|.|rfc5732.txt|.|26|.|rfc4153.txt|.|43|.|rfc5144.txt|.|32|.|rfc3910.txt|.|65|.|rfc5910.txt|.|27|.|rfc3749.txt|.|3|.|rfc2935.txt|.|14|.|rfc5854.txt|.|56|.|rfc2376.txt|.|162|.|rfc6120.txt|.|404|.|rfc3863.txt|.|70|.|rfc3731.txt|.|28|.|rfc3236.txt|.|30|.|rfc5935.txt|.|36|.|rfc6022.txt|.|13|.|rfc5528.txt|.|2|.|rfc3870.txt|.|11|.|rfc3730.txt|.|75|.|rfc5985.txt|.|38|.|rfc6137.txt|.|26|.|rfc3075.txt|.|192|.|rfc5730.txt|.|71|.|rfc6129.txt|.|21|.|rfc4791.txt|.|193|.|rfc5261.txt|.|218|.|rfc3023.txt|.|353|.|rfc6020.txt|.|145|.|rfc3149.txt|.|99|.|rfc5784.txt|.|116|.|rfc5628.txt|.|15|.|rfc3902.txt|.|9|.|rfc3920.txt|.|217|.|rfc3881.txt|.|25|.|rfc3470.txt|.|293|.|rfc3688.txt|.|33|.|rfc4050.txt|.|52|.|rfc5262.txt|.|31|.|rfc3275.txt|.|206|.|rfc6242.txt|.|20|.|rfc4826.txt|.|74|.|rfc4267.txt|.|18|.|rfc5105.txt|.|29|.|rfc6207.txt|.|24|.|rfc4051.txt|.|42|.|rfc3741.txt|.|113|.|rfc3529.txt|.|5|.|rfc4910.txt|.|252
+ietf xml registry|.|rfc3688.txt|.|8
+calendar collection|.|rfc4791.txt|.|82
+smi datatype|.|rfc5935.txt|.|19
+exclusive|.|rfc3741.txt|.|39
+common schema|.|rfc4991.txt|.|13
+rfcs using xml|.|rfc2629.txt|.|31
+resource lists|.|rfc5362.txt|.|3|.|rfc4826.txt|.|50|.|rfc4825.txt|.|7
+web distributed authoring|.|rfc5689.txt|.|3
+snmp smi|.|rfc5935.txt|.|14
+sieve march|.|rfc5784.txt|.|31
+diff event|.|rfc5875.txt|.|29
+xml declaration|.|rfc3470.txt|.|9
+validation mapping|.|rfc5076.txt|.|23
+vedam|.|rfc5784.txt|.|34
+marcxml|.|rfc6207.txt|.|9
+mgcp business|.|rfc3149.txt|.|41
+validation information|.|rfc5076.txt|.|36
+rendered|.|rfc3741.txt|.|7
+omitted|.|rfc2376.txt|.|15
+maintained registry|.|rfc3688.txt|.|2
+contact mapping|.|rfc5733.txt|.|42|.|rfc3733.txt|.|41|.|rfc4933.txt|.|44
+stark ericsson mobile|.|rfc3236.txt|.|2
+inria|.|rfc6129.txt|.|2
+omitted charset|.|rfc2376.txt|.|8
+semantic|.|rfc3870.txt|.|2
+representation for sieve|.|rfc5784.txt|.|33
+encoding declaration|.|rfc2376.txt|.|12
+document|.|rfc2346.txt|.|19|.|rfc4816.txt|.|10|.|rfc3494.txt|.|8|.|rfc5125.txt|.|6|.|rfc2303.txt|.|8|.|rfc6117.txt|.|87|.|rfc2141.txt|.|7|.|rfc2699.txt|.|64|.|rfc2999.txt|.|82|.|rfc1999.txt|.|68|.|rfc5743.txt|.|56|.|rfc6036.txt|.|15|.|rfc5168.txt|.|23|.|rfc4354.txt|.|53|.|rfc4229.txt|.|8|.|rfc5907.txt|.|14|.|rfc5970.txt|.|15|.|rfc4928.txt|.|12|.|rfc5530.txt|.|11|.|rfc5463.txt|.|10|.|rfc2707.txt|.|146|.|rfc4374.txt|.|18|.|rfc2644.txt|.|6|.|rfc2110.txt|.|43|.|rfc2099.txt|.|62|.|rfc2399.txt|.|71|.|rfc5224.txt|.|14|.|rfc4687.txt|.|21|.|rfc5237.txt|.|11|.|rfc3774.txt|.|19|.|rfc4714.txt|.|84|.|rfc4693.txt|.|32|.|rfc2651.txt|.|23|.|rfc5634.txt|.|17|.|rfc3465.txt|.|20|.|rfc5498.txt|.|16|.|rfc3898.txt|.|11|.|rfc2260.txt|.|20|.|rfc5032.txt|.|10|.|rfc4270.txt|.|11|.|rfc117.txt|.|5|.|rfc2799.txt|.|76|.|rfc3269.txt|.|20|.|rfc4879.txt|.|10|.|rfc4358.txt|.|4|.|rfc3499.txt|.|154|.|rfc5261.txt|.|184|.|rfc4509.txt|.|14|.|rfc3437.txt|.|16|.|rfc4827.txt|.|43|.|rfc5895.txt|.|19|.|rfc202.txt|.|2|.|rfc2679.txt|.|23|.|rfc1980.txt|.|8|.|rfc3275.txt|.|70|.|rfc2899.txt|.|78|.|rfc5662.txt|.|18|.|rfc6175.txt|.|137|.|rfc5987.txt|.|14|.|rfc5361.txt|.|48|.|rfc3356.txt|.|21|.|rfc2568.txt|.|25|.|rfc5289.txt|.|13|.|rfc6019.txt|.|16|.|rfc5787.txt|.|38|.|rfc4841.txt|.|7|.|rfc6213.txt|.|15|.|rfc2177.txt|.|4|.|rfc3930.txt|.|66|.|rfc4825.txt|.|340|.|rfc2223.txt|.|48|.|rfc3541.txt|.|8|.|rfc5264.txt|.|33|.|rfc5396.txt|.|7|.|rfc3779.txt|.|9|.|rfc5955.txt|.|12|.|rfc4858.txt|.|276|.|rfc4769.txt|.|12|.|rfc2299.txt|.|64|.|rfc3299.txt|.|98|.|rfc5134.txt|.|5|.|rfc6045.txt|.|58|.|rfc4770.txt|.|7|.|rfc6177.txt|.|25|.|rfc5904.txt|.|18|.|rfc5231.txt|.|14|.|rfc2681.txt|.|18|.|rfc79.txt|.|2|.|rfc2088.txt|.|3|.|rfc4248.txt|.|8|.|rfc3912.txt|.|12|.|rfc2858.txt|.|23|.|rfc4434.txt|.|10|.|rfc4661.txt|.|56|.|rfc2594.txt|.|72|.|rfc4708.txt|.|22|.|rfc100.txt|.|25|.|rfc5759.txt|.|17|.|rfc3599.txt|.|122|.|rfc4688.txt|.|7|.|rfc6149.txt|.|14|.|rfc5874.txt|.|144|.|rfc3967.txt|.|27|.|rfc5513.txt|.|12|.|rfc3924.txt|.|24|.|rfc4195.txt|.|5|.|rfc3076.txt|.|151|.|rfc4073.txt|.|8|.|rfc3762.txt|.|13|.|rfc6258.txt|.|26|.|rfc5081.txt|.|14|.|rfc4627.txt|.|6|.|rfc5732.txt|.|30|.|rfc5789.txt|.|46|.|rfc3856.txt|.|37|.|rfc5101.txt|.|15|.|rfc5774.txt|.|57|.|rfc2944.txt|.|6|.|rfc5420.txt|.|47|.|rfc3199.txt|.|90|.|rfc5358.txt|.|11|.|rfc6270.txt|.|13|.|rfc3722.txt|.|11|.|rfc5544.txt|.|31|.|rfc3854.txt|.|24|.|rfc320.txt|.|5|.|rfc2499.txt|.|86|.|rfc4049.txt|.|11|.|rfc2659.txt|.|6|.|rfc4845.txt|.|21|.|rfc2599.txt|.|76|.|rfc5708.txt|.|18|.|rfc3233.txt|.|9|.|rfc5025.txt|.|79|.|rfc4378.txt|.|11|.|rfc5330.txt|.|13|.|rfc5360.txt|.|52|.|rfc4937.txt|.|12|.|rfc3039.txt|.|21|.|rfc3688.txt|.|21|.|rfc4156.txt|.|10|.|rfc3479.txt|.|44|.|rfc4826.txt|.|101|.|rfc2970.txt|.|10|.|rfc3178.txt|.|16|.|rfc3099.txt|.|89|.|rfc6174.txt|.|170|.|rfc5497.txt|.|24|.|rfc2648.txt|.|14|.|rfc2979.txt|.|6
+xml mime|.|rfc3023.txt|.|54
+xml request|.|rfc3149.txt|.|12
+availability|.|rfc5218.txt|.|22|.|rfc5144.txt|.|12
+romary|.|rfc6129.txt|.|10
+instruction node|.|rfc5261.txt|.|13
+security extensions mapping|.|rfc4310.txt|.|22
+open trading protocol|.|rfc2935.txt|.|6
+exclusive xml canonicalization|.|rfc3741.txt|.|31
+vedam standards|.|rfc5784.txt|.|32
+diff processing|.|rfc5875.txt|.|1
+canonical form|.|rfc3076.txt|.|66
+voucher language|.|rfc4153.txt|.|21
+processing instruction node|.|rfc5261.txt|.|13
+internet open|.|rfc2935.txt|.|7|.|rfc3504.txt|.|5|.|rfc3354.txt|.|6
+business phone|.|rfc3149.txt|.|54
+status values|.|rfc2089.txt|.|1|.|rfc3863.txt|.|13
+xml representation for sieve|.|rfc5784.txt|.|33
+types july|.|rfc2376.txt|.|14
+mapping august|.|rfc5732.txt|.|28
+xcap diff|.|rfc5875.txt|.|42|.|rfc5874.txt|.|66
+goal of mapping|.|rfc2935.txt|.|2
+epp dns|.|rfc4310.txt|.|21
+lendl standards|.|rfc5105.txt|.|17
+generic voucher|.|rfc4153.txt|.|21
+prefixed|.|rfc5261.txt|.|15
+canonical xml|.|rfc3741.txt|.|17|.|rfc3275.txt|.|22|.|rfc3076.txt|.|42
+phone packages|.|rfc3149.txt|.|41
+xml document|.|rfc4661.txt|.|24|.|rfc5261.txt|.|77|.|rfc3076.txt|.|21
+signature syntax|.|rfc2807.txt|.|10
+partial pidf|.|rfc5262.txt|.|18
+prefixed namespace declaration|.|rfc5261.txt|.|10
+pipelining with chunks|.|rfc4992.txt|.|30
+saint andre|.|rfc3923.txt|.|1|.|rfc5122.txt|.|1
+internet open trading protocol|.|rfc2935.txt|.|6
+method defined|.|rfc3923.txt|.|4
+mobile communications|.|rfc3236.txt|.|2
+reagle|.|rfc2807.txt|.|11
+contact object|.|rfc5733.txt|.|40|.|rfc3733.txt|.|45|.|rfc4933.txt|.|45
+xml digital signature|.|rfc2807.txt|.|2
+maintained|.|rfc3688.txt|.|5
+sieves in xml|.|rfc5784.txt|.|6
+speech synthesis|.|rfc4267.txt|.|6
+xsd datatype|.|rfc5935.txt|.|17
+event package|.|rfc5362.txt|.|40|.|rfc3265.txt|.|33|.|rfc3680.txt|.|23|.|rfc4730.txt|.|28|.|rfc3842.txt|.|17|.|rfc6035.txt|.|23|.|rfc5263.txt|.|13|.|rfc5989.txt|.|24|.|rfc5875.txt|.|24|.|rfc6072.txt|.|25|.|rfc4354.txt|.|52
+lundberg|.|rfc6129.txt|.|10
+watcher information|.|rfc3857.txt|.|60|.|rfc3858.txt|.|26
+interface framework|.|rfc4267.txt|.|5
+metadata object description|.|rfc6207.txt|.|3
+exclusive xml|.|rfc3741.txt|.|31
+business phone packages|.|rfc3149.txt|.|41
+extensible markup|.|rfc3858.txt|.|3
+rfcs using|.|rfc2629.txt|.|32
+protocols january|.|rfc3470.txt|.|27
+open trading|.|rfc2935.txt|.|6|.|rfc3504.txt|.|5|.|rfc3354.txt|.|6
+lists|.|rfc5362.txt|.|4|.|rfc4677.txt|.|34|.|rfc3098.txt|.|28|.|rfc4825.txt|.|10|.|rfc300.txt|.|12|.|rfc168.txt|.|11|.|rfc5364.txt|.|40|.|rfc5366.txt|.|27|.|rfc5039.txt|.|33|.|rfc211.txt|.|16|.|rfc6134.txt|.|45|.|rfc303.txt|.|14|.|rfc4826.txt|.|57|.|rfc155.txt|.|5|.|rfc5363.txt|.|28|.|rfc3160.txt|.|31|.|rfc402.txt|.|18|.|rfc3704.txt|.|12|.|rfc606.txt|.|1|.|rfc2369.txt|.|15|.|rfc2196.txt|.|10|.|rfc3683.txt|.|18
+xml processors|.|rfc3023.txt|.|22
+canonicalization|.|rfc6283.txt|.|21|.|rfc3741.txt|.|38|.|rfc3275.txt|.|55|.|rfc3076.txt|.|32
+rose informational|.|rfc2629.txt|.|30
+underlying xml documents|.|rfc2935.txt|.|2
+partial notifications|.|rfc5362.txt|.|17
+notify request|.|rfc5263.txt|.|9|.|rfc3910.txt|.|36
+namespace prefixes|.|rfc3076.txt|.|14
+base datatypes|.|rfc5935.txt|.|14
+calendar data|.|rfc4791.txt|.|35
+graphical user|.|rfc5784.txt|.|8
+xsd|.|rfc5935.txt|.|57
+language september|.|rfc4153.txt|.|20
+stark|.|rfc3236.txt|.|10
+object description schema|.|rfc6207.txt|.|3
+expressing snmp|.|rfc5935.txt|.|14
+schema preamble|.|rfc4050.txt|.|4
+boyer|.|rfc3741.txt|.|19
+patch operations|.|rfc5261.txt|.|54
+consortium and inria|.|rfc6129.txt|.|2
+security uris|.|rfc4051.txt|.|16
+fujimura|.|rfc4153.txt|.|25
+signature requirements|.|rfc2807.txt|.|10
+declarations|.|rfc3741.txt|.|8|.|rfc3076.txt|.|26
+pidf diff|.|rfc5262.txt|.|2
+xml entity|.|rfc2376.txt|.|33
+initiating|.|rfc6120.txt|.|209|.|rfc5353.txt|.|47

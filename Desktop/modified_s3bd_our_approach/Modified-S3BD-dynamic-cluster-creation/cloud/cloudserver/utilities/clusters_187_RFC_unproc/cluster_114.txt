@@ -1,0 +1,120 @@
+router redundancy|.|rfc3768.txt|.|6|.|rfc5798.txt|.|11
+route instances|.|rfc4098.txt|.|12
+ocsp|.|rfc5019.txt|.|143|.|rfc4806.txt|.|107|.|rfc2560.txt|.|102|.|rfc5940.txt|.|16
+router requirements|.|rfc6204.txt|.|16
+configuring bgp to block|.|rfc3882.txt|.|8
+prefix|.|rfc3956.txt|.|21|.|rfc3913.txt|.|25|.|rfc6052.txt|.|131|.|rfc2461.txt|.|118|.|rfc4379.txt|.|123|.|rfc5177.txt|.|73|.|rfc3904.txt|.|26|.|rfc5071.txt|.|13|.|rfc5646.txt|.|95|.|rfc5575.txt|.|32|.|rfc3849.txt|.|16|.|rfc3769.txt|.|25|.|rfc5302.txt|.|41|.|rfc3222.txt|.|48|.|rfc2072.txt|.|50|.|rfc4098.txt|.|44|.|rfc4818.txt|.|19|.|rfc5130.txt|.|18|.|rfc5887.txt|.|31|.|rfc5569.txt|.|27|.|rfc4632.txt|.|35|.|rfc3162.txt|.|16|.|rfc4980.txt|.|36|.|rfc2909.txt|.|117|.|rfc2894.txt|.|94|.|rfc4864.txt|.|41|.|rfc6179.txt|.|32|.|rfc6276.txt|.|44|.|rfc5889.txt|.|9|.|rfc3031.txt|.|71|.|rfc5969.txt|.|72|.|rfc5286.txt|.|26|.|rfc2342.txt|.|18|.|rfc2260.txt|.|19|.|rfc3684.txt|.|43|.|rfc6164.txt|.|14|.|rfc3084.txt|.|15|.|rfc3756.txt|.|23|.|rfc3306.txt|.|26|.|rfc5942.txt|.|42|.|rfc5571.txt|.|61|.|rfc3490.txt|.|24|.|rfc4968.txt|.|26|.|rfc3633.txt|.|115|.|rfc3765.txt|.|13|.|rfc6020.txt|.|99|.|rfc2462.txt|.|32|.|rfc5292.txt|.|37|.|rfc5593.txt|.|10|.|rfc4861.txt|.|125|.|rfc3963.txt|.|99|.|rfc5140.txt|.|44|.|rfc2622.txt|.|36|.|rfc6126.txt|.|98|.|rfc3056.txt|.|56|.|rfc5454.txt|.|97|.|rfc3627.txt|.|23|.|rfc5220.txt|.|7|.|rfc3068.txt|.|33|.|rfc6034.txt|.|13|.|rfc2966.txt|.|36|.|rfc4192.txt|.|134|.|rfc4910.txt|.|143
+associated with the virtual router|.|rfc5798.txt|.|21
+restarting neighbor|.|rfc3847.txt|.|3
+neighbor discovery protocol|.|rfc3684.txt|.|4|.|rfc2461.txt|.|7|.|rfc4947.txt|.|2|.|rfc3971.txt|.|14|.|rfc4293.txt|.|2|.|rfc2491.txt|.|5|.|rfc2492.txt|.|2|.|rfc3122.txt|.|4|.|rfc2499.txt|.|2
+adsp record|.|rfc5617.txt|.|22
+ipvx|.|rfc5798.txt|.|86
+participating|.|rfc2281.txt|.|5
+applicability statement|.|rfc3257.txt|.|13|.|rfc3210.txt|.|11|.|rfc2005.txt|.|6|.|rfc3346.txt|.|15|.|rfc3213.txt|.|9|.|rfc4365.txt|.|35|.|rfc3197.txt|.|5|.|rfc2500.txt|.|11
+malis informational|.|rfc2917.txt|.|16
+geoloc option|.|rfc6225.txt|.|41
+hexdump|.|rfc4194.txt|.|19
+hints|.|rfc4284.txt|.|25|.|rfc4417.txt|.|7
+unicode plain text|.|rfc2482.txt|.|19
+agree|.|rfc50.txt|.|3
+subtree refinement|.|rfc3672.txt|.|15
+daley|.|rfc4135.txt|.|11|.|rfc6059.txt|.|21
+octet as specific|.|rfc5668.txt|.|14
+service provider network|.|rfc6204.txt|.|4
+router discovery|.|rfc4066.txt|.|50|.|rfc4286.txt|.|26
+summary lsas|.|rfc2328.txt|.|1|.|rfc2178.txt|.|2
+protocol workshop|.|rfc295.txt|.|7
+ocra|.|rfc6287.txt|.|118
+ethernet services|.|rfc6005.txt|.|10
+signed lsa|.|rfc2154.txt|.|17
+using xml|.|rfc2629.txt|.|35
+routing table|.|rfc3906.txt|.|10|.|rfc2178.txt|.|202|.|rfc4191.txt|.|19|.|rfc3221.txt|.|47
+opaque lsa|.|rfc4970.txt|.|10
+singh|.|rfc6204.txt|.|20|.|rfc5942.txt|.|13
+hinden standards|.|rfc3768.txt|.|27
+pgm reliable|.|rfc3208.txt|.|111
+flooding scope|.|rfc2740.txt|.|50
+droms standards|.|rfc3736.txt|.|9|.|rfc3633.txt|.|19
+goals for common|.|rfc2972.txt|.|11
+proppatch|.|rfc4316.txt|.|14
+associated with the virtual|.|rfc5798.txt|.|21|.|rfc2338.txt|.|15
+trust anchor option|.|rfc3971.txt|.|12
+link state request|.|rfc2328.txt|.|67
+helper mode|.|rfc3623.txt|.|15
+link layer address|.|rfc1970.txt|.|4|.|rfc3122.txt|.|1|.|rfc4861.txt|.|5
+convexity|.|rfc2776.txt|.|11
+huawei technologies|.|rfc6291.txt|.|3|.|rfc5612.txt|.|2|.|rfc6131.txt|.|3
+last hop|.|rfc3756.txt|.|9
+split horizon|.|rfc2080.txt|.|14|.|rfc2453.txt|.|24
+source block|.|rfc5445.txt|.|94|.|rfc3695.txt|.|95|.|rfc3453.txt|.|18|.|rfc5053.txt|.|69
+alert option|.|rfc2113.txt|.|12|.|rfc5350.txt|.|23|.|rfc2711.txt|.|8
+extension guide october|.|rfc5978.txt|.|29
+ls type|.|rfc5340.txt|.|100
+token ring|.|rfc2338.txt|.|29|.|rfc2470.txt|.|33
+prefix options|.|rfc3633.txt|.|24
+default router preference|.|rfc4191.txt|.|10
+network and the structure|.|rfc4779.txt|.|1
+ipvx address|.|rfc5798.txt|.|27
+backup designated router|.|rfc2178.txt|.|98
+venaas informational|.|rfc6104.txt|.|16
+advertisements february|.|rfc6104.txt|.|15
+routers is forwarding|.|rfc2281.txt|.|1
+link lsa|.|rfc2740.txt|.|2
+detecting network|.|rfc4135.txt|.|9|.|rfc6059.txt|.|12
+secure neighbor discovery|.|rfc6104.txt|.|6
+vrrp router|.|rfc3768.txt|.|20|.|rfc5798.txt|.|30|.|rfc2338.txt|.|19
+router|.|rfc2893.txt|.|27|.|rfc4311.txt|.|19|.|rfc4230.txt|.|58|.|rfc4389.txt|.|19|.|rfc3753.txt|.|46|.|rfc2338.txt|.|167|.|rfc4885.txt|.|24|.|rfc2328.txt|.|1082|.|rfc2461.txt|.|415|.|rfc4379.txt|.|47|.|rfc5786.txt|.|16|.|rfc6204.txt|.|137|.|rfc3964.txt|.|67|.|rfc4990.txt|.|55|.|rfc3222.txt|.|66|.|rfc3623.txt|.|112|.|rfc4577.txt|.|65|.|rfc2072.txt|.|218|.|rfc6178.txt|.|20|.|rfc4293.txt|.|62|.|rfc4798.txt|.|48|.|rfc2547.txt|.|73|.|rfc5887.txt|.|31|.|rfc6119.txt|.|24|.|rfc1970.txt|.|386|.|rfc2178.txt|.|1094|.|rfc2281.txt|.|144|.|rfc2992.txt|.|9|.|rfc6105.txt|.|19|.|rfc5488.txt|.|70|.|rfc4889.txt|.|181|.|rfc5570.txt|.|31|.|rfc5082.txt|.|19|.|rfc2740.txt|.|443|.|rfc4065.txt|.|7|.|rfc6104.txt|.|45|.|rfc2154.txt|.|238|.|rfc5316.txt|.|77|.|rfc5340.txt|.|477|.|rfc5306.txt|.|101|.|rfc6164.txt|.|4|.|rfc5350.txt|.|37|.|rfc4067.txt|.|20|.|rfc2491.txt|.|101|.|rfc6252.txt|.|49|.|rfc5075.txt|.|22|.|rfc3633.txt|.|241|.|rfc3768.txt|.|173|.|rfc4970.txt|.|51|.|rfc5946.txt|.|42|.|rfc4861.txt|.|422|.|rfc4191.txt|.|189|.|rfc4364.txt|.|93|.|rfc4887.txt|.|63|.|rfc3247.txt|.|26|.|rfc4063.txt|.|15|.|rfc4076.txt|.|4|.|rfc6139.txt|.|28|.|rfc2113.txt|.|19|.|rfc6126.txt|.|11|.|rfc3627.txt|.|15|.|rfc6192.txt|.|90|.|rfc4940.txt|.|21|.|rfc3847.txt|.|101|.|rfc5060.txt|.|96|.|rfc4750.txt|.|94|.|rfc4923.txt|.|105|.|rfc4061.txt|.|22|.|rfc5787.txt|.|82|.|rfc4973.txt|.|142|.|rfc2787.txt|.|88|.|rfc2991.txt|.|13|.|rfc4779.txt|.|299|.|rfc5177.txt|.|160|.|rfc2205.txt|.|45|.|rfc2019.txt|.|9|.|rfc3101.txt|.|112|.|rfc2009.txt|.|109|.|rfc1971.txt|.|34|.|rfc2106.txt|.|15|.|rfc4068.txt|.|87|.|rfc3971.txt|.|142|.|rfc6106.txt|.|20|.|rfc6041.txt|.|5|.|rfc2098.txt|.|35|.|rfc6039.txt|.|37|.|rfc3775.txt|.|167|.|rfc2894.txt|.|103|.|rfc5175.txt|.|22|.|rfc2309.txt|.|14|.|rfc3175.txt|.|85|.|rfc4294.txt|.|25|.|rfc3746.txt|.|39|.|rfc4988.txt|.|50|.|rfc4140.txt|.|48|.|rfc6276.txt|.|119|.|rfc2711.txt|.|28|.|rfc5714.txt|.|15|.|rfc4066.txt|.|101|.|rfc5642.txt|.|48|.|rfc3376.txt|.|114|.|rfc4943.txt|.|13|.|rfc2201.txt|.|59|.|rfc4286.txt|.|73|.|rfc2439.txt|.|11|.|rfc2236.txt|.|78|.|rfc3137.txt|.|25|.|rfc5121.txt|.|39|.|rfc3756.txt|.|72|.|rfc4888.txt|.|29|.|rfc2676.txt|.|53|.|rfc2917.txt|.|56|.|rfc2189.txt|.|132|.|rfc2650.txt|.|29|.|rfc3882.txt|.|20|.|rfc5798.txt|.|268|.|rfc4971.txt|.|47|.|rfc4459.txt|.|4|.|rfc6059.txt|.|92|.|rfc3963.txt|.|258|.|rfc4732.txt|.|52|.|rfc2622.txt|.|56|.|rfc3784.txt|.|28|.|rfc3056.txt|.|77|.|rfc6016.txt|.|35|.|rfc4365.txt|.|61|.|rfc3754.txt|.|19
+edge|.|rfc6115.txt|.|39|.|rfc6138.txt|.|1|.|rfc3837.txt|.|6|.|rfc6296.txt|.|32|.|rfc4496.txt|.|8|.|rfc4902.txt|.|11|.|rfc3914.txt|.|7|.|rfc5960.txt|.|5|.|rfc3752.txt|.|6|.|rfc4197.txt|.|4|.|rfc4779.txt|.|184
+link local addresses|.|rfc2740.txt|.|1|.|rfc5340.txt|.|1
+vrrp april|.|rfc3768.txt|.|26|.|rfc2338.txt|.|26
+designated router|.|rfc4061.txt|.|12|.|rfc2328.txt|.|311|.|rfc2178.txt|.|317
+bgp to block|.|rfc3882.txt|.|8
+optional capabilities|.|rfc4970.txt|.|3
+requirements april|.|rfc6204.txt|.|16|.|rfc4453.txt|.|7|.|rfc4294.txt|.|19|.|rfc3763.txt|.|10
+restart tlv|.|rfc5306.txt|.|28
+te router|.|rfc5787.txt|.|27|.|rfc4990.txt|.|23|.|rfc5316.txt|.|49
+hop router|.|rfc3756.txt|.|9
+traffic that flows|.|rfc2328.txt|.|1|.|rfc2178.txt|.|1|.|rfc3209.txt|.|1
+detecting|.|rfc3708.txt|.|6|.|rfc4135.txt|.|10|.|rfc6059.txt|.|16
+state request|.|rfc2328.txt|.|67
+name based|.|rfc6115.txt|.|2
+routes advertised|.|rfc4191.txt|.|2
+single router|.|rfc4063.txt|.|4
+path computation|.|rfc5392.txt|.|15|.|rfc4655.txt|.|102|.|rfc6006.txt|.|66|.|rfc5671.txt|.|31|.|rfc5541.txt|.|59|.|rfc5455.txt|.|29|.|rfc5468.txt|.|36|.|rfc5376.txt|.|62|.|rfc5862.txt|.|52|.|rfc5088.txt|.|31|.|rfc5557.txt|.|57|.|rfc4726.txt|.|34|.|rfc5152.txt|.|37|.|rfc5521.txt|.|39|.|rfc5440.txt|.|181|.|rfc5520.txt|.|39|.|rfc5089.txt|.|22|.|rfc5623.txt|.|93|.|rfc5394.txt|.|155|.|rfc6007.txt|.|99|.|rfc5441.txt|.|60|.|rfc4657.txt|.|53|.|rfc5886.txt|.|85|.|rfc4927.txt|.|38|.|rfc5298.txt|.|85|.|rfc4674.txt|.|51
+isbn|.|rfc3187.txt|.|71
+grace lsa|.|rfc3623.txt|.|1
+resource reservation protocols|.|rfc2098.txt|.|5
+derivative|.|rfc5378.txt|.|21|.|rfc3667.txt|.|30|.|rfc3978.txt|.|30
+lsas|.|rfc3101.txt|.|148|.|rfc2328.txt|.|247|.|rfc5786.txt|.|6|.|rfc2370.txt|.|85|.|rfc2178.txt|.|247|.|rfc5250.txt|.|92|.|rfc5340.txt|.|158
+forwarding|.|rfc6213.txt|.|12|.|rfc3478.txt|.|40|.|rfc2096.txt|.|27|.|rfc3422.txt|.|35|.|rfc2889.txt|.|56|.|rfc2597.txt|.|31|.|rfc5885.txt|.|9|.|rfc2647.txt|.|34|.|rfc3704.txt|.|20|.|rfc5443.txt|.|10|.|rfc4562.txt|.|25|.|rfc6053.txt|.|12|.|rfc4689.txt|.|142|.|rfc3222.txt|.|125|.|rfc5884.txt|.|9|.|rfc2941.txt|.|6|.|rfc3246.txt|.|23|.|rfc5984.txt|.|23|.|rfc3136.txt|.|5|.|rfc2547.txt|.|43|.|rfc5865.txt|.|8|.|rfc5881.txt|.|6|.|rfc5695.txt|.|96|.|rfc6041.txt|.|32|.|rfc4292.txt|.|50|.|rfc4781.txt|.|30|.|rfc4605.txt|.|26|.|rfc4264.txt|.|16|.|rfc4665.txt|.|26|.|rfc2598.txt|.|17|.|rfc2281.txt|.|7|.|rfc2285.txt|.|65|.|rfc2432.txt|.|43|.|rfc3609.txt|.|22|.|rfc4724.txt|.|30
+request that can be serviced|.|rfc3746.txt|.|1
+ip destination|.|rfc2328.txt|.|11|.|rfc2178.txt|.|12
+discovery december|.|rfc4286.txt|.|17
+models and threats|.|rfc3756.txt|.|23
+ef aggregate|.|rfc3246.txt|.|12
+prefix delegation|.|rfc3769.txt|.|19|.|rfc3633.txt|.|33|.|rfc6276.txt|.|32
+atm abr|.|rfc3134.txt|.|17
+default router|.|rfc4943.txt|.|9|.|rfc4191.txt|.|32
+rogue ras|.|rfc6104.txt|.|29
+iana allocations|.|rfc5498.txt|.|11|.|rfc4446.txt|.|9|.|rfc4065.txt|.|10
+ao uses|.|rfc5925.txt|.|1
+decoding dependency|.|rfc5583.txt|.|48
+foreign machine|.|rfc56.txt|.|5
+neighbor discovery|.|rfc5006.txt|.|9|.|rfc6273.txt|.|6|.|rfc4389.txt|.|17|.|rfc4214.txt|.|8|.|rfc3971.txt|.|88|.|rfc4429.txt|.|14|.|rfc4943.txt|.|12|.|rfc3122.txt|.|90|.|rfc5214.txt|.|10|.|rfc4861.txt|.|163|.|rfc5909.txt|.|42|.|rfc1970.txt|.|132|.|rfc2461.txt|.|147|.|rfc3756.txt|.|30|.|rfc2917.txt|.|7|.|rfc5942.txt|.|11|.|rfc5269.txt|.|11|.|rfc5175.txt|.|7|.|rfc2491.txt|.|35|.|rfc2469.txt|.|5|.|rfc5075.txt|.|7|.|rfc2590.txt|.|28
+state record|.|rfc6092.txt|.|60
+vrrp packet|.|rfc3768.txt|.|10|.|rfc2338.txt|.|11
+lsa types|.|rfc5340.txt|.|20
+deployment october|.|rfc2969.txt|.|18
+service area|.|rfc2009.txt|.|36
+ecmp|.|rfc2992.txt|.|11
+graceful ospf restart|.|rfc3623.txt|.|18|.|rfc4167.txt|.|15
+restarting router|.|rfc5306.txt|.|35|.|rfc3623.txt|.|27|.|rfc3847.txt|.|35
+architecture for lawful|.|rfc3924.txt|.|18
+technique for routing|.|rfc2992.txt|.|1
+backup routers|.|rfc5798.txt|.|12
+lls data|.|rfc5613.txt|.|22
+independent graphical|.|rfc177.txt|.|9
+system proposal for arpa|.|rfc304.txt|.|7
+router preferences|.|rfc4191.txt|.|22
+standard neighbor|.|rfc6059.txt|.|5
+rcdo rtp payload|.|rfc6185.txt|.|22

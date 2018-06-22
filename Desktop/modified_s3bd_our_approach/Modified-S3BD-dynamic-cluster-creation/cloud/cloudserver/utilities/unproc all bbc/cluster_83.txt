@@ -1,0 +1,64 @@
+plan to extend|.|bbc_politics_202.txt|.|1
+limiting payments|.|bbc_business_305.txt|.|1
+protects|.|bbc_politics_230.txt|.|2|.|bbc_business_368.txt|.|1
+imposed|.|bbc_sport_048.txt|.|2|.|bbc_entertainment_171.txt|.|1
+john stevens|.|bbc_politics_034.txt|.|2
+legalise|.|bbc_politics_068.txt|.|1
+rural|.|bbc_politics_152.txt|.|3
+who use|.|bbc_politics_230.txt|.|2
+patenting of computer|.|bbc_tech_258.txt|.|1
+approved|.|bbc_business_305.txt|.|2|.|bbc_business_085.txt|.|1
+burglar|.|bbc_politics_230.txt|.|3
+law banning hunting|.|bbc_politics_152.txt|.|1
+peers debate|.|bbc_politics_266.txt|.|1
+hunting ban|.|bbc_politics_152.txt|.|2|.|bbc_politics_032.txt|.|2|.|bbc_politics_381.txt|.|1
+dogs|.|bbc_politics_152.txt|.|3|.|bbc_politics_169.txt|.|8|.|bbc_politics_134.txt|.|2|.|bbc_politics_179.txt|.|2|.|bbc_politics_137.txt|.|3
+alcohol focus|.|bbc_politics_019.txt|.|2
+hunting|.|bbc_politics_152.txt|.|10|.|bbc_politics_169.txt|.|14|.|bbc_politics_032.txt|.|4|.|bbc_politics_134.txt|.|11|.|bbc_politics_066.txt|.|4|.|bbc_politics_381.txt|.|2|.|bbc_politics_179.txt|.|8
+sister|.|bbc_tech_132.txt|.|4|.|bbc_business_282.txt|.|2|.|bbc_tech_176.txt|.|4
+lords ruled|.|bbc_politics_384.txt|.|1
+law|.|bbc_tech_258.txt|.|5|.|bbc_tech_377.txt|.|2|.|bbc_politics_221.txt|.|5|.|bbc_tech_342.txt|.|5|.|bbc_politics_137.txt|.|9|.|bbc_politics_230.txt|.|6|.|bbc_politics_068.txt|.|4|.|bbc_tech_330.txt|.|5|.|bbc_politics_224.txt|.|8|.|bbc_business_305.txt|.|3|.|bbc_entertainment_171.txt|.|1|.|bbc_tech_399.txt|.|3|.|bbc_politics_034.txt|.|8|.|bbc_tech_048.txt|.|5|.|bbc_politics_368.txt|.|7|.|bbc_tech_132.txt|.|3|.|bbc_politics_266.txt|.|2|.|bbc_tech_030.txt|.|3|.|bbc_politics_202.txt|.|2|.|bbc_politics_384.txt|.|6|.|bbc_politics_040.txt|.|9|.|bbc_politics_031.txt|.|5|.|bbc_politics_152.txt|.|9|.|bbc_tech_080.txt|.|7|.|bbc_politics_198.txt|.|2|.|bbc_tech_096.txt|.|2|.|bbc_tech_176.txt|.|3|.|bbc_tech_014.txt|.|5|.|bbc_politics_045.txt|.|2|.|bbc_entertainment_303.txt|.|2|.|bbc_politics_097.txt|.|2|.|bbc_politics_019.txt|.|4
+tech firms|.|bbc_tech_048.txt|.|2|.|bbc_tech_342.txt|.|2
+suspected|.|bbc_politics_368.txt|.|1
+banning|.|bbc_politics_152.txt|.|1|.|bbc_politics_169.txt|.|1|.|bbc_politics_219.txt|.|2
+householders|.|bbc_politics_230.txt|.|4
+limiting|.|bbc_business_305.txt|.|1
+hunt supporters|.|bbc_politics_137.txt|.|2
+hunts|.|bbc_politics_137.txt|.|8
+innovative|.|bbc_tech_258.txt|.|2|.|bbc_tech_229.txt|.|1|.|bbc_business_146.txt|.|2|.|bbc_tech_399.txt|.|1
+assisted|.|bbc_politics_068.txt|.|2
+british films|.|bbc_entertainment_303.txt|.|2
+inventions|.|bbc_tech_048.txt|.|2|.|bbc_tech_258.txt|.|2|.|bbc_tech_080.txt|.|3|.|bbc_tech_030.txt|.|4|.|bbc_tech_342.txt|.|2
+andy hayman|.|bbc_politics_198.txt|.|2
+bankruptcy laws|.|bbc_business_305.txt|.|1
+preparatory work|.|bbc_politics_198.txt|.|2
+intruders|.|bbc_politics_230.txt|.|3
+payments to workers|.|bbc_business_305.txt|.|2
+succession to the crown|.|bbc_politics_266.txt|.|1
+patenting of software|.|bbc_tech_258.txt|.|2
+rights laws|.|bbc_politics_224.txt|.|2
+killing|.|bbc_politics_230.txt|.|1
+patenting|.|bbc_tech_258.txt|.|5
+focus scotland|.|bbc_politics_019.txt|.|2
+belmarsh|.|bbc_politics_224.txt|.|2
+hayman said|.|bbc_politics_198.txt|.|2
+bobby|.|bbc_entertainment_071.txt|.|4
+ban law|.|bbc_politics_152.txt|.|1
+rights movement|.|bbc_politics_279.txt|.|4
+law lords|.|bbc_politics_368.txt|.|6|.|bbc_politics_224.txt|.|3|.|bbc_politics_221.txt|.|3|.|bbc_politics_384.txt|.|3|.|bbc_politics_040.txt|.|4|.|bbc_politics_097.txt|.|2
+open letter|.|bbc_business_449.txt|.|2
+incidents|.|bbc_sport_200.txt|.|1
+fresh delay|.|bbc_tech_080.txt|.|2
+opposing|.|bbc_politics_202.txt|.|1
+protect inventions|.|bbc_tech_048.txt|.|1|.|bbc_tech_342.txt|.|1
+macdonell|.|bbc_politics_019.txt|.|4
+rural communities|.|bbc_politics_152.txt|.|1
+delay hits|.|bbc_tech_080.txt|.|1
+honestly|.|bbc_politics_230.txt|.|2
+resigns|.|bbc_sport_202.txt|.|1
+monitor|.|bbc_tech_373.txt|.|3|.|bbc_politics_025.txt|.|2|.|bbc_tech_079.txt|.|3|.|bbc_tech_270.txt|.|1|.|bbc_tech_299.txt|.|1|.|bbc_politics_137.txt|.|1
+mr mcletchie said|.|bbc_politics_045.txt|.|2
+prosecutors and police|.|bbc_politics_230.txt|.|1
+mr law|.|bbc_politics_019.txt|.|3
+hour drinking|.|bbc_politics_202.txt|.|1
+detention ruling|.|bbc_politics_368.txt|.|1

@@ -1,0 +1,93 @@
+14
+reports|.|bbc_entertainment_170.txt|.|1
+tabloids us|.|bbc_entertainment_345.txt|.|1
+tabloid|.|bbc_entertainment_345.txt|.|2
+acts|.|bbc_entertainment_121.txt|.|1|.|bbc_entertainment_122.txt|.|1|.|bbc_entertainment_289.txt|.|3
+cage|.|bbc_entertainment_083.txt|.|2
+download|.|bbc_entertainment_278.txt|.|5|.|bbc_entertainment_127.txt|.|7|.|bbc_entertainment_266.txt|.|5|.|bbc_entertainment_103.txt|.|7
+copycat|.|bbc_entertainment_205.txt|.|2
+tsunami relief|.|bbc_entertainment_195.txt|.|2
+us television network|.|bbc_entertainment_195.txt|.|1
+join|.|bbc_entertainment_182.txt|.|2
+comedy sideways|.|bbc_entertainment_030.txt|.|2
+us soap|.|bbc_entertainment_170.txt|.|1
+mr newton|.|bbc_entertainment_147.txt|.|3
+tribute to actor|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+contest|.|bbc_entertainment_172.txt|.|4
+tackle us|.|bbc_entertainment_289.txt|.|2
+swap|.|bbc_entertainment_205.txt|.|3
+mr|.|bbc_entertainment_003.txt|.|3|.|bbc_entertainment_135.txt|.|2|.|bbc_entertainment_375.txt|.|6|.|bbc_entertainment_319.txt|.|6|.|bbc_entertainment_272.txt|.|3|.|bbc_entertainment_367.txt|.|7|.|bbc_entertainment_012.txt|.|2|.|bbc_entertainment_149.txt|.|7|.|bbc_entertainment_114.txt|.|6|.|bbc_entertainment_320.txt|.|3|.|bbc_entertainment_147.txt|.|4|.|bbc_entertainment_108.txt|.|4|.|bbc_entertainment_169.txt|.|7|.|bbc_entertainment_223.txt|.|2
+ms|.|bbc_entertainment_346.txt|.|2|.|bbc_entertainment_258.txt|.|6
+author|.|bbc_entertainment_304.txt|.|3|.|bbc_entertainment_027.txt|.|1|.|bbc_entertainment_010.txt|.|1
+epic|.|bbc_entertainment_083.txt|.|2
+lush|.|bbc_entertainment_225.txt|.|2|.|bbc_entertainment_223.txt|.|3
+us film|.|bbc_entertainment_097.txt|.|1
+television network|.|bbc_entertainment_195.txt|.|1
+vienna state|.|bbc_entertainment_023.txt|.|2|.|bbc_entertainment_273.txt|.|2
+bob|.|bbc_entertainment_120.txt|.|8
+tackle|.|bbc_entertainment_289.txt|.|2
+cantata|.|bbc_entertainment_342.txt|.|2
+leeds|.|bbc_entertainment_322.txt|.|3
+nude|.|bbc_entertainment_080.txt|.|2
+box office takings|.|bbc_entertainment_073.txt|.|2|.|bbc_entertainment_350.txt|.|2
+soap|.|bbc_entertainment_170.txt|.|2|.|bbc_entertainment_211.txt|.|2
+pbs|.|bbc_entertainment_080.txt|.|5
+trading|.|bbc_entertainment_205.txt|.|2
+associations|.|bbc_entertainment_030.txt|.|2
+birthday|.|bbc_entertainment_233.txt|.|3
+tabloids|.|bbc_entertainment_345.txt|.|2
+nudity|.|bbc_entertainment_080.txt|.|2
+showcasing|.|bbc_entertainment_231.txt|.|2
+scores|.|bbc_entertainment_285.txt|.|1
+keys|.|bbc_entertainment_150.txt|.|3|.|bbc_entertainment_264.txt|.|4|.|bbc_entertainment_259.txt|.|2|.|bbc_entertainment_175.txt|.|4
+us weekly|.|bbc_entertainment_345.txt|.|2
+sledge|.|bbc_entertainment_291.txt|.|2
+dvd is us|.|bbc_entertainment_359.txt|.|1
+us rappers|.|bbc_entertainment_147.txt|.|1
+box|.|bbc_entertainment_060.txt|.|2|.|bbc_entertainment_100.txt|.|4|.|bbc_entertainment_312.txt|.|2|.|bbc_entertainment_073.txt|.|3|.|bbc_entertainment_364.txt|.|2|.|bbc_entertainment_046.txt|.|2|.|bbc_entertainment_363.txt|.|6|.|bbc_entertainment_049.txt|.|3|.|bbc_entertainment_350.txt|.|3|.|bbc_entertainment_088.txt|.|3|.|bbc_entertainment_380.txt|.|3|.|bbc_entertainment_072.txt|.|4|.|bbc_entertainment_384.txt|.|2|.|bbc_entertainment_335.txt|.|3|.|bbc_entertainment_066.txt|.|2|.|bbc_entertainment_155.txt|.|4|.|bbc_entertainment_053.txt|.|6|.|bbc_entertainment_297.txt|.|3|.|bbc_entertainment_338.txt|.|2|.|bbc_entertainment_074.txt|.|3|.|bbc_entertainment_340.txt|.|3|.|bbc_entertainment_076.txt|.|4|.|bbc_entertainment_065.txt|.|2
+boy|.|bbc_entertainment_130.txt|.|2
+weekly|.|bbc_entertainment_345.txt|.|2
+network|.|bbc_entertainment_195.txt|.|1|.|bbc_entertainment_205.txt|.|3|.|bbc_entertainment_170.txt|.|2
+scored a chart|.|bbc_entertainment_285.txt|.|1
+head|.|bbc_entertainment_053.txt|.|1
+dirty war|.|bbc_entertainment_080.txt|.|3
+producing|.|bbc_entertainment_259.txt|.|1|.|bbc_entertainment_205.txt|.|1
+hit like|.|bbc_entertainment_066.txt|.|1
+composition|.|bbc_entertainment_147.txt|.|2
+critics associations|.|bbc_entertainment_030.txt|.|2
+british acts|.|bbc_entertainment_289.txt|.|2
+week us|.|bbc_entertainment_359.txt|.|1
+ratings|.|bbc_entertainment_226.txt|.|2|.|bbc_entertainment_031.txt|.|2|.|bbc_entertainment_170.txt|.|3
+records label|.|bbc_entertainment_161.txt|.|1
+bbc film|.|bbc_entertainment_080.txt|.|1
+national|.|bbc_entertainment_083.txt|.|3|.|bbc_entertainment_026.txt|.|2|.|bbc_entertainment_008.txt|.|2|.|bbc_entertainment_024.txt|.|2
+music download|.|bbc_entertainment_127.txt|.|2|.|bbc_entertainment_103.txt|.|2
+magazines|.|bbc_entertainment_345.txt|.|2
+bpi|.|bbc_entertainment_278.txt|.|5
+relief|.|bbc_entertainment_195.txt|.|3
+roundabout|.|bbc_entertainment_353.txt|.|11
+oscar winner|.|bbc_entertainment_385.txt|.|2
+dirty|.|bbc_entertainment_031.txt|.|2|.|bbc_entertainment_080.txt|.|4
+shark|.|bbc_entertainment_359.txt|.|4
+choice awards|.|bbc_entertainment_097.txt|.|2
+billionaire|.|bbc_entertainment_178.txt|.|3
+us tv|.|bbc_entertainment_080.txt|.|3|.|bbc_entertainment_182.txt|.|2
+false tabloids|.|bbc_entertainment_345.txt|.|1
+beastie boys|.|bbc_entertainment_147.txt|.|6
+visas|.|bbc_entertainment_289.txt|.|3
+unfortunate|.|bbc_entertainment_060.txt|.|2
+false|.|bbc_entertainment_345.txt|.|3
+raised|.|bbc_entertainment_182.txt|.|2
+union|.|bbc_entertainment_289.txt|.|3
+us television|.|bbc_entertainment_195.txt|.|2
+britney|.|bbc_entertainment_345.txt|.|3
+home|.|bbc_entertainment_359.txt|.|3
+critics|.|bbc_entertainment_091.txt|.|2|.|bbc_entertainment_030.txt|.|6
+reports in the hollywood|.|bbc_entertainment_170.txt|.|1
+ossie davis found|.|bbc_entertainment_044.txt|.|1
+regulations|.|bbc_entertainment_289.txt|.|2
+home video|.|bbc_entertainment_359.txt|.|3
+us network|.|bbc_entertainment_205.txt|.|2
+wife swap|.|bbc_entertainment_205.txt|.|3
+rappers|.|bbc_entertainment_147.txt|.|1
+us critics|.|bbc_entertainment_030.txt|.|2

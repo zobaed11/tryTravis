@@ -1,0 +1,17 @@
+55
+programs bittorrent|.|241.txt|.|2
+shared|.|255.txt|.|3
+texas lawsuit was filed|.|273.txt|.|1
+lawsuit|.|273.txt|.|5|.|248.txt|.|4
+alleged|.|273.txt|.|2
+tiger|.|259.txt|.|3
+products|.|395.txt|.|3|.|248.txt|.|3|.|259.txt|.|3|.|362.txt|.|2
+general|.|273.txt|.|3
+korea|.|378.txt|.|4|.|109.txt|.|3
+us state|.|273.txt|.|2
+apple has taken|.|259.txt|.|2
+texas attorney|.|273.txt|.|2
+action|.|180.txt|.|2|.|273.txt|.|3|.|259.txt|.|5|.|255.txt|.|3|.|241.txt|.|3|.|399.txt|.|1|.|133.txt|.|2
+broke laws|.|273.txt|.|1
+vital|.|006.txt|.|3
+huaral|.|006.txt|.|2

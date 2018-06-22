@@ -1,0 +1,91 @@
+4
+big|.|bbc_sport_420.txt|.|2|.|bbc_sport_254.txt|.|2
+signs new|.|bbc_sport_196.txt|.|1
+agent|.|bbc_sport_195.txt|.|2|.|bbc_sport_230.txt|.|2|.|bbc_sport_393.txt|.|2
+radcliffe faces|.|bbc_sport_040.txt|.|1
+frustrated|.|bbc_sport_217.txt|.|2
+led|.|bbc_sport_384.txt|.|2|.|bbc_sport_371.txt|.|2
+appointment|.|bbc_sport_043.txt|.|3
+dawson|.|bbc_sport_390.txt|.|3|.|bbc_sport_383.txt|.|6|.|bbc_sport_356.txt|.|3
+den|.|bbc_sport_382.txt|.|2
+barbarians|.|bbc_sport_382.txt|.|5
+hitzlsperger|.|bbc_sport_230.txt|.|2
+blacks|.|bbc_sport_328.txt|.|2|.|bbc_sport_371.txt|.|13|.|bbc_sport_366.txt|.|2|.|bbc_sport_329.txt|.|2
+cup win|.|bbc_sport_390.txt|.|1
+offer|.|bbc_sport_390.txt|.|1|.|bbc_sport_393.txt|.|2
+marathon training|.|bbc_sport_072.txt|.|2
+newcastle to join|.|bbc_sport_272.txt|.|1
+corner|.|bbc_sport_269.txt|.|3
+william|.|bbc_sport_097.txt|.|2
+doubles events|.|bbc_sport_462.txt|.|1
+four|.|bbc_sport_372.txt|.|2|.|bbc_sport_237.txt|.|2|.|bbc_sport_229.txt|.|1|.|bbc_sport_015.txt|.|1|.|bbc_sport_451.txt|.|1
+drugs tests|.|bbc_sport_023.txt|.|2|.|bbc_sport_054.txt|.|2|.|bbc_sport_050.txt|.|2
+zealand|.|bbc_sport_328.txt|.|3|.|bbc_sport_371.txt|.|30|.|bbc_sport_385.txt|.|2|.|bbc_sport_340.txt|.|2|.|bbc_sport_382.txt|.|4|.|bbc_sport_329.txt|.|3|.|bbc_sport_387.txt|.|2|.|bbc_sport_368.txt|.|1|.|bbc_sport_386.txt|.|3|.|bbc_sport_308.txt|.|2|.|bbc_sport_402.txt|.|4|.|bbc_sport_400.txt|.|2
+zealand rugby|.|bbc_sport_371.txt|.|4
+wenger has signed a new|.|bbc_sport_196.txt|.|1
+burns|.|bbc_sport_208.txt|.|2
+agrees|.|bbc_sport_265.txt|.|1|.|bbc_sport_015.txt|.|1
+new|.|bbc_sport_390.txt|.|5|.|bbc_sport_371.txt|.|34|.|bbc_sport_233.txt|.|1|.|bbc_sport_196.txt|.|6|.|bbc_sport_382.txt|.|4|.|bbc_sport_329.txt|.|3|.|bbc_sport_230.txt|.|4|.|bbc_sport_368.txt|.|4|.|bbc_sport_386.txt|.|5|.|bbc_sport_308.txt|.|2|.|bbc_sport_040.txt|.|7|.|bbc_sport_098.txt|.|2|.|bbc_sport_328.txt|.|3|.|bbc_sport_385.txt|.|2|.|bbc_sport_340.txt|.|2|.|bbc_sport_387.txt|.|2|.|bbc_sport_116.txt|.|2|.|bbc_sport_015.txt|.|2|.|bbc_sport_402.txt|.|4|.|bbc_sport_043.txt|.|2|.|bbc_sport_482.txt|.|2|.|bbc_sport_400.txt|.|2|.|bbc_sport_242.txt|.|4
+bbc|.|bbc_sport_208.txt|.|2|.|bbc_sport_112.txt|.|4|.|bbc_sport_168.txt|.|2|.|bbc_sport_142.txt|.|3|.|bbc_sport_329.txt|.|2|.|bbc_sport_316.txt|.|2|.|bbc_sport_040.txt|.|3|.|bbc_sport_291.txt|.|2|.|bbc_sport_057.txt|.|3|.|bbc_sport_328.txt|.|2|.|bbc_sport_102.txt|.|2|.|bbc_sport_118.txt|.|2|.|bbc_sport_121.txt|.|4|.|bbc_sport_415.txt|.|2
+wigley|.|bbc_sport_233.txt|.|3
+dechy|.|bbc_sport_457.txt|.|2
+bergh|.|bbc_sport_382.txt|.|2
+surface|.|bbc_sport_487.txt|.|6
+wta|.|bbc_sport_510.txt|.|2|.|bbc_sport_501.txt|.|2
+director|.|bbc_sport_207.txt|.|4|.|bbc_sport_358.txt|.|2|.|bbc_sport_043.txt|.|2
+matt|.|bbc_sport_390.txt|.|2|.|bbc_sport_213.txt|.|2|.|bbc_sport_298.txt|.|4
+briton|.|bbc_sport_042.txt|.|2|.|bbc_sport_492.txt|.|2
+dismissed|.|bbc_sport_045.txt|.|2
+hitzlsperger is waiting|.|bbc_sport_230.txt|.|1
+starting xv|.|bbc_sport_308.txt|.|2
+hodgson|.|bbc_sport_160.txt|.|8|.|bbc_sport_414.txt|.|6|.|bbc_sport_284.txt|.|5
+brizzel|.|bbc_sport_062.txt|.|3
+almunia|.|bbc_sport_242.txt|.|3
+uk athletics has agreed|.|bbc_sport_015.txt|.|1
+former|.|bbc_sport_208.txt|.|4|.|bbc_sport_270.txt|.|2|.|bbc_sport_251.txt|.|2|.|bbc_sport_226.txt|.|2|.|bbc_sport_233.txt|.|2|.|bbc_sport_366.txt|.|2|.|bbc_sport_212.txt|.|2|.|bbc_sport_386.txt|.|2|.|bbc_sport_228.txt|.|2|.|bbc_sport_321.txt|.|3
+eye|.|bbc_sport_308.txt|.|2
+good arrogance|.|bbc_sport_308.txt|.|1
+mixed doubles|.|bbc_sport_462.txt|.|3
+julien laharrague|.|bbc_sport_287.txt|.|2
+arrogance|.|bbc_sport_308.txt|.|2
+plans|.|bbc_sport_242.txt|.|2
+supplying|.|bbc_sport_015.txt|.|1
+team led|.|bbc_sport_371.txt|.|2
+athletics agrees new|.|bbc_sport_015.txt|.|1
+gear|.|bbc_sport_382.txt|.|3|.|bbc_sport_197.txt|.|2
+deal|.|bbc_sport_390.txt|.|2|.|bbc_sport_193.txt|.|2|.|bbc_sport_211.txt|.|2|.|bbc_sport_116.txt|.|2|.|bbc_sport_230.txt|.|3
+waiting|.|bbc_sport_230.txt|.|2
+wenger signs|.|bbc_sport_196.txt|.|1
+world cup winning|.|bbc_sport_390.txt|.|1
+scrutiny|.|bbc_sport_040.txt|.|2
+new zealand|.|bbc_sport_328.txt|.|3|.|bbc_sport_371.txt|.|30|.|bbc_sport_385.txt|.|2|.|bbc_sport_340.txt|.|2|.|bbc_sport_382.txt|.|4|.|bbc_sport_329.txt|.|3|.|bbc_sport_387.txt|.|2|.|bbc_sport_368.txt|.|1|.|bbc_sport_386.txt|.|3|.|bbc_sport_308.txt|.|2|.|bbc_sport_402.txt|.|4|.|bbc_sport_400.txt|.|2
+performance director|.|bbc_sport_043.txt|.|2
+van den|.|bbc_sport_382.txt|.|2
+government|.|bbc_sport_386.txt|.|2
+signs|.|bbc_sport_196.txt|.|1
+public|.|bbc_sport_040.txt|.|3
+richards|.|bbc_sport_040.txt|.|8
+close|.|bbc_sport_482.txt|.|2
+agreed|.|bbc_sport_265.txt|.|1|.|bbc_sport_015.txt|.|2
+new zealand rugby|.|bbc_sport_371.txt|.|4
+new contract|.|bbc_sport_196.txt|.|2|.|bbc_sport_098.txt|.|2
+new stadium|.|bbc_sport_196.txt|.|2
+replaces|.|bbc_sport_233.txt|.|1
+lo cicero|.|bbc_sport_382.txt|.|2
+new york|.|bbc_sport_040.txt|.|7
+uk athletics|.|bbc_sport_015.txt|.|4|.|bbc_sport_043.txt|.|3
+tour|.|bbc_sport_382.txt|.|3|.|bbc_sport_386.txt|.|7|.|bbc_sport_402.txt|.|2|.|bbc_sport_389.txt|.|3
+mathew tait|.|bbc_sport_308.txt|.|2
+agrees new|.|bbc_sport_015.txt|.|1
+den bergh|.|bbc_sport_382.txt|.|2
+performance|.|bbc_sport_043.txt|.|3
+consultant|.|bbc_sport_386.txt|.|2
+stakes|.|bbc_sport_308.txt|.|1
+new deal|.|bbc_sport_390.txt|.|2|.|bbc_sport_230.txt|.|2
+johnson edges|.|bbc_sport_061.txt|.|1
+richards says|.|bbc_sport_040.txt|.|2
+fortnight than the last|.|bbc_sport_172.txt|.|1
+faces|.|bbc_sport_040.txt|.|1
+age|.|bbc_sport_116.txt|.|2
+tunnel|.|bbc_sport_198.txt|.|2
+offer matt|.|bbc_sport_390.txt|.|1

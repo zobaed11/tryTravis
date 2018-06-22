@@ -1,0 +1,64 @@
+golden rule|.|bbc_business_154.txt|.|4|.|bbc_business_195.txt|.|4
+silva|.|bbc_business_272.txt|.|4
+nation|.|bbc_business_354.txt|.|1
+marathons|.|bbc_sport_013.txt|.|1
+pirates of the caribbean|.|bbc_entertainment_037.txt|.|2
+safety whistleblowers|.|bbc_politics_162.txt|.|2
+portable playstation|.|bbc_tech_112.txt|.|1
+india and pakistan|.|bbc_business_347.txt|.|1
+japanese|.|bbc_business_046.txt|.|2|.|bbc_tech_054.txt|.|2|.|bbc_business_124.txt|.|2|.|bbc_business_283.txt|.|3|.|bbc_business_110.txt|.|2|.|bbc_business_032.txt|.|4|.|bbc_business_287.txt|.|6|.|bbc_tech_246.txt|.|2|.|bbc_business_013.txt|.|3|.|bbc_business_505.txt|.|2|.|bbc_business_295.txt|.|4|.|bbc_business_037.txt|.|4|.|bbc_business_044.txt|.|2|.|bbc_entertainment_065.txt|.|2
+zone|.|bbc_business_172.txt|.|2|.|bbc_politics_389.txt|.|2
+pact|.|bbc_business_457.txt|.|6|.|bbc_politics_389.txt|.|5
+national economy|.|bbc_business_495.txt|.|2
+latin america|.|bbc_business_259.txt|.|3
+sports lessons|.|bbc_politics_171.txt|.|2
+aids|.|bbc_business_504.txt|.|2|.|bbc_business_176.txt|.|1|.|bbc_tech_223.txt|.|1|.|bbc_entertainment_157.txt|.|1
+adviser|.|bbc_business_426.txt|.|2
+government said|.|bbc_business_347.txt|.|2
+growth slowed|.|bbc_business_046.txt|.|2
+french|.|bbc_politics_126.txt|.|2|.|bbc_business_090.txt|.|7|.|bbc_business_175.txt|.|4|.|bbc_sport_254.txt|.|3|.|bbc_entertainment_308.txt|.|2|.|bbc_entertainment_068.txt|.|2|.|bbc_sport_133.txt|.|2|.|bbc_business_023.txt|.|4|.|bbc_business_190.txt|.|2|.|bbc_entertainment_376.txt|.|3|.|bbc_sport_463.txt|.|2|.|bbc_business_308.txt|.|6|.|bbc_sport_495.txt|.|4|.|bbc_entertainment_368.txt|.|4|.|bbc_politics_129.txt|.|3|.|bbc_business_182.txt|.|6|.|bbc_entertainment_383.txt|.|3|.|bbc_sport_296.txt|.|3|.|bbc_entertainment_063.txt|.|9
+told kommersant|.|bbc_business_426.txt|.|1
+treated|.|bbc_sport_046.txt|.|2
+indian government|.|bbc_business_347.txt|.|2
+months|.|bbc_politics_170.txt|.|4|.|bbc_business_118.txt|.|2|.|bbc_sport_265.txt|.|1|.|bbc_politics_382.txt|.|3|.|bbc_business_453.txt|.|2|.|bbc_business_503.txt|.|2|.|bbc_tech_281.txt|.|2|.|bbc_business_121.txt|.|2|.|bbc_business_283.txt|.|1|.|bbc_business_361.txt|.|2|.|bbc_business_023.txt|.|1|.|bbc_politics_003.txt|.|4|.|bbc_politics_001.txt|.|8|.|bbc_business_507.txt|.|2|.|bbc_sport_485.txt|.|1|.|bbc_tech_093.txt|.|2|.|bbc_business_387.txt|.|2|.|bbc_sport_065.txt|.|2|.|bbc_business_119.txt|.|4|.|bbc_business_329.txt|.|1|.|bbc_business_128.txt|.|4
+gref told|.|bbc_business_426.txt|.|2
+game was handled|.|bbc_sport_298.txt|.|1
+andersen|.|bbc_entertainment_002.txt|.|4
+private enterprise|.|bbc_business_200.txt|.|2
+slow|.|bbc_business_052.txt|.|2|.|bbc_business_329.txt|.|1|.|bbc_business_285.txt|.|2
+buses|.|bbc_tech_181.txt|.|2
+forecasts|.|bbc_politics_362.txt|.|3|.|bbc_politics_021.txt|.|1|.|bbc_business_172.txt|.|1|.|bbc_politics_356.txt|.|1|.|bbc_politics_364.txt|.|2|.|bbc_business_030.txt|.|2|.|bbc_business_195.txt|.|2|.|bbc_politics_360.txt|.|2
+us dollars in cuba|.|bbc_business_200.txt|.|1
+us dollars|.|bbc_business_200.txt|.|1
+business leaders|.|bbc_business_482.txt|.|2
+worst hit|.|bbc_business_345.txt|.|2
+dollars|.|bbc_business_200.txt|.|3|.|bbc_entertainment_298.txt|.|1
+da silva|.|bbc_business_272.txt|.|4
+cycle|.|bbc_politics_389.txt|.|2
+cabir|.|bbc_tech_290.txt|.|10|.|bbc_tech_116.txt|.|10
+economic adviser|.|bbc_business_426.txt|.|2
+tourist|.|bbc_business_354.txt|.|3
+annual losses|.|bbc_tech_119.txt|.|2
+blew|.|bbc_sport_263.txt|.|2
+asylum seekers|.|bbc_politics_153.txt|.|4
+george|.|bbc_entertainment_227.txt|.|2|.|bbc_tech_123.txt|.|2|.|bbc_entertainment_130.txt|.|2|.|bbc_politics_189.txt|.|2|.|bbc_entertainment_182.txt|.|2
+liam|.|bbc_entertainment_154.txt|.|2|.|bbc_entertainment_012.txt|.|2
+pump|.|bbc_business_081.txt|.|1
+economic cost|.|bbc_business_354.txt|.|1
+countries said|.|bbc_business_495.txt|.|1
+economic impact|.|bbc_business_345.txt|.|2|.|bbc_business_354.txt|.|2
+economic cycle|.|bbc_politics_389.txt|.|2
+forecasting|.|bbc_business_046.txt|.|1|.|bbc_business_057.txt|.|1|.|bbc_politics_021.txt|.|1|.|bbc_business_344.txt|.|1|.|bbc_business_172.txt|.|1|.|bbc_tech_098.txt|.|2|.|bbc_politics_356.txt|.|1|.|bbc_business_459.txt|.|1|.|bbc_tech_289.txt|.|2
+economic crisis|.|bbc_business_330.txt|.|2
+economic forecasts|.|bbc_politics_021.txt|.|1|.|bbc_politics_356.txt|.|1
+trillions|.|bbc_tech_190.txt|.|1
+charm|.|bbc_business_277.txt|.|2
+economic forum|.|bbc_business_482.txt|.|2
+migrants|.|bbc_politics_153.txt|.|4
+bloglines|.|bbc_tech_318.txt|.|8|.|bbc_tech_062.txt|.|8
+former soviet|.|bbc_tech_001.txt|.|2
+emerge|.|bbc_business_345.txt|.|1
+gref|.|bbc_business_426.txt|.|4
+failed asylum|.|bbc_politics_153.txt|.|2
+economic|.|bbc_business_154.txt|.|4|.|bbc_politics_153.txt|.|4|.|bbc_business_200.txt|.|7|.|bbc_politics_021.txt|.|3|.|bbc_business_345.txt|.|4|.|bbc_business_426.txt|.|4|.|bbc_business_175.txt|.|3|.|bbc_business_434.txt|.|3|.|bbc_business_471.txt|.|2|.|bbc_business_285.txt|.|4|.|bbc_business_354.txt|.|8|.|bbc_business_272.txt|.|5|.|bbc_business_322.txt|.|2|.|bbc_business_172.txt|.|7|.|bbc_politics_356.txt|.|3|.|bbc_business_277.txt|.|7|.|bbc_business_459.txt|.|6|.|bbc_business_046.txt|.|3|.|bbc_business_436.txt|.|2|.|bbc_business_347.txt|.|2|.|bbc_business_259.txt|.|3|.|bbc_business_482.txt|.|2|.|bbc_business_283.txt|.|2|.|bbc_business_495.txt|.|5|.|bbc_business_190.txt|.|4|.|bbc_business_376.txt|.|3|.|bbc_business_330.txt|.|2|.|bbc_business_055.txt|.|3|.|bbc_politics_389.txt|.|4
+sports clubs|.|bbc_politics_171.txt|.|2

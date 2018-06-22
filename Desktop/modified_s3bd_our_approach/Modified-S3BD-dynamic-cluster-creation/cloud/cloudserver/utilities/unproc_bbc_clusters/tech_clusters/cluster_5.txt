@@ -1,0 +1,91 @@
+5
+tuffy|.|bbc_tech_306.txt|.|4
+connectors|.|bbc_tech_360.txt|.|2
+habits|.|bbc_tech_146.txt|.|2|.|bbc_tech_158.txt|.|2
+burke|.|bbc_tech_349.txt|.|4
+research suggests|.|bbc_tech_146.txt|.|1|.|bbc_tech_158.txt|.|1
+tv over broadband|.|bbc_tech_349.txt|.|3
+bring|.|bbc_tech_059.txt|.|2|.|bbc_tech_322.txt|.|2|.|bbc_tech_115.txt|.|2
+screen|.|bbc_tech_306.txt|.|2|.|bbc_tech_084.txt|.|1
+said the report|.|bbc_tech_011.txt|.|2
+challenging|.|bbc_tech_158.txt|.|1
+viewing|.|bbc_tech_146.txt|.|3|.|bbc_tech_158.txt|.|3
+bring music|.|bbc_tech_059.txt|.|1|.|bbc_tech_322.txt|.|1
+executive|.|bbc_tech_378.txt|.|2|.|bbc_tech_206.txt|.|2
+suggests|.|bbc_tech_146.txt|.|1|.|bbc_tech_158.txt|.|1
+engerwitzdorf|.|bbc_tech_365.txt|.|3
+download|.|bbc_tech_059.txt|.|4|.|bbc_tech_095.txt|.|1|.|bbc_tech_322.txt|.|4|.|bbc_tech_058.txt|.|2|.|bbc_tech_298.txt|.|3|.|bbc_tech_206.txt|.|1|.|bbc_tech_263.txt|.|3|.|bbc_tech_011.txt|.|5
+worlds based|.|bbc_tech_113.txt|.|1
+options|.|bbc_tech_240.txt|.|2
+sharpness|.|bbc_tech_240.txt|.|1
+people watch|.|bbc_tech_216.txt|.|1
+mobile users|.|bbc_tech_378.txt|.|2
+episodes|.|bbc_tech_011.txt|.|4
+wow|.|bbc_tech_240.txt|.|2
+viewing habits|.|bbc_tech_146.txt|.|2|.|bbc_tech_158.txt|.|2
+dvr|.|bbc_tech_216.txt|.|4
+flat panel|.|bbc_tech_360.txt|.|3
+programmes|.|bbc_tech_216.txt|.|3|.|bbc_tech_070.txt|.|4|.|bbc_tech_011.txt|.|10
+want|.|bbc_tech_365.txt|.|4
+broadband was challenging|.|bbc_tech_158.txt|.|1
+search query|.|bbc_tech_076.txt|.|2
+andrew|.|bbc_tech_349.txt|.|2
+plus|.|bbc_tech_070.txt|.|5
+broadcasting|.|bbc_tech_059.txt|.|6|.|bbc_tech_322.txt|.|6
+quality|.|bbc_tech_306.txt|.|3
+talked|.|bbc_tech_394.txt|.|1
+viewers|.|bbc_tech_113.txt|.|6|.|bbc_tech_124.txt|.|6|.|bbc_tech_216.txt|.|3|.|bbc_tech_011.txt|.|2
+attorney|.|bbc_tech_273.txt|.|3
+europeans|.|bbc_tech_146.txt|.|2|.|bbc_tech_158.txt|.|2
+villagers|.|bbc_tech_365.txt|.|3
+allowing audiences|.|bbc_tech_113.txt|.|1
+jupiter research|.|bbc_tech_146.txt|.|3|.|bbc_tech_158.txt|.|3
+download services|.|bbc_tech_059.txt|.|4|.|bbc_tech_322.txt|.|4
+telekom austria|.|bbc_tech_365.txt|.|3
+austria|.|bbc_tech_365.txt|.|4
+analysts jupiter|.|bbc_tech_146.txt|.|2
+thousands of products and tens|.|bbc_tech_395.txt|.|1
+confusion|.|bbc_tech_360.txt|.|2
+device|.|bbc_tech_229.txt|.|3|.|bbc_tech_185.txt|.|5|.|bbc_tech_153.txt|.|5|.|bbc_tech_363.txt|.|5
+donated|.|bbc_tech_200.txt|.|2
+worlds|.|bbc_tech_113.txt|.|1
+chief executive|.|bbc_tech_378.txt|.|2|.|bbc_tech_206.txt|.|2
+conference|.|bbc_tech_248.txt|.|2
+sk telecom|.|bbc_tech_378.txt|.|2
+tv set|.|bbc_tech_360.txt|.|2
+media worlds|.|bbc_tech_113.txt|.|1
+entertainment device|.|bbc_tech_363.txt|.|2
+jupiter|.|bbc_tech_361.txt|.|3|.|bbc_tech_146.txt|.|3|.|bbc_tech_158.txt|.|3
+box|.|bbc_tech_070.txt|.|4
+recorders|.|bbc_tech_216.txt|.|2|.|bbc_tech_070.txt|.|2
+sun|.|bbc_tech_022.txt|.|8|.|bbc_tech_380.txt|.|8
+hdtv|.|bbc_tech_240.txt|.|13
+content|.|bbc_tech_163.txt|.|5|.|bbc_tech_291.txt|.|5|.|bbc_tech_349.txt|.|6|.|bbc_tech_285.txt|.|6|.|bbc_tech_087.txt|.|14|.|bbc_tech_304.txt|.|6
+moment|.|bbc_tech_113.txt|.|2
+telekom|.|bbc_tech_365.txt|.|5
+current|.|bbc_tech_043.txt|.|3|.|bbc_tech_326.txt|.|3
+genre|.|bbc_tech_113.txt|.|2|.|bbc_tech_154.txt|.|2
+iptv|.|bbc_tech_349.txt|.|11|.|bbc_tech_394.txt|.|12
+audiences|.|bbc_tech_113.txt|.|3
+music download|.|bbc_tech_059.txt|.|3|.|bbc_tech_322.txt|.|3|.|bbc_tech_206.txt|.|1
+telecoms|.|bbc_tech_349.txt|.|2
+panel|.|bbc_tech_170.txt|.|4|.|bbc_tech_360.txt|.|3
+europe|.|bbc_tech_361.txt|.|3|.|bbc_tech_317.txt|.|3|.|bbc_tech_059.txt|.|4|.|bbc_tech_240.txt|.|5|.|bbc_tech_338.txt|.|2|.|bbc_tech_351.txt|.|1|.|bbc_tech_147.txt|.|2|.|bbc_tech_158.txt|.|2|.|bbc_tech_282.txt|.|3|.|bbc_tech_214.txt|.|4|.|bbc_tech_322.txt|.|4|.|bbc_tech_064.txt|.|2|.|bbc_tech_159.txt|.|2|.|bbc_tech_146.txt|.|2|.|bbc_tech_025.txt|.|3
+set|.|bbc_tech_199.txt|.|2|.|bbc_tech_124.txt|.|1|.|bbc_tech_360.txt|.|4
+chief|.|bbc_tech_378.txt|.|2|.|bbc_tech_206.txt|.|2
+analysts jupiter research|.|bbc_tech_146.txt|.|2|.|bbc_tech_158.txt|.|2
+tv broadcasting|.|bbc_tech_059.txt|.|2|.|bbc_tech_322.txt|.|2
+sky plus|.|bbc_tech_070.txt|.|5
+right|.|bbc_tech_360.txt|.|4
+right information|.|bbc_tech_360.txt|.|3
+editing|.|bbc_tech_113.txt|.|3
+interactive bafta|.|bbc_tech_046.txt|.|2
+multimedia|.|bbc_tech_163.txt|.|2|.|bbc_tech_234.txt|.|12|.|bbc_tech_193.txt|.|2|.|bbc_tech_265.txt|.|4|.|bbc_tech_291.txt|.|2|.|bbc_tech_059.txt|.|3|.|bbc_tech_296.txt|.|2|.|bbc_tech_322.txt|.|3|.|bbc_tech_389.txt|.|12|.|bbc_tech_050.txt|.|3
+tv viewing|.|bbc_tech_146.txt|.|2|.|bbc_tech_158.txt|.|2
+lcds|.|bbc_tech_360.txt|.|1
+watch|.|bbc_tech_378.txt|.|2|.|bbc_tech_216.txt|.|4|.|bbc_tech_365.txt|.|6
+andrew burke|.|bbc_tech_349.txt|.|2
+google video|.|bbc_tech_076.txt|.|3
+tipped|.|bbc_tech_378.txt|.|2
+hd|.|bbc_tech_306.txt|.|12
+video recorders|.|bbc_tech_216.txt|.|2|.|bbc_tech_070.txt|.|2

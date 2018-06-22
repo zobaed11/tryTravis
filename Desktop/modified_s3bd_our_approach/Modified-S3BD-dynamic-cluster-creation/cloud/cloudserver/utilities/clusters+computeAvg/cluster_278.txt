@@ -1,0 +1,38 @@
+278
+joey|.|WET5278.txt|.|10
+leaders|.|WET2724.txt|.|10|.|WET5052.txt|.|16|.|WET3286.txt|.|11
+johnson|.|WET3846.txt|.|73
+job titles category|.|WET2118.txt|.|9
+leaders resources|.|WET2724.txt|.|10
+recovery manager|.|WET3237.txt|.|6
+email a friend|.|WET894.txt|.|7
+sivujen|.|WET3444.txt|.|9
+halloween|.|WET2826.txt|.|26
+play food|.|WET1215.txt|.|31|.|WET4970.txt|.|22
+site contains|.|WET3532.txt|.|7
+supplies|.|WET2563.txt|.|209|.|WET3270.txt|.|15|.|WET6301.txt|.|335|.|WET1143.txt|.|8|.|WET4970.txt|.|23|.|WET2721.txt|.|388|.|WET2599.txt|.|101|.|WET6302.txt|.|146|.|WET3163.txt|.|10|.|WET1628.txt|.|64|.|WET6224.txt|.|142|.|WET2320.txt|.|56|.|WET1259.txt|.|164|.|WET2562.txt|.|323
+site is currently unavailable|.|WET4291.txt|.|5
+coloring|.|WET5317.txt|.|73
+site faq|.|WET2257.txt|.|14
+basketball cross|.|WET1950.txt|.|25
+settings|.|WET412.txt|.|11|.|WET3518.txt|.|18
+jambalaya|.|WET5278.txt|.|10
+jambalaya jake|.|WET5278.txt|.|10
+site map|.|WET3846.txt|.|5|.|WET3994.txt|.|12|.|WET6035.txt|.|9
+new game|.|WET6035.txt|.|5
+navigation skip to site|.|WET894.txt|.|8
+tennis track|.|WET1950.txt|.|24
+nathan gooden|.|WET5278.txt|.|10
+super|.|WET4667.txt|.|72|.|WET6278.txt|.|93|.|WET2543.txt|.|54|.|WET5729.txt|.|18|.|WET2632.txt|.|14|.|WET1612.txt|.|45|.|WET6112.txt|.|1|.|WET4668.txt|.|25|.|WET815.txt|.|28
+site recovery|.|WET3237.txt|.|6
+contains|.|WET3532.txt|.|7
+visit your local site|.|WET5317.txt|.|60
+site|.|WET1676.txt|.|12|.|WET3455.txt|.|114|.|WET3994.txt|.|34|.|WET409.txt|.|10|.|WET1950.txt|.|216|.|WET3167.txt|.|84|.|WET3327.txt|.|16|.|WET6035.txt|.|22|.|WET894.txt|.|20|.|WET3846.txt|.|18|.|WET5278.txt|.|12|.|WET412.txt|.|18|.|WET2257.txt|.|21|.|WET3532.txt|.|24|.|WET1570.txt|.|61|.|WET5676.txt|.|324|.|WET2168.txt|.|28|.|WET2724.txt|.|19|.|WET5317.txt|.|97|.|WET4291.txt|.|13|.|WET4970.txt|.|65|.|WET1606.txt|.|118|.|WET5915.txt|.|18|.|WET2470.txt|.|119|.|WET3454.txt|.|118|.|WET4703.txt|.|41|.|WET2914.txt|.|19|.|WET2241.txt|.|21|.|WET2543.txt|.|27|.|WET5335.txt|.|19|.|WET5386.txt|.|45|.|WET835.txt|.|9|.|WET1259.txt|.|181|.|WET3237.txt|.|11|.|WET4573.txt|.|20|.|WET4971.txt|.|44|.|WET5047.txt|.|140
+joey ellis|.|WET5278.txt|.|10
+suite|.|WET3237.txt|.|6
+gooden|.|WET5278.txt|.|10
+search this site|.|WET835.txt|.|8|.|WET4573.txt|.|16
+characters groups|.|WET5278.txt|.|10
+merchandise credits|.|WET1570.txt|.|11
+sirk|.|WET5278.txt|.|10
+events in the near future|.|WET2470.txt|.|2

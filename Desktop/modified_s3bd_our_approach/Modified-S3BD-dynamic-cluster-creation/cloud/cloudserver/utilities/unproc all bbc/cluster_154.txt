@@ -1,0 +1,64 @@
+swiss cement|.|bbc_business_485.txt|.|2
+yard|.|bbc_sport_146.txt|.|2
+concession|.|bbc_business_501.txt|.|2|.|bbc_politics_378.txt|.|2
+yuganskneftegas|.|bbc_business_324.txt|.|3|.|bbc_business_164.txt|.|3
+aguas|.|bbc_business_501.txt|.|10
+softbank has widened losses|.|bbc_business_124.txt|.|1
+greyhound|.|bbc_business_223.txt|.|2
+accounting errors|.|bbc_business_386.txt|.|2
+bargain|.|bbc_business_124.txt|.|2
+firm|.|bbc_business_027.txt|.|3|.|bbc_business_095.txt|.|2|.|bbc_business_124.txt|.|4|.|bbc_business_302.txt|.|3|.|bbc_business_132.txt|.|2|.|bbc_business_265.txt|.|2|.|bbc_business_125.txt|.|2|.|bbc_business_327.txt|.|2|.|bbc_tech_373.txt|.|2|.|bbc_tech_055.txt|.|4|.|bbc_tech_290.txt|.|2|.|bbc_business_096.txt|.|3|.|bbc_business_335.txt|.|2|.|bbc_business_017.txt|.|2|.|bbc_business_318.txt|.|3|.|bbc_tech_250.txt|.|2|.|bbc_business_433.txt|.|2|.|bbc_business_150.txt|.|3|.|bbc_business_299.txt|.|3|.|bbc_business_485.txt|.|4|.|bbc_tech_276.txt|.|4|.|bbc_business_364.txt|.|3|.|bbc_business_334.txt|.|2|.|bbc_business_508.txt|.|2|.|bbc_business_029.txt|.|2|.|bbc_tech_043.txt|.|2|.|bbc_business_092.txt|.|2|.|bbc_business_062.txt|.|4|.|bbc_tech_314.txt|.|4|.|bbc_business_127.txt|.|2|.|bbc_business_114.txt|.|2|.|bbc_business_034.txt|.|2|.|bbc_tech_221.txt|.|1|.|bbc_tech_362.txt|.|4|.|bbc_business_131.txt|.|3|.|bbc_business_333.txt|.|2|.|bbc_business_223.txt|.|2|.|bbc_business_401.txt|.|1|.|bbc_politics_045.txt|.|3|.|bbc_sport_253.txt|.|2|.|bbc_tech_024.txt|.|2|.|bbc_business_082.txt|.|4|.|bbc_business_375.txt|.|4|.|bbc_business_501.txt|.|5|.|bbc_business_162.txt|.|2|.|bbc_business_307.txt|.|3|.|bbc_business_324.txt|.|4|.|bbc_business_099.txt|.|1|.|bbc_business_510.txt|.|2|.|bbc_tech_246.txt|.|1|.|bbc_business_083.txt|.|4|.|bbc_tech_271.txt|.|1|.|bbc_business_198.txt|.|2|.|bbc_tech_122.txt|.|3|.|bbc_business_349.txt|.|5|.|bbc_tech_148.txt|.|2|.|bbc_business_208.txt|.|4|.|bbc_business_074.txt|.|2|.|bbc_business_366.txt|.|2|.|bbc_business_202.txt|.|3|.|bbc_tech_269.txt|.|4|.|bbc_business_011.txt|.|1|.|bbc_business_386.txt|.|5|.|bbc_business_399.txt|.|4|.|bbc_tech_280.txt|.|2|.|bbc_sport_146.txt|.|3|.|bbc_business_300.txt|.|2|.|bbc_tech_268.txt|.|2|.|bbc_business_164.txt|.|4|.|bbc_business_038.txt|.|1|.|bbc_business_419.txt|.|5|.|bbc_business_233.txt|.|4|.|bbc_tech_079.txt|.|2|.|bbc_business_418.txt|.|3|.|bbc_tech_116.txt|.|2|.|bbc_tech_010.txt|.|2|.|bbc_business_312.txt|.|2|.|bbc_tech_261.txt|.|3
+cast|.|bbc_tech_024.txt|.|2|.|bbc_entertainment_299.txt|.|2
+cairn energy|.|bbc_business_433.txt|.|2
+group said|.|bbc_tech_186.txt|.|1|.|bbc_business_029.txt|.|2
+argentine state|.|bbc_business_501.txt|.|2
+firm said|.|bbc_business_062.txt|.|2|.|bbc_business_419.txt|.|1
+seals|.|bbc_business_162.txt|.|1
+protein|.|bbc_business_233.txt|.|2
+sec investigation|.|bbc_business_333.txt|.|1|.|bbc_business_265.txt|.|1
+risks of infection|.|bbc_tech_122.txt|.|2
+direct people|.|bbc_tech_010.txt|.|1
+card firm|.|bbc_business_375.txt|.|2|.|bbc_business_349.txt|.|1
+cement firm|.|bbc_business_485.txt|.|2
+ambuja cement|.|bbc_business_485.txt|.|2
+matches|.|bbc_sport_423.txt|.|2|.|bbc_sport_474.txt|.|2|.|bbc_sport_204.txt|.|3|.|bbc_sport_362.txt|.|2|.|bbc_sport_455.txt|.|2
+wimbledon|.|bbc_sport_432.txt|.|4|.|bbc_sport_438.txt|.|4|.|bbc_sport_489.txt|.|3|.|bbc_sport_490.txt|.|3|.|bbc_sport_494.txt|.|2
+jacobsen|.|bbc_tech_271.txt|.|5
+yukos will also seek|.|bbc_business_324.txt|.|1
+yapp|.|bbc_sport_359.txt|.|2
+exel|.|bbc_business_082.txt|.|5
+falic group|.|bbc_business_510.txt|.|3
+regulator|.|bbc_business_333.txt|.|1|.|bbc_business_265.txt|.|1
+land owned|.|bbc_business_029.txt|.|1
+forthcoming|.|bbc_business_335.txt|.|2
+banks start|.|bbc_tech_122.txt|.|1
+sustains spam|.|bbc_tech_362.txt|.|1
+widen|.|bbc_business_124.txt|.|1
+ssl international|.|bbc_business_364.txt|.|2
+gave rangers|.|bbc_sport_146.txt|.|2
+water firm|.|bbc_business_501.txt|.|2
+old firm|.|bbc_sport_146.txt|.|3|.|bbc_sport_253.txt|.|2
+holding|.|bbc_business_274.txt|.|1|.|bbc_business_485.txt|.|2
+money paid|.|bbc_business_312.txt|.|2
+vignal|.|bbc_sport_146.txt|.|4
+troubled|.|bbc_business_333.txt|.|2|.|bbc_business_265.txt|.|2
+planning minister|.|bbc_business_501.txt|.|2
+drive slip|.|bbc_sport_146.txt|.|2
+insurance broker|.|bbc_business_333.txt|.|2|.|bbc_business_265.txt|.|2
+ms boynton|.|bbc_business_419.txt|.|1
+us firm|.|bbc_tech_268.txt|.|1|.|bbc_business_418.txt|.|2
+christian lacroix|.|bbc_business_418.txt|.|2
+haute|.|bbc_business_510.txt|.|2
+gaming division|.|bbc_business_223.txt|.|2
+tracks|.|bbc_business_223.txt|.|4
+target|.|bbc_politics_127.txt|.|3|.|bbc_politics_121.txt|.|8|.|bbc_business_005.txt|.|2|.|bbc_business_125.txt|.|2
+saliva|.|bbc_business_233.txt|.|2
+president chavez|.|bbc_business_029.txt|.|2
+softbank has widened|.|bbc_business_124.txt|.|1
+shares in krispy kreme|.|bbc_business_386.txt|.|2
+slip|.|bbc_sport_146.txt|.|2
+said the firm|.|bbc_business_418.txt|.|1
+pfizer|.|bbc_business_302.txt|.|2
+internet portal firm|.|bbc_business_208.txt|.|2
+asset|.|bbc_business_324.txt|.|3
+biogen|.|bbc_business_150.txt|.|5

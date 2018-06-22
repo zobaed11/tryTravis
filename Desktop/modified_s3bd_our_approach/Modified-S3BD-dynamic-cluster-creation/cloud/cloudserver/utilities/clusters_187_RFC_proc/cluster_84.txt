@@ -1,0 +1,120 @@
+mayrhofer standards
+named
+routing march
+uri gen
+trunk group
+trigger consent
+new uri
+mailserver
+uri schemes
+authority component
+reference system
+telnet uri
+scheme october
+translations
+unaware
+tel
+nsap address
+semantics and operations
+neustar
+snmp service uri
+iana uri
+perform translations
+trunk group parameters
+pstn enumservice
+geopriv lbyr
+group parameters
+reserved
+dynamic delegation discovery
+lbyr
+named subordinate
+uri allocation
+temporary gruu
+uri reference
+gml
+johnston
+tel uri
+uri generic syntax
+uri resolution services
+uri syntax
+identifier of an information asset
+gen
+obtaining a sip
+snmp access
+uri used
+coordinate reference system
+uri december
+xmpp uri
+dip indicator
+gopher uri scheme
+uri
+update legacy
+named subordinate references
+rls services
+manor research
+generic syntax
+moving mailserver
+rls
+conferencing
+msg
+copy control
+uri generic
+conference unaware ua
+parameters september
+shockey neustar
+manor
+assets
+xmpp core
+parameter registry
+enum dip
+feature tags
+duerst
+global number
+yevstifeyev
+uri parameters
+interest group
+new uri schemes
+uniform resource identifier
+enhanced mode
+wgs
+sip uris
+interoperability
+obtaining
+registration for presence
+subaddress encoding
+msrp september
+bell laboratories
+target uri
+subaddress
+scheme april
+sips uri
+msrp uri
+namespaces
+scheme june
+cpim august
+legacy enumservice
+legacy
+snmp uri
+register request
+iana registration
+forward the request
+resource identifiers
+lbyr requirements
+geopriv
+percent
+spanring
+audet
+location by reference
+public namespaces
+location configuration
+snmp object
+uri registry
+harold
+sips
+using a location
+scheme definition
+recipient uris
+tel uri parameter
+report requests
+xmpp entity
+imap server

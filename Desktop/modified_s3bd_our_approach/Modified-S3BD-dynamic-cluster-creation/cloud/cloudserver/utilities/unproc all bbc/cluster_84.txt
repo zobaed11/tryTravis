@@ -1,0 +1,64 @@
+brom|.|bbc_sport_192.txt|.|2|.|bbc_sport_129.txt|.|2
+gloucester|.|bbc_sport_315.txt|.|2|.|bbc_sport_297.txt|.|3|.|bbc_sport_411.txt|.|1|.|bbc_sport_293.txt|.|4
+stripped|.|bbc_sport_039.txt|.|3
+kashmir|.|bbc_politics_139.txt|.|3
+hip|.|bbc_sport_475.txt|.|3
+bowen said|.|bbc_sport_213.txt|.|2
+fit|.|bbc_sport_315.txt|.|2|.|bbc_sport_355.txt|.|3|.|bbc_sport_057.txt|.|2
+flanker|.|bbc_sport_353.txt|.|4|.|bbc_sport_355.txt|.|3
+ham|.|bbc_politics_318.txt|.|2|.|bbc_sport_129.txt|.|3|.|bbc_sport_197.txt|.|4
+ban compared|.|bbc_politics_381.txt|.|2
+westminster|.|bbc_politics_393.txt|.|2|.|bbc_politics_010.txt|.|3
+make her return|.|bbc_sport_443.txt|.|2
+wales next|.|bbc_sport_356.txt|.|2
+six weeks|.|bbc_sport_162.txt|.|2|.|bbc_sport_114.txt|.|2
+special permission|.|bbc_sport_117.txt|.|2
+ice rink|.|bbc_entertainment_188.txt|.|2
+doubts|.|bbc_sport_129.txt|.|3
+hansen|.|bbc_sport_008.txt|.|5
+wipro|.|bbc_business_480.txt|.|6
+mike tindall|.|bbc_sport_419.txt|.|2
+arthur dent|.|bbc_entertainment_299.txt|.|2
+cheating|.|bbc_sport_260.txt|.|2|.|bbc_politics_240.txt|.|2
+sir howard|.|bbc_politics_246.txt|.|2
+holmes|.|bbc_sport_084.txt|.|4|.|bbc_sport_052.txt|.|4|.|bbc_sport_027.txt|.|3|.|bbc_sport_022.txt|.|5|.|bbc_sport_063.txt|.|6|.|bbc_entertainment_189.txt|.|4|.|bbc_sport_068.txt|.|7|.|bbc_sport_055.txt|.|6|.|bbc_sport_057.txt|.|14
+hoping|.|bbc_sport_391.txt|.|1|.|bbc_sport_345.txt|.|3|.|bbc_sport_019.txt|.|2
+triple jumper|.|bbc_sport_008.txt|.|2
+plastic|.|bbc_business_362.txt|.|7
+play and wants|.|bbc_sport_103.txt|.|1
+philippoussis|.|bbc_sport_457.txt|.|2|.|bbc_sport_496.txt|.|2
+duff has been ruled|.|bbc_sport_103.txt|.|1
+world community grid|.|bbc_tech_200.txt|.|2
+job|.|bbc_business_022.txt|.|5|.|bbc_politics_273.txt|.|4|.|bbc_business_416.txt|.|4|.|bbc_entertainment_192.txt|.|2|.|bbc_business_292.txt|.|4|.|bbc_sport_172.txt|.|4|.|bbc_sport_244.txt|.|4
+daughter|.|bbc_politics_113.txt|.|2
+galloway|.|bbc_politics_302.txt|.|9|.|bbc_politics_150.txt|.|4
+abbas said|.|bbc_politics_209.txt|.|2
+koubek|.|bbc_sport_485.txt|.|4
+jones|.|bbc_entertainment_264.txt|.|3|.|bbc_sport_303.txt|.|8|.|bbc_sport_036.txt|.|4|.|bbc_sport_039.txt|.|3|.|bbc_sport_325.txt|.|2|.|bbc_sport_068.txt|.|5|.|bbc_politics_005.txt|.|2|.|bbc_sport_310.txt|.|5|.|bbc_sport_240.txt|.|7|.|bbc_sport_226.txt|.|2|.|bbc_entertainment_034.txt|.|2|.|bbc_sport_049.txt|.|10|.|bbc_politics_359.txt|.|2|.|bbc_sport_088.txt|.|10|.|bbc_sport_337.txt|.|5
+expenses|.|bbc_tech_140.txt|.|2|.|bbc_entertainment_050.txt|.|2
+weeks|.|bbc_sport_162.txt|.|2|.|bbc_entertainment_240.txt|.|1|.|bbc_sport_114.txt|.|4|.|bbc_politics_395.txt|.|2|.|bbc_politics_192.txt|.|2|.|bbc_sport_213.txt|.|3|.|bbc_sport_031.txt|.|1|.|bbc_entertainment_234.txt|.|2
+hoddle|.|bbc_sport_226.txt|.|4|.|bbc_sport_232.txt|.|8
+evening chronicle|.|bbc_sport_260.txt|.|2
+bellamy|.|bbc_sport_187.txt|.|6|.|bbc_sport_260.txt|.|10|.|bbc_sport_138.txt|.|6
+mauro bergamasco|.|bbc_sport_350.txt|.|2
+gmt|.|bbc_sport_171.txt|.|1
+joy|.|bbc_entertainment_245.txt|.|2|.|bbc_entertainment_228.txt|.|5
+striker|.|bbc_sport_162.txt|.|1|.|bbc_sport_187.txt|.|2|.|bbc_sport_260.txt|.|2|.|bbc_sport_266.txt|.|2|.|bbc_sport_138.txt|.|1
+foot|.|bbc_sport_114.txt|.|4|.|bbc_sport_394.txt|.|2|.|bbc_sport_110.txt|.|2|.|bbc_politics_203.txt|.|4
+jumper|.|bbc_sport_008.txt|.|2
+hamstring|.|bbc_sport_418.txt|.|2|.|bbc_sport_145.txt|.|2|.|bbc_sport_055.txt|.|4
+medical expenses|.|bbc_entertainment_050.txt|.|2
+broken|.|bbc_sport_114.txt|.|3|.|bbc_sport_093.txt|.|2|.|bbc_sport_411.txt|.|2
+original|.|bbc_sport_131.txt|.|2|.|bbc_entertainment_362.txt|.|2|.|bbc_entertainment_265.txt|.|3
+starts in six|.|bbc_sport_117.txt|.|1
+sky plus|.|bbc_tech_070.txt|.|5
+chairman of the federal reserve|.|bbc_business_213.txt|.|1
+nistelrooy|.|bbc_sport_096.txt|.|4
+sir elton|.|bbc_entertainment_111.txt|.|3
+ticket machines|.|bbc_business_123.txt|.|2
+stages|.|bbc_sport_488.txt|.|1|.|bbc_sport_455.txt|.|2
+commonwealth|.|bbc_sport_008.txt|.|2
+revolution studios|.|bbc_entertainment_050.txt|.|3
+flights|.|bbc_business_015.txt|.|6|.|bbc_business_432.txt|.|6
+dempsey|.|bbc_sport_417.txt|.|2
+softbank|.|bbc_business_124.txt|.|3

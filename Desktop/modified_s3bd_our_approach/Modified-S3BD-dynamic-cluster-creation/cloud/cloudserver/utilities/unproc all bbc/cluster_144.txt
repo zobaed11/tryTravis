@@ -1,0 +1,64 @@
+unions met|.|bbc_politics_312.txt|.|1
+carstairs|.|bbc_politics_174.txt|.|4
+rougerie|.|bbc_sport_287.txt|.|2
+dangers|.|bbc_business_291.txt|.|2
+contracted|.|bbc_business_507.txt|.|1
+started to grow|.|bbc_business_107.txt|.|2
+thought|.|bbc_sport_357.txt|.|2|.|bbc_business_006.txt|.|2
+viacom has paid|.|bbc_entertainment_199.txt|.|2
+gross domestic|.|bbc_business_044.txt|.|2
+pledged|.|bbc_politics_171.txt|.|1
+hamstring injury|.|bbc_sport_418.txt|.|2|.|bbc_sport_055.txt|.|2
+jonathan|.|bbc_sport_437.txt|.|2|.|bbc_sport_310.txt|.|3
+axa|.|bbc_business_281.txt|.|8
+amnesty|.|bbc_politics_279.txt|.|5
+crue|.|bbc_entertainment_252.txt|.|2
+beattie|.|bbc_sport_175.txt|.|4|.|bbc_sport_097.txt|.|5
+conference board|.|bbc_business_361.txt|.|1
+officials|.|bbc_business_461.txt|.|1|.|bbc_business_357.txt|.|2|.|bbc_sport_406.txt|.|1|.|bbc_sport_289.txt|.|1|.|bbc_business_212.txt|.|2|.|bbc_business_468.txt|.|1|.|bbc_tech_231.txt|.|2|.|bbc_business_498.txt|.|2|.|bbc_sport_298.txt|.|5|.|bbc_politics_044.txt|.|2
+viotti|.|bbc_entertainment_023.txt|.|6|.|bbc_entertainment_273.txt|.|6
+domestic product|.|bbc_business_044.txt|.|2
+cash|.|bbc_tech_331.txt|.|2|.|bbc_business_200.txt|.|2|.|bbc_politics_357.txt|.|3|.|bbc_business_264.txt|.|2|.|bbc_business_404.txt|.|2|.|bbc_politics_085.txt|.|2|.|bbc_tech_012.txt|.|2|.|bbc_tech_119.txt|.|2|.|bbc_tech_122.txt|.|20|.|bbc_entertainment_320.txt|.|2|.|bbc_tech_027.txt|.|5|.|bbc_business_362.txt|.|4|.|bbc_tech_315.txt|.|5
+record levels|.|bbc_business_121.txt|.|2|.|bbc_business_126.txt|.|1
+case|.|bbc_entertainment_258.txt|.|3|.|bbc_politics_173.txt|.|4|.|bbc_business_246.txt|.|3
+beverly hillbillies|.|bbc_entertainment_177.txt|.|2
+rate rise expected|.|bbc_business_402.txt|.|1
+gross|.|bbc_business_044.txt|.|2
+gifts is that the children|.|bbc_business_268.txt|.|1
+economy|.|bbc_business_256.txt|.|3|.|bbc_business_052.txt|.|2|.|bbc_politics_021.txt|.|3|.|bbc_business_107.txt|.|3|.|bbc_business_493.txt|.|4|.|bbc_business_361.txt|.|3|.|bbc_business_183.txt|.|4|.|bbc_politics_375.txt|.|3|.|bbc_business_416.txt|.|5|.|bbc_business_344.txt|.|2|.|bbc_politics_356.txt|.|3|.|bbc_business_371.txt|.|3|.|bbc_business_044.txt|.|9|.|bbc_business_459.txt|.|7|.|bbc_politics_350.txt|.|3|.|bbc_business_076.txt|.|3|.|bbc_business_016.txt|.|2|.|bbc_business_093.txt|.|2|.|bbc_business_402.txt|.|2|.|bbc_business_101.txt|.|6|.|bbc_business_190.txt|.|2|.|bbc_business_507.txt|.|4|.|bbc_politics_394.txt|.|2|.|bbc_business_094.txt|.|3|.|bbc_business_284.txt|.|5|.|bbc_politics_389.txt|.|2|.|bbc_business_022.txt|.|2|.|bbc_business_200.txt|.|7|.|bbc_business_146.txt|.|6|.|bbc_business_439.txt|.|4|.|bbc_business_006.txt|.|3|.|bbc_business_030.txt|.|4|.|bbc_business_023.txt|.|3|.|bbc_business_110.txt|.|4|.|bbc_business_285.txt|.|3|.|bbc_business_277.txt|.|5|.|bbc_business_463.txt|.|2|.|bbc_business_119.txt|.|3|.|bbc_business_286.txt|.|4|.|bbc_politics_361.txt|.|5|.|bbc_business_423.txt|.|2|.|bbc_politics_355.txt|.|2|.|bbc_business_292.txt|.|5|.|bbc_business_289.txt|.|2|.|bbc_business_121.txt|.|5|.|bbc_business_097.txt|.|3|.|bbc_business_356.txt|.|5|.|bbc_business_495.txt|.|7|.|bbc_business_134.txt|.|2|.|bbc_business_330.txt|.|3|.|bbc_business_355.txt|.|4|.|bbc_business_258.txt|.|5|.|bbc_business_098.txt|.|4|.|bbc_business_182.txt|.|3|.|bbc_business_165.txt|.|4|.|bbc_business_288.txt|.|2|.|bbc_politics_084.txt|.|3
+european stock|.|bbc_business_319.txt|.|1
+continuing trend|.|bbc_business_023.txt|.|1
+economy started to grow|.|bbc_business_107.txt|.|2
+us economy|.|bbc_business_416.txt|.|2|.|bbc_business_134.txt|.|2|.|bbc_business_344.txt|.|2|.|bbc_business_094.txt|.|2|.|bbc_business_292.txt|.|2|.|bbc_business_402.txt|.|2|.|bbc_business_121.txt|.|3|.|bbc_business_097.txt|.|2|.|bbc_business_361.txt|.|2
+french economy|.|bbc_business_182.txt|.|2|.|bbc_business_023.txt|.|3
+than expected|.|bbc_business_134.txt|.|2|.|bbc_business_094.txt|.|1|.|bbc_business_156.txt|.|2|.|bbc_business_038.txt|.|1
+continuing|.|bbc_business_023.txt|.|1
+liberian economy starts|.|bbc_business_107.txt|.|1
+economy facing|.|bbc_business_289.txt|.|1
+beige book|.|bbc_business_463.txt|.|2
+liberian economy|.|bbc_business_107.txt|.|2
+consumer confidence|.|bbc_business_361.txt|.|2
+book|.|bbc_tech_253.txt|.|2|.|bbc_entertainment_304.txt|.|6|.|bbc_politics_225.txt|.|4|.|bbc_entertainment_374.txt|.|2|.|bbc_tech_069.txt|.|4|.|bbc_entertainment_014.txt|.|4|.|bbc_entertainment_025.txt|.|8|.|bbc_politics_256.txt|.|2|.|bbc_politics_260.txt|.|4|.|bbc_entertainment_015.txt|.|4|.|bbc_entertainment_098.txt|.|3|.|bbc_entertainment_004.txt|.|4|.|bbc_business_463.txt|.|2|.|bbc_entertainment_013.txt|.|3|.|bbc_politics_324.txt|.|3|.|bbc_politics_257.txt|.|2|.|bbc_entertainment_024.txt|.|3
+quarterly|.|bbc_business_023.txt|.|2
+economy started|.|bbc_business_107.txt|.|2
+recession|.|bbc_business_006.txt|.|3|.|bbc_business_044.txt|.|4
+liberian economy starts to grow|.|bbc_business_107.txt|.|1
+mr hadi|.|bbc_business_284.txt|.|4
+create jobs|.|bbc_business_258.txt|.|2|.|bbc_business_356.txt|.|2
+ioannidis|.|bbc_sport_017.txt|.|3
+expected to rise|.|bbc_business_402.txt|.|1
+icbc|.|bbc_business_396.txt|.|3
+bond|.|bbc_entertainment_347.txt|.|11|.|bbc_tech_245.txt|.|8|.|bbc_entertainment_333.txt|.|5|.|bbc_business_475.txt|.|4
+imf said|.|bbc_business_107.txt|.|2
+transition|.|bbc_business_107.txt|.|2
+beige|.|bbc_business_463.txt|.|2
+tokyo|.|bbc_business_032.txt|.|2
+democratic reform|.|bbc_politics_163.txt|.|2
+mouth|.|bbc_politics_203.txt|.|4
+monsanto has agreed to pay|.|bbc_business_400.txt|.|2
+livingston|.|bbc_sport_109.txt|.|2
+duty|.|bbc_politics_158.txt|.|6|.|bbc_politics_054.txt|.|4|.|bbc_tech_288.txt|.|6|.|bbc_politics_361.txt|.|10|.|bbc_politics_375.txt|.|3
+yang|.|bbc_tech_065.txt|.|3
+shot high|.|bbc_sport_246.txt|.|2
+german economy|.|bbc_business_098.txt|.|2
+quarter percentage|.|bbc_business_121.txt|.|2

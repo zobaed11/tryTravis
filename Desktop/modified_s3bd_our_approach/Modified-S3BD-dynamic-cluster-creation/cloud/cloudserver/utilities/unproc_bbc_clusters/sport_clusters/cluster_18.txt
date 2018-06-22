@@ -1,0 +1,91 @@
+18
+win the next game|.|bbc_sport_141.txt|.|1
+lo|.|bbc_sport_382.txt|.|2
+crowd|.|bbc_sport_486.txt|.|4|.|bbc_sport_510.txt|.|3|.|bbc_sport_491.txt|.|6
+sign|.|bbc_sport_211.txt|.|4|.|bbc_sport_276.txt|.|1
+experience|.|bbc_sport_261.txt|.|2
+dominici|.|bbc_sport_412.txt|.|5
+second|.|bbc_sport_311.txt|.|2|.|bbc_sport_214.txt|.|2|.|bbc_sport_238.txt|.|3|.|bbc_sport_182.txt|.|2|.|bbc_sport_453.txt|.|3|.|bbc_sport_511.txt|.|2|.|bbc_sport_332.txt|.|1|.|bbc_sport_440.txt|.|2|.|bbc_sport_139.txt|.|2|.|bbc_sport_498.txt|.|2|.|bbc_sport_294.txt|.|1|.|bbc_sport_431.txt|.|2|.|bbc_sport_181.txt|.|2|.|bbc_sport_394.txt|.|3|.|bbc_sport_344.txt|.|1
+ruling|.|bbc_sport_023.txt|.|2|.|bbc_sport_054.txt|.|2|.|bbc_sport_079.txt|.|2|.|bbc_sport_051.txt|.|1
+dal maso|.|bbc_sport_350.txt|.|3
+high|.|bbc_sport_246.txt|.|2
+beattie|.|bbc_sport_175.txt|.|4|.|bbc_sport_097.txt|.|5
+split|.|bbc_sport_481.txt|.|2
+suffered|.|bbc_sport_340.txt|.|1
+lost|.|bbc_sport_503.txt|.|2
+won|.|bbc_sport_028.txt|.|3|.|bbc_sport_453.txt|.|2|.|bbc_sport_466.txt|.|2|.|bbc_sport_455.txt|.|2|.|bbc_sport_005.txt|.|3|.|bbc_sport_041.txt|.|4|.|bbc_sport_391.txt|.|2|.|bbc_sport_076.txt|.|2|.|bbc_sport_027.txt|.|2|.|bbc_sport_463.txt|.|2|.|bbc_sport_474.txt|.|2|.|bbc_sport_458.txt|.|1|.|bbc_sport_320.txt|.|2|.|bbc_sport_069.txt|.|3|.|bbc_sport_006.txt|.|2
+jesse owens|.|bbc_sport_041.txt|.|3
+france|.|bbc_sport_327.txt|.|5|.|bbc_sport_332.txt|.|3|.|bbc_sport_286.txt|.|5|.|bbc_sport_414.txt|.|9|.|bbc_sport_284.txt|.|3|.|bbc_sport_349.txt|.|2|.|bbc_sport_202.txt|.|2|.|bbc_sport_323.txt|.|2|.|bbc_sport_412.txt|.|7|.|bbc_sport_340.txt|.|5|.|bbc_sport_476.txt|.|5|.|bbc_sport_320.txt|.|7|.|bbc_sport_344.txt|.|3|.|bbc_sport_292.txt|.|2|.|bbc_sport_326.txt|.|3|.|bbc_sport_337.txt|.|6|.|bbc_sport_296.txt|.|4
+french|.|bbc_sport_463.txt|.|2|.|bbc_sport_495.txt|.|4|.|bbc_sport_254.txt|.|3|.|bbc_sport_133.txt|.|2|.|bbc_sport_296.txt|.|3
+gatlin|.|bbc_sport_041.txt|.|4|.|bbc_sport_003.txt|.|3
+won his second|.|bbc_sport_453.txt|.|1
+hayes|.|bbc_sport_041.txt|.|4
+ulster|.|bbc_sport_384.txt|.|4|.|bbc_sport_379.txt|.|12
+gardener|.|bbc_sport_009.txt|.|4|.|bbc_sport_090.txt|.|3|.|bbc_sport_010.txt|.|2|.|bbc_sport_075.txt|.|3
+raul|.|bbc_sport_120.txt|.|2
+finals|.|bbc_sport_503.txt|.|3
+steven|.|bbc_sport_274.txt|.|2|.|bbc_sport_141.txt|.|2|.|bbc_sport_243.txt|.|3
+gary neville|.|bbc_sport_101.txt|.|1|.|bbc_sport_137.txt|.|4
+reds|.|bbc_sport_102.txt|.|3|.|bbc_sport_243.txt|.|2
+keep|.|bbc_sport_290.txt|.|2|.|bbc_sport_194.txt|.|2|.|bbc_sport_229.txt|.|1
+finnan|.|bbc_sport_133.txt|.|4
+gave|.|bbc_sport_146.txt|.|2
+looking|.|bbc_sport_150.txt|.|1|.|bbc_sport_256.txt|.|1
+babayaro|.|bbc_sport_279.txt|.|3
+grand slam|.|bbc_sport_352.txt|.|3|.|bbc_sport_473.txt|.|1|.|bbc_sport_489.txt|.|3|.|bbc_sport_395.txt|.|1|.|bbc_sport_403.txt|.|6|.|bbc_sport_291.txt|.|2|.|bbc_sport_490.txt|.|3|.|bbc_sport_405.txt|.|2|.|bbc_sport_396.txt|.|2|.|bbc_sport_412.txt|.|3|.|bbc_sport_447.txt|.|3|.|bbc_sport_495.txt|.|3|.|bbc_sport_292.txt|.|2|.|bbc_sport_445.txt|.|2
+win over aston villa|.|bbc_sport_175.txt|.|1
+found guilty|.|bbc_sport_039.txt|.|2
+jesse owens awards|.|bbc_sport_041.txt|.|2
+assault|.|bbc_sport_175.txt|.|2
+forest|.|bbc_sport_150.txt|.|4|.|bbc_sport_191.txt|.|4
+turned|.|bbc_sport_494.txt|.|1
+wild card|.|bbc_sport_478.txt|.|2
+fine line|.|bbc_sport_493.txt|.|2
+weekend|.|bbc_sport_340.txt|.|3|.|bbc_sport_316.txt|.|2|.|bbc_sport_410.txt|.|1
+win the group|.|bbc_sport_133.txt|.|2
+open champion|.|bbc_sport_436.txt|.|2|.|bbc_sport_430.txt|.|2
+said dent|.|bbc_sport_453.txt|.|1
+plate|.|bbc_sport_381.txt|.|2
+tournament|.|bbc_sport_347.txt|.|2|.|bbc_sport_484.txt|.|3|.|bbc_sport_451.txt|.|3
+aston villa|.|bbc_sport_264.txt|.|2|.|bbc_sport_175.txt|.|2
+hungarian|.|bbc_sport_501.txt|.|2
+william gallas|.|bbc_sport_097.txt|.|2
+partizan|.|bbc_sport_261.txt|.|3
+substitute|.|bbc_sport_384.txt|.|2
+leipzig|.|bbc_sport_009.txt|.|2
+premiership|.|bbc_sport_205.txt|.|3|.|bbc_sport_172.txt|.|2|.|bbc_sport_160.txt|.|5|.|bbc_sport_176.txt|.|3
+owens|.|bbc_sport_041.txt|.|3
+smith already has the backing|.|bbc_sport_208.txt|.|1
+said safin|.|bbc_sport_503.txt|.|3
+innuendoes|.|bbc_sport_046.txt|.|2
+tennis association|.|bbc_sport_493.txt|.|2
+hopefully|.|bbc_sport_093.txt|.|2
+aragones|.|bbc_sport_170.txt|.|9|.|bbc_sport_258.txt|.|4|.|bbc_sport_257.txt|.|4
+win|.|bbc_sport_335.txt|.|3|.|bbc_sport_390.txt|.|1|.|bbc_sport_009.txt|.|3|.|bbc_sport_352.txt|.|4|.|bbc_sport_381.txt|.|4|.|bbc_sport_446.txt|.|4|.|bbc_sport_453.txt|.|2|.|bbc_sport_470.txt|.|2|.|bbc_sport_349.txt|.|2|.|bbc_sport_468.txt|.|2|.|bbc_sport_396.txt|.|6|.|bbc_sport_503.txt|.|4|.|bbc_sport_340.txt|.|4|.|bbc_sport_145.txt|.|2|.|bbc_sport_175.txt|.|2|.|bbc_sport_493.txt|.|2|.|bbc_sport_384.txt|.|2|.|bbc_sport_150.txt|.|3|.|bbc_sport_486.txt|.|2|.|bbc_sport_290.txt|.|4|.|bbc_sport_278.txt|.|3|.|bbc_sport_141.txt|.|5|.|bbc_sport_074.txt|.|1|.|bbc_sport_133.txt|.|4|.|bbc_sport_243.txt|.|6|.|bbc_sport_176.txt|.|2|.|bbc_sport_041.txt|.|3|.|bbc_sport_412.txt|.|3|.|bbc_sport_408.txt|.|3|.|bbc_sport_075.txt|.|3|.|bbc_sport_261.txt|.|2|.|bbc_sport_404.txt|.|3|.|bbc_sport_292.txt|.|3|.|bbc_sport_218.txt|.|3|.|bbc_sport_456.txt|.|2|.|bbc_sport_058.txt|.|4|.|bbc_sport_469.txt|.|2
+programme|.|bbc_sport_049.txt|.|2|.|bbc_sport_088.txt|.|2
+kostas|.|bbc_sport_054.txt|.|2|.|bbc_sport_082.txt|.|2
+cicero|.|bbc_sport_382.txt|.|2
+mcclaren|.|bbc_sport_145.txt|.|4|.|bbc_sport_222.txt|.|5|.|bbc_sport_261.txt|.|4|.|bbc_sport_229.txt|.|4
+side|.|bbc_sport_335.txt|.|1|.|bbc_sport_150.txt|.|3|.|bbc_sport_305.txt|.|2|.|bbc_sport_289.txt|.|2|.|bbc_sport_238.txt|.|2|.|bbc_sport_182.txt|.|3|.|bbc_sport_297.txt|.|2|.|bbc_sport_368.txt|.|4|.|bbc_sport_135.txt|.|3|.|bbc_sport_349.txt|.|4|.|bbc_sport_408.txt|.|1|.|bbc_sport_181.txt|.|3|.|bbc_sport_262.txt|.|1|.|bbc_sport_203.txt|.|1
+cunningham|.|bbc_sport_384.txt|.|3
+break|.|bbc_sport_453.txt|.|2|.|bbc_sport_160.txt|.|13|.|bbc_sport_491.txt|.|15|.|bbc_sport_293.txt|.|1
+dominici says|.|bbc_sport_412.txt|.|2
+draw|.|bbc_sport_457.txt|.|2|.|bbc_sport_259.txt|.|2
+fiji|.|bbc_sport_381.txt|.|4
+aston|.|bbc_sport_264.txt|.|2|.|bbc_sport_175.txt|.|2
+jesse|.|bbc_sport_041.txt|.|3
+frank arnesen|.|bbc_sport_207.txt|.|2
+parry|.|bbc_sport_112.txt|.|13|.|bbc_sport_118.txt|.|16|.|bbc_sport_121.txt|.|13|.|bbc_sport_243.txt|.|4
+knee|.|bbc_sport_353.txt|.|2|.|bbc_sport_249.txt|.|2|.|bbc_sport_200.txt|.|2
+owens awards|.|bbc_sport_041.txt|.|2
+punishment|.|bbc_sport_170.txt|.|4|.|bbc_sport_200.txt|.|1|.|bbc_sport_253.txt|.|2
+win over aston|.|bbc_sport_175.txt|.|1
+samoa|.|bbc_sport_381.txt|.|2
+hassell|.|bbc_sport_276.txt|.|4|.|bbc_sport_195.txt|.|1
+kewell|.|bbc_sport_127.txt|.|4
+nervous|.|bbc_sport_503.txt|.|2
+report|.|bbc_sport_147.txt|.|3
+battles|.|bbc_sport_058.txt|.|1
+bid|.|bbc_sport_072.txt|.|3|.|bbc_sport_273.txt|.|2|.|bbc_sport_134.txt|.|2|.|bbc_sport_189.txt|.|2|.|bbc_sport_254.txt|.|4|.|bbc_sport_266.txt|.|3|.|bbc_sport_272.txt|.|2|.|bbc_sport_191.txt|.|3|.|bbc_sport_243.txt|.|2|.|bbc_sport_177.txt|.|2
+white hart|.|bbc_sport_207.txt|.|2
+vogts|.|bbc_sport_212.txt|.|5

@@ -1,0 +1,17 @@
+66
+offers|.|263.txt|.|4|.|298.txt|.|4|.|380.txt|.|1|.|022.txt|.|1|.|344.txt|.|1|.|349.txt|.|5|.|280.txt|.|1|.|136.txt|.|1
+auditions|.|024.txt|.|2
+treatment|.|acne.txt|.|23
+london|.|349.txt|.|2|.|104.txt|.|2|.|375.txt|.|3
+tv over broadband|.|349.txt|.|3
+posters|.|230.txt|.|11
+andrew|.|349.txt|.|2
+cable firm|.|280.txt|.|1
+music downloaded|.|263.txt|.|1|.|298.txt|.|1
+blocking|.|101.txt|.|6|.|123.txt|.|8
+domain|.|118.txt|.|7|.|239.txt|.|7|.|340.txt|.|8|.|049.txt|.|8|.|387.txt|.|7
+medal of honor|.|288.txt|.|3
+hearing|.|370.txt|.|2
+telecoms|.|349.txt|.|2
+court will hear|.|370.txt|.|1
+cebit fever|.|395.txt|.|2

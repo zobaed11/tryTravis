@@ -1,0 +1,64 @@
+insurance|.|bbc_business_333.txt|.|4|.|bbc_politics_340.txt|.|2|.|bbc_business_265.txt|.|4|.|bbc_politics_022.txt|.|3|.|bbc_business_060.txt|.|3|.|bbc_business_353.txt|.|1|.|bbc_business_232.txt|.|5|.|bbc_business_088.txt|.|4
+refugees|.|bbc_politics_087.txt|.|7|.|bbc_politics_106.txt|.|4
+police commissioners|.|bbc_politics_347.txt|.|2
+discussions|.|bbc_politics_357.txt|.|2
+tories say|.|bbc_politics_265.txt|.|2|.|bbc_politics_226.txt|.|2
+asylum|.|bbc_politics_087.txt|.|15|.|bbc_politics_153.txt|.|8|.|bbc_politics_370.txt|.|6|.|bbc_politics_078.txt|.|6|.|bbc_politics_106.txt|.|10|.|bbc_politics_334.txt|.|4|.|bbc_politics_022.txt|.|5
+mothers|.|bbc_politics_001.txt|.|4
+stansted expansion|.|bbc_politics_033.txt|.|2
+proposals announced|.|bbc_politics_001.txt|.|1
+asylum processing|.|bbc_politics_022.txt|.|1
+justice|.|bbc_business_291.txt|.|2|.|bbc_politics_204.txt|.|6
+nine months|.|bbc_politics_001.txt|.|3
+blackadder|.|bbc_entertainment_310.txt|.|3
+redwood|.|bbc_politics_265.txt|.|2
+keep council|.|bbc_politics_357.txt|.|2
+new mothers|.|bbc_politics_001.txt|.|3
+runway|.|bbc_politics_033.txt|.|5
+new runway|.|bbc_politics_033.txt|.|2
+plans to abolish|.|bbc_politics_265.txt|.|1|.|bbc_politics_226.txt|.|1
+check|.|bbc_politics_122.txt|.|1
+expansion|.|bbc_politics_369.txt|.|7|.|bbc_politics_033.txt|.|5
+airport|.|bbc_business_064.txt|.|4|.|bbc_politics_033.txt|.|6
+art and other leading|.|bbc_entertainment_011.txt|.|1
+raynsford said|.|bbc_politics_357.txt|.|2
+miller|.|bbc_sport_109.txt|.|6
+quangos have been unveiled|.|bbc_politics_265.txt|.|1|.|bbc_politics_226.txt|.|1
+plans|.|bbc_politics_344.txt|.|2|.|bbc_politics_357.txt|.|4|.|bbc_politics_234.txt|.|5|.|bbc_politics_226.txt|.|5|.|bbc_politics_022.txt|.|6|.|bbc_entertainment_105.txt|.|1|.|bbc_politics_204.txt|.|3|.|bbc_politics_087.txt|.|9|.|bbc_politics_187.txt|.|2|.|bbc_politics_369.txt|.|4|.|bbc_politics_387.txt|.|5|.|bbc_sport_242.txt|.|2|.|bbc_politics_317.txt|.|1|.|bbc_entertainment_310.txt|.|2|.|bbc_business_267.txt|.|2|.|bbc_politics_275.txt|.|3|.|bbc_politics_347.txt|.|6|.|bbc_politics_405.txt|.|2|.|bbc_politics_033.txt|.|6|.|bbc_entertainment_235.txt|.|1|.|bbc_politics_122.txt|.|3|.|bbc_politics_282.txt|.|5|.|bbc_business_365.txt|.|2|.|bbc_politics_001.txt|.|5|.|bbc_politics_265.txt|.|7|.|bbc_politics_271.txt|.|1|.|bbc_politics_084.txt|.|2
+older children|.|bbc_politics_001.txt|.|2
+adam smith|.|bbc_business_213.txt|.|4
+student loans|.|bbc_politics_246.txt|.|2
+criminal justice|.|bbc_politics_204.txt|.|3
+mia|.|bbc_entertainment_346.txt|.|2
+financial gifts|.|bbc_business_268.txt|.|2
+high court|.|bbc_politics_131.txt|.|2|.|bbc_politics_033.txt|.|2
+association|.|bbc_sport_208.txt|.|2|.|bbc_politics_399.txt|.|5|.|bbc_sport_235.txt|.|3|.|bbc_business_317.txt|.|2|.|bbc_business_323.txt|.|3|.|bbc_sport_493.txt|.|2
+expansion plans|.|bbc_politics_369.txt|.|1
+local|.|bbc_politics_398.txt|.|5|.|bbc_tech_264.txt|.|5|.|bbc_tech_242.txt|.|3|.|bbc_politics_357.txt|.|9|.|bbc_politics_317.txt|.|4|.|bbc_politics_234.txt|.|5|.|bbc_politics_412.txt|.|2|.|bbc_politics_029.txt|.|2|.|bbc_politics_243.txt|.|2|.|bbc_politics_204.txt|.|2|.|bbc_business_502.txt|.|2|.|bbc_politics_399.txt|.|7|.|bbc_politics_339.txt|.|6|.|bbc_tech_365.txt|.|5|.|bbc_politics_030.txt|.|4
+genuine refugees|.|bbc_politics_087.txt|.|2|.|bbc_politics_106.txt|.|3
+aviation expansion|.|bbc_politics_369.txt|.|1
+new plans|.|bbc_politics_022.txt|.|1
+evans|.|bbc_entertainment_181.txt|.|11
+defensively|.|bbc_sport_223.txt|.|1
+plans include|.|bbc_politics_234.txt|.|1
+extra|.|bbc_sport_104.txt|.|1|.|bbc_business_015.txt|.|2|.|bbc_business_036.txt|.|2|.|bbc_politics_033.txt|.|4
+strategic health|.|bbc_politics_265.txt|.|2|.|bbc_politics_226.txt|.|2
+ms hewitt|.|bbc_politics_001.txt|.|3|.|bbc_politics_003.txt|.|3
+chief constables|.|bbc_politics_347.txt|.|3
+genuine|.|bbc_politics_087.txt|.|2|.|bbc_tech_083.txt|.|3|.|bbc_politics_106.txt|.|3|.|bbc_tech_308.txt|.|3
+hermione|.|bbc_entertainment_033.txt|.|2
+met|.|bbc_politics_312.txt|.|2|.|bbc_politics_033.txt|.|2
+correctional|.|bbc_politics_204.txt|.|2
+public health|.|bbc_politics_122.txt|.|3
+redwood said|.|bbc_politics_265.txt|.|2
+commissioners|.|bbc_politics_347.txt|.|2
+howard said|.|bbc_politics_408.txt|.|3|.|bbc_politics_087.txt|.|4|.|bbc_politics_347.txt|.|3|.|bbc_politics_364.txt|.|2|.|bbc_politics_070.txt|.|3|.|bbc_politics_122.txt|.|3|.|bbc_politics_096.txt|.|4
+appeal|.|bbc_tech_092.txt|.|2|.|bbc_business_104.txt|.|2|.|bbc_sport_079.txt|.|3|.|bbc_business_291.txt|.|3|.|bbc_politics_173.txt|.|2|.|bbc_sport_081.txt|.|3|.|bbc_politics_179.txt|.|2|.|bbc_sport_026.txt|.|2|.|bbc_politics_201.txt|.|1
+mr raynsford|.|bbc_politics_357.txt|.|4
+den bergh|.|bbc_sport_382.txt|.|2
+police|.|bbc_politics_134.txt|.|7|.|bbc_politics_379.txt|.|3|.|bbc_politics_239.txt|.|9|.|bbc_politics_234.txt|.|13|.|bbc_politics_185.txt|.|5|.|bbc_politics_131.txt|.|10|.|bbc_politics_347.txt|.|12|.|bbc_politics_165.txt|.|6|.|bbc_politics_074.txt|.|2|.|bbc_politics_230.txt|.|6|.|bbc_politics_290.txt|.|6|.|bbc_politics_300.txt|.|3|.|bbc_politics_141.txt|.|3|.|bbc_politics_198.txt|.|9|.|bbc_politics_105.txt|.|6|.|bbc_business_266.txt|.|2|.|bbc_sport_197.txt|.|3|.|bbc_entertainment_141.txt|.|7|.|bbc_politics_151.txt|.|5|.|bbc_business_338.txt|.|3
+texts|.|bbc_entertainment_001.txt|.|1
+local press|.|bbc_business_502.txt|.|2
+pbgc|.|bbc_business_368.txt|.|4
+raynsford|.|bbc_politics_357.txt|.|5
+extending|.|bbc_politics_001.txt|.|2

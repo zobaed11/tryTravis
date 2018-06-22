@@ -1,0 +1,38 @@
+86
+school man|.|WET1730.txt|.|53|.|WET5471.txt|.|79
+bachelors|.|WET1730.txt|.|214|.|WET5471.txt|.|365
+rose gold|.|WET5636.txt|.|72
+chips|.|WET1477.txt|.|24
+drinkware set|.|WET6113.txt|.|40
+masters|.|WET1730.txt|.|104|.|WET2117.txt|.|4|.|WET5471.txt|.|139
+charles|.|WET288.txt|.|11|.|WET4172.txt|.|62
+amethyst|.|WET5636.txt|.|64
+white bachelors|.|WET1730.txt|.|155|.|WET5471.txt|.|279
+beverly hills|.|WET3851.txt|.|16|.|WET927.txt|.|11
+chipsfrom|.|WET1477.txt|.|56
+white|.|WET1730.txt|.|608|.|WET3915.txt|.|69|.|WET1477.txt|.|44|.|WET4519.txt|.|34|.|WET927.txt|.|53|.|WET4760.txt|.|41|.|WET6113.txt|.|60|.|WET3297.txt|.|55|.|WET933.txt|.|10|.|WET1632.txt|.|37|.|WET4896.txt|.|43|.|WET4354.txt|.|30|.|WET5636.txt|.|121|.|WET2586.txt|.|20|.|WET1704.txt|.|154|.|WET4172.txt|.|112|.|WET5071.txt|.|50|.|WET2596.txt|.|8|.|WET2456.txt|.|29|.|WET3272.txt|.|46|.|WET5471.txt|.|1030
+white associates man|.|WET5471.txt|.|38
+school man member|.|WET1730.txt|.|53
+masters woman|.|WET1730.txt|.|59
+white gold|.|WET5636.txt|.|77
+man member|.|WET1730.txt|.|348|.|WET5471.txt|.|524
+management software|.|WET1632.txt|.|4
+associates|.|WET1730.txt|.|97|.|WET5471.txt|.|158
+countryside|.|WET6113.txt|.|50
+masters man member|.|WET5471.txt|.|44
+beverly|.|WET3851.txt|.|16|.|WET927.txt|.|13
+bachelors woman|.|WET5471.txt|.|191
+lucerne white|.|WET6113.txt|.|20
+chocolate trading company|.|WET1477.txt|.|21
+high school man|.|WET1730.txt|.|53
+used red|.|WET3915.txt|.|15
+no return|.|WET4172.txt|.|2
+descent|.|WET1730.txt|.|77
+serving bowls|.|WET6113.txt|.|30
+louise|.|WET4172.txt|.|64
+hills|.|WET3851.txt|.|18|.|WET4587.txt|.|5|.|WET927.txt|.|11|.|WET1538.txt|.|4
+white horse|.|WET2586.txt|.|13
+pattern italian|.|WET6113.txt|.|10
+sets flatware|.|WET6113.txt|.|20
+dark chocolate|.|WET5230.txt|.|57|.|WET1477.txt|.|182|.|WET5228.txt|.|183
+white masters|.|WET5471.txt|.|106

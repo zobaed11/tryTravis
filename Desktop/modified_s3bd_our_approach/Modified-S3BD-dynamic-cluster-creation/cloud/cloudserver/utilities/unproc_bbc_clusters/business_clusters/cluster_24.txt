@@ -1,0 +1,113 @@
+24
+price rigging|.|bbc_business_103.txt|.|1
+delta|.|bbc_business_395.txt|.|5|.|bbc_business_348.txt|.|3
+division|.|bbc_business_223.txt|.|2
+jobs than expected|.|bbc_business_134.txt|.|1
+eu customs|.|bbc_business_446.txt|.|2
+travel chaos|.|bbc_business_348.txt|.|2
+announcement|.|bbc_business_424.txt|.|1
+christmas chaos|.|bbc_business_348.txt|.|1
+us budget deficit|.|bbc_business_488.txt|.|2
+gdp|.|bbc_business_094.txt|.|3
+pay cut|.|bbc_business_394.txt|.|1
+us firms|.|bbc_business_334.txt|.|1|.|bbc_business_446.txt|.|1
+attorney|.|bbc_business_103.txt|.|2
+contrack|.|bbc_business_334.txt|.|3
+us companies|.|bbc_business_334.txt|.|1|.|bbc_business_102.txt|.|1
+us bankruptcy|.|bbc_business_299.txt|.|2
+percentage point|.|bbc_business_402.txt|.|2|.|bbc_business_121.txt|.|2
+negotiated|.|bbc_business_424.txt|.|1
+greyhound tracks|.|bbc_business_223.txt|.|2
+mandelson|.|bbc_business_424.txt|.|4
+blamed|.|bbc_business_089.txt|.|1
+weak|.|bbc_business_143.txt|.|2|.|bbc_business_053.txt|.|1|.|bbc_business_089.txt|.|2
+current|.|bbc_business_097.txt|.|3
+restate|.|bbc_business_298.txt|.|2|.|bbc_business_326.txt|.|3
+us insurer|.|bbc_business_103.txt|.|1
+us dollar|.|bbc_business_180.txt|.|2
+continues|.|bbc_business_453.txt|.|1
+extra costs|.|bbc_business_015.txt|.|1
+power producer|.|bbc_business_276.txt|.|2
+tariff|.|bbc_business_446.txt|.|1
+telecom|.|bbc_business_112.txt|.|6
+power|.|bbc_business_430.txt|.|2|.|bbc_business_472.txt|.|5|.|bbc_business_276.txt|.|6
+commit fraud|.|bbc_business_196.txt|.|2
+borussia dortmund|.|bbc_business_219.txt|.|5|.|bbc_business_193.txt|.|6
+dispute|.|bbc_business_424.txt|.|3|.|bbc_business_378.txt|.|2
+broadband telecoms|.|bbc_business_112.txt|.|1
+us in eu|.|bbc_business_446.txt|.|1
+authors say|.|bbc_business_266.txt|.|2
+sell|.|bbc_business_274.txt|.|2|.|bbc_business_389.txt|.|1|.|bbc_business_039.txt|.|2|.|bbc_business_359.txt|.|2|.|bbc_business_160.txt|.|1|.|bbc_business_210.txt|.|2|.|bbc_business_078.txt|.|3|.|bbc_business_483.txt|.|2|.|bbc_business_035.txt|.|2|.|bbc_business_021.txt|.|2
+mandelson said|.|bbc_business_424.txt|.|3
+ending subsidies|.|bbc_business_424.txt|.|2
+continued|.|bbc_business_467.txt|.|1
+gaming division|.|bbc_business_223.txt|.|2
+christian lacroix|.|bbc_business_418.txt|.|2
+social responsibility|.|bbc_business_397.txt|.|4
+dollar has dropped|.|bbc_business_180.txt|.|1
+mr lebedev|.|bbc_business_157.txt|.|3
+hits|.|bbc_business_344.txt|.|1|.|bbc_business_053.txt|.|1|.|bbc_business_018.txt|.|1|.|bbc_business_050.txt|.|1|.|bbc_business_024.txt|.|1|.|bbc_business_030.txt|.|1
+rates on hold|.|bbc_business_137.txt|.|1|.|bbc_business_151.txt|.|2|.|bbc_business_119.txt|.|3
+economic crisis|.|bbc_business_330.txt|.|2
+help|.|bbc_business_496.txt|.|2|.|bbc_business_227.txt|.|2
+south asia|.|bbc_business_262.txt|.|2
+union customs|.|bbc_business_446.txt|.|1
+ended|.|bbc_business_283.txt|.|1
+asset|.|bbc_business_324.txt|.|3
+us interest|.|bbc_business_402.txt|.|2|.|bbc_business_121.txt|.|2
+blames|.|bbc_business_089.txt|.|1
+currencies|.|bbc_business_142.txt|.|3
+price dispute|.|bbc_business_378.txt|.|2
+corp|.|bbc_business_447.txt|.|4|.|bbc_business_282.txt|.|2|.|bbc_business_422.txt|.|6|.|bbc_business_254.txt|.|4
+data|.|bbc_business_020.txt|.|3
+eu and us|.|bbc_business_424.txt|.|3
+kok|.|bbc_business_146.txt|.|8
+own|.|bbc_business_372.txt|.|2|.|bbc_business_495.txt|.|2|.|bbc_business_403.txt|.|2
+rebuilding|.|bbc_business_262.txt|.|2|.|bbc_business_411.txt|.|2
+remittances|.|bbc_business_084.txt|.|5
+leaders|.|bbc_business_504.txt|.|3|.|bbc_business_487.txt|.|7|.|bbc_business_482.txt|.|3
+yukos assets|.|bbc_business_399.txt|.|2
+sales|.|bbc_business_095.txt|.|5|.|bbc_business_132.txt|.|6|.|bbc_business_001.txt|.|4|.|bbc_business_450.txt|.|15|.|bbc_business_306.txt|.|8|.|bbc_business_099.txt|.|19|.|bbc_business_155.txt|.|3|.|bbc_business_225.txt|.|6|.|bbc_business_500.txt|.|2|.|bbc_business_384.txt|.|9|.|bbc_business_091.txt|.|2|.|bbc_business_056.txt|.|9|.|bbc_business_040.txt|.|5|.|bbc_business_481.txt|.|6|.|bbc_business_115.txt|.|3|.|bbc_business_247.txt|.|6|.|bbc_business_410.txt|.|6|.|bbc_business_173.txt|.|7|.|bbc_business_317.txt|.|7|.|bbc_business_406.txt|.|15|.|bbc_business_207.txt|.|6|.|bbc_business_430.txt|.|2|.|bbc_business_201.txt|.|2|.|bbc_business_329.txt|.|4|.|bbc_business_050.txt|.|6|.|bbc_business_063.txt|.|15|.|bbc_business_288.txt|.|2|.|bbc_business_390.txt|.|8|.|bbc_business_431.txt|.|2
+drug|.|bbc_business_327.txt|.|5|.|bbc_business_191.txt|.|7|.|bbc_business_309.txt|.|7|.|bbc_business_201.txt|.|1|.|bbc_business_300.txt|.|2|.|bbc_business_449.txt|.|3|.|bbc_business_150.txt|.|3|.|bbc_business_233.txt|.|2
+routes|.|bbc_business_380.txt|.|3
+growing|.|bbc_business_054.txt|.|3
+laura ashley|.|bbc_business_393.txt|.|7
+assets|.|bbc_business_399.txt|.|5|.|bbc_business_199.txt|.|1|.|bbc_business_301.txt|.|3
+knocking|.|bbc_business_257.txt|.|1
+argentina|.|bbc_business_330.txt|.|7|.|bbc_business_093.txt|.|4|.|bbc_business_080.txt|.|5
+nissan has named|.|bbc_business_216.txt|.|1
+aircraft makers|.|bbc_business_424.txt|.|2
+argentine|.|bbc_business_123.txt|.|2|.|bbc_business_501.txt|.|6|.|bbc_business_330.txt|.|4
+create|.|bbc_business_258.txt|.|2|.|bbc_business_356.txt|.|2
+tycoon|.|bbc_business_224.txt|.|2|.|bbc_business_229.txt|.|2|.|bbc_business_209.txt|.|2
+justice|.|bbc_business_291.txt|.|2
+weakened|.|bbc_business_344.txt|.|1
+criminal|.|bbc_business_489.txt|.|4
+xstrata bid|.|bbc_business_366.txt|.|1
+us|.|bbc_business_450.txt|.|5|.|bbc_business_079.txt|.|2|.|bbc_business_036.txt|.|8|.|bbc_business_361.txt|.|6|.|bbc_business_060.txt|.|2|.|bbc_business_192.txt|.|12|.|bbc_business_298.txt|.|3|.|bbc_business_010.txt|.|2|.|bbc_business_416.txt|.|7|.|bbc_business_344.txt|.|10|.|bbc_business_424.txt|.|9|.|bbc_business_494.txt|.|11|.|bbc_business_230.txt|.|3|.|bbc_business_299.txt|.|6|.|bbc_business_334.txt|.|4|.|bbc_business_394.txt|.|4|.|bbc_business_321.txt|.|5|.|bbc_business_224.txt|.|3|.|bbc_business_402.txt|.|6|.|bbc_business_348.txt|.|14|.|bbc_business_488.txt|.|5|.|bbc_business_270.txt|.|7|.|bbc_business_430.txt|.|3|.|bbc_business_045.txt|.|7|.|bbc_business_109.txt|.|2|.|bbc_business_094.txt|.|3|.|bbc_business_223.txt|.|7|.|bbc_business_063.txt|.|5|.|bbc_business_089.txt|.|6|.|bbc_business_351.txt|.|5|.|bbc_business_200.txt|.|4|.|bbc_business_251.txt|.|4|.|bbc_business_324.txt|.|6|.|bbc_business_103.txt|.|4|.|bbc_business_138.txt|.|4|.|bbc_business_099.txt|.|9|.|bbc_business_209.txt|.|2|.|bbc_business_391.txt|.|7|.|bbc_business_429.txt|.|4|.|bbc_business_083.txt|.|11|.|bbc_business_102.txt|.|6|.|bbc_business_446.txt|.|14|.|bbc_business_180.txt|.|3|.|bbc_business_466.txt|.|4|.|bbc_business_178.txt|.|2|.|bbc_business_202.txt|.|2|.|bbc_business_453.txt|.|6|.|bbc_business_215.txt|.|11|.|bbc_business_229.txt|.|2|.|bbc_business_292.txt|.|7|.|bbc_business_121.txt|.|10|.|bbc_business_097.txt|.|9|.|bbc_business_497.txt|.|3|.|bbc_business_406.txt|.|2|.|bbc_business_326.txt|.|4|.|bbc_business_134.txt|.|5|.|bbc_business_024.txt|.|9|.|bbc_business_418.txt|.|3|.|bbc_business_152.txt|.|5
+unemployment rate|.|bbc_business_490.txt|.|4|.|bbc_business_253.txt|.|2|.|bbc_business_007.txt|.|2
+negotiate|.|bbc_business_348.txt|.|2
+mci shares|.|bbc_business_251.txt|.|1
+strong dollar|.|bbc_business_097.txt|.|2
+rigging|.|bbc_business_103.txt|.|2
+loans|.|bbc_business_396.txt|.|3
+filed|.|bbc_business_145.txt|.|1|.|bbc_business_391.txt|.|1
+developing nations|.|bbc_business_442.txt|.|2
+tax|.|bbc_business_003.txt|.|2|.|bbc_business_200.txt|.|9|.|bbc_business_266.txt|.|12|.|bbc_business_307.txt|.|4|.|bbc_business_055.txt|.|5|.|bbc_business_075.txt|.|6|.|bbc_business_299.txt|.|4|.|bbc_business_127.txt|.|3|.|bbc_business_391.txt|.|1
+us insurance|.|bbc_business_060.txt|.|2
+helps boost|.|bbc_business_097.txt|.|1
+us stock market|.|bbc_business_215.txt|.|2|.|bbc_business_494.txt|.|2
+us crude prices|.|bbc_business_045.txt|.|2
+snow|.|bbc_business_097.txt|.|2
+account deficit|.|bbc_business_097.txt|.|3
+helps|.|bbc_business_097.txt|.|2
+staff called|.|bbc_business_348.txt|.|1
+dollar has fallen|.|bbc_business_344.txt|.|1
+gap|.|bbc_business_429.txt|.|2|.|bbc_business_441.txt|.|2|.|bbc_business_024.txt|.|3
+turnover|.|bbc_business_321.txt|.|2
+us airline|.|bbc_business_466.txt|.|1|.|bbc_business_348.txt|.|1
+senior fannie mae|.|bbc_business_326.txt|.|1
+said the firm|.|bbc_business_418.txt|.|1
+york attorney|.|bbc_business_103.txt|.|2
+financial regulators|.|bbc_business_326.txt|.|1
+reconstruction efforts|.|bbc_business_334.txt|.|2

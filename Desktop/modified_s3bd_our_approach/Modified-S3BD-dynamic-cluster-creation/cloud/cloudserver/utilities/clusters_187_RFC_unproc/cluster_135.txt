@@ -1,0 +1,120 @@
+mcdonald informational|.|rfc3808.txt|.|14
+mitton|.|rfc3127.txt|.|95|.|rfc3169.txt|.|21|.|rfc2882.txt|.|19
+zhu|.|rfc4559.txt|.|4|.|rfc4537.txt|.|8
+beep june|.|rfc3288.txt|.|19
+interop|.|rfc2715.txt|.|38|.|rfc6246.txt|.|19
+terminology for frame relay|.|rfc3133.txt|.|25
+introduction june|.|rfc4082.txt|.|21
+lan service|.|rfc6246.txt|.|7
+rigney|.|rfc2059.txt|.|29|.|rfc2139.txt|.|29|.|rfc2866.txt|.|33
+beijnum|.|rfc5534.txt|.|38
+pppoe|.|rfc3817.txt|.|133|.|rfc4638.txt|.|52|.|rfc4938.txt|.|62
+entry name|.|rfc5257.txt|.|6
+proxies|.|rfc3466.txt|.|14|.|rfc3135.txt|.|65|.|rfc3327.txt|.|29|.|rfc3143.txt|.|38
+directory server|.|rfc2605.txt|.|83
+enctype negotiation|.|rfc4537.txt|.|5
+home server|.|rfc2607.txt|.|39
+infrastructure public key|.|rfc2847.txt|.|3
+directory server monitoring|.|rfc2605.txt|.|29
+chaos|.|rfc4892.txt|.|7
+gl member|.|rfc5275.txt|.|139
+schema june|.|rfc2587.txt|.|7|.|rfc4523.txt|.|23
+iana urn|.|rfc3553.txt|.|7
+transfer june|.|rfc5589.txt|.|57
+profile june|.|rfc3539.txt|.|40|.|rfc4550.txt|.|22
+dependencies|.|rfc3792.txt|.|108|.|rfc3796.txt|.|107|.|rfc3795.txt|.|227|.|rfc3794.txt|.|69|.|rfc3791.txt|.|18|.|rfc3790.txt|.|71
+specifications for datalanguage|.|rfc515.txt|.|31
+defense information|.|rfc2360.txt|.|2
+radius june|.|rfc2865.txt|.|75
+abr benchmarking|.|rfc3134.txt|.|16
+evaluation june|.|rfc4097.txt|.|43
+kroeselberg|.|rfc4081.txt|.|30
+leased|.|rfc2598.txt|.|4
+http in urn|.|rfc2169.txt|.|9
+language extension|.|rfc5255.txt|.|10
+manual|.|rfc6039.txt|.|15|.|rfc4552.txt|.|14
+allocchio standards|.|rfc2163.txt|.|26|.|rfc2846.txt|.|35
+workaround|.|rfc3143.txt|.|27
+probe message|.|rfc5534.txt|.|28
+recommendation for network|.|rfc6296.txt|.|2
+defense|.|rfc2360.txt|.|3|.|rfc595.txt|.|5
+resolution system|.|rfc2168.txt|.|3
+multiple access|.|rfc2173.txt|.|4|.|rfc2172.txt|.|6|.|rfc2492.txt|.|4|.|rfc2175.txt|.|6|.|rfc2176.txt|.|6|.|rfc2171.txt|.|7
+content synchronization|.|rfc4533.txt|.|47
+token generation|.|rfc6290.txt|.|12
+accounting june|.|rfc2866.txt|.|27
+farrell standards|.|rfc3767.txt|.|25
+naptr|.|rfc2915.txt|.|90|.|rfc5483.txt|.|133|.|rfc3824.txt|.|60|.|rfc2168.txt|.|70|.|rfc6116.txt|.|68
+shepler informational|.|rfc2624.txt|.|21
+wg charter|.|rfc6292.txt|.|15
+server monitoring mib|.|rfc2605.txt|.|29
+dilley informational|.|rfc3143.txt|.|32
+scheduling systems|.|rfc3283.txt|.|3
+protocol evaluation|.|rfc4097.txt|.|47
+relay benchmarking|.|rfc3133.txt|.|24
+algorithm june|.|rfc4493.txt|.|19|.|rfc2612.txt|.|18
+millennium problem|.|rfc2626.txt|.|280
+internationalized string preparation|.|rfc4518.txt|.|14
+unsolicited mail|.|rfc2635.txt|.|12
+curve groups|.|rfc5903.txt|.|7
+links june|.|rfc357.txt|.|12
+serverid june|.|rfc4892.txt|.|7
+usm june|.|rfc3826.txt|.|15
+gellens experimental|.|rfc5257.txt|.|31|.|rfc5983.txt|.|10
+ticket session|.|rfc4537.txt|.|6
+sigtran protocols|.|rfc3788.txt|.|9
+writing protocol|.|rfc4101.txt|.|23
+forwarding phb|.|rfc3246.txt|.|17|.|rfc2598.txt|.|11|.|rfc2597.txt|.|11
+shaw|.|rfc5581.txt|.|6
+directory server monitoring mib|.|rfc2605.txt|.|29
+real error|.|rfc57.txt|.|3
+qcd token|.|rfc6290.txt|.|32
+metalink server|.|rfc6249.txt|.|43
+using peps|.|rfc3135.txt|.|15
+imap annotate|.|rfc5257.txt|.|61
+vsat|.|rfc3135.txt|.|55
+proxies june|.|rfc3135.txt|.|44
+registered protocol|.|rfc3553.txt|.|2
+independence|.|rfc6296.txt|.|11
+datatracker community|.|rfc6293.txt|.|16
+smyslov|.|rfc2628.txt|.|32
+rebooted|.|rfc6290.txt|.|15
+dilley|.|rfc3143.txt|.|36
+sip cc transfer|.|rfc5589.txt|.|57
+processing model|.|rfc2571.txt|.|27|.|rfc3412.txt|.|25|.|rfc2572.txt|.|25|.|rfc3411.txt|.|27|.|rfc2271.txt|.|26|.|rfc2261.txt|.|26|.|rfc5591.txt|.|15
+community tracking|.|rfc6293.txt|.|16
+guide to internet|.|rfc3283.txt|.|16
+lucent technologies|.|rfc3462.txt|.|2|.|rfc2424.txt|.|2|.|rfc3573.txt|.|3|.|rfc3141.txt|.|8
+belongs|.|rfc5535.txt|.|11
+soap profile feature|.|rfc3288.txt|.|2
+thoughts and reflections|.|rfc57.txt|.|5
+beijnum standards|.|rfc5534.txt|.|36
+pstn recipient|.|rfc2846.txt|.|2
+failure response message|.|rfc3292.txt|.|30
+privacy protocol|.|rfc3826.txt|.|15
+apl rr|.|rfc3123.txt|.|21
+threading algorithm|.|rfc5256.txt|.|9
+iana charset|.|rfc3808.txt|.|46
+outermost|.|rfc515.txt|.|22
+millennium|.|rfc2626.txt|.|323
+reqs june|.|rfc6292.txt|.|10|.|rfc6293.txt|.|16
+server monitoring|.|rfc2605.txt|.|29
+overflow condition|.|rfc57.txt|.|4
+pep motivation|.|rfc3135.txt|.|6
+lemonade profile|.|rfc4550.txt|.|26|.|rfc5442.txt|.|19|.|rfc5550.txt|.|52
+office protocol|.|rfc1957.txt|.|2
+spew june|.|rfc2635.txt|.|17
+equal|.|rfc2992.txt|.|7|.|rfc4928.txt|.|10|.|rfc2991.txt|.|2
+crynwr|.|rfc1957.txt|.|2
+security label|.|rfc2634.txt|.|44|.|rfc3114.txt|.|13
+single user|.|rfc3283.txt|.|3
+proposed standard|.|rfc2000.txt|.|94|.|rfc2253.txt|.|12|.|rfc2200.txt|.|38|.|rfc2400.txt|.|53|.|rfc4602.txt|.|12|.|rfc2300.txt|.|120
+prune|.|rfc2362.txt|.|52|.|rfc2117.txt|.|51
+annotate extension|.|rfc5257.txt|.|48
+holgate informational|.|rfc4938.txt|.|17
+address extensions|.|rfc2846.txt|.|34
+terminology for atm abr benchmarking|.|rfc3134.txt|.|16
+koch|.|rfc3123.txt|.|10
+barnes informational|.|rfc4097.txt|.|44
+routing in ospf|.|rfc4915.txt|.|20
+gilchrist informational|.|rfc2612.txt|.|19

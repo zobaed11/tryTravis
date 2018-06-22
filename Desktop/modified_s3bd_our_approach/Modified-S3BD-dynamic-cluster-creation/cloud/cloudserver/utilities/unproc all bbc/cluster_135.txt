@@ -1,0 +1,64 @@
+dixon|.|bbc_business_455.txt|.|3
+qwest said|.|bbc_business_188.txt|.|2
+consumer electronic|.|bbc_business_211.txt|.|1
+templeton said|.|bbc_tech_350.txt|.|2
+bidding|.|bbc_business_082.txt|.|1|.|bbc_business_070.txt|.|1|.|bbc_business_188.txt|.|2
+oil find|.|bbc_business_198.txt|.|1
+mobiles have become so popular|.|bbc_tech_098.txt|.|1|.|bbc_tech_289.txt|.|1
+vulnerable|.|bbc_tech_290.txt|.|2|.|bbc_tech_116.txt|.|2
+iraq to invite|.|bbc_business_129.txt|.|1
+catch|.|bbc_tech_208.txt|.|3|.|bbc_tech_077.txt|.|2
+phone viruses|.|bbc_tech_290.txt|.|2
+connections|.|bbc_tech_175.txt|.|5|.|bbc_tech_254.txt|.|2|.|bbc_tech_188.txt|.|2|.|bbc_tech_058.txt|.|3|.|bbc_tech_262.txt|.|2|.|bbc_tech_129.txt|.|5
+rogue|.|bbc_tech_397.txt|.|3|.|bbc_tech_188.txt|.|2
+images|.|bbc_tech_240.txt|.|3|.|bbc_tech_388.txt|.|6|.|bbc_tech_103.txt|.|6
+responds to movement|.|bbc_tech_054.txt|.|1
+londoners|.|bbc_tech_230.txt|.|2
+immediacy|.|bbc_tech_208.txt|.|3
+phone|.|bbc_tech_054.txt|.|11|.|bbc_tech_109.txt|.|8|.|bbc_politics_234.txt|.|2|.|bbc_tech_338.txt|.|5|.|bbc_tech_152.txt|.|2|.|bbc_tech_305.txt|.|2|.|bbc_tech_290.txt|.|8|.|bbc_tech_098.txt|.|5|.|bbc_tech_161.txt|.|1|.|bbc_tech_064.txt|.|5|.|bbc_tech_382.txt|.|3|.|bbc_tech_339.txt|.|2|.|bbc_tech_192.txt|.|1|.|bbc_tech_234.txt|.|4|.|bbc_tech_388.txt|.|3|.|bbc_tech_009.txt|.|5|.|bbc_tech_251.txt|.|6|.|bbc_tech_197.txt|.|6|.|bbc_tech_359.txt|.|4|.|bbc_tech_093.txt|.|4|.|bbc_tech_389.txt|.|4|.|bbc_business_236.txt|.|2|.|bbc_business_113.txt|.|4|.|bbc_tech_198.txt|.|13|.|bbc_tech_142.txt|.|5|.|bbc_business_129.txt|.|2|.|bbc_tech_350.txt|.|6|.|bbc_tech_067.txt|.|3|.|bbc_tech_325.txt|.|4|.|bbc_business_162.txt|.|2|.|bbc_politics_310.txt|.|2|.|bbc_tech_050.txt|.|1|.|bbc_tech_271.txt|.|1|.|bbc_tech_386.txt|.|5|.|bbc_business_188.txt|.|3|.|bbc_tech_042.txt|.|2|.|bbc_tech_289.txt|.|5|.|bbc_politics_123.txt|.|2|.|bbc_business_202.txt|.|4|.|bbc_tech_379.txt|.|6|.|bbc_tech_188.txt|.|15|.|bbc_tech_095.txt|.|3|.|bbc_tech_225.txt|.|11|.|bbc_tech_212.txt|.|11|.|bbc_tech_208.txt|.|8|.|bbc_tech_311.txt|.|3|.|bbc_tech_230.txt|.|4|.|bbc_tech_116.txt|.|8|.|bbc_tech_103.txt|.|3
+telephony|.|bbc_tech_350.txt|.|3
+vulnerable phone|.|bbc_tech_290.txt|.|2|.|bbc_tech_116.txt|.|2
+mobile phone|.|bbc_tech_234.txt|.|2|.|bbc_tech_379.txt|.|6|.|bbc_tech_325.txt|.|4|.|bbc_tech_109.txt|.|2|.|bbc_tech_338.txt|.|1|.|bbc_tech_009.txt|.|5|.|bbc_tech_050.txt|.|1|.|bbc_tech_208.txt|.|5|.|bbc_tech_305.txt|.|2|.|bbc_tech_290.txt|.|2|.|bbc_tech_230.txt|.|2|.|bbc_tech_093.txt|.|1|.|bbc_tech_098.txt|.|2|.|bbc_tech_389.txt|.|2|.|bbc_tech_064.txt|.|1|.|bbc_business_113.txt|.|4|.|bbc_tech_116.txt|.|2|.|bbc_tech_289.txt|.|2
+mobile picture|.|bbc_tech_208.txt|.|1
+swing via a golfing|.|bbc_tech_054.txt|.|1
+templeton|.|bbc_tech_350.txt|.|3
+phone companies|.|bbc_tech_188.txt|.|10
+responds|.|bbc_tech_054.txt|.|2
+movements|.|bbc_tech_054.txt|.|2
+strains|.|bbc_tech_290.txt|.|3|.|bbc_tech_116.txt|.|3
+bugs|.|bbc_tech_116.txt|.|2
+golf|.|bbc_tech_054.txt|.|2
+army knife|.|bbc_tech_379.txt|.|5
+phone firms|.|bbc_tech_225.txt|.|2|.|bbc_tech_212.txt|.|2
+tabloid newspapers|.|bbc_tech_208.txt|.|1
+line phone|.|bbc_tech_109.txt|.|3
+smartphones|.|bbc_tech_197.txt|.|2
+gartner|.|bbc_tech_234.txt|.|2|.|bbc_tech_388.txt|.|3|.|bbc_tech_389.txt|.|2|.|bbc_tech_064.txt|.|5|.|bbc_tech_338.txt|.|5|.|bbc_tech_103.txt|.|3
+chip maker|.|bbc_tech_350.txt|.|2
+mr templeton|.|bbc_tech_350.txt|.|2
+midnight|.|bbc_tech_152.txt|.|2
+wallpaper|.|bbc_tech_197.txt|.|2
+cross country champion|.|bbc_sport_024.txt|.|2
+reid rejected|.|bbc_sport_191.txt|.|2
+album|.|bbc_entertainment_162.txt|.|4|.|bbc_entertainment_253.txt|.|7|.|bbc_entertainment_126.txt|.|5|.|bbc_entertainment_261.txt|.|8|.|bbc_entertainment_129.txt|.|8|.|bbc_entertainment_250.txt|.|4|.|bbc_business_207.txt|.|1|.|bbc_entertainment_125.txt|.|3|.|bbc_entertainment_106.txt|.|6|.|bbc_entertainment_120.txt|.|2|.|bbc_entertainment_241.txt|.|3|.|bbc_entertainment_268.txt|.|1|.|bbc_entertainment_117.txt|.|3|.|bbc_entertainment_238.txt|.|3
+dialling|.|bbc_tech_188.txt|.|2
+posters are fitted|.|bbc_tech_230.txt|.|1
+say|.|bbc_tech_048.txt|.|2|.|bbc_business_178.txt|.|2|.|bbc_tech_081.txt|.|3|.|bbc_politics_075.txt|.|3|.|bbc_politics_226.txt|.|2|.|bbc_business_092.txt|.|2|.|bbc_politics_213.txt|.|4|.|bbc_politics_388.txt|.|4|.|bbc_tech_104.txt|.|3|.|bbc_politics_265.txt|.|2|.|bbc_entertainment_348.txt|.|2|.|bbc_entertainment_058.txt|.|2|.|bbc_business_266.txt|.|2|.|bbc_politics_028.txt|.|4|.|bbc_tech_393.txt|.|3
+video phone|.|bbc_tech_251.txt|.|2
+golfing|.|bbc_tech_054.txt|.|1
+fitted|.|bbc_tech_230.txt|.|2
+spread|.|bbc_tech_210.txt|.|4|.|bbc_tech_257.txt|.|3|.|bbc_politics_280.txt|.|2
+call|.|bbc_politics_397.txt|.|2|.|bbc_tech_098.txt|.|3|.|bbc_tech_288.txt|.|6|.|bbc_tech_289.txt|.|3|.|bbc_business_020.txt|.|19
+fixed line|.|bbc_tech_109.txt|.|3
+governing|.|bbc_sport_016.txt|.|2|.|bbc_politics_187.txt|.|1|.|bbc_tech_225.txt|.|1|.|bbc_tech_212.txt|.|1
+swing|.|bbc_tech_054.txt|.|2
+cabir strains|.|bbc_tech_290.txt|.|1|.|bbc_tech_116.txt|.|1
+help londoners|.|bbc_tech_230.txt|.|1
+fuel supplier|.|bbc_business_499.txt|.|2
+sbc|.|bbc_business_278.txt|.|6
+dumbing|.|bbc_entertainment_311.txt|.|1
+windows operating|.|bbc_tech_083.txt|.|2|.|bbc_tech_308.txt|.|2
+annual profits|.|bbc_business_221.txt|.|2
+sale in the us|.|bbc_tech_359.txt|.|2
+movement|.|bbc_tech_029.txt|.|3|.|bbc_tech_054.txt|.|2|.|bbc_politics_279.txt|.|5
+simply|.|bbc_politics_040.txt|.|2

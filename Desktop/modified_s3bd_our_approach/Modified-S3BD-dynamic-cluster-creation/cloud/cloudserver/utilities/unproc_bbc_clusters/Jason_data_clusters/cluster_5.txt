@@ -1,0 +1,38 @@
+5
+buy wine|.|WET3298.txt|.|22
+hollywood|.|WET3099.txt|.|54|.|WET483.txt|.|26|.|WET4609.txt|.|12|.|WET4230.txt|.|27
+cosplayers|.|WET5303.txt|.|23
+backpacks|.|WET2153.txt|.|60
+dim|.|WET1130.txt|.|4|.|WET5721.txt|.|4|.|WET1057.txt|.|5|.|WET2239.txt|.|4|.|WET4692.txt|.|2|.|WET2654.txt|.|3|.|WET4173.txt|.|2|.|WET1331.txt|.|2|.|WET3195.txt|.|8|.|WET2420.txt|.|2|.|WET845.txt|.|2|.|WET6259.txt|.|4|.|WET1980.txt|.|2|.|WET3177.txt|.|2|.|WET3746.txt|.|3|.|WET4646.txt|.|2|.|WET4923.txt|.|2
+neosho daily news|.|WET6216.txt|.|27
+chatfield|.|WET5090.txt|.|22
+top news|.|WET3190.txt|.|43|.|WET3189.txt|.|34
+enter site|.|WET2168.txt|.|25
+home baseball softball|.|WET3013.txt|.|30
+produktblad|.|WET2071.txt|.|82
+div|.|WET293.txt|.|11|.|WET4029.txt|.|11
+super search|.|WET2632.txt|.|14
+yamaha|.|WET4965.txt|.|13
+michael said|.|WET28.txt|.|29
+journal|.|WET2377.txt|.|35|.|WET5595.txt|.|36|.|WET3466.txt|.|442|.|WET3678.txt|.|195|.|WET2152.txt|.|17|.|WET3881.txt|.|240|.|WET2154.txt|.|88|.|WET6122.txt|.|32|.|WET137.txt|.|223|.|WET113.txt|.|28|.|WET2540.txt|.|84|.|WET2505.txt|.|66|.|WET3806.txt|.|156
+diy|.|WET466.txt|.|19|.|WET5406.txt|.|90|.|WET1658.txt|.|51
+park zoo|.|WET6017.txt|.|24
+archery forum|.|WET1091.txt|.|55
+celebs|.|WET2436.txt|.|40
+grants awarded|.|WET5510.txt|.|3
+burdastyle|.|WET1392.txt|.|37
+harada|.|WET5623.txt|.|18
+endpoints|.|WET3797.txt|.|2|.|WET4971.txt|.|2|.|WET1749.txt|.|7
+photos latest|.|WET3190.txt|.|11
+united cerebral palsy|.|WET998.txt|.|40
+ivan|.|WET380.txt|.|25
+new posts|.|WET4150.txt|.|9|.|WET1242.txt|.|9|.|WET5222.txt|.|18|.|WET4075.txt|.|12
+aftermath|.|WET380.txt|.|6
+playground join|.|WET5652.txt|.|14
+washington dc|.|WET4782.txt|.|38
+ny times|.|WET5003.txt|.|10
+medal of honor|.|WET1485.txt|.|137
+documents and maps|.|WET1022.txt|.|13|.|WET4768.txt|.|12|.|WET1023.txt|.|8
+maximum|.|WET1711.txt|.|30|.|WET1690.txt|.|6
+quartet|.|WET4411.txt|.|9
+quarter|.|WET1758.txt|.|55

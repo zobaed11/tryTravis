@@ -1,0 +1,104 @@
+1
+called|.|bbc_politics_025.txt|.|1|.|bbc_politics_205.txt|.|2
+prosecution|.|bbc_politics_048.txt|.|2
+discussions|.|bbc_politics_357.txt|.|2
+fair|.|bbc_politics_103.txt|.|2|.|bbc_politics_380.txt|.|6
+skills|.|bbc_politics_080.txt|.|4|.|bbc_politics_196.txt|.|2|.|bbc_politics_016.txt|.|3|.|bbc_politics_297.txt|.|2
+qualifications|.|bbc_politics_080.txt|.|4
+protected|.|bbc_politics_290.txt|.|4
+councils should set|.|bbc_politics_101.txt|.|1
+work hard|.|bbc_politics_380.txt|.|2
+state|.|bbc_politics_290.txt|.|10|.|bbc_politics_174.txt|.|2|.|bbc_politics_298.txt|.|3|.|bbc_politics_059.txt|.|3
+silence|.|bbc_politics_135.txt|.|2
+poverty|.|bbc_politics_385.txt|.|3|.|bbc_politics_250.txt|.|2
+quango review|.|bbc_politics_039.txt|.|1
+rest used|.|bbc_politics_271.txt|.|1
+work|.|bbc_politics_116.txt|.|5|.|bbc_politics_198.txt|.|2|.|bbc_politics_380.txt|.|15|.|bbc_politics_402.txt|.|3|.|bbc_politics_204.txt|.|4
+constituencies|.|bbc_politics_250.txt|.|2
+frontline|.|bbc_politics_271.txt|.|3
+hodge|.|bbc_politics_103.txt|.|2
+animal|.|bbc_politics_032.txt|.|1|.|bbc_politics_048.txt|.|9|.|bbc_politics_250.txt|.|2
+social care|.|bbc_politics_388.txt|.|2
+mosque|.|bbc_politics_185.txt|.|6
+increased|.|bbc_politics_101.txt|.|1
+committee said|.|bbc_politics_048.txt|.|2
+ahead|.|bbc_politics_369.txt|.|2
+tax rises|.|bbc_politics_128.txt|.|2|.|bbc_politics_101.txt|.|2
+hundred million|.|bbc_politics_135.txt|.|1
+fairer|.|bbc_politics_317.txt|.|2
+students|.|bbc_politics_246.txt|.|4|.|bbc_politics_047.txt|.|11|.|bbc_politics_213.txt|.|18
+whistleblowers|.|bbc_politics_162.txt|.|3
+rights watch|.|bbc_politics_136.txt|.|2
+talks aim to avert|.|bbc_politics_311.txt|.|1|.|bbc_politics_069.txt|.|1
+increases|.|bbc_politics_380.txt|.|7
+aviation expansion|.|bbc_politics_369.txt|.|1
+government|.|bbc_politics_037.txt|.|2|.|bbc_politics_092.txt|.|3|.|bbc_politics_048.txt|.|6|.|bbc_politics_357.txt|.|9|.|bbc_politics_317.txt|.|3|.|bbc_politics_250.txt|.|5|.|bbc_politics_039.txt|.|11|.|bbc_politics_380.txt|.|16|.|bbc_politics_100.txt|.|3|.|bbc_politics_027.txt|.|8|.|bbc_politics_135.txt|.|4|.|bbc_politics_103.txt|.|3|.|bbc_politics_025.txt|.|3|.|bbc_politics_343.txt|.|2|.|bbc_politics_080.txt|.|6|.|bbc_politics_290.txt|.|30|.|bbc_politics_020.txt|.|7|.|bbc_politics_271.txt|.|5|.|bbc_politics_369.txt|.|3|.|bbc_politics_101.txt|.|8|.|bbc_politics_023.txt|.|4|.|bbc_politics_222.txt|.|4|.|bbc_politics_162.txt|.|2
+severely disruptive|.|bbc_politics_055.txt|.|2
+malik|.|bbc_politics_143.txt|.|3
+assembly|.|bbc_politics_101.txt|.|3|.|bbc_politics_061.txt|.|3|.|bbc_politics_288.txt|.|2|.|bbc_politics_039.txt|.|8|.|bbc_politics_200.txt|.|5
+deport terror|.|bbc_politics_097.txt|.|2
+disabled|.|bbc_politics_388.txt|.|2
+insane|.|bbc_politics_286.txt|.|2|.|bbc_politics_125.txt|.|2
+arts|.|bbc_politics_039.txt|.|10
+reasonable levels|.|bbc_politics_101.txt|.|4
+health and safety|.|bbc_politics_162.txt|.|6
+council tax rises|.|bbc_politics_101.txt|.|2
+essex said|.|bbc_politics_101.txt|.|3
+hodge said|.|bbc_politics_103.txt|.|2
+forward|.|bbc_politics_020.txt|.|2
+silly|.|bbc_politics_009.txt|.|4
+black|.|bbc_politics_318.txt|.|2|.|bbc_politics_143.txt|.|6|.|bbc_politics_364.txt|.|2
+internet and mobile|.|bbc_politics_240.txt|.|2
+liberation|.|bbc_politics_018.txt|.|2
+delegates|.|bbc_politics_409.txt|.|3
+carers|.|bbc_politics_103.txt|.|9
+mr raynsford|.|bbc_politics_357.txt|.|4
+notices|.|bbc_politics_030.txt|.|2
+frontline services|.|bbc_politics_271.txt|.|2
+nuisance behaviour|.|bbc_politics_092.txt|.|2
+mr mallon|.|bbc_politics_200.txt|.|4
+retract|.|bbc_politics_154.txt|.|2
+good deal|.|bbc_politics_101.txt|.|2
+european constitution|.|bbc_politics_222.txt|.|1
+christmas day|.|bbc_politics_063.txt|.|4
+house of commons chamber|.|bbc_politics_066.txt|.|2
+raynsford|.|bbc_politics_357.txt|.|5
+supported|.|bbc_politics_381.txt|.|3
+macdonell said|.|bbc_politics_019.txt|.|3
+animal welfare|.|bbc_politics_048.txt|.|5
+putting|.|bbc_politics_222.txt|.|1
+castle|.|bbc_politics_104.txt|.|2
+frederick forsyth|.|bbc_politics_290.txt|.|8
+local government|.|bbc_politics_357.txt|.|6
+british|.|bbc_politics_229.txt|.|4|.|bbc_politics_290.txt|.|12|.|bbc_politics_053.txt|.|6|.|bbc_politics_100.txt|.|6|.|bbc_politics_065.txt|.|3|.|bbc_politics_129.txt|.|2|.|bbc_politics_286.txt|.|2|.|bbc_politics_172.txt|.|3|.|bbc_politics_125.txt|.|2|.|bbc_politics_135.txt|.|6|.|bbc_politics_269.txt|.|2
+trial|.|bbc_politics_290.txt|.|11|.|bbc_politics_178.txt|.|3
+minimum rate|.|bbc_politics_103.txt|.|2
+councils should set their taxes|.|bbc_politics_101.txt|.|1
+environment select|.|bbc_politics_048.txt|.|2
+select committee|.|bbc_politics_048.txt|.|2|.|bbc_politics_023.txt|.|2
+keep council|.|bbc_politics_357.txt|.|2
+government borrowing|.|bbc_politics_271.txt|.|2
+areas to get special|.|bbc_politics_092.txt|.|1
+government control|.|bbc_politics_039.txt|.|3
+literacy|.|bbc_politics_080.txt|.|5
+unit|.|bbc_politics_037.txt|.|2
+rise in the minimum wage|.|bbc_politics_380.txt|.|2
+improve|.|bbc_politics_048.txt|.|2
+wage increases|.|bbc_politics_380.txt|.|3
+arts funding|.|bbc_politics_039.txt|.|2
+rises|.|bbc_politics_128.txt|.|2|.|bbc_politics_101.txt|.|5
+private|.|bbc_politics_023.txt|.|4|.|bbc_politics_044.txt|.|3
+welsh arts|.|bbc_politics_039.txt|.|2
+pugh said|.|bbc_politics_039.txt|.|2
+assembly government|.|bbc_politics_101.txt|.|2|.|bbc_politics_039.txt|.|6
+asbos|.|bbc_politics_092.txt|.|3
+hard|.|bbc_politics_380.txt|.|5|.|bbc_politics_364.txt|.|1
+gcses|.|bbc_politics_020.txt|.|3
+special|.|bbc_politics_092.txt|.|3|.|bbc_politics_096.txt|.|2
+frederick|.|bbc_politics_290.txt|.|10
+frank discussions|.|bbc_politics_357.txt|.|2
+environment|.|bbc_politics_048.txt|.|2
+achieved|.|bbc_politics_080.txt|.|2
+borrowing|.|bbc_politics_271.txt|.|4
+threat|.|bbc_politics_290.txt|.|24|.|bbc_politics_042.txt|.|2
+british government|.|bbc_politics_135.txt|.|2

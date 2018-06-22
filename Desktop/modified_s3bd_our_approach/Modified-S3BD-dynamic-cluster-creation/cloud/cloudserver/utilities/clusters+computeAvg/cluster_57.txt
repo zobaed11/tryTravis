@@ -1,0 +1,38 @@
+57
+inglaterra|.|WET4091.txt|.|8
+tripadvisor|.|WET3730.txt|.|112|.|WET3729.txt|.|126
+point dume|.|WET4272.txt|.|30
+beach county park|.|WET4272.txt|.|30
+good devil|.|WET2346.txt|.|28
+td bank|.|WET3646.txt|.|19
+dume|.|WET4272.txt|.|30
+devil|.|WET2346.txt|.|28|.|WET1577.txt|.|10
+ship|.|WET1958.txt|.|11|.|WET5324.txt|.|21|.|WET1836.txt|.|6|.|WET5719.txt|.|34|.|WET3180.txt|.|25
+hurricane joaquin|.|WET4272.txt|.|30
+condominiums|.|WET2603.txt|.|36
+florida panhandle|.|WET3729.txt|.|50
+commerce|.|WET3646.txt|.|3
+point|.|WET1139.txt|.|15|.|WET4272.txt|.|135
+joaquin|.|WET4272.txt|.|45
+panama city beach|.|WET3729.txt|.|97
+kata beach|.|WET2168.txt|.|30
+cast iron|.|WET5719.txt|.|23
+megala chorafia|.|WET1172.txt|.|31
+pacific north|.|WET4272.txt|.|30
+kata beach resort|.|WET2168.txt|.|25
+private au|.|WET234.txt|.|36
+electronic commerce|.|WET3646.txt|.|2
+polar|.|WET2846.txt|.|91
+boxer|.|WET2346.txt|.|27
+beach boys|.|WET563.txt|.|8
+establecimiento|.|WET3729.txt|.|151
+nueva inglaterra|.|WET4091.txt|.|8
+state beach|.|WET4091.txt|.|24|.|WET4272.txt|.|60
+beach county|.|WET4272.txt|.|30
+surf beach|.|WET4091.txt|.|6
+jacuzzi learn|.|WET234.txt|.|18
+atomizer|.|WET5719.txt|.|3|.|WET522.txt|.|2|.|WET20.txt|.|2
+phuket|.|WET2168.txt|.|60
+beach decor|.|WET5719.txt|.|33
+panhandle|.|WET3729.txt|.|50
+beach resort|.|WET2168.txt|.|30

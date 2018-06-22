@@ -1,0 +1,120 @@
+extensions for path|.|rfc5553.txt|.|14
+openldap|.|rfc4532.txt|.|5|.|rfc4529.txt|.|5|.|rfc4514.txt|.|2|.|rfc4526.txt|.|5|.|rfc3088.txt|.|17|.|rfc3674.txt|.|5|.|rfc3673.txt|.|5|.|rfc3352.txt|.|2
+akyol informational|.|rfc5123.txt|.|16
+path|.|rfc3125.txt|.|45|.|rfc4655.txt|.|206|.|rfc3469.txt|.|384|.|rfc2558.txt|.|87|.|rfc5824.txt|.|60|.|rfc2583.txt|.|34|.|rfc5671.txt|.|57|.|rfc4736.txt|.|105|.|rfc3779.txt|.|18|.|rfc5541.txt|.|87|.|rfc1981.txt|.|102|.|rfc4875.txt|.|278|.|rfc5690.txt|.|47|.|rfc5468.txt|.|66|.|rfc2205.txt|.|205|.|rfc5071.txt|.|14|.|rfc5088.txt|.|48|.|rfc5557.txt|.|95|.|rfc6159.txt|.|33|.|rfc6010.txt|.|110|.|rfc4726.txt|.|94|.|rfc3592.txt|.|91|.|rfc2055.txt|.|21|.|rfc5004.txt|.|20|.|rfc5089.txt|.|36|.|rfc4976.txt|.|26|.|rfc5623.txt|.|207|.|rfc3379.txt|.|79|.|rfc5063.txt|.|86|.|rfc5394.txt|.|190|.|rfc6007.txt|.|168|.|rfc4821.txt|.|149|.|rfc3175.txt|.|152|.|rfc4657.txt|.|97|.|rfc5886.txt|.|93|.|rfc4927.txt|.|94|.|rfc3542.txt|.|39|.|rfc5298.txt|.|195|.|rfc4090.txt|.|148|.|rfc5635.txt|.|9|.|rfc4674.txt|.|67|.|rfc4804.txt|.|67|.|rfc3481.txt|.|16|.|rfc5392.txt|.|37|.|rfc6049.txt|.|51|.|rfc6006.txt|.|129|.|rfc5481.txt|.|72|.|rfc4420.txt|.|30|.|rfc2676.txt|.|202|.|rfc5455.txt|.|34|.|rfc5810.txt|.|76|.|rfc5376.txt|.|106|.|rfc5862.txt|.|79|.|rfc426.txt|.|21|.|rfc3704.txt|.|26|.|rfc3032.txt|.|17|.|rfc2209.txt|.|41|.|rfc346.txt|.|4|.|rfc5553.txt|.|101|.|rfc3473.txt|.|83|.|rfc2238.txt|.|80|.|rfc2814.txt|.|196|.|rfc5055.txt|.|127|.|rfc5835.txt|.|36|.|rfc5152.txt|.|140|.|rfc5852.txt|.|117|.|rfc5521.txt|.|89|.|rfc5945.txt|.|151|.|rfc5440.txt|.|249|.|rfc3280.txt|.|118|.|rfc4459.txt|.|14|.|rfc5136.txt|.|27|.|rfc5520.txt|.|111|.|rfc4158.txt|.|499|.|rfc4208.txt|.|26|.|rfc3327.txt|.|136|.|rfc2102.txt|.|44|.|rfc6145.txt|.|15|.|rfc5974.txt|.|131|.|rfc5441.txt|.|114|.|rfc5123.txt|.|119|.|rfc5280.txt|.|134|.|rfc2745.txt|.|62|.|rfc5927.txt|.|21|.|rfc5914.txt|.|26|.|rfc5276.txt|.|26|.|rfc5449.txt|.|13|.|rfc2923.txt|.|25|.|rfc3289.txt|.|105
+implement path mtu|.|rfc1981.txt|.|3
+subnet bandwidth|.|rfc2814.txt|.|62
+point lsr|.|rfc4736.txt|.|2
+processing to support|.|rfc3473.txt|.|2
+path building module|.|rfc4158.txt|.|2
+issued|.|rfc5636.txt|.|39|.|rfc202.txt|.|3|.|rfc4158.txt|.|59
+mogul standards|.|rfc1981.txt|.|15
+certificates issued|.|rfc4158.txt|.|17
+brpc april|.|rfc5441.txt|.|17
+packetization|.|rfc4821.txt|.|91
+namespace identifier|.|rfc5279.txt|.|4|.|rfc2141.txt|.|8
+akyol|.|rfc5123.txt|.|18
+managed segment|.|rfc2814.txt|.|94
+recovery switching|.|rfc4427.txt|.|20
+packet delay variation|.|rfc5481.txt|.|17
+validation algorithm|.|rfc5055.txt|.|59
+path building|.|rfc4158.txt|.|157
+formats september|.|rfc2921.txt|.|6
+associated svecs|.|rfc6007.txt|.|16
+reqmnts|.|rfc4657.txt|.|20
+layer path|.|rfc4821.txt|.|36|.|rfc5623.txt|.|4
+echo host|.|rfc2075.txt|.|36
+receives|.|rfc5974.txt|.|27
+aggregation september|.|rfc3175.txt|.|35
+vts implementation|.|rfc4154.txt|.|7
+cusack|.|rfc4256.txt|.|14
+pce communication|.|rfc4657.txt|.|29
+sivabalan|.|rfc5455.txt|.|11
+sbm protocol|.|rfc2814.txt|.|27
+certification path validation|.|rfc5055.txt|.|17|.|rfc4158.txt|.|11
+webnfs clients|.|rfc2055.txt|.|6
+composition april|.|rfc5835.txt|.|17
+vt path|.|rfc2558.txt|.|6|.|rfc3592.txt|.|6
+based recovery|.|rfc3469.txt|.|5
+recoverypath|.|rfc5063.txt|.|143
+ippm|.|rfc6248.txt|.|16|.|rfc2498.txt|.|11|.|rfc4148.txt|.|26|.|rfc5481.txt|.|17|.|rfc2678.txt|.|11|.|rfc2679.txt|.|26|.|rfc2680.txt|.|21|.|rfc2681.txt|.|26
+curve generation|.|rfc5639.txt|.|28
+qos nslp|.|rfc5980.txt|.|30|.|rfc5974.txt|.|332|.|rfc5975.txt|.|108
+inter pce|.|rfc5623.txt|.|2
+stephan standards|.|rfc6049.txt|.|29
+svec list|.|rfc6007.txt|.|36
+modifications|.|rfc562.txt|.|4|.|rfc181.txt|.|2
+urpf|.|rfc5635.txt|.|33
+complete feeds|.|rfc5005.txt|.|5
+communication path|.|rfc426.txt|.|5
+king informational|.|rfc6007.txt|.|18
+carlson|.|rfc2583.txt|.|11|.|rfc3772.txt|.|12
+constraint|.|rfc2531.txt|.|5|.|rfc3785.txt|.|24|.|rfc3212.txt|.|2|.|rfc2702.txt|.|2|.|rfc6010.txt|.|40
+inter layer|.|rfc5623.txt|.|4
+path validation considerations|.|rfc5123.txt|.|15
+complete|.|rfc3660.txt|.|46|.|rfc6049.txt|.|42|.|rfc5005.txt|.|17
+services mappings|.|rfc2688.txt|.|16
+route object|.|rfc5521.txt|.|13|.|rfc5553.txt|.|8
+computation request|.|rfc4657.txt|.|14
+procedure completion failure|.|rfc5441.txt|.|5
+moved|.|rfc426.txt|.|3
+path message|.|rfc2814.txt|.|114|.|rfc4875.txt|.|165|.|rfc5852.txt|.|39|.|rfc5945.txt|.|36|.|rfc2205.txt|.|44|.|rfc2209.txt|.|19|.|rfc4208.txt|.|17|.|rfc4420.txt|.|18|.|rfc5063.txt|.|38|.|rfc3473.txt|.|42
+discovery october|.|rfc4674.txt|.|18
+key support|.|rfc5553.txt|.|14
+pcep peer|.|rfc5440.txt|.|66
+switched paths|.|rfc5520.txt|.|4
+event rate|.|rfc4654.txt|.|27
+segment|.|rfc3276.txt|.|55|.|rfc2814.txt|.|167|.|rfc2429.txt|.|17|.|rfc5254.txt|.|24|.|rfc5044.txt|.|94|.|rfc5520.txt|.|32|.|rfc5041.txt|.|83|.|rfc6191.txt|.|16|.|rfc2883.txt|.|55|.|rfc5253.txt|.|23|.|rfc5961.txt|.|41|.|rfc5043.txt|.|19|.|rfc4873.txt|.|91|.|rfc4319.txt|.|55|.|rfc5659.txt|.|36|.|rfc6142.txt|.|33
+path computation request|.|rfc4655.txt|.|8
+path key|.|rfc5520.txt|.|3|.|rfc5553.txt|.|45
+black hole|.|rfc5635.txt|.|3|.|rfc2923.txt|.|8
+old prefix|.|rfc4192.txt|.|39
+months|.|rfc562.txt|.|3
+rp object|.|rfc5440.txt|.|43
+king|.|rfc6007.txt|.|23
+pcep june|.|rfc5541.txt|.|22
+constraint checking|.|rfc6010.txt|.|19
+pcc pce|.|rfc4655.txt|.|1
+mpls based|.|rfc3469.txt|.|8
+collision attacks|.|rfc4270.txt|.|17
+survey|.|rfc460.txt|.|9|.|rfc308.txt|.|10|.|rfc4981.txt|.|107|.|rfc523.txt|.|7|.|rfc565.txt|.|25|.|rfc6029.txt|.|26|.|rfc3789.txt|.|17|.|rfc5038.txt|.|54|.|rfc425.txt|.|2|.|rfc4275.txt|.|46
+points object|.|rfc6006.txt|.|1
+delay characteristics|.|rfc346.txt|.|2
+preserving|.|rfc6081.txt|.|7|.|rfc4781.txt|.|3|.|rfc5520.txt|.|20
+computation chain|.|rfc5886.txt|.|31
+roux informational|.|rfc4657.txt|.|21|.|rfc4927.txt|.|12
+dns april|.|rfc4472.txt|.|28|.|rfc5507.txt|.|17
+communication protocol generic|.|rfc4657.txt|.|23
+te tunnel|.|rfc3906.txt|.|3|.|rfc4216.txt|.|27|.|rfc5443.txt|.|3|.|rfc4804.txt|.|61
+recovery path|.|rfc3469.txt|.|122
+end is being moved|.|rfc426.txt|.|1
+pced tlv|.|rfc5088.txt|.|31
+layer lsp|.|rfc5623.txt|.|3
+communication protocol|.|rfc5521.txt|.|9|.|rfc5455.txt|.|4|.|rfc4657.txt|.|35|.|rfc5376.txt|.|9
+pcerr|.|rfc5440.txt|.|75
+building module|.|rfc4158.txt|.|2
+canonical path|.|rfc2055.txt|.|8
+dsbm clients|.|rfc2814.txt|.|23
+two protocol|.|rfc19.txt|.|2
+protection switching|.|rfc3469.txt|.|28
+pces|.|rfc4655.txt|.|75
+bidirectional lsps|.|rfc3473.txt|.|11
+pce discovery|.|rfc5089.txt|.|42|.|rfc5088.txt|.|48|.|rfc4674.txt|.|92
+igp area|.|rfc4927.txt|.|6
+moving factor|.|rfc6238.txt|.|4
+tcp layer|.|rfc1981.txt|.|6
+path re|.|rfc4736.txt|.|1
+send a pcerr|.|rfc5440.txt|.|21
+pce path computation|.|rfc4655.txt|.|19
+pcep message|.|rfc5440.txt|.|39
+computations september|.|rfc6007.txt|.|17
+computations|.|rfc6007.txt|.|30
+pced|.|rfc5089.txt|.|39|.|rfc5088.txt|.|38
+computation requests|.|rfc6007.txt|.|40|.|rfc5440.txt|.|55
+validation considerations|.|rfc5123.txt|.|15
+computation element|.|rfc5541.txt|.|18|.|rfc5862.txt|.|9
+pcep|.|rfc5541.txt|.|96|.|rfc5521.txt|.|37|.|rfc5440.txt|.|484
+preserving topology|.|rfc5520.txt|.|19
+approaches|.|rfc5945.txt|.|62|.|rfc4177.txt|.|32
+pcecp november|.|rfc5376.txt|.|13
+mpls based recovery|.|rfc3469.txt|.|5

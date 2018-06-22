@@ -1,0 +1,17 @@
+24
+maps|.|223.txt|.|12
+wong|.|323.txt|.|7|.|051.txt|.|7
+pace|.|254.txt|.|2|.|093.txt|.|3
+dialling|.|188.txt|.|2
+numbers|.|397.txt|.|4|.|188.txt|.|8
+revolutionary court|.|035.txt|.|2
+gates said|.|134.txt|.|2
+identity documents|.|131.txt|.|1|.|179.txt|.|1
+usage allowances|.|058.txt|.|2
+download speeds|.|058.txt|.|2
+rfid tags|.|321.txt|.|5
+mobile devices|.|170.txt|.|3
+speeds|.|264.txt|.|2|.|058.txt|.|8|.|205.txt|.|2
+bulletin|.|blood.txt|.|2
+open|.|029.txt|.|10
+commands|.|310.txt|.|1|.|089.txt|.|1

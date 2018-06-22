@@ -1,0 +1,17 @@
+74
+text record|.|287.txt|.|1|.|372.txt|.|1
+bread|.|bread.txt|.|8
+new law|.|096.txt|.|2|.|377.txt|.|2
+security tools|.|177.txt|.|2|.|292.txt|.|2
+instant dry|.|bread.txt|.|5
+releasing|.|247.txt|.|1|.|177.txt|.|2|.|292.txt|.|2
+toolkit|.|250.txt|.|3
+spyware|.|316.txt|.|3|.|096.txt|.|8|.|377.txt|.|8|.|036.txt|.|3|.|177.txt|.|6|.|003.txt|.|3|.|250.txt|.|9|.|292.txt|.|6
+security software|.|316.txt|.|2
+giant|.|250.txt|.|2
+firm giant|.|250.txt|.|2
+older people|.|316.txt|.|2
+older|.|316.txt|.|3
+protect|.|316.txt|.|1|.|096.txt|.|2|.|342.txt|.|1|.|377.txt|.|2|.|048.txt|.|1
+microsoft is releasing|.|177.txt|.|1|.|292.txt|.|1
+monthly total|.|287.txt|.|2|.|372.txt|.|2

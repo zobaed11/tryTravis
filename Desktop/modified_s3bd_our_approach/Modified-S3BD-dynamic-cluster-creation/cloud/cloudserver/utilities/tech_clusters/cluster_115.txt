@@ -1,0 +1,17 @@
+115
+shut|.|282.txt|.|2
+image|.|201.txt|.|11
+habits|.|158.txt|.|2|.|146.txt|.|2
+dublin|.|282.txt|.|1
+lycos europe|.|159.txt|.|2|.|147.txt|.|2|.|214.txt|.|4
+broadband was challenging|.|158.txt|.|1
+challenging|.|158.txt|.|1
+browsers|.|196.txt|.|3
+hdtv|.|240.txt|.|13
+options|.|240.txt|.|2
+institute|.|282.txt|.|2
+sharpness|.|240.txt|.|1
+irish government|.|282.txt|.|2
+europe|.|059.txt|.|4|.|317.txt|.|3|.|351.txt|.|1|.|146.txt|.|2|.|338.txt|.|2|.|159.txt|.|2|.|025.txt|.|3|.|282.txt|.|3|.|322.txt|.|4|.|064.txt|.|2|.|158.txt|.|2|.|361.txt|.|3|.|147.txt|.|2|.|240.txt|.|5|.|214.txt|.|4
+wow|.|240.txt|.|2
+spam campaign|.|159.txt|.|1|.|147.txt|.|1|.|214.txt|.|1

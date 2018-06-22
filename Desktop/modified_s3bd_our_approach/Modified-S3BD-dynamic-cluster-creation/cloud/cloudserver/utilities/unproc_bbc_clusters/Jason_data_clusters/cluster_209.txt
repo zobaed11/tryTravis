@@ -1,0 +1,38 @@
+209
+access|.|WET2991.txt|.|9|.|WET3063.txt|.|42|.|WET542.txt|.|46|.|WET2277.txt|.|27|.|WET3948.txt|.|11|.|WET3764.txt|.|19|.|WET2154.txt|.|74|.|WET3798.txt|.|19|.|WET5655.txt|.|16|.|WET1096.txt|.|42|.|WET5105.txt|.|190|.|WET1032.txt|.|32|.|WET5858.txt|.|5|.|WET5486.txt|.|36
+biographies|.|WET1103.txt|.|33
+teens|.|WET1560.txt|.|48
+saroyan|.|WET3553.txt|.|19
+monthly pageviews|.|WET3745.txt|.|45
+audit|.|WET301.txt|.|65
+raises|.|WET974.txt|.|22
+scent|.|WET4696.txt|.|13
+specificity|.|WET2705.txt|.|5
+remote user|.|WET5752.txt|.|272
+bbb business review|.|WET1263.txt|.|20
+topreplyreplies|.|WET3101.txt|.|120
+consumers|.|WET4902.txt|.|10
+library of munich|.|WET3466.txt|.|98
+detroit|.|WET2376.txt|.|94|.|WET6092.txt|.|11|.|WET3856.txt|.|29|.|WET4619.txt|.|51
+sector|.|WET403.txt|.|67
+key|.|WET821.txt|.|258|.|WET4102.txt|.|70|.|WET3116.txt|.|15|.|WET5940.txt|.|1
+slightly used|.|WET1651.txt|.|15
+skin care|.|WET2441.txt|.|28|.|WET2895.txt|.|167
+philadelphia eagles|.|WET922.txt|.|53
+dimitri|.|WET2843.txt|.|155
+katy|.|WET4112.txt|.|132
+certifications|.|WET2057.txt|.|33
+service manager|.|WET1512.txt|.|3
+trainings fitfeed career|.|WET2057.txt|.|22
+badge|.|WET4384.txt|.|38|.|WET5540.txt|.|4
+kata|.|WET5907.txt|.|50|.|WET4244.txt|.|33|.|WET2168.txt|.|50
+hub|.|WET2057.txt|.|22
+kate|.|WET2159.txt|.|43|.|WET5899.txt|.|15
+cricket|.|WET3419.txt|.|35|.|WET240.txt|.|233|.|WET3985.txt|.|366|.|WET1573.txt|.|103|.|WET5320.txt|.|191|.|WET1572.txt|.|183|.|WET3986.txt|.|150|.|WET2906.txt|.|33|.|WET1672.txt|.|25|.|WET5500.txt|.|74|.|WET5499.txt|.|67|.|WET1762.txt|.|95
+mystic|.|WET5549.txt|.|9
+underwater|.|WET2816.txt|.|326|.|WET2817.txt|.|36
+sabanero eco|.|WET333.txt|.|73
+pm edt|.|WET2676.txt|.|206
+ulrich|.|WET2540.txt|.|115|.|WET6274.txt|.|216
+atlanta|.|WET227.txt|.|214|.|WET6202.txt|.|16
+hasard|.|WET4168.txt|.|20

@@ -1,0 +1,38 @@
+254
+income|.|WET4679.txt|.|29|.|WET566.txt|.|12|.|WET2920.txt|.|158|.|WET5711.txt|.|93
+perl programming|.|WET4497.txt|.|22
+blackboard|.|WET3732.txt|.|36
+service learning|.|WET2318.txt|.|1
+iup|.|WET2121.txt|.|28
+production|.|WET6075.txt|.|10
+shadow palette|.|WET2678.txt|.|11
+twitter google|.|WET4259.txt|.|12
+jeans|.|WET6007.txt|.|77|.|WET2269.txt|.|48|.|WET3628.txt|.|49|.|WET1780.txt|.|69|.|WET4753.txt|.|40|.|WET5434.txt|.|34|.|WET1764.txt|.|27
+pattern italian countryside|.|WET6113.txt|.|10
+aller zeiten|.|WET5278.txt|.|10
+ferlazzo|.|WET572.txt|.|20
+trenton|.|WET202.txt|.|40|.|WET6240.txt|.|38
+vocabulary|.|WET106.txt|.|3|.|WET3659.txt|.|2|.|WET696.txt|.|1|.|WET3388.txt|.|2|.|WET632.txt|.|2|.|WET1721.txt|.|2|.|WET572.txt|.|2|.|WET5366.txt|.|2|.|WET1156.txt|.|2|.|WET4838.txt|.|2|.|WET1106.txt|.|35|.|WET2293.txt|.|2|.|WET4918.txt|.|3|.|WET1133.txt|.|2|.|WET5391.txt|.|3|.|WET281.txt|.|3|.|WET497.txt|.|2|.|WET813.txt|.|3
+nathan|.|WET5278.txt|.|10
+democratic|.|WET1622.txt|.|36|.|WET1621.txt|.|60|.|WET1620.txt|.|38|.|WET5369.txt|.|37
+directories|.|WET4296.txt|.|33
+cabernet|.|WET5152.txt|.|489|.|WET3297.txt|.|47
+like thanks|.|WET5174.txt|.|41
+atlantic premium|.|WET3647.txt|.|24
+potentials|.|WET4471.txt|.|17
+cigars|.|WET5239.txt|.|149|.|WET5148.txt|.|147
+pour|.|WET533.txt|.|20|.|WET3832.txt|.|444|.|WET2584.txt|.|25|.|WET4134.txt|.|191|.|WET3944.txt|.|53|.|WET1761.txt|.|28
+sabanero|.|WET333.txt|.|81
+view title|.|WET5604.txt|.|40
+improvement|.|WET1390.txt|.|10|.|WET5406.txt|.|33|.|WET1658.txt|.|39
+grilling cookware|.|WET2996.txt|.|3
+ivy|.|WET4271.txt|.|36
+cart learn|.|WET1343.txt|.|48
+tags community|.|WET2591.txt|.|12
+league international keeper|.|WET6318.txt|.|9
+pagelines|.|WET2584.txt|.|21
+cine|.|WET2702.txt|.|55
+port|.|WET5457.txt|.|12|.|WET1270.txt|.|26|.|WET5021.txt|.|29
+guys|.|WET2870.txt|.|25|.|WET4717.txt|.|31|.|WET5117.txt|.|22|.|WET1270.txt|.|100|.|WET1365.txt|.|21
+adjustment|.|WET759.txt|.|48
+adjustable|.|WET4486.txt|.|47

@@ -1,0 +1,64 @@
+programs bittorrent|.|bbc_tech_241.txt|.|2
+violent|.|bbc_politics_199.txt|.|3
+british music|.|bbc_entertainment_148.txt|.|3
+who run|.|bbc_tech_241.txt|.|2
+metals|.|bbc_tech_307.txt|.|2
+promise|.|bbc_politics_374.txt|.|1|.|bbc_tech_367.txt|.|1|.|bbc_entertainment_252.txt|.|1
+homophobic|.|bbc_entertainment_248.txt|.|3
+uk film|.|bbc_tech_013.txt|.|2|.|bbc_entertainment_371.txt|.|2|.|bbc_entertainment_351.txt|.|3
+reggae industry|.|bbc_entertainment_248.txt|.|5
+plead|.|bbc_business_060.txt|.|1
+women in film|.|bbc_entertainment_351.txt|.|1
+executives have pleaded|.|bbc_business_060.txt|.|1
+violent games|.|bbc_politics_199.txt|.|2
+mido|.|bbc_sport_100.txt|.|9
+telephone calls|.|bbc_tech_136.txt|.|2
+music piracy|.|bbc_entertainment_148.txt|.|3
+embracing|.|bbc_politics_109.txt|.|3|.|bbc_tech_145.txt|.|2
+parents know|.|bbc_tech_231.txt|.|2
+workforce|.|bbc_entertainment_351.txt|.|6|.|bbc_business_297.txt|.|2|.|bbc_business_287.txt|.|3
+mr molyneux|.|bbc_tech_100.txt|.|4
+lousy|.|bbc_entertainment_009.txt|.|2
+lionhead studios|.|bbc_tech_100.txt|.|2
+technology industry|.|bbc_tech_307.txt|.|2
+appeal cleared|.|bbc_tech_092.txt|.|1
+studios|.|bbc_tech_100.txt|.|3|.|bbc_entertainment_050.txt|.|3
+closer to home|.|bbc_business_183.txt|.|2
+music rights|.|bbc_entertainment_148.txt|.|3
+clearer|.|bbc_politics_199.txt|.|2
+us insurance|.|bbc_business_060.txt|.|2
+joins norwich|.|bbc_sport_186.txt|.|2
+benefit|.|bbc_tech_145.txt|.|2|.|bbc_entertainment_104.txt|.|4
+beenie man|.|bbc_entertainment_248.txt|.|3
+wine industry|.|bbc_business_090.txt|.|3
+fish markets and talking|.|bbc_politics_243.txt|.|1
+additives|.|bbc_tech_307.txt|.|2
+schools|.|bbc_entertainment_148.txt|.|4|.|bbc_politics_020.txt|.|3|.|bbc_politics_172.txt|.|10|.|bbc_politics_217.txt|.|7|.|bbc_politics_321.txt|.|7
+bids|.|bbc_business_129.txt|.|3|.|bbc_tech_209.txt|.|1|.|bbc_business_186.txt|.|1|.|bbc_business_251.txt|.|2|.|bbc_business_401.txt|.|3|.|bbc_sport_124.txt|.|1
+environmentally|.|bbc_tech_307.txt|.|2
+seasonally|.|bbc_business_022.txt|.|2|.|bbc_business_387.txt|.|1
+cleared|.|bbc_tech_092.txt|.|2|.|bbc_politics_045.txt|.|2|.|bbc_sport_082.txt|.|2
+parents|.|bbc_business_268.txt|.|9|.|bbc_politics_067.txt|.|4|.|bbc_politics_051.txt|.|6|.|bbc_tech_231.txt|.|6|.|bbc_politics_390.txt|.|4|.|bbc_politics_030.txt|.|3
+paula|.|bbc_sport_011.txt|.|3|.|bbc_sport_066.txt|.|2|.|bbc_sport_034.txt|.|5|.|bbc_sport_040.txt|.|5
+movie industry|.|bbc_tech_241.txt|.|2
+musicians|.|bbc_entertainment_131.txt|.|7|.|bbc_tech_145.txt|.|13|.|bbc_entertainment_164.txt|.|3|.|bbc_entertainment_289.txt|.|7
+industry|.|bbc_business_090.txt|.|3|.|bbc_entertainment_148.txt|.|5|.|bbc_tech_145.txt|.|6|.|bbc_tech_092.txt|.|6|.|bbc_politics_199.txt|.|6|.|bbc_entertainment_248.txt|.|8|.|bbc_business_356.txt|.|2|.|bbc_business_183.txt|.|4|.|bbc_tech_087.txt|.|2|.|bbc_politics_243.txt|.|3|.|bbc_business_060.txt|.|2|.|bbc_tech_100.txt|.|5|.|bbc_tech_367.txt|.|3|.|bbc_tech_211.txt|.|2|.|bbc_entertainment_271.txt|.|9|.|bbc_tech_307.txt|.|3|.|bbc_tech_241.txt|.|4|.|bbc_business_258.txt|.|2|.|bbc_tech_231.txt|.|6|.|bbc_entertainment_351.txt|.|8|.|bbc_tech_226.txt|.|2|.|bbc_tech_038.txt|.|2
+lead additives|.|bbc_tech_307.txt|.|2
+networks|.|bbc_tech_391.txt|.|10|.|bbc_tech_272.txt|.|4|.|bbc_tech_032.txt|.|10|.|bbc_tech_286.txt|.|10|.|bbc_tech_303.txt|.|2|.|bbc_tech_357.txt|.|5|.|bbc_tech_346.txt|.|6|.|bbc_tech_206.txt|.|7|.|bbc_tech_275.txt|.|3|.|bbc_tech_122.txt|.|5|.|bbc_tech_400.txt|.|5|.|bbc_tech_335.txt|.|10|.|bbc_tech_075.txt|.|2|.|bbc_tech_038.txt|.|3
+allan bruvik|.|bbc_tech_092.txt|.|2
+ways|.|bbc_tech_367.txt|.|3|.|bbc_politics_240.txt|.|1
+artists|.|bbc_entertainment_011.txt|.|3|.|bbc_tech_145.txt|.|5|.|bbc_entertainment_117.txt|.|2|.|bbc_tech_396.txt|.|7|.|bbc_entertainment_263.txt|.|4
+computer games|.|bbc_tech_100.txt|.|3|.|bbc_tech_104.txt|.|3
+zombie|.|bbc_entertainment_271.txt|.|3
+lyrics|.|bbc_entertainment_246.txt|.|3|.|bbc_entertainment_281.txt|.|2|.|bbc_entertainment_248.txt|.|3
+gay|.|bbc_entertainment_246.txt|.|2|.|bbc_entertainment_248.txt|.|5
+french wine|.|bbc_business_090.txt|.|3
+gay people|.|bbc_entertainment_248.txt|.|2
+british board|.|bbc_tech_231.txt|.|2
+consumption on displays|.|bbc_tech_367.txt|.|1
+warnings|.|bbc_tech_227.txt|.|1|.|bbc_tech_398.txt|.|1|.|bbc_politics_199.txt|.|3|.|bbc_tech_026.txt|.|2
+lionhead|.|bbc_tech_100.txt|.|3
+closer|.|bbc_business_183.txt|.|3
+rated|.|bbc_politics_199.txt|.|3
+norway|.|bbc_tech_092.txt|.|3|.|bbc_entertainment_349.txt|.|3
+reggae|.|bbc_entertainment_246.txt|.|3|.|bbc_entertainment_120.txt|.|2|.|bbc_entertainment_248.txt|.|7

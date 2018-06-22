@@ -1,0 +1,64 @@
+scored another goal|.|bbc_sport_151.txt|.|1
+leave beyond six|.|bbc_politics_003.txt|.|1
+career|.|bbc_sport_443.txt|.|1|.|bbc_entertainment_337.txt|.|3|.|bbc_sport_275.txt|.|2|.|bbc_sport_038.txt|.|2|.|bbc_politics_003.txt|.|5
+number one side|.|bbc_sport_368.txt|.|2
+executive|.|bbc_sport_365.txt|.|1|.|bbc_business_455.txt|.|2|.|bbc_entertainment_228.txt|.|1|.|bbc_business_304.txt|.|1|.|bbc_business_189.txt|.|4|.|bbc_politics_010.txt|.|2|.|bbc_business_385.txt|.|2|.|bbc_business_216.txt|.|4|.|bbc_politics_174.txt|.|6|.|bbc_tech_206.txt|.|2|.|bbc_business_203.txt|.|2|.|bbc_business_475.txt|.|4|.|bbc_business_060.txt|.|1|.|bbc_business_393.txt|.|3|.|bbc_tech_378.txt|.|2|.|bbc_politics_315.txt|.|5|.|bbc_sport_118.txt|.|2|.|bbc_politics_173.txt|.|6|.|bbc_sport_363.txt|.|2|.|bbc_business_401.txt|.|3
+mull historical society|.|bbc_entertainment_104.txt|.|2
+radius|.|bbc_sport_411.txt|.|2
+chalone|.|bbc_business_321.txt|.|3
+clarke faces|.|bbc_politics_227.txt|.|2
+song|.|bbc_entertainment_136.txt|.|4|.|bbc_entertainment_123.txt|.|3|.|bbc_entertainment_172.txt|.|2|.|bbc_entertainment_290.txt|.|3|.|bbc_entertainment_159.txt|.|4|.|bbc_entertainment_144.txt|.|2
+poorly drafted|.|bbc_politics_169.txt|.|2
+chest|.|bbc_politics_382.txt|.|2
+zeros off lira|.|bbc_business_257.txt|.|1
+side in the world|.|bbc_sport_368.txt|.|2
+rugby|.|bbc_sport_360.txt|.|8|.|bbc_sport_365.txt|.|5|.|bbc_sport_343.txt|.|2|.|bbc_sport_357.txt|.|3|.|bbc_sport_395.txt|.|4|.|bbc_tech_028.txt|.|2|.|bbc_sport_399.txt|.|3|.|bbc_sport_364.txt|.|5|.|bbc_sport_419.txt|.|2|.|bbc_sport_369.txt|.|4|.|bbc_sport_387.txt|.|6|.|bbc_sport_370.txt|.|4|.|bbc_sport_402.txt|.|5|.|bbc_sport_374.txt|.|6|.|bbc_sport_361.txt|.|2|.|bbc_sport_413.txt|.|3|.|bbc_sport_371.txt|.|11|.|bbc_sport_346.txt|.|3|.|bbc_sport_367.txt|.|3|.|bbc_sport_397.txt|.|6|.|bbc_sport_329.txt|.|3|.|bbc_sport_362.txt|.|6|.|bbc_sport_375.txt|.|3|.|bbc_sport_372.txt|.|3|.|bbc_sport_328.txt|.|3|.|bbc_sport_385.txt|.|6|.|bbc_sport_358.txt|.|5|.|bbc_sport_404.txt|.|2|.|bbc_sport_363.txt|.|3|.|bbc_sport_398.txt|.|3|.|bbc_sport_400.txt|.|3
+public bodies|.|bbc_politics_233.txt|.|3
+davis found dead|.|bbc_entertainment_044.txt|.|1
+davies|.|bbc_politics_144.txt|.|2|.|bbc_sport_297.txt|.|5|.|bbc_sport_333.txt|.|3
+tarantino|.|bbc_entertainment_365.txt|.|3|.|bbc_entertainment_379.txt|.|3
+sella admitted|.|bbc_sport_327.txt|.|2
+six minutes|.|bbc_sport_106.txt|.|2
+ljubicic|.|bbc_sport_425.txt|.|4|.|bbc_sport_433.txt|.|4|.|bbc_sport_434.txt|.|2
+danny|.|bbc_sport_106.txt|.|2
+bosch|.|bbc_business_081.txt|.|4
+carlton|.|bbc_sport_162.txt|.|2
+underground|.|bbc_business_123.txt|.|3|.|bbc_tech_230.txt|.|2
+spanish fa|.|bbc_sport_117.txt|.|2
+laser bridges|.|bbc_tech_023.txt|.|3
+cancelled|.|bbc_entertainment_360.txt|.|3|.|bbc_entertainment_246.txt|.|3
+forearm|.|bbc_sport_411.txt|.|2
+starting|.|bbc_sport_308.txt|.|2|.|bbc_sport_151.txt|.|2
+toshitsune|.|bbc_business_287.txt|.|4
+male|.|bbc_politics_003.txt|.|2
+health checks|.|bbc_politics_382.txt|.|3
+disney has settled|.|bbc_business_331.txt|.|1
+dragons|.|bbc_sport_333.txt|.|7
+six months|.|bbc_politics_382.txt|.|3|.|bbc_politics_003.txt|.|4|.|bbc_business_128.txt|.|2
+entertaining|.|bbc_sport_368.txt|.|2
+charity premiere|.|bbc_entertainment_360.txt|.|2
+ollie|.|bbc_sport_285.txt|.|1
+candela|.|bbc_sport_185.txt|.|4
+kenya|.|bbc_politics_144.txt|.|3
+portrait of omai|.|bbc_entertainment_020.txt|.|2
+rochus|.|bbc_sport_498.txt|.|3|.|bbc_sport_452.txt|.|5
+sexism|.|bbc_politics_003.txt|.|6
+belief|.|bbc_sport_368.txt|.|2
+slotted|.|bbc_sport_407.txt|.|1
+career sexism|.|bbc_politics_003.txt|.|5
+permission|.|bbc_sport_117.txt|.|2
+irish rugby|.|bbc_sport_364.txt|.|3
+lifts|.|bbc_tech_253.txt|.|11
+hepatitis|.|bbc_politics_382.txt|.|2
+prinz|.|bbc_sport_271.txt|.|2
+opportunities|.|bbc_politics_003.txt|.|3
+tait|.|bbc_sport_308.txt|.|2|.|bbc_sport_351.txt|.|3|.|bbc_sport_293.txt|.|5
+betis|.|bbc_sport_151.txt|.|2
+existing|.|bbc_politics_339.txt|.|2|.|bbc_business_231.txt|.|2
+autumn series|.|bbc_sport_368.txt|.|2
+series|.|bbc_entertainment_174.txt|.|6|.|bbc_entertainment_207.txt|.|2|.|bbc_tech_290.txt|.|2|.|bbc_entertainment_310.txt|.|4|.|bbc_entertainment_176.txt|.|3|.|bbc_tech_135.txt|.|2|.|bbc_sport_099.txt|.|3|.|bbc_sport_368.txt|.|2|.|bbc_entertainment_170.txt|.|2|.|bbc_entertainment_210.txt|.|5|.|bbc_entertainment_025.txt|.|2|.|bbc_tech_116.txt|.|2
+owned|.|bbc_business_029.txt|.|4|.|bbc_entertainment_163.txt|.|1
+eoc|.|bbc_politics_003.txt|.|3
+keegan|.|bbc_sport_250.txt|.|4|.|bbc_sport_116.txt|.|2|.|bbc_sport_244.txt|.|5|.|bbc_sport_176.txt|.|6
+league football|.|bbc_sport_177.txt|.|2
+kicker|.|bbc_sport_415.txt|.|1

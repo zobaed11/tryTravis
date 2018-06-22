@@ -1,0 +1,38 @@
+218
+select a feature|.|WET1724.txt|.|10
+rebates|.|WET5467.txt|.|38|.|WET1725.txt|.|29
+rc helicopter|.|WET2014.txt|.|27
+desk stands|.|WET2384.txt|.|446
+spyder convertible|.|WET691.txt|.|4
+car finder compare|.|WET5467.txt|.|18|.|WET1724.txt|.|20
+breakdown|.|WET3042.txt|.|20
+recallsfind a mechanicyour|.|WET1685.txt|.|11
+car uses|.|WET5184.txt|.|10
+compare cars|.|WET1725.txt|.|15
+model cars|.|WET6135.txt|.|19
+problemsauto|.|WET1685.txt|.|11
+edge|.|WET2384.txt|.|324
+pickup reg|.|WET5432.txt|.|11
+audi|.|WET691.txt|.|22
+car care|.|WET4556.txt|.|8
+comment cancel|.|WET1217.txt|.|13
+mechanicyour|.|WET1685.txt|.|11
+cost to own|.|WET1724.txt|.|25
+service schedulecommon car|.|WET1685.txt|.|11
+tell us|.|WET1724.txt|.|40
+reg cab|.|WET5432.txt|.|11
+car problemsauto parts|.|WET1685.txt|.|11
+sanded|.|WET2069.txt|.|2|.|WET1228.txt|.|2
+accessories car|.|WET691.txt|.|2
+accessories galaxy|.|WET2384.txt|.|236
+schedulecommon car problemsauto|.|WET1685.txt|.|11
+cars car|.|WET1225.txt|.|14
+recallsfind|.|WET1685.txt|.|11
+incentives and rebates|.|WET5467.txt|.|20|.|WET1725.txt|.|13
+spyder|.|WET691.txt|.|19
+mechanicyour service schedulecommon|.|WET1685.txt|.|11
+certified cars selling|.|WET5467.txt|.|18
+uses|.|WET3623.txt|.|19|.|WET5184.txt|.|10
+toyota car|.|WET1724.txt|.|91
+car guide|.|WET691.txt|.|3
+car forums|.|WET1725.txt|.|8

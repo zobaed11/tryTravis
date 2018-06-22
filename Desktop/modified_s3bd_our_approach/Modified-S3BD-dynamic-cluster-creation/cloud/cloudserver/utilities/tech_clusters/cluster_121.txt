@@ -1,0 +1,17 @@
+121
+pc pro|.|328.txt|.|3|.|111.txt|.|3|.|021.txt|.|3|.|243.txt|.|3
+conference|.|248.txt|.|2
+reveal|.|324.txt|.|2|.|355.txt|.|3|.|044.txt|.|2
+sources|.|324.txt|.|5|.|044.txt|.|5
+mobile pc|.|379.txt|.|3|.|009.txt|.|3
+mini heralds|.|336.txt|.|1
+died|.|068.txt|.|2
+low cost|.|300.txt|.|1
+music player|.|260.txt|.|2|.|297.txt|.|2
+speculated|.|248.txt|.|1
+apple|.|355.txt|.|10|.|379.txt|.|8|.|248.txt|.|10|.|332.txt|.|5|.|068.txt|.|8|.|044.txt|.|11|.|297.txt|.|6|.|040.txt|.|5|.|336.txt|.|5|.|148.txt|.|9|.|324.txt|.|11|.|300.txt|.|13|.|260.txt|.|6|.|009.txt|.|7|.|259.txt|.|8|.|110.txt|.|2
+leaks|.|248.txt|.|2|.|259.txt|.|1
+yoran|.|400.txt|.|7
+criminal|.|077.txt|.|3
+employees|.|068.txt|.|1
+itunes music|.|148.txt|.|2

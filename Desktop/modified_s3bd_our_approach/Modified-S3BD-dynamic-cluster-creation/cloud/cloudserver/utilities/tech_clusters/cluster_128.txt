@@ -1,0 +1,17 @@
+128
+bus|.|181.txt|.|2
+store|.|079.txt|.|3|.|373.txt|.|3
+gameboyzz|.|256.txt|.|8
+britons|.|328.txt|.|2|.|021.txt|.|2
+simonetti|.|180.txt|.|7|.|102.txt|.|10|.|133.txt|.|7
+dutch city|.|201.txt|.|2
+pc|.|328.txt|.|3|.|358.txt|.|3|.|111.txt|.|5|.|379.txt|.|5|.|060.txt|.|2|.|007.txt|.|2|.|243.txt|.|5|.|079.txt|.|3|.|373.txt|.|3|.|057.txt|.|2|.|004.txt|.|2|.|244.txt|.|3|.|300.txt|.|6|.|009.txt|.|5|.|021.txt|.|3|.|242.txt|.|8|.|063.txt|.|2|.|301.txt|.|13|.|357.txt|.|2
+port|.|301.txt|.|4
+bloglines|.|062.txt|.|8|.|318.txt|.|8
+former soviet|.|001.txt|.|2
+rfid|.|321.txt|.|11
+aids|.|223.txt|.|1
+home photo|.|243.txt|.|2
+prices|.|328.txt|.|3|.|021.txt|.|3
+burner|.|301.txt|.|4
+retinoids|.|acne.txt|.|5

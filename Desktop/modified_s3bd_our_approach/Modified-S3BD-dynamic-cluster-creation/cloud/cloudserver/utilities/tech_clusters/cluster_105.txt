@@ -1,0 +1,17 @@
+105
+reasons|.|123.txt|.|2
+election|.|101.txt|.|2|.|157.txt|.|1|.|123.txt|.|2
+google news site|.|186.txt|.|1
+records|.|355.txt|.|2|.|287.txt|.|3|.|372.txt|.|3|.|253.txt|.|4
+george w bush|.|123.txt|.|2
+disasters|.|151.txt|.|2|.|315.txt|.|1|.|027.txt|.|1|.|097.txt|.|1
+news site|.|186.txt|.|2
+emergency committee|.|315.txt|.|2|.|027.txt|.|2
+editions|.|186.txt|.|1
+working title|.|244.txt|.|2
+buses|.|181.txt|.|2
+security reasons|.|123.txt|.|2
+george|.|123.txt|.|2
+tsunami aid|.|315.txt|.|2|.|027.txt|.|2
+disasters emergency|.|315.txt|.|1|.|027.txt|.|1
+us|.|359.txt|.|2|.|078.txt|.|3|.|166.txt|.|1|.|354.txt|.|11|.|273.txt|.|3|.|101.txt|.|6|.|037.txt|.|3|.|363.txt|.|8|.|165.txt|.|1|.|120.txt|.|5|.|268.txt|.|4|.|333.txt|.|3

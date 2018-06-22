@@ -1,0 +1,104 @@
+3
+voted|.|bbc_politics_062.txt|.|1|.|bbc_politics_410.txt|.|2|.|bbc_politics_072.txt|.|2
+harold wilson|.|bbc_politics_400.txt|.|2
+nationalist|.|bbc_politics_177.txt|.|3
+tagged|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+downing|.|bbc_politics_306.txt|.|2|.|bbc_politics_196.txt|.|1|.|bbc_politics_328.txt|.|3|.|bbc_politics_327.txt|.|2|.|bbc_politics_406.txt|.|2|.|bbc_politics_324.txt|.|4|.|bbc_politics_297.txt|.|1
+butler|.|bbc_politics_027.txt|.|8
+judge|.|bbc_politics_211.txt|.|8
+lord callaghan|.|bbc_politics_400.txt|.|10
+giving evidence|.|bbc_politics_118.txt|.|3
+males|.|bbc_politics_073.txt|.|1
+clashed|.|bbc_politics_211.txt|.|1|.|bbc_politics_387.txt|.|1
+former|.|bbc_politics_183.txt|.|3|.|bbc_politics_196.txt|.|2|.|bbc_politics_027.txt|.|3|.|bbc_politics_320.txt|.|5|.|bbc_politics_297.txt|.|2
+clashed with ministers|.|bbc_politics_211.txt|.|1
+leslie|.|bbc_politics_273.txt|.|3|.|bbc_politics_391.txt|.|2
+lord goldsmith|.|bbc_politics_184.txt|.|4|.|bbc_politics_328.txt|.|4|.|bbc_politics_327.txt|.|4
+lighter sentences|.|bbc_politics_231.txt|.|2
+argued|.|bbc_politics_348.txt|.|2
+sentences|.|bbc_politics_168.txt|.|6|.|bbc_politics_231.txt|.|6
+issues like|.|bbc_politics_289.txt|.|2
+mr leslie|.|bbc_politics_273.txt|.|2
+welsh office|.|bbc_politics_177.txt|.|1
+make the decision|.|bbc_politics_348.txt|.|2
+ministers|.|bbc_politics_098.txt|.|3|.|bbc_politics_103.txt|.|1|.|bbc_politics_211.txt|.|2|.|bbc_politics_345.txt|.|1|.|bbc_politics_391.txt|.|2|.|bbc_politics_195.txt|.|1|.|bbc_politics_173.txt|.|3|.|bbc_politics_180.txt|.|2|.|bbc_politics_174.txt|.|8|.|bbc_politics_388.txt|.|3
+commons|.|bbc_politics_354.txt|.|2|.|bbc_politics_066.txt|.|5|.|bbc_politics_077.txt|.|2|.|bbc_politics_328.txt|.|3|.|bbc_politics_310.txt|.|3|.|bbc_politics_123.txt|.|3
+parental access|.|bbc_politics_067.txt|.|1|.|bbc_politics_390.txt|.|1
+parents who|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+courts minister|.|bbc_politics_273.txt|.|2
+accusing|.|bbc_politics_027.txt|.|1
+baroness|.|bbc_politics_327.txt|.|2
+peer|.|bbc_politics_073.txt|.|2|.|bbc_politics_296.txt|.|2
+chancellor lord|.|bbc_politics_119.txt|.|1
+televised|.|bbc_politics_348.txt|.|5
+genuinely held|.|bbc_politics_328.txt|.|2
+earners|.|bbc_politics_301.txt|.|2
+panel|.|bbc_politics_259.txt|.|4
+parental|.|bbc_politics_067.txt|.|1|.|bbc_politics_390.txt|.|1
+foot|.|bbc_politics_203.txt|.|4
+upper house|.|bbc_politics_289.txt|.|2
+witnesses|.|bbc_politics_118.txt|.|5
+stress|.|bbc_politics_118.txt|.|2|.|bbc_politics_355.txt|.|1
+butler said|.|bbc_politics_027.txt|.|4
+chair|.|bbc_politics_211.txt|.|2
+catholics|.|bbc_politics_073.txt|.|2
+aged|.|bbc_politics_400.txt|.|2
+reduce sentences|.|bbc_politics_168.txt|.|1|.|bbc_politics_231.txt|.|1
+court order|.|bbc_politics_067.txt|.|1|.|bbc_politics_390.txt|.|1
+concessions|.|bbc_politics_180.txt|.|2|.|bbc_politics_072.txt|.|4
+lord dubs|.|bbc_politics_073.txt|.|4
+legality|.|bbc_politics_184.txt|.|2
+magistrates|.|bbc_politics_118.txt|.|2
+royal|.|bbc_politics_379.txt|.|2|.|bbc_politics_073.txt|.|3|.|bbc_politics_061.txt|.|4|.|bbc_politics_208.txt|.|2
+elfyn llwyd|.|bbc_politics_177.txt|.|2
+died aged|.|bbc_politics_400.txt|.|1
+charade|.|bbc_politics_180.txt|.|2
+rights as males|.|bbc_politics_073.txt|.|1
+genuinely|.|bbc_politics_328.txt|.|2
+reputation|.|bbc_politics_289.txt|.|2
+top judge|.|bbc_politics_211.txt|.|2
+glyndwr|.|bbc_politics_177.txt|.|4
+dubs|.|bbc_politics_073.txt|.|4
+full legal|.|bbc_politics_324.txt|.|2
+woolf|.|bbc_politics_211.txt|.|7|.|bbc_politics_231.txt|.|5
+changes to the bill|.|bbc_politics_180.txt|.|3
+view|.|bbc_politics_328.txt|.|2
+wife audrey|.|bbc_politics_400.txt|.|2
+baron kinnock|.|bbc_politics_289.txt|.|2
+damaging testimony|.|bbc_politics_027.txt|.|2
+labour peer|.|bbc_politics_073.txt|.|2
+baron|.|bbc_politics_289.txt|.|2
+falconer said|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+current powers|.|bbc_politics_072.txt|.|2
+mps voted|.|bbc_politics_072.txt|.|2
+peacefully|.|bbc_politics_119.txt|.|2
+job|.|bbc_politics_273.txt|.|4
+guidelines council|.|bbc_politics_231.txt|.|2
+woolf said|.|bbc_politics_211.txt|.|4
+advice|.|bbc_politics_089.txt|.|2|.|bbc_politics_324.txt|.|10
+lord|.|bbc_politics_067.txt|.|3|.|bbc_politics_266.txt|.|1|.|bbc_politics_073.txt|.|8|.|bbc_politics_118.txt|.|7|.|bbc_politics_180.txt|.|5|.|bbc_politics_072.txt|.|2|.|bbc_politics_327.txt|.|12|.|bbc_politics_027.txt|.|13|.|bbc_politics_390.txt|.|3|.|bbc_politics_416.txt|.|2|.|bbc_politics_211.txt|.|22|.|bbc_politics_273.txt|.|10|.|bbc_politics_119.txt|.|13|.|bbc_politics_184.txt|.|8|.|bbc_politics_289.txt|.|4|.|bbc_politics_400.txt|.|12|.|bbc_politics_328.txt|.|11|.|bbc_politics_231.txt|.|5|.|bbc_politics_348.txt|.|6|.|bbc_politics_324.txt|.|12|.|bbc_politics_413.txt|.|3|.|bbc_politics_177.txt|.|2|.|bbc_politics_296.txt|.|7
+crucial|.|bbc_politics_328.txt|.|2
+brixton riots|.|bbc_politics_119.txt|.|3
+rule|.|bbc_politics_266.txt|.|1
+top tories|.|bbc_politics_416.txt|.|2
+died|.|bbc_politics_119.txt|.|1|.|bbc_politics_400.txt|.|2|.|bbc_politics_178.txt|.|2
+scarman|.|bbc_politics_119.txt|.|6
+lord strathclyde|.|bbc_politics_072.txt|.|2
+blair government|.|bbc_politics_027.txt|.|1
+audrey|.|bbc_politics_400.txt|.|2
+said lord|.|bbc_politics_119.txt|.|2|.|bbc_politics_327.txt|.|3
+goldsmith said|.|bbc_politics_328.txt|.|3
+damaging|.|bbc_politics_027.txt|.|2
+royal family|.|bbc_politics_073.txt|.|2
+street|.|bbc_politics_188.txt|.|2|.|bbc_politics_306.txt|.|3|.|bbc_politics_196.txt|.|2|.|bbc_politics_328.txt|.|3|.|bbc_politics_327.txt|.|2|.|bbc_politics_406.txt|.|2|.|bbc_politics_324.txt|.|4|.|bbc_politics_297.txt|.|2
+falconer|.|bbc_politics_211.txt|.|2|.|bbc_politics_067.txt|.|3|.|bbc_politics_118.txt|.|4|.|bbc_politics_180.txt|.|5|.|bbc_politics_327.txt|.|3|.|bbc_politics_390.txt|.|3
+goldsmith|.|bbc_politics_184.txt|.|5|.|bbc_politics_328.txt|.|5|.|bbc_politics_327.txt|.|5
+riots|.|bbc_politics_119.txt|.|3
+person for the job|.|bbc_politics_273.txt|.|2
+lord butler|.|bbc_politics_027.txt|.|7
+war|.|bbc_politics_184.txt|.|4|.|bbc_politics_302.txt|.|2|.|bbc_politics_395.txt|.|2|.|bbc_politics_131.txt|.|1|.|bbc_politics_328.txt|.|3|.|bbc_politics_353.txt|.|4|.|bbc_politics_060.txt|.|8|.|bbc_politics_327.txt|.|5|.|bbc_politics_322.txt|.|2
+lord callaghan dies|.|bbc_politics_400.txt|.|1
+sands|.|bbc_politics_184.txt|.|2|.|bbc_politics_324.txt|.|4
+critics|.|bbc_politics_180.txt|.|3
+family|.|bbc_politics_229.txt|.|1|.|bbc_politics_073.txt|.|2
+labour leader|.|bbc_politics_289.txt|.|1

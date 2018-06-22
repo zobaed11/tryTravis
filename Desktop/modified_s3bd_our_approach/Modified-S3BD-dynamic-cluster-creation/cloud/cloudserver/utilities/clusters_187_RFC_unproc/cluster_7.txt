@@ -1,0 +1,120 @@
+null service|.|rfc2997.txt|.|41
+xerox|.|rfc2035.txt|.|4|.|rfc320.txt|.|5
+verma deloitte|.|rfc3070.txt|.|2
+mpls network|.|rfc4618.txt|.|9|.|rfc4619.txt|.|7
+huitema standards|.|rfc2032.txt|.|11
+frame blocks|.|rfc4348.txt|.|4|.|rfc3267.txt|.|6|.|rfc4867.txt|.|7
+resolution|.|rfc5494.txt|.|9|.|rfc2390.txt|.|18|.|rfc2225.txt|.|32|.|rfc3384.txt|.|18|.|rfc3650.txt|.|27|.|rfc5928.txt|.|41|.|rfc2835.txt|.|25|.|rfc2483.txt|.|21|.|rfc2169.txt|.|41|.|rfc3844.txt|.|21|.|rfc4697.txt|.|22|.|rfc2143.txt|.|4|.|rfc4947.txt|.|51|.|rfc2972.txt|.|61|.|rfc86.txt|.|4|.|rfc2332.txt|.|181|.|rfc4795.txt|.|36|.|rfc3404.txt|.|58|.|rfc3367.txt|.|72|.|rfc2168.txt|.|58|.|rfc2276.txt|.|66
+internet fax gateway|.|rfc4160.txt|.|19
+frame encapsulation|.|rfc3643.txt|.|25
+cromwell informational|.|rfc2897.txt|.|34
+heafner|.|rfc130.txt|.|2|.|rfc39.txt|.|3|.|rfc52.txt|.|2|.|rfc227.txt|.|4
+pearce|.|rfc4060.txt|.|21
+fr lsr|.|rfc3034.txt|.|1
+sizes|.|rfc5349.txt|.|4|.|rfc5695.txt|.|23|.|rfc3602.txt|.|7|.|rfc5180.txt|.|18|.|rfc4194.txt|.|9|.|rfc3686.txt|.|4|.|rfc3409.txt|.|10
+transmitting frames|.|rfc2889.txt|.|8
+two rate three color|.|rfc2698.txt|.|7
+level definitions|.|rfc3202.txt|.|43
+spirits architecture|.|rfc3136.txt|.|15
+relay september|.|rfc2427.txt|.|33|.|rfc4619.txt|.|18
+lemonade architecture|.|rfc5442.txt|.|20
+transmitting|.|rfc600.txt|.|1|.|rfc392.txt|.|8|.|rfc2516.txt|.|17|.|rfc2889.txt|.|20|.|rfc4103.txt|.|4
+ethernet frame|.|rfc3378.txt|.|2
+pvc|.|rfc2954.txt|.|160|.|rfc2955.txt|.|71
+computer communications conference|.|rfc371.txt|.|3
+header length|.|rfc4591.txt|.|12
+definitions|.|rfc2155.txt|.|134|.|rfc5907.txt|.|30|.|rfc3254.txt|.|14|.|rfc2652.txt|.|25|.|rfc3202.txt|.|50|.|rfc5549.txt|.|8|.|rfc6066.txt|.|26|.|rfc3688.txt|.|2|.|rfc5234.txt|.|7
+sequence retention|.|rfc4720.txt|.|9
+pointer|.|rfc4842.txt|.|75
+data records|.|rfc6183.txt|.|47|.|rfc3954.txt|.|32|.|rfc5982.txt|.|47|.|rfc5471.txt|.|47|.|rfc5473.txt|.|46
+media subtype|.|rfc5584.txt|.|19
+relay networks|.|rfc2590.txt|.|22
+port numbers|.|rfc6056.txt|.|50|.|rfc333.txt|.|24|.|rfc3605.txt|.|9|.|rfc5595.txt|.|23|.|rfc3639.txt|.|9|.|rfc6269.txt|.|12|.|rfc3104.txt|.|11|.|rfc62.txt|.|31
+ppp in frame relay|.|rfc1973.txt|.|10
+encapsulated ppp|.|rfc2364.txt|.|10|.|rfc2363.txt|.|9
+advancement|.|rfc2438.txt|.|12
+service interworking|.|rfc2955.txt|.|53
+iab informational|.|rfc3424.txt|.|9|.|rfc4907.txt|.|62|.|rfc5620.txt|.|19|.|rfc3238.txt|.|17
+international standard book|.|rfc3187.txt|.|8
+semaphore|.|rfc4824.txt|.|9
+network mailing|.|rfc303.txt|.|11|.|rfc155.txt|.|5|.|rfc300.txt|.|9|.|rfc402.txt|.|16|.|rfc168.txt|.|7|.|rfc211.txt|.|13
+benchmarking methodology|.|rfc2544.txt|.|32|.|rfc5695.txt|.|32|.|rfc2889.txt|.|36|.|rfc5180.txt|.|23
+frame set|.|rfc4598.txt|.|7
+publishing protocol|.|rfc5023.txt|.|71
+nicklass|.|rfc3895.txt|.|88|.|rfc3202.txt|.|67|.|rfc3201.txt|.|26|.|rfc5604.txt|.|47|.|rfc3896.txt|.|67|.|rfc5605.txt|.|40|.|rfc4805.txt|.|99
+information center|.|rfc96.txt|.|4|.|rfc2053.txt|.|5|.|rfc511.txt|.|3|.|rfc115.txt|.|5|.|rfc363.txt|.|14|.|rfc402.txt|.|18|.|rfc182.txt|.|3|.|rfc223.txt|.|2|.|rfc329.txt|.|14|.|rfc185.txt|.|2
+geospatial consortium|.|rfc5165.txt|.|6
+mobile router|.|rfc4889.txt|.|124|.|rfc4888.txt|.|27|.|rfc5177.txt|.|154|.|rfc4887.txt|.|59|.|rfc4885.txt|.|14|.|rfc6276.txt|.|98|.|rfc3963.txt|.|234|.|rfc5488.txt|.|70
+oakley|.|rfc2412.txt|.|118
+network working group|.|rfc96.txt|.|7|.|rfc10.txt|.|4|.|rfc70.txt|.|9|.|rfc222.txt|.|2|.|rfc269.txt|.|2|.|rfc24.txt|.|4|.|rfc308.txt|.|2|.|rfc626.txt|.|6|.|rfc236.txt|.|2|.|rfc164.txt|.|33|.|rfc87.txt|.|2|.|rfc75.txt|.|2|.|rfc27.txt|.|4|.|rfc66.txt|.|3|.|rfc72.txt|.|3|.|rfc178.txt|.|6|.|rfc160.txt|.|3|.|rfc17.txt|.|2|.|rfc245.txt|.|2|.|rfc85.txt|.|4|.|rfc152.txt|.|2|.|rfc99.txt|.|2|.|rfc63.txt|.|3|.|rfc3.txt|.|4|.|rfc16.txt|.|2|.|rfc30.txt|.|4|.|rfc115.txt|.|2|.|rfc101.txt|.|15|.|rfc68.txt|.|3|.|rfc234.txt|.|2|.|rfc294.txt|.|2|.|rfc229.txt|.|3|.|rfc2555.txt|.|8|.|rfc212.txt|.|3
+relay header|.|rfc4591.txt|.|15
+profile july|.|rfc3551.txt|.|43
+info method|.|rfc2976.txt|.|28
+fcip entity|.|rfc3821.txt|.|136|.|rfc3822.txt|.|39|.|rfc4404.txt|.|33
+fc frame|.|rfc3821.txt|.|117|.|rfc3643.txt|.|45
+cipher suites|.|rfc5469.txt|.|16|.|rfc2712.txt|.|11|.|rfc4132.txt|.|19|.|rfc4492.txt|.|54|.|rfc5932.txt|.|19|.|rfc4162.txt|.|15|.|rfc5489.txt|.|41|.|rfc5288.txt|.|25|.|rfc6209.txt|.|41|.|rfc5487.txt|.|34|.|rfc5289.txt|.|27
+check sequence retention|.|rfc4720.txt|.|9
+transfer size|.|rfc2349.txt|.|7
+rationale|.|rfc5894.txt|.|45|.|rfc4766.txt|.|35
+requesting station|.|rfc2390.txt|.|10
+speech frame|.|rfc3267.txt|.|29
+biology markup language|.|rfc3823.txt|.|14
+fast|.|rfc4187.txt|.|189|.|rfc5421.txt|.|4|.|rfc5714.txt|.|26|.|rfc5271.txt|.|52|.|rfc4068.txt|.|104|.|rfc3782.txt|.|128|.|rfc5268.txt|.|109|.|rfc4561.txt|.|15|.|rfc5106.txt|.|43|.|rfc5184.txt|.|52|.|rfc5422.txt|.|8|.|rfc4260.txt|.|28|.|rfc5949.txt|.|60|.|rfc4186.txt|.|205|.|rfc2582.txt|.|84|.|rfc5681.txt|.|24|.|rfc4851.txt|.|18|.|rfc5568.txt|.|118|.|rfc4460.txt|.|46|.|rfc2001.txt|.|16|.|rfc5270.txt|.|12|.|rfc4988.txt|.|48|.|rfc5168.txt|.|11
+test equipment|.|rfc2544.txt|.|10
+dynamic entry|.|rfc2589.txt|.|14
+random ecp|.|rfc5114.txt|.|37|.|rfc4753.txt|.|18
+pvc service|.|rfc2955.txt|.|23
+relay january|.|rfc3034.txt|.|23
+data sfs|.|rfc4824.txt|.|7
+sfs|.|rfc4824.txt|.|35
+maximum frame|.|rfc2544.txt|.|10
+dispatch|.|rfc4944.txt|.|30
+atkinson|.|rfc3869.txt|.|35|.|rfc2401.txt|.|71|.|rfc2082.txt|.|17|.|rfc3567.txt|.|8
+encapsulating protocol|.|rfc3643.txt|.|38
+hdlc frame|.|rfc2171.txt|.|4
+tagged index|.|rfc2654.txt|.|59
+kawa|.|rfc4619.txt|.|21
+frame relay|.|rfc4720.txt|.|9|.|rfc2390.txt|.|26|.|rfc3916.txt|.|14|.|rfc3133.txt|.|80|.|rfc2954.txt|.|262|.|rfc4905.txt|.|20|.|rfc3122.txt|.|39|.|rfc3201.txt|.|23|.|rfc2115.txt|.|93|.|rfc3070.txt|.|37|.|rfc4591.txt|.|62|.|rfc4381.txt|.|9|.|rfc4368.txt|.|5|.|rfc4619.txt|.|127|.|rfc4618.txt|.|16|.|rfc3270.txt|.|25|.|rfc3202.txt|.|116|.|rfc2427.txt|.|118|.|rfc2955.txt|.|79|.|rfc1973.txt|.|27|.|rfc3034.txt|.|124|.|rfc2590.txt|.|90
+resolver|.|rfc4697.txt|.|42|.|rfc5006.txt|.|17|.|rfc6147.txt|.|40|.|rfc3755.txt|.|16|.|rfc5582.txt|.|17|.|rfc4033.txt|.|94|.|rfc3225.txt|.|16|.|rfc3197.txt|.|4|.|rfc4035.txt|.|131|.|rfc2169.txt|.|13|.|rfc2276.txt|.|28
+reference points|.|rfc3202.txt|.|41
+mcquaid|.|rfc2544.txt|.|33
+flag signaling|.|rfc4824.txt|.|4
+frame types|.|rfc4352.txt|.|43
+service mib|.|rfc2954.txt|.|89
+malis|.|rfc2615.txt|.|12|.|rfc4816.txt|.|7|.|rfc2917.txt|.|18|.|rfc2427.txt|.|37
+ilbc speech|.|rfc3952.txt|.|16
+maximum frame rates|.|rfc5180.txt|.|7
+jpeg october|.|rfc2435.txt|.|26
+mac frame|.|rfc3378.txt|.|14
+mcquaid informational|.|rfc2544.txt|.|31
+atrac frame|.|rfc5584.txt|.|23
+ipsec extensions|.|rfc5858.txt|.|17
+ogura|.|rfc3572.txt|.|16
+deloitte|.|rfc3070.txt|.|2
+fcs retention|.|rfc4720.txt|.|16
+pw packet|.|rfc4385.txt|.|6|.|rfc4619.txt|.|16
+sampling frequency|.|rfc4352.txt|.|12
+frame check sequence|.|rfc4720.txt|.|11
+semaphore flag|.|rfc4824.txt|.|8
+duration|.|rfc3803.txt|.|21|.|rfc2424.txt|.|16|.|rfc2889.txt|.|63
+operations|.|rfc4373.txt|.|41|.|rfc2570.txt|.|19|.|rfc5068.txt|.|4|.|rfc2982.txt|.|6|.|rfc4176.txt|.|30|.|rfc5706.txt|.|45|.|rfc4435.txt|.|28|.|rfc2649.txt|.|16|.|rfc5868.txt|.|26|.|rfc3771.txt|.|16|.|rfc120.txt|.|14|.|rfc5805.txt|.|16|.|rfc3239.txt|.|45|.|rfc5522.txt|.|12|.|rfc2546.txt|.|6|.|rfc3321.txt|.|19|.|rfc3998.txt|.|180|.|rfc4088.txt|.|21|.|rfc2955.txt|.|6|.|rfc3395.txt|.|12|.|rfc5261.txt|.|55
+frame rate|.|rfc2544.txt|.|12
+interoperable|.|rfc4348.txt|.|28|.|rfc3787.txt|.|13|.|rfc3719.txt|.|15|.|rfc4424.txt|.|6|.|rfc2438.txt|.|6|.|rfc4020.txt|.|2|.|rfc2714.txt|.|7|.|rfc1975.txt|.|2|.|rfc3277.txt|.|4|.|rfc3990.txt|.|4|.|rfc3354.txt|.|3|.|rfc3870.txt|.|2
+data link control|.|rfc4720.txt|.|3
+quantization tables|.|rfc2035.txt|.|7
+rtp payloads|.|rfc4060.txt|.|19
+jpeg video|.|rfc2035.txt|.|17
+circuit to interface|.|rfc3201.txt|.|23
+front end|.|rfc588.txt|.|1|.|rfc4060.txt|.|2
+wide|.|rfc3821.txt|.|53|.|rfc4696.txt|.|1|.|rfc2091.txt|.|2|.|rfc2969.txt|.|20|.|rfc3637.txt|.|2|.|rfc349.txt|.|2|.|rfc2966.txt|.|2|.|rfc6286.txt|.|1
+rates|.|rfc4184.txt|.|6|.|rfc5180.txt|.|10|.|rfc227.txt|.|4|.|rfc4963.txt|.|17
+mfr december|.|rfc3020.txt|.|35
+check sequence|.|rfc4720.txt|.|11
+interleaving|.|rfc3267.txt|.|51|.|rfc4352.txt|.|39|.|rfc5515.txt|.|8|.|rfc2354.txt|.|11
+terminology for frame relay benchmarking|.|rfc3133.txt|.|24
+stack hosts|.|rfc2767.txt|.|21|.|rfc3338.txt|.|22
+dte mib|.|rfc2115.txt|.|33
+ethernet tunnel|.|rfc3378.txt|.|2
+service level definitions|.|rfc3202.txt|.|43
+regenerators|.|rfc6163.txt|.|38
+methodology|.|rfc2544.txt|.|37|.|rfc3148.txt|.|10|.|rfc5695.txt|.|38|.|rfc2889.txt|.|40|.|rfc5180.txt|.|26|.|rfc3116.txt|.|136

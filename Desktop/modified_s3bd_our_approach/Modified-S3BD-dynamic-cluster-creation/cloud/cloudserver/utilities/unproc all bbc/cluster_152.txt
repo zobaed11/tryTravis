@@ -1,0 +1,64 @@
+deal is the agreed|.|bbc_tech_383.txt|.|1
+streets|.|bbc_entertainment_106.txt|.|3|.|bbc_entertainment_256.txt|.|4
+trust the pc|.|bbc_tech_358.txt|.|1
+gartner said|.|bbc_tech_064.txt|.|1|.|bbc_tech_338.txt|.|1
+music millionaires|.|bbc_entertainment_346.txt|.|3
+slim|.|bbc_entertainment_122.txt|.|1
+remittances|.|bbc_business_084.txt|.|5
+singer courtney|.|bbc_entertainment_258.txt|.|2
+music industry|.|bbc_entertainment_148.txt|.|5|.|bbc_tech_145.txt|.|3|.|bbc_entertainment_271.txt|.|5|.|bbc_tech_092.txt|.|5
+tremendous|.|bbc_politics_124.txt|.|2|.|bbc_sport_282.txt|.|2|.|bbc_sport_336.txt|.|2
+interviews|.|bbc_entertainment_208.txt|.|2|.|bbc_politics_008.txt|.|2
+growing|.|bbc_tech_175.txt|.|2|.|bbc_tech_099.txt|.|2|.|bbc_business_054.txt|.|3|.|bbc_tech_129.txt|.|2
+music|.|bbc_tech_312.txt|.|4|.|bbc_entertainment_245.txt|.|3|.|bbc_entertainment_148.txt|.|16|.|bbc_entertainment_122.txt|.|8|.|bbc_tech_338.txt|.|14|.|bbc_tech_206.txt|.|6|.|bbc_tech_284.txt|.|2|.|bbc_tech_305.txt|.|3|.|bbc_entertainment_255.txt|.|6|.|bbc_tech_322.txt|.|9|.|bbc_tech_064.txt|.|14|.|bbc_entertainment_286.txt|.|3|.|bbc_tech_285.txt|.|5|.|bbc_tech_304.txt|.|5|.|bbc_entertainment_318.txt|.|4|.|bbc_entertainment_238.txt|.|2|.|bbc_entertainment_264.txt|.|3|.|bbc_entertainment_251.txt|.|2|.|bbc_tech_110.txt|.|6|.|bbc_entertainment_243.txt|.|2|.|bbc_tech_374.txt|.|2|.|bbc_entertainment_256.txt|.|70|.|bbc_entertainment_281.txt|.|2|.|bbc_entertainment_319.txt|.|4|.|bbc_entertainment_116.txt|.|3|.|bbc_entertainment_103.txt|.|7|.|bbc_entertainment_263.txt|.|5|.|bbc_business_207.txt|.|8|.|bbc_tech_332.txt|.|13|.|bbc_entertainment_280.txt|.|7|.|bbc_entertainment_134.txt|.|2|.|bbc_entertainment_292.txt|.|1|.|bbc_tech_198.txt|.|3|.|bbc_tech_302.txt|.|9|.|bbc_entertainment_342.txt|.|2|.|bbc_entertainment_262.txt|.|4|.|bbc_tech_092.txt|.|12|.|bbc_tech_059.txt|.|9|.|bbc_business_226.txt|.|2|.|bbc_entertainment_321.txt|.|11|.|bbc_entertainment_127.txt|.|7|.|bbc_tech_279.txt|.|9|.|bbc_tech_182.txt|.|3|.|bbc_entertainment_208.txt|.|1|.|bbc_tech_091.txt|.|2|.|bbc_tech_297.txt|.|2|.|bbc_tech_298.txt|.|12|.|bbc_tech_148.txt|.|10|.|bbc_entertainment_290.txt|.|3|.|bbc_tech_183.txt|.|14|.|bbc_entertainment_277.txt|.|2|.|bbc_tech_051.txt|.|2|.|bbc_tech_090.txt|.|4|.|bbc_entertainment_184.txt|.|5|.|bbc_tech_263.txt|.|12|.|bbc_tech_220.txt|.|4|.|bbc_entertainment_107.txt|.|3|.|bbc_tech_145.txt|.|10|.|bbc_tech_323.txt|.|2|.|bbc_tech_383.txt|.|23|.|bbc_tech_128.txt|.|2|.|bbc_tech_260.txt|.|2|.|bbc_entertainment_131.txt|.|26|.|bbc_entertainment_271.txt|.|13|.|bbc_entertainment_346.txt|.|6|.|bbc_entertainment_241.txt|.|3|.|bbc_tech_040.txt|.|13|.|bbc_entertainment_279.txt|.|2|.|bbc_entertainment_266.txt|.|6
+legal advice|.|bbc_politics_324.txt|.|4
+german music|.|bbc_entertainment_271.txt|.|2
+weather|.|bbc_business_387.txt|.|2|.|bbc_tech_323.txt|.|2|.|bbc_business_050.txt|.|2|.|bbc_business_381.txt|.|3|.|bbc_tech_051.txt|.|2
+music library|.|bbc_tech_279.txt|.|1|.|bbc_tech_302.txt|.|1
+jonny wilkinson|.|bbc_sport_342.txt|.|2|.|bbc_sport_415.txt|.|3
+indie dance|.|bbc_entertainment_255.txt|.|2
+saga|.|bbc_sport_399.txt|.|2
+xstrata bid|.|bbc_business_366.txt|.|1
+music award|.|bbc_entertainment_286.txt|.|1
+nokia and microsoft|.|bbc_tech_383.txt|.|2
+microsoft deal is the agreed|.|bbc_tech_383.txt|.|1
+nicky hunt|.|bbc_sport_185.txt|.|2
+music was dead|.|bbc_entertainment_122.txt|.|1
+archbishop tutu|.|bbc_politics_205.txt|.|2
+taylor|.|bbc_sport_410.txt|.|6
+cities|.|bbc_entertainment_256.txt|.|6
+filed|.|bbc_business_145.txt|.|1|.|bbc_sport_049.txt|.|2|.|bbc_sport_088.txt|.|2|.|bbc_tech_273.txt|.|3|.|bbc_business_391.txt|.|1
+primetime|.|bbc_entertainment_170.txt|.|2
+patients|.|bbc_politics_170.txt|.|12|.|bbc_politics_121.txt|.|6
+urban music|.|bbc_entertainment_256.txt|.|14
+tax|.|bbc_politics_374.txt|.|4|.|bbc_politics_398.txt|.|3|.|bbc_business_003.txt|.|2|.|bbc_politics_344.txt|.|11|.|bbc_politics_128.txt|.|3|.|bbc_business_200.txt|.|9|.|bbc_politics_357.txt|.|4|.|bbc_politics_317.txt|.|11|.|bbc_politics_277.txt|.|5|.|bbc_business_307.txt|.|4|.|bbc_politics_275.txt|.|9|.|bbc_business_075.txt|.|6|.|bbc_politics_241.txt|.|8|.|bbc_business_127.txt|.|3|.|bbc_politics_375.txt|.|14|.|bbc_business_391.txt|.|1|.|bbc_politics_362.txt|.|6|.|bbc_politics_101.txt|.|9|.|bbc_business_266.txt|.|12|.|bbc_business_055.txt|.|5|.|bbc_politics_270.txt|.|11|.|bbc_politics_363.txt|.|10|.|bbc_politics_387.txt|.|7|.|bbc_business_299.txt|.|4
+lovers|.|bbc_tech_045.txt|.|1|.|bbc_tech_341.txt|.|1|.|bbc_entertainment_184.txt|.|2
+secondary|.|bbc_entertainment_148.txt|.|2|.|bbc_politics_020.txt|.|3
+jamie|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_264.txt|.|2|.|bbc_entertainment_368.txt|.|19|.|bbc_sport_093.txt|.|7
+atomic|.|bbc_entertainment_262.txt|.|2
+itunes music|.|bbc_tech_148.txt|.|2
+rascal|.|bbc_entertainment_256.txt|.|4
+benefit musicians|.|bbc_tech_145.txt|.|2
+lessons|.|bbc_entertainment_148.txt|.|4|.|bbc_politics_171.txt|.|2|.|bbc_politics_172.txt|.|2
+dance music not dead|.|bbc_entertainment_122.txt|.|1
+dizzee|.|bbc_entertainment_256.txt|.|4
+bon|.|bbc_entertainment_208.txt|.|2
+jonesboro|.|bbc_entertainment_281.txt|.|3
+fatboy slim|.|bbc_entertainment_122.txt|.|1
+ipods|.|bbc_tech_332.txt|.|2|.|bbc_tech_040.txt|.|2
+rock|.|bbc_entertainment_270.txt|.|2|.|bbc_entertainment_240.txt|.|2|.|bbc_entertainment_139.txt|.|2|.|bbc_entertainment_242.txt|.|3|.|bbc_entertainment_153.txt|.|2|.|bbc_entertainment_142.txt|.|3|.|bbc_entertainment_367.txt|.|4|.|bbc_entertainment_185.txt|.|3|.|bbc_tech_182.txt|.|2|.|bbc_entertainment_233.txt|.|2|.|bbc_entertainment_268.txt|.|6|.|bbc_entertainment_134.txt|.|3|.|bbc_entertainment_236.txt|.|3|.|bbc_entertainment_229.txt|.|2|.|bbc_entertainment_206.txt|.|2|.|bbc_entertainment_262.txt|.|4
+black music|.|bbc_entertainment_256.txt|.|7
+dance acts|.|bbc_entertainment_122.txt|.|1
+successful|.|bbc_tech_145.txt|.|5
+firms said|.|bbc_tech_285.txt|.|2|.|bbc_tech_304.txt|.|2
+secondary schools|.|bbc_entertainment_148.txt|.|1
+work in real|.|bbc_tech_198.txt|.|1
+digital music|.|bbc_tech_332.txt|.|6|.|bbc_tech_374.txt|.|2|.|bbc_tech_040.txt|.|6|.|bbc_tech_128.txt|.|2|.|bbc_tech_279.txt|.|2|.|bbc_tech_302.txt|.|2
+tulip|.|bbc_tech_374.txt|.|2|.|bbc_tech_128.txt|.|2
+music player|.|bbc_tech_297.txt|.|2|.|bbc_tech_260.txt|.|2
+stone|.|bbc_entertainment_072.txt|.|3|.|bbc_entertainment_251.txt|.|5|.|bbc_entertainment_293.txt|.|2|.|bbc_tech_005.txt|.|3|.|bbc_entertainment_256.txt|.|17|.|bbc_entertainment_249.txt|.|2
+band kasabian|.|bbc_entertainment_255.txt|.|2
+apple ipod|.|bbc_tech_110.txt|.|2
+musicians are embracing the internet|.|bbc_tech_145.txt|.|2
+dizzee rascal|.|bbc_entertainment_256.txt|.|4
+welch|.|bbc_entertainment_134.txt|.|4

@@ -1,0 +1,17 @@
+134
+independent developers|.|082.txt|.|3
+documents contained|.|086.txt|.|2
+gaming gadget|.|363.txt|.|2
+ringtone|.|382.txt|.|2|.|067.txt|.|2
+vehicles|.|229.txt|.|9
+rules|.|382.txt|.|9|.|067.txt|.|9
+learning|.|071.txt|.|10|.|283.txt|.|10|.|104.txt|.|2
+microsoft word|.|086.txt|.|2
+uk video game|.|082.txt|.|2
+word document|.|086.txt|.|2
+contained|.|086.txt|.|2
+firms|.|304.txt|.|11|.|270.txt|.|5|.|299.txt|.|5|.|342.txt|.|2|.|286.txt|.|3|.|048.txt|.|2|.|008.txt|.|2|.|391.txt|.|3|.|278.txt|.|2|.|031.txt|.|2|.|382.txt|.|7|.|252.txt|.|2|.|072.txt|.|3|.|117.txt|.|2|.|368.txt|.|4|.|212.txt|.|2|.|285.txt|.|11|.|086.txt|.|6|.|225.txt|.|2|.|082.txt|.|4|.|067.txt|.|7
+christmas card|.|008.txt|.|2|.|252.txt|.|2
+games firms|.|082.txt|.|1
+uk video|.|082.txt|.|2
+computer implemented|.|030.txt|.|2

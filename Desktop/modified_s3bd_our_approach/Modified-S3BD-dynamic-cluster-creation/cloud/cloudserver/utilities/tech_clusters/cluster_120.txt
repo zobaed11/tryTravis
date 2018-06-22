@@ -1,0 +1,17 @@
+120
+largest|.|114.txt|.|2|.|193.txt|.|2|.|296.txt|.|2
+electronics|.|072.txt|.|6|.|291.txt|.|4|.|163.txt|.|4|.|174.txt|.|4|.|134.txt|.|2
+grow|.|220.txt|.|2
+consumer electronics|.|072.txt|.|5|.|291.txt|.|4|.|163.txt|.|4|.|174.txt|.|3|.|134.txt|.|2
+vegas|.|193.txt|.|2|.|296.txt|.|2
+technology firms|.|072.txt|.|2
+las vegas|.|193.txt|.|2|.|296.txt|.|2
+growth in the gadget|.|072.txt|.|1
+digitally|.|220.txt|.|3
+multimedia|.|389.txt|.|12|.|322.txt|.|3|.|059.txt|.|3|.|193.txt|.|2|.|234.txt|.|12|.|291.txt|.|2|.|296.txt|.|2|.|050.txt|.|3|.|163.txt|.|2|.|265.txt|.|4
+epa|.|072.txt|.|4
+stored|.|174.txt|.|3
+won|.|355.txt|.|2|.|057.txt|.|8|.|174.txt|.|3
+than|.|023.txt|.|4|.|311.txt|.|5|.|205.txt|.|3|.|321.txt|.|3|.|095.txt|.|5
+gates opens|.|134.txt|.|1
+las|.|193.txt|.|2|.|296.txt|.|2

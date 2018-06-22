@@ -1,0 +1,17 @@
+10
+release patents|.|268.txt|.|1
+ibm said|.|012.txt|.|3|.|331.txt|.|3
+town|.|395.txt|.|2
+us firm|.|268.txt|.|1
+intellectual|.|268.txt|.|3
+jacobsen|.|271.txt|.|5
+spending|.|012.txt|.|2|.|331.txt|.|2
+frees|.|268.txt|.|1
+ibm|.|320.txt|.|3|.|319.txt|.|2|.|190.txt|.|2|.|012.txt|.|6|.|331.txt|.|6|.|268.txt|.|11
+era|.|268.txt|.|2
+new era|.|268.txt|.|2
+property|.|268.txt|.|3
+name|.|209.txt|.|4
+use linux|.|012.txt|.|1|.|331.txt|.|1
+boost|.|012.txt|.|2|.|331.txt|.|2
+wartime|.|288.txt|.|4

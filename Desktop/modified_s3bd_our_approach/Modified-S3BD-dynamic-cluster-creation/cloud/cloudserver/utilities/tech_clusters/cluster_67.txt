@@ -1,0 +1,17 @@
+67
+nets|.|357.txt|.|7|.|281.txt|.|4
+project|.|047.txt|.|2|.|066.txt|.|5|.|249.txt|.|2|.|327.txt|.|2|.|115.txt|.|4|.|381.txt|.|5|.|357.txt|.|2|.|256.txt|.|8
+historical|.|115.txt|.|2
+students|.|066.txt|.|5|.|381.txt|.|5
+gameboy|.|256.txt|.|5
+textbooks|.|066.txt|.|3|.|381.txt|.|3
+wireless connection|.|066.txt|.|1|.|381.txt|.|1
+gameboyzz orchestra|.|256.txt|.|8
+cultural|.|115.txt|.|2
+handheld computer|.|066.txt|.|1|.|381.txt|.|1
+satellite radio|.|066.txt|.|2|.|381.txt|.|2
+school|.|066.txt|.|8|.|381.txt|.|8
+handhelds|.|256.txt|.|1
+pompeii|.|115.txt|.|3
+tourists|.|115.txt|.|2
+pew internet|.|047.txt|.|2|.|327.txt|.|2|.|145.txt|.|2

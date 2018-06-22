@@ -1,0 +1,17 @@
+102
+messages sent|.|273.txt|.|3|.|152.txt|.|3
+midnight|.|152.txt|.|2
+million phishing|.|217.txt|.|2
+broke|.|273.txt|.|3
+senanayake|.|142.txt|.|3
+phone signals|.|142.txt|.|1
+cell phone|.|142.txt|.|2
+text messages|.|106.txt|.|1|.|142.txt|.|5|.|152.txt|.|4
+disaster|.|106.txt|.|2|.|142.txt|.|4
+using sms|.|142.txt|.|1
+cyber criminals|.|217.txt|.|2
+act|.|273.txt|.|5
+signals|.|142.txt|.|1
+messages|.|106.txt|.|1|.|210.txt|.|6|.|142.txt|.|12|.|273.txt|.|6|.|217.txt|.|6|.|152.txt|.|5|.|176.txt|.|2|.|026.txt|.|3|.|362.txt|.|2|.|385.txt|.|3|.|132.txt|.|2
+phishing attacks|.|217.txt|.|3
+mentioned|.|385.txt|.|1

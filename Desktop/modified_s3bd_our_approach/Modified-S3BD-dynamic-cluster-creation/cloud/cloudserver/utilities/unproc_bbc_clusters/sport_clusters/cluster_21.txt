@@ -1,0 +1,91 @@
+21
+carlos|.|bbc_sport_423.txt|.|2|.|bbc_sport_472.txt|.|3|.|bbc_sport_477.txt|.|2|.|bbc_sport_466.txt|.|2
+country|.|bbc_sport_371.txt|.|3|.|bbc_sport_076.txt|.|2|.|bbc_sport_358.txt|.|1|.|bbc_sport_025.txt|.|6|.|bbc_sport_024.txt|.|3|.|bbc_sport_078.txt|.|1|.|bbc_sport_087.txt|.|4|.|bbc_sport_013.txt|.|5|.|bbc_sport_021.txt|.|3|.|bbc_sport_074.txt|.|3
+manchester united|.|bbc_sport_101.txt|.|2|.|bbc_sport_096.txt|.|2|.|bbc_sport_137.txt|.|2|.|bbc_sport_180.txt|.|3|.|bbc_sport_235.txt|.|2|.|bbc_sport_184.txt|.|3|.|bbc_sport_122.txt|.|2|.|bbc_sport_158.txt|.|3|.|bbc_sport_231.txt|.|2|.|bbc_sport_095.txt|.|3|.|bbc_sport_283.txt|.|2|.|bbc_sport_124.txt|.|2
+rubbers|.|bbc_sport_466.txt|.|1
+everton|.|bbc_sport_193.txt|.|4|.|bbc_sport_184.txt|.|4|.|bbc_sport_175.txt|.|2|.|bbc_sport_095.txt|.|6
+china and italy|.|bbc_sport_132.txt|.|2
+second singles|.|bbc_sport_431.txt|.|2
+british team|.|bbc_sport_449.txt|.|2
+courts|.|bbc_sport_131.txt|.|2|.|bbc_sport_487.txt|.|1
+davis cup win|.|bbc_sport_470.txt|.|1|.|bbc_sport_469.txt|.|1
+heineken|.|bbc_sport_391.txt|.|4|.|bbc_sport_317.txt|.|2
+beating roddick|.|bbc_sport_470.txt|.|1|.|bbc_sport_469.txt|.|1
+captain jeremy|.|bbc_sport_500.txt|.|2
+return to everton|.|bbc_sport_095.txt|.|2
+win the team|.|bbc_sport_074.txt|.|1
+regularly|.|bbc_sport_194.txt|.|2
+captained england|.|bbc_sport_367.txt|.|1
+retiring|.|bbc_sport_462.txt|.|1
+seconds|.|bbc_sport_083.txt|.|1
+pearce|.|bbc_sport_244.txt|.|6
+closing|.|bbc_sport_193.txt|.|1
+daniela|.|bbc_sport_455.txt|.|2
+nicolas|.|bbc_sport_254.txt|.|7
+miss the rest|.|bbc_sport_111.txt|.|1
+jonathan erlich|.|bbc_sport_437.txt|.|2
+cup debut|.|bbc_sport_500.txt|.|2
+legal|.|bbc_sport_131.txt|.|3
+moya|.|bbc_sport_499.txt|.|5|.|bbc_sport_477.txt|.|5|.|bbc_sport_470.txt|.|5|.|bbc_sport_466.txt|.|9|.|bbc_sport_451.txt|.|4|.|bbc_sport_469.txt|.|5
+mikoliunas|.|bbc_sport_147.txt|.|5
+weston|.|bbc_sport_384.txt|.|2
+davis cup tennis|.|bbc_sport_449.txt|.|2
+andy ram|.|bbc_sport_437.txt|.|2
+erlich|.|bbc_sport_437.txt|.|2
+davis cup|.|bbc_sport_437.txt|.|2|.|bbc_sport_485.txt|.|2|.|bbc_sport_431.txt|.|3|.|bbc_sport_499.txt|.|5|.|bbc_sport_472.txt|.|2|.|bbc_sport_500.txt|.|10|.|bbc_sport_449.txt|.|4|.|bbc_sport_470.txt|.|5|.|bbc_sport_466.txt|.|4|.|bbc_sport_469.txt|.|5
+irish cup|.|bbc_sport_131.txt|.|2
+ram|.|bbc_sport_437.txt|.|2
+glasgow|.|bbc_sport_084.txt|.|2|.|bbc_sport_052.txt|.|2|.|bbc_sport_075.txt|.|2|.|bbc_sport_295.txt|.|11
+lauren|.|bbc_sport_163.txt|.|3
+months|.|bbc_sport_485.txt|.|1|.|bbc_sport_265.txt|.|1|.|bbc_sport_065.txt|.|2
+london marathons|.|bbc_sport_013.txt|.|1
+goal|.|bbc_sport_155.txt|.|3|.|bbc_sport_105.txt|.|2|.|bbc_sport_380.txt|.|3|.|bbc_sport_263.txt|.|2|.|bbc_sport_144.txt|.|3|.|bbc_sport_157.txt|.|4|.|bbc_sport_109.txt|.|4|.|bbc_sport_151.txt|.|2|.|bbc_sport_284.txt|.|2|.|bbc_sport_283.txt|.|5|.|bbc_sport_217.txt|.|5|.|bbc_sport_177.txt|.|2
+singles rubbers|.|bbc_sport_466.txt|.|1
+davis|.|bbc_sport_437.txt|.|2|.|bbc_sport_485.txt|.|2|.|bbc_sport_431.txt|.|3|.|bbc_sport_499.txt|.|5|.|bbc_sport_472.txt|.|2|.|bbc_sport_500.txt|.|10|.|bbc_sport_449.txt|.|4|.|bbc_sport_470.txt|.|5|.|bbc_sport_466.txt|.|4|.|bbc_sport_469.txt|.|5
+tommy robredo|.|bbc_sport_466.txt|.|2
+bob|.|bbc_sport_472.txt|.|2
+seville|.|bbc_sport_499.txt|.|2
+hopman|.|bbc_sport_497.txt|.|3|.|bbc_sport_496.txt|.|3|.|bbc_sport_455.txt|.|2
+ranieri|.|bbc_sport_161.txt|.|4
+heineken cup|.|bbc_sport_391.txt|.|3|.|bbc_sport_317.txt|.|2
+registration|.|bbc_sport_131.txt|.|3
+bridge|.|bbc_sport_111.txt|.|5|.|bbc_sport_123.txt|.|2
+koubek|.|bbc_sport_485.txt|.|4
+cup|.|bbc_sport_174.txt|.|3|.|bbc_sport_437.txt|.|3|.|bbc_sport_131.txt|.|4|.|bbc_sport_390.txt|.|2|.|bbc_sport_497.txt|.|3|.|bbc_sport_144.txt|.|2|.|bbc_sport_500.txt|.|10|.|bbc_sport_122.txt|.|2|.|bbc_sport_267.txt|.|2|.|bbc_sport_470.txt|.|5|.|bbc_sport_466.txt|.|5|.|bbc_sport_496.txt|.|3|.|bbc_sport_161.txt|.|3|.|bbc_sport_485.txt|.|2|.|bbc_sport_132.txt|.|6|.|bbc_sport_391.txt|.|4|.|bbc_sport_472.txt|.|3|.|bbc_sport_317.txt|.|3|.|bbc_sport_184.txt|.|2|.|bbc_sport_197.txt|.|2|.|bbc_sport_449.txt|.|7|.|bbc_sport_171.txt|.|2|.|bbc_sport_387.txt|.|2|.|bbc_sport_095.txt|.|2|.|bbc_sport_374.txt|.|4|.|bbc_sport_150.txt|.|2|.|bbc_sport_499.txt|.|5|.|bbc_sport_367.txt|.|4|.|bbc_sport_345.txt|.|1|.|bbc_sport_388.txt|.|2|.|bbc_sport_111.txt|.|4|.|bbc_sport_455.txt|.|3|.|bbc_sport_375.txt|.|6|.|bbc_sport_431.txt|.|3|.|bbc_sport_385.txt|.|2|.|bbc_sport_194.txt|.|2|.|bbc_sport_169.txt|.|3|.|bbc_sport_358.txt|.|2|.|bbc_sport_159.txt|.|4|.|bbc_sport_261.txt|.|2|.|bbc_sport_205.txt|.|4|.|bbc_sport_400.txt|.|4|.|bbc_sport_469.txt|.|5
+no|.|bbc_sport_169.txt|.|2
+carling|.|bbc_sport_174.txt|.|3|.|bbc_sport_169.txt|.|3|.|bbc_sport_197.txt|.|2|.|bbc_sport_111.txt|.|3
+grand slams|.|bbc_sport_500.txt|.|1
+dominik|.|bbc_sport_455.txt|.|2
+davis cup tie|.|bbc_sport_431.txt|.|2
+robertson|.|bbc_sport_267.txt|.|4
+cup tie|.|bbc_sport_431.txt|.|2|.|bbc_sport_197.txt|.|2
+alive|.|bbc_sport_472.txt|.|2
+year in top|.|bbc_sport_499.txt|.|1
+slams|.|bbc_sport_500.txt|.|1|.|bbc_sport_458.txt|.|2
+robredo|.|bbc_sport_466.txt|.|2
+cup tennis|.|bbc_sport_449.txt|.|2
+goodison park|.|bbc_sport_095.txt|.|2
+misses|.|bbc_sport_174.txt|.|1
+hopman cup final|.|bbc_sport_497.txt|.|1
+austrian|.|bbc_sport_485.txt|.|2
+uefa cup|.|bbc_sport_144.txt|.|2|.|bbc_sport_261.txt|.|2|.|bbc_sport_171.txt|.|2|.|bbc_sport_161.txt|.|2
+rest|.|bbc_sport_111.txt|.|3
+original|.|bbc_sport_131.txt|.|2
+charge|.|bbc_sport_161.txt|.|2
+ifa|.|bbc_sport_131.txt|.|2
+tommy|.|bbc_sport_208.txt|.|2|.|bbc_sport_466.txt|.|2
+british tennis|.|bbc_sport_449.txt|.|1
+riot|.|bbc_sport_197.txt|.|2
+control|.|bbc_sport_169.txt|.|2
+great britain|.|bbc_sport_500.txt|.|2|.|bbc_sport_370.txt|.|2
+bridge could miss rest|.|bbc_sport_111.txt|.|1
+meeting on wednesday|.|bbc_sport_131.txt|.|1
+singles|.|bbc_sport_431.txt|.|2|.|bbc_sport_466.txt|.|2|.|bbc_sport_455.txt|.|2
+singles place|.|bbc_sport_431.txt|.|2
+stages|.|bbc_sport_488.txt|.|1|.|bbc_sport_455.txt|.|2
+carling cup tie|.|bbc_sport_197.txt|.|2
+crawford registration|.|bbc_sport_131.txt|.|2
+jeremy|.|bbc_sport_500.txt|.|3
+crawford|.|bbc_sport_131.txt|.|2|.|bbc_sport_107.txt|.|6
+tigers|.|bbc_sport_391.txt|.|5|.|bbc_sport_398.txt|.|2
+group stages|.|bbc_sport_455.txt|.|2

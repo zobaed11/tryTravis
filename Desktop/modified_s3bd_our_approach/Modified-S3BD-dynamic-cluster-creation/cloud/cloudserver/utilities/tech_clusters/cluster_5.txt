@@ -1,0 +1,17 @@
+5
+pcs|.|316.txt|.|3|.|077.txt|.|2|.|096.txt|.|2|.|377.txt|.|2|.|108.txt|.|2
+viruses|.|077.txt|.|6|.|290.txt|.|3
+critical|.|060.txt|.|6|.|007.txt|.|6
+steal|.|077.txt|.|2
+patches|.|060.txt|.|2|.|007.txt|.|2
+journalists|.|324.txt|.|6|.|035.txt|.|3|.|044.txt|.|6
+releases|.|060.txt|.|2|.|007.txt|.|2
+worth|.|022.txt|.|2
+windows programs|.|060.txt|.|2|.|007.txt|.|2
+criminal use|.|077.txt|.|1
+pc users|.|060.txt|.|2|.|007.txt|.|2|.|301.txt|.|3
+thieves|.|077.txt|.|2
+fines|.|096.txt|.|2|.|377.txt|.|2
+flaws|.|007.txt|.|4
+california|.|096.txt|.|4|.|377.txt|.|4
+programs|.|077.txt|.|8|.|096.txt|.|4|.|377.txt|.|4|.|060.txt|.|4|.|007.txt|.|4|.|241.txt|.|2

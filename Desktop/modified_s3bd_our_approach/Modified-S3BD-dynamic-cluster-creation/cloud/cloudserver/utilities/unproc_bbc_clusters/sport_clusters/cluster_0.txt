@@ -1,0 +1,91 @@
+0
+powered|.|bbc_sport_246.txt|.|1
+powered header|.|bbc_sport_246.txt|.|1
+need to look|.|bbc_sport_389.txt|.|2
+jose mourinho|.|bbc_sport_280.txt|.|2
+soderling|.|bbc_sport_505.txt|.|4
+ljungberg|.|bbc_sport_163.txt|.|6
+poll|.|bbc_sport_248.txt|.|4
+chelsea boss|.|bbc_sport_280.txt|.|2
+put|.|bbc_sport_246.txt|.|3|.|bbc_sport_460.txt|.|2
+butragueno|.|bbc_sport_154.txt|.|2
+late|.|bbc_sport_157.txt|.|2|.|bbc_sport_278.txt|.|2
+stadium|.|bbc_sport_245.txt|.|4|.|bbc_sport_196.txt|.|2|.|bbc_sport_317.txt|.|2|.|bbc_sport_143.txt|.|3
+cragg|.|bbc_sport_062.txt|.|3
+rusedski was forced|.|bbc_sport_506.txt|.|1
+toure|.|bbc_sport_157.txt|.|2
+england defender|.|bbc_sport_268.txt|.|2
+tennis star|.|bbc_sport_443.txt|.|2
+reyes|.|bbc_sport_154.txt|.|3
+van|.|bbc_sport_096.txt|.|5|.|bbc_sport_294.txt|.|4|.|bbc_sport_382.txt|.|2|.|bbc_sport_376.txt|.|3|.|bbc_sport_178.txt|.|3|.|bbc_sport_043.txt|.|2
+food fight|.|bbc_sport_235.txt|.|2
+johansson|.|bbc_sport_498.txt|.|3|.|bbc_sport_444.txt|.|2|.|bbc_sport_220.txt|.|2|.|bbc_sport_453.txt|.|5
+work|.|bbc_sport_511.txt|.|2|.|bbc_sport_031.txt|.|1|.|bbc_sport_309.txt|.|4
+linking|.|bbc_sport_154.txt|.|3
+keeper|.|bbc_sport_173.txt|.|2|.|bbc_sport_242.txt|.|2
+wenger|.|bbc_sport_227.txt|.|6|.|bbc_sport_235.txt|.|11|.|bbc_sport_196.txt|.|5|.|bbc_sport_157.txt|.|5|.|bbc_sport_143.txt|.|2|.|bbc_sport_281.txt|.|4|.|bbc_sport_201.txt|.|3|.|bbc_sport_242.txt|.|7
+lose|.|bbc_sport_263.txt|.|1|.|bbc_sport_452.txt|.|1
+signed|.|bbc_sport_186.txt|.|1|.|bbc_sport_185.txt|.|2|.|bbc_sport_196.txt|.|2
+healey|.|bbc_sport_391.txt|.|10
+quinn|.|bbc_sport_163.txt|.|2
+football association|.|bbc_sport_208.txt|.|2|.|bbc_sport_235.txt|.|2
+betsen|.|bbc_sport_306.txt|.|5
+saulnier in final|.|bbc_sport_511.txt|.|1
+agree|.|bbc_sport_262.txt|.|1
+steps|.|bbc_sport_235.txt|.|1
+record by clocking|.|bbc_sport_060.txt|.|2
+serge betsen|.|bbc_sport_306.txt|.|2
+fixture|.|bbc_sport_277.txt|.|4|.|bbc_sport_099.txt|.|1
+burnley|.|bbc_sport_179.txt|.|8
+appointing tommy|.|bbc_sport_208.txt|.|1
+right man|.|bbc_sport_228.txt|.|1
+edu|.|bbc_sport_198.txt|.|4|.|bbc_sport_211.txt|.|8
+warned|.|bbc_sport_340.txt|.|1|.|bbc_sport_194.txt|.|1
+arsene|.|bbc_sport_198.txt|.|1|.|bbc_sport_143.txt|.|2|.|bbc_sport_201.txt|.|1|.|bbc_sport_242.txt|.|1
+header|.|bbc_sport_106.txt|.|4|.|bbc_sport_246.txt|.|4|.|bbc_sport_105.txt|.|3
+serge|.|bbc_sport_306.txt|.|4
+distributing steroids|.|bbc_sport_091.txt|.|1
+arsenal manager|.|bbc_sport_196.txt|.|1|.|bbc_sport_157.txt|.|1|.|bbc_sport_281.txt|.|1
+patients with severe|.|acne.txt|.|3
+missed tests|.|bbc_sport_016.txt|.|1|.|bbc_sport_033.txt|.|1
+eaa|.|bbc_sport_027.txt|.|2
+said benitez|.|bbc_sport_155.txt|.|2
+fulham|.|bbc_sport_252.txt|.|2|.|bbc_sport_127.txt|.|2|.|bbc_sport_281.txt|.|3|.|bbc_sport_255.txt|.|2
+germany|.|bbc_sport_194.txt|.|2
+spanish football|.|bbc_sport_170.txt|.|2
+association|.|bbc_sport_208.txt|.|2|.|bbc_sport_235.txt|.|3|.|bbc_sport_493.txt|.|2
+bayern|.|bbc_sport_157.txt|.|3|.|bbc_sport_237.txt|.|3|.|bbc_sport_136.txt|.|2
+fuller|.|bbc_sport_268.txt|.|6
+keeping faith|.|bbc_sport_227.txt|.|1
+sivabaek|.|bbc_sport_193.txt|.|2
+birmingham|.|bbc_sport_187.txt|.|2|.|bbc_sport_029.txt|.|3|.|bbc_sport_273.txt|.|4|.|bbc_sport_032.txt|.|2|.|bbc_sport_006.txt|.|2
+vieira|.|bbc_sport_137.txt|.|7|.|bbc_sport_268.txt|.|3|.|bbc_sport_163.txt|.|2
+believes|.|bbc_sport_347.txt|.|2|.|bbc_sport_209.txt|.|2|.|bbc_sport_352.txt|.|2|.|bbc_sport_327.txt|.|2|.|bbc_sport_349.txt|.|2
+vignal|.|bbc_sport_146.txt|.|4
+aurelien rougerie|.|bbc_sport_287.txt|.|2
+jacques|.|bbc_sport_202.txt|.|3
+track|.|bbc_sport_084.txt|.|2|.|bbc_sport_052.txt|.|2
+norwich|.|bbc_sport_186.txt|.|3|.|bbc_sport_220.txt|.|2|.|bbc_sport_063.txt|.|2|.|bbc_sport_176.txt|.|3
+bramble headed|.|bbc_sport_269.txt|.|2
+mcgee|.|bbc_sport_324.txt|.|2
+ashley|.|bbc_sport_125.txt|.|2
+rhys|.|bbc_sport_325.txt|.|2
+rhys jones|.|bbc_sport_325.txt|.|2
+tonge|.|bbc_sport_163.txt|.|4
+assistant|.|bbc_sport_208.txt|.|4|.|bbc_sport_166.txt|.|2|.|bbc_sport_244.txt|.|1|.|bbc_sport_482.txt|.|2
+premier|.|bbc_sport_125.txt|.|5
+put arsenal|.|bbc_sport_246.txt|.|2
+exeter|.|bbc_sport_240.txt|.|5
+pearce is keen|.|bbc_sport_244.txt|.|1
+people|.|bbc_sport_245.txt|.|2|.|bbc_sport_154.txt|.|2|.|bbc_sport_119.txt|.|2
+mandic|.|bbc_sport_127.txt|.|2
+stay|.|bbc_sport_274.txt|.|4|.|bbc_sport_196.txt|.|3|.|bbc_sport_297.txt|.|2
+lots|.|bbc_sport_059.txt|.|1
+henry|.|bbc_sport_271.txt|.|4|.|bbc_sport_200.txt|.|4|.|bbc_sport_281.txt|.|2
+chelsea boss jose mourinho|.|bbc_sport_280.txt|.|2
+stepanek|.|bbc_sport_505.txt|.|2
+playing regularly|.|bbc_sport_194.txt|.|2
+kiplagat|.|bbc_sport_013.txt|.|1
+easton|.|bbc_sport_109.txt|.|4
+uefa|.|bbc_sport_145.txt|.|2|.|bbc_sport_222.txt|.|2|.|bbc_sport_144.txt|.|2|.|bbc_sport_261.txt|.|2|.|bbc_sport_171.txt|.|2|.|bbc_sport_204.txt|.|7|.|bbc_sport_161.txt|.|2
+defender|.|bbc_sport_185.txt|.|2|.|bbc_sport_158.txt|.|2|.|bbc_sport_268.txt|.|2

@@ -1,0 +1,38 @@
+267
+bachillerato|.|WET671.txt|.|34
+managers coaches general|.|WET4693.txt|.|10
+needed|.|WET6007.txt|.|90|.|WET2269.txt|.|73|.|WET6008.txt|.|119
+admin|.|WET6097.txt|.|24|.|WET4896.txt|.|405
+feb mar|.|WET1209.txt|.|4
+clyro|.|WET2344.txt|.|19
+speed|.|WET6064.txt|.|105|.|WET2726.txt|.|96|.|WET2022.txt|.|221|.|WET2312.txt|.|48|.|WET5763.txt|.|356
+auction|.|WET5258.txt|.|40|.|WET555.txt|.|4|.|WET3302.txt|.|31|.|WET530.txt|.|3|.|WET200.txt|.|75|.|WET3303.txt|.|34|.|WET1483.txt|.|9|.|WET4299.txt|.|8|.|WET2101.txt|.|37
+amoeba music|.|WET4916.txt|.|15
+apple|.|WET2294.txt|.|32|.|WET407.txt|.|71|.|WET1171.txt|.|89|.|WET4919.txt|.|145|.|WET4147.txt|.|101|.|WET1600.txt|.|42|.|WET414.txt|.|135|.|WET1602.txt|.|46|.|WET45.txt|.|73|.|WET1400.txt|.|14|.|WET2295.txt|.|69|.|WET2614.txt|.|36|.|WET4155.txt|.|259|.|WET1895.txt|.|52
+admit|.|WET821.txt|.|569
+interest|.|WET9.txt|.|4|.|WET6063.txt|.|95|.|WET2323.txt|.|41|.|WET6064.txt|.|30
+favoritessharemy stationslisten historyadd|.|WET2066.txt|.|7|.|WET5807.txt|.|9
+supplies from ioc|.|WET3270.txt|.|15
+masn|.|WET6060.txt|.|147|.|WET2319.txt|.|232
+bath|.|WET6086.txt|.|24|.|WET5012.txt|.|37|.|WET1569.txt|.|46|.|WET2068.txt|.|76|.|WET2343.txt|.|24|.|WET3194.txt|.|52
+mask|.|WET5726.txt|.|8|.|WET3002.txt|.|9
+custom print|.|WET2721.txt|.|36
+apply|.|WET2080.txt|.|33|.|WET1120.txt|.|373|.|WET3014.txt|.|82|.|WET3165.txt|.|34|.|WET2631.txt|.|3
+mars|.|WET2953.txt|.|65|.|WET5013.txt|.|116
+pentel arts|.|WET2627.txt|.|40
+mary|.|WET546.txt|.|25|.|WET3606.txt|.|17|.|WET2315.txt|.|46
+online discussion|.|WET5206.txt|.|19
+bars|.|WET1478.txt|.|55|.|WET5230.txt|.|30
+pour ce|.|WET4134.txt|.|133
+bass|.|WET6172.txt|.|116|.|WET2694.txt|.|25|.|WET5190.txt|.|491|.|WET2430.txt|.|155
+korea|.|WET61.txt|.|19
+discountsparty|.|WET1628.txt|.|10
+sutta|.|WET5385.txt|.|73
+questions tags|.|WET45.txt|.|14
+mapa|.|WET2087.txt|.|124
+marc|.|WET1098.txt|.|11
+postcard style|.|WET5238.txt|.|78
+relational|.|WET6300.txt|.|1
+reference weather glossary|.|WET3260.txt|.|20
+kiowa county|.|WET5922.txt|.|32
+tmz live|.|WET3113.txt|.|52

@@ -1,0 +1,120 @@
+connection model
+allowed traffic
+terminal user
+firewall performance
+packet filtering
+polling and http
+artificial intelligence
+permanent connection
+connection reuse
+connection oriented
+connection
+protocol operation
+tcp control block interdependence
+conversion between pc
+leasequery protocol
+logger protcol
+no testing
+mailbox protocol
+reason code
+arpa network protocol
+negotiation
+bfcp september
+sent on link
+message allocation
+sets of parameters
+axfr client
+reuse june
+key manager
+almesberger
+burchfiel and tomlinson
+atm connection
+sivachelvan informational
+stapp standards
+ip over hippi
+rcs command
+both
+connected mode
+measurement notes
+system call
+tear
+turn tcp
+network connections
+bundle head
+latch
+byte size
+connection option
+broken
+memory address
+side
+receive socket
+incoming call
+scenarios march
+job
+send socket
+caviglia
+protocol allows
+turn server
+ftp with tls
+open a connection
+binding data
+arpanet site
+operation complete
+multi line
+request for connection
+output from the job
+user ncp
+tip and tenex
+connection teardown
+mptcp threat
+sent to link
+bulk leasequery
+establish bfcp
+proposed by burchfiel
+hippi january
+management message
+requesting applications
+concurrent connections
+batch processing
+milk
+output retrieval
+latching to ipsec
+jdb bpc rst
+operation failure
+broken state
+firewall performance terminology
+burchfiel
+local memory address
+send a request
+icp committee
+latching october
+attached areas
+proposal feb
+endstation
+protocol notes
+tomlinson
+tcp november
+ipsec connection
+pending
+line controller
+atm adaptation layer
+backbone area
+tcp control
+tcp control block
+benchmarking february
+tls connection
+watching
+beau
+current icp
+shared across connection
+opportunistic
+connection descriptor
+connection status
+hijacking attacks
+job output
+leasequery data
+wait for connection
+enwich
+bits of data
+control block interdependence
+backbone connection

@@ -1,0 +1,91 @@
+25
+tv|.|bbc_sport_283.txt|.|2
+heroics|.|bbc_sport_303.txt|.|1
+tested|.|bbc_sport_448.txt|.|4
+jaslyn|.|bbc_sport_498.txt|.|2
+deportivo|.|bbc_sport_223.txt|.|2
+faster|.|bbc_sport_487.txt|.|6
+safin said|.|bbc_sport_489.txt|.|2|.|bbc_sport_490.txt|.|2
+sports minister|.|bbc_sport_448.txt|.|2
+ruled|.|bbc_sport_103.txt|.|2
+than|.|bbc_sport_427.txt|.|2|.|bbc_sport_172.txt|.|1
+late goal|.|bbc_sport_157.txt|.|2
+retirement on hold|.|bbc_sport_460.txt|.|2
+jones was happy|.|bbc_sport_303.txt|.|1
+belgian authorities|.|bbc_sport_448.txt|.|2
+contract|.|bbc_sport_264.txt|.|2|.|bbc_sport_390.txt|.|3|.|bbc_sport_232.txt|.|5|.|bbc_sport_392.txt|.|2|.|bbc_sport_211.txt|.|1|.|bbc_sport_196.txt|.|5|.|bbc_sport_297.txt|.|2|.|bbc_sport_230.txt|.|2|.|bbc_sport_393.txt|.|2|.|bbc_sport_206.txt|.|2|.|bbc_sport_098.txt|.|3|.|bbc_sport_361.txt|.|3
+feeling|.|bbc_sport_475.txt|.|2
+claims ferguson|.|bbc_sport_235.txt|.|1
+amoruso|.|bbc_sport_213.txt|.|1
+footballing|.|bbc_sport_222.txt|.|1|.|bbc_sport_231.txt|.|1
+shane williams|.|bbc_sport_312.txt|.|5|.|bbc_sport_416.txt|.|5
+authorities|.|bbc_sport_448.txt|.|2
+wenger said|.|bbc_sport_227.txt|.|1|.|bbc_sport_157.txt|.|2
+duff has been ruled|.|bbc_sport_103.txt|.|1
+explaining|.|bbc_sport_248.txt|.|1
+european footballing|.|bbc_sport_222.txt|.|1
+indoor|.|bbc_sport_066.txt|.|3|.|bbc_sport_009.txt|.|6|.|bbc_sport_061.txt|.|4|.|bbc_sport_012.txt|.|2|.|bbc_sport_064.txt|.|4|.|bbc_sport_001.txt|.|1|.|bbc_sport_020.txt|.|2|.|bbc_sport_074.txt|.|3|.|bbc_sport_068.txt|.|3|.|bbc_sport_014.txt|.|2|.|bbc_sport_055.txt|.|1|.|bbc_sport_018.txt|.|5|.|bbc_sport_070.txt|.|3|.|bbc_sport_005.txt|.|2|.|bbc_sport_060.txt|.|4|.|bbc_sport_032.txt|.|4|.|bbc_sport_069.txt|.|6|.|bbc_sport_086.txt|.|2|.|bbc_sport_071.txt|.|3
+monfils|.|bbc_sport_463.txt|.|3
+selling|.|bbc_sport_044.txt|.|2
+frederic|.|bbc_sport_287.txt|.|2
+hartson|.|bbc_sport_146.txt|.|7
+henson heroics|.|bbc_sport_303.txt|.|1
+andre|.|bbc_sport_427.txt|.|2|.|bbc_sport_509.txt|.|2
+national team|.|bbc_sport_100.txt|.|2
+joining|.|bbc_sport_138.txt|.|1
+racing|.|bbc_sport_022.txt|.|1|.|bbc_sport_031.txt|.|1
+move to birmingham|.|bbc_sport_187.txt|.|2
+south|.|bbc_sport_377.txt|.|8|.|bbc_sport_369.txt|.|5|.|bbc_sport_190.txt|.|3
+belgian sports|.|bbc_sport_448.txt|.|2
+indian woman|.|bbc_sport_447.txt|.|3
+james|.|bbc_sport_060.txt|.|2|.|bbc_sport_139.txt|.|12|.|bbc_sport_097.txt|.|3
+north|.|bbc_sport_402.txt|.|1
+said souness|.|bbc_sport_138.txt|.|2
+martinez|.|bbc_sport_504.txt|.|3|.|bbc_sport_439.txt|.|2|.|bbc_sport_440.txt|.|4
+range|.|bbc_sport_303.txt|.|1
+srichaphan|.|bbc_sport_451.txt|.|2
+iaaf said|.|bbc_sport_033.txt|.|2
+martin allen|.|bbc_sport_180.txt|.|1
+police in riot|.|bbc_sport_197.txt|.|2
+castaignede|.|bbc_sport_340.txt|.|8
+poll said|.|bbc_sport_248.txt|.|1
+jones said|.|bbc_sport_303.txt|.|2
+horan|.|bbc_sport_378.txt|.|2
+tested positive|.|bbc_sport_448.txt|.|2
+saying|.|bbc_sport_409.txt|.|1|.|bbc_sport_307.txt|.|1|.|bbc_sport_337.txt|.|1
+rosenborg|.|bbc_sport_227.txt|.|3
+said mcclaren|.|bbc_sport_222.txt|.|2
+slotted|.|bbc_sport_407.txt|.|1
+dispute|.|bbc_sport_365.txt|.|2
+league one leaders|.|bbc_sport_205.txt|.|1
+agency|.|bbc_sport_448.txt|.|2
+number one jimmy|.|bbc_sport_464.txt|.|1
+moore said|.|bbc_sport_008.txt|.|2
+forward pass|.|bbc_sport_407.txt|.|2
+eerdekens said|.|bbc_sport_448.txt|.|3
+spent|.|bbc_sport_265.txt|.|1
+spirit|.|bbc_sport_222.txt|.|2
+liverpool boss|.|bbc_sport_155.txt|.|2
+makes|.|bbc_sport_442.txt|.|1
+prodigy|.|bbc_sport_463.txt|.|2
+continued|.|bbc_sport_429.txt|.|2
+bramble|.|bbc_sport_269.txt|.|4
+counter|.|bbc_sport_223.txt|.|1
+join celtic|.|bbc_sport_138.txt|.|1
+competes|.|bbc_sport_073.txt|.|1
+lead|.|bbc_sport_377.txt|.|7|.|bbc_sport_331.txt|.|2
+home international|.|bbc_sport_099.txt|.|2
+confirm|.|bbc_sport_124.txt|.|1
+white said|.|bbc_sport_044.txt|.|4
+sprinting and the long jump|.|bbc_sport_008.txt|.|1
+bryson|.|bbc_sport_108.txt|.|4
+goldfine|.|bbc_sport_482.txt|.|5
+long jump|.|bbc_sport_056.txt|.|3
+world title|.|bbc_sport_003.txt|.|2
+spectator|.|bbc_sport_372.txt|.|2
+ended|.|bbc_sport_434.txt|.|1
+behaviour|.|bbc_sport_234.txt|.|3
+london marathon|.|bbc_sport_072.txt|.|3
+public scrutiny|.|bbc_sport_040.txt|.|2
+beat england|.|bbc_sport_286.txt|.|2
+apology|.|bbc_sport_100.txt|.|5

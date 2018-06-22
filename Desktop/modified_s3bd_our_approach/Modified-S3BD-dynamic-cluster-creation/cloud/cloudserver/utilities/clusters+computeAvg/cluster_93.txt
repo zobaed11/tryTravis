@@ -1,0 +1,38 @@
+93
+heat|.|WET1243.txt|.|21|.|WET4428.txt|.|13
+allergies|.|WET4055.txt|.|43|.|WET24.txt|.|120|.|WET5738.txt|.|11
+adalah|.|WET3490.txt|.|70
+steel|.|WET2994.txt|.|43|.|WET5477.txt|.|34|.|WET5911.txt|.|42
+mobile dgcr|.|WET5384.txt|.|10
+volleyball water|.|WET3171.txt|.|22
+tenofovir|.|WET4286.txt|.|112
+beacon journal newslibrary|.|WET2540.txt|.|54
+functional medicine|.|WET4055.txt|.|30
+discussions|.|WET5618.txt|.|26|.|WET3280.txt|.|7|.|WET6130.txt|.|196
+food allergies|.|WET4055.txt|.|25
+advertising|.|WET5145.txt|.|10|.|WET5183.txt|.|12|.|WET2057.txt|.|33|.|WET4955.txt|.|8|.|WET5396.txt|.|11|.|WET4950.txt|.|6|.|WET2485.txt|.|11|.|WET2058.txt|.|18|.|WET5163.txt|.|11|.|WET624.txt|.|7|.|WET5014.txt|.|25|.|WET4731.txt|.|10|.|WET3146.txt|.|11|.|WET6053.txt|.|8|.|WET5088.txt|.|22|.|WET131.txt|.|21|.|WET6223.txt|.|16|.|WET1262.txt|.|34|.|WET3291.txt|.|10|.|WET5015.txt|.|29|.|WET4180.txt|.|9|.|WET1166.txt|.|33|.|WET2492.txt|.|12|.|WET1263.txt|.|29|.|WET6052.txt|.|22|.|WET3599.txt|.|15|.|WET4902.txt|.|10|.|WET2488.txt|.|7|.|WET2590.txt|.|10
+add note|.|WET706.txt|.|230
+elvin|.|WET5148.txt|.|26
+linux|.|WET2256.txt|.|87|.|WET5993.txt|.|70|.|WET568.txt|.|49|.|WET5995.txt|.|99|.|WET4333.txt|.|67|.|WET590.txt|.|54|.|WET997.txt|.|55
+zil|.|WET1456.txt|.|45
+morrison|.|WET5148.txt|.|26
+granda|.|WET330.txt|.|28
+warenkorb|.|WET1181.txt|.|17
+fail blog|.|WET4106.txt|.|74|.|WET362.txt|.|74
+wits|.|WET941.txt|.|3|.|WET1889.txt|.|2|.|WET745.txt|.|2
+premium cigars|.|WET5148.txt|.|5
+february|.|WET131.txt|.|157|.|WET941.txt|.|227|.|WET3762.txt|.|32|.|WET3870.txt|.|31|.|WET4319.txt|.|41|.|WET4705.txt|.|37|.|WET927.txt|.|92|.|WET3861.txt|.|71|.|WET4411.txt|.|54|.|WET810.txt|.|53|.|WET827.txt|.|35|.|WET669.txt|.|26|.|WET118.txt|.|41|.|WET4289.txt|.|30|.|WET105.txt|.|35|.|WET3876.txt|.|34|.|WET4055.txt|.|63|.|WET530.txt|.|44|.|WET5148.txt|.|119|.|WET4428.txt|.|206|.|WET4391.txt|.|36
+sandi|.|WET806.txt|.|95
+grande|.|WET509.txt|.|52
+eminent|.|WET3813.txt|.|8
+elvin morrison|.|WET5148.txt|.|19
+doors|.|WET5934.txt|.|24
+fail|.|WET4106.txt|.|153|.|WET4530.txt|.|100|.|WET362.txt|.|156
+wines|.|WET6197.txt|.|215
+low loss|.|WET941.txt|.|4
+theater system|.|WET3576.txt|.|66
+engagement rings|.|WET1898.txt|.|466|.|WET5636.txt|.|359|.|WET5635.txt|.|504
+removal|.|WET5027.txt|.|28|.|WET6166.txt|.|45
+coal|.|WET4428.txt|.|28
+advanced search|.|WET2724.txt|.|14|.|WET1759.txt|.|4|.|WET3340.txt|.|22|.|WET2288.txt|.|11|.|WET143.txt|.|14|.|WET226.txt|.|7|.|WET5846.txt|.|9|.|WET6027.txt|.|9|.|WET2951.txt|.|13|.|WET3339.txt|.|38|.|WET5038.txt|.|3|.|WET177.txt|.|15|.|WET2311.txt|.|7|.|WET1034.txt|.|16
+vital|.|WET4966.txt|.|31|.|WET3255.txt|.|68

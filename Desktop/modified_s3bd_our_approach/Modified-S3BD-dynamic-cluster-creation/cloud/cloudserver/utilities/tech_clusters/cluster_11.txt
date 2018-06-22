@@ -1,0 +1,17 @@
+11
+guinness book|.|253.txt|.|2
+test|.|053.txt|.|3|.|173.txt|.|3
+high speed|.|335.txt|.|2|.|032.txt|.|3|.|253.txt|.|2
+humanoid robot|.|246.txt|.|2|.|356.txt|.|2
+supercomputing|.|141.txt|.|2|.|173.txt|.|3
+lifts|.|253.txt|.|11
+speed|.|335.txt|.|2|.|129.txt|.|1|.|032.txt|.|3|.|175.txt|.|1|.|173.txt|.|6|.|253.txt|.|6
+lasers|.|023.txt|.|6
+take|.|140.txt|.|3|.|253.txt|.|2
+mms|.|265.txt|.|6
+blue|.|141.txt|.|5|.|173.txt|.|9
+laboratory|.|141.txt|.|2|.|173.txt|.|2
+machine|.|141.txt|.|4|.|173.txt|.|8
+record|.|287.txt|.|2|.|152.txt|.|1|.|070.txt|.|3|.|372.txt|.|2|.|253.txt|.|4
+wants|.|276.txt|.|3
+earth simulator|.|141.txt|.|2|.|173.txt|.|2

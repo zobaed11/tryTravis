@@ -1,0 +1,64 @@
+slum|.|bbc_politics_024.txt|.|1
+financial year|.|bbc_politics_158.txt|.|2
+sporting goods companies|.|bbc_business_373.txt|.|2
+smile on voters|.|bbc_politics_360.txt|.|1
+smile|.|bbc_politics_360.txt|.|1
+mccormack|.|bbc_sport_379.txt|.|4
+air china|.|bbc_business_269.txt|.|7
+brown has visited|.|bbc_politics_024.txt|.|1
+colonial|.|bbc_politics_392.txt|.|2
+defensive|.|bbc_sport_123.txt|.|2
+downing|.|bbc_politics_306.txt|.|2|.|bbc_sport_145.txt|.|2|.|bbc_politics_196.txt|.|1|.|bbc_politics_328.txt|.|3|.|bbc_politics_327.txt|.|2|.|bbc_politics_406.txt|.|2|.|bbc_politics_324.txt|.|4|.|bbc_politics_297.txt|.|1
+petrochemicals|.|bbc_business_379.txt|.|3
+prince saud|.|bbc_business_043.txt|.|2
+subsidised propaganda|.|bbc_politics_383.txt|.|2|.|bbc_politics_082.txt|.|2
+johansson|.|bbc_sport_498.txt|.|3|.|bbc_sport_444.txt|.|2|.|bbc_sport_220.txt|.|2|.|bbc_sport_453.txt|.|5
+brown calls|.|bbc_politics_366.txt|.|1
+embezzlement|.|bbc_business_338.txt|.|2
+prosperity means|.|bbc_politics_099.txt|.|1
+announced|.|bbc_sport_367.txt|.|1|.|bbc_tech_084.txt|.|2|.|bbc_entertainment_075.txt|.|2|.|bbc_politics_029.txt|.|2|.|bbc_business_049.txt|.|1|.|bbc_politics_001.txt|.|2|.|bbc_entertainment_287.txt|.|2|.|bbc_business_460.txt|.|2|.|bbc_politics_394.txt|.|1|.|bbc_politics_354.txt|.|2|.|bbc_politics_397.txt|.|1|.|bbc_tech_088.txt|.|2|.|bbc_politics_077.txt|.|2|.|bbc_tech_345.txt|.|2|.|bbc_politics_017.txt|.|1
+welcomed|.|bbc_politics_139.txt|.|2|.|bbc_tech_300.txt|.|1|.|bbc_politics_307.txt|.|1
+chancellor|.|bbc_politics_349.txt|.|5|.|bbc_business_154.txt|.|3|.|bbc_politics_385.txt|.|2|.|bbc_politics_128.txt|.|4|.|bbc_politics_366.txt|.|2|.|bbc_politics_225.txt|.|6|.|bbc_politics_158.txt|.|2|.|bbc_politics_118.txt|.|3|.|bbc_politics_024.txt|.|2|.|bbc_politics_211.txt|.|6|.|bbc_politics_260.txt|.|4|.|bbc_politics_273.txt|.|6|.|bbc_politics_394.txt|.|1|.|bbc_politics_354.txt|.|4|.|bbc_politics_119.txt|.|1|.|bbc_politics_077.txt|.|3|.|bbc_politics_406.txt|.|8|.|bbc_politics_175.txt|.|5|.|bbc_politics_389.txt|.|4
+stability and growth|.|bbc_politics_389.txt|.|2
+versions|.|bbc_tech_053.txt|.|1
+two of them held|.|bbc_politics_144.txt|.|1
+arsene|.|bbc_sport_198.txt|.|1|.|bbc_sport_143.txt|.|2|.|bbc_sport_201.txt|.|1|.|bbc_sport_242.txt|.|1
+campaign|.|bbc_politics_306.txt|.|5|.|bbc_politics_272.txt|.|3|.|bbc_politics_264.txt|.|3|.|bbc_politics_395.txt|.|6|.|bbc_politics_009.txt|.|3|.|bbc_tech_147.txt|.|5|.|bbc_politics_200.txt|.|9|.|bbc_politics_375.txt|.|2|.|bbc_politics_260.txt|.|3|.|bbc_tech_091.txt|.|2|.|bbc_politics_305.txt|.|7|.|bbc_politics_038.txt|.|3|.|bbc_tech_123.txt|.|5|.|bbc_politics_402.txt|.|4|.|bbc_politics_415.txt|.|7|.|bbc_politics_007.txt|.|1|.|bbc_politics_011.txt|.|4|.|bbc_tech_255.txt|.|3|.|bbc_politics_304.txt|.|4|.|bbc_tech_078.txt|.|2|.|bbc_politics_332.txt|.|3|.|bbc_politics_351.txt|.|1|.|bbc_politics_394.txt|.|3|.|bbc_tech_214.txt|.|8|.|bbc_tech_159.txt|.|5|.|bbc_politics_346.txt|.|4|.|bbc_entertainment_266.txt|.|2
+us wine|.|bbc_business_321.txt|.|3
+vaccination|.|bbc_politics_385.txt|.|1
+broadcast|.|bbc_business_367.txt|.|1
+spain|.|bbc_business_341.txt|.|1|.|bbc_sport_499.txt|.|2|.|bbc_sport_142.txt|.|2|.|bbc_sport_078.txt|.|2|.|bbc_sport_216.txt|.|6
+regions|.|bbc_business_502.txt|.|2
+missed tests|.|bbc_sport_016.txt|.|1|.|bbc_sport_033.txt|.|1
+donations|.|bbc_tech_097.txt|.|10|.|bbc_politics_298.txt|.|7|.|bbc_politics_059.txt|.|7|.|bbc_politics_322.txt|.|7
+tobacco factories|.|bbc_business_437.txt|.|4
+hoped|.|bbc_sport_249.txt|.|1|.|bbc_business_156.txt|.|1|.|bbc_politics_206.txt|.|1
+pascal|.|bbc_sport_344.txt|.|2|.|bbc_sport_332.txt|.|2
+powys health|.|bbc_politics_170.txt|.|2
+substitute|.|bbc_sport_384.txt|.|2
+private housing|.|bbc_business_239.txt|.|3
+robin|.|bbc_politics_276.txt|.|2|.|bbc_sport_178.txt|.|2
+visits|.|bbc_politics_024.txt|.|1
+donor|.|bbc_politics_127.txt|.|2|.|bbc_politics_276.txt|.|2
+robin cook|.|bbc_politics_276.txt|.|2
+prof reddy|.|bbc_tech_199.txt|.|7
+metatarsal|.|bbc_sport_114.txt|.|4
+duty would be frozen|.|bbc_politics_158.txt|.|1
+chancellor said|.|bbc_politics_128.txt|.|2|.|bbc_politics_175.txt|.|2|.|bbc_politics_389.txt|.|2
+parliamentary|.|bbc_tech_001.txt|.|3|.|bbc_politics_257.txt|.|3
+wants|.|bbc_sport_103.txt|.|1|.|bbc_politics_024.txt|.|2|.|bbc_entertainment_032.txt|.|1|.|bbc_sport_195.txt|.|3|.|bbc_entertainment_290.txt|.|1|.|bbc_business_368.txt|.|3|.|bbc_sport_482.txt|.|4|.|bbc_tech_276.txt|.|3
+prosperity|.|bbc_politics_099.txt|.|5
+hopes|.|bbc_business_327.txt|.|2|.|bbc_entertainment_106.txt|.|1|.|bbc_tech_189.txt|.|2|.|bbc_sport_490.txt|.|1|.|bbc_sport_493.txt|.|2|.|bbc_business_073.txt|.|3
+event|.|bbc_politics_062.txt|.|3|.|bbc_sport_034.txt|.|2|.|bbc_sport_447.txt|.|2|.|bbc_sport_025.txt|.|3|.|bbc_sport_502.txt|.|2|.|bbc_entertainment_322.txt|.|3|.|bbc_sport_474.txt|.|2|.|bbc_entertainment_267.txt|.|5
+buddy|.|bbc_entertainment_291.txt|.|2
+witnesses|.|bbc_politics_118.txt|.|5
+means|.|bbc_politics_349.txt|.|1|.|bbc_politics_099.txt|.|1
+parliamentary labour|.|bbc_politics_257.txt|.|3
+mr brown|.|bbc_politics_349.txt|.|2|.|bbc_politics_128.txt|.|7|.|bbc_politics_366.txt|.|6|.|bbc_politics_021.txt|.|4|.|bbc_politics_158.txt|.|2|.|bbc_politics_005.txt|.|3|.|bbc_politics_360.txt|.|4|.|bbc_politics_256.txt|.|7|.|bbc_politics_375.txt|.|9|.|bbc_politics_127.txt|.|4|.|bbc_politics_260.txt|.|6|.|bbc_politics_392.txt|.|4|.|bbc_business_106.txt|.|2|.|bbc_politics_356.txt|.|4|.|bbc_politics_276.txt|.|2|.|bbc_politics_251.txt|.|3|.|bbc_politics_077.txt|.|1|.|bbc_politics_095.txt|.|4|.|bbc_politics_406.txt|.|13|.|bbc_politics_365.txt|.|3|.|bbc_politics_255.txt|.|6|.|bbc_politics_017.txt|.|2|.|bbc_politics_099.txt|.|7|.|bbc_politics_175.txt|.|2|.|bbc_politics_402.txt|.|3|.|bbc_politics_361.txt|.|1|.|bbc_politics_253.txt|.|6|.|bbc_politics_385.txt|.|4|.|bbc_politics_274.txt|.|1|.|bbc_politics_024.txt|.|2|.|bbc_politics_355.txt|.|5|.|bbc_politics_354.txt|.|1|.|bbc_business_241.txt|.|4|.|bbc_politics_359.txt|.|3|.|bbc_politics_218.txt|.|6|.|bbc_politics_257.txt|.|10|.|bbc_politics_389.txt|.|4
+construction projects|.|bbc_business_282.txt|.|2
+vaccine|.|bbc_politics_385.txt|.|1
+visited|.|bbc_politics_024.txt|.|1
+sir digby|.|bbc_politics_359.txt|.|3|.|bbc_politics_005.txt|.|3
+vaccination and immunisation|.|bbc_politics_385.txt|.|1
+relief deal|.|bbc_politics_392.txt|.|2
+brown said|.|bbc_politics_392.txt|.|2|.|bbc_politics_366.txt|.|3|.|bbc_business_241.txt|.|4|.|bbc_politics_365.txt|.|2

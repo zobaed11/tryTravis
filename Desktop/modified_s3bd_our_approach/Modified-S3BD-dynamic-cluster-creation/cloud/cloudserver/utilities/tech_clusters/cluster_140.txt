@@ -1,0 +1,17 @@
+140
+british board|.|231.txt|.|2
+telewest|.|070.txt|.|5|.|280.txt|.|9
+video|.|251.txt|.|5|.|178.txt|.|2|.|130.txt|.|2|.|024.txt|.|2|.|076.txt|.|6|.|394.txt|.|4|.|183.txt|.|5|.|157.txt|.|5|.|070.txt|.|3|.|139.txt|.|6|.|280.txt|.|3|.|094.txt|.|3|.|386.txt|.|12|.|203.txt|.|2|.|276.txt|.|9|.|231.txt|.|4|.|222.txt|.|9|.|313.txt|.|3|.|205.txt|.|1|.|104.txt|.|2|.|182.txt|.|4|.|082.txt|.|2|.|216.txt|.|2|.|309.txt|.|5
+government officials|.|231.txt|.|2
+sign language|.|251.txt|.|4
+tripled|.|130.txt|.|1
+video mobile|.|386.txt|.|1
+campaigns|.|157.txt|.|3
+phone conversations|.|251.txt|.|2
+says radio|.|344.txt|.|1
+google video|.|076.txt|.|3
+parents know|.|231.txt|.|2
+know|.|085.txt|.|2|.|231.txt|.|2
+mobile gig|.|182.txt|.|1
+dating services|.|386.txt|.|3
+board|.|231.txt|.|2

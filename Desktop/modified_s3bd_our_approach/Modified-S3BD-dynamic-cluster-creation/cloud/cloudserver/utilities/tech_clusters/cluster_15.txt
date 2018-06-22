@@ -1,0 +1,17 @@
+15
+phone technology|.|103.txt|.|2|.|388.txt|.|2
+tabloid|.|208.txt|.|2
+megapixel images|.|103.txt|.|2|.|388.txt|.|2
+celebrities|.|208.txt|.|4
+megapixel|.|103.txt|.|2|.|388.txt|.|2
+newspapers|.|208.txt|.|2
+cameras|.|278.txt|.|2|.|103.txt|.|7|.|388.txt|.|7
+digital photo|.|278.txt|.|1
+digital camera|.|278.txt|.|2
+hard drives|.|278.txt|.|2
+immediacy|.|208.txt|.|3
+drives|.|278.txt|.|2
+collections|.|278.txt|.|2
+hots|.|278.txt|.|1
+catch|.|208.txt|.|3|.|077.txt|.|2
+mobile picture|.|208.txt|.|1

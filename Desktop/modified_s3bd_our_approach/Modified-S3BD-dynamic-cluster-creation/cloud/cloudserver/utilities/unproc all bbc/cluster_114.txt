@@ -1,0 +1,64 @@
+financial institutions|.|bbc_tech_164.txt|.|2
+united bank|.|bbc_business_473.txt|.|4
+sharon|.|bbc_business_423.txt|.|2
+rates are set|.|bbc_business_137.txt|.|1
+capital|.|bbc_business_126.txt|.|2
+bank account|.|bbc_business_330.txt|.|2
+islamic|.|bbc_business_147.txt|.|9
+fresh hope|.|bbc_business_330.txt|.|2
+replace|.|bbc_entertainment_231.txt|.|2|.|bbc_sport_350.txt|.|1|.|bbc_tech_194.txt|.|1|.|bbc_entertainment_197.txt|.|2
+riggs|.|bbc_business_187.txt|.|3
+previously frozen|.|bbc_business_301.txt|.|1
+hold|.|bbc_business_137.txt|.|3|.|bbc_sport_460.txt|.|2|.|bbc_business_438.txt|.|3|.|bbc_business_290.txt|.|3|.|bbc_business_151.txt|.|2|.|bbc_business_119.txt|.|3
+begins|.|bbc_business_506.txt|.|1
+bank|.|bbc_business_358.txt|.|8|.|bbc_entertainment_215.txt|.|4|.|bbc_business_184.txt|.|2|.|bbc_business_137.txt|.|5|.|bbc_business_396.txt|.|3|.|bbc_business_477.txt|.|7|.|bbc_tech_164.txt|.|8|.|bbc_business_506.txt|.|3|.|bbc_business_438.txt|.|6|.|bbc_entertainment_231.txt|.|2|.|bbc_tech_033.txt|.|3|.|bbc_business_023.txt|.|2|.|bbc_business_116.txt|.|1|.|bbc_business_185.txt|.|7|.|bbc_business_473.txt|.|7|.|bbc_business_083.txt|.|4|.|bbc_business_290.txt|.|7|.|bbc_business_119.txt|.|3|.|bbc_business_301.txt|.|2|.|bbc_business_498.txt|.|14|.|bbc_business_230.txt|.|3|.|bbc_entertainment_197.txt|.|3|.|bbc_business_423.txt|.|5|.|bbc_business_076.txt|.|5|.|bbc_business_122.txt|.|3|.|bbc_business_372.txt|.|1|.|bbc_business_084.txt|.|6|.|bbc_business_101.txt|.|6|.|bbc_business_032.txt|.|6|.|bbc_business_350.txt|.|2|.|bbc_business_507.txt|.|2|.|bbc_business_389.txt|.|6|.|bbc_business_492.txt|.|6|.|bbc_business_330.txt|.|3|.|bbc_business_147.txt|.|5|.|bbc_business_187.txt|.|7|.|bbc_business_085.txt|.|2|.|bbc_business_126.txt|.|8|.|bbc_business_297.txt|.|7|.|bbc_business_072.txt|.|4
+bank of mexico|.|bbc_business_084.txt|.|1
+nigerian banks|.|bbc_business_473.txt|.|2
+ras|.|bbc_entertainment_197.txt|.|2
+abn amro|.|bbc_business_297.txt|.|3
+mr fischer|.|bbc_business_423.txt|.|4
+citizens bank and canal|.|bbc_business_477.txt|.|2
+standard trust|.|bbc_business_473.txt|.|5
+institutions|.|bbc_tech_164.txt|.|2
+mitsubishi tokyo|.|bbc_business_032.txt|.|2
+concealing|.|bbc_business_187.txt|.|1
+columbia distributor|.|bbc_business_122.txt|.|2
+mutual|.|bbc_business_122.txt|.|4
+columbia|.|bbc_business_122.txt|.|4
+trillion yen|.|bbc_business_032.txt|.|2
+illegally concealed|.|bbc_business_187.txt|.|1
+senate|.|bbc_business_185.txt|.|3
+pinochet|.|bbc_business_187.txt|.|4
+madagascar has completed|.|bbc_business_372.txt|.|1
+ufj holdings|.|bbc_business_032.txt|.|2
+bank of america|.|bbc_business_185.txt|.|2|.|bbc_business_492.txt|.|2
+trading share|.|bbc_business_122.txt|.|1
+nigerian|.|bbc_business_473.txt|.|3
+suing|.|bbc_business_492.txt|.|2
+settlement|.|bbc_business_187.txt|.|4
+riggs bank|.|bbc_business_187.txt|.|2
+canal bank|.|bbc_business_477.txt|.|2
+settlements with the sec|.|bbc_business_122.txt|.|1
+real danger|.|bbc_tech_164.txt|.|2
+slavery links|.|bbc_business_477.txt|.|1
+banking units|.|bbc_business_147.txt|.|1
+barred|.|bbc_business_492.txt|.|2
+canal|.|bbc_business_477.txt|.|4
+concealed|.|bbc_business_187.txt|.|1
+japanese banking|.|bbc_business_032.txt|.|1
+regime|.|bbc_business_187.txt|.|2
+shameless|.|bbc_entertainment_215.txt|.|2
+abn|.|bbc_business_297.txt|.|4
+private investment|.|bbc_business_070.txt|.|2
+varley said|.|bbc_business_126.txt|.|2
+rates on hold|.|bbc_business_137.txt|.|1|.|bbc_business_151.txt|.|2|.|bbc_business_119.txt|.|3
+loan collateral|.|bbc_business_477.txt|.|1
+barred bank|.|bbc_business_492.txt|.|1
+biggest bank|.|bbc_business_473.txt|.|1|.|bbc_business_126.txt|.|1
+put up rates|.|bbc_business_137.txt|.|1
+standard trust bank|.|bbc_business_473.txt|.|1
+collateral|.|bbc_business_477.txt|.|2
+bank of australia|.|bbc_business_101.txt|.|2
+account|.|bbc_business_185.txt|.|3|.|bbc_business_330.txt|.|2|.|bbc_business_097.txt|.|3
+identity theft|.|bbc_business_185.txt|.|2
+customer|.|bbc_tech_164.txt|.|3

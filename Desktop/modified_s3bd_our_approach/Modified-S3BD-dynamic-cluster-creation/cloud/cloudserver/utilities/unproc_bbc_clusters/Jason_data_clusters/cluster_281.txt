@@ -1,0 +1,38 @@
+281
+boston|.|WET3901.txt|.|55|.|WET1355.txt|.|82|.|WET2024.txt|.|6|.|WET3895.txt|.|22
+us what make|.|WET1724.txt|.|30
+nashville|.|WET287.txt|.|29
+faculty association|.|WET814.txt|.|17
+photoslocal|.|WET3267.txt|.|20
+peaches|.|WET5660.txt|.|40
+browns|.|WET2540.txt|.|370|.|WET874.txt|.|87|.|WET5898.txt|.|5|.|WET4614.txt|.|103|.|WET5128.txt|.|102|.|WET1378.txt|.|51
+ein|.|WET594.txt|.|39|.|WET848.txt|.|514|.|WET2002.txt|.|28|.|WET4908.txt|.|27|.|WET4009.txt|.|13
+usage stack|.|WET4083.txt|.|23
+britannica|.|WET1370.txt|.|39
+efficient vehicle|.|WET5605.txt|.|14
+intellij idea|.|WET5870.txt|.|9
+taxon|.|WET2308.txt|.|24
+wikipedia|.|WET3465.txt|.|29|.|WET3559.txt|.|32|.|WET3542.txt|.|29|.|WET3497.txt|.|44|.|WET3471.txt|.|29
+free shortcake|.|WET3900.txt|.|6
+lq blog view|.|WET3660.txt|.|8
+lclow|.|WET5567.txt|.|73
+stars compare|.|WET2838.txt|.|20
+vacation packages|.|WET3727.txt|.|22
+foodie buzz|.|WET2561.txt|.|18
+mi yodeya|.|WET545.txt|.|38
+neck|.|WET5926.txt|.|29|.|WET6008.txt|.|34
+ground on fantastic|.|WET1394.txt|.|15
+labels weprint|.|WET4984.txt|.|4
+video courses|.|WET3629.txt|.|22
+planning|.|WET5982.txt|.|8|.|WET5207.txt|.|14|.|WET918.txt|.|16
+need a course|.|WET1635.txt|.|20
+stop|.|WET729.txt|.|189|.|WET3916.txt|.|68|.|WET1889.txt|.|67|.|WET169.txt|.|42
+catalog quick order|.|WET1976.txt|.|15
+bangladesh england|.|WET3986.txt|.|20
+missions|.|WET1132.txt|.|4|.|WET1223.txt|.|9
+pants shirts shoes|.|WET3093.txt|.|22
+view most recent|.|WET2260.txt|.|20
+die hard|.|WET3226.txt|.|17
+records match|.|WET5499.txt|.|7
+root beer|.|WET912.txt|.|14
+subnav|.|WET6088.txt|.|24

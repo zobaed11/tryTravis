@@ -1,0 +1,17 @@
+149
+country|.|002.txt|.|1
+contacted|.|315.txt|.|3|.|027.txt|.|3
+western nations|.|074.txt|.|2
+oversees|.|366.txt|.|1
+week|.|119.txt|.|2|.|187.txt|.|3
+increased speeds|.|058.txt|.|1
+cab|.|375.txt|.|6
+rejected|.|330.txt|.|2|.|014.txt|.|2
+blocked outside us|.|101.txt|.|1
+official|.|002.txt|.|2
+cholesterol levels|.|blood.txt|.|3
+news agency|.|002.txt|.|2
+operate|.|002.txt|.|2
+podcasts|.|364.txt|.|7
+cafes operate|.|002.txt|.|1
+net|.|270.txt|.|8|.|011.txt|.|5|.|364.txt|.|5|.|339.txt|.|6|.|089.txt|.|2|.|393.txt|.|4|.|211.txt|.|3|.|042.txt|.|6|.|267.txt|.|4|.|316.txt|.|13|.|010.txt|.|2|.|368.txt|.|6|.|350.txt|.|4|.|398.txt|.|2|.|385.txt|.|2|.|227.txt|.|2|.|002.txt|.|15|.|221.txt|.|2|.|226.txt|.|3|.|299.txt|.|8|.|310.txt|.|2|.|073.txt|.|4|.|366.txt|.|15|.|129.txt|.|3|.|081.txt|.|4|.|087.txt|.|9|.|031.txt|.|5|.|397.txt|.|3|.|365.txt|.|2|.|150.txt|.|5|.|074.txt|.|16|.|392.txt|.|5|.|175.txt|.|3|.|361.txt|.|5|.|136.txt|.|2

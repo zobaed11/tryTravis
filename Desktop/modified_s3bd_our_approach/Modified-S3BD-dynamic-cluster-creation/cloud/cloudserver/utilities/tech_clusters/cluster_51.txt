@@ -1,0 +1,17 @@
+51
+tickets|.|181.txt|.|2
+putting|.|143.txt|.|2|.|314.txt|.|1|.|055.txt|.|1
+creative industries|.|005.txt|.|3
+sensing system|.|368.txt|.|2
+affected|.|368.txt|.|3
+bowden|.|143.txt|.|4
+commodore|.|128.txt|.|12|.|374.txt|.|12
+mobiles double|.|181.txt|.|1
+face|.|143.txt|.|6|.|082.txt|.|3
+top of the supercomputing chart|.|141.txt|.|1
+system|.|143.txt|.|6|.|083.txt|.|3|.|181.txt|.|4|.|194.txt|.|2|.|368.txt|.|5|.|259.txt|.|2|.|308.txt|.|3
+wanted|.|065.txt|.|2
+surveillance system|.|143.txt|.|2
+interaction|.|143.txt|.|2
+surveillance|.|143.txt|.|4
+shopping|.|235.txt|.|6

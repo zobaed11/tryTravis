@@ -1,0 +1,17 @@
+45
+online shopping|.|235.txt|.|4
+woman|.|037.txt|.|3|.|333.txt|.|3
+kyrgyz republic|.|001.txt|.|2
+christmas|.|008.txt|.|5|.|127.txt|.|3|.|172.txt|.|4|.|252.txt|.|5
+forrester|.|242.txt|.|3
+mapping aids|.|223.txt|.|1
+army|.|379.txt|.|5
+condition|.|353.txt|.|2
+digital home|.|347.txt|.|3
+donofrio|.|137.txt|.|10
+broadband network|.|394.txt|.|1
+mr molyneux|.|100.txt|.|4
+october|.|271.txt|.|2
+virginia|.|176.txt|.|3|.|132.txt|.|3
+traffic|.|221.txt|.|6|.|314.txt|.|3|.|055.txt|.|3
+biometric|.|131.txt|.|3|.|179.txt|.|3

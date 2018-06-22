@@ -1,0 +1,64 @@
+pattaya|.|bbc_sport_454.txt|.|2
+takings|.|bbc_entertainment_073.txt|.|2|.|bbc_entertainment_350.txt|.|2
+charts|.|bbc_entertainment_072.txt|.|2|.|bbc_entertainment_285.txt|.|4|.|bbc_entertainment_234.txt|.|4|.|bbc_entertainment_249.txt|.|2|.|bbc_tech_141.txt|.|2
+lo|.|bbc_sport_382.txt|.|2
+advertisers|.|bbc_tech_206.txt|.|6
+film took|.|bbc_entertainment_312.txt|.|2
+pitt|.|bbc_entertainment_074.txt|.|2|.|bbc_entertainment_088.txt|.|2
+appeared|.|bbc_entertainment_198.txt|.|2|.|bbc_entertainment_282.txt|.|2
+sports minister|.|bbc_sport_448.txt|.|2
+boeing has unveiled its new|.|bbc_business_069.txt|.|1
+morgan|.|bbc_entertainment_372.txt|.|2|.|bbc_business_477.txt|.|6
+picked|.|bbc_business_289.txt|.|1
+limit|.|bbc_politics_115.txt|.|11|.|bbc_business_413.txt|.|1
+san jose|.|bbc_sport_424.txt|.|2|.|bbc_sport_426.txt|.|2|.|bbc_sport_507.txt|.|2|.|bbc_sport_509.txt|.|2
+santy worm|.|bbc_tech_257.txt|.|2
+cut winter deaths|.|bbc_politics_091.txt|.|2
+manipulation|.|bbc_business_489.txt|.|2
+money just for japan|.|bbc_business_234.txt|.|1
+advisory|.|bbc_business_191.txt|.|2
+mp|.|bbc_politics_410.txt|.|4|.|bbc_politics_307.txt|.|4|.|bbc_politics_273.txt|.|2|.|bbc_politics_399.txt|.|4|.|bbc_politics_144.txt|.|3|.|bbc_politics_075.txt|.|2|.|bbc_politics_157.txt|.|3|.|bbc_politics_143.txt|.|3|.|bbc_politics_113.txt|.|2|.|bbc_politics_415.txt|.|2
+wta|.|bbc_sport_510.txt|.|2|.|bbc_sport_501.txt|.|2
+circuit city|.|bbc_business_070.txt|.|4
+denise|.|bbc_entertainment_186.txt|.|2
+opened|.|bbc_entertainment_384.txt|.|2|.|bbc_entertainment_011.txt|.|1|.|bbc_sport_488.txt|.|1
+schemes|.|bbc_business_238.txt|.|7
+fry|.|bbc_entertainment_299.txt|.|5
+powys|.|bbc_politics_170.txt|.|10
+mixed doubles|.|bbc_sport_462.txt|.|3
+julien laharrague|.|bbc_sport_287.txt|.|2
+entry|.|bbc_entertainment_346.txt|.|3
+bernabeu stadium|.|bbc_sport_245.txt|.|2
+spaniard|.|bbc_sport_459.txt|.|2
+wto|.|bbc_business_178.txt|.|4|.|bbc_business_320.txt|.|7|.|bbc_business_296.txt|.|5
+raul|.|bbc_sport_120.txt|.|2
+leads|.|bbc_entertainment_323.txt|.|1|.|bbc_entertainment_335.txt|.|2|.|bbc_entertainment_049.txt|.|2
+gave|.|bbc_sport_146.txt|.|2
+foxx|.|bbc_entertainment_372.txt|.|3|.|bbc_entertainment_084.txt|.|4|.|bbc_entertainment_264.txt|.|2|.|bbc_entertainment_051.txt|.|4|.|bbc_entertainment_368.txt|.|16|.|bbc_entertainment_069.txt|.|4|.|bbc_entertainment_092.txt|.|3|.|bbc_entertainment_357.txt|.|3
+cosby|.|bbc_entertainment_204.txt|.|6
+fuel duty|.|bbc_politics_158.txt|.|2
+ambuja|.|bbc_business_485.txt|.|2
+jm|.|bbc_entertainment_316.txt|.|2
+jp|.|bbc_business_477.txt|.|6
+jr|.|bbc_entertainment_232.txt|.|2|.|bbc_entertainment_119.txt|.|2
+behaviour orders|.|bbc_politics_092.txt|.|2
+cinemas|.|bbc_entertainment_384.txt|.|2
+boogeyman|.|bbc_entertainment_053.txt|.|2|.|bbc_entertainment_380.txt|.|3
+hitch|.|bbc_entertainment_364.txt|.|2
+innuendoes|.|bbc_sport_046.txt|.|2
+immigration policy|.|bbc_politics_237.txt|.|1
+horror|.|bbc_entertainment_053.txt|.|2|.|bbc_entertainment_379.txt|.|2|.|bbc_entertainment_362.txt|.|2
+box office|.|bbc_entertainment_060.txt|.|2|.|bbc_entertainment_100.txt|.|4|.|bbc_entertainment_312.txt|.|2|.|bbc_entertainment_073.txt|.|3|.|bbc_entertainment_364.txt|.|2|.|bbc_entertainment_046.txt|.|2|.|bbc_entertainment_363.txt|.|6|.|bbc_entertainment_049.txt|.|3|.|bbc_entertainment_350.txt|.|3|.|bbc_entertainment_088.txt|.|3|.|bbc_entertainment_380.txt|.|3|.|bbc_entertainment_072.txt|.|4|.|bbc_entertainment_384.txt|.|2|.|bbc_entertainment_335.txt|.|3|.|bbc_entertainment_066.txt|.|2|.|bbc_entertainment_053.txt|.|6|.|bbc_entertainment_297.txt|.|3|.|bbc_entertainment_338.txt|.|2|.|bbc_entertainment_074.txt|.|3|.|bbc_entertainment_340.txt|.|3|.|bbc_entertainment_076.txt|.|4|.|bbc_entertainment_065.txt|.|2
+idowu|.|bbc_sport_012.txt|.|5|.|bbc_sport_020.txt|.|5
+us box office|.|bbc_entertainment_066.txt|.|2|.|bbc_entertainment_297.txt|.|2
+hide and seek|.|bbc_entertainment_335.txt|.|2|.|bbc_entertainment_049.txt|.|2|.|bbc_entertainment_380.txt|.|2
+car parking|.|bbc_business_461.txt|.|2
+horror film|.|bbc_entertainment_053.txt|.|2
+kewell|.|bbc_sport_127.txt|.|4
+bookmakers|.|bbc_entertainment_328.txt|.|5|.|bbc_entertainment_086.txt|.|5
+hans christian|.|bbc_entertainment_002.txt|.|4
+gate|.|bbc_tech_345.txt|.|2
+lg|.|bbc_business_375.txt|.|6|.|bbc_business_349.txt|.|15
+cash crisis|.|bbc_tech_119.txt|.|2
+fun|.|bbc_entertainment_055.txt|.|2
+windsor castle|.|bbc_politics_104.txt|.|2

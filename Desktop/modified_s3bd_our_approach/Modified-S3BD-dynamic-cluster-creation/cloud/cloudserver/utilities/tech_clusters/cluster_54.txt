@@ -1,0 +1,17 @@
+54
+tech|.|270.txt|.|1|.|077.txt|.|1|.|299.txt|.|1|.|342.txt|.|2|.|005.txt|.|1|.|048.txt|.|2|.|347.txt|.|1
+cards|.|131.txt|.|6|.|179.txt|.|6|.|124.txt|.|6|.|369.txt|.|2|.|181.txt|.|1
+ultimate|.|126.txt|.|2|.|171.txt|.|2
+mr wong|.|323.txt|.|6|.|051.txt|.|6
+mozilla|.|196.txt|.|5
+source|.|029.txt|.|10
+farmers|.|006.txt|.|8
+warm|.|bread.txt|.|13
+terrestrial|.|371.txt|.|6
+reddy|.|199.txt|.|10
+seafarers|.|131.txt|.|8|.|179.txt|.|8
+things|.|364.txt|.|1|.|154.txt|.|3|.|184.txt|.|4
+homes|.|264.txt|.|4
+fixed|.|109.txt|.|8
+playing|.|311.txt|.|3|.|401.txt|.|19|.|095.txt|.|3
+wars|.|125.txt|.|5|.|313.txt|.|4|.|094.txt|.|4

@@ -1,0 +1,38 @@
+223
+grips|.|WET5679.txt|.|64
+golf pride|.|WET1940.txt|.|17
+cambodia|.|WET1940.txt|.|26
+yoshioka|.|WET1635.txt|.|6
+results article|.|WET2794.txt|.|8
+tokujin yoshioka|.|WET1635.txt|.|5
+golf|.|WET3425.txt|.|20|.|WET3013.txt|.|36|.|WET1756.txt|.|186|.|WET701.txt|.|206|.|WET5383.txt|.|53|.|WET2794.txt|.|132|.|WET5390.txt|.|82|.|WET1727.txt|.|92|.|WET1950.txt|.|38|.|WET1515.txt|.|87|.|WET4591.txt|.|10|.|WET5764.txt|.|74|.|WET5680.txt|.|1256|.|WET1651.txt|.|29|.|WET3426.txt|.|9|.|WET2527.txt|.|29|.|WET1940.txt|.|902|.|WET2377.txt|.|25|.|WET1059.txt|.|14|.|WET1635.txt|.|31|.|WET6240.txt|.|15|.|WET5690.txt|.|42|.|WET1636.txt|.|28|.|WET1007.txt|.|139|.|WET6260.txt|.|55|.|WET5679.txt|.|1062|.|WET4203.txt|.|47|.|WET5492.txt|.|40|.|WET3610.txt|.|41|.|WET1941.txt|.|1072|.|WET2644.txt|.|117
+tee|.|WET1940.txt|.|47|.|WET1941.txt|.|55|.|WET2211.txt|.|11
+clubs|.|WET1940.txt|.|102|.|WET916.txt|.|27|.|WET1059.txt|.|5|.|WET1461.txt|.|12|.|WET5390.txt|.|20|.|WET3297.txt|.|43|.|WET1446.txt|.|28|.|WET5679.txt|.|131|.|WET5680.txt|.|164|.|WET1941.txt|.|134|.|WET4196.txt|.|20|.|WET2746.txt|.|15|.|WET3298.txt|.|24|.|WET6010.txt|.|12|.|WET5196.txt|.|24
+tokujin|.|WET1635.txt|.|5
+golfer|.|WET2644.txt|.|6
+shootout golf|.|WET701.txt|.|30
+facial|.|WET2180.txt|.|24
+cambodia golf|.|WET1940.txt|.|11
+zettai karen|.|WET2304.txt|.|25
+golf bags|.|WET5680.txt|.|78|.|WET1941.txt|.|64
+disc golf courses|.|WET1635.txt|.|13
+individual|.|WET5679.txt|.|27|.|WET5680.txt|.|33
+match results|.|WET1549.txt|.|8
+golf course|.|WET1636.txt|.|12
+nast|.|WET5692.txt|.|16|.|WET5492.txt|.|18
+select options|.|WET255.txt|.|99
+xpress|.|WET255.txt|.|44
+twitter using google|.|WET4792.txt|.|22
+piggyback|.|WET1727.txt|.|2
+dell|.|WET924.txt|.|46|.|WET4236.txt|.|31|.|WET322.txt|.|19
+car audio|.|WET1424.txt|.|83|.|WET1425.txt|.|64|.|WET5174.txt|.|78|.|WET2926.txt|.|32
+group specials|.|WET3690.txt|.|6
+dx roc|.|WET1651.txt|.|7
+hardballtalk profootballtalk|.|WET2794.txt|.|16
+golf balls|.|WET5680.txt|.|99|.|WET1941.txt|.|87
+awards|.|WET4487.txt|.|57|.|WET5827.txt|.|12|.|WET6184.txt|.|147|.|WET2356.txt|.|16|.|WET4867.txt|.|84|.|WET5657.txt|.|72
+extra united|.|WET701.txt|.|30
+golf shoes|.|WET5679.txt|.|44
+iron|.|WET5679.txt|.|56|.|WET5680.txt|.|68|.|WET5542.txt|.|4|.|WET5719.txt|.|26|.|WET228.txt|.|42|.|WET4804.txt|.|19
+golf fri|.|WET701.txt|.|30
+iron sets individual|.|WET5679.txt|.|27|.|WET5680.txt|.|33

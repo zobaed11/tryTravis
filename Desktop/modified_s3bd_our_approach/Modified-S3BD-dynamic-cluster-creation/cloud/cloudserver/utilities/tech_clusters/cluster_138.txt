@@ -1,0 +1,17 @@
+138
+gaining|.|339.txt|.|1|.|042.txt|.|1
+broadreach|.|339.txt|.|3|.|042.txt|.|3
+code|.|340.txt|.|1|.|049.txt|.|1
+fastest robot|.|356.txt|.|2
+hotspot|.|339.txt|.|1|.|073.txt|.|2|.|042.txt|.|1
+media labs|.|282.txt|.|2
+update|.|284.txt|.|1
+wrongful|.|180.txt|.|2|.|133.txt|.|2
+filters|.|362.txt|.|2
+brain|.|166.txt|.|6|.|165.txt|.|6
+users|.|377.txt|.|4|.|340.txt|.|5|.|339.txt|.|10|.|272.txt|.|5|.|060.txt|.|3|.|234.txt|.|3|.|081.txt|.|7|.|393.txt|.|7|.|007.txt|.|3|.|284.txt|.|6|.|362.txt|.|6|.|397.txt|.|6|.|250.txt|.|4|.|042.txt|.|10|.|389.txt|.|3|.|096.txt|.|4|.|010.txt|.|8|.|378.txt|.|4|.|117.txt|.|3|.|049.txt|.|5|.|074.txt|.|4|.|301.txt|.|3
+lead|.|340.txt|.|2|.|049.txt|.|2|.|307.txt|.|6
+premium rate|.|397.txt|.|5|.|188.txt|.|6
+feature|.|010.txt|.|7
+lead users|.|340.txt|.|2|.|049.txt|.|2
+place|.|bread.txt|.|14

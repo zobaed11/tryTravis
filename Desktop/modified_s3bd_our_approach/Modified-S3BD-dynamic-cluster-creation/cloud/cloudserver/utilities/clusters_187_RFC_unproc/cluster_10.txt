@@ -1,0 +1,120 @@
+pm pst|.|rfc416.txt|.|4
+rohc mib|.|rfc3816.txt|.|53
+cellular systems|.|rfc3322.txt|.|9
+ppp magnalink|.|rfc1975.txt|.|6
+required|.|rfc5093.txt|.|5|.|rfc6014.txt|.|4|.|rfc5045.txt|.|28|.|rfc231.txt|.|4|.|rfc4639.txt|.|39|.|rfc2398.txt|.|21|.|rfc143.txt|.|2|.|rfc118.txt|.|8|.|rfc4314.txt|.|29
+thubert standards|.|rfc6282.txt|.|24
+ip headers|.|rfc3843.txt|.|17
+compressors|.|rfc3816.txt|.|8
+unequal error|.|rfc3409.txt|.|7
+magnalink|.|rfc1975.txt|.|13
+friend|.|rfc3943.txt|.|18|.|rfc1967.txt|.|21|.|rfc5024.txt|.|137
+capability parameter|.|rfc5561.txt|.|17
+guide|.|rfc274.txt|.|11|.|rfc3283.txt|.|16|.|rfc4696.txt|.|39|.|rfc2072.txt|.|50|.|rfc4464.txt|.|47|.|rfc365.txt|.|2|.|rfc100.txt|.|46|.|rfc2901.txt|.|35|.|rfc5411.txt|.|43|.|rfc3249.txt|.|21|.|rfc5978.txt|.|31
+services for internet fax|.|rfc4161.txt|.|12
+link layer assisted|.|rfc4362.txt|.|1
+large|.|rfc3742.txt|.|17|.|rfc3241.txt|.|5
+reset request|.|rfc1974.txt|.|4
+sigcomp message|.|rfc4464.txt|.|18|.|rfc3321.txt|.|21|.|rfc3320.txt|.|76|.|rfc4077.txt|.|17
+overhead|.|rfc59.txt|.|5|.|rfc4413.txt|.|6
+recommendations for network|.|rfc5049.txt|.|2
+adapted|.|rfc4464.txt|.|5
+compression protocols|.|rfc2118.txt|.|1
+status reports|.|rfc218.txt|.|2|.|rfc116.txt|.|2|.|rfc287.txt|.|1|.|rfc240.txt|.|1
+rtp april|.|rfc3242.txt|.|20
+header compression over mpls|.|rfc4247.txt|.|13
+two tunneling protocol|.|rfc5611.txt|.|4
+compression using|.|rfc2395.txt|.|9|.|rfc3051.txt|.|9|.|rfc2394.txt|.|6
+compression|.|rfc3150.txt|.|43|.|rfc5795.txt|.|109|.|rfc4362.txt|.|38|.|rfc2507.txt|.|130|.|rfc3096.txt|.|13|.|rfc6282.txt|.|73|.|rfc4184.txt|.|5|.|rfc1974.txt|.|73|.|rfc3816.txt|.|42|.|rfc3409.txt|.|49|.|rfc2689.txt|.|43|.|rfc4247.txt|.|34|.|rfc4815.txt|.|50|.|rfc3320.txt|.|91|.|rfc3408.txt|.|8|.|rfc5858.txt|.|24|.|rfc3322.txt|.|46|.|rfc3241.txt|.|35|.|rfc2301.txt|.|94|.|rfc1967.txt|.|76|.|rfc3284.txt|.|36|.|rfc5857.txt|.|12|.|rfc3078.txt|.|8|.|rfc2118.txt|.|15|.|rfc4901.txt|.|85|.|rfc3095.txt|.|402|.|rfc3321.txt|.|46|.|rfc3242.txt|.|35|.|rfc3759.txt|.|44|.|rfc3051.txt|.|40|.|rfc5856.txt|.|23|.|rfc1979.txt|.|29|.|rfc3843.txt|.|36|.|rfc4163.txt|.|46|.|rfc3749.txt|.|65|.|rfc5049.txt|.|34|.|rfc3481.txt|.|25|.|rfc3943.txt|.|132|.|rfc4464.txt|.|54|.|rfc3006.txt|.|49|.|rfc4995.txt|.|110|.|rfc4413.txt|.|83|.|rfc3243.txt|.|38|.|rfc468.txt|.|27|.|rfc2472.txt|.|12|.|rfc1978.txt|.|19|.|rfc3544.txt|.|55|.|rfc3173.txt|.|71|.|rfc5172.txt|.|31|.|rfc2393.txt|.|55|.|rfc1976.txt|.|34|.|rfc2395.txt|.|54|.|rfc2509.txt|.|36|.|rfc1993.txt|.|15|.|rfc2394.txt|.|37|.|rfc2029.txt|.|8|.|rfc3374.txt|.|11|.|rfc1975.txt|.|23|.|rfc4224.txt|.|47|.|rfc1962.txt|.|55|.|rfc4077.txt|.|9
+new fields|.|rfc2301.txt|.|22
+compressor|.|rfc3095.txt|.|265|.|rfc3320.txt|.|77|.|rfc5225.txt|.|103|.|rfc4224.txt|.|39
+reordering|.|rfc4737.txt|.|201|.|rfc4224.txt|.|133|.|rfc5236.txt|.|119
+field behavior|.|rfc4413.txt|.|51
+negotiated|.|rfc1974.txt|.|24|.|rfc4638.txt|.|7|.|rfc2126.txt|.|19|.|rfc2409.txt|.|47|.|rfc4236.txt|.|10|.|rfc1969.txt|.|8|.|rfc4366.txt|.|13|.|rfc5048.txt|.|13|.|rfc5840.txt|.|7|.|rfc2097.txt|.|11|.|rfc3173.txt|.|10|.|rfc5027.txt|.|9|.|rfc6066.txt|.|14|.|rfc1973.txt|.|7|.|rfc2222.txt|.|7|.|rfc1990.txt|.|16|.|rfc2393.txt|.|5|.|rfc2023.txt|.|7|.|rfc5246.txt|.|25|.|rfc1968.txt|.|10|.|rfc1993.txt|.|3|.|rfc3848.txt|.|4|.|rfc5072.txt|.|10|.|rfc1967.txt|.|15|.|rfc6223.txt|.|23|.|rfc1963.txt|.|14|.|rfc3078.txt|.|16|.|rfc2953.txt|.|4|.|rfc3546.txt|.|13|.|rfc3153.txt|.|16|.|rfc5021.txt|.|3|.|rfc1962.txt|.|6
+using lzs|.|rfc2395.txt|.|10|.|rfc3943.txt|.|13
+header compression scheme|.|rfc4413.txt|.|12
+header sizes|.|rfc3409.txt|.|8
+mars service|.|rfc2443.txt|.|19
+payload compression using|.|rfc2395.txt|.|9|.|rfc3051.txt|.|9|.|rfc2394.txt|.|6
+ogc standards|.|rfc5165.txt|.|8
+compressed mode|.|rfc468.txt|.|7
+data august|.|rfc5941.txt|.|26
+keeni|.|rfc4498.txt|.|33
+deflate algorithm|.|rfc2394.txt|.|6
+segmentation|.|rfc4995.txt|.|21
+header overhead|.|rfc4413.txt|.|4
+payload compression|.|rfc3150.txt|.|7|.|rfc2395.txt|.|13|.|rfc3173.txt|.|19|.|rfc3051.txt|.|13|.|rfc2394.txt|.|10
+lzs november|.|rfc3943.txt|.|12
+robust|.|rfc4163.txt|.|5|.|rfc3540.txt|.|15|.|rfc4815.txt|.|10|.|rfc3095.txt|.|176|.|rfc6069.txt|.|25|.|rfc3243.txt|.|7|.|rfc3408.txt|.|4|.|rfc3816.txt|.|20|.|rfc5857.txt|.|8|.|rfc5858.txt|.|9|.|rfc3409.txt|.|23|.|rfc4910.txt|.|87
+support for nack|.|rfc4077.txt|.|2
+replaces|.|rfc3891.txt|.|87
+lower layers|.|rfc3409.txt|.|18
+services|.|rfc2604.txt|.|12|.|rfc2990.txt|.|51|.|rfc2788.txt|.|40|.|rfc5370.txt|.|12|.|rfc609.txt|.|3|.|rfc146.txt|.|14|.|rfc2689.txt|.|24|.|rfc2972.txt|.|34|.|rfc5363.txt|.|49|.|rfc4743.txt|.|5|.|rfc2213.txt|.|34|.|rfc3549.txt|.|60|.|rfc2638.txt|.|81|.|rfc4786.txt|.|52|.|rfc4240.txt|.|52|.|rfc5116.txt|.|8|.|rfc3832.txt|.|22|.|rfc3752.txt|.|68|.|rfc2248.txt|.|31|.|rfc4778.txt|.|28|.|rfc5679.txt|.|49|.|rfc3954.txt|.|40|.|rfc3747.txt|.|72|.|rfc5653.txt|.|49|.|rfc4496.txt|.|14|.|rfc3351.txt|.|33|.|rfc4902.txt|.|18|.|rfc5130.txt|.|2|.|rfc2483.txt|.|18|.|rfc2768.txt|.|134|.|rfc2039.txt|.|40|.|rfc2688.txt|.|40|.|rfc5381.txt|.|29|.|rfc2724.txt|.|13|.|rfc3953.txt|.|12|.|rfc2258.txt|.|20|.|rfc5678.txt|.|36|.|rfc6280.txt|.|32|.|rfc4313.txt|.|34|.|rfc4006.txt|.|98|.|rfc2634.txt|.|68|.|rfc5031.txt|.|61|.|rfc2430.txt|.|34|.|rfc2219.txt|.|16|.|rfc3006.txt|.|22|.|rfc3838.txt|.|54|.|rfc3693.txt|.|16|.|rfc5677.txt|.|41|.|rfc2589.txt|.|19|.|rfc5552.txt|.|53|.|rfc2846.txt|.|45|.|rfc2474.txt|.|76|.|rfc2084.txt|.|20|.|rfc5164.txt|.|55|.|rfc389.txt|.|3|.|rfc3837.txt|.|23|.|rfc6005.txt|.|20|.|rfc3836.txt|.|23|.|rfc3332.txt|.|29|.|rfc423.txt|.|3|.|rfc2208.txt|.|13|.|rfc2556.txt|.|3|.|rfc5068.txt|.|6|.|rfc369.txt|.|13|.|rfc5483.txt|.|29|.|rfc3055.txt|.|15|.|rfc3628.txt|.|69|.|rfc4161.txt|.|16|.|rfc3136.txt|.|15|.|rfc5865.txt|.|26|.|rfc2241.txt|.|4|.|rfc5593.txt|.|3|.|rfc2937.txt|.|9|.|rfc3662.txt|.|10|.|rfc2636.txt|.|12|.|rfc3712.txt|.|36|.|rfc6050.txt|.|18|.|rfc6272.txt|.|39|.|rfc4826.txt|.|42|.|rfc3331.txt|.|13|.|rfc3707.txt|.|19|.|rfc3944.txt|.|58|.|rfc3374.txt|.|32|.|rfc3183.txt|.|50|.|rfc3914.txt|.|19|.|rfc3631.txt|.|1|.|rfc3754.txt|.|43|.|rfc2382.txt|.|35|.|rfc2475.txt|.|97|.|rfc5369.txt|.|22|.|rfc3289.txt|.|194
+sip messages|.|rfc5049.txt|.|18
+ip header compression|.|rfc2509.txt|.|14|.|rfc3544.txt|.|21
+conceptual|.|rfc3781.txt|.|64|.|rfc2578.txt|.|67|.|rfc3289.txt|.|50
+history number|.|rfc1974.txt|.|20|.|rfc1967.txt|.|16
+packet stream|.|rfc3583.txt|.|10|.|rfc2507.txt|.|45|.|rfc5475.txt|.|19
+compressed header|.|rfc4815.txt|.|17|.|rfc4019.txt|.|8|.|rfc3843.txt|.|6
+mixed integer|.|rfc345.txt|.|5
+logical message|.|rfc58.txt|.|8
+speech|.|rfc3558.txt|.|27|.|rfc4463.txt|.|103|.|rfc3557.txt|.|49|.|rfc5707.txt|.|67|.|rfc3351.txt|.|24|.|rfc3267.txt|.|192|.|rfc4267.txt|.|31|.|rfc6262.txt|.|48|.|rfc3952.txt|.|29|.|rfc4313.txt|.|59
+fax mode|.|rfc2301.txt|.|45
+frankel|.|rfc4868.txt|.|23
+changes the context|.|rfc2507.txt|.|3
+ftp data compression|.|rfc468.txt|.|7
+negotiate option|.|rfc3241.txt|.|1
+data representation|.|rfc4506.txt|.|28
+degermark|.|rfc3096.txt|.|10
+friend informational|.|rfc3943.txt|.|13|.|rfc1967.txt|.|18|.|rfc5024.txt|.|135
+jonsson|.|rfc4163.txt|.|12|.|rfc4995.txt|.|48|.|rfc3243.txt|.|10
+management expression|.|rfc2982.txt|.|41
+compression is the protocol|.|rfc1978.txt|.|2
+participant|.|rfc4245.txt|.|26|.|rfc4582.txt|.|106|.|rfc3905.txt|.|4|.|rfc4597.txt|.|100|.|rfc3881.txt|.|42
+mode|.|rfc3965.txt|.|15|.|rfc3948.txt|.|44|.|rfc3337.txt|.|3|.|rfc2451.txt|.|7|.|rfc5930.txt|.|7|.|rfc4303.txt|.|85|.|rfc1974.txt|.|27|.|rfc2409.txt|.|121|.|rfc3249.txt|.|34|.|rfc5647.txt|.|12|.|rfc5770.txt|.|60|.|rfc3186.txt|.|41|.|rfc3786.txt|.|39|.|rfc5266.txt|.|16|.|rfc4815.txt|.|49|.|rfc5866.txt|.|63|.|rfc390.txt|.|3|.|rfc6239.txt|.|6|.|rfc2709.txt|.|15|.|rfc3566.txt|.|4|.|rfc3036.txt|.|45|.|rfc3884.txt|.|145|.|rfc3623.txt|.|15|.|rfc4738.txt|.|64|.|rfc4755.txt|.|32|.|rfc2301.txt|.|140|.|rfc4602.txt|.|6|.|rfc4344.txt|.|21|.|rfc4106.txt|.|18|.|rfc5487.txt|.|8|.|rfc5618.txt|.|28|.|rfc3132.txt|.|64|.|rfc2030.txt|.|52|.|rfc3715.txt|.|17|.|rfc493.txt|.|26|.|rfc4644.txt|.|27|.|rfc238.txt|.|4|.|rfc3843.txt|.|62|.|rfc3456.txt|.|55|.|rfc5252.txt|.|5|.|rfc468.txt|.|18|.|rfc5251.txt|.|41|.|rfc3154.txt|.|46|.|rfc5422.txt|.|60|.|rfc3686.txt|.|34|.|rfc435.txt|.|39|.|rfc5253.txt|.|65|.|rfc5385.txt|.|9|.|rfc6172.txt|.|26|.|rfc125.txt|.|6|.|rfc3810.txt|.|196|.|rfc6270.txt|.|9|.|rfc5287.txt|.|23|.|rfc6261.txt|.|70|.|rfc2305.txt|.|14|.|rfc5373.txt|.|27|.|rfc339.txt|.|21|.|rfc6173.txt|.|11|.|rfc4543.txt|.|14|.|rfc5288.txt|.|9|.|rfc148.txt|.|2|.|rfc6188.txt|.|16|.|rfc4891.txt|.|62|.|rfc5454.txt|.|30|.|rfc1992.txt|.|33|.|rfc4224.txt|.|9|.|rfc5289.txt|.|7
+low bitrate|.|rfc2689.txt|.|5
+updating|.|rfc4224.txt|.|17
+sdp attributes|.|rfc5159.txt|.|19
+slow links|.|rfc3150.txt|.|29
+negotiate|.|rfc5324.txt|.|4|.|rfc587.txt|.|2|.|rfc3943.txt|.|2|.|rfc2203.txt|.|2|.|rfc6189.txt|.|2|.|rfc2944.txt|.|2|.|rfc3241.txt|.|5|.|rfc6223.txt|.|17|.|rfc3554.txt|.|4|.|rfc4037.txt|.|8|.|rfc249.txt|.|1|.|rfc3544.txt|.|5|.|rfc6071.txt|.|30
+variable resource|.|rfc1975.txt|.|8
+lzs|.|rfc2395.txt|.|30|.|rfc3943.txt|.|65|.|rfc1974.txt|.|50|.|rfc1967.txt|.|12
+thubert|.|rfc6282.txt|.|26
+reset ack|.|rfc1962.txt|.|1
+udvm|.|rfc3320.txt|.|222|.|rfc4465.txt|.|71
+decompressors|.|rfc3816.txt|.|7
+ftp data|.|rfc468.txt|.|7
+demonstration at international|.|rfc371.txt|.|2
+svanbro informational|.|rfc3409.txt|.|11
+creates|.|rfc459.txt|.|1
+clarifications|.|rfc5048.txt|.|44|.|rfc4815.txt|.|41|.|rfc5729.txt|.|11|.|rfc4896.txt|.|28|.|rfc3260.txt|.|13
+header compression format|.|rfc6282.txt|.|7
+datagram compression|.|rfc5172.txt|.|10
+ertekin|.|rfc5856.txt|.|19|.|rfc5858.txt|.|19
+assigning socket|.|rfc204.txt|.|1
+ip payload|.|rfc2395.txt|.|12|.|rfc3173.txt|.|22|.|rfc3051.txt|.|12|.|rfc2394.txt|.|10
+extended operations|.|rfc3321.txt|.|19
+lzs compression|.|rfc3943.txt|.|22|.|rfc1967.txt|.|6
+scale factor|.|rfc5578.txt|.|50
+rohc july|.|rfc3096.txt|.|7
+reconfiguration|.|rfc166.txt|.|29|.|rfc138.txt|.|33|.|rfc194.txt|.|18|.|rfc437.txt|.|13
+stac lzs|.|rfc1974.txt|.|41
+error detection|.|rfc3409.txt|.|14
+dcp|.|rfc1967.txt|.|8
+ip payload compression|.|rfc2395.txt|.|12|.|rfc3173.txt|.|19|.|rfc3051.txt|.|12|.|rfc2394.txt|.|10|.|rfc2393.txt|.|7
+microsoft point|.|rfc2118.txt|.|2
+headers|.|rfc3282.txt|.|13|.|rfc5738.txt|.|21|.|rfc3639.txt|.|9|.|rfc561.txt|.|3|.|rfc5335.txt|.|24|.|rfc4727.txt|.|15|.|rfc3050.txt|.|37|.|rfc5180.txt|.|36|.|rfc2076.txt|.|64|.|rfc4236.txt|.|36|.|rfc5721.txt|.|7|.|rfc5215.txt|.|31|.|rfc3862.txt|.|48|.|rfc2508.txt|.|55|.|rfc2296.txt|.|23|.|rfc3542.txt|.|46|.|rfc5741.txt|.|16|.|rfc5988.txt|.|9|.|rfc3843.txt|.|27
+operations january|.|rfc3321.txt|.|18
+hannu informational|.|rfc3322.txt|.|13
+sas|.|rfc4718.txt|.|48|.|rfc5856.txt|.|30|.|rfc4555.txt|.|41|.|rfc4301.txt|.|132
+houri|.|rfc5344.txt|.|11
+ip header compression over ppp|.|rfc2509.txt|.|10
+point protocol|.|rfc2118.txt|.|3
+reordering channels|.|rfc4224.txt|.|29
+ip datagram|.|rfc2004.txt|.|6|.|rfc3378.txt|.|3|.|rfc3173.txt|.|23|.|rfc4824.txt|.|6|.|rfc2003.txt|.|11|.|rfc2176.txt|.|5|.|rfc3032.txt|.|27|.|rfc2075.txt|.|9|.|rfc2393.txt|.|23
+woods informational|.|rfc1979.txt|.|10
+nhp|.|rfc3242.txt|.|39
+subtags|.|rfc4646.txt|.|262
+header compression|.|rfc3150.txt|.|26|.|rfc4163.txt|.|21|.|rfc3481.txt|.|24|.|rfc5795.txt|.|55|.|rfc3006.txt|.|8|.|rfc4995.txt|.|56|.|rfc4362.txt|.|22|.|rfc4413.txt|.|33|.|rfc2507.txt|.|88|.|rfc3096.txt|.|10|.|rfc3243.txt|.|24|.|rfc3409.txt|.|41|.|rfc2689.txt|.|33|.|rfc4247.txt|.|23|.|rfc3544.txt|.|37|.|rfc3408.txt|.|6|.|rfc5858.txt|.|13|.|rfc2509.txt|.|23|.|rfc3241.txt|.|15|.|rfc4901.txt|.|66|.|rfc3095.txt|.|233|.|rfc3242.txt|.|21|.|rfc3759.txt|.|24|.|rfc3374.txt|.|9|.|rfc5856.txt|.|11|.|rfc4224.txt|.|15
+setup|.|rfc4503.txt|.|28|.|rfc3322.txt|.|16|.|rfc3213.txt|.|10|.|rfc5254.txt|.|39|.|rfc5810.txt|.|54|.|rfc5572.txt|.|42|.|rfc5814.txt|.|176|.|rfc4974.txt|.|58|.|rfc3475.txt|.|19|.|rfc3064.txt|.|46
+low bitrate links|.|rfc2689.txt|.|4

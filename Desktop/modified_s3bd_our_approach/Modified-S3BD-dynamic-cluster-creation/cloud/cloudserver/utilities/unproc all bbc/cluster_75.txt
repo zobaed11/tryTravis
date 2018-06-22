@@ -1,0 +1,64 @@
+country|.|bbc_politics_374.txt|.|2|.|bbc_sport_371.txt|.|3|.|bbc_sport_025.txt|.|6|.|bbc_politics_064.txt|.|6|.|bbc_tech_002.txt|.|1|.|bbc_sport_087.txt|.|4|.|bbc_politics_293.txt|.|7|.|bbc_sport_074.txt|.|3|.|bbc_politics_146.txt|.|2|.|bbc_sport_076.txt|.|2|.|bbc_sport_358.txt|.|1|.|bbc_sport_024.txt|.|3|.|bbc_business_411.txt|.|2|.|bbc_sport_078.txt|.|1|.|bbc_business_199.txt|.|1|.|bbc_sport_013.txt|.|5|.|bbc_sport_021.txt|.|3|.|bbc_business_217.txt|.|3|.|bbc_entertainment_119.txt|.|2
+difficult week|.|bbc_sport_358.txt|.|2
+smith|.|bbc_sport_208.txt|.|6|.|bbc_politics_315.txt|.|7|.|bbc_business_213.txt|.|9|.|bbc_sport_212.txt|.|8|.|bbc_sport_099.txt|.|4|.|bbc_entertainment_026.txt|.|3|.|bbc_sport_128.txt|.|6|.|bbc_entertainment_317.txt|.|3
+wru proposes|.|bbc_sport_372.txt|.|1
+led|.|bbc_sport_384.txt|.|2|.|bbc_sport_371.txt|.|2|.|bbc_business_425.txt|.|2|.|bbc_entertainment_194.txt|.|4
+rugby league|.|bbc_sport_357.txt|.|2|.|bbc_sport_398.txt|.|2|.|bbc_sport_370.txt|.|3
+triple crown|.|bbc_sport_364.txt|.|3
+ds console|.|bbc_tech_238.txt|.|2
+blacks|.|bbc_sport_328.txt|.|2|.|bbc_sport_371.txt|.|13|.|bbc_sport_366.txt|.|2|.|bbc_sport_329.txt|.|2
+professional|.|bbc_sport_360.txt|.|3|.|bbc_sport_150.txt|.|2|.|bbc_tech_274.txt|.|2|.|bbc_entertainment_188.txt|.|2
+hailey|.|bbc_entertainment_016.txt|.|7
+country champion|.|bbc_sport_024.txt|.|2
+singer courtney love|.|bbc_entertainment_258.txt|.|2
+club rugby|.|bbc_sport_358.txt|.|1
+civil war|.|bbc_sport_363.txt|.|2
+football union|.|bbc_sport_374.txt|.|2
+international rugby|.|bbc_sport_385.txt|.|4|.|bbc_sport_346.txt|.|2|.|bbc_sport_387.txt|.|4
+africa|.|bbc_sport_377.txt|.|3|.|bbc_business_473.txt|.|2|.|bbc_business_218.txt|.|2|.|bbc_politics_407.txt|.|3|.|bbc_politics_366.txt|.|2|.|bbc_politics_026.txt|.|5|.|bbc_sport_369.txt|.|1|.|bbc_politics_195.txt|.|6|.|bbc_politics_024.txt|.|4|.|bbc_business_241.txt|.|4|.|bbc_sport_190.txt|.|3|.|bbc_business_408.txt|.|3
+international rugby board|.|bbc_sport_346.txt|.|2
+students rugby|.|bbc_sport_362.txt|.|3
+lions coach|.|bbc_sport_385.txt|.|2|.|bbc_sport_387.txt|.|2
+proposes|.|bbc_sport_372.txt|.|2
+scottish rugby|.|bbc_sport_365.txt|.|5|.|bbc_sport_363.txt|.|2
+coaches|.|bbc_sport_365.txt|.|1|.|bbc_sport_321.txt|.|1
+executive board|.|bbc_sport_363.txt|.|2
+year in irish|.|bbc_sport_364.txt|.|1
+ossie|.|bbc_entertainment_043.txt|.|5|.|bbc_entertainment_044.txt|.|2|.|bbc_entertainment_356.txt|.|5
+reality|.|bbc_entertainment_226.txt|.|3|.|bbc_entertainment_203.txt|.|3
+team led|.|bbc_sport_371.txt|.|2
+demonstration|.|bbc_politics_032.txt|.|4
+arsenal manager|.|bbc_sport_196.txt|.|1|.|bbc_sport_157.txt|.|1|.|bbc_sport_281.txt|.|1
+rover|.|bbc_business_034.txt|.|8
+actions|.|bbc_politics_131.txt|.|2
+cup winners|.|bbc_sport_387.txt|.|2
+switching|.|bbc_sport_399.txt|.|1
+stems|.|bbc_sport_395.txt|.|1
+helens|.|bbc_sport_397.txt|.|4|.|bbc_sport_357.txt|.|4
+burt reynolds|.|bbc_entertainment_043.txt|.|2|.|bbc_entertainment_356.txt|.|2
+spend spend spend|.|bbc_entertainment_003.txt|.|2|.|bbc_entertainment_272.txt|.|2
+prize|.|bbc_entertainment_377.txt|.|5|.|bbc_sport_432.txt|.|4|.|bbc_entertainment_243.txt|.|2|.|bbc_entertainment_336.txt|.|6|.|bbc_entertainment_079.txt|.|2|.|bbc_sport_451.txt|.|3|.|bbc_entertainment_017.txt|.|6|.|bbc_entertainment_015.txt|.|2|.|bbc_sport_438.txt|.|4|.|bbc_entertainment_373.txt|.|3|.|bbc_tech_274.txt|.|6|.|bbc_entertainment_007.txt|.|4|.|bbc_entertainment_013.txt|.|5|.|bbc_entertainment_286.txt|.|2|.|bbc_entertainment_331.txt|.|2|.|bbc_tech_140.txt|.|2|.|bbc_entertainment_063.txt|.|2|.|bbc_entertainment_024.txt|.|5
+welsh legend|.|bbc_sport_395.txt|.|2
+important game|.|bbc_sport_358.txt|.|2
+world cup winners|.|bbc_sport_387.txt|.|2
+deluxe|.|bbc_business_021.txt|.|3
+yannick nyanga|.|bbc_sport_287.txt|.|2
+daily mail|.|bbc_sport_346.txt|.|3
+number of people|.|bbc_tech_262.txt|.|2
+irb|.|bbc_sport_346.txt|.|2
+trillion|.|bbc_business_375.txt|.|2|.|bbc_business_239.txt|.|3|.|bbc_business_411.txt|.|2|.|bbc_business_032.txt|.|3|.|bbc_business_033.txt|.|2
+rugby world|.|bbc_sport_400.txt|.|2|.|bbc_sport_374.txt|.|1
+new zealand rugby|.|bbc_sport_371.txt|.|4
+gamble|.|bbc_sport_398.txt|.|3
+marion|.|bbc_sport_049.txt|.|5|.|bbc_sport_088.txt|.|5
+deflation|.|bbc_business_322.txt|.|4
+seekers|.|bbc_politics_153.txt|.|4
+wales students|.|bbc_sport_362.txt|.|4
+ceremonies|.|bbc_politics_056.txt|.|2|.|bbc_entertainment_219.txt|.|1
+years at stradey|.|bbc_sport_361.txt|.|2
+english rugby|.|bbc_sport_360.txt|.|2|.|bbc_sport_375.txt|.|2
+players who|.|bbc_sport_385.txt|.|1
+hailed|.|bbc_entertainment_048.txt|.|2
+wigan|.|bbc_sport_399.txt|.|3
+royal mail|.|bbc_politics_061.txt|.|4
+rugby union|.|bbc_sport_360.txt|.|2|.|bbc_sport_397.txt|.|2|.|bbc_sport_399.txt|.|2|.|bbc_sport_402.txt|.|2

@@ -1,0 +1,64 @@
+appealed against the police|.|bbc_politics_131.txt|.|1
+reaches|.|bbc_business_135.txt|.|1
+government claimed|.|bbc_business_010.txt|.|1
+supreme court have been hearing|.|bbc_tech_370.txt|.|1
+feta cheese|.|bbc_business_135.txt|.|3
+allan|.|bbc_tech_092.txt|.|2
+krivorizhstal|.|bbc_business_197.txt|.|3
+bought by rosneft|.|bbc_business_003.txt|.|1|.|bbc_business_230.txt|.|1
+cheese|.|bbc_business_135.txt|.|8
+ruling|.|bbc_sport_023.txt|.|2|.|bbc_politics_368.txt|.|5|.|bbc_sport_054.txt|.|2|.|bbc_sport_079.txt|.|2|.|bbc_politics_143.txt|.|2|.|bbc_sport_051.txt|.|1|.|bbc_business_025.txt|.|4|.|bbc_business_342.txt|.|1|.|bbc_entertainment_063.txt|.|2
+news organisations|.|bbc_entertainment_108.txt|.|2
+lebedev|.|bbc_business_157.txt|.|4
+electronically|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+orange said|.|bbc_business_205.txt|.|2
+lying|.|bbc_business_114.txt|.|2
+made public|.|bbc_entertainment_108.txt|.|2
+falconer said|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+injunction|.|bbc_entertainment_161.txt|.|4
+community service|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+supreme|.|bbc_politics_194.txt|.|2|.|bbc_tech_092.txt|.|2|.|bbc_tech_370.txt|.|5
+court|.|bbc_business_358.txt|.|6|.|bbc_business_197.txt|.|4|.|bbc_tech_092.txt|.|5|.|bbc_politics_131.txt|.|4|.|bbc_business_324.txt|.|3|.|bbc_politics_390.txt|.|6|.|bbc_business_205.txt|.|2|.|bbc_business_192.txt|.|5|.|bbc_business_391.txt|.|5|.|bbc_business_010.txt|.|4|.|bbc_business_083.txt|.|8|.|bbc_entertainment_114.txt|.|3|.|bbc_politics_224.txt|.|3|.|bbc_entertainment_230.txt|.|2|.|bbc_politics_179.txt|.|2|.|bbc_business_230.txt|.|4|.|bbc_business_299.txt|.|2|.|bbc_politics_194.txt|.|2|.|bbc_business_135.txt|.|3|.|bbc_politics_067.txt|.|6|.|bbc_business_508.txt|.|2|.|bbc_politics_148.txt|.|5|.|bbc_politics_040.txt|.|3|.|bbc_business_025.txt|.|5|.|bbc_tech_370.txt|.|8|.|bbc_business_157.txt|.|4|.|bbc_politics_033.txt|.|2|.|bbc_tech_035.txt|.|3|.|bbc_business_114.txt|.|3|.|bbc_entertainment_161.txt|.|2|.|bbc_entertainment_108.txt|.|3|.|bbc_entertainment_169.txt|.|2
+yukos|.|bbc_business_358.txt|.|13|.|bbc_business_003.txt|.|6|.|bbc_business_399.txt|.|8|.|bbc_business_332.txt|.|9|.|bbc_business_426.txt|.|6|.|bbc_business_324.txt|.|11|.|bbc_business_181.txt|.|4|.|bbc_business_164.txt|.|12|.|bbc_business_025.txt|.|10|.|bbc_business_157.txt|.|3|.|bbc_business_127.txt|.|11|.|bbc_business_192.txt|.|10|.|bbc_business_391.txt|.|9|.|bbc_business_083.txt|.|15|.|bbc_business_131.txt|.|3|.|bbc_business_266.txt|.|6|.|bbc_business_318.txt|.|6|.|bbc_business_314.txt|.|16|.|bbc_business_230.txt|.|7|.|bbc_business_299.txt|.|10|.|bbc_business_444.txt|.|6
+mr blake|.|bbc_entertainment_169.txt|.|3
+cherie|.|bbc_politics_194.txt|.|3
+ukraine|.|bbc_business_136.txt|.|6|.|bbc_business_197.txt|.|2|.|bbc_business_217.txt|.|9
+election court|.|bbc_politics_148.txt|.|2
+frank|.|bbc_tech_092.txt|.|2|.|bbc_sport_207.txt|.|2|.|bbc_politics_357.txt|.|2
+supreme court|.|bbc_politics_194.txt|.|2|.|bbc_tech_092.txt|.|2|.|bbc_tech_370.txt|.|5
+feta|.|bbc_business_135.txt|.|13
+extra runway|.|bbc_politics_033.txt|.|3
+fairford|.|bbc_politics_131.txt|.|5
+artificially|.|bbc_business_358.txt|.|2
+santa|.|bbc_entertainment_108.txt|.|3
+court filing|.|bbc_business_358.txt|.|2
+parental access|.|bbc_politics_067.txt|.|1|.|bbc_politics_390.txt|.|1
+parents who|.|bbc_politics_067.txt|.|2|.|bbc_politics_390.txt|.|2
+trademark infringement|.|bbc_business_205.txt|.|2
+drops|.|bbc_business_230.txt|.|1
+yukos drops|.|bbc_business_230.txt|.|1
+greece|.|bbc_business_135.txt|.|8
+responsible|.|bbc_politics_377.txt|.|2|.|bbc_tech_370.txt|.|4
+records label|.|bbc_entertainment_161.txt|.|1
+trademark|.|bbc_business_205.txt|.|2
+mediation|.|bbc_politics_067.txt|.|3|.|bbc_politics_051.txt|.|2|.|bbc_politics_390.txt|.|3
+birmingham councillors|.|bbc_politics_148.txt|.|1
+barbara|.|bbc_entertainment_108.txt|.|2
+manufactured|.|bbc_business_358.txt|.|1
+hear|.|bbc_tech_370.txt|.|1
+parental|.|bbc_politics_067.txt|.|1|.|bbc_entertainment_113.txt|.|1|.|bbc_politics_390.txt|.|1
+york court|.|bbc_business_114.txt|.|2
+innovation|.|bbc_tech_174.txt|.|2|.|bbc_tech_137.txt|.|5|.|bbc_tech_111.txt|.|2|.|bbc_tech_268.txt|.|3|.|bbc_tech_370.txt|.|5|.|bbc_entertainment_220.txt|.|2
+frank allan|.|bbc_tech_092.txt|.|2
+board member|.|bbc_business_114.txt|.|1
+judge is gonna stop|.|bbc_entertainment_161.txt|.|1
+raf fairford|.|bbc_politics_131.txt|.|4
+auctioned|.|bbc_entertainment_018.txt|.|1|.|bbc_business_025.txt|.|1
+court order|.|bbc_politics_067.txt|.|1|.|bbc_politics_390.txt|.|1
+mr lebedev|.|bbc_business_157.txt|.|3
+residue|.|bbc_entertainment_169.txt|.|4
+appealed against the police actions|.|bbc_politics_131.txt|.|1
+footballer|.|bbc_entertainment_161.txt|.|1
+former president|.|bbc_business_197.txt|.|1
+court will hear|.|bbc_tech_370.txt|.|1
+infringement|.|bbc_business_205.txt|.|2

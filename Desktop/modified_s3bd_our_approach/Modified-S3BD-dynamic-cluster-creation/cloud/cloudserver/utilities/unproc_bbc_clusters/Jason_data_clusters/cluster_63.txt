@@ -1,0 +1,38 @@
+63
+huffington|.|WET5783.txt|.|15
+tom ford|.|WET5891.txt|.|71
+golf clubs|.|WET5680.txt|.|43|.|WET1059.txt|.|5|.|WET5390.txt|.|15
+tip given in pink|.|WET1595.txt|.|162
+galleri|.|WET2500.txt|.|13
+ksnt news|.|WET4309.txt|.|26|.|WET566.txt|.|33
+coats|.|WET3079.txt|.|22|.|WET2839.txt|.|169|.|WET1374.txt|.|40
+karate|.|WET3306.txt|.|180
+theanglican|.|WET357.txt|.|28
+customers found this review helpful|.|WET1696.txt|.|4
+enter|.|WET3504.txt|.|20|.|WET5771.txt|.|20|.|WET5508.txt|.|155|.|WET3348.txt|.|261|.|WET2040.txt|.|20|.|WET5783.txt|.|22|.|WET6200.txt|.|20|.|WET2261.txt|.|50|.|WET5653.txt|.|44|.|WET3683.txt|.|22|.|WET2168.txt|.|25|.|WET5619.txt|.|77
+savings|.|WET6278.txt|.|92|.|WET2543.txt|.|54|.|WET3289.txt|.|36
+history soccer|.|WET891.txt|.|55|.|WET4631.txt|.|50|.|WET892.txt|.|30
+flowers|.|WET5235.txt|.|20|.|WET935.txt|.|116|.|WET4674.txt|.|64
+technical help miscellaneous|.|WET642.txt|.|11
+worn twice|.|WET5726.txt|.|6
+collectionother|.|WET3690.txt|.|12
+set vector|.|WET3737.txt|.|32
+current search|.|WET5930.txt|.|10
+dates|.|WET2365.txt|.|18|.|WET1454.txt|.|21|.|WET5127.txt|.|7|.|WET1812.txt|.|51|.|WET1926.txt|.|73|.|WET2252.txt|.|15|.|WET6310.txt|.|31|.|WET3892.txt|.|67|.|WET3646.txt|.|26|.|WET1817.txt|.|15
+rubens|.|WET5548.txt|.|33
+center need help|.|WET3609.txt|.|6
+supplies cleaning|.|WET2721.txt|.|12
+creative|.|WET1570.txt|.|33|.|WET963.txt|.|36|.|WET4867.txt|.|72|.|WET4299.txt|.|21
+lifestyle|.|WET3389.txt|.|29|.|WET3251.txt|.|32
+coast|.|WET1513.txt|.|93|.|WET5265.txt|.|93|.|WET648.txt|.|22|.|WET2997.txt|.|9|.|WET5266.txt|.|69|.|WET4723.txt|.|26|.|WET2932.txt|.|100
+marvel|.|WET5278.txt|.|35|.|WET5280.txt|.|56|.|WET1530.txt|.|67|.|WET1528.txt|.|113
+hockey online|.|WET3198.txt|.|16
+lake mirror|.|WET3954.txt|.|32
+disney|.|WET5625.txt|.|34|.|WET1654.txt|.|267
+new era|.|WET921.txt|.|75
+family life|.|WET1824.txt|.|19
+paper plates|.|WET3614.txt|.|5
+finance|.|WET3466.txt|.|463|.|WET886.txt|.|14|.|WET1835.txt|.|9|.|WET3838.txt|.|21|.|WET374.txt|.|78|.|WET4115.txt|.|85
+phoenix suns|.|WET2024.txt|.|6|.|WET5765.txt|.|129
+fencing|.|WET3171.txt|.|30
+fantasy art|.|WET5492.txt|.|8

@@ -1,0 +1,93 @@
+19
+cancel|.|bbc_entertainment_118.txt|.|1
+major band|.|bbc_entertainment_245.txt|.|2
+prime minister|.|bbc_entertainment_143.txt|.|2
+bad|.|bbc_entertainment_138.txt|.|2|.|bbc_entertainment_158.txt|.|2
+band members|.|bbc_entertainment_239.txt|.|2
+irish band|.|bbc_entertainment_125.txt|.|2
+bomb|.|bbc_entertainment_262.txt|.|2
+doves|.|bbc_entertainment_126.txt|.|2
+ticket record|.|bbc_entertainment_140.txt|.|1
+band and album|.|bbc_entertainment_125.txt|.|2
+new number|.|bbc_entertainment_126.txt|.|1
+suffered|.|bbc_entertainment_118.txt|.|1
+uk|.|bbc_entertainment_323.txt|.|3|.|bbc_entertainment_360.txt|.|2|.|bbc_entertainment_240.txt|.|2|.|bbc_entertainment_246.txt|.|3|.|bbc_entertainment_112.txt|.|4|.|bbc_entertainment_371.txt|.|3|.|bbc_entertainment_373.txt|.|4|.|bbc_entertainment_126.txt|.|2|.|bbc_entertainment_321.txt|.|7|.|bbc_entertainment_231.txt|.|2|.|bbc_entertainment_351.txt|.|4
+take a break|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+pop band busted|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+band|.|bbc_entertainment_245.txt|.|3|.|bbc_entertainment_160.txt|.|4|.|bbc_entertainment_126.txt|.|2|.|bbc_entertainment_121.txt|.|4|.|bbc_entertainment_139.txt|.|3|.|bbc_entertainment_296.txt|.|6|.|bbc_entertainment_109.txt|.|3|.|bbc_entertainment_142.txt|.|4|.|bbc_entertainment_105.txt|.|7|.|bbc_entertainment_118.txt|.|7|.|bbc_entertainment_255.txt|.|4|.|bbc_entertainment_158.txt|.|2|.|bbc_entertainment_229.txt|.|5|.|bbc_entertainment_239.txt|.|6|.|bbc_entertainment_107.txt|.|2|.|bbc_entertainment_132.txt|.|4|.|bbc_entertainment_140.txt|.|3|.|bbc_entertainment_153.txt|.|2|.|bbc_entertainment_235.txt|.|7|.|bbc_entertainment_159.txt|.|6|.|bbc_entertainment_125.txt|.|3|.|bbc_entertainment_287.txt|.|2|.|bbc_entertainment_244.txt|.|8|.|bbc_entertainment_138.txt|.|2|.|bbc_entertainment_236.txt|.|8|.|bbc_entertainment_143.txt|.|5|.|bbc_entertainment_262.txt|.|8
+rem|.|bbc_entertainment_287.txt|.|3|.|bbc_entertainment_118.txt|.|4
+press|.|bbc_entertainment_239.txt|.|2
+indie dance|.|bbc_entertainment_255.txt|.|2
+us|.|bbc_entertainment_073.txt|.|3|.|bbc_entertainment_030.txt|.|2|.|bbc_entertainment_097.txt|.|3|.|bbc_entertainment_285.txt|.|5|.|bbc_entertainment_205.txt|.|4|.|bbc_entertainment_345.txt|.|4|.|bbc_entertainment_127.txt|.|6|.|bbc_entertainment_350.txt|.|3|.|bbc_entertainment_142.txt|.|2|.|bbc_entertainment_289.txt|.|11|.|bbc_entertainment_170.txt|.|5|.|bbc_entertainment_103.txt|.|6|.|bbc_entertainment_359.txt|.|3|.|bbc_entertainment_066.txt|.|2|.|bbc_entertainment_080.txt|.|7|.|bbc_entertainment_044.txt|.|2|.|bbc_entertainment_083.txt|.|2|.|bbc_entertainment_195.txt|.|3|.|bbc_entertainment_297.txt|.|4|.|bbc_entertainment_229.txt|.|2|.|bbc_entertainment_147.txt|.|2|.|bbc_entertainment_210.txt|.|2|.|bbc_entertainment_182.txt|.|4
+raising|.|bbc_entertainment_160.txt|.|1
+prime|.|bbc_entertainment_143.txt|.|2
+films|.|bbc_entertainment_035.txt|.|3|.|bbc_entertainment_100.txt|.|1|.|bbc_entertainment_366.txt|.|3|.|bbc_entertainment_075.txt|.|1|.|bbc_entertainment_367.txt|.|5|.|bbc_entertainment_012.txt|.|1|.|bbc_entertainment_077.txt|.|4|.|bbc_entertainment_042.txt|.|4|.|bbc_entertainment_101.txt|.|6|.|bbc_entertainment_028.txt|.|3|.|bbc_entertainment_040.txt|.|3|.|bbc_entertainment_348.txt|.|5|.|bbc_entertainment_058.txt|.|5|.|bbc_entertainment_083.txt|.|1|.|bbc_entertainment_307.txt|.|3|.|bbc_entertainment_340.txt|.|1|.|bbc_entertainment_303.txt|.|8|.|bbc_entertainment_052.txt|.|3|.|bbc_entertainment_301.txt|.|3
+minister|.|bbc_entertainment_143.txt|.|2
+street preachers|.|bbc_entertainment_244.txt|.|4
+actor ossie|.|bbc_entertainment_044.txt|.|2
+manic street preachers|.|bbc_entertainment_244.txt|.|4
+warwick|.|bbc_entertainment_239.txt|.|2
+potter director|.|bbc_entertainment_028.txt|.|2
+single band aid|.|bbc_entertainment_143.txt|.|1
+announce|.|bbc_entertainment_287.txt|.|1
+dundee|.|bbc_entertainment_296.txt|.|2
+art school|.|bbc_entertainment_236.txt|.|3
+fightstar|.|bbc_entertainment_239.txt|.|8
+andersen|.|bbc_entertainment_002.txt|.|4
+year and record|.|bbc_entertainment_157.txt|.|1
+concerts|.|bbc_entertainment_140.txt|.|2|.|bbc_entertainment_118.txt|.|2
+manic street|.|bbc_entertainment_244.txt|.|4
+scottish fans|.|bbc_entertainment_287.txt|.|2
+live act|.|bbc_entertainment_255.txt|.|1
+plans|.|bbc_entertainment_310.txt|.|2|.|bbc_entertainment_105.txt|.|1|.|bbc_entertainment_235.txt|.|1
+preachers|.|bbc_entertainment_244.txt|.|4
+atomic|.|bbc_entertainment_262.txt|.|2
+irish band and album|.|bbc_entertainment_125.txt|.|2
+award for best irish|.|bbc_entertainment_125.txt|.|1
+rock band|.|bbc_entertainment_236.txt|.|1|.|bbc_entertainment_229.txt|.|2|.|bbc_entertainment_153.txt|.|2|.|bbc_entertainment_142.txt|.|2
+press conference|.|bbc_entertainment_239.txt|.|2
+aid|.|bbc_entertainment_160.txt|.|4|.|bbc_entertainment_109.txt|.|2|.|bbc_entertainment_159.txt|.|7|.|bbc_entertainment_143.txt|.|5
+atomic bomb|.|bbc_entertainment_262.txt|.|2
+mcclelland|.|bbc_entertainment_296.txt|.|2
+glasgow green|.|bbc_entertainment_287.txt|.|2
+indie|.|bbc_entertainment_255.txt|.|2
+dublin|.|bbc_entertainment_140.txt|.|2
+pop band|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+conference|.|bbc_entertainment_239.txt|.|2
+scottish band|.|bbc_entertainment_121.txt|.|2
+rumours|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+christmas number|.|bbc_entertainment_159.txt|.|2
+cult|.|bbc_entertainment_255.txt|.|2
+believes|.|bbc_entertainment_245.txt|.|2
+franz ferdinand|.|bbc_entertainment_131.txt|.|4|.|bbc_entertainment_236.txt|.|4
+street|.|bbc_entertainment_215.txt|.|2|.|bbc_entertainment_244.txt|.|4
+belle|.|bbc_entertainment_121.txt|.|3
+blair|.|bbc_entertainment_143.txt|.|3
+manic|.|bbc_entertainment_244.txt|.|5
+factory were the label|.|bbc_entertainment_245.txt|.|1
+hospital|.|bbc_entertainment_118.txt|.|2
+lightbody|.|bbc_entertainment_296.txt|.|4
+wilson believes|.|bbc_entertainment_245.txt|.|2
+band aid single|.|bbc_entertainment_160.txt|.|2
+rem announce|.|bbc_entertainment_287.txt|.|1
+adds|.|bbc_entertainment_132.txt|.|3
+patrol|.|bbc_entertainment_125.txt|.|3|.|bbc_entertainment_296.txt|.|4
+richey edwards|.|bbc_entertainment_244.txt|.|2
+band aid|.|bbc_entertainment_160.txt|.|4|.|bbc_entertainment_109.txt|.|2|.|bbc_entertainment_159.txt|.|6|.|bbc_entertainment_143.txt|.|5
+break|.|bbc_entertainment_105.txt|.|2|.|bbc_entertainment_235.txt|.|2
+mills|.|bbc_entertainment_118.txt|.|3
+richey|.|bbc_entertainment_244.txt|.|2
+dismantle|.|bbc_entertainment_262.txt|.|2
+single|.|bbc_entertainment_240.txt|.|6|.|bbc_entertainment_160.txt|.|5|.|bbc_entertainment_136.txt|.|2|.|bbc_entertainment_130.txt|.|4|.|bbc_entertainment_159.txt|.|5|.|bbc_entertainment_143.txt|.|5
+dundee university|.|bbc_entertainment_296.txt|.|2
+witness|.|bbc_entertainment_245.txt|.|2
+busted|.|bbc_entertainment_105.txt|.|3|.|bbc_entertainment_235.txt|.|3
+franz|.|bbc_entertainment_131.txt|.|5|.|bbc_entertainment_106.txt|.|2|.|bbc_entertainment_236.txt|.|5
+band kasabian|.|bbc_entertainment_255.txt|.|2
+dismantle an atomic|.|bbc_entertainment_262.txt|.|2
+aid single|.|bbc_entertainment_160.txt|.|2
+chris martin|.|bbc_entertainment_159.txt|.|2
+bassist|.|bbc_entertainment_296.txt|.|2
+biggest band|.|bbc_entertainment_262.txt|.|2
+lightbody said|.|bbc_entertainment_296.txt|.|2
+charlie|.|bbc_entertainment_239.txt|.|2

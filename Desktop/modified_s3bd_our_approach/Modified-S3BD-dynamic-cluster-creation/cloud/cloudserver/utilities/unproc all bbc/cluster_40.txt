@@ -1,0 +1,64 @@
+otis ferry|.|bbc_politics_066.txt|.|2
+arrest|.|bbc_politics_290.txt|.|5|.|bbc_politics_014.txt|.|5|.|bbc_politics_182.txt|.|5|.|bbc_politics_072.txt|.|4|.|bbc_politics_384.txt|.|4|.|bbc_politics_378.txt|.|3|.|bbc_politics_070.txt|.|2
+dipped|.|bbc_business_415.txt|.|1
+average house|.|bbc_business_415.txt|.|3
+serious misgivings|.|bbc_politics_070.txt|.|2
+dip|.|bbc_business_415.txt|.|1
+ban on hunting|.|bbc_politics_066.txt|.|2
+museum would house|.|bbc_entertainment_344.txt|.|1
+detention|.|bbc_politics_368.txt|.|3|.|bbc_politics_214.txt|.|2|.|bbc_politics_378.txt|.|2
+detention orders|.|bbc_politics_378.txt|.|2
+said prices|.|bbc_business_405.txt|.|3
+prices rose|.|bbc_business_405.txt|.|2|.|bbc_business_170.txt|.|2
+approvals|.|bbc_business_085.txt|.|3|.|bbc_business_153.txt|.|2
+control orders|.|bbc_politics_182.txt|.|2|.|bbc_politics_072.txt|.|2
+face house arrest|.|bbc_politics_384.txt|.|3
+controversial|.|bbc_entertainment_192.txt|.|2|.|bbc_entertainment_099.txt|.|2|.|bbc_sport_109.txt|.|2|.|bbc_politics_268.txt|.|1|.|bbc_politics_072.txt|.|2|.|bbc_sport_216.txt|.|1
+seattle|.|bbc_entertainment_257.txt|.|3
+double eviction|.|bbc_entertainment_221.txt|.|2|.|bbc_entertainment_187.txt|.|2
+house prices|.|bbc_business_405.txt|.|7|.|bbc_business_170.txt|.|4|.|bbc_business_329.txt|.|2|.|bbc_business_248.txt|.|5|.|bbc_business_153.txt|.|5
+guitarist|.|bbc_entertainment_257.txt|.|2|.|bbc_entertainment_134.txt|.|3
+baron|.|bbc_politics_289.txt|.|2
+circumstances|.|bbc_politics_378.txt|.|2
+praised|.|bbc_politics_139.txt|.|1|.|bbc_entertainment_141.txt|.|1|.|bbc_sport_228.txt|.|1
+deputy|.|bbc_business_170.txt|.|2|.|bbc_politics_167.txt|.|2
+uk house prices|.|bbc_business_405.txt|.|2|.|bbc_business_415.txt|.|2
+recording studio|.|bbc_entertainment_344.txt|.|2
+deputy prime|.|bbc_business_170.txt|.|2|.|bbc_politics_167.txt|.|2
+boothroyd has said|.|bbc_politics_117.txt|.|1|.|bbc_politics_287.txt|.|1
+house price|.|bbc_business_415.txt|.|6
+boothroyd|.|bbc_politics_117.txt|.|4|.|bbc_politics_287.txt|.|4
+orders|.|bbc_politics_092.txt|.|3|.|bbc_politics_067.txt|.|4|.|bbc_politics_182.txt|.|2|.|bbc_politics_072.txt|.|2|.|bbc_politics_390.txt|.|4|.|bbc_politics_378.txt|.|6
+clarke|.|bbc_politics_049.txt|.|5|.|bbc_politics_056.txt|.|3|.|bbc_politics_153.txt|.|4|.|bbc_politics_221.txt|.|3|.|bbc_politics_182.txt|.|5|.|bbc_politics_220.txt|.|4|.|bbc_politics_072.txt|.|5|.|bbc_politics_227.txt|.|6|.|bbc_politics_147.txt|.|5|.|bbc_politics_097.txt|.|5
+brother|.|bbc_entertainment_221.txt|.|5|.|bbc_entertainment_180.txt|.|2|.|bbc_entertainment_304.txt|.|3|.|bbc_entertainment_179.txt|.|2|.|bbc_entertainment_187.txt|.|2|.|bbc_entertainment_216.txt|.|2|.|bbc_entertainment_203.txt|.|5|.|bbc_entertainment_225.txt|.|3
+jimi hendrix|.|bbc_entertainment_257.txt|.|1|.|bbc_entertainment_270.txt|.|2
+figures|.|bbc_tech_203.txt|.|3|.|bbc_tech_130.txt|.|3|.|bbc_tech_178.txt|.|3|.|bbc_business_248.txt|.|5
+issues like|.|bbc_politics_289.txt|.|2
+recording|.|bbc_entertainment_344.txt|.|2
+house|.|bbc_politics_319.txt|.|2|.|bbc_politics_221.txt|.|3|.|bbc_business_170.txt|.|5|.|bbc_politics_072.txt|.|7|.|bbc_business_248.txt|.|6|.|bbc_business_153.txt|.|5|.|bbc_politics_290.txt|.|5|.|bbc_politics_289.txt|.|5|.|bbc_entertainment_141.txt|.|3|.|bbc_entertainment_344.txt|.|2|.|bbc_business_323.txt|.|1|.|bbc_politics_378.txt|.|5|.|bbc_politics_117.txt|.|4|.|bbc_politics_384.txt|.|5|.|bbc_business_415.txt|.|9|.|bbc_politics_070.txt|.|5|.|bbc_politics_163.txt|.|2|.|bbc_entertainment_257.txt|.|4|.|bbc_business_405.txt|.|11|.|bbc_politics_014.txt|.|5|.|bbc_entertainment_187.txt|.|2|.|bbc_politics_066.txt|.|4|.|bbc_politics_182.txt|.|7|.|bbc_politics_287.txt|.|4|.|bbc_business_329.txt|.|2
+slowdown|.|bbc_business_177.txt|.|2|.|bbc_business_248.txt|.|3
+halifax said|.|bbc_business_405.txt|.|3
+order act|.|bbc_politics_066.txt|.|2
+ferry|.|bbc_politics_066.txt|.|3
+democratic|.|bbc_politics_163.txt|.|2
+confirms|.|bbc_business_248.txt|.|1
+believed|.|bbc_politics_117.txt|.|2|.|bbc_politics_287.txt|.|2
+public order|.|bbc_politics_066.txt|.|2
+upper house|.|bbc_politics_289.txt|.|2
+clause|.|bbc_politics_014.txt|.|5
+registry|.|bbc_business_248.txt|.|2
+uk house prices dip|.|bbc_business_415.txt|.|1
+limited|.|bbc_politics_378.txt|.|2
+house of lords|.|bbc_politics_221.txt|.|3|.|bbc_politics_117.txt|.|3|.|bbc_politics_287.txt|.|3|.|bbc_politics_163.txt|.|2
+uk citizens|.|bbc_politics_182.txt|.|2
+no desire|.|bbc_politics_072.txt|.|2
+concessions|.|bbc_politics_180.txt|.|2|.|bbc_politics_072.txt|.|4
+government figures|.|bbc_business_248.txt|.|2
+clarke says|.|bbc_politics_182.txt|.|2
+threatens|.|bbc_entertainment_257.txt|.|1
+house of commons chamber|.|bbc_politics_066.txt|.|2
+lords speaker|.|bbc_politics_117.txt|.|2|.|bbc_politics_287.txt|.|2
+mortgage approvals|.|bbc_business_153.txt|.|1
+labour leader|.|bbc_politics_289.txt|.|1
+citizens|.|bbc_business_477.txt|.|4|.|bbc_politics_182.txt|.|2|.|bbc_politics_384.txt|.|4
+commons chamber|.|bbc_politics_066.txt|.|2

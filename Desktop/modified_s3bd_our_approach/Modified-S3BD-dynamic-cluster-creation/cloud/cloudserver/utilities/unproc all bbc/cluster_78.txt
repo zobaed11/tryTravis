@@ -1,0 +1,64 @@
+magic|.|bbc_entertainment_353.txt|.|13|.|bbc_sport_302.txt|.|1|.|bbc_sport_314.txt|.|1
+infected finger|.|bbc_sport_338.txt|.|1
+stringer|.|bbc_sport_302.txt|.|3|.|bbc_sport_314.txt|.|3
+gregan|.|bbc_sport_331.txt|.|2
+domination|.|bbc_sport_290.txt|.|1
+republic|.|bbc_sport_132.txt|.|3|.|bbc_tech_001.txt|.|3|.|bbc_sport_134.txt|.|12|.|bbc_sport_133.txt|.|2|.|bbc_sport_217.txt|.|3
+dropped goal|.|bbc_sport_380.txt|.|2
+payne|.|bbc_sport_325.txt|.|2|.|bbc_sport_379.txt|.|2
+april|.|bbc_sport_002.txt|.|2
+burger|.|bbc_sport_331.txt|.|2
+argentina|.|bbc_sport_380.txt|.|4|.|bbc_business_330.txt|.|7|.|bbc_sport_210.txt|.|2|.|bbc_sport_275.txt|.|2|.|bbc_business_093.txt|.|4|.|bbc_business_080.txt|.|5
+uses lasers|.|bbc_tech_023.txt|.|1
+group company|.|bbc_business_486.txt|.|1
+scarlets|.|bbc_sport_333.txt|.|4|.|bbc_sport_361.txt|.|5
+lansdowne road|.|bbc_sport_378.txt|.|2|.|bbc_sport_405.txt|.|3
+talk|.|bbc_business_417.txt|.|2|.|bbc_sport_220.txt|.|2
+brian|.|bbc_sport_132.txt|.|2|.|bbc_sport_134.txt|.|2|.|bbc_sport_217.txt|.|2
+santry|.|bbc_sport_002.txt|.|2
+manager brian|.|bbc_sport_134.txt|.|2
+wallabies|.|bbc_sport_331.txt|.|2
+wins|.|bbc_sport_060.txt|.|1|.|bbc_sport_323.txt|.|1|.|bbc_entertainment_091.txt|.|1|.|bbc_sport_064.txt|.|1|.|bbc_sport_422.txt|.|1|.|bbc_entertainment_189.txt|.|1|.|bbc_sport_505.txt|.|1|.|bbc_entertainment_327.txt|.|1
+second try|.|bbc_sport_311.txt|.|2
+easterby|.|bbc_sport_418.txt|.|2|.|bbc_sport_417.txt|.|2
+ireland captain|.|bbc_sport_302.txt|.|2|.|bbc_sport_314.txt|.|2
+film and television|.|bbc_entertainment_194.txt|.|3
+kerr|.|bbc_sport_132.txt|.|1|.|bbc_sport_134.txt|.|3|.|bbc_sport_217.txt|.|6
+sandoz|.|bbc_business_201.txt|.|4
+planes|.|bbc_business_069.txt|.|6|.|bbc_business_047.txt|.|4|.|bbc_business_407.txt|.|4
+dry|.|bbc_sport_354.txt|.|2
+brian kerr|.|bbc_sport_132.txt|.|1|.|bbc_sport_134.txt|.|2|.|bbc_sport_217.txt|.|2
+victory over england|.|bbc_sport_290.txt|.|2
+ms druyun|.|bbc_business_161.txt|.|6
+republic of ireland|.|bbc_sport_134.txt|.|11
+mail on sunday|.|bbc_business_166.txt|.|1
+stay tuned|.|bbc_tech_159.txt|.|2|.|bbc_tech_147.txt|.|2
+duffy|.|bbc_sport_311.txt|.|3|.|bbc_sport_417.txt|.|1
+umaga|.|bbc_sport_331.txt|.|2
+believe it changed|.|bbc_sport_275.txt|.|1
+injury time|.|bbc_sport_380.txt|.|1
+penalty|.|bbc_sport_377.txt|.|5|.|bbc_sport_407.txt|.|5|.|bbc_sport_380.txt|.|5|.|bbc_sport_225.txt|.|3|.|bbc_sport_147.txt|.|2|.|bbc_sport_401.txt|.|2|.|bbc_politics_030.txt|.|3
+northern ireland minister|.|bbc_politics_183.txt|.|2
+fiscal year|.|bbc_business_322.txt|.|2
+home game|.|bbc_sport_134.txt|.|2
+houllier|.|bbc_sport_228.txt|.|8
+disruptive children|.|bbc_politics_055.txt|.|2
+gavin duffy|.|bbc_sport_311.txt|.|2
+lansdowne|.|bbc_sport_378.txt|.|2|.|bbc_sport_405.txt|.|3
+scott dies|.|bbc_politics_183.txt|.|1
+nitoglia|.|bbc_sport_302.txt|.|3|.|bbc_sport_314.txt|.|3
+potter|.|bbc_tech_114.txt|.|2|.|bbc_entertainment_028.txt|.|5|.|bbc_entertainment_033.txt|.|4|.|bbc_entertainment_025.txt|.|6
+tough game|.|bbc_sport_301.txt|.|2
+mr boateng|.|bbc_politics_407.txt|.|4
+shane horgan|.|bbc_sport_417.txt|.|2
+horgan|.|bbc_sport_418.txt|.|2|.|bbc_sport_417.txt|.|3
+jury|.|bbc_entertainment_048.txt|.|2|.|bbc_entertainment_336.txt|.|4
+richard and judy|.|bbc_entertainment_004.txt|.|3
+jakob|.|bbc_tech_168.txt|.|2
+restraining|.|bbc_entertainment_327.txt|.|2
+new line|.|bbc_entertainment_379.txt|.|2|.|bbc_entertainment_094.txt|.|3
+kicked|.|bbc_sport_380.txt|.|2
+replacement scheme|.|bbc_tech_194.txt|.|1
+hickie|.|bbc_sport_311.txt|.|3|.|bbc_sport_302.txt|.|2|.|bbc_sport_314.txt|.|2
+kieran|.|bbc_sport_379.txt|.|2
+ireland|.|bbc_sport_330.txt|.|3|.|bbc_sport_305.txt|.|2|.|bbc_sport_352.txt|.|5|.|bbc_sport_300.txt|.|2|.|bbc_politics_183.txt|.|4|.|bbc_sport_314.txt|.|8|.|bbc_sport_403.txt|.|5|.|bbc_sport_379.txt|.|1|.|bbc_sport_323.txt|.|5|.|bbc_sport_132.txt|.|2|.|bbc_sport_331.txt|.|4|.|bbc_sport_301.txt|.|3|.|bbc_sport_339.txt|.|3|.|bbc_sport_030.txt|.|1|.|bbc_sport_415.txt|.|2|.|bbc_sport_322.txt|.|2|.|bbc_sport_311.txt|.|8|.|bbc_sport_354.txt|.|5|.|bbc_sport_418.txt|.|2|.|bbc_sport_290.txt|.|6|.|bbc_sport_409.txt|.|3|.|bbc_sport_338.txt|.|2|.|bbc_sport_014.txt|.|2|.|bbc_sport_133.txt|.|3|.|bbc_sport_405.txt|.|11|.|bbc_sport_315.txt|.|2|.|bbc_sport_380.txt|.|10|.|bbc_sport_302.txt|.|9|.|bbc_sport_134.txt|.|12|.|bbc_sport_002.txt|.|3|.|bbc_sport_404.txt|.|8|.|bbc_sport_417.txt|.|4

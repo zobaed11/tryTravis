@@ -1,0 +1,38 @@
+156
+santa monica|.|WET3591.txt|.|225
+wanting|.|WET3411.txt|.|80
+rigor|.|WET3591.txt|.|149
+students|.|WET1608.txt|.|26|.|WET4828.txt|.|45|.|WET1956.txt|.|34|.|WET1519.txt|.|37|.|WET291.txt|.|185|.|WET4403.txt|.|21|.|WET3591.txt|.|673|.|WET2316.txt|.|36|.|WET4824.txt|.|39|.|WET5908.txt|.|17|.|WET4477.txt|.|38|.|WET510.txt|.|7|.|WET1393.txt|.|49|.|WET1580.txt|.|28|.|WET3665.txt|.|37|.|WET2253.txt|.|12|.|WET6308.txt|.|79|.|WET2427.txt|.|56|.|WET5143.txt|.|40|.|WET4325.txt|.|21|.|WET1974.txt|.|33|.|WET3411.txt|.|168|.|WET171.txt|.|410|.|WET326.txt|.|94|.|WET3166.txt|.|62
+dorm life|.|WET3591.txt|.|162
+santa|.|WET3591.txt|.|227
+current student|.|WET3591.txt|.|161
+prospective students|.|WET3591.txt|.|185
+discuss the finer|.|WET3411.txt|.|72
+generosity|.|WET221.txt|.|2|.|WET2492.txt|.|2|.|WET3090.txt|.|2|.|WET4002.txt|.|1|.|WET151.txt|.|2|.|WET4021.txt|.|2
+otterbein|.|WET4477.txt|.|56
+anxious|.|WET6308.txt|.|14
+japanese|.|WET329.txt|.|11|.|WET4268.txt|.|11|.|WET3387.txt|.|11|.|WET349.txt|.|12|.|WET704.txt|.|11|.|WET140.txt|.|11|.|WET3884.txt|.|11|.|WET4169.txt|.|11|.|WET3193.txt|.|11|.|WET907.txt|.|11
+finer points|.|WET3411.txt|.|72
+alaska southeast|.|WET3166.txt|.|92
+wanting to discuss|.|WET3411.txt|.|72
+california|.|WET4036.txt|.|309|.|WET3930.txt|.|20|.|WET293.txt|.|81|.|WET5051.txt|.|32|.|WET291.txt|.|434|.|WET4454.txt|.|72|.|WET292.txt|.|338|.|WET1270.txt|.|100
+prospective|.|WET3591.txt|.|191
+wanting to discuss the finer|.|WET3411.txt|.|72
+exhibition|.|WET6308.txt|.|79
+innovation|.|WET2781.txt|.|2|.|WET435.txt|.|2|.|WET842.txt|.|2|.|WET291.txt|.|9|.|WET2171.txt|.|2|.|WET2617.txt|.|2|.|WET5072.txt|.|3|.|WET3846.txt|.|2|.|WET5163.txt|.|2|.|WET5481.txt|.|2|.|WET2201.txt|.|2|.|WET3854.txt|.|2|.|WET73.txt|.|1|.|WET3003.txt|.|1|.|WET4877.txt|.|6|.|WET2228.txt|.|2|.|WET6275.txt|.|2|.|WET3139.txt|.|36|.|WET4289.txt|.|1|.|WET3874.txt|.|3|.|WET1188.txt|.|2|.|WET5899.txt|.|2|.|WET326.txt|.|1|.|WET707.txt|.|1|.|WET259.txt|.|2|.|WET1760.txt|.|2|.|WET4379.txt|.|1|.|WET6000.txt|.|2|.|WET3505.txt|.|2|.|WET3409.txt|.|4|.|WET2459.txt|.|32|.|WET5831.txt|.|2|.|WET2777.txt|.|2|.|WET6115.txt|.|15|.|WET3443.txt|.|2|.|WET660.txt|.|2|.|WET1523.txt|.|2|.|WET4443.txt|.|2|.|WET4646.txt|.|1|.|WET1088.txt|.|2|.|WET1754.txt|.|11|.|WET4541.txt|.|2|.|WET2732.txt|.|3|.|WET2199.txt|.|2|.|WET1797.txt|.|20|.|WET3902.txt|.|3|.|WET4249.txt|.|2|.|WET509.txt|.|2|.|WET4089.txt|.|2|.|WET671.txt|.|1|.|WET2109.txt|.|2|.|WET861.txt|.|2|.|WET3657.txt|.|2|.|WET3748.txt|.|2|.|WET4294.txt|.|2|.|WET1799.txt|.|2|.|WET3853.txt|.|2|.|WET3588.txt|.|9|.|WET6195.txt|.|2|.|WET5509.txt|.|3|.|WET3083.txt|.|1|.|WET4863.txt|.|2|.|WET752.txt|.|1|.|WET5071.txt|.|2|.|WET2261.txt|.|2|.|WET5908.txt|.|2|.|WET3934.txt|.|2|.|WET3499.txt|.|2|.|WET5169.txt|.|1|.|WET327.txt|.|32|.|WET4258.txt|.|14|.|WET2037.txt|.|1|.|WET5898.txt|.|2|.|WET4881.txt|.|23|.|WET1586.txt|.|1|.|WET309.txt|.|2|.|WET1573.txt|.|2|.|WET4423.txt|.|2|.|WET4484.txt|.|1|.|WET5004.txt|.|2|.|WET4741.txt|.|3|.|WET7.txt|.|2|.|WET2060.txt|.|2|.|WET341.txt|.|2|.|WET4751.txt|.|4|.|WET3361.txt|.|2|.|WET2611.txt|.|3|.|WET4442.txt|.|1|.|WET3824.txt|.|1|.|WET4709.txt|.|2|.|WET1815.txt|.|2|.|WET941.txt|.|3|.|WET6223.txt|.|2|.|WET3084.txt|.|1|.|WET2940.txt|.|2|.|WET2492.txt|.|2|.|WET1136.txt|.|12|.|WET1437.txt|.|2|.|WET2874.txt|.|1|.|WET1601.txt|.|2|.|WET2891.txt|.|1
+utterances|.|WET291.txt|.|2
+transfer students|.|WET6308.txt|.|11
+pleasure makes|.|WET6308.txt|.|14
+makes|.|WET6308.txt|.|14
+programs auditions|.|WET2427.txt|.|60
+dorm|.|WET3591.txt|.|196
+events future|.|WET4477.txt|.|4
+opportunity|.|WET4477.txt|.|3
+monica|.|WET3591.txt|.|227
+equal|.|WET4477.txt|.|3
+mediating|.|WET291.txt|.|2|.|WET1033.txt|.|2
+academic rigor|.|WET3591.txt|.|147
+finer|.|WET3411.txt|.|72
+bsn schools|.|WET1974.txt|.|14
+southeast|.|WET3166.txt|.|116
+dragons of middle|.|WET1822.txt|.|13

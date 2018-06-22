@@ -1,0 +1,38 @@
+36
+batting|.|WET3826.txt|.|20
+arizona|.|WET4424.txt|.|15|.|WET4613.txt|.|40|.|WET3082.txt|.|76|.|WET5689.txt|.|12|.|WET3169.txt|.|22|.|WET3819.txt|.|399
+baseball america|.|WET5008.txt|.|11
+baseball season|.|WET3045.txt|.|15
+batting gloves|.|WET3826.txt|.|10
+field gear|.|WET3826.txt|.|10
+x x|.|WET1257.txt|.|17
+path|.|WET4482.txt|.|32
+history baseball|.|WET3826.txt|.|70|.|WET3827.txt|.|42|.|WET81.txt|.|56
+super audio cd|.|WET5729.txt|.|17
+schools baseball|.|WET4226.txt|.|14
+opens in new|.|WET3548.txt|.|49|.|WET733.txt|.|20
+baseball categories|.|WET3826.txt|.|10
+moremay|.|WET5648.txt|.|32
+beads|.|WET2175.txt|.|62
+galleria|.|WET924.txt|.|13
+copper ions|.|WET4833.txt|.|4
+helmets|.|WET3826.txt|.|11
+baseball discussions|.|WET3280.txt|.|5
+pass|.|WET851.txt|.|84|.|WET251.txt|.|60|.|WET3948.txt|.|10
+dhillon|.|WET3115.txt|.|10
+baseball bat|.|WET81.txt|.|40
+howto|.|WET3827.txt|.|24
+breast cancer|.|WET3826.txt|.|10
+baseball bat faq|.|WET3827.txt|.|6
+uc drc|.|WET3429.txt|.|26
+easy|.|WET5457.txt|.|8|.|WET5728.txt|.|11
+ladder hook|.|WET2730.txt|.|36
+bucket|.|WET4321.txt|.|6
+camps|.|WET3827.txt|.|14
+mountain west|.|WET1462.txt|.|52
+guide baseball|.|WET81.txt|.|32
+domain|.|WET3582.txt|.|12|.|WET4827.txt|.|38|.|WET636.txt|.|55|.|WET637.txt|.|50|.|WET4375.txt|.|55|.|WET1078.txt|.|45|.|WET4376.txt|.|36|.|WET5045.txt|.|3|.|WET3813.txt|.|8|.|WET5342.txt|.|7
+census|.|WET3886.txt|.|26|.|WET3712.txt|.|221
+baseball|.|WET1256.txt|.|36|.|WET3826.txt|.|326|.|WET5005.txt|.|41|.|WET3013.txt|.|52|.|WET4226.txt|.|78|.|WET3280.txt|.|13|.|WET4394.txt|.|48|.|WET1937.txt|.|79|.|WET5273.txt|.|20|.|WET1257.txt|.|226|.|WET3827.txt|.|206|.|WET81.txt|.|335|.|WET966.txt|.|24|.|WET3015.txt|.|26|.|WET5676.txt|.|113|.|WET5689.txt|.|18|.|WET3045.txt|.|66|.|WET5008.txt|.|162
+baseball statistics|.|WET3045.txt|.|6
+batting helmets|.|WET3826.txt|.|10

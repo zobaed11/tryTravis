@@ -1,0 +1,64 @@
+figures suggest|.|bbc_tech_130.txt|.|1|.|bbc_tech_178.txt|.|1
+bad|.|bbc_business_244.txt|.|2|.|bbc_sport_154.txt|.|2|.|bbc_business_387.txt|.|2|.|bbc_tech_362.txt|.|3|.|bbc_entertainment_138.txt|.|2|.|bbc_entertainment_158.txt|.|2|.|bbc_business_050.txt|.|2|.|bbc_politics_160.txt|.|2
+street association|.|bbc_business_317.txt|.|2
+retail sales|.|bbc_business_450.txt|.|4|.|bbc_business_306.txt|.|4|.|bbc_business_481.txt|.|3|.|bbc_business_063.txt|.|4
+strong sales|.|bbc_business_247.txt|.|2
+sales|.|bbc_business_095.txt|.|5|.|bbc_entertainment_046.txt|.|2|.|bbc_business_132.txt|.|6|.|bbc_business_001.txt|.|4|.|bbc_business_450.txt|.|15|.|bbc_business_306.txt|.|8|.|bbc_tech_130.txt|.|9|.|bbc_tech_178.txt|.|9|.|bbc_entertainment_127.txt|.|11|.|bbc_business_099.txt|.|19|.|bbc_business_155.txt|.|3|.|bbc_entertainment_066.txt|.|3|.|bbc_business_225.txt|.|6|.|bbc_business_500.txt|.|2|.|bbc_business_384.txt|.|9|.|bbc_business_091.txt|.|2|.|bbc_business_056.txt|.|9|.|bbc_business_040.txt|.|5|.|bbc_entertainment_004.txt|.|2|.|bbc_business_481.txt|.|6|.|bbc_business_115.txt|.|3|.|bbc_business_247.txt|.|6|.|bbc_business_410.txt|.|6|.|bbc_business_173.txt|.|7|.|bbc_business_317.txt|.|7|.|bbc_entertainment_306.txt|.|2|.|bbc_entertainment_103.txt|.|11|.|bbc_business_406.txt|.|15|.|bbc_business_207.txt|.|6|.|bbc_business_430.txt|.|2|.|bbc_business_201.txt|.|2|.|bbc_entertainment_338.txt|.|2|.|bbc_business_329.txt|.|4|.|bbc_business_050.txt|.|6|.|bbc_entertainment_266.txt|.|3|.|bbc_business_063.txt|.|15|.|bbc_business_288.txt|.|2|.|bbc_business_390.txt|.|8|.|bbc_business_431.txt|.|2
+sales have tripled|.|bbc_tech_130.txt|.|1
+faring well|.|bbc_business_406.txt|.|1
+triple sales|.|bbc_tech_178.txt|.|1
+regent street|.|bbc_business_317.txt|.|2
+sales rose|.|bbc_business_450.txt|.|2
+mineral|.|bbc_business_050.txt|.|2
+sales violations|.|bbc_business_390.txt|.|2
+regent|.|bbc_business_317.txt|.|2
+trafford centre|.|bbc_business_317.txt|.|2
+retailers|.|bbc_business_481.txt|.|7|.|bbc_business_406.txt|.|4
+surge|.|bbc_business_045.txt|.|2|.|bbc_business_450.txt|.|2|.|bbc_business_408.txt|.|1
+violations|.|bbc_entertainment_171.txt|.|2|.|bbc_business_390.txt|.|3
+cream|.|bbc_business_050.txt|.|2
+car sales|.|bbc_business_063.txt|.|3
+theft auto|.|bbc_tech_130.txt|.|2|.|bbc_tech_178.txt|.|2
+us retailers|.|bbc_business_406.txt|.|2
+psa|.|bbc_business_431.txt|.|2
+profits margins|.|bbc_business_050.txt|.|1
+strong|.|bbc_business_310.txt|.|3|.|bbc_business_112.txt|.|2|.|bbc_sport_444.txt|.|2|.|bbc_business_439.txt|.|2|.|bbc_business_450.txt|.|3|.|bbc_business_031.txt|.|3|.|bbc_business_259.txt|.|4|.|bbc_business_097.txt|.|2|.|bbc_business_038.txt|.|2|.|bbc_business_247.txt|.|3
+singles chart|.|bbc_entertainment_112.txt|.|2|.|bbc_entertainment_278.txt|.|3|.|bbc_entertainment_127.txt|.|3|.|bbc_entertainment_159.txt|.|2|.|bbc_entertainment_103.txt|.|3
+uk sales|.|bbc_tech_130.txt|.|2|.|bbc_tech_178.txt|.|2
+increased|.|bbc_politics_101.txt|.|1|.|bbc_tech_058.txt|.|1|.|bbc_business_173.txt|.|4
+digital sales|.|bbc_entertainment_127.txt|.|3|.|bbc_entertainment_103.txt|.|3
+us retail|.|bbc_business_450.txt|.|2|.|bbc_business_063.txt|.|4
+sales in asia|.|bbc_business_056.txt|.|2
+hot|.|bbc_entertainment_127.txt|.|3|.|bbc_entertainment_103.txt|.|3
+retail|.|bbc_business_450.txt|.|4|.|bbc_business_306.txt|.|5|.|bbc_tech_352.txt|.|2|.|bbc_business_481.txt|.|6|.|bbc_business_236.txt|.|4|.|bbc_business_063.txt|.|6|.|bbc_business_409.txt|.|4|.|bbc_business_155.txt|.|3
+falling profits|.|bbc_business_173.txt|.|1
+gun sales|.|bbc_business_390.txt|.|3
+saw annual|.|bbc_business_173.txt|.|1
+largest retailer|.|bbc_business_390.txt|.|2
+see|.|bbc_sport_130.txt|.|2
+asia last|.|bbc_business_056.txt|.|2
+horan|.|bbc_sport_378.txt|.|2
+retailers faring|.|bbc_business_406.txt|.|1
+profit|.|bbc_business_118.txt|.|3|.|bbc_business_480.txt|.|2|.|bbc_business_143.txt|.|1|.|bbc_business_237.txt|.|3|.|bbc_business_384.txt|.|1|.|bbc_business_503.txt|.|4|.|bbc_business_464.txt|.|2|.|bbc_business_040.txt|.|2|.|bbc_business_062.txt|.|5|.|bbc_tech_354.txt|.|3|.|bbc_business_207.txt|.|2|.|bbc_business_088.txt|.|2
+falling|.|bbc_business_173.txt|.|1
+san|.|bbc_tech_119.txt|.|3|.|bbc_sport_424.txt|.|2|.|bbc_entertainment_293.txt|.|3|.|bbc_tech_018.txt|.|2|.|bbc_tech_135.txt|.|8|.|bbc_tech_130.txt|.|5|.|bbc_tech_178.txt|.|5|.|bbc_tech_346.txt|.|3|.|bbc_sport_426.txt|.|2|.|bbc_sport_507.txt|.|2|.|bbc_sport_509.txt|.|2
+us singles|.|bbc_entertainment_127.txt|.|2|.|bbc_entertainment_103.txt|.|2
+eurotunnel|.|bbc_business_500.txt|.|4
+garnier said|.|bbc_business_115.txt|.|2
+saw|.|bbc_entertainment_031.txt|.|2|.|bbc_business_056.txt|.|2|.|bbc_business_173.txt|.|2|.|bbc_tech_345.txt|.|2
+generic|.|bbc_business_201.txt|.|3|.|bbc_business_095.txt|.|2
+cut production|.|bbc_business_099.txt|.|2
+ambev|.|bbc_business_132.txt|.|4
+grand theft|.|bbc_tech_130.txt|.|2|.|bbc_tech_178.txt|.|2
+car sector|.|bbc_business_063.txt|.|2
+faring|.|bbc_business_406.txt|.|2
+houlihan|.|bbc_tech_130.txt|.|2|.|bbc_tech_178.txt|.|2
+singles|.|bbc_entertainment_233.txt|.|1|.|bbc_entertainment_112.txt|.|3|.|bbc_sport_431.txt|.|2|.|bbc_entertainment_285.txt|.|3|.|bbc_entertainment_278.txt|.|4|.|bbc_entertainment_127.txt|.|6|.|bbc_sport_466.txt|.|2|.|bbc_entertainment_234.txt|.|2|.|bbc_entertainment_159.txt|.|2|.|bbc_entertainment_103.txt|.|6|.|bbc_sport_455.txt|.|2
+ons|.|bbc_business_481.txt|.|4
+great year|.|bbc_business_247.txt|.|2
+time warner|.|bbc_business_001.txt|.|2
+us singles chart|.|bbc_entertainment_127.txt|.|2|.|bbc_entertainment_103.txt|.|2
+well|.|bbc_business_406.txt|.|4
+san andreas|.|bbc_tech_135.txt|.|6|.|bbc_tech_130.txt|.|5|.|bbc_tech_178.txt|.|5
+survey has found|.|bbc_business_225.txt|.|1|.|bbc_business_295.txt|.|1
+aol|.|bbc_business_001.txt|.|5

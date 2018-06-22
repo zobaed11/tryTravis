@@ -1,0 +1,64 @@
+life insurer|.|bbc_business_206.txt|.|1
+national insurance|.|bbc_politics_340.txt|.|2|.|bbc_politics_022.txt|.|2
+lib|.|bbc_politics_301.txt|.|8|.|bbc_politics_403.txt|.|3|.|bbc_politics_272.txt|.|5|.|bbc_politics_102.txt|.|2|.|bbc_politics_396.txt|.|5|.|bbc_politics_213.txt|.|9|.|bbc_politics_416.txt|.|5|.|bbc_politics_085.txt|.|2|.|bbc_politics_269.txt|.|2|.|bbc_politics_300.txt|.|2|.|bbc_politics_141.txt|.|2|.|bbc_politics_340.txt|.|3|.|bbc_politics_339.txt|.|8|.|bbc_politics_387.txt|.|2|.|bbc_politics_335.txt|.|3|.|bbc_politics_361.txt|.|2|.|bbc_politics_398.txt|.|3|.|bbc_politics_223.txt|.|4|.|bbc_politics_355.txt|.|7|.|bbc_politics_070.txt|.|2|.|bbc_politics_338.txt|.|6|.|bbc_politics_235.txt|.|3|.|bbc_politics_337.txt|.|3|.|bbc_politics_146.txt|.|2|.|bbc_politics_014.txt|.|3|.|bbc_politics_341.txt|.|4|.|bbc_politics_182.txt|.|2|.|bbc_politics_417.txt|.|4|.|bbc_politics_028.txt|.|5|.|bbc_politics_088.txt|.|3|.|bbc_politics_054.txt|.|3|.|bbc_politics_283.txt|.|5|.|bbc_politics_002.txt|.|2|.|bbc_politics_363.txt|.|2
+teenagers|.|bbc_politics_246.txt|.|2|.|bbc_politics_345.txt|.|2
+dem|.|bbc_politics_337.txt|.|2|.|bbc_politics_146.txt|.|2|.|bbc_politics_355.txt|.|4|.|bbc_politics_028.txt|.|3|.|bbc_politics_088.txt|.|2|.|bbc_politics_416.txt|.|2|.|bbc_politics_363.txt|.|2|.|bbc_politics_335.txt|.|2
+duty threshold|.|bbc_politics_054.txt|.|2|.|bbc_politics_361.txt|.|4
+telephoning|.|bbc_politics_396.txt|.|2
+local election|.|bbc_politics_398.txt|.|1
+win students|.|bbc_politics_213.txt|.|1
+problem|.|bbc_politics_338.txt|.|3
+slam tennis|.|bbc_sport_447.txt|.|2
+cable said|.|bbc_politics_355.txt|.|3
+wasted|.|bbc_politics_223.txt|.|3|.|bbc_politics_341.txt|.|3
+information commissioner|.|bbc_politics_337.txt|.|1|.|bbc_politics_396.txt|.|3|.|bbc_politics_002.txt|.|2|.|bbc_politics_242.txt|.|3
+totally|.|bbc_sport_187.txt|.|1|.|bbc_politics_002.txt|.|2
+tell the truth|.|bbc_politics_403.txt|.|2
+wasted vote|.|bbc_politics_223.txt|.|3|.|bbc_politics_341.txt|.|3
+cable|.|bbc_tech_254.txt|.|2|.|bbc_politics_355.txt|.|6|.|bbc_tech_280.txt|.|5|.|bbc_tech_070.txt|.|2|.|bbc_tech_184.txt|.|2|.|bbc_politics_054.txt|.|3|.|bbc_tech_394.txt|.|6
+commissioner|.|bbc_politics_337.txt|.|2|.|bbc_politics_407.txt|.|3|.|bbc_politics_396.txt|.|6|.|bbc_politics_347.txt|.|3|.|bbc_politics_002.txt|.|2|.|bbc_politics_242.txt|.|3
+inspection|.|bbc_politics_355.txt|.|2
+promoting|.|bbc_business_448.txt|.|1|.|bbc_entertainment_218.txt|.|2|.|bbc_business_226.txt|.|1|.|bbc_sport_473.txt|.|1|.|bbc_politics_338.txt|.|2|.|bbc_politics_019.txt|.|1
+terror|.|bbc_politics_379.txt|.|3|.|bbc_politics_100.txt|.|2|.|bbc_politics_072.txt|.|2|.|bbc_politics_384.txt|.|6|.|bbc_politics_070.txt|.|5|.|bbc_politics_205.txt|.|2|.|bbc_politics_014.txt|.|3|.|bbc_politics_224.txt|.|1|.|bbc_politics_182.txt|.|6|.|bbc_politics_052.txt|.|2|.|bbc_politics_378.txt|.|3|.|bbc_politics_160.txt|.|2|.|bbc_politics_216.txt|.|3|.|bbc_politics_097.txt|.|2
+cold calls|.|bbc_politics_337.txt|.|2|.|bbc_politics_088.txt|.|2
+local income tax|.|bbc_politics_398.txt|.|1
+charles kennedy|.|bbc_politics_301.txt|.|2
+top earners|.|bbc_politics_301.txt|.|2
+intentions|.|bbc_politics_337.txt|.|4|.|bbc_politics_396.txt|.|2|.|bbc_politics_088.txt|.|3
+lack|.|bbc_politics_223.txt|.|2|.|bbc_politics_341.txt|.|2
+payment protection|.|bbc_politics_338.txt|.|2
+efforts|.|bbc_business_334.txt|.|2|.|bbc_politics_085.txt|.|1
+level waste|.|bbc_politics_146.txt|.|2
+lib dem|.|bbc_politics_337.txt|.|2|.|bbc_politics_146.txt|.|2|.|bbc_politics_355.txt|.|4|.|bbc_politics_028.txt|.|3|.|bbc_politics_088.txt|.|2|.|bbc_politics_416.txt|.|2|.|bbc_politics_363.txt|.|2|.|bbc_politics_335.txt|.|2
+kennedy|.|bbc_politics_247.txt|.|6|.|bbc_politics_223.txt|.|4|.|bbc_politics_301.txt|.|7|.|bbc_politics_272.txt|.|5|.|bbc_politics_323.txt|.|3|.|bbc_politics_284.txt|.|3|.|bbc_politics_093.txt|.|6|.|bbc_politics_036.txt|.|3|.|bbc_politics_340.txt|.|7|.|bbc_politics_341.txt|.|4|.|bbc_politics_417.txt|.|7|.|bbc_politics_283.txt|.|6|.|bbc_politics_363.txt|.|6|.|bbc_politics_335.txt|.|6
+buildings|.|bbc_politics_339.txt|.|2
+aggressively promoting|.|bbc_politics_338.txt|.|2
+nuclear dumpsite|.|bbc_politics_146.txt|.|3
+dem spokesman|.|bbc_politics_355.txt|.|2
+budd|.|bbc_politics_102.txt|.|2
+senior figure|.|bbc_politics_235.txt|.|1
+problem debts|.|bbc_politics_338.txt|.|1
+buyers|.|bbc_politics_339.txt|.|4
+student vote|.|bbc_politics_213.txt|.|1
+university|.|bbc_politics_023.txt|.|2|.|bbc_entertainment_296.txt|.|1|.|bbc_entertainment_281.txt|.|2|.|bbc_business_414.txt|.|2|.|bbc_politics_213.txt|.|6|.|bbc_entertainment_381.txt|.|4
+house arrest|.|bbc_politics_290.txt|.|5|.|bbc_politics_014.txt|.|5|.|bbc_politics_182.txt|.|5|.|bbc_politics_072.txt|.|4|.|bbc_politics_384.txt|.|4|.|bbc_politics_378.txt|.|3|.|bbc_politics_070.txt|.|2
+aggressively|.|bbc_politics_338.txt|.|2
+fundamental|.|bbc_politics_223.txt|.|2|.|bbc_politics_341.txt|.|2
+cold|.|bbc_politics_337.txt|.|2|.|bbc_politics_396.txt|.|3|.|bbc_politics_088.txt|.|2
+body is set|.|bbc_politics_085.txt|.|1
+higher taxes|.|bbc_politics_349.txt|.|2|.|bbc_politics_361.txt|.|2
+communications|.|bbc_politics_235.txt|.|1
+predict|.|bbc_politics_398.txt|.|1
+voting intentions|.|bbc_politics_337.txt|.|3|.|bbc_politics_396.txt|.|2|.|bbc_politics_088.txt|.|3
+stress|.|bbc_politics_118.txt|.|2|.|bbc_politics_355.txt|.|1
+rennard|.|bbc_politics_416.txt|.|2
+cold calling|.|bbc_politics_396.txt|.|2
+increase taxes|.|bbc_politics_283.txt|.|1
+totally condemned|.|bbc_politics_002.txt|.|2
+thomas said|.|bbc_politics_002.txt|.|2
+liberal democrats|.|bbc_politics_146.txt|.|2|.|bbc_politics_272.txt|.|4|.|bbc_politics_036.txt|.|2|.|bbc_politics_275.txt|.|2|.|bbc_politics_417.txt|.|2|.|bbc_politics_054.txt|.|3|.|bbc_politics_416.txt|.|4|.|bbc_politics_335.txt|.|3|.|bbc_politics_322.txt|.|2
+sahara|.|bbc_business_380.txt|.|2
+deleted|.|bbc_politics_002.txt|.|1
+qatar|.|bbc_business_158.txt|.|3|.|bbc_sport_459.txt|.|2
+dismantle an atomic|.|bbc_entertainment_262.txt|.|2
+liberal|.|bbc_politics_247.txt|.|2|.|bbc_politics_272.txt|.|4|.|bbc_politics_303.txt|.|3|.|bbc_politics_275.txt|.|2|.|bbc_politics_213.txt|.|2|.|bbc_politics_416.txt|.|6|.|bbc_politics_146.txt|.|2|.|bbc_politics_036.txt|.|5|.|bbc_politics_091.txt|.|2|.|bbc_politics_417.txt|.|2|.|bbc_politics_054.txt|.|3|.|bbc_politics_283.txt|.|2|.|bbc_politics_324.txt|.|2|.|bbc_politics_335.txt|.|4|.|bbc_politics_322.txt|.|2

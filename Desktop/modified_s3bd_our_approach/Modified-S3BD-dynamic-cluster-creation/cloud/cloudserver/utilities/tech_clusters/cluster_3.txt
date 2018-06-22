@@ -1,0 +1,17 @@
+3
+combat attacks|.|368.txt|.|1
+sensing|.|368.txt|.|2
+service firms|.|368.txt|.|2
+service attacks|.|368.txt|.|2
+nature|.|107.txt|.|2
+gambling|.|270.txt|.|3|.|299.txt|.|3
+net firms|.|270.txt|.|3|.|299.txt|.|3
+delta airlines|.|102.txt|.|3
+combat|.|368.txt|.|1
+net attacks|.|368.txt|.|2
+hitachi|.|356.txt|.|5
+seagrave|.|270.txt|.|4|.|299.txt|.|4
+attacks|.|270.txt|.|15|.|299.txt|.|15|.|156.txt|.|2|.|217.txt|.|6|.|368.txt|.|12|.|293.txt|.|2
+earth|.|141.txt|.|2|.|173.txt|.|3
+net service|.|368.txt|.|2
+net service firms|.|368.txt|.|2

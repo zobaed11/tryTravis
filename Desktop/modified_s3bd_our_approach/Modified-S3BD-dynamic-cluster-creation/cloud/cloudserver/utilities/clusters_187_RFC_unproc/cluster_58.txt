@@ -1,0 +1,120 @@
+http mime type|.|rfc2936.txt|.|13
+edi mime|.|rfc3335.txt|.|6
+common format and mime type|.|rfc4180.txt|.|8
+mime subtype|.|rfc3555.txt|.|44
+called|.|rfc3504.txt|.|4|.|rfc4040.txt|.|3
+vpim message|.|rfc2421.txt|.|27|.|rfc3801.txt|.|20
+identifiers april|.|rfc5147.txt|.|16
+mime|.|rfc2311.txt|.|130|.|rfc3893.txt|.|13|.|rfc2426.txt|.|106|.|rfc4337.txt|.|33|.|rfc2045.txt|.|41|.|rfc3362.txt|.|14|.|rfc4612.txt|.|17|.|rfc2913.txt|.|32|.|rfc4249.txt|.|12|.|rfc2184.txt|.|32|.|rfc4141.txt|.|76|.|rfc5965.txt|.|17|.|rfc5751.txt|.|100|.|rfc3240.txt|.|11|.|rfc2425.txt|.|83|.|rfc2557.txt|.|98|.|rfc2160.txt|.|11|.|rfc4823.txt|.|51|.|rfc3823.txt|.|7|.|rfc4709.txt|.|10|.|rfc2159.txt|.|15|.|rfc2912.txt|.|41|.|rfc5703.txt|.|144|.|rfc6152.txt|.|27|.|rfc2424.txt|.|8|.|rfc3640.txt|.|57|.|rfc3335.txt|.|50|.|rfc4483.txt|.|27|.|rfc3801.txt|.|61|.|rfc2503.txt|.|12|.|rfc3016.txt|.|27|.|rfc4281.txt|.|9|.|rfc3745.txt|.|41|.|rfc3839.txt|.|27|.|rfc3267.txt|.|28|.|rfc2183.txt|.|17|.|rfc3555.txt|.|185|.|rfc2423.txt|.|15|.|rfc3910.txt|.|23|.|rfc4289.txt|.|23|.|rfc3803.txt|.|12|.|rfc2927.txt|.|25|.|rfc2112.txt|.|27|.|rfc4723.txt|.|11|.|rfc5147.txt|.|65|.|rfc2422.txt|.|10|.|rfc4180.txt|.|22|.|rfc3802.txt|.|8|.|rfc2130.txt|.|37|.|rfc4040.txt|.|14|.|rfc2421.txt|.|56|.|rfc2049.txt|.|74|.|rfc2633.txt|.|102|.|rfc4393.txt|.|19|.|rfc3023.txt|.|161|.|rfc2077.txt|.|19|.|rfc2653.txt|.|21|.|rfc2047.txt|.|18|.|rfc4047.txt|.|41|.|rfc5504.txt|.|27|.|rfc2017.txt|.|7|.|rfc2161.txt|.|16|.|rfc2586.txt|.|15|.|rfc4130.txt|.|55|.|rfc3009.txt|.|42|.|rfc2048.txt|.|36|.|rfc3950.txt|.|11|.|rfc4102.txt|.|21|.|rfc3030.txt|.|34|.|rfc5877.txt|.|3|.|rfc2480.txt|.|30|.|rfc5987.txt|.|9|.|rfc3851.txt|.|120|.|rfc2652.txt|.|91|.|rfc3864.txt|.|28|.|rfc4021.txt|.|111|.|rfc3250.txt|.|12|.|rfc6047.txt|.|38|.|rfc2936.txt|.|38|.|rfc2157.txt|.|135
+mime body part for oda|.|rfc2161.txt|.|5
+fragment identifiers|.|rfc5147.txt|.|48
+media features for mime|.|rfc2912.txt|.|11
+format and mime|.|rfc4180.txt|.|8
+comment period|.|rfc2425.txt|.|19
+endings|.|rfc5147.txt|.|13
+howes|.|rfc2587.txt|.|3|.|rfc4515.txt|.|17|.|rfc2696.txt|.|3|.|rfc2426.txt|.|45|.|rfc2253.txt|.|4|.|rfc2255.txt|.|16|.|rfc2891.txt|.|12
+specification march|.|rfc5476.txt|.|44|.|rfc2311.txt|.|36|.|rfc6116.txt|.|21
+mime body part for fax|.|rfc2159.txt|.|7
+visual|.|rfc4337.txt|.|11|.|rfc3016.txt|.|58|.|rfc6170.txt|.|9
+sbml|.|rfc3823.txt|.|41
+mime content|.|rfc2586.txt|.|5|.|rfc2913.txt|.|19|.|rfc2912.txt|.|15
+error correction|.|rfc4756.txt|.|8|.|rfc5510.txt|.|35|.|rfc3695.txt|.|5|.|rfc2823.txt|.|14|.|rfc3009.txt|.|7|.|rfc2354.txt|.|11
+van|.|rfc2322.txt|.|13|.|rfc5835.txt|.|21|.|rfc5375.txt|.|37|.|rfc4452.txt|.|19|.|rfc3640.txt|.|45|.|rfc4864.txt|.|38|.|rfc5022.txt|.|86|.|rfc4382.txt|.|47|.|rfc4722.txt|.|86|.|rfc82.txt|.|5
+multimedia files|.|rfc4393.txt|.|1
+indicating media|.|rfc2912.txt|.|11
+interoperating|.|rfc4337.txt|.|5
+servers october|.|rfc4709.txt|.|14
+features for mime content|.|rfc2912.txt|.|11
+au header|.|rfc3640.txt|.|24
+oda|.|rfc2161.txt|.|22
+type definition|.|rfc2426.txt|.|57
+sbml team|.|rfc3823.txt|.|8
+iso ill protocol|.|rfc2503.txt|.|8
+institute|.|rfc2130.txt|.|8|.|rfc363.txt|.|14|.|rfc402.txt|.|15|.|rfc329.txt|.|11|.|rfc211.txt|.|11
+body part for fax|.|rfc2159.txt|.|7
+systems biology markup language|.|rfc3823.txt|.|14
+bodies november|.|rfc2045.txt|.|30
+directory information|.|rfc2425.txt|.|56|.|rfc2849.txt|.|6|.|rfc2294.txt|.|15
+singer|.|rfc5450.txt|.|11|.|rfc3839.txt|.|9|.|rfc5484.txt|.|16
+mic|.|rfc4823.txt|.|27
+vcard mime|.|rfc2426.txt|.|50
+type value|.|rfc2426.txt|.|49
+type handler|.|rfc2936.txt|.|16
+mime type handler|.|rfc2936.txt|.|16
+signed receipt|.|rfc4823.txt|.|51|.|rfc3335.txt|.|51|.|rfc4130.txt|.|58
+common format and mime|.|rfc4180.txt|.|8
+ramsdell|.|rfc3850.txt|.|20|.|rfc2633.txt|.|36
+indicating|.|rfc5451.txt|.|10|.|rfc3225.txt|.|6|.|rfc2912.txt|.|12
+multipurpose internet mail|.|rfc2049.txt|.|9|.|rfc2978.txt|.|4
+presentational information|.|rfc2183.txt|.|2
+specification june|.|rfc2633.txt|.|31
+cip mime|.|rfc2653.txt|.|1
+sip authenticated|.|rfc3893.txt|.|13
+rafferty brooktrout technology|.|rfc3250.txt|.|2
+dusse|.|rfc2311.txt|.|42
+printable|.|rfc2045.txt|.|10
+comma|.|rfc4180.txt|.|8
+hoschka standards|.|rfc3555.txt|.|45
+meer|.|rfc3640.txt|.|45
+mime type|.|rfc2927.txt|.|7|.|rfc2311.txt|.|21|.|rfc2586.txt|.|5|.|rfc4612.txt|.|6|.|rfc4180.txt|.|14|.|rfc3009.txt|.|7|.|rfc3016.txt|.|9|.|rfc3851.txt|.|19|.|rfc3839.txt|.|11|.|rfc4040.txt|.|5|.|rfc3555.txt|.|51|.|rfc4709.txt|.|10|.|rfc2633.txt|.|16|.|rfc2936.txt|.|21
+ldap schema|.|rfc2927.txt|.|14
+innosoft|.|rfc2017.txt|.|3
+addressing|.|rfc2009.txt|.|60|.|rfc5889.txt|.|12|.|rfc5375.txt|.|123|.|rfc2373.txt|.|41|.|rfc5720.txt|.|43|.|rfc3138.txt|.|5|.|rfc4984.txt|.|63|.|rfc3801.txt|.|6|.|rfc3171.txt|.|6|.|rfc3180.txt|.|6|.|rfc3513.txt|.|38|.|rfc4291.txt|.|39|.|rfc5772.txt|.|40|.|rfc2770.txt|.|7|.|rfc3804.txt|.|35|.|rfc3194.txt|.|8
+allen|.|rfc5373.txt|.|27|.|rfc2652.txt|.|26|.|rfc5857.txt|.|4
+comma separated|.|rfc4180.txt|.|3
+mime directory profile|.|rfc2927.txt|.|12
+mime part|.|rfc5703.txt|.|28
+mime security|.|rfc2480.txt|.|7
+body|.|rfc2112.txt|.|25|.|rfc3893.txt|.|29|.|rfc2045.txt|.|42|.|rfc4693.txt|.|12|.|rfc5621.txt|.|206|.|rfc2368.txt|.|14|.|rfc3875.txt|.|3|.|rfc2616.txt|.|56|.|rfc2557.txt|.|73|.|rfc2111.txt|.|21|.|rfc2159.txt|.|18|.|rfc5259.txt|.|46|.|rfc5703.txt|.|19|.|rfc2047.txt|.|15|.|rfc6152.txt|.|12|.|rfc2543.txt|.|72|.|rfc2387.txt|.|25|.|rfc2017.txt|.|4|.|rfc2161.txt|.|12|.|rfc5173.txt|.|54|.|rfc2158.txt|.|20|.|rfc3459.txt|.|69|.|rfc5272.txt|.|25|.|rfc4590.txt|.|6|.|rfc1945.txt|.|38|.|rfc2046.txt|.|101|.|rfc2183.txt|.|9|.|rfc2110.txt|.|46|.|rfc2157.txt|.|257
+sub type|.|rfc4102.txt|.|1
+directory profile|.|rfc2927.txt|.|13|.|rfc2426.txt|.|50
+directory profile for ldap|.|rfc2927.txt|.|10
+lim|.|rfc4337.txt|.|13
+mime entity|.|rfc3851.txt|.|44|.|rfc5147.txt|.|49|.|rfc3023.txt|.|45|.|rfc5751.txt|.|44
+describing media|.|rfc2533.txt|.|38|.|rfc2913.txt|.|7|.|rfc2738.txt|.|6|.|rfc2912.txt|.|9
+media feature expressions|.|rfc2913.txt|.|11
+mime december|.|rfc4723.txt|.|7
+multipurpose|.|rfc2049.txt|.|9|.|rfc2978.txt|.|4
+borenstein standards|.|rfc2045.txt|.|31|.|rfc2049.txt|.|24
+voice message|.|rfc4024.txt|.|10|.|rfc3458.txt|.|8|.|rfc3801.txt|.|33|.|rfc2423.txt|.|9|.|rfc4238.txt|.|10
+reschke informational|.|rfc4709.txt|.|15
+mime body part|.|rfc5703.txt|.|7|.|rfc2161.txt|.|5|.|rfc2159.txt|.|7|.|rfc2157.txt|.|16
+imaging|.|rfc3240.txt|.|8
+payload formats|.|rfc2736.txt|.|27|.|rfc3555.txt|.|56|.|rfc4856.txt|.|40
+cip transport protocols|.|rfc2653.txt|.|11
+line endings|.|rfc5147.txt|.|13
+aggregate documents|.|rfc2557.txt|.|34
+needleman|.|rfc2503.txt|.|8
+mounting|.|rfc4709.txt|.|16
+directory profile for ldap schema|.|rfc2927.txt|.|10
+tamura|.|rfc4612.txt|.|10
+webdav servers october|.|rfc4709.txt|.|14
+files|.|rfc5655.txt|.|171|.|rfc4047.txt|.|67|.|rfc573.txt|.|15|.|rfc448.txt|.|9|.|rfc430.txt|.|5|.|rfc2306.txt|.|46|.|rfc4180.txt|.|13|.|rfc4155.txt|.|14|.|rfc4393.txt|.|19
+position|.|rfc387.txt|.|9|.|rfc116.txt|.|4|.|rfc5147.txt|.|53|.|rfc5594.txt|.|9
+manufacturers association|.|rfc4723.txt|.|10
+allow|.|rfc2425.txt|.|15
+ill protocol|.|rfc2503.txt|.|8
+mime transport|.|rfc6152.txt|.|6
+data research|.|rfc2503.txt|.|2
+mime conformance|.|rfc2049.txt|.|29
+phones|.|rfc3839.txt|.|3
+mime security multiparts|.|rfc2480.txt|.|7
+mime types|.|rfc2077.txt|.|12|.|rfc2503.txt|.|9|.|rfc4337.txt|.|21|.|rfc4393.txt|.|5
+subtype|.|rfc5584.txt|.|22|.|rfc5688.txt|.|14|.|rfc3555.txt|.|46|.|rfc4288.txt|.|23|.|rfc5792.txt|.|46
+parameter|.|rfc2426.txt|.|54|.|rfc5561.txt|.|25|.|rfc4362.txt|.|13|.|rfc3969.txt|.|40|.|rfc4405.txt|.|37|.|rfc4820.txt|.|34|.|rfc2184.txt|.|52|.|rfc6184.txt|.|332|.|rfc3435.txt|.|300|.|rfc5061.txt|.|108|.|rfc6236.txt|.|23|.|rfc3991.txt|.|53|.|rfc5505.txt|.|9|.|rfc4323.txt|.|138|.|rfc4460.txt|.|185|.|rfc5287.txt|.|32|.|rfc3968.txt|.|48|.|rfc2231.txt|.|43|.|rfc4540.txt|.|131|.|rfc5341.txt|.|27|.|rfc5354.txt|.|145|.|rfc2646.txt|.|21|.|rfc4895.txt|.|69|.|rfc3984.txt|.|187|.|rfc2628.txt|.|68|.|rfc4967.txt|.|20|.|rfc6190.txt|.|216|.|rfc5614.txt|.|9|.|rfc3640.txt|.|60|.|rfc5492.txt|.|26|.|rfc5627.txt|.|59|.|rfc4759.txt|.|29|.|rfc4357.txt|.|27|.|rfc5976.txt|.|40|.|rfc3461.txt|.|101|.|rfc5342.txt|.|10|.|rfc4281.txt|.|44|.|rfc3242.txt|.|13|.|rfc2215.txt|.|120|.|rfc6090.txt|.|18|.|rfc2051.txt|.|36|.|rfc4715.txt|.|53|.|rfc5975.txt|.|202|.|rfc6220.txt|.|43
+bdat command|.|rfc3030.txt|.|13
+webdav servers|.|rfc4709.txt|.|18
+mime message|.|rfc3030.txt|.|7
+conversion|.|rfc5259.txt|.|120|.|rfc2160.txt|.|10|.|rfc5493.txt|.|34|.|rfc6.txt|.|6|.|rfc401.txt|.|4|.|rfc4141.txt|.|89
+creation date|.|rfc2183.txt|.|1
+message specification|.|rfc5751.txt|.|52
+manufacturers|.|rfc4723.txt|.|10
+separated|.|rfc4180.txt|.|4
+http mime|.|rfc2936.txt|.|13
+separated values|.|rfc4180.txt|.|2
+csv files|.|rfc4180.txt|.|13
+kosonen|.|rfc4723.txt|.|12
+formats july|.|rfc3555.txt|.|44
+rafferty|.|rfc2306.txt|.|28|.|rfc3250.txt|.|5
+feature expressions|.|rfc2913.txt|.|13
+parsons|.|rfc4024.txt|.|15|.|rfc3803.txt|.|5|.|rfc3802.txt|.|6|.|rfc2424.txt|.|7|.|rfc2422.txt|.|11|.|rfc2423.txt|.|11

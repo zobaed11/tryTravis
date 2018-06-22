@@ -1,0 +1,64 @@
+leader|.|bbc_politics_013.txt|.|5|.|bbc_politics_408.txt|.|3|.|bbc_politics_126.txt|.|3|.|bbc_politics_303.txt|.|2|.|bbc_politics_089.txt|.|3|.|bbc_politics_022.txt|.|1|.|bbc_politics_364.txt|.|3|.|bbc_politics_371.txt|.|2|.|bbc_politics_120.txt|.|3|.|bbc_politics_074.txt|.|2|.|bbc_politics_271.txt|.|4|.|bbc_politics_289.txt|.|4|.|bbc_politics_316.txt|.|2|.|bbc_politics_262.txt|.|3|.|bbc_politics_095.txt|.|2|.|bbc_politics_045.txt|.|2|.|bbc_politics_292.txt|.|4|.|bbc_politics_149.txt|.|2|.|bbc_politics_348.txt|.|1|.|bbc_politics_201.txt|.|2|.|bbc_politics_320.txt|.|3|.|bbc_politics_335.txt|.|3
+backed stem|.|bbc_politics_086.txt|.|1
+battalion royal|.|bbc_politics_208.txt|.|2
+backed stem cell research|.|bbc_politics_086.txt|.|1
+peter hain|.|bbc_politics_408.txt|.|2
+snooker|.|bbc_politics_190.txt|.|6
+stem cell research|.|bbc_politics_086.txt|.|3
+restraining order|.|bbc_entertainment_327.txt|.|2
+character|.|bbc_politics_367.txt|.|2|.|bbc_politics_110.txt|.|2
+conservatives|.|bbc_politics_212.txt|.|1|.|bbc_politics_329.txt|.|1|.|bbc_politics_304.txt|.|2|.|bbc_politics_411.txt|.|1|.|bbc_politics_371.txt|.|2|.|bbc_politics_415.txt|.|2
+european parliament|.|bbc_tech_330.txt|.|3|.|bbc_tech_014.txt|.|3
+howard backs stem|.|bbc_politics_086.txt|.|1
+firm by a chinese|.|bbc_business_034.txt|.|1
+robert jackson|.|bbc_politics_270.txt|.|4
+play truant|.|bbc_politics_190.txt|.|1
+make a personal|.|bbc_politics_120.txt|.|1
+evening standard|.|bbc_entertainment_034.txt|.|3|.|bbc_politics_075.txt|.|2|.|bbc_politics_186.txt|.|2
+mr howard|.|bbc_politics_013.txt|.|7|.|bbc_politics_408.txt|.|5|.|bbc_politics_331.txt|.|6|.|bbc_politics_212.txt|.|2|.|bbc_politics_120.txt|.|3|.|bbc_politics_096.txt|.|6|.|bbc_politics_087.txt|.|6|.|bbc_politics_329.txt|.|2|.|bbc_politics_316.txt|.|2|.|bbc_politics_106.txt|.|4|.|bbc_politics_270.txt|.|6|.|bbc_politics_411.txt|.|3|.|bbc_politics_034.txt|.|4|.|bbc_politics_201.txt|.|2|.|bbc_politics_190.txt|.|4|.|bbc_politics_110.txt|.|2
+police authorities|.|bbc_politics_347.txt|.|4
+fiat will meet|.|bbc_business_359.txt|.|1
+package|.|bbc_business_263.txt|.|2
+forgotten majority|.|bbc_politics_159.txt|.|2
+howard has denied|.|bbc_politics_300.txt|.|1|.|bbc_politics_141.txt|.|1
+scholes|.|bbc_sport_240.txt|.|4
+shadow cabinet|.|bbc_politics_300.txt|.|3|.|bbc_politics_141.txt|.|3
+hard working|.|bbc_politics_364.txt|.|1
+truanted|.|bbc_politics_190.txt|.|1
+britons|.|bbc_tech_021.txt|.|2|.|bbc_entertainment_290.txt|.|2|.|bbc_tech_328.txt|.|2
+heading in the wrong|.|bbc_politics_367.txt|.|1|.|bbc_politics_110.txt|.|1
+cut the number|.|bbc_politics_096.txt|.|2
+michael howard|.|bbc_politics_374.txt|.|2|.|bbc_politics_408.txt|.|3|.|bbc_politics_081.txt|.|2|.|bbc_politics_225.txt|.|2|.|bbc_politics_299.txt|.|2|.|bbc_politics_347.txt|.|1|.|bbc_politics_416.txt|.|2|.|bbc_politics_122.txt|.|2|.|bbc_politics_367.txt|.|3|.|bbc_politics_271.txt|.|1|.|bbc_politics_300.txt|.|2|.|bbc_politics_141.txt|.|2|.|bbc_politics_316.txt|.|3|.|bbc_politics_106.txt|.|1|.|bbc_politics_411.txt|.|2|.|bbc_politics_110.txt|.|3
+shanghai automotive|.|bbc_business_212.txt|.|2
+advisers|.|bbc_politics_096.txt|.|2
+howard told|.|bbc_politics_096.txt|.|2
+tackle|.|bbc_politics_367.txt|.|3|.|bbc_entertainment_289.txt|.|2|.|bbc_politics_110.txt|.|3
+lasting|.|bbc_politics_190.txt|.|2
+truant|.|bbc_politics_190.txt|.|1
+participation|.|bbc_politics_246.txt|.|3|.|bbc_sport_002.txt|.|1
+damage|.|bbc_business_471.txt|.|4|.|bbc_business_353.txt|.|6|.|bbc_politics_190.txt|.|2
+cell research|.|bbc_politics_086.txt|.|3
+howard backs|.|bbc_politics_086.txt|.|1
+lord rennard|.|bbc_politics_416.txt|.|2
+howard|.|bbc_politics_374.txt|.|3|.|bbc_politics_013.txt|.|10|.|bbc_politics_086.txt|.|5|.|bbc_politics_408.txt|.|9|.|bbc_politics_081.txt|.|2|.|bbc_politics_344.txt|.|5|.|bbc_politics_331.txt|.|8|.|bbc_politics_212.txt|.|4|.|bbc_politics_225.txt|.|2|.|bbc_politics_277.txt|.|5|.|bbc_politics_299.txt|.|2|.|bbc_politics_416.txt|.|2|.|bbc_politics_087.txt|.|8|.|bbc_politics_399.txt|.|6|.|bbc_politics_326.txt|.|2|.|bbc_politics_246.txt|.|2|.|bbc_politics_300.txt|.|6|.|bbc_politics_141.txt|.|6|.|bbc_politics_106.txt|.|6|.|bbc_politics_411.txt|.|6|.|bbc_politics_034.txt|.|5|.|bbc_politics_110.txt|.|6|.|bbc_politics_011.txt|.|5|.|bbc_politics_275.txt|.|6|.|bbc_politics_347.txt|.|3|.|bbc_politics_364.txt|.|5|.|bbc_politics_405.txt|.|5|.|bbc_politics_371.txt|.|6|.|bbc_politics_070.txt|.|3|.|bbc_politics_120.txt|.|4|.|bbc_politics_122.txt|.|5|.|bbc_politics_096.txt|.|7|.|bbc_sport_240.txt|.|4|.|bbc_politics_367.txt|.|6|.|bbc_politics_278.txt|.|2|.|bbc_politics_271.txt|.|6|.|bbc_politics_329.txt|.|4|.|bbc_politics_159.txt|.|7|.|bbc_entertainment_098.txt|.|2|.|bbc_politics_316.txt|.|5|.|bbc_politics_262.txt|.|3|.|bbc_politics_270.txt|.|6|.|bbc_politics_201.txt|.|4|.|bbc_politics_190.txt|.|6
+top tories|.|bbc_politics_416.txt|.|2
+facing britain|.|bbc_politics_367.txt|.|2|.|bbc_politics_110.txt|.|2
+jewish beliefs|.|bbc_politics_316.txt|.|2
+howard will make|.|bbc_politics_371.txt|.|1
+tory plans|.|bbc_politics_087.txt|.|2|.|bbc_politics_275.txt|.|2
+police said|.|bbc_politics_300.txt|.|1|.|bbc_politics_141.txt|.|1
+backed stem cell|.|bbc_politics_086.txt|.|1
+peter|.|bbc_politics_408.txt|.|2|.|bbc_politics_411.txt|.|2
+who feel|.|bbc_politics_371.txt|.|2
+cut the number of mps|.|bbc_politics_096.txt|.|1
+introduce|.|bbc_politics_081.txt|.|3|.|bbc_politics_299.txt|.|3
+special advisers|.|bbc_politics_096.txt|.|2
+burglars|.|bbc_politics_034.txt|.|4
+constables|.|bbc_politics_347.txt|.|3
+hole|.|bbc_politics_364.txt|.|2
+llanelli|.|bbc_politics_190.txt|.|3
+sandra|.|bbc_politics_011.txt|.|2
+news conference|.|bbc_politics_011.txt|.|2
+uganda|.|bbc_entertainment_010.txt|.|3
+stevens|.|bbc_politics_034.txt|.|2|.|bbc_sport_334.txt|.|5
+foot and mouth|.|bbc_politics_203.txt|.|4

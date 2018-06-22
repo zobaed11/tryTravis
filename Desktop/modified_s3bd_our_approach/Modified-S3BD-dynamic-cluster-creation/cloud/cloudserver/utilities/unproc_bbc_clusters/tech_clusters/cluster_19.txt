@@ -1,0 +1,91 @@
+19
+play|.|bbc_tech_348.txt|.|2|.|bbc_tech_283.txt|.|4|.|bbc_tech_247.txt|.|3|.|bbc_tech_311.txt|.|8|.|bbc_tech_095.txt|.|8|.|bbc_tech_256.txt|.|2|.|bbc_tech_121.txt|.|2|.|bbc_tech_154.txt|.|1|.|bbc_tech_157.txt|.|4
+game firm|.|bbc_tech_024.txt|.|2
+auto|.|bbc_tech_130.txt|.|2|.|bbc_tech_178.txt|.|2
+figures suggest|.|bbc_tech_130.txt|.|1|.|bbc_tech_178.txt|.|1
+uk gamers|.|bbc_tech_140.txt|.|2
+mobile games|.|bbc_tech_311.txt|.|4|.|bbc_tech_095.txt|.|4
+buy|.|bbc_tech_348.txt|.|2
+shooting|.|bbc_tech_245.txt|.|1
+sports interactive|.|bbc_tech_144.txt|.|2
+mobile operators|.|bbc_tech_311.txt|.|1|.|bbc_tech_095.txt|.|1
+bit|.|bbc_tech_311.txt|.|4|.|bbc_tech_095.txt|.|4
+sales have tripled|.|bbc_tech_130.txt|.|1
+accounts valve|.|bbc_tech_195.txt|.|1
+cast|.|bbc_tech_024.txt|.|2
+portable playstation|.|bbc_tech_112.txt|.|1
+measures|.|bbc_tech_154.txt|.|1
+cm game|.|bbc_tech_144.txt|.|2
+than|.|bbc_tech_061.txt|.|3|.|bbc_tech_311.txt|.|5|.|bbc_tech_205.txt|.|3|.|bbc_tech_095.txt|.|5|.|bbc_tech_321.txt|.|3|.|bbc_tech_023.txt|.|4
+affair|.|bbc_tech_266.txt|.|2
+sands of time|.|bbc_tech_218.txt|.|2
+details|.|bbc_tech_018.txt|.|3|.|bbc_tech_052.txt|.|3|.|bbc_tech_190.txt|.|3
+sequel|.|bbc_tech_266.txt|.|2|.|bbc_tech_139.txt|.|5
+slug|.|bbc_tech_233.txt|.|4|.|bbc_tech_169.txt|.|4
+possibly|.|bbc_tech_154.txt|.|2
+officially|.|bbc_tech_253.txt|.|2|.|bbc_tech_195.txt|.|2
+game playing|.|bbc_tech_311.txt|.|1|.|bbc_tech_095.txt|.|1
+obtained illegally|.|bbc_tech_195.txt|.|1
+films|.|bbc_tech_306.txt|.|2|.|bbc_tech_013.txt|.|8|.|bbc_tech_255.txt|.|2|.|bbc_tech_279.txt|.|1|.|bbc_tech_302.txt|.|1|.|bbc_tech_276.txt|.|1
+sell around five million|.|bbc_tech_160.txt|.|1
+chaos|.|bbc_tech_245.txt|.|2
+james bond|.|bbc_tech_245.txt|.|2
+ultimate|.|bbc_tech_126.txt|.|2|.|bbc_tech_171.txt|.|2
+metal|.|bbc_tech_233.txt|.|4|.|bbc_tech_169.txt|.|4
+painkiller game|.|bbc_tech_140.txt|.|2
+jedi|.|bbc_tech_125.txt|.|1
+game animals|.|bbc_tech_202.txt|.|3
+take part|.|bbc_tech_140.txt|.|1
+science|.|bbc_tech_139.txt|.|2
+halo fans|.|bbc_tech_139.txt|.|2
+shooter|.|bbc_tech_126.txt|.|2|.|bbc_tech_171.txt|.|2
+obtained|.|bbc_tech_195.txt|.|1
+valve|.|bbc_tech_195.txt|.|7
+game makers|.|bbc_tech_348.txt|.|3|.|bbc_tech_195.txt|.|3
+auditions|.|bbc_tech_024.txt|.|2
+travel expenses|.|bbc_tech_140.txt|.|1
+game|.|bbc_tech_024.txt|.|6|.|bbc_tech_126.txt|.|6|.|bbc_tech_283.txt|.|8|.|bbc_tech_325.txt|.|3|.|bbc_tech_245.txt|.|8|.|bbc_tech_266.txt|.|9|.|bbc_tech_139.txt|.|13|.|bbc_tech_202.txt|.|3|.|bbc_tech_130.txt|.|3|.|bbc_tech_178.txt|.|3|.|bbc_tech_160.txt|.|6|.|bbc_tech_046.txt|.|2|.|bbc_tech_195.txt|.|17|.|bbc_tech_169.txt|.|3|.|bbc_tech_114.txt|.|2|.|bbc_tech_348.txt|.|5|.|bbc_tech_144.txt|.|11|.|bbc_tech_082.txt|.|2|.|bbc_tech_233.txt|.|3|.|bbc_tech_140.txt|.|6|.|bbc_tech_276.txt|.|7|.|bbc_tech_095.txt|.|11|.|bbc_tech_005.txt|.|6|.|bbc_tech_052.txt|.|2|.|bbc_tech_154.txt|.|8|.|bbc_tech_171.txt|.|6|.|bbc_tech_311.txt|.|11|.|bbc_tech_125.txt|.|5|.|bbc_tech_057.txt|.|7|.|bbc_tech_218.txt|.|4|.|bbc_tech_112.txt|.|2
+figures|.|bbc_tech_203.txt|.|3|.|bbc_tech_130.txt|.|3|.|bbc_tech_178.txt|.|3
+gaming gadget|.|bbc_tech_363.txt|.|2
+football manager|.|bbc_tech_144.txt|.|5
+ultimate game|.|bbc_tech_126.txt|.|2|.|bbc_tech_171.txt|.|2
+extras|.|bbc_tech_348.txt|.|2
+vehicles|.|bbc_tech_229.txt|.|9
+places to four|.|bbc_tech_112.txt|.|1
+low cost|.|bbc_tech_300.txt|.|1
+life|.|bbc_tech_367.txt|.|5|.|bbc_tech_047.txt|.|2|.|bbc_tech_327.txt|.|2|.|bbc_tech_184.txt|.|3|.|bbc_tech_244.txt|.|1|.|bbc_tech_115.txt|.|5
+xbox live|.|bbc_tech_160.txt|.|2
+science fiction|.|bbc_tech_139.txt|.|2
+audio|.|bbc_tech_325.txt|.|8|.|bbc_tech_110.txt|.|5
+consumer technology|.|bbc_tech_193.txt|.|2|.|bbc_tech_296.txt|.|2
+search site|.|bbc_tech_053.txt|.|2
+desktop search|.|bbc_tech_108.txt|.|6|.|bbc_tech_269.txt|.|5|.|bbc_tech_237.txt|.|5
+live|.|bbc_tech_154.txt|.|2|.|bbc_tech_160.txt|.|2
+fails|.|bbc_tech_245.txt|.|2
+monday|.|bbc_tech_311.txt|.|2
+games awards|.|bbc_tech_126.txt|.|1|.|bbc_tech_171.txt|.|1
+gritty|.|bbc_tech_218.txt|.|2
+knights|.|bbc_tech_125.txt|.|1
+handsets than own|.|bbc_tech_311.txt|.|1|.|bbc_tech_095.txt|.|1
+follow on monday|.|bbc_tech_311.txt|.|2
+visuals|.|bbc_tech_233.txt|.|1|.|bbc_tech_169.txt|.|1
+sports|.|bbc_tech_144.txt|.|2|.|bbc_tech_056.txt|.|7|.|bbc_tech_028.txt|.|5
+manager|.|bbc_tech_144.txt|.|7
+sells|.|bbc_tech_160.txt|.|1|.|bbc_tech_238.txt|.|1
+illegally|.|bbc_tech_195.txt|.|2
+retro|.|bbc_tech_233.txt|.|2|.|bbc_tech_169.txt|.|2
+gran|.|bbc_tech_112.txt|.|2
+bafta awards|.|bbc_tech_057.txt|.|2
+officially released|.|bbc_tech_195.txt|.|2
+cm|.|bbc_tech_144.txt|.|7
+football|.|bbc_tech_144.txt|.|8
+sands|.|bbc_tech_218.txt|.|2
+bond|.|bbc_tech_245.txt|.|8
+persia|.|bbc_tech_218.txt|.|3
+fans|.|bbc_tech_144.txt|.|3|.|bbc_tech_245.txt|.|2|.|bbc_tech_266.txt|.|2|.|bbc_tech_093.txt|.|2|.|bbc_tech_139.txt|.|3
+places|.|bbc_tech_112.txt|.|1
+bond game|.|bbc_tech_245.txt|.|1
+awards|.|bbc_tech_126.txt|.|4|.|bbc_tech_057.txt|.|6|.|bbc_tech_111.txt|.|4|.|bbc_tech_088.txt|.|2|.|bbc_tech_171.txt|.|4
+holds|.|bbc_tech_024.txt|.|1
+accounts|.|bbc_tech_133.txt|.|1|.|bbc_tech_164.txt|.|4|.|bbc_tech_195.txt|.|6|.|bbc_tech_180.txt|.|1
+blinx|.|bbc_tech_266.txt|.|4

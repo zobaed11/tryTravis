@@ -1,0 +1,17 @@
+53
+educational|.|071.txt|.|4
+traders|.|194.txt|.|3
+piracy|.|083.txt|.|3|.|326.txt|.|1|.|195.txt|.|3|.|043.txt|.|1|.|308.txt|.|3
+operating system|.|083.txt|.|3|.|194.txt|.|2|.|259.txt|.|1|.|308.txt|.|3
+cebit|.|395.txt|.|5|.|347.txt|.|9
+mr owen|.|071.txt|.|4
+updates|.|083.txt|.|3|.|308.txt|.|3
+gates|.|134.txt|.|7
+running pirated|.|083.txt|.|2|.|308.txt|.|2
+film classification|.|231.txt|.|2
+responsible|.|370.txt|.|4
+medal|.|288.txt|.|3
+genuine|.|083.txt|.|3|.|308.txt|.|3
+operating|.|083.txt|.|3|.|194.txt|.|2|.|259.txt|.|2|.|308.txt|.|3
+gameplay|.|125.txt|.|2|.|135.txt|.|3
+rifle|.|202.txt|.|6

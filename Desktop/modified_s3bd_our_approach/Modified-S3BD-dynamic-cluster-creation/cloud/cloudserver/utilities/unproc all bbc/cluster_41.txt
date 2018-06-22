@@ -1,0 +1,64 @@
+exporting|.|bbc_business_427.txt|.|1
+xiluodu|.|bbc_business_282.txt|.|3
+pioneer|.|bbc_business_250.txt|.|1
+news site|.|bbc_tech_186.txt|.|2
+big four|.|bbc_business_498.txt|.|2
+chinese|.|bbc_business_250.txt|.|2|.|bbc_tech_074.txt|.|7|.|bbc_business_039.txt|.|4|.|bbc_tech_186.txt|.|4|.|bbc_business_212.txt|.|4|.|bbc_tech_002.txt|.|6|.|bbc_business_208.txt|.|2|.|bbc_business_338.txt|.|4|.|bbc_sport_400.txt|.|2|.|bbc_business_034.txt|.|3
+fifa|.|bbc_sport_271.txt|.|4
+peg|.|bbc_business_016.txt|.|1
+aviation oil|.|bbc_business_499.txt|.|3
+accounted|.|bbc_business_505.txt|.|2
+continue|.|bbc_business_218.txt|.|1|.|bbc_business_016.txt|.|1
+supplier|.|bbc_business_499.txt|.|2
+upper yangtze|.|bbc_business_472.txt|.|2
+gorges project|.|bbc_business_282.txt|.|3
+exporters|.|bbc_business_427.txt|.|1
+gorges dam|.|bbc_business_472.txt|.|3|.|bbc_business_282.txt|.|2|.|bbc_business_174.txt|.|3
+bank of china|.|bbc_business_498.txt|.|6
+yangtze|.|bbc_business_472.txt|.|5|.|bbc_business_174.txt|.|4
+saronno|.|bbc_business_039.txt|.|2
+stations|.|bbc_business_472.txt|.|2|.|bbc_entertainment_166.txt|.|1|.|bbc_tech_230.txt|.|2|.|bbc_entertainment_218.txt|.|6
+list|.|bbc_politics_325.txt|.|4|.|bbc_entertainment_162.txt|.|3|.|bbc_entertainment_346.txt|.|8|.|bbc_tech_045.txt|.|4|.|bbc_tech_341.txt|.|4|.|bbc_business_498.txt|.|3|.|bbc_entertainment_250.txt|.|3
+japanese trade|.|bbc_business_505.txt|.|1
+pioneer ibm|.|bbc_business_250.txt|.|1
+china daily|.|bbc_business_437.txt|.|4
+four banks|.|bbc_business_498.txt|.|2
+arms embargo|.|bbc_politics_386.txt|.|3
+ministry of commerce|.|bbc_business_427.txt|.|2
+china three gorges|.|bbc_business_282.txt|.|2
+illva saronno|.|bbc_business_039.txt|.|2
+ordered a halt|.|bbc_business_472.txt|.|2
+china aviation oil|.|bbc_business_499.txt|.|3
+google news site|.|bbc_tech_186.txt|.|1
+new tobacco factories|.|bbc_business_437.txt|.|3
+trading partner|.|bbc_business_505.txt|.|2
+faster than|.|bbc_tech_205.txt|.|2|.|bbc_business_493.txt|.|2|.|bbc_business_156.txt|.|2|.|bbc_business_286.txt|.|2|.|bbc_tech_023.txt|.|2
+google news|.|bbc_tech_186.txt|.|5
+organisation and lower trade|.|bbc_business_505.txt|.|1
+factories|.|bbc_business_442.txt|.|2|.|bbc_business_437.txt|.|5
+beijing|.|bbc_business_461.txt|.|3|.|bbc_business_282.txt|.|3|.|bbc_business_342.txt|.|2
+project corp|.|bbc_business_282.txt|.|2
+chavez|.|bbc_business_340.txt|.|3|.|bbc_business_029.txt|.|2
+listing|.|bbc_business_269.txt|.|6|.|bbc_business_267.txt|.|1|.|bbc_business_271.txt|.|6|.|bbc_business_365.txt|.|1
+receive|.|bbc_business_077.txt|.|1|.|bbc_politics_061.txt|.|2|.|bbc_politics_322.txt|.|1
+cigarette|.|bbc_business_437.txt|.|3
+paper said chinese|.|bbc_business_212.txt|.|1
+china aviation|.|bbc_business_499.txt|.|4
+chinese wine|.|bbc_business_039.txt|.|3
+blocks|.|bbc_tech_186.txt|.|1
+honda|.|bbc_business_342.txt|.|3
+thursday|.|bbc_sport_264.txt|.|2|.|bbc_entertainment_099.txt|.|2|.|bbc_politics_200.txt|.|2|.|bbc_entertainment_301.txt|.|2|.|bbc_business_008.txt|.|2
+new media|.|bbc_tech_384.txt|.|3
+kept|.|bbc_business_016.txt|.|2|.|bbc_sport_139.txt|.|2
+illva|.|bbc_business_039.txt|.|4
+halt|.|bbc_business_472.txt|.|2
+editions|.|bbc_tech_186.txt|.|1
+property rights|.|bbc_business_342.txt|.|2
+profits jump|.|bbc_business_396.txt|.|1
+china|.|bbc_business_256.txt|.|2|.|bbc_business_340.txt|.|8|.|bbc_business_472.txt|.|7|.|bbc_tech_186.txt|.|8|.|bbc_business_396.txt|.|2|.|bbc_business_269.txt|.|11|.|bbc_business_493.txt|.|4|.|bbc_business_499.txt|.|5|.|bbc_politics_386.txt|.|9|.|bbc_sport_132.txt|.|5|.|bbc_business_039.txt|.|3|.|bbc_business_282.txt|.|3|.|bbc_business_212.txt|.|1|.|bbc_business_437.txt|.|12|.|bbc_business_505.txt|.|7|.|bbc_business_371.txt|.|2|.|bbc_business_498.txt|.|13|.|bbc_business_286.txt|.|4|.|bbc_business_016.txt|.|3|.|bbc_business_250.txt|.|4|.|bbc_business_077.txt|.|3|.|bbc_tech_384.txt|.|8|.|bbc_business_427.txt|.|4|.|bbc_business_342.txt|.|6|.|bbc_politics_058.txt|.|6
+exporters totalling|.|bbc_business_427.txt|.|1
+british american|.|bbc_business_437.txt|.|2
+foreign cigarette|.|bbc_business_437.txt|.|2
+archer|.|bbc_politics_296.txt|.|7
+junk|.|bbc_tech_055.txt|.|2|.|bbc_tech_026.txt|.|10|.|bbc_tech_390.txt|.|2|.|bbc_tech_314.txt|.|2
+embargo|.|bbc_politics_386.txt|.|10|.|bbc_politics_058.txt|.|4

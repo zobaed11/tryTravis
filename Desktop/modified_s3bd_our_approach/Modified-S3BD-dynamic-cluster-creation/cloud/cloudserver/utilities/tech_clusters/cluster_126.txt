@@ -1,0 +1,17 @@
+126
+termination|.|180.txt|.|3|.|133.txt|.|3
+sue|.|241.txt|.|2
+who run|.|241.txt|.|2
+manager|.|144.txt|.|7
+wrongful termination|.|180.txt|.|2|.|133.txt|.|2
+ms|.|180.txt|.|7|.|102.txt|.|10|.|133.txt|.|7
+programmer|.|399.txt|.|2
+movie industry|.|241.txt|.|2
+spokesperson|.|180.txt|.|3|.|133.txt|.|3
+new products|.|259.txt|.|2
+bankruptcy|.|390.txt|.|2
+legal fight|.|390.txt|.|1|.|355.txt|.|2
+attorney|.|273.txt|.|3
+legal|.|030.txt|.|3|.|286.txt|.|4|.|156.txt|.|6|.|355.txt|.|3|.|391.txt|.|4|.|273.txt|.|2|.|044.txt|.|2|.|079.txt|.|2|.|373.txt|.|2|.|241.txt|.|2|.|399.txt|.|7|.|133.txt|.|3|.|293.txt|.|6|.|180.txt|.|3|.|390.txt|.|5|.|324.txt|.|2|.|259.txt|.|4|.|255.txt|.|4
+thompson|.|358.txt|.|2|.|198.txt|.|2|.|307.txt|.|2|.|184.txt|.|2|.|164.txt|.|2|.|187.txt|.|2|.|399.txt|.|2
+swap pirated|.|156.txt|.|2|.|293.txt|.|2

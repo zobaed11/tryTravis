@@ -1,0 +1,17 @@
+75
+evil twin|.|073.txt|.|3
+mobile gaming|.|192.txt|.|5|.|185.txt|.|2|.|153.txt|.|2
+including firefox|.|196.txt|.|2
+dr|.|366.txt|.|8|.|329.txt|.|6|.|168.txt|.|9|.|019.txt|.|6|.|212.txt|.|6|.|225.txt|.|6
+market|.|192.txt|.|7|.|185.txt|.|5|.|196.txt|.|5|.|153.txt|.|5|.|351.txt|.|2|.|332.txt|.|6|.|183.txt|.|6|.|040.txt|.|6
+battle|.|288.txt|.|2
+mobile gaming market|.|192.txt|.|2
+ultraviolet|.|001.txt|.|3
+mozilla browsers|.|196.txt|.|2
+market share|.|196.txt|.|2
+surfers|.|196.txt|.|2|.|261.txt|.|3
+warning|.|039.txt|.|2|.|086.txt|.|1|.|334.txt|.|2
+france|.|371.txt|.|6
+share|.|196.txt|.|3
+lower your blood cholesterol|.|blood.txt|.|2
+wireless network|.|107.txt|.|2
